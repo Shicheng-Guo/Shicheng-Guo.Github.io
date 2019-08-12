@@ -87,7 +87,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : shichengResearch
+      short_name : shihchenguo
     livefyre :
       site_id : 123
     intensedebate :
@@ -109,7 +109,7 @@ JB :
     gauges :
         site_id : 'SITE ID'
     google :
-        tracking_id : 'UA-86119417-1'
+        tracking_id : 'UA-816119417-1'
     getclicky :
       site_id :
     mixpanel :
