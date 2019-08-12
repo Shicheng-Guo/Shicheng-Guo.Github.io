@@ -30,6 +30,7 @@ This blog will showcase some of the analyses I have been doing with different da
 - [Twitter](https://twitter.com/ShichengGuo)
 - [Researchgate](https://www.researchgate.net/profile/Shicheng_Guo)
 - [GoogleScholar](https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en)
+
 -----
 
 Also check out [R-bloggers](http://www.R-bloggers.com) for lots of cool R stuff!
