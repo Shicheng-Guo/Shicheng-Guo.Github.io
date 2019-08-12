@@ -6,6 +6,7 @@ date: 2019-08-12
 categories: flexdashboard
 tags: lncRNA epigenetics immnue response network
 image: "/images/LLDT-8-lncRNA-SR.jpg"
+
 ---
 
 I have written the following post about [Predictive Maintenance and flexdashboard](https://blog.codecentric.de/en/2017/11/explore-predictive-maintenance-flexdashboard/) at my company [codecentric](https://blog.codecentric.de/en/)'s blog:
@@ -19,6 +20,6 @@ A common use-case for Predictive Maintenance is to proactively monitor machines,
 
 > ...
 
-Continue reading at https://blog.codecentric.de/en/2017/11/explore-predictive-maintenance-flexdashboard/
+Continue reading at https://www.nature.com/articles/s41598-019-47411-1
 
 ![](https://blog.codecentric.de/files/2017/10/dashboard_screenshot.png)
