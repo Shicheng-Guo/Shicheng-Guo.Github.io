@@ -5,7 +5,7 @@ author: Shicheng Guo
 date: 2019-08-01
 categories: flexdashboard
 tags: lncRNA epigenetics immnue response network
-image: images/LLDT-8-lncRNA-SR.jpg
+image: images/LLDT8-lncRNA-Nature-ScientificReports-Shicheng-Guo.png
 
 ---
 
