@@ -10,7 +10,6 @@ syntax_highlighter_opts:
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
-#
 title : Shicheng's Research
 tagline: exploring and playing with data in R
 author :
@@ -24,11 +23,9 @@ avatar: https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.github.io/ma
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
-#
 # If you have set a CNAME (pages.github.com) set your custom domain here.
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
 production_url : https://Shicheng-Guo.github.io
 
 gems:
