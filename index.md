@@ -2,7 +2,6 @@
 
 layout: page
 title: Shicheng Guo
-author_profile: true
 tagline: Genetic and Epigenetic Research to Human Complex Diseases
 image: images/black-hole-bin_1024.jpg
 
