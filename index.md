@@ -7,9 +7,7 @@ image: images/black-hole-bin_1024.jpg
 ---
 {% include JB/setup %}
 
-![]({{ site.url }}/images/black-hole-bin_1024.jpg)
-![]({{ site.url }}/assets/images/black-hole-bin_1024.jpg)
-
+![]({{ site.url }}/images/what-is-precision-medicine.png)
 
 <ul class="posts">
     {% for post in site.posts %}
