@@ -2,8 +2,6 @@
 layout: page
 title: Shicheng Guo
 tagline: Genetic and Epigenetic Research to Human Complex Diseases
-image: images/black-hole-bin_1024.jpg
-
 ---
 {% include JB/setup %}
 
