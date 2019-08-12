@@ -9,7 +9,7 @@ image: "/images/LLDT-8-lncRNA-SR.jpg"
 
 ---
 
-My recent work of effects of (5R)-5-Hydroxytriptolide to epigenetic changes of LFS from RA was accepted by Scientfic Reports
+Recently, our project collaborated with Dr. Dongyi He in effects of (5R)-5-Hydroxytriptolide to epigenetic changes of LFS from RA was accepted by Scientfic Reports
 
 I have written the following post about [Predictive Maintenance and flexdashboard](https://blog.codecentric.de/en/2017/11/explore-predictive-maintenance-flexdashboard/) at my company [codecentric](https://blog.codecentric.de/en/)'s blog:
 
