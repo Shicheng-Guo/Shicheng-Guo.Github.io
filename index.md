@@ -5,7 +5,6 @@ tagline: Genetic and Epigenetic Research to Human Complex Diseases
 ---
 {% include JB/setup %}
 
-
 <ul class="posts">
     {% for post in site.posts %}
       <li>
@@ -60,7 +59,6 @@ tagline: Genetic and Epigenetic Research to Human Complex Diseases
     </div>
   </div>
 </div>
-
 
 -----
 
