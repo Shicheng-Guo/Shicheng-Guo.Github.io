@@ -9,6 +9,8 @@ image: "/images/LLDT-8-lncRNA-SR.jpg"
 
 ---
 
+My recent work of effects of (5R)-5-Hydroxytriptolide to epigenetic changes of LFS from RA was accepted by Scientfic Reports
+
 I have written the following post about [Predictive Maintenance and flexdashboard](https://blog.codecentric.de/en/2017/11/explore-predictive-maintenance-flexdashboard/) at my company [codecentric](https://blog.codecentric.de/en/)'s blog:
 
 > Predictive Maintenance is an increasingly popular strategy associated with Industry 4.0; it uses advanced analytics and machine learning to optimize machine costs and output (see Google Trends plot below).
