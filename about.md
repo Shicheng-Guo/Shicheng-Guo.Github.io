@@ -7,7 +7,7 @@ group: navigation
 
 **Welcome to my page!**
 
-![]({{ site.url }}/assets/images/Bewerbungsfoto.jpg){:style="float: left;margin-right: 7px;margin-top: 7px; margin-bottom: 7px; margin-left: 7px; width: 200px"}
+![]({{ site.url }}/assets/images/Dr.Shicheng.Guo.jpg){:style="float: left;margin-right: 7px;margin-top: 7px; margin-bottom: 7px; margin-left: 7px; width: 200px"}
 
 I'm Shicheng, a biologist turned bioinformatician turned data scientist. 
 
