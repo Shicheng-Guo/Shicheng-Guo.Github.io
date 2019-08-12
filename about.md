@@ -15,6 +15,7 @@ I'm especially interested in machine learning and data visualization. While I am
 
 My tool of choice for data analysis so far has been R. I also organize the . 
 
+
 I love dancing and used to do competitive ballroom and latin dancing. Even though I don't have time for that anymore, I still enjoy teaching "social dances" once a week with the Hochschulsport (university sports courses).
 
 I created the R package [exprAnalysis](https://github.com/ShirinG/exprAnalysis), designed to streamline my RNA-seq data analysis pipeline. It is available via Github. Instructions for installation and usage can be found [here](https://shiring.github.io/rna-seq/microarray/2016/09/28/exprAnalysis).
