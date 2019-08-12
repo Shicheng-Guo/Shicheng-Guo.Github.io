@@ -15,8 +15,7 @@ Recently, our project collaborated with Dr. Dongyi He in effects of (5R)-5-Hydro
 
 > ...
 
-> With flexdashboard RStudio provides a great way to create interactive dashboards with R. It is an easy and very fast way to present analyses or create story maps. Here, I have used it to demonstrate different analysis techniques for Predictive Maintenance. It uses Shiny run-time to create interactive content.
-
+> The aim of this study was designed to identify the mechanism of immuno-impressive function of LLDT-8 and identify potential ncRNA targets of LLDT-8. We applied TNF-α and IL-17 to induce an inflammatory status in the cells so that we can observe the LLDT-8 effect easily compared with treatment to normal FLS cell directly. We then assessed the effects of LLDT-8 on the regulation of gene expression on mRNAs and long non-coding RNAs in FLS isolated from RA patients. Agilent Human lncRNA (4 × 180 K, Design ID: 062918) was applied in present study to provide genome-wide ncRNA and mRNA expression profile. With this study, we aimed to demonstrate how LLDT-8 treatment significantly impacts the process of immune regulation.
 > ...
 
 Continue reading at https://www.nature.com/articles/s41598-019-47411-1
