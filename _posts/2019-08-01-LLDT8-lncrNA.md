@@ -20,4 +20,4 @@ Recently, our project collaborated with Dr. Dongyi He in effects of (5R)-5-Hydro
 
 Continue reading at https://www.nature.com/articles/s41598-019-47411-1
 
-![](https://blog.codecentric.de/files/2017/10/dashboard_screenshot.png)
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-47411-1/MediaObjects/41598_2019_47411_Fig1_HTML.png)
