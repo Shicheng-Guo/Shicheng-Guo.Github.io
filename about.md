@@ -15,7 +15,7 @@ I received my Ph.D. degree at [Fudan University](https://en.wikipedia.org/wiki/F
 
 Since end of 2017, I joined Dr. [Steven Schordi](https://www.marshfieldresearch.org/profiles/1091)'s lab in MCRI and focusing on genetic epidemiology and the diagnostic and prognostic roles of epigenetic variations in human complex disease, especially human autoimmune disease and cancer. In the Marshfield Clinic, I mad full use of my bioinformatics, big data analysis and text mining skills to valuable Marshfield [Personalize Medicine Research Project dataset (PMRP)](https://www.marshfieldresearch.org/cpmr/pmrp) (including 20,000 Exome-chip data and comprehensive clinical and epidemiological information) and Roadmap, Blueprint, Encode project to identify disease susceptibility genes and epigenetic markers for early diagnosis or real-time prognosis surveillance. 
 
-In 2018, I collaborate with Dr. Steven Schrodi, I 
+In 2018, collaborating with Dr. Steven Schrodi, I implemented a novel gene-based recessive diplotype appraoch to identify compound heterozygote genetic variants for 15 phenotypes from PMRP dataset. 
 
 ---
 
