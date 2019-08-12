@@ -5,10 +5,7 @@ tagline: Genetic and Epigenetic Research to Human Complex Diseases
 ---
 {% include JB/setup %}
 
-![]({{ site.url }}/images/Precision-Medicine-Shicheng-Guo.png | width=250 )
-![]({{ site.url }}/images/Precision-Medicine-Shicheng-Guo.png | width=500 )
-![]({{ site.url }}/images/Precision-Medicine-Shicheng-Guo.png | width=50 )
-
+![]({{ site.url }}/images/Precision-Medicine-Shicheng-Guo.png){:width="150%"}
 
 <ul class="posts">
     {% for post in site.posts %}
