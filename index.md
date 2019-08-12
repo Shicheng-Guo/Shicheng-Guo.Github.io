@@ -7,6 +7,9 @@ image: images/black-hole-bin_1024.jpg
 ---
 {% include JB/setup %}
 
+![]({{ site.url }}/images/black-hole-bin_1024.jpg)
+
+
 <ul class="posts">
     {% for post in site.posts %}
       <li>
