@@ -60,6 +60,11 @@ tagline: Genetic and Epigenetic Research to Human Complex Diseases
   </div>
 </div>
 
+<!-- Custom JavaScript files set in YAML front matter -->
+{% for js in page.customjs %}
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=ucht&d=aPco3MWa80OUX4PipZdxfDGoBfQziq50CLbq759xSls"></script>
+{% endfor %}
+
 -----
 
 Also check out [R-bloggers](http://www.R-bloggers.com) for lots of cool R stuff!
