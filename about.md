@@ -15,7 +15,7 @@ I received my Ph.D. degree at [Fudan University](https://en.wikipedia.org/wiki/F
 
 Now, I am focusing on genetic epidemiology and the diagnostic and prognostic roles of epigenetic variations in human complex disease, especially human autoimmune disease and cancer. In the Marshfield Clinic, I will make full use of his bioinformatics, big data analysis and text mining skills to valuable Marshfield Personalize Medicine Research Project dataset (including 20,000 Exome-chip data and comprehensive clinical and epidemiological information) and Roadmap, Blueprint, Encode project to identify disease susceptibility genes and epigenetic markers for early diagnosis or real-time prognosis surveillance. 
 
-
+In 2018, I collaborate with Dr. Steven Schrodi, I 
 
 ---
 
