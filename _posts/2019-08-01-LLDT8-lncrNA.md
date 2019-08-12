@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(5R)-5-Hydroxytriptolide and Epigenetic changes of Rheumatoid Arthritis"
+title: "(5R)-5-Hydroxytriptolide and Epigenetics of Rheumatoid Arthritis"
 author: Shicheng Guo
 date: 2019-08-12
 categories: flexdashboard
