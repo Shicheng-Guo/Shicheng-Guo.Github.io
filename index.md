@@ -24,9 +24,7 @@ image: images/black-hole-bin_1024.jpg
       {{ post.excerpt }}
       <a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}">Continue reading...</a>
       </p>
-
     {% endfor %}
-  
   </ul>
 
 
