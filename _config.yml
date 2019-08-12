@@ -1,13 +1,11 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
-
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
-
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 title : Shicheng's Research
