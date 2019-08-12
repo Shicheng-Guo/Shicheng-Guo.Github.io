@@ -16,7 +16,6 @@ I received my Ph.D. degree at [Fudan University](https://en.wikipedia.org/wiki/F
 In 2017, I joined Dr. [Steven Schordi](https://www.marshfieldresearch.org/profiles/1091)'s lab in MCRI and focusing on genetic epidemiology and the diagnostic and prognostic roles of epigenetic variations in human complex disease, especially human autoimmune disease and cancer. In the Marshfield Clinic, I mad full use of my bioinformatics, big data analysis and text mining skills to valuable Marshfield [Personalize Medicine Research Project dataset (PMRP)](https://www.marshfieldresearch.org/cpmr/pmrp) (including 20,000 Exome-chip data and comprehensive clinical and epidemiological information) and Roadmap, Blueprint, Encode project to identify disease susceptibility genes and epigenetic markers for early diagnosis or real-time prognosis surveillance. In 2018, collaborating with Dr. Steven Schrodi, I implemented a novel gene-based recessive diplotype appraoch and identified a novel hemochromatosis gene (FGF6). The work was accepted by [blood](http://www.bloodjournal.org/content/133/17/1888.abstract?sso-checked=true) in 2019 and introduced by [MCRI news](https://www.marshfieldresearch.org/News/researchers-use-novel-gene-mapping-approach-to-find-new-iron-metabolism-gene)
 
 ---
-
 ## Contact me:
 - [Email](mailto:Shihcheng.Guo@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/shicheng-guo-b5724925)
