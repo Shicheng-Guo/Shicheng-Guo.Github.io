@@ -5,7 +5,6 @@ tagline: exploring and playing with data in R
 ---
 {% include JB/setup %}
 
-![]({{ site.url }}/assets/images/oublehelix.png)
 
 <ul class="posts">
     {% for post in site.posts %}
