@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shicheng's playgRound
-tagline: exploring and playing with data in R
+title: Shicheng Guo
+tagline: Genetic and Epigenetic Research to Human Complex Diseases
 ---
 {% include JB/setup %}
 
