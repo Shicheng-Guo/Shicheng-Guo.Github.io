@@ -6,6 +6,8 @@ tagline: Genetic and Epigenetic Research to Human Complex Diseases
 {% include JB/setup %}
 
 ![]({{ site.url }}/images/what-is-precision-medicine.png)
+![]({{ site.url }}/images/what-is-precision-medicine.png)
+
 
 <ul class="posts">
     {% for post in site.posts %}
