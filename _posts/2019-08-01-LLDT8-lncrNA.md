@@ -2,7 +2,7 @@
 layout: post
 title: "(5R)-5-Hydroxytriptolide and Epigenetics of Rheumatoid Arthritis"
 author: Shicheng Guo
-date: 2019-08-12
+date: 2019-08-01
 categories: flexdashboard
 tags: lncRNA epigenetics immnue response network
 image: images/LLDT-8-lncRNA-SR.jpg
