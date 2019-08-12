@@ -8,6 +8,7 @@ image: images/black-hole-bin_1024.jpg
 {% include JB/setup %}
 
 ![]({{ site.url }}/images/black-hole-bin_1024.jpg)
+![]({{ site.url }}/assets/images/black-hole-bin_1024.jpg)
 
 
 <ul class="posts">
