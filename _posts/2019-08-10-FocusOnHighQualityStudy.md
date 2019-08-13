@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Focus On High Quality Studies"
+title: "How to Only Focus On High Quality Studies"
 author: Shicheng Guo
 date: 2019-08-10
 categories: flexdashboard
