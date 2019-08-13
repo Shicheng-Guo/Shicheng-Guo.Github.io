@@ -5,7 +5,7 @@ author: Shicheng Guo
 date: 2019-08-10
 categories: flexdashboard
 tags: NCBI Pubmed 
-images images/High-Impact-Methylation-Shicheng-Guo.PUBMED.png
+image: images/High-Impact-Methylation-Shicheng-Guo.PUBMED.png
 
 ---
 
