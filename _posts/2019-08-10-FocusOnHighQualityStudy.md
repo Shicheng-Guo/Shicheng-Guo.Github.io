@@ -24,8 +24,4 @@ Recently, some colleauges ask me how to only focus on publications of high quali
 > ...
 
 
---------------
-![](https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.Github.io/master/images/High-Impact-Methylation-Shicheng-Guo.PUBMED.png)
-
-
 
