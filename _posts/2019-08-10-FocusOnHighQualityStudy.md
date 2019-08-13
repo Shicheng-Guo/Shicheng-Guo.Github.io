@@ -19,7 +19,8 @@ Recently, some colleauges ask me how to only focus on publications of high quali
 > As the figure showed, there were only 149 studies of high qualities which would save lots of time for you to follow the methylation research Frontline. 
 > ...
 
-# ![](https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.Github.io/master/images/High-Impact-Methylation-Shicheng-Guo.PUBMED.png)
+--------------
+![](https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.Github.io/master/images/High-Impact-Methylation-Shicheng-Guo.PUBMED.png)
 
 
 
