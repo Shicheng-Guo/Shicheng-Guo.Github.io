@@ -4,7 +4,7 @@ title: "How to Focus On High Quality Studies"
 author: Shicheng Guo
 date: 2019-08-10
 categories: flexdashboard
-tags: lncRNA epigenetics immnue response network
+tags: NCBI Pubmed 
 image: images/High-Impact-Methylation-Shicheng-Guo.PUBMED.png
 
 ---
