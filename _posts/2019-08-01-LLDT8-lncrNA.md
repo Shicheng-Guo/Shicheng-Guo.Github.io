@@ -6,6 +6,7 @@ date: 2019-08-01
 categories: flexdashboard
 tags: lncRNA epigenetics immnue response network
 image: images/LLDT8-lncRNA-Nature-ScientificReports-Shicheng-Guo.png
+
 ---
 
 Recently, our project collaborated with Dr. Dongyi He in effects of (5R)-5-Hydroxytriptolide to epigenetic changes of LFS from RA was accepted by [Scientfic Reports](https://www.nature.com/articles/s41598-019-47411-1)
