@@ -13,12 +13,7 @@ Today, I will give a talk about "Genome-wide cell-free DNA fragmentation in pati
 
 > Cell-free DNA in the blood provides a non-invasive diagnostic avenue for patients with cancer1. However, characteristics of the origins and molecular features of cell-free DNA are poorly understood. Here we developed an approach to evaluate fragmentation patterns of cell-free DNA across the genome, and found that profiles of healthy individuals reflected nucleosomal patterns of white blood cells, whereas patients with cancer had altered fragmentation profiles. We used this method to analyse the fragmentation profiles of 236 patients with breast, colorectal, lung, ovarian, pancreatic, gastric or bile duct cancer and 245 healthy individuals. A machine learning model that incorporated genome-wide fragmentation features had sensitivities of detection ranging from 57% to more than 99% among the seven cancer types at 98% specificity, with an overall area under the curve value of 0.94. Fragmentation profiles could be used to identify the tissue of origin of the cancers to a limited number of sites in 75% of cases. Combining our approach with mutation-based cell-free DNA analyses detected 91% of patients with cancer. The results of these analyses highlight important properties of cell-free DNA and provide a proof-of-principle approach for the screening, early detection and monitoring of human cancer.
 
-> ...
-
-# Table of Contents:
-
-
-## Cell-Free DNA General Background
+### Cell-Free DNA General Background
 * Pan et al ["Brain Tumor Mutations Detected in Cerebral Spinal Fluid"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Pan%20et%20al.pdf)
 * Schilling and Rehli ["Global, comparative analysis of tissue-specific
 promoter CpG methylation"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Schilling%20and%20Rehli.pdf)
@@ -39,7 +34,7 @@ of the Tumor Genome Despite
 Its Biased Fragmentation Patterns"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Ma_et_al.pdf)
 
 
-## Cell-Free DNA and Methylation
+### Cell-Free DNA and Methylation
 * Lehman-Werman et al  ["Identification of tissue-specific cell
 death using methylation patterns of circulating DNA"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/tissue_specific_cfDNA/Lehman-Werman_et_al.pdf)
 * Synder et al ["Cell-free DNA Comprises an In Vivo Nucleosome
@@ -63,15 +58,15 @@ More Details about cfDNA
 )
 * Smith and Meissner ["DNA methylation: roles in mammalian development"](https://www.nature.com/articles/nrg3354)
 
-## Non-CpG Methylation
+### Non-CpG Methylation
 * Xu and Corces ["Nascent DNA methylome mapping reveals inheritance of hemimethylation at CTCF/cohesin sites"](http://science.sciencemag.org/content/359/6380/1166.full)
 
-## Deconvolution algorithms
+### Deconvolution algorithms
 * Houseman et al ["Reference-freedeconvolution of DNA methylationdata and mediation by cellcomposition effects" ](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Houseman_et_al.pdf)
 * Rahmani et al ["Sparse PCA Corrects forCell-Type Heterogeneity in Epigenome-WideAssociation Studies"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Rahmani_et_al.pdf)
 * Gond and Szustakowski ["DeconRNASeq: a statistical framework fordeconvolution of heterogeneoustissue samples based on mRNA-Seq data"](https://github.com/christacaggiano/cell-free-dna-readinglist/blob/master/cfDNA_tissue_of_origin_deconvolution/Gong%20and%20Szustakowski.pdf)
 
-## WGBS Algorithms
+### WGBS Algorithms
 * Ziller et al ["Coverage recommendations for methylation analysis by whole genome bisulfite sequencing"](https://www.nature.com/articles/nmeth.3152)
 * Merkel et al ["gemBS - high throughput processing for DNA methylation data from Bisulfite Sequencing
 "](https://academic-oup-com.ucsf.idm.oclc.org/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty690/5077236)
