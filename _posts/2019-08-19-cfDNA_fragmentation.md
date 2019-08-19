@@ -2,7 +2,7 @@
 layout: post
 title: "Genome-wide cell-free DNA fragmentation in patients with cancer"
 author: Shicheng Guo
-date: 2019-08-019
+date: 2019-08-19
 categories: flexdashboard
 tags: cfDNA fragmentation cancer
 image: images/Nature_cfDNA_fragmentation_nature_letter_2019.jpg
