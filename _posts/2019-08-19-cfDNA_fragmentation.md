@@ -35,7 +35,7 @@ Biopsy in Prostate Cancer"](https://github.com/christacaggiano/cell-free-dna-rea
 of the Tumor Genome Despite
 Its Biased Fragmentation Patterns"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Ma_et_al.pdf)
 
-### Cell-Free DNA and Methylation
+#### Cell-Free DNA and Methylation
 * Lehman-Werman et al  ["Identification of tissue-specific cell
 death using methylation patterns of circulating DNA"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/tissue_specific_cfDNA/Lehman-Werman_et_al.pdf)
 * Synder et al ["Cell-free DNA Comprises an In Vivo Nucleosome
@@ -50,7 +50,6 @@ tissue-of-origin mapping from plasma DNA"](https://github.com/christacaggiano/ce
 * Seoighe et al (response to Guo et al)["DNA methylation haplotypes as cancer markers"](https://www.nature.com/articles/s41588-018-0185-x)
 * Diep and Zhang (response to Seoighe et al) ["Reply to ‘DNA methylation haplotypes as cancer markers'"](https://www.nature.com/articles/s41588-018-0186-9)
 
-More Details about cfDNA
 * Kessler et al ["CpG methylation differences betweenneurons and glia are highlyconserved from mouse to human"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/tissue_specific_cfDNA/Kessler_et_al.pdf)
 * Luck et al ["A Stochastic Model for the Formation of SpatialMethylation Patterns"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Luck_preprint.pdf)
 * Doherty and Couldrey ["Exploring genome wide bisulfite sequencing for DNA methylation analysis in livestock: a technical assessment"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Doherty_and_Couldrey.pdf)
@@ -59,15 +58,15 @@ More Details about cfDNA
 )
 * Smith and Meissner ["DNA methylation: roles in mammalian development"](https://www.nature.com/articles/nrg3354)
 
-### Non-CpG Methylation
+#### Non-CpG Methylation
 * Xu and Corces ["Nascent DNA methylome mapping reveals inheritance of hemimethylation at CTCF/cohesin sites"](http://science.sciencemag.org/content/359/6380/1166.full)
 
-### Deconvolution algorithms
+#### Deconvolution algorithms
 * Houseman et al ["Reference-freedeconvolution of DNA methylationdata and mediation by cellcomposition effects" ](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Houseman_et_al.pdf)
 * Rahmani et al ["Sparse PCA Corrects forCell-Type Heterogeneity in Epigenome-WideAssociation Studies"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Rahmani_et_al.pdf)
 * Gond and Szustakowski ["DeconRNASeq: a statistical framework fordeconvolution of heterogeneoustissue samples based on mRNA-Seq data"](https://github.com/christacaggiano/cell-free-dna-readinglist/blob/master/cfDNA_tissue_of_origin_deconvolution/Gong%20and%20Szustakowski.pdf)
 
-### WGBS Algorithms
+#### WGBS Algorithms
 * Ziller et al ["Coverage recommendations for methylation analysis by whole genome bisulfite sequencing"](https://www.nature.com/articles/nmeth.3152)
 * Merkel et al ["gemBS - high throughput processing for DNA methylation data from Bisulfite Sequencing
 "](https://academic-oup-com.ucsf.idm.oclc.org/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty690/5077236)
