@@ -13,6 +13,8 @@ Today, I will give a talk about "Genome-wide cell-free DNA fragmentation in pati
 
 > Cell-free DNA in the blood provides a non-invasive diagnostic avenue for patients with cancer1. However, characteristics of the origins and molecular features of cell-free DNA are poorly understood. Here we developed an approach to evaluate fragmentation patterns of cell-free DNA across the genome, and found that profiles of healthy individuals reflected nucleosomal patterns of white blood cells, whereas patients with cancer had altered fragmentation profiles. We used this method to analyse the fragmentation profiles of 236 patients with breast, colorectal, lung, ovarian, pancreatic, gastric or bile duct cancer and 245 healthy individuals. A machine learning model that incorporated genome-wide fragmentation features had sensitivities of detection ranging from 57% to more than 99% among the seven cancer types at 98% specificity, with an overall area under the curve value of 0.94. Fragmentation profiles could be used to identify the tissue of origin of the cancers to a limited number of sites in 75% of cases. Combining our approach with mutation-based cell-free DNA analyses detected 91% of patients with cancer. The results of these analyses highlight important properties of cell-free DNA and provide a proof-of-principle approach for the screening, early detection and monitoring of human cancer.
 
+##Check more details about cfDNA
+
 ### Cell-Free DNA General Background
 * Pan et al ["Brain Tumor Mutations Detected in Cerebral Spinal Fluid"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Pan%20et%20al.pdf)
 * Schilling and Rehli ["Global, comparative analysis of tissue-specific
@@ -32,7 +34,6 @@ Biopsy in Prostate Cancer"](https://github.com/christacaggiano/cell-free-dna-rea
 * Ma et al ["Cell-Free DNA Provides a Good Representation
 of the Tumor Genome Despite
 Its Biased Fragmentation Patterns"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Ma_et_al.pdf)
-
 
 ### Cell-Free DNA and Methylation
 * Lehman-Werman et al  ["Identification of tissue-specific cell
