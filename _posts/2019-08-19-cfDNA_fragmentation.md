@@ -55,7 +55,7 @@ Biopsy in Prostate Cancer"](https://github.com/christacaggiano/cell-free-dna-rea
 analysis of whole genome bisulfite sequencing data"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Lee_et_al.pdf)
 * Kunde-Ramamoorty et al ["Comparison and quantitativeverification of mapping algorithmsfor whole-genome bisulfite sequencing"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Kunde-Ramamoorthy_et_al.pdf)
 * Xi and Li ["BSMAP: whole genome bisulfitesequence MAPping program"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Xi%20and%20Li.pdf)
-* Guo et al []"BS-Seeker2: a versatile aligning pipeline for bisulfite sequencing data"](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-774)
+* Guo et al ["BS-Seeker2: a versatile aligning pipeline for bisulfite sequencing data"](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-774)
 * Krueger and Andrews ["Bismark: aflexible aligner and methylationcaller for Bisulfite-Seq applications"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Krueger%20and%20Andrews.pdf)
 * Feng et al ["Disease prediction by cell-free DNA methylation"](https://academic-oup-com.ucsf.idm.oclc.org/bib/advance-article/doi/10.1093/bib/bby029/4973009)
 
