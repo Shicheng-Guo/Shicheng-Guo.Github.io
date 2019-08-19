@@ -29,10 +29,7 @@ transplantation assessments"](https://github.com/christacaggiano/cell-free-dna-r
 * Wyatt et al ["Concordance of Circulating
 Tumor DNA and MatchedMetastatic Tissue
 Biopsy in Prostate Cancer"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Wyatt_et_al.pdf)
-* Ma et al ["Cell-Free DNA Provides a Good Representation
-of the Tumor Genome Despite
-Its Biased Fragmentation Patterns"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Ma_et_al.pdf)
-
+* Ma et al ["Cell-Free DNA Provides a Good Representationof the Tumor Genome Despite Its Biased Fragmentation Patterns"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Ma_et_al.pdf)
 #### Cell-Free DNA and Methylation
 * Lehman-Werman et al  ["Identification of tissue-specific cell
 death using methylation patterns of circulating DNA"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/tissue_specific_cfDNA/Lehman-Werman_et_al.pdf)
@@ -52,8 +49,7 @@ tissue-of-origin mapping from plasma DNA"](https://github.com/christacaggiano/ce
 * Luck et al ["A Stochastic Model for the Formation of SpatialMethylation Patterns"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Luck_preprint.pdf)
 * Doherty and Couldrey ["Exploring genome wide bisulfite sequencing for DNA methylation analysis in livestock: a technical assessment"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Doherty_and_Couldrey.pdf)
 * Intro methylation review: ["DNA methylation: a form ofepigenetic control of gene expression"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/intro_methylation_review.pdf)
-* Koch et al ["Analysis of DNA methylation in cancer: location revisited"](https://www.nature.com/articles/s41571-018-0004-4
-)
+* Koch et al ["Analysis of DNA methylation in cancer: location revisited"](https://www.nature.com/articles/s41571-018-0004-4)
 * Smith and Meissner ["DNA methylation: roles in mammalian development"](https://www.nature.com/articles/nrg3354)
 
 #### Non-CpG Methylation
