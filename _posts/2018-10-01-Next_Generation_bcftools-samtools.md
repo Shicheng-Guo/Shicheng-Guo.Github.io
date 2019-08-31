@@ -13,8 +13,9 @@ Today, I will give a talk about "Next generation protocol to [bcftools](https://
 #### bcftools view 
 bcftools view is the most frequent command to use for SNPs filtering, sample filtering, format changing. 
 ```
-
+bcftools view -i '(IMP=1 & R2>0.6)|IMPUTED=0' -R chr$i.dose.dbSNP.hg19.vcf.gz |  bcftools annotate -x ^FORMAT/GT -Oz -o test.vcf.gz
 ```
+
 #### bcftools annotation
 
 #### plink2 
