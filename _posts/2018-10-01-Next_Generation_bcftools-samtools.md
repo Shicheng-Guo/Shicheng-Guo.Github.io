@@ -19,8 +19,10 @@ bcftools view -i '(IMP=1 & R2>0.6)|IMPUTED=0' chr$i.dose.dbSNP.hg19.vcf.gz |  bc
 ```
 bcftools annotate -a ~/hpc/db/hg19/dbSNP152/dbSNP152.chr$i.hg19.vcf.gz -c ID  chr$i.dose.contig.vcf.gz -Oz -o chr$i.dose.dbSNP.hg19.vcf.gz >>$i.job
 ```
-#### plink2 
-
 #### GATK
-
+```
+gatk CreateSequenceDictionary -R hg19.fa -O hg19.dict 
+```
 #### SnpSift 
+
+#### plink2 
