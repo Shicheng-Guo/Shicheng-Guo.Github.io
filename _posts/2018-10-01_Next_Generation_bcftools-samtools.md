@@ -2,7 +2,7 @@
 layout: post
 title: "Next generation protocol of bcftools in population genetics and medical genetics analysis"
 author: Shicheng Guo
-date: 2019-02-28
+date: 2018-10-01
 categories: bioinformatics
 tags: bcftools vcftools samtools GATK
 image: images/bcftools_2019_samtools_GATK_Shicheng_Guo.png
