@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Next generation protocol of bcftools in population genetics and medical genetics analysis"
+title: "Next generation protocol to bcftools in medical genetics research"
 author: Shicheng Guo
 date: 2018-10-01
 categories: bioinformatics
