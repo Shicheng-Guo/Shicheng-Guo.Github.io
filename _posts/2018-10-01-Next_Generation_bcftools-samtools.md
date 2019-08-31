@@ -21,7 +21,7 @@ bcftools annotate -a ~/hpc/db/hg19/dbSNP152/dbSNP152.chr$i.hg19.vcf.gz -c ID  ch
 ```
 ### vcftools
 ```
-vcf-sort -t ./  dbSNP152.chr1.hg19.vcf.gz | bgzip -c > dbSNP152.chr1.hg19.sort.vcf.gz
+vcf-sort -t ~/hpc/temp/ dbSNP152.chr1.hg19.vcf.gz | bgzip -c > dbSNP152.chr1.hg19.sort.vcf.gz
 ```
 
 #### GATK
