@@ -24,7 +24,10 @@ bcftools annotate -a ~/hpc/db/hg19/dbSNP152/dbSNP152.chr$i.hg19.vcf.gz -c ID  ch
 ```
 ### vcftools
 ```
-vcf-sort -t ~/hpc/temp/ dbSNP152.chr1.hg19.vcf.gz | bgzip -c > dbSNP152.chr1.hg19.sort.vcf.gz
+zcat dbSNP152.chr1.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c > dbSNP152.chr1.hg19.sort.vcf.gz &
+zcat dbSNP152.chr7.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c > dbSNP152.chr7.hg19.sort.vcf.gz &
+zcat dbSNP152.chr8.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c > dbSNP152.chr8.hg19.sort.vcf.gz &
+zcat dbSNP152.chr9.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c > dbSNP152.chr9.hg19.sort.vcf.gz &
 ```
 
 #### GATK
@@ -39,11 +42,16 @@ gatk CreateSequenceDictionary -R hg19.fa -O hg19.dict
 wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/All_20180423.vcf.gz
 wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/All_20180423.vcf.gz.md5
 wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/All_20180423.vcf.gz.tbi
+
 # hg38 dbSNP
 wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/VCF/All_20180418.vcf.gz
 wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/VCF/All_20180418.vcf.gz.md5
 wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/VCF/All_20180418.vcf.gz.tbi
 
 # copy files from UW-Madison to MCRI
+scp nu_guos@submit-1.chtc.wisc.edu:/home/nu_guos/All_20180423* ~/hpc/db/hg19/dbSNP
+
+# split with chrosome name
+
 
 ```
