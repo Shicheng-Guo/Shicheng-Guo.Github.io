@@ -20,6 +20,9 @@ bcftools view -i \'R2\>0.6\|TYPED=1\|TYPED_ONLY=1\' -Oz chr$i.dose.vcf.gz -Oz -o
 ```
 #### bcftools annotation
 ```
+# collect gene regions. don't forget to extend regions with -5K to +5K to region regions to cover promoter and enhancer SNPs
+awk '{print $1,$2-5000,$3+5000,$4}' OFS="\t"  MUC.hg19.bed | bedtools sort -i > MUC.hg19.sort.bed
+
 bcftools annotate -a ~/hpc/db/hg19/dbSNP152/dbSNP152.chr$i.hg19.vcf.gz -c ID  chr$i.dose.contig.vcf.gz -Oz -o chr$i.dose.dbSNP.hg19.vcf.gz >>$i.job
 
 # merge MUC genotypes from chr1 to chr22
