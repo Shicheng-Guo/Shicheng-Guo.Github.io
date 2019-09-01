@@ -31,6 +31,7 @@ zcat dbSNP152.chr9.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c > dbSNP152
 ```
 
 #### GATK
+Some of my colleagues meet lots of GATK bugs. Please be sure GATK requires `Java 1.8` other Java will have some unexpected errors. On the other side, please download the database from [GATK Resource Bundle ftp server](https://software.broadinstitute.org/gatk/download/bundle) rather than other database. 
 ```
 gatk CreateSequenceDictionary -R hg19.fa -O hg19.dict 
 ```
