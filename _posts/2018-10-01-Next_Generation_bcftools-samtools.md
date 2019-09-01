@@ -53,5 +53,19 @@ scp nu_guos@submit-1.chtc.wisc.edu:/home/nu_guos/All_20180423* ~/hpc/db/hg19/dbS
 
 # split with chrosome name
 
+# SNP orders are not correct, sort chr1,chr7,chr8,chr9
+mkdir ./temp/chr1/
+mkdir ./temp/chr7/
+mkdir ./temp/chr8/
+mkdir ./temp/chr9/
+zcat dbSNP152.chr1.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c > dbSNP152.chr1.hg19.sort.vcf.gz &
+zcat dbSNP152.chr7.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c > dbSNP152.chr7.hg19.sort.vcf.gz &
+zcat dbSNP152.chr8.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/chr8 | bgzip -c > dbSNP152.chr8.hg19.sort.vcf.gz &
+zcat dbSNP152.chr9.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/chr9 | bgzip -c > dbSNP152.chr9.hg19.sort.vcf.gz &
+mv dbSNP152.chr8.hg19.sort.vcf.gz dbSNP152.chr8.hg19.sort.vcf.gz
+mv dbSNP152.chr9.hg19.sort.vcf.gz dbSNP152.chr9.hg19.sort.vcf.gz
+tabix -p vcf dbSNP152.chr8.hg19.sort.vcf.gz &
+tabix -p vcf dbSNP152.chr9.hg19.sort.vcf.gz &
 
+#
 ```
