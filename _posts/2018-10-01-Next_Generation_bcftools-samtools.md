@@ -21,6 +21,17 @@ bcftools view -i \'R2\>0.6\|TYPED=1\|TYPED_ONLY=1\' -Oz chr$i.dose.vcf.gz -Oz -o
 #### bcftools annotation
 ```
 bcftools annotate -a ~/hpc/db/hg19/dbSNP152/dbSNP152.chr$i.hg19.vcf.gz -c ID  chr$i.dose.contig.vcf.gz -Oz -o chr$i.dose.dbSNP.hg19.vcf.gz >>$i.job
+
+# merge MUC genotypes from chr1 to chr22
+cd /gpfs/home/guosa/hpc/rheumatology/RA/he2020/impute/R3
+ls chr*.dose.MUC.clean.hg19.vcf.gz > MUC.vcf.txt
+bcftools concat -f MUC.vcf.txt -Oz -o MUC.hg19.vcf.gz
+bcftools annotate -a ~/hpc/db/hg19/dbSNP152/dbSNP152.chr$i.hg19.vcf.gz -c ID  chr$i.dose.contig.vcf.gz -Oz -o MUC.hg19.vcf.gz
+
+# https://github.com/Shicheng-Guo/AnnotationDatabase/blob/master/hg19/refGene.hg19.VCF.sort.bed.gz
+# https://github.com/Shicheng-Guo/AnnotationDatabase/blob/master/hg19/refGene.hg19.VCF.sort.bed.gz.tbi
+
+bcftools annotate -a ~/hpc/db/hg19/refGene.hg19.VCF.sort.bed.gz -c CHROM,FROM,TO,GENE -h <(echo '##INFO=<ID=GENE,Number=1,Type=String,Description="Gene name">') MUC.hg19.vcf.gz -Oz -o MUC.anno.hg19.vcf.gz
 ```
 ### vcftools
 ```
@@ -67,6 +78,5 @@ mv dbSNP152.chr8.hg19.sort.vcf.gz dbSNP152.chr8.hg19.sort.vcf.gz
 mv dbSNP152.chr9.hg19.sort.vcf.gz dbSNP152.chr9.hg19.sort.vcf.gz
 tabix -p vcf dbSNP152.chr8.hg19.sort.vcf.gz &
 tabix -p vcf dbSNP152.chr9.hg19.sort.vcf.gz &
-
 #
 ```
