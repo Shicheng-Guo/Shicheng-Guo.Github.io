@@ -87,7 +87,6 @@ mv dbSNP152.chr8.hg19.sort.vcf.gz dbSNP152.chr8.hg19.sort.vcf.gz
 mv dbSNP152.chr9.hg19.sort.vcf.gz dbSNP152.chr9.hg19.sort.vcf.gz
 tabix -p vcf dbSNP152.chr8.hg19.sort.vcf.gz &
 tabix -p vcf dbSNP152.chr9.hg19.sort.vcf.gz &
-#
 ```
 
 #### Footnote:
