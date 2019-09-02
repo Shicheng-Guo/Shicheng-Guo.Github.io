@@ -91,5 +91,8 @@ tabix -p vcf dbSNP152.chr9.hg19.sort.vcf.gz &
 
 #### Footnote:
 
-* human refGene hg19 TSS: https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hg19/refGene_hg19_TSS.bed
-* human refGene hg38 TSS: https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hg38/refGene.hg38.TSS.bed
+* human refGene hg19 TSS: 
+https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hg19/refGene_hg19_TSS.bed
+
+* human refGene hg38 TSS: 
+https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hg38/refGene.hg38.TSS.bed
