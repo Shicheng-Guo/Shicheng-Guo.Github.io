@@ -5,7 +5,6 @@ header: About me
 group: navigation
 ---
 
-
 **Welcome to my page!**
 
 ![]({{ site.url }}/assets/images/Dr.Shicheng.Guo.PNG){:style="float: left;margin-right: 7px;margin-top: 7px; margin-bottom: 7px; margin-left: 7px; width: 200px"}
