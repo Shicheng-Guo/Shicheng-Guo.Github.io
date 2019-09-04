@@ -10,7 +10,7 @@ group: navigation
 
 ![]({{ site.url }}/assets/images/Dr.Shicheng.Guo.PNG){:style="float: left;margin-right: 7px;margin-top: 7px; margin-bottom: 7px; margin-left: 7px; width: 200px"}
 
-I'm Shicheng Guo, Postdoctoral Fellow-Research at Center for Precision Medicine, MCRI
+I'm Shicheng Guo, Postdoctoral Fellow-Research at Center for Precision Medicine, Marshfield Clinic Research Insitute.
 
 I received my Ph.D. degree at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University) in 2014 under Prof. [Li Jin](https://en.wikipedia.org/wiki/Jin_Li) and full support from Prof. [Jiucun Wang](http://hupi.fudan.edu.cn/en/people/jiucunwang) and Prof. [Momiao Xiong](https://sph.uth.edu/research/centers/hgc/xiong/). I started my post-doctoral training at [University of Texas Health Science Center at Houston (UThealth, 2014-2015)](https://en.wikipedia.org/wiki/University_of_Texas_Health_Science_Center_at_Houston) and [University of California, San Diego (UCSD, 2015-2017)](https://en.wikipedia.org/wiki/University_of_California,_San_Diego). I made series contribution on Human [PBMC](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000533)methylome, [Silk](https://www.nature.com/articles/nbt.1626) methylome, hepatocellular carcinoma and pancreatic cancer methylomes, CD4+ methylomes for rheumatoid arthritis and [tissue-of-origin](https://www.nature.com/articles/ng.3805) mapping by cell-free circulating DNA methylation.
 
