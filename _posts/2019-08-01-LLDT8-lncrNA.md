@@ -21,4 +21,12 @@ Recently, our project collaborated with Dr. Dongyi He in effects of (5R)-5-Hydro
 
 Continue reading at [(5R)-5-Hydroxytriptolide (LLDT-8) induces substantial epigenetic mediated immune response network changes in fibroblast-like synoviocytes from rheumatoid arthritis patients](https://www.nature.com/articles/s41598-019-47411-1)
 
+> ...
+
+NCBIBuild 35, hg17
+NCBIBuild 36, hg18
+NCBIBuild 37, hg19
+NCBIBuild 38, hg38
+
+
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-47411-1/MediaObjects/41598_2019_47411_Fig1_HTML.png)
