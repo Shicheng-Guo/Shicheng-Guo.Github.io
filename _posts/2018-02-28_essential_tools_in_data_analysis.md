@@ -17,6 +17,7 @@ Here are software/packages I requested in the past two years and I will real-tim
 * R-studio (3.6.1)
 * Python
 * pycharm
+* Perl
 * BioEdit
 * Eclipse
 * Endnote
@@ -27,6 +28,9 @@ Here are software/packages I requested in the past two years and I will real-tim
 * Cytoscape
 * Haploview
 * Notepad++
-* 
+* NCBI-Cn3D
+* MiKTex
+
+
 
 
