@@ -19,7 +19,7 @@ Here are software/packages I requested in the past two years and I will real-tim
 * pycharm
 * Perl
 * BioEdit
-* Eclipse
+* Eclipse+EPIC
 * Endnote
 * Adobe Illustrator
 * Adobe Photoshop
