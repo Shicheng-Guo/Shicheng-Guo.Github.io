@@ -32,9 +32,8 @@ Here are software/packages I requested in the past two years and I will real-tim
 * MiKTex
 * WINSCP
 * Mendeley
-* Evernote
+* Evernote/Zotero
 * Zoom
-* Zotero
 
 
 
