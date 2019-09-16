@@ -13,8 +13,8 @@ One of terrible things in marshfield clinic research institute ([MCRI](https://w
 
 Here are software/packages I requested in the past two years and I will real-time update the list: 
 
-* R (3.6.x)
-* R-studio (3.6.x)
+* R
+* R-studio
 * Python
 * pycharm
 * Perl
