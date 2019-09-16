@@ -13,8 +13,9 @@ One of terrible things in marshfield clinic research institute (MCRI) is that so
 
 Here are software/packages I requested in the past two years and I will real-time update the list: 
 
-R (3.6.1)
-
-R-studio (3.6.1)
-
+* R (3.6.1)
+* R-studio (3.6.1)
+* Python
+* pycharm
+*
 
