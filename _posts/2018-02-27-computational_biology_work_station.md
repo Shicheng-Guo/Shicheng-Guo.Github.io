@@ -2,9 +2,9 @@
 layout: post
 title: "How to prepare a computational biology work station"
 author: Shicheng Guo
-date: 2018-02-28
+date: 2018-02-27
 categories: bioinformatics
-tags: computational packages toools
+tags: computational packages tools
 image: images/Shicheng-Guo-computational-tools-work-station.png	
 
 ---
