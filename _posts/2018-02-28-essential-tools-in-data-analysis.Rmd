@@ -1,0 +1,11 @@
+---
+layout: post
+title: "How to prepare a computational biology work station and environment"
+author: Shicheng Guo
+date: 2018-02-28
+categories: bioinformatics
+tags: computational packages toools
+image: images/Nature_cfDNA_fragmentation_nature_letter_2019.jpg
+
+---
+Today, I will give a talk about "Genome-wide cell-free DNA fragmentation in patients with cancer" in MCRI postdoc club meeting. The paper was published in [Nature](https://www.nature.com/articles/s41586-019-1272-6) recently. See the [slice](https://github.com/Shicheng-Guo/Shicheng-Guo.Github.io/blob/master/slice/Postdoc_Club_2019_08_19_cfDNA_Fragement.pptx) here or [download here](https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.Github.io/master/slice/Postdoc_Club_2019_08_19_cfDNA_Fragement.pptx) for more details.
