@@ -21,7 +21,7 @@ Here are software/packages I requested in the past two years and I will real-tim
 * BioEdit
 * Eclipse+EPIC
 * Endnote
-* Adobe Illustrator
+* Adobe Illustrator/inkscape
 * Adobe Photoshop
 * MEGA7
 * Filezilla
