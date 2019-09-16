@@ -4,7 +4,7 @@ title: "How to prepare a computational biology work station in MCRI"
 author: Shicheng Guo
 date: 2018-02-27
 categories: bioinformatics
-tags: computational packages tools
+tags: computational packages tools time
 image: images/Shicheng-Guo-computational-tools-work-station.png	
 
 ---
