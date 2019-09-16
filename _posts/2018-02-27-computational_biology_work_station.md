@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to prepare a computational biology work station"
+title: "How to prepare a computational biology work station in MCRI"
 author: Shicheng Guo
 date: 2018-02-27
 categories: bioinformatics
