@@ -17,5 +17,16 @@ Here are software/packages I requested in the past two years and I will real-tim
 * R-studio (3.6.1)
 * Python
 * pycharm
-*
+* BioEdit
+* Eclipse
+* Endnote
+* Adobe Illustrator
+* Adobe Photoshop
+* MEGA7
+* Filezilla
+* Cytoscape
+* Haploview
+* Notepad++
+* 
+
 
