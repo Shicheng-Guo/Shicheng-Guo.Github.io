@@ -34,6 +34,7 @@ Here are software/packages I requested in the past two years and I will real-tim
 * Mendeley
 * Evernote/Zotero
 * Zoom
+* IGV/IGVtools
 
 
 
