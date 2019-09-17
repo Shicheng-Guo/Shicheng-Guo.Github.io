@@ -35,6 +35,11 @@ Here are software/packages I requested in the past two years and I will real-tim
 * Evernote/Zotero
 * Zoom
 * IGV/IGVtools
-
+* Julia
+* Rust
+* GATK
+* Picard
+* Deep Variant
+* Dragen
 
 
