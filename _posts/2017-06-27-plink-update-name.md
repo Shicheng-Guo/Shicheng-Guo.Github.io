@@ -2,7 +2,7 @@
 layout: post
 title: "How to update SNP id in plink dataset with bcftools or plink"
 author: Shicheng Guo
-date: 2017-06-27
+date: 2017-09-01
 categories: bioinformatics
 tags: computational packages plink bcftools
 image: images/Shicheng-Guo-GWAS-plink-bcftools-700px-New_lz_cond_only.png	
@@ -31,3 +31,4 @@ tabix -p vcf ROI.vcf.gz
 bcftools annotate -a ~/hpc/db/hg19/dbSNP/All_20180423.hg19.vcf.gz -c ID ROI.vcf.gz -Oz -o ROI.hg19.vcf.gz
 ```
 
+These two method will be best choice. hope you enjoy it. 
