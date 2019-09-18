@@ -3,7 +3,7 @@ layout: post
 title: "Genome-wide multiple bedgraph data analysis with Intervene"
 author: Shicheng Guo
 date: 2017-09-30
-categories: flexdashboard
+categories: bioinformatics
 tags: intervene bedgraph bedtools macs2
 image: images/Shicheng-Guo-Intervene_plots.png
 
@@ -16,7 +16,7 @@ conda install -c bioconda intervene
 
 for i in 2019032901 2019032903 2019040901 2019051703 2019052301 2019053101 2019053102
 do
-mkdir $i
 intervene venn -i /gpfs/home/guosa/hpc/methylation/pancrease/medip/venn/$i*.bed --project $i
 done
 ```
+
