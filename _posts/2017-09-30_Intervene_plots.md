@@ -2,7 +2,7 @@
 layout: post
 title: "Genome-wide multiple bedgraph data analysis with Intervene"
 author: Shicheng Guo
-date: 2019-08-19
+date: 2017-09-30
 categories: flexdashboard
 tags: cfDNA fragmentation cancer
 image: images/Shicheng-Guo-Intervene_plots.png
