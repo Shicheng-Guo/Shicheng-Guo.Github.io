@@ -19,4 +19,4 @@ do
 intervene venn -i /gpfs/home/guosa/hpc/methylation/pancrease/medip/venn/$i*.bed --project $i
 done
 ```
-Here, you can find the venn diagrams which are quite fancy. 
+Here, you can find the venn diagrams which are quite fancy. We can prepare venn for each sample. 
