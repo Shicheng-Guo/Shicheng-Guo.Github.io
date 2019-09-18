@@ -1,5 +1,5 @@
+
 ---
-layout: post
 title: "Genome-wide multiple bedgraph data analysis with Intervene"
 author: Shicheng Guo
 date: 2017-09-30
