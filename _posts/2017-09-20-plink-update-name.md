@@ -5,7 +5,7 @@ author: Shicheng Guo
 date: 2017-09-20
 categories: bioinformatics
 tags: computational packages plink bcftools
-image: images/Shicheng-Guo-GWAS-plink-bcftools-700px-New_lz_cond_only.png	
+image: images/Shicheng-Guo-update-plink-id.png	
 
 ---
 
