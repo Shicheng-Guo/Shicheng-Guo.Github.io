@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Characterizing population with principle componment analysis in European and China"
+title: "Characterizing population with principle componment analysis"
 author: Shicheng Guo
 date: 2017-06-28
 categories: text_analysis
