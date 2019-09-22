@@ -5,7 +5,7 @@ author: Shirin Glander
 date: 2017-06-28
 categories: text_analysis
 tags: text_analysis tidytext ggplot tidyverse
-image: ./image/Shicheng-Guo-PCA-European-China-USA.png	
+image: images/Shicheng-Guo-PCA-European-China-USA.png	
 
 ---
 
