@@ -13,6 +13,8 @@ Lately, I have been more and more taken with tidy principles of data analysis. T
 
 In this post, I will explore **tidytext** with an analysis of my Twitter followers' descriptions to try and learn more about the people who are interested in my tweets, which are mainly about Data Science and Machine Learning.
 
+**
+
 Resources I found useful for this analysis were <http://www.rdatamining.com/docs/twitter-analysis-with-r> and <http://tidytextmining.com/tidytext.html>
 
 <br>
