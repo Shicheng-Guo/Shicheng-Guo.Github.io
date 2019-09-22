@@ -8,3 +8,5 @@ tags: population genetics medical
 image: images/USA-PCA-Population-Genetics-Shicheng-Guo.png	
 
 ---
+
+Here, Data Science in Population Genetics and Medical Genetics
