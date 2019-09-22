@@ -5,7 +5,8 @@ author: Shirin Glander
 date: 2017-06-28
 categories: text_analysis
 tags: text_analysis tidytext ggplot tidyverse
-image: text_analysis/2017/06/28/twitter_post_files/figure-markdown_github/unnamed-chunk-41-1.png
+image: ./image/Shicheng-Guo-PCA-European-China-USA.png	
+
 ---
 
 Lately, I have been more and more taken with tidy principles of data analysis. They are elegant and make analyses clearer and easier to comprehend. Following the **tidyverse** and **ggraph**, I have been quite intrigued by applying tidy principles to text analysis with [Julia Silge and David Robinson's **tidytext**](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html).
