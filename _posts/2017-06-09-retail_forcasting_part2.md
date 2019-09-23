@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Genetics and epigenetics of pancreatic cancer and cholangiocarcinoma"
+title: "Genetics and epigenetics of pancreatic and cholangiocarcinoma"
 author: Shicheng Guo
 date: 2017-06-09
 categories: bioinformatics
