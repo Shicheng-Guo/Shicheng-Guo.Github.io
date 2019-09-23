@@ -15,5 +15,5 @@ image: images/Shicheng-Guo-Pancreatic-cancer.png
 
 
 
-
+* pancreatic cancer and cholangiocarcinoma
 * All the figures are only used for non-profit education. reminding me if infrigement happens.
