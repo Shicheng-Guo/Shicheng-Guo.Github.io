@@ -8,4 +8,4 @@ tags:
 image: images/Shicheng-Guo-2019-R-fancy-Figures.png	
 
 ---
-All the figures are only used for non-profit education. reminding me if infrigement happens.
+* All the figures are only used for non-profit education. reminding me if infrigement happens.
