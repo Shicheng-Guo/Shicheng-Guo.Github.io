@@ -5,7 +5,7 @@ author: Shicheng Guo
 date: 2017-05-28
 categories: bioinformatics
 tags: genetic epigenetic esophageal squamous cell carcinoma
-image: images/Shicheng-Guo-Esophageal-Cancer.png
+image: images/Shicheng-Guo-Esopheage-cancer-2016.png
 
 ---
 
