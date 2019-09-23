@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data on tour: Plotting 3D maps and location tracks"
+title: "How to apply R for Plotting 3D maps and location tracks"
 date: 2017-04-09
 categories: maps
 tags: maps gpx ggplot2 ggmap plot3d 3D gis
