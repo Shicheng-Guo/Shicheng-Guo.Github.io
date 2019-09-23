@@ -16,4 +16,4 @@ image: images/Shicheng-Guo-Pancreatic-cancer.png
 
 
 
-* All the figures are only used for non-profit education. 
+* All the figures are only used for non-profit education. reminding me if infrigement happens.
