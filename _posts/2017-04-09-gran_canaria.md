@@ -5,7 +5,8 @@ date: 2017-04-09
 categories: maps
 tags: maps gpx ggplot2 ggmap plot3d 3D gis
 author: Dr. Shirin Glander
-image: maps/2017/04/09/gran_canaria_files/figure-markdown_github/unnamed-chunk-28-1.png
+image: images/Shicheng-Guo-R-locating-map-2019.png	
+
 ---
 
 Recently, I was on Gran Canaria for a vacation. So, what better way to keep up the holiday spirit a while longer than to visualize all the places we went in R!?
