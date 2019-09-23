@@ -9,5 +9,4 @@ image: images/Shicheng-Guo-Pancreatic-cancer.png
 
 ---
 * [Pancreatic cancer and cholangiocarcinoma](../images/Shicheng-Guo-pancrease-2016.png)
-* Later, please add corresponding references
 * All the figures are only used for non-profit education. reminding me if infrigement happens.
