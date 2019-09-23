@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Precision Medicine: Genetic and epigenetic of Hepatocellular Carcinoma"
+title: "Advances in Genetic and epigenetic of Hepatocellular Carcinoma"
 author: Shicheng Guo
 date: 2017-05-02
 categories: bioinformatics
