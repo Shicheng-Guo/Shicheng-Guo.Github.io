@@ -3,11 +3,12 @@ layout: post
 title: "How to apply R for Plotting 3D maps and location tracks"
 date: 2017-04-09
 categories: maps
-tags: maps gpx ggplot2 ggmap plot3d 3D gis
+tags: maps gpx ggplot2 ggmap plot3d 3D gis locate
 author: Dr. Shirin Glander
 image: images/Shicheng-Guo-R-locating-map-2019.png	
 
 ---
+
 
 Recently, I was on Gran Canaria for a vacation. So, what better way to keep up the holiday spirit a while longer than to visualize all the places we went in R!?
 
