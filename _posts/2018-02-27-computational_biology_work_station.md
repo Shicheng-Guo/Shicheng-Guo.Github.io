@@ -42,4 +42,5 @@ Here are software/packages I requested in the past two years and I will real-tim
 * Deep Variant
 * Dragen
 
+* All the figures are only used for non-profit education. reminding me if infrigement happens
 
