@@ -96,3 +96,6 @@ https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hg19/re
 
 * human refGene hg38 TSS: 
 https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hg38/refGene.hg38.TSS.bed
+
+* All the figures are only used for non-profit education. reminding me if infrigement happens
+
