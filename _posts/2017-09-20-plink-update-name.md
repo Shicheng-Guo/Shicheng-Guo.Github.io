@@ -30,5 +30,11 @@ bcftools view ROI.vcf -Oz -o ROI.vcf.gz
 tabix -p vcf ROI.vcf.gz
 bcftools annotate -a ~/hpc/db/hg19/dbSNP/All_20180423.hg19.vcf.gz -c ID ROI.vcf.gz -Oz -o ROI.hg19.vcf.gz
 ```
+3. How to generate haploview input with plink v1.09
+
+```
+plink --file <input_prefix> --recode HV --snps-only just-acgt --out <output_prefix>
+```
+
 
 These two method will be best choice. hope you enjoy it. 
