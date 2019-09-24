@@ -58,3 +58,6 @@ Biopsy in Prostate Cancer"](https://github.com/christacaggiano/cell-free-dna-rea
 * Feng et al ["Disease prediction by cell-free DNA methylation"](https://academic-oup-com.ucsf.idm.oclc.org/bib/advance-article/doi/10.1093/bib/bby029/4973009)
 
 > see the [slice](https://github.com/Shicheng-Guo/Shicheng-Guo.Github.io/blob/master/slice/Postdoc_Club_2019_08_19_cfDNA_Fragement.pptx) for the presentation. Also you can [download here](https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.Github.io/master/slice/Postdoc_Club_2019_08_19_cfDNA_Fragement.pptx) for more details..
+
+* All the figures are only used for non-profit education. reminding me if infrigement happens
+
