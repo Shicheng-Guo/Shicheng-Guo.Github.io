@@ -15,6 +15,8 @@ Cell-free DNA in the blood provides a non-invasive diagnostic avenue for patient
 
 #### Cell-Free DNA Project and Adavance
 * 09/29/2019: Shanghai Changhai Hospital: Prospective Estimation on Stool-DNA Screening of Colorectal Cancer
+* 09/28/2019: ESMO, GRAIL (Dr. Geoffrey R Oxnard) anounce cfDNA methylation for tissue-of-origin prediction for 20+ human cancers
+
 
 #### Cell-Free DNA General Background
 * Pan et al ["Brain Tumor Mutations Detected in Cerebral Spinal Fluid"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Pan%20et%20al.pdf)
