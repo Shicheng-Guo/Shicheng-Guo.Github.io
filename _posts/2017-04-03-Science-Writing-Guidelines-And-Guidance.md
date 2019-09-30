@@ -11,7 +11,7 @@ image: images/Shicheng-Guo-writting-research-760x400.jpg
 
 ### Science Writing: Guidelines And Guidance
 
-* nut graf is most important point in your paper.
+* nut graf (key points) is most important point in your paper.
 * if it states something most readers already know, they won't feel the need to keep reading
 * if it is too obscure, reader will not invest time to read it
 * don't let readers assmble your nut graf for you  
