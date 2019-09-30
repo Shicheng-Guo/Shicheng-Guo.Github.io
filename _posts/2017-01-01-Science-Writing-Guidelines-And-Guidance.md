@@ -19,7 +19,8 @@ image: images/Shicheng-Guo-writting-research-760x400.jpg
 6. no ships in bottles
 7. prepare a poster and prepare a PPT-presentation will help you make the manuscript better. 
 8. therefore, when you finish your manuscript, prepare a poster and slices as soon as possibile. 
-9. Write a popular science story for your mansucript also enhance the quality of the manuscript
+9. Write a popular science story for your mansucript also enhance the quality of the manuscript.
+10. Let your colleagues read it and give some comments will give important help for the manuscript
 
 * All the figures are only used for non-profit education. reminding me if infrigement happens.
 
