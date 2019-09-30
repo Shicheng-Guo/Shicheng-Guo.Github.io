@@ -1,5 +1,15 @@
+---
+layout: post
+title: "Science Writing: Guidelines And Guidance in Medical Research"
+author: Shicheng Guo
+date: 2019-01-01
+categories: writting
+tags: writting grant proposal manuscript
+image: images/LLDT8-lncRNA-Nature-ScientificReports-Shicheng-Guo.png
 
-## Science Writing: Guidelines And Guidance
+---
+
+### Science Writing: Guidelines And Guidance
 
 1. nut graf is most important point in your paper.
 2. if it states something most readers already know, they won't feel the need to keep reading
