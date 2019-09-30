@@ -2,7 +2,7 @@
 layout: post
 title: "Science Writing: Guidelines And Guidance in Medical Research"
 author: Shicheng Guo
-date: 2017-01-01
+date: 2017-04-03
 categories: writting
 tags: writting grant proposal manuscript
 image: images/Shicheng-Guo-writting-research-760x400.jpg	
