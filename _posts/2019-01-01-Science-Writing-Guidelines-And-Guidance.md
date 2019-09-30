@@ -17,3 +17,6 @@ image: images/Shicheng-Guo-writting-research-760x400.jpg
 4. keep the contents lives up to the nut graf otherwise the reader will be feeling be cheated.
 5. no mind-reading required
 6. no ships in bottles
+
+* All the figures are only used for non-profit education. reminding me if infrigement happens.
+
