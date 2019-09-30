@@ -5,7 +5,7 @@ author: Shicheng Guo
 date: 2017-04-03
 categories: writting
 tags: writting grant proposal manuscript
-image: images/Shicheng-Guo-writting-research-760x400.jpg	
+image: images/Shicheng-Guo-writting-research-760x400.jpg
 
 ---
 
