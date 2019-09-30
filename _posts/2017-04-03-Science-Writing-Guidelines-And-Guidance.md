@@ -20,7 +20,7 @@ image: images/Shicheng-Guo-writting-research-760x400.jpg
 * keep the contents lives up to the nut graf otherwise the reader will be feeling be cheated.
 * no mind-reading required
 * no ships in bottles
-* prepare a poster and prepare a PPT-presentation will help you make the manuscript better. 
+* prepare a poster and prepare a PPT-slice will help you make the manuscript better. 
 * therefore, when you finish your manuscript, prepare a poster and slices as soon as possibile. 
 * Write a popular science story for your mansucript also enhance the quality of the manuscript.
 * Let your colleagues read it and give some comments will give important help for the manuscript
