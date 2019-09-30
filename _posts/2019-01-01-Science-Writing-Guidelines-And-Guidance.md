@@ -5,7 +5,7 @@ author: Shicheng Guo
 date: 2019-01-01
 categories: writting
 tags: writting grant proposal manuscript
-image: images/LLDT8-lncRNA-Nature-ScientificReports-Shicheng-Guo.png
+image: images/Shicheng-Guo-writting-research-760x400.jpg	
 
 ---
 
