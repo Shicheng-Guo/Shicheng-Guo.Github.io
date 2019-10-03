@@ -1,0 +1,1 @@
+Hopkins GIM faculty are working on several health disparities focus areas identified by the Department of Health and Human Services--Cancer screening and management; Cardiovascular Disease; Diabetes; HIV/AIDS --with particular attention to the health of African Americans.
