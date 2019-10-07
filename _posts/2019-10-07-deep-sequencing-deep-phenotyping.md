@@ -9,4 +9,4 @@ image: images/Shicheng-Guo-deep-sequencing-deep-phenotyping-2019.png
 
 ---
 
-Today, I want to give a talk about application of AI in risk prediction and disease diagnosis with deep sequencing and deep phenotyping. As the technique growth, we have already had the ability to generate deep sequencing data within short time, however, ..
+Today, I want to give a talk about application of AI in risk prediction and disease diagnosis with deep sequencing and deep phenotyping. As the technique growth, we have already had the ability to generate deep sequencing data within short time, however, deep phenotyping is not easy work which limited the development of genetic association study. 
