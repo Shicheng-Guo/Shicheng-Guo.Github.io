@@ -5,7 +5,7 @@ author: Shicheng Guo
 date: 2019-10-07
 categories: research
 tags: biomedical research MCRI internal grant
-image: images/Shicheng-Guo-MCRI-Grant-2019.png	
+image: images/Shicheng-Guo-deep-sequencing-deep-phenotyping-2019.png
 
 ---
 
