@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to apply artificial intelligence in risk prediction and mendelian diseases diagnosis"
+title: "Artificial intelligence in risk prediction and mendelian diseases diagnosis"
 author: Shicheng Guo
 date: 2019-10-07
 categories: research
