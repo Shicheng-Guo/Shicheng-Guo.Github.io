@@ -64,6 +64,10 @@ Biopsy in Prostate Cancer"](https://github.com/christacaggiano/cell-free-dna-rea
 
 #### Methylation pipeline and analysis tools
 
+* [MethylMix 2.0: an R package for identifying DNA methylation genes](https://www.ncbi.nlm.nih.gov/pubmed/29668835)
+* [RnBeads 2.0: comprehensive analysis of DNA methylation data](RnBeads 2.0: comprehensive analysis of DNA methylation data)
+* [Bismark:A tool to map bisulfite converted sequence reads and determine cytosine methylation states](https://www.bioinformatics.babraham.ac.uk/projects/bismark/)
+
 
 * see the [slice](https://github.com/Shicheng-Guo/Shicheng-Guo.Github.io/blob/master/slice/Postdoc_Club_2019_08_19_cfDNA_Fragement.pptx) for the presentation. Also you can [download here](https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.Github.io/master/slice/Postdoc_Club_2019_08_19_cfDNA_Fragement.pptx) for more details..
 
