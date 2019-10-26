@@ -4,7 +4,7 @@ title: "Population Genetics in East Asian and Allele Frequency"
 author: Shicheng Guo
 date: 2019-10-24
 categories: research
-tags: East Asian Population
+tags: East Asian Population MAF
 image: images/2019-Shicheng-Guo-China-Asian-India.png	
 
 
