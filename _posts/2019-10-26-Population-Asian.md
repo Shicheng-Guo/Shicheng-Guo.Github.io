@@ -18,7 +18,6 @@ image: images/2019-Shicheng-Guo-China-Asian-India.png
 
 
 ###  Reference
-1. Jones, H.G. et al. Genetic and Epigenetic Intra-tumour Heterogeneity in Colorectal Cancer. World J Surg 41, 1375-1383 (2017).
 
 Disclosure.
 * All the opinions are my own and not the views of my employer
