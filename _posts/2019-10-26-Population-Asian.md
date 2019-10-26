@@ -5,7 +5,8 @@ author: Shicheng Guo
 date: 2019-10-24
 categories: research
 tags: East Asian Population
-image: images/2019-Shicheng-Guo-IntraTumorHeteroneity-ITH.png
+image: images/2019-Shicheng-Guo-China-Asian-India.png	
+
 
 ---
 * Z Du, 2019, Genomics, Proteomics & Bioinformatics, [Whole Genome Analyses of Chinese Population and De Novo Assembly of A Northern Han Genome](https://www.ncbi.nlm.nih.gov/pubmed/31494266)
