@@ -62,6 +62,9 @@ Biopsy in Prostate Cancer"](https://github.com/christacaggiano/cell-free-dna-rea
 * Krueger and Andrews ["Bismark: aflexible aligner and methylationcaller for Bisulfite-Seq applications"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Krueger%20and%20Andrews.pdf)
 * Feng et al ["Disease prediction by cell-free DNA methylation"](https://academic-oup-com.ucsf.idm.oclc.org/bib/advance-article/doi/10.1093/bib/bby029/4973009)
 
+#### Methylation pipeline and analysis tools
+
+
 * see the [slice](https://github.com/Shicheng-Guo/Shicheng-Guo.Github.io/blob/master/slice/Postdoc_Club_2019_08_19_cfDNA_Fragement.pptx) for the presentation. Also you can [download here](https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.Github.io/master/slice/Postdoc_Club_2019_08_19_cfDNA_Fragement.pptx) for more details..
 
 * September 24, 2019 07:00 AM Eastern Daylight Time: CAMBRIDGE, Mass. & SAN CARLOS, Calif.--(BUSINESS WIRE)--Foundation Medicine, Inc. and Natera, Inc. (NASDAQ: NTRA) today announced a partnership to develop and commercialize personalized circulating tumor DNA (ctDNA) monitoring assays, for use by biopharmaceutical and clinical customers who order FoundationOne®CDx. The initial focus of the partnership will be to enable ctDNA monitoring in biopharmaceutical trials in 2020 to establish the clinical utility for these novel assays. Following these studies, a monitoring product will be made available to clinical customers.
