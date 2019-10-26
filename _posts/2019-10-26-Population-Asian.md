@@ -8,7 +8,8 @@ tags: East Asian Population
 image: images/2019-Shicheng-Guo-IntraTumorHeteroneity-ITH.png
 
 ---
-* Zhenlin Du, 2019, Genomics, Proteomics & Bioinformatics, Whole Genome Analyses of Chinese Population and De Novo Assembly of A Northern Han Genome. 
+* Z Du, 2019, Genomics, Proteomics & Bioinformatics, [Whole Genome Analyses of Chinese Population and De Novo Assembly of A Northern Han Genome](https://www.ncbi.nlm.nih.gov/pubmed/31494266)
+* S Liu, 2018, Cell, [Genomic analyses from non-invasive prenatal testing reveal genetic associations, patterns of viral infections, and history in Chinese populations](https://www.ncbi.nlm.nih.gov/pubmed/30290141)
 
 ###  Aim and Background
 
