@@ -10,9 +10,7 @@ image: images/2019-Shicheng-Guo-Cancer-Prevelence-death.png
 
 ---
 
-* McEWen, PNAS, 2019, The PedBE clock accurately estimates DNA methylation age in pediatric buccal cells
-* Stubbs, Genome Biol, 2017,Multi-tissue DNA methylation age predictor in mouse.
-* Horvath, Genome Biol, 2013, DNA methylation age of human tissues and cell types.
+
 
 
 ###  Aim and Background
