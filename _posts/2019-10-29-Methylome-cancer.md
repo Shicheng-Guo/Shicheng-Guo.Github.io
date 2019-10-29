@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Epigenome Research to Human Cancers"
+title: "Epigenome Research to Human Cancers with WGBS"
 author: Shicheng Guo
 date: 2019-10-28
 categories: research
