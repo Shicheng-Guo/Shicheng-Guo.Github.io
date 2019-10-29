@@ -7,9 +7,9 @@ categories: research
 tags: Epigenome Human Cancer
 image: images/2019-Shicheng-Guo-Cancer-Prevelence-death.png
 
-
 ---
 
+* Dehghanizadeh S, Khoddami V, Mosbruger TL, Hammoud SS et al. Active BRAF-V600E is the key player in generation of a sessile serrated polyp-specific DNA methylation profile. PLoS One 2018;13(3):e0192499. PMID: 29590112
 
 
 
