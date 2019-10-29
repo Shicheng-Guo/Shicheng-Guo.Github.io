@@ -5,7 +5,8 @@ author: Shicheng Guo
 date: 2019-10-28
 categories: research
 tags: Genomics, Environment Interaction, Epigenetics and Aging
-image: images/2019-Shicheng-Guo-China-Asian-India.png	
+image: images/2019-Shicheng-Guo-methylation-aging-clock.png	
+
 ---
 
 * McEWen, PNAS, 2019, The PedBE clock accurately estimates DNA methylation age in pediatric buccal cells
