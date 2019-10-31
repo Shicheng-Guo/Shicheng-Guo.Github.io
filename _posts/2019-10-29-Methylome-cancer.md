@@ -16,8 +16,6 @@ Here, I want to summarize Epigenome Research to Human Cancers with WGBS.
 * Ziller MJ, Gu H, Müller F, Donaghey J et al. Charting a dynamic DNA methylation landscape of the human genome. Nature 2013 Aug 22;500(7463):477-81. PMID: 23925113
 * Ziller MJ, Hansen KD, Meissner A, Aryee MJ. Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing. Nat Methods 2015 Mar;12(3):230-2, 1 p following 232. PMID: 25362363
 ####  Aim and Background
-
-
 Disclosure
 * All the opinions are my own and not the views of my employer
 * All the blogs are my own and not the views of my employer
