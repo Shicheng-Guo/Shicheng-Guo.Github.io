@@ -15,7 +15,7 @@ Here, I want to summarize Epigenome Research to Human Cancers with WGBS.
 * Skvortsova K, Masle-Farquhar E, Luu PL, Song JZ et al. DNA Hypermethylation Encroachment at CpG Island Borders in Cancer Is Predisposed by H3K4 Monomethylation Patterns. Cancer Cell 2019 Feb 11;35(2):297-314.e8. PMID: 30753827
 * Ziller MJ, Gu H, Müller F, Donaghey J et al. Charting a dynamic DNA methylation landscape of the human genome. Nature 2013 Aug 22;500(7463):477-81. PMID: 23925113
 * Ziller MJ, Hansen KD, Meissner A, Aryee MJ. Coverage recommendations for methylation analysis by whole-genome bisulfite sequencing. Nat Methods 2015 Mar;12(3):230-2, 1 p following 232. PMID: 25362363
-###  Aim and Background
+####  Aim and Background
 
 
 Disclosure
