@@ -12,7 +12,7 @@ image: images/Shicheng-Guo-Atrial-Fibrillation-ECG-2019-Methylation-Epigenetics.
 #### Normal human tissues
 * McEWen, PNAS, 2019, The PedBE clock accurately estimates DNA methylation age in pediatric buccal cells
 * Stubbs, Genome Biol, 2017,Multi-tissue DNA methylation age predictor in mouse.
-* Horvath, Genome Biol, 2013, DNA methylation age of human tissues and cell types.
+
 #### Cancer and adjacent tissues
 
 
