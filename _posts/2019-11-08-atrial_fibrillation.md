@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Genome-wide DNA methylation analysis uncovers novel epigenetic changes in human atrial fibrillation"
+title: "Genome-wide DNA methylation to human atrial fibrillation"
 author: Shicheng Guo
 date: 2019-11-08
 categories: research
