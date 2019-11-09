@@ -11,7 +11,6 @@ image: images/Shicheng-Guo-Atrial-Fibrillation-ECG-2019-Methylation-Epigenetics.
 
 ####  Aim and Background
 
-
 #### Normal human heart tissues
 
 #### Normal human blood cells
