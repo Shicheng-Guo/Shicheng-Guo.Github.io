@@ -15,7 +15,6 @@ image: images/Shicheng-Guo-Atrial-Fibrillation-ECG-2019-Methylation-Epigenetics.
 
 #### Normal human blood cells
 
-
 ####  Reference
 
 Disclosure.
