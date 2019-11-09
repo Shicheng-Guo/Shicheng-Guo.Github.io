@@ -6,8 +6,6 @@ date: 2019-11-08
 categories: research
 tags: WGBS AF 850K
 image: images/Shicheng-Guo-Atrial-Fibrillation-ECG-2019-Methylation-Epigenetics.png	
-
-
 ---
 ####  Aim and Background
 
