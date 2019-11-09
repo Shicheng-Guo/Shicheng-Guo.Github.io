@@ -4,7 +4,7 @@ title: "Genome-wide DNA methylation to human atrial fibrillation"
 author: Shicheng Guo
 date: 2019-11-08
 categories: research
-tags: WGBS AF 850K
+tags: WGBS AF 850K Genome-wide
 image: images/Shicheng-Guo-Atrial-Fibrillation-ECG-2019-Methylation-Epigenetics.png	
 
 ---
