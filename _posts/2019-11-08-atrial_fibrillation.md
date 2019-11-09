@@ -10,7 +10,6 @@ image: images/Shicheng-Guo-Atrial-Fibrillation-ECG-2019-Methylation-Epigenetics.
 ####  Aim and Background
 
 #### Normal human tissues
-* McEWen, PNAS, 2019, The PedBE clock accurately estimates DNA methylation age in pediatric buccal cells
 
 #### Cancer and adjacent tissues
 
