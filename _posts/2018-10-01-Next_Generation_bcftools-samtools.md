@@ -39,9 +39,17 @@ bcftools annotate -a ~/hpc/db/hg19/refGene.hg19.VCF.sort.bed.gz -c CHROM,FROM,TO
 # review dbSNPs from vcf.gz file
 bcftools view -i '%iD=="rs35705950"' MUC.anno.hg19.vcf.gz | less -S 
 bcftools view -i '%iD=="rs79920422"' MUC.anno.hg19.vcf.gz | less -S 
-
-
 ```
+#### How to fix this strand flips for Michigan Imputation Server?
+* Error: More than 100 obvious strand flips have been detected. Please check strand. Imputation cannot be started!
+```
+chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz
+zcat chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz | awk '{print $1,$2,$3,$4,$5}' OFS="\t"| grep -v '\.;' > keep.txt
+bcftools view -T keep.txt chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz -Oz -o chr2.1kg.phase3.v5a.dedup.norm.clean.EUR.vcf.gz
+```
+
+
+
 ### vcftools
 ```
 zcat dbSNP152.chr1.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c > dbSNP152.chr1.hg19.sort.vcf.gz &
