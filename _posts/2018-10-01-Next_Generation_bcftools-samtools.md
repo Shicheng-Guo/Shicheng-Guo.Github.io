@@ -46,6 +46,20 @@ bcftools view -i '%iD=="rs79920422"' MUC.anno.hg19.vcf.gz | less -S
 chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz
 zcat chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz | awk '{print $1,$2,$3,$4,$5}' OFS="\t"| grep -v '\.;' > keep.txt
 bcftools view -T keep.txt chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz -Oz -o chr2.1kg.phase3.v5a.dedup.norm.clean.EUR.vcf.gz
+
+# you need remove the following SNPs from chr2.1kg.phase3.v5a.dedup.EUR.vcf.gz
+^2      18004148        .;rs541466601   AGAGCCCA        AGAGCCCG
+^2      33172927        .;rs554173463   GC      GA
+^2      40484170        .;rs537996337   AAATAAATA       AAATAAATG
+^2      44234879        rs550419970;.;rs533534296       ATAAA   ATAAATAAA
+^2      45515468        .;rs544467622   CTTTTGT CTTTTAT
+^2      47982412        .;rs536566627   GG      GC
+^2      74559847        .;rs564494041   TGT     TGC
+^2      77195037        .;rs548983836   TTAC    TCAC
+^2      84495638        rs573607330;.;rs569169043       AATAA   AATAAATAA
+^2      109192726       .;rs539410502   GTTTTGTTTTG     GTTTTGTTTTC
+^2      179073443       .;rs538697958   TTTTCC  TTTGCC
+^2      206417755       rs574286642;.;rs576039119       AGAA    AGAAGAA
 ```
 
 
