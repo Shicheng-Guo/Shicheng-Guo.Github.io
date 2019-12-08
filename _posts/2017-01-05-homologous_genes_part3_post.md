@@ -9,7 +9,7 @@ image: genome/2017/01/05/homologous_genes_part3_post_files/figure-markdown_githu
 ---
 
 Which genes have homologs in many species?
--------------------------------------------------------------
+--------------------------------------------------------------
 
 In [Part 1](https://shiring.github.io/genome/2016/12/11/homologous_genes_post) and [Part 2](https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post) I have already explored gene homology between humans and other species. But there I have only considered how many genes where shared between the species.
 
