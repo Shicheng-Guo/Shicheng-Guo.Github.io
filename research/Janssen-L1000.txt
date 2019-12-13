@@ -1,2 +1,0 @@
-Janssen will generate gene-expression profiles from 250,000 compounds from Janssen’s small-molecule screening library using its proprietary L1000™ Expression Profiling technology. This is the first time gene-expression profiling has been applied at this scale, and this multi-year contract showcases a commitment to high-throughput gene-expression profiling for multiple drug discovery and development applications. The data will be used for primary screening and library characterization as well as to improve the selection of 
-candidate drugs prior to clinical studies.
