@@ -29,6 +29,13 @@ symbol <- as.list(org.Hs.egALIAS2EG)
 symbol2geneid<-data.frame(names(symbol),as.character(symbol))
 ```
 
+* Transfer between ENSG and ENST with KEGG ID
+```
+library("org.Hs.eg.db")
+symbol <- as.list(org.Hs.egALIAS2EG)
+symbol2geneid<-data.frame(names(symbol),as.character(symbol))
+```
+
 Disclosure.
 * All the opinions are my own and not the views of my employer
 * All the blogs are my own and not the views of my employer
