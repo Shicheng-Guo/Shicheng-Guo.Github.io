@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Gene ID Transfer with R - Symbol, Gene ID, KEGG ID"
+title: "Gene ID Transfer with R between Symbol, Gene ID and KEGG ID"
 author: Shicheng Guo
-date: 1945-11-08
+date: 1945-01-08
 categories: research
 tags: GeneID Symbol KEGG ID
 image: images/Shicheng-Guo-Atrial-Fibrillation-ECG-2019-Methylation-Epigenetics.png	
