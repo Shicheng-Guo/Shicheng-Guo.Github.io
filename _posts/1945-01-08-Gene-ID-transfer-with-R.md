@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gene ID Transfer with R"
+title: "Gene ID Transfer with R - Symbol, Gene ID, KEGG ID"
 author: Shicheng Guo
 date: 2019-11-08
 categories: research
@@ -11,7 +11,10 @@ image: images/Shicheng-Guo-Atrial-Fibrillation-ECG-2019-Methylation-Epigenetics.
 
 
 ```
-
+library("org.Hs.eg.db")
+symbol <- as.list(org.Hs.egALIAS2EG)
+symbol2geneid<-data.frame(names(symbol),as.character(symbol))
+```
 
 Disclosure.
 * All the opinions are my own and not the views of my employer
