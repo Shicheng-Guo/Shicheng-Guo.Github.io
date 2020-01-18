@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to apply MACS2 to identify methylation peaks with MBD-seq"
+title: "DNA methylation and Epigenetic research in Human Population"
 author: Shicheng Guo
 date: 1939-01-08
 categories: research
