@@ -4,7 +4,7 @@ title: "How to apply MACS2 to identify methylation peaks with MBD-seq"
 author: Shicheng Guo
 date: 1939-01-08
 categories: research
-tags: MACS2 methylation peak human genome
+tags: Epigenetics methylation splicing nucleosomes prions
 
 ---
 
