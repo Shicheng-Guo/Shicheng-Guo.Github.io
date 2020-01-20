@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robust Region-Based Rare-Variant Test to UKBB exome-sequencing Data"
+title: "Robust Region-Based Rare-Variant Test to UKBB-Seq Data"
 author: Shicheng Guo
 date: 2020-01-20
 categories: research
