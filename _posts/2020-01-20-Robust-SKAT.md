@@ -4,7 +4,7 @@ title: "Robust Region-Based Rare-Variant Test to UKBB-Seq Data"
 author: Shicheng Guo
 date: 2020-01-20
 categories: research
-tags: UKBB SKAT Robust GWAS PheWAS 
+tags: UKBB SKAT Robust GWAS PheWAS Manhattan
 image: images/UKBB-ESCC-RA-CRC-Robust-SKAT-O-Shicheng-Guo-2020.png
 
 ---
