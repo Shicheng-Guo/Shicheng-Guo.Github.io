@@ -1,6 +1,6 @@
 x
 s
-x
+xx
 x
 x
 x
