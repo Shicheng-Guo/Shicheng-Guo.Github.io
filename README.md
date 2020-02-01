@@ -13,7 +13,7 @@ xx
 xx
 xx
 xs
-x
+xs
 x
 x
 x
