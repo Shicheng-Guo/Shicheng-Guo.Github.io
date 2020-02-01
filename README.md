@@ -32,7 +32,7 @@ xs
 xs
 xs
 xs
-x
+xs
 x
 x
 x
