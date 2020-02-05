@@ -79,6 +79,33 @@ qsub $i.job
 done
 ```
 
+
+### How to prepare vcf files which can be submitted to michigan imputaiton server 
+```
+cd ~/hpc/rheumatology/RA/RA500
+mkdir michigan
+plink --bfile RA2020-B8 --list-duplicate-vars ids-only suppress-first
+plink --bfile RA2020-B8 --alleleACGT --snps-only just-acgt --exclude plink.dupvar --make-bed --out RA2020-B9
+cd michigan
+mkdir temp
+wget https://faculty.washington.edu/browning/conform-gt/conform-gt.24May16.cee.jar -O conform-gt.24May16.cee.jar
+for i in {1..23} 
+do
+echo \#PBS -N $i  > $i.job
+echo \#PBS -l nodes=1:ppn=12 >> $i.job
+echo \#PBS -M Guo.shicheng\@marshfieldresearch.org >> $i.job
+echo \#PBS -m abe  >> $i.job
+echo \#PBS -o $(pwd)/temp/ >>$i.job
+echo \#PBS -e $(pwd)/temp/ >>$i.job
+echo cd $(pwd) >> $i.job
+echo plink --bfile ../RA2020-B9 --chr $i --recode vcf-iid --out RA2020-B9.chr$i >> $i.job
+echo bcftools view RA2020-B9.chr$i.vcf -Oz -o RA2020-B9.chr$i.vcf.gz >>$i.job
+echo tabix -p vcf RA2020-B9.chr$i.vcf.gz >>$i.job
+echo java -jar ./conform-gt.24May16.cee.jar gt=RA2020-B9.chr$i.vcf.gz chrom=$i ref=~/hpc/db/hg19/beagle/EAS/chr$i.1kg.phase3.v5a.EAS.vcf.gz  out=RA2020-B9.chr$i.beagle.vcf.gz  >>$i.job
+qsub $i.job
+done
+```
+
 ###  Reference
 
 
