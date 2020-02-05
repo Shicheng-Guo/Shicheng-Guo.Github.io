@@ -17,6 +17,32 @@ Here, I want to summarize Population Genetics in East Asian and Allele Frequency
 * H Bai,2018, Nature Genetics, [Whole-genome sequencing of 175 Mongolians uncovers population-specific genetic architecture and gene flow throughout North/East Asia](https://www.nature.com/articles/s41588-018-0250-5)
 
 
+###  How to pre-process the plink data and association study (basic, not advanced)
+```
+cd ~/hpc/rheumatology/RA/RA500
+#plink --file result_extract_forward --make-bed --out RA500
+plink --bfile RA500 --mind 0.05 --make-bed --out RA2020-B1
+plink --bfile RA2020-B1 --geno 0.1 --make-bed --out RA2020-B2
+plink --bfile RA2020-B2 --maf 0.01 --make-bed --out RA2020-B3
+plink --bfile RA2020-B3 --hwe 0.00001 --make-bed --out RA2020-B4
+plink2 --bfile RA2020-B4 --king-cutoff 0.125
+plink2 --bfile RA2020-B4 --remove plink2.king.cutoff.out.id --make-bed -out RA2020-B5
+plink --bfile RA2020-B5 --check-sex
+plink --bfile RA2020-B5 --impute-sex --make-bed --out RA2020-B6
+plink --bfile RA2020-B6 --check-sex
+grep PROBLEM plink.sexcheck | awk '{print $1,$2}' > sexcheck.remove
+plink --bfile RA2020-B6 --remove sexcheck.remove --make-bed --out RA2020-B7
+plink --bfile RA2020-B7 --test-missing midp 
+awk '$5<0.000001{print}' plink.missing | awk '{print $2}' > missing.imblance.remove
+plink --bfile RA2020-B7 --exclude missing.imblance.remove --make-bed --out RA2020-B8
+plink --bfile RA2020-B8 --pca --threads 31
+# perl phen.pl RA2020-B8.fam > RA2020-B8.fam.new
+# mv RA2020-B8.fam.new RA2020-B8.fam
+plink --bfile RA2020-B8 --logistic --covar plink.eigenvec --covar-number 1-5 --adjust
+plink --bfile RA2020-B8 --assoc --adjust gc --threads 31  --ci 0.95 --out RA500
+plink --bfile RA2020-B8 --assoc mperm=1000000 --adjust gc --threads 31
+```
+
 ###  Prepare Population Specific Genoytping data based on 1000 Genome Phase 3 data
 ```
 #############################################
