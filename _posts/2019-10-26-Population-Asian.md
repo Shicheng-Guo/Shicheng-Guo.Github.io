@@ -17,6 +17,7 @@ Here, I want to summarize Population Genetics in East Asian and Allele Frequency
 * H Bai,2018, Nature Genetics, [Whole-genome sequencing of 175 Mongolians uncovers population-specific genetic architecture and gene flow throughout North/East Asia](https://www.nature.com/articles/s41588-018-0250-5)
 
 
+* Prepare Population Specific Genoytping data based on 1000 Genome Phase 3 data
 ```
 #############################################
 cd ~/hpc/db/hg19/beagle
