@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Submit NGS Seqeuencing data to SRA"
+title: "Resources for flow cytometry bioinformatics analysis"
 author: Shicheng Guo
 date: 1929-02-28
 categories: bioinformatics
