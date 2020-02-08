@@ -8,7 +8,7 @@ tags: flow cytometry human
 
 ---
 
-### Resources for flow cytometry bioinformatics
+### Resources for flow cytometry bioinformatics analysis
 
 Community portals
 * ISAC https://isac-net.org
