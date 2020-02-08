@@ -4,7 +4,7 @@ title: "How to Submit NGS Seqeuencing data to SRA"
 author: Shicheng Guo
 date: 1929-02-28
 categories: bioinformatics
-tags: SRA bioproject biosample
+tags: flow cytometry human
 
 ---
 
