@@ -9,7 +9,6 @@ tags: dual-RNAseq
 ---
 
 bacterial RNA-seq analysis with Rockhopper: RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues
-
 ```
 #########################################################################################################
 ##### RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues ###########
