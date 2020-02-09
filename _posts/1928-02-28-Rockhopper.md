@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues"
+title: "RNA-seq data to reveal novel response mechanism to bacterial"
 author: Shicheng Guo
 date: 1928-02-28
 categories: bioinformatics
@@ -8,7 +8,7 @@ tags: dual-RNAseq
 
 ---
 
-bacterial RNA-seq analysis with Rockhopper
+bacterial RNA-seq analysis with Rockhopper: RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues
 
 ```
 #########################################################################################################
