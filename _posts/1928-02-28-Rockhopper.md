@@ -4,7 +4,7 @@ title: "RNA-seq data to reveal novel response mechanism to bacterial"
 author: Shicheng Guo
 date: 1928-02-28
 categories: bioinformatics
-tags: dual-RNAseq 
+tags: dual-RNAseq nr.faa diamond samsa2
 
 ---
 
