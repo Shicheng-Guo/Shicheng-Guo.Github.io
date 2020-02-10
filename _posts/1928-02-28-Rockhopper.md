@@ -9,6 +9,21 @@ tags: dual-RNAseq
 ---
 
 bacterial RNA-seq analysis with Rockhopper: RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues
+
+
+```
+Here is a small pipeline to do microbial RNA-seq analysis with [Rockhopper][1], Here I suppose you have pair-end RNA-seq data and single-end reads will be much easier for which I will not show it in this post:  
+
+Step 1: Download Rockhopper including both Windows and Java versions. Please remember download Rockhopper.exe is important since it can be used to create reference much easier. You can download the reference from windows system and copy them to your Linux server. 
+    wget https://cs.wellesley.edu/~btjaden/Rockhopper/download/current/Rockhopper.exe
+    wget http://cs.wellesley.edu/~btjaden/Rockhopper/download/current/Rockhopper.jar
+Step 2: create reference: 
+Step 3: prepare the running script with Perl and bash
+ls *.fastq.gz | paste - - > input.txt
+perl -p -i -e 's/\s/\&/'  input.txt
+paste 
+```
+
 ```
 #########################################################################################################
 ##### RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues ###########
