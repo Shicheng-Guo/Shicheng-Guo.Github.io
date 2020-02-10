@@ -49,3 +49,9 @@ echo java -Xmx1200m -cp Rockhopper.jar Rockhopper -g $genome_DIR1 $i\_R1_001.fas
 qsub  $i.job
 done
 ```
+
+How do download nr.faa for diamond and samsa2
+```
+wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/nr.gz
+diamond makedb --in nr.gz -d nr
+```
