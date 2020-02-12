@@ -55,3 +55,48 @@ How do download nr.faa for diamond and samsa2
 wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/nr.gz
 diamond makedb --in nr.gz -d nr
 ```
+
+Here is R script to summarize microbial dual-transcriptome data
+```r
+
+setwd("//mcrfnas2/bigdata/Genetic/Projects/shg047/project/RnaseqBacterial/extdata/rnaseq/Rockhopper_Results")
+
+perl -p -i -e "s/\'/-/g" gene.tab.matrix.v4.txt
+perl -p -i -e "s/\(/-/g" gene.tab.matrix.v4.txt
+perl -p -i -e "s/\)/-/g" gene.tab.matrix.v4.txt
+perl -p -i -e "s/\,/-/g" gene.tab.matrix.v4.txt
+perl -p -i -e "s/\:/-/g" gene.tab.matrix.v4.txt
+perl -p -i -e "s/\;/-/g" gene.tab.matrix.v4.txt
+
+data<-read.table("gene.tab.matrix.v4.txt",head=T,row.names=1,sep="\t",as.is=T,check.names = F)
+head(data)
+dim(data)
+
+data<-data[order(apply(data[,1:24],1,function(x) sum(x>0)),decreasing = T),]
+data<-data[,c(order(as.numeric(colnames(data[1:24]))),25,26)]
+
+data$pc<-percent(apply(data[,1:24],1,function(x) sum(x>0))/24)
+data$mean<-round(apply(data[,1:24],1,function(x) mean(x)),0)
+data$sd<-round(apply(data[,1:24],1,function(x) sd(x)),0)
+data$cv<-round(apply(data[,1:24],1,function(x) cv(x)),2)
+
+head(data)
+write.csv(data,file="gene.tab.matrix.v6.csv",quote=F,row.names = T)
+
+GOI1<-read.table("https://raw.githubusercontent.com/Shicheng-Guo/RnaseqBacterial/master/extdata/interestlist1.txt")
+GOI2<-read.table("https://raw.githubusercontent.com/Shicheng-Guo/RnaseqBacterial/master/extdata/interestlist2.txt")
+
+x1<-tolower(GOI1[,1])
+x2<-tolower(GOI1[,1])
+x3<-tolower(data$N1)
+
+x1[which( ! x1 %in% x3)]
+x2[which( ! x2 %in% x3)]
+
+out1<-na.omit(data[match(tolower(GOI1[,1]),tolower(data$N1)),])
+out2<-na.omit(data[match(tolower(GOI2[,1]),tolower(data$N1)),])
+out1
+out2
+write.csv(out1,file="gene.tab.matrix.table3.csv",quote=F)
+write.csv(out2,file="gene.tab.matrix.table4.csv",quote=F)
+```
