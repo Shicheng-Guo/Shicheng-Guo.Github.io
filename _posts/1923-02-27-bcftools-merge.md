@@ -7,7 +7,7 @@ categories: bioinformatics
 tags: Genetics Genomics bcftools merge  
 ---
 
-Sometimes, you want to merge >7000 vcf files/samples into one big VCF file with `bcftools merge`:
+Sometimes, maybe you want to merge >7000 vcf files/samples into one big VCF file with `bcftools merge`, for example PMRP have 20,000 samples/vcf files:
 ```
 bcftools merge -l merge.txt -Oz -o merge.vcf.gz
 ```
