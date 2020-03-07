@@ -30,4 +30,4 @@ ls merge.*.vcf.gz > merge.txt
 bcftools merge -l merge.txt -0 -Oz -o all_merged.vcf.gz
 bcftools annotate -x INFO,^FORMAT/GT all_merged.vcf.gz -Oz -o Final.vcf.gz
 ```
-
+-0 is to set missing to reference
