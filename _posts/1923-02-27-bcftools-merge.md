@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "How to 7000 VCF files with bcftools merge?"
+title: "How to merge 7000 VCF files with bcftools merge?"
 author: Shicheng Guo
 date: 1923-02-28
 categories: bioinformatics
 tags: Genetics Genomics bcftools merge  
 ---
 
-Sometimes, you want to merge >7000 vcf files into one big VCF file with `bcftools merge`:
+Sometimes, you want to merge >7000 vcf files/samples into one big VCF file with `bcftools merge`:
 ```
 bcftools merge -l merge.txt -Oz -o merge.vcf.gz
 ```
