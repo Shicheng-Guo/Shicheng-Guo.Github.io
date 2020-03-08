@@ -42,11 +42,30 @@ rm sample.txt
 for i in `ls *.vcf.gz`
 do
 echo $i
-bcftools index -f -t $i
+#bcftools index -f -t $i
 bcftools query -l $i >> sample.txt
 done
 ```
 
-
+2, filename is too long, rename the files
+```
+use strict;
+use Cwd;
+chdir getcwd;
+my $file="sample.txt";
+open F, $file || die "cannot open $file\n";
+while(<F>){
+chomp;
+my $file=$_;
+my($id,undef)=split/.filtered.vcf.gz/,$file;
+if($id =~/-a/){
+my ($name,undef)=split/-/,$id;
+print "$id $name\n";
+}else{
+my (undef,$name,undef)=split/_/,$id;
+print "$id $name\n";
+}
+}
+```
 
 
