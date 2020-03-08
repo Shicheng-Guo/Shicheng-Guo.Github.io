@@ -88,7 +88,6 @@ echo $i
 bcftools merge -0 -l $i -Oz -o merge.$i.vcf.gz 
 tabix -p vcf merge.$i.vcf.gz
 done
-
 ls merge.*.vcf.gz > merge.txt
 bcftools merge -l merge.txt -0 -Oz -o all_merged.vcf.gz
 bcftools annotate -x INFO,^FORMAT/GT all_merged.vcf.gz -Oz -o Final.vcf.gz
