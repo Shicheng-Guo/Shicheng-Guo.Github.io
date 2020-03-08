@@ -11,5 +11,6 @@ Here, I summarized Automatic GWAS and Post-GWAS Analysis Pipeline Published Work
 
 * 2020: The open targets post-GWAS analysis pipeline: https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa020/5701644
 * 2018: A tutorial on conducting genome‐wide association studies: [Quality control and statistical analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6001694/)
+* 2018: GWAS Pipeline for H3Africa: [https://github.com/h3abionet/h3agwas](https://github.com/h3abionet/h3agwas)
 * 2017: [Semi-Automated Quantitative](https://github.com/ini-bdds/saqt-gwas) Trait Genome-Wide Association Studies http://loni.usc.edu/research/software
 
