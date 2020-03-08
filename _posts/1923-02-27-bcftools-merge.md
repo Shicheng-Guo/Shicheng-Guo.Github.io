@@ -35,8 +35,19 @@ bcftools annotate -x INFO,^FORMAT/GT all_merged.vcf.gz -Oz -o Final.vcf.gz
 
 Another example I want to share as the following: Project Exome-sequencing:
 
-1, the file name is not exactly same with sample id for the vcf. What's more, vcfs are from to project
 
+1, rename WP files to -a files
+```
+use strict;
+my @file=glob("WP_*.gz");
+foreach my $file(@file){
+my(undef,$id,undef)=split/_/,$file;
+print "$file\t$id\n";
+system("cp $file $id-a.filtered.vcf.gz")
+}
+```
+
+2, the file name is not exactly same with sample id for the vcf. What's more, vcfs are from to project
 ```
 rm sample.txt
 for i in `ls *.vcf.gz`
@@ -47,7 +58,7 @@ bcftools query -l $i >> sample.txt
 done
 ```
 
-2, filename is too long, rename the files
+3, sampleid is too long, rename the sample id
 ```
 use strict;
 use Cwd;
