@@ -31,3 +31,22 @@ bcftools merge -l merge.txt -0 -Oz -o all_merged.vcf.gz
 bcftools annotate -x INFO,^FORMAT/GT all_merged.vcf.gz -Oz -o Final.vcf.gz
 ```
 -0 is to set missing to reference
+
+
+Another example I want to share as the following: Project Exome-sequencing:
+
+1, the file name is not exactly same with sample id for the vcf. What's more, vcfs are from to project
+
+```
+rm sample.txt
+for i in `ls *.vcf.gz`
+do
+echo $i
+bcftools index -f -t $i
+bcftools query -l $i >> sample.txt
+done
+```
+
+
+
+
