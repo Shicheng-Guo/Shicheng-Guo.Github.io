@@ -78,5 +78,21 @@ print "$id $name\n";
 }
 }
 ```
+4, sometimes, the computer have limited `ulimit` setting, you cannot merge too many samples at the same time. Here, I showed the solution to merge every 200 files and finally we will merge 7000 samples.
+```
+ls *.vcf.gz | split -l 200 - subset_vcfs
+
+for i in subset_vcfs*; 
+do 
+echo $i
+bcftools merge -0 -l $i -Oz -o merge.$i.vcf.gz; 
+tabix -p vcf merge.$i.vcf.gz
+done
+
+ls merge.*.vcf.gz > merge.txt
+bcftools merge -l merge.txt -0 -Oz -o all_merged.vcf.gz
+bcftools annotate -x INFO,^FORMAT/GT all_merged.vcf.gz -Oz -o Final.vcf.gz
+```
+
 
 
