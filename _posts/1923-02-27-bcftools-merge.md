@@ -79,6 +79,7 @@ print "$id $name\n";
 }
 ```
 4, sometimes, the computer have limited `ulimit` setting, you cannot merge too many samples at the same time. Here, I showed the solution to merge every 200 files and finally we will merge 7000 samples.
+
 ```
 ls *.vcf.gz | split -l 200 - subset_vcfs
 
