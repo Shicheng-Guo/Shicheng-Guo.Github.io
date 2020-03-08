@@ -82,11 +82,10 @@ print "$id $name\n";
 
 ```
 ls *.vcf.gz | split -l 200 - subset_vcfs
-
 for i in subset_vcfs*; 
 do 
 echo $i
-bcftools merge -0 -l $i -Oz -o merge.$i.vcf.gz; 
+bcftools merge -0 -l $i -Oz -o merge.$i.vcf.gz 
 tabix -p vcf merge.$i.vcf.gz
 done
 
