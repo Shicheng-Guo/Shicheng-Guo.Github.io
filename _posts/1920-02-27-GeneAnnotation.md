@@ -9,3 +9,5 @@ tags: Genetics Genomics GWAS PostGWAS ANNOVAR
 
 Here, I list all the used annotation in my previous publication: 
 
+VIP: Very Important Pharmacogenes: N=66, 
+InnateDB: all immmnue system related genes list N=4723
