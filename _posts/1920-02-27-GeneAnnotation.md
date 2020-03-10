@@ -12,4 +12,4 @@ Here, I list all the used annotation in my previous publication:
 * VIP: Very Important Pharmacogenes: N=66
 * InnateDB: All [immmnue system](https://www.innatedb.com/redirect.do?go=resourcesGeneLists) related genes list N=4723
 * FDR drug marker: [Pharmacogenomic Biomarkers](https://www.fda.gov/drugs/science-and-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling) in Drug Labeling
-* FDR:FDA_approved_drugtarget: https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/FDA_approved_drugtarget.txt
+* FDR:FDA_approved_drugtarget: 460 [FDA_approved_drugtarget](https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/FDA_approved_drugtarget.txt)
