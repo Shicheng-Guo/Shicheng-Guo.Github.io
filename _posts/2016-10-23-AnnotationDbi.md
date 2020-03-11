@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring the human genome (Part 1) - Gene Annotations"
+title: "Exploring the human genome - Gene Annotations"
 date: 2016-10-23
 categories: genome
 tags: AnnotationDbi ggplot2 genes genomics genetics
@@ -458,3 +458,4 @@ sessionInfo()
     ## [47] assertthat_0.1                rmarkdown_1.1                
     ## [49] httr_1.2.1                    R6_2.2.0                     
     ## [51] GenomicAlignments_1.10.0
+	## 
