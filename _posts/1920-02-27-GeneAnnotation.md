@@ -19,5 +19,5 @@ Step by step to prepare your db folder (hg38):
 
 ```
 wget http://hgdownload.cse.ucsc.edu/goldenpath/hg38/database/cytoBand.txt.gz -O cytoBand.hg38.bed.gz
-
+wget http://hgdownload.cse.ucsc.edu/goldenpath/hg38/database/cpgIslandExt.txt.gz -O cpgIsland.hg38.bed.gz
 ```
