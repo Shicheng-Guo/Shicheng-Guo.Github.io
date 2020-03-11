@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Usuaful Gene Annotation List in Bioinformatics Analysis"
+title: "How to Prepare Annotation DB Folder for Bioinformatics Analysis"
 author: Shicheng Guo
 date: 1920-02-28
 categories: bioinformatics
