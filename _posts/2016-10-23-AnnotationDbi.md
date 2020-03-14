@@ -8,6 +8,7 @@ author: Shirin Glander
 image: genome/2016/10/23/AnnotationDbi_blog_files/figure-markdown_github/genebiotypes_percent-1.png
 ---
 
+
 When working with any type of genome data, we often look for annotation information about genes, e.g. what's the gene's full name, what's its abbreviated symbol, what ID it has in other databases, what functions have been described, how many and which transcripts exist, etc.
 
 However, when looking for this information we (luckily) find a number of different databases and packages to access their information in R. But with this often comes confusion, because they all vary - sometimes only slightly, other times quite strongly - in how many genes they list and what they consider to be a "gene".
