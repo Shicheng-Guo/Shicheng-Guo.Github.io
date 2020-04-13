@@ -20,6 +20,7 @@ Cell-free DNA in the blood provides a non-invasive diagnostic avenue for patient
 
 
 #### Cell-Free DNA General Background
+* Wei Chen, [Noninvasive chimeric DNA profiling identifies tumor-originated HBV integrants contributing to viral antigen expression in liver cancer](https://link.springer.com/article/10.1007/s12072-020-10016-2)
 * Pan et al ["Brain Tumor Mutations Detected in Cerebral Spinal Fluid"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Pan%20et%20al.pdf)
 * Schilling and Rehli ["Global, comparative analysis of tissue-specificpromoter CpG methylation"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_background/Schilling%20and%20Rehli.pdf)
 * Jahr et al ["DNA Fragments in the Blood Plasma of CancerPatients: Quantitations and Evidence for Their Origin from Apoptotic
