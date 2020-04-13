@@ -54,6 +54,7 @@ Biopsy in Prostate Cancer"](https://github.com/christacaggiano/cell-free-dna-rea
 * Gond and Szustakowski ["DeconRNASeq: a statistical framework fordeconvolution of heterogeneoustissue samples based on mRNA-Seq data"](https://github.com/christacaggiano/cell-free-dna-readinglist/blob/master/cfDNA_tissue_of_origin_deconvolution/Gong%20and%20Szustakowski.pdf)
 
 #### WGBS Algorithms
+* Michael Scherer, [Quantitative comparison of within-sample heterogeneity scores for DNA methylation data](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa120/5760751) 
 * Ziller et al ["Coverage recommendations for methylation analysis by whole genome bisulfite sequencing"](https://www.nature.com/articles/nmeth.3152)
 * Merkel et al ["gemBS - high throughput processing for DNA methylation data from Bisulfite Sequencing"](https://academic-oup-com.ucsf.idm.oclc.org/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty690/5077236)
 * Lee et al ["An integrative approach for efficientanalysis of whole genome bisulfite sequencing data"](https://github.com/christacaggiano/cell-free-dna-reading-list/blob/master/cfDNA_tissue_of_origin_deconvolution/Lee_et_al.pdf)
