@@ -11,4 +11,24 @@ tags: FDA drugs identification discovery
 
 * DNA driver mutation mediated drug-target is a fantastic strategy to accelerate anti-cancer drug development. Capmatinib is a MET inhibitor being evaluated as a treatment for first-line and previously treated patients with locally advanced or metastatic MET exon 14 skipping (METex14) mutated non-small cell lung cancer (NSCLC). METex14 mutations occur in 3-4% of newly diagnosed advanced NSCLC cases and is a recognized oncogenic driver. MET exon 14 alterations result in increased MET protein levels due to disrupted ubiquitin-mediated degradation. MET belongs to receptor tyrosine kinase/growth factor signaling pathway. A number of small molecule tyrosine kinase inhibitors (TKIs) have now been approved for the treatment of non-small cell lung cancers (NSCLC), including those targeted against epidermal growth factor receptor, anaplastic lymphoma kinase, and ROS1. 
 
+* Nutraceutical products
+
+levocarnitine
+tryptophan
+omega-3 polyunsaturated fatty acids
+chondroitin
+glucosamine
+betaine
+ubiquinone
+glutamine
+glucosamine
+methionine
+inositol
+chondroitin
+chondroitin
+glucosamine
+methylsulfonylmethane
+lecithin
+alpha-lipoic acid
+s-adenosylmethionine
 
