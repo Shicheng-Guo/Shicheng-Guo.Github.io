@@ -15,6 +15,7 @@ tags: FDA drugs identification discovery
 
 * Welcome to attend ASCO-2020 #Janssen Oncology Virtual Newsroom to receive the latest result of our 4 cancer therapy pipelines: JNJ-4528 BCMA-directed CAR-T therapy Phase 1b/2 study in #multiple_myeloma; ERLEADA®(apalutamide) Phase 3 study in non-metastatic castration-resistant #prostate_cancer; and Phase 1 study of amivantamab (EGFRxMET bispecific antibody) in non-small cell #lung_cancer; and teclistamab (BCMAxCD3 bispecific antibody) in #multiple_myeloma
 
+* A recent Nature paper profiled lymphocytes subsets and major cytokines in a cohort of 326 patients. They found that decline of T cells, but not B cell, and elevated IL-6 correlated with disease severity. It explained why remdesivir, an antiviral drug target viral replication machinery, works better as early treatment. The reason is that the virus itself is not the only one that we are dealing with. Another paper in Cell showed that SARS-CoV-2 caused a unique signature in immune response (e.g. low IFN-I and III), compared to flu or RSV. Interestingly, the immune responses also vary with the amount of inoculated viruses. The paper also mentioned that the cytokine release syndrome is similar to a complication following CAR T treatment. The "new norm" for immunology and virology field might be to study the relations between virological activity and cytokine storm and unique immune response.
 
 
 * Nutraceutical products
