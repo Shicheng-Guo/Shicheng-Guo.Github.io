@@ -13,6 +13,9 @@ tags: FDA drugs identification discovery
 
 * Sounds like a fancy #BsAbs technique! Saving 6-18 months of development time and reducing manufacturing costs by ~90%, WuXiBody™ platform enables almost any monoclonal antibody (mAb) sequence pair to be assembled into the bispecific construct (bispecific monoclonal antibody, #BsMAbs, #BsAbs) and its unique structural flexibility makes the platform convenient to build various formats with different valency (e.g., 2, 3 or 4 binding sites).
 
+* Welcome to attend ASCO-2020 #Janssen Oncology Virtual Newsroom to receive the latest result of our 4 cancer therapy pipelines: JNJ-4528 BCMA-directed CAR-T therapy Phase 1b/2 study in #multiple_myeloma; ERLEADA®(apalutamide) Phase 3 study in non-metastatic castration-resistant #prostate_cancer; and Phase 1 study of amivantamab (EGFRxMET bispecific antibody) in non-small cell #lung_cancer; and teclistamab (BCMAxCD3 bispecific antibody) in #multiple_myeloma
+
+
 
 * Nutraceutical products
 
