@@ -21,7 +21,6 @@ tags: FDA drugs identification discovery
 * Binimetinib (Mektovi) is a potent and selective oral mitogen-activated protein kinase 1/2 (MEK 1/2) inhibitor together with Encorafenib (small molecule FDA approved BRAF inhibitor). On June 27, 2018, the Food and Drug Administration approved the combination of Encorafenib and binimetinib combination for patients with unresectable or metastatic melanoma with the BRAF V600E or V600K mutations. Binimetinib, non-competitive with ATP, binds to and inhibits the activity of MEK1/2. The inhibition of MEK1/2 prevents the activation of MEK1/2-dependent effector proteins and transcription factors which can result in the inhibition of growth factor-mediated cell signaling, lead to the inhibition of tumor cell proliferation and an inhibition in the production of various inflammatory cytokines including IL1, IL6 and TNF. MEK1/2 are themselves threonine and tyrosine kinases that possess a dual specificity. They subsequently contribute critically to the activation of the RAS/RAF/MEK/ERK pathway and are typically upregulated in a number of different tumor cell types.
 
 * Nutraceutical products
-
 ```
 levocarnitine
 tryptophan
