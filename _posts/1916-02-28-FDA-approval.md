@@ -22,6 +22,7 @@ tags: FDA drugs identification discovery
 
 * Nutraceutical products
 
+```
 levocarnitine
 tryptophan
 omega-3 polyunsaturated fatty acids
@@ -40,4 +41,4 @@ methylsulfonylmethane
 lecithin
 alpha-lipoic acid
 s-adenosylmethionine
-
+```
