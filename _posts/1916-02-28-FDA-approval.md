@@ -4,7 +4,7 @@ title: "FDA approved drugs and the mechanism"
 author: Shicheng Guo
 date: 1916-02-28
 categories: bioinformatics
-image: ./image/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
+image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
 
