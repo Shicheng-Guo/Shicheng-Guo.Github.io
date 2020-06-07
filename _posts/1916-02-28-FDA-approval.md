@@ -26,6 +26,9 @@ tags: FDA drugs identification discovery
 
 * Tazemetostat is a FDA approved small molecule methyltransferase inhibitor for the treatment of epithelioid sarcoma. #EZH2 is a methyltransferase subunit of the polycomb repressive complex 2 (PRC2) which catalyzes multiple methylations of lysine 27 on histone H3 (H3K27). Trimethylation of this lysine inhibits the transcription of genes associated with cell cycle arrest. #PRC2 is antagonized by the switch/sucrose non-fermentable (SWI/SNF) multiprotein complex. EZH2 over-expressed in lots of human cancers. Abnormal activation of EZH2 or loss of function mutations in SWI/SNF lead to hyper-trimethylation of #H3K27 and further leads to cancer cell de-differentiation which is a gain of cancer stem cell-like properties. de-differentiation can allow for cancer cell proliferation and exhibited worse outcome.
 
+* Pimodivir (VX-787, JNJ-63623872) is an antiviral drug which was developed as a treatment for influenza. It acts as an inhibitor of influenza virus polymerase basic protein 2, and has shown promising results in Phase II clinical trials.[1][2][3]
+
+
 
 
 * Nutraceutical products
