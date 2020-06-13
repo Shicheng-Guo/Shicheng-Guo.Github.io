@@ -28,6 +28,13 @@ tags: FDA drugs identification discovery
 
 * Pimodivir (VX-787, JNJ-63623872) is an antiviral drug which was developed as a treatment for influenza. It acts as an inhibitor of influenza virus polymerase basic protein 2, and has shown promising results in Phase II clinical trials.[1][2][3]
 
+* OFF-X: the main focus is safety alerts. They have information on drug targets and adverse effects whereas DrugBank focuses on more information around a drug
+
+* Cortellis: Largely focused on drugs in clinical trials and they don't provide structured information. From what I remember they also don't offer a lot of clinical information around drugs.
+
+* KEGG: their focus is pathways with some target information.  Overall, they have less information around drugs, especially with side effects than DrugBank does.
+
+* Qiagen-IPA: another pathway database, the ability to import experimental data. They are an interface tool and less of a database you can export and manipulate it seems.
 
 
 
