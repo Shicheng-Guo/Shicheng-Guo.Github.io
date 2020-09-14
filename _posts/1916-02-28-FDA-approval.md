@@ -8,7 +8,6 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
 
-
 * Roche announces FDA approval of Gavreto (pralsetinib) for the treatment of adults with metastatic RET fusion-positive non-small cell lung cancer
 
 * Brolucizumab (Beovu®) is an FDA approved vascular endothelial growth factor (VEGF) inhibitor for the treatment of neovascular age related macular degeneration #AMD. Brolucizumab targets the major VEGF-A isoforms: VEGF110, VEGF121, and VEGF165. Inhibition of these VEGF-A isoforms reduce proliferation of endothelial cells, vascularization of the tissue, and permeability of the #vasculature. Brolucizumab is the first FDA approved anti-VEGF to offer both greater fluid resolution versus aflibercept and the ability to maintain eligible wet #AMD patients on a three-month dosing interval immediately after a three-month loading phase with uncompromised efficacy. #Brolucizumab successfully completed phase III development in wet age-related macular degeneration (AMD) meeting the primary efficacy endpoint of non-inferiority to aflibercept in mean change in best corrected visual acuity, #BCVA from baseline to week 48. Furthermore, brolucizumab demonstrated superiority to aflibercept in key secondary endpoint measures of disease #activity in wet AMD, a leading cause of blindness in two head-to-head pivotal Phase III studies.
