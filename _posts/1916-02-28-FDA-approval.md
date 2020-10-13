@@ -7,7 +7,6 @@ categories: bioinformatics
 image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
-
 * Oxycodone is a semisynthetic opioid analgesic derived from thebaine in Germany in 1917. It is currently indicated as an immediate release product for moderate to severe pain and as an extended release product for chronic moderate to severe pain requiring continuous opioid analgesics for an extended period.Label The first oxycodone containing product, Percodan, was approved by the FDA on April 12, 1950
 * 2020: IL-17A Antagonist to Receive U.S. FDA Approval for the Treatment of Non-Radiographic Axial Spondyloarthritis (nr-axSpA).
 * Roche announces FDA approval of Gavreto (pralsetinib) for the treatment of adults with metastatic RET fusion-positive non-small cell lung cancer
