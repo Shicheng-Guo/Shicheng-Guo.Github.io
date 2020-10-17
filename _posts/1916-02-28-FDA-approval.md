@@ -7,7 +7,10 @@ categories: bioinformatics
 image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
+* The goal of lead optimization in drug development is to design a molecule that satisfies the safety criteria for an IND submission with sufficient promise for efficacy. Lead optimization begins with a molecule that was identified during lead discovery. The original lead will have good properties (potency, ADME) that need to be improved for the molecule to enter clinical trials. Lead optimization involves a series of structural changes that allow the optimization team to understand the structure-activity relationships of the lead.
+
 * Optimization of the ADME (Absorption, Distribution, Metabolism, and Excretion) properties of the drug molecule is often the most difficult and challenging part of the whole drug discovery process. The ADME profile will also have a major impact on the likelihood of success of a drug
+
 * 10/14/2020: FDA Approves Inmazeb (atoltivimab, maftivimab and odesivimab-ebgn) Antibody Cocktail for Ebola (Zaire Ebolavirus)
 * Oxycodone is a semisynthetic opioid analgesic derived from thebaine in Germany in 1917. It is currently indicated as an immediate release product for moderate to severe pain and as an extended release product for chronic moderate to severe pain requiring continuous opioid analgesics for an extended period.Label The first oxycodone containing product, Percodan, was approved by the FDA on April 12, 1950
 * 2020: IL-17A Antagonist to Receive U.S. FDA Approval for the Treatment of Non-Radiographic Axial Spondyloarthritis (nr-axSpA).
