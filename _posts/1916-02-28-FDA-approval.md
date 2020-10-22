@@ -7,6 +7,7 @@ categories: bioinformatics
 image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
+
 * Lead discovery is the beginning of the search for specific molecules that may bind the drug target.  It is a key stage for drug development.  The search normally starts with a collection of molecules in the drug company.  This collection is called a library.  The library is screened with a binding assay to find promising molecules with good binding.  These are called hits.  Hits are then screened for their potential ADME properties and even activity in animals.  The best hits will be advanced as lead molecules for further investigation.
 
 * The goal of lead optimization in drug development is to design a molecule that satisfies the safety criteria for an IND submission with sufficient promise for efficacy. Lead optimization begins with a molecule that was identified during lead discovery. The original lead will have good properties (potency, ADME, Absorption, Distribution, Metabolism, and Excretion) that need to be improved for the molecule to enter clinical trials. Lead optimization involves a series of structural changes that allow the optimization team to understand the structure-activity relationships of the lead. The goal of lead optimization is not to design the signle best molecule, but to design a lead that satisfies the safety criteria for an IND submission with sufficient promise for efficacy
