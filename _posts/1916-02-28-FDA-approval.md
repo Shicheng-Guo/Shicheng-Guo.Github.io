@@ -7,6 +7,8 @@ categories: bioinformatics
 image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
+* modern technique has many different approaches to looking for drug targets: phenotypic screening, gene association studies, chemo proteomics, transgenetic organisms, imaging, biomarkers and many [other methods](https://www.roche.com/research_and_development/drawn_to_science/target_identification.htm)
+
 * Early stages of drug discovery start with initial steps of target identification and moves to the later stages of lead optimization. Multiple sources including academic research, clinical works and commercial sector help in the identification of a suitable disease target. The chosen target is then used by the pharmaceutical industry and more recently by some academic centers to identify molecules for making acceptable drugs. [The process involves various early steps](https://www.sigmaaldrich.com/technical-documents/articles/biology/target-identification-and-validation-for-early-drug-discovery.html)
 
 
