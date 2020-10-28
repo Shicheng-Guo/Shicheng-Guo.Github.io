@@ -7,6 +7,9 @@ categories: bioinformatics
 image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
+
+* From the evening of Sunday, June 9, to the morning of Friday, June 21, 2019, the Russell Sage Foundation (RSF) sponsored the 3rd Summer Institute in Social-Science Genomics, held at the Pepper Tree Inn in Santa Barbara, California. We have the 2019 videos here: https://www.rsfgenomicsschool.com/2019-materials. The 2017 ones aren't on the website, but i found them on youtube here: https://www.youtube.com/channel/UCpwuOWUVasa168eWFhX-48A/videos
+
 * modern technique has many different approaches to looking for drug targets: phenotypic screening, gene association studies, chemo proteomics, transgenetic organisms, imaging, biomarkers and many [other methods](https://www.roche.com/research_and_development/drawn_to_science/target_identification.htm)
 
 * Early stages of drug discovery start with initial steps of target identification and moves to the later stages of lead optimization. Multiple sources including academic research, clinical works and commercial sector help in the identification of a suitable disease target. The chosen target is then used by the pharmaceutical industry and more recently by some academic centers to identify molecules for making acceptable drugs. [The process involves various early steps](https://www.sigmaaldrich.com/technical-documents/articles/biology/target-identification-and-validation-for-early-drug-discovery.html)
