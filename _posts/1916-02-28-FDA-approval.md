@@ -8,6 +8,9 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
 
+* SAN DIEGO, Oct. 25, 2020 /PRNewswire/ -- Mirati Therapeutics, Inc. (NASDAQ: MRTX), a clinical-stage targeted oncology company, today announced preliminary results from the Company's mutant KRAS selective inhibitor programs. The preliminary results included updated clinical data of adagrasib (MRTX849), the Company's KRAS G12C inhibitor, presented at the 32nd EORTC-NCI-AACR Symposium on Molecular Targets and Therapeutics ("ENA") and initial preclinical in vivo data of MRTX1133, the Company's selective and potent potential first-in-class KRAS G12D inhibitor.
+
+
 * From the evening of Sunday, June 9, to the morning of Friday, June 21, 2019, the Russell Sage Foundation (RSF) sponsored the 3rd Summer Institute in Social-Science Genomics, held at the Pepper Tree Inn in Santa Barbara, California. We have the 2019 videos here: https://www.rsfgenomicsschool.com/2019-materials. The 2017 ones aren't on the website, but i found them on youtube here: https://www.youtube.com/channel/UCpwuOWUVasa168eWFhX-48A/videos
 
 * modern technique has many different approaches to looking for drug targets: phenotypic screening, gene association studies, chemo proteomics, transgenetic organisms, imaging, biomarkers and many [other methods](https://www.roche.com/research_and_development/drawn_to_science/target_identification.htm)
