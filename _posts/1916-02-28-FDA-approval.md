@@ -7,6 +7,7 @@ categories: bioinformatics
 image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
+* 10/30/2020: the gnomAD Production Team is proud to announce the release of gnomAD v3.1, an update to our previous genome release. The v3.1 data set adds 4,454 genomes, bringing the total to 76,156 whole genomes mapped to the GRCh38 reference sequence. (Our most recent exome release is available in gnomAD v2.1.)
 
 * SAN DIEGO, Oct. 25, 2020 /PRNewswire/ -- Mirati Therapeutics, Inc. (NASDAQ: MRTX), a clinical-stage targeted oncology company, today announced preliminary results from the Company's mutant KRAS selective inhibitor programs. The preliminary results included updated clinical data of adagrasib (MRTX849), the Company's KRAS G12C inhibitor, presented at the 32nd EORTC-NCI-AACR Symposium on Molecular Targets and Therapeutics ("ENA") and initial preclinical in vivo data of MRTX1133, the Company's selective and potent potential first-in-class KRAS G12D inhibitor.
 
