@@ -8,7 +8,7 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
 
-
+* Repurposing Drugs in Oncology (ReDO)—chloroquine and hydroxychloroquine as anti-cancer agents
 
 * 11/05/2020, Controversial news: FDA scientists appear to offer major endorsement of Biogen’s controversial Alzheimer’s treatment. In a lengthy document released Wednesday, FDA staff appeared to endorse approving the treatment, which would become the first new Alzheimer’s therapy in nearly two decades. The commentary, which provides the first glimpse at how FDA scientists view the oft-debated treatment, comes ahead of a Friday meeting of outside advisers, who will issue a nonbinding vote on whether to recommend aducanumab’s approval.
 
