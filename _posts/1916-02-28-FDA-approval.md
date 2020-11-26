@@ -8,6 +8,8 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: FDA drugs identification discovery
 ---
 
+* Johnson & Johnson (J&J) is an American multinational healthcare company focused on the development and commercialization of pharmaceutical, medical device, and consumer packaged products. The pharmaceutical portfolio offers products for Cardiovascular, Endocrinology, Immunology, Neuroscience, and Oncology. J&J has 14 drugs in its oncology portfolio with 6 approved products including Darzalex, Imbruvica, Velcade, Zytiga, Balversa, and Niraparib. Imbruvica, an approved small molecule drug used to treat B cell cancers like mantle cell lymphoma, chronic lymphocytic leukemia, and Waldenstrom’s macroglobulinemia and jointly marketed by Janssen Biotech and Pharmacyclics (AbbVie) has generated the revenue $3.41B in 2019. In Apr’19, FDA approved Johnson & Johnson’s Balversa (erdafitinib) for advanced or metastatic urothelial carcinoma.
+
 * 11/24/2020: FDA Approves Oxlumo (lumasiran) for the Treatment of Primary Hyperoxaluria Type 1.
 
 * Repurposing Drugs in Oncology (ReDO)—chloroquine and hydroxychloroquine as anti-cancer agents
