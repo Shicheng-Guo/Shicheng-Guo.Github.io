@@ -7,6 +7,9 @@ categories: bioinformatics
 image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: bioinformatics
 ---
+
+11/29/2020, In a recently completed pivotal, clinical efficacy, Phase 3 trial, M-001 failed to demonstrate a statistically significant difference between the vaccinated and placebo groups in reduction of flu illness and severity, and therefore failed to meet both the primary and secondary efficacy endpoints.
+
 Osteoarthritis therapeutics market is expected to grow from USD 6.8 billion in 2019 to reach USD 10.1 billion by 2024, at a CAGR of 8.1%. CAGR Calculator is free online tool to calculate compound annual growth rate for your investment over a time period. To get the CAGR value for your investment, enter the starting value or initial investment amount along with the expected ending value and the number of month or year for which you want to calulate the CAGR. Then, click on calculate button and let the online CAGR calculator calculate the value for you. This will produce the CAGR or compound annual growth rate along with compounded growth chart for your initial investment value.
 
 11/24/2020: FDA Approves Oxlumo (lumasiran) for the Treatment of Primary Hyperoxaluria Type 1. 
