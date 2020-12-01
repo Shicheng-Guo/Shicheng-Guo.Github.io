@@ -7,6 +7,7 @@ categories: bioinformatics
 image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: bioinformatics
 ---
+11/30/2020: ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures. Google’s deep-learning program for determining the 3D shapes of proteins stands to transform biology, say scientists. On protein targets considered to be moderately difficult, the best performances of other teams typically scored 75 on a 100-point scale of prediction accuracy, whereas AlphaFold scored around 90 on the same targets, says Moult. https://www.nature.com/articles/d41586-020-03348-4
 
 11/29/2020, In a recently completed pivotal, clinical efficacy, Phase 3 trial, [M-001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7409566/) failed to demonstrate a statistically significant difference between the vaccinated and placebo groups in reduction of flu illness and severity, and therefore failed to meet both the primary and secondary efficacy endpoints.
 
