@@ -8,6 +8,8 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: bioinformatics
 ---
 
+12/30/2020: Trends In US Expedited Review Programs： https://pharmaintelligence.informa.com/~/media/informa-shop-window/pharma/2020/files/article-packs/accelerated-approvals-article-pack-us-coverage.pdf
+
 12/29/2020: Nomenclature_of_monoclonal_antibodies： https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies
 12/29/2020: Nomenclature_of_drugs： https://en.wikipedia.org/wiki/Drug_nomenclature
 
