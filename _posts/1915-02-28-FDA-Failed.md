@@ -8,6 +8,9 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: bioinformatics
 ---
 
+12/29/2020: Nomenclature_of_monoclonal_antibodies： https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies
+12/29/2020: Nomenclature_of_drugs： https://en.wikipedia.org/wiki/Drug_nomenclature
+
 12/28/2020: https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2020
 12/28/2020: http://expertmeetingziekenhuisfarmacie.nl/wp-content/uploads/IMS-Health-European-Thought-Leadership-Cell-Gene-Therapy-white-paper-20....pdf
 
