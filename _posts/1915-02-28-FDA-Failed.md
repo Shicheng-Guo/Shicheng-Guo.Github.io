@@ -9,9 +9,11 @@ tags: bioinformatics
 ---
 
 12/29/2020: Nomenclature_of_monoclonal_antibodies： https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies
+
 12/29/2020: Nomenclature_of_drugs： https://en.wikipedia.org/wiki/Drug_nomenclature
 
 12/28/2020: https://www.fda.gov/drugs/new-drugs-fda-cders-new-molecular-entities-and-new-therapeutic-biological-products/novel-drug-approvals-2020
+
 12/28/2020: http://expertmeetingziekenhuisfarmacie.nl/wp-content/uploads/IMS-Health-European-Thought-Leadership-Cell-Gene-Therapy-white-paper-20....pdf
 
 11/30/2020: ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures. Google’s deep-learning program for determining the 3D shapes of proteins stands to transform biology, say scientists. On protein targets considered to be moderately difficult, the best performances of other teams typically scored 75 on a 100-point scale of prediction accuracy, whereas AlphaFold scored around 90 on the same targets, says Moult. https://www.nature.com/articles/d41586-020-03348-4
