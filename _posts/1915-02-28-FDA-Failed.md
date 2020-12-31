@@ -8,6 +8,9 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: bioinformatics
 ---
 
+* COVID19 mRNA vaccine: https://en.wikipedia.org/wiki/Tozinameran
+* COVID19 mRNA vaccine: https://www.mcgill.ca/oss/article/covid-19-critical-thinking-health/reassuring-data-pfizers-covid-19-vaccine
+
 12/30/2020: Trends In US Expedited Review Programs： https://pharmaintelligence.informa.com/~/media/informa-shop-window/pharma/2020/files/article-packs/accelerated-approvals-article-pack-us-coverage.pdf
 
 12/29/2020: Nomenclature_of_monoclonal_antibodies： https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies
