@@ -8,6 +8,7 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: bioinformatics
 ---
 
+01/03/2020： https://www.fiercebiotech.com/special-report/glaxosmithkline-top-10-pharma-r-d-budgets-2019
 01/01/2020： https://mp.weixin.qq.com/s/riojeB3x8CVBNzWkrvTqrA
 
 COVID19 mRNA vaccine: https://en.wikipedia.org/wiki/Tozinameran
