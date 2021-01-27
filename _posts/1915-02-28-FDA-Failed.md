@@ -8,6 +8,8 @@ image: images/Shicheng-Guo-2020-FDA-Speeding_things-Orphan.jpg
 tags: bioinformatics
 ---
 
+https://www.bioconductor.org/help/course-materials/2015/BiocAsia2015/W3-RNASeq.html
+
 01/26/2022： Karyopharm Gets FDA OK of Xpovio in Multiple Myeloma
 
 01/12/2021: An Introduction to Medical Statistics interesting book: https://www-users.york.ac.uk/~mb55/intro/introcon.htm#ci
