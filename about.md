@@ -18,7 +18,6 @@ In 2017, I joined Dr. [Steven Schordi](https://www.marshfieldresearch.org/profil
 In my previous research, I have applied case-control or pedigree-based linkage, association, or transmission disequilibrium test to identify novel disease genes. Multiple statistical approaches were applied including single variants, a gene-based, pathway-based association under different models like additive, dominant, recessive, and compound heterozygous with generalized linear mixture model adjusted by population stratification and cryptic relatedness. Multiple phenotype-based joint analysis and causal inference were applied to optimize the GWAS signal and underly complicated relationships among phenotypes. 
 
 Email: Shicheng.Guo@wisc.edu
-
 ---
 ## Contact me:
 - [Email](mailto:Shihcheng.Guo@gmail.com)
