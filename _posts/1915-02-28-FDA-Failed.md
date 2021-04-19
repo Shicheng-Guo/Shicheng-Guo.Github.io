@@ -9,6 +9,7 @@ tags: bioinformatics
 ---
 
 02/27/2021: Johnson & Johnson COVID-19 Vaccine Authorized by U.S. FDA For Emergency Use - First Single-Shot Vaccine in Fight Against Global Pandemic
+
 01/26/2021： Karyopharm Gets FDA OK of Xpovio in Multiple Myeloma
 
 * https://m-clark.github.io/mixed-models-with-R/
