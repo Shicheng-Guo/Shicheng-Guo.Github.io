@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{% if page.title %}{{ page.title }} — Shicheng Guo, Ph.D.{% else %}Shicheng Guo, Ph.D. — Translational Genetics & Data Science{% endif %}</title>
+  <title>{% if page.url == "/" %}Shicheng Guo, Ph.D.{% elsif page.title %}{{ page.title }} — Shicheng Guo, Ph.D.{% else %}Shicheng Guo, Ph.D. — Translational Genetics & Data Science{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.{% endif %}">
   <meta name="author" content="Shicheng Guo">
 
