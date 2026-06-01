@@ -75,17 +75,12 @@
   </div>
 
   <footer class="site-footer">
-    <div>© {{ site.time | date: "%Y" }} Shicheng Guo · Built with Jekyll</div>
+    <div>© {{ site.time | date: "%Y" }} Shicheng Guo · Built with Jekyll<span class="visitor" id="visitorBar" hidden> · <span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></span></div>
     <div>
       <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
       <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
       <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
       <a href="{{ site.url }}/rss.xml">RSS</a>
-    </div>
-    <div class="visitor" id="visitorBar" hidden>
-      <span id="visitorCount"></span>
-      <span class="visitor__sep" id="visitorSep" hidden>·</span>
-      <span id="visitorLoc"></span>
     </div>
   </footer>
 
