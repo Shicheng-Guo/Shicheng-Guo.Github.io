@@ -143,5 +143,24 @@ paginate_path: "/blog/page:num/"
 google_analytics:
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-description: exploring and playing with data in R
+description: Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals.
 url: https://Shicheng-Guo.github.io
+
+# ---- AcademicPages-style collections ----
+collections:
+  publications:
+    output: false
+  talks:
+    output: false
+  portfolio:
+    output: false
+
+# ---- Front-matter defaults ----
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      show_title: false
+      nav: blog
