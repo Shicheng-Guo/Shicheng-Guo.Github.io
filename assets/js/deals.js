@@ -10,16 +10,13 @@
   const updatedEl = document.getElementById("dealUpdated");
   const countEl   = document.getElementById("dealCount");
   const filterBoxes = {
-    type:     document.getElementById("dealType"),
-    area:     document.getElementById("dealArea"),
-    modality: document.getElementById("dealModality"),
-    stage:    document.getElementById("dealStage"),
+    type: document.getElementById("dealType"),
   };
 
   const DATA_URL = "/assets/data/deals.json";
 
   let allDeals = [];
-  const active = { type: "", area: "", modality: "", stage: "" };
+  const active = { type: "" };
   let query = "";
   let sortDesc = true;
 
@@ -61,9 +58,6 @@
 
   function matches(d) {
     if (active.type && d.type !== active.type) return false;
-    if (active.area && d.area !== active.area) return false;
-    if (active.modality && d.modality !== active.modality) return false;
-    if (active.stage && d.stage !== active.stage) return false;
     if (query && !d.headline.toLowerCase().includes(query)) return false;
     return true;
   }
@@ -90,10 +84,6 @@
         "Date " + (sortDesc ? "▾" : "▴")),
       el("th", null, "Deal"),
       el("th", null, "Type"),
-      el("th", null, "Value"),
-      el("th", null, "Area"),
-      el("th", null, "Modality"),
-      el("th", null, "Stage"),
     );
 
     const body = rows.map(d => el("tr", null,
@@ -103,10 +93,6 @@
         d.source && el("span", { class: "deal-source" }, d.source)
       ),
       el("td", null, typeBadge(d.type)),
-      el("td", { class: "deal-value" }, d.value || "—"),
-      el("td", null, d.area || "—"),
-      el("td", null, d.modality || "—"),
-      el("td", null, d.stage || "—"),
     ));
 
     tableMount.appendChild(
