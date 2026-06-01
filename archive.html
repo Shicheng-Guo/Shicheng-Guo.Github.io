@@ -1,10 +1,26 @@
 ---
-layout: page
-title : Archive
-header : Post Archive
-group: navigation
+layout: default
+title: Writing
+eyebrow: Notes & Essays
+description: Writing on genomics, data science, drug development, and precision medicine by Shicheng Guo, Ph.D.
 ---
-{% include JB/setup %}
+<div class="page-shell wrap">
+  <div class="page-hero reveal in">
+    <span class="eyebrow">Notes &amp; Essays</span>
+    <h1>Writing</h1>
+    <p class="lead">On genomics, data science, and the science of building medicines.</p>
+    <hr class="divider">
+  </div>
 
-{% assign posts_collate = site.posts %}
-{% include JB/posts_collate %}
+  <div class="post-list">
+    {% for post in site.posts %}
+    <a class="post-item reveal in" href="{{ post.url | prepend: site.url }}">
+      <span class="post-item__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span>
+        <span class="post-item__title">{{ post.title }}</span>
+        {% if post.description %}<span class="post-item__excerpt">{{ post.description }}</span>{% endif %}
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+</div>

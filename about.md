@@ -1,31 +1,66 @@
 ---
 layout: page
-title: About me
+title: About
+eyebrow: The Story
+tagline: A statistical geneticist turning data into therapies.
 header: About me
 group: navigation
+description: Biography of Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals.
 ---
 
-**Welcome to my page!**
+![Dr. Shicheng Guo]({{ site.url }}/assets/images/Dr.Shicheng.Guo.jpg){:style="float:right;width:230px;margin:0 0 24px 28px;border-radius:6px;border:1px solid rgba(212,175,55,0.2)"}
 
-![]({{ site.url }}/assets/images/Dr.Shicheng.Guo.PNG){:style="float: left;margin-right: 7px;margin-top: 7px; margin-bottom: 7px; margin-left: 7px; width: 200px"}
+I am **Shicheng Guo, Ph.D.**, Senior Director of **Translational Genetics & Data Science** at
+[Arrowhead Pharmaceuticals](https://arrowheadpharma.com), where I lead human-genetics-driven
+target discovery and biomarker strategy for RNA-based therapeutics. My work sits where
+computational genomics, statistical genetics, and machine learning meet drug development —
+translating population-scale biology into medicines.
 
-I'm Shicheng Guo (Computational Biology, Bioinformatics and Statistical Genetics), Department of Medical Genetics, University of Wisconsin-Madison (UW-Madison), Center for Precision Medicine, Marshfield Clinic Research Insitute (MCRI), University of California San Diego and Univerity of Texas Health Science Center at Houston (UThealth). 
+## Background
 
-I received my Ph.D. degree at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University) in 2014 under Prof. [Li Jin](https://en.wikipedia.org/wiki/Jin_Li) and full support from Prof. [Jiucun Wang](http://hupi.fudan.edu.cn/en/people/jiucunwang) and Prof. [Momiao Xiong](https://sph.uth.edu/research/centers/hgc/xiong/). I started my post-doctoral training at [University of Texas Health Science Center at Houston (UThealth, 2014-2015)](https://en.wikipedia.org/wiki/University_of_Texas_Health_Science_Center_at_Houston) and [University of California, San Diego (UCSD, 2015-2017)](https://en.wikipedia.org/wiki/University_of_California,_San_Diego). I made series contribution on Human [PBMC](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000533)methylome, [Silk](https://www.nature.com/articles/nbt.1626) methylome, hepatocellular carcinoma and pancreatic cancer methylomes, CD4+ methylomes for rheumatoid arthritis and [tissue-of-origin](https://www.nature.com/articles/ng.3805) mapping by cell-free circulating DNA methylation.
+I earned my Ph.D. at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University) in 2014
+under Prof. [Li Jin](https://en.wikipedia.org/wiki/Jin_Li), with the support of
+Prof. Jiucun Wang and Prof. [Momiao Xiong](https://sph.uth.edu/research/centers/hgc/xiong/).
+I completed postdoctoral training at the
+[University of Texas Health Science Center at Houston](https://en.wikipedia.org/wiki/University_of_Texas_Health_Science_Center_at_Houston)
+(2014–2015) and the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego)
+(2015–2017), where I contributed to landmark studies of the human
+[PBMC methylome](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000533),
+the [silkworm methylome](https://www.nature.com/articles/nbt.1626), hepatocellular and pancreatic
+cancer methylomes, CD4+ methylomes in rheumatoid arthritis, and
+[tissue-of-origin mapping](https://www.nature.com/articles/ng.3805) from cell-free circulating DNA methylation.
 
-In 2017, I joined Dr. [Steven Schordi](https://www.marshfieldresearch.org/profiles/1091)'s lab in MCRI and focusing on genetic epidemiology and the diagnostic and prognostic roles of epigenetic variations in human complex disease, especially human autoimmune disease and cancer. In the Marshfield Clinic, I mad full use of my bioinformatics, big data analysis and text mining skills to valuable Marshfield [Personalize Medicine Research Project dataset (PMRP)](https://www.marshfieldresearch.org/cpmr/pmrp) (including 20,000 Exome-chip data and comprehensive clinical and epidemiological information) and Roadmap, eMERGE, Blueprint, PharmGKB, PharmaADME, Encode, GTEx, FANTOM, ExAC, UK-biobank, TARGET, TCGA, PDB and LINCS to identify disease susceptibility genes and epigenetic markers for early diagnosis or real-time prognosis surveillance. In 2018, I implemented a novel [gene-based recessive diplotype appraoch](https://github.com/Shicheng-Guo/marshfield/tree/master/2ALOF) and identified a novel hemochromatosis gene (FGF6). The work was accepted by [blood](http://www.bloodjournal.org/content/133/17/1888.abstract?sso-checked=true) in 2019 and introduced by [MCRI news](https://www.marshfieldresearch.org/News/researchers-use-novel-gene-mapping-approach-to-find-new-iron-metabolism-gene). Currently, my research work was supervised by Dr. Steven Schordi and Dr. [Mark Craven](https://www.biostat.wisc.edu/~craven/) and supported by [Marshfield Clinic Research Institute](https://www.marshfieldresearch.org/cpmr) and Computation and Informatics in Biology and Medicine (CIBM) training program supported by [National Library of Medicine](https://www.nlm.nih.gov/) and [University of Wisconsin-Madison](http://www.cibm.wisc.edu/) and seeking for independent faculty position in genetics, epigenetics and precision medicine.
+From 2017, I worked at the [Marshfield Clinic Research Institute](https://www.marshfieldresearch.org/cpmr)
+and the University of Wisconsin–Madison on genetic epidemiology and the diagnostic and prognostic
+roles of epigenetic variation in human complex disease — especially autoimmune disease and cancer.
+There I applied large-scale bioinformatics and data-mining to the
+[Personalized Medicine Research Project (PMRP)](https://www.marshfieldresearch.org/cpmr/pmrp) cohort
+alongside Roadmap, eMERGE, GTEx, UK Biobank, TCGA, and other major resources to map disease
+susceptibility genes and biomarkers. In 2019, I introduced a novel
+[gene-based recessive diplotype approach](https://github.com/Shicheng-Guo/marshfield/tree/master/2ALOF)
+that identified **FGF6** as a new iron-metabolism gene — work published in
+[*Blood*](http://www.bloodjournal.org/content/133/17/1888.abstract).
 
-In my previous research, I have applied case-control or pedigree-based linkage, association, or transmission disequilibrium test to identify novel disease genes. Multiple statistical approaches were applied including single variants, a gene-based, pathway-based association under different models like additive, dominant, recessive, and compound heterozygous with generalized linear mixture model adjusted by population stratification and cryptic relatedness. Multiple phenotype-based joint analysis and causal inference were applied to optimize the GWAS signal and underly complicated relationships among phenotypes.
+## Focus today
 
-Email:[Shicheng.Guo@wisc.edu](mailto:Shicheng.Guo@wisc.edu)
+At Arrowhead, I connect human genetics, functional genomics, and AI/ML to:
+
+- **Identify and validate drug targets** grounded in human-genetic evidence and the druggable genome
+- **Build biomarker and patient-stratification strategies** for RNA therapeutics
+- **Scale data science infrastructure** across multi-omic and clinical datasets to support program decisions
+
+Across my career I have applied case-control, pedigree-based linkage, association, and transmission
+disequilibrium analyses under additive, dominant, recessive, and compound-heterozygous models —
+with mixed-model correction for population structure and relatedness, multi-phenotype joint analysis,
+and causal inference — to find and validate disease genes.
 
 ---
-## Contact me:
+
+## Connect
+
 - [Email](mailto:Shihcheng.Guo@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/shicheng-guo-b5724925)
-- [Twitter](https://twitter.com/ShichengGuo)
-- [Publons](https://publons.com/dashboard/records/review/)
-- [Researchgate](https://www.researchgate.net/profile/Shicheng_Guo)
-- [GoogleScholar](https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en)
-
------
+- [LinkedIn](https://www.linkedin.com/in/shicheng-guo-b5724925)
+- [Google Scholar](https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en)
+- [GitHub](https://github.com/Shicheng-Guo)
+- [ResearchGate](https://www.researchgate.net/profile/Shicheng_Guo)
+- [Twitter / X](https://twitter.com/ShichengGuo)

@@ -25,7 +25,7 @@ avatar: https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.github.io/ma
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 production_url : https://Shicheng-Guo.github.io
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
@@ -136,7 +136,6 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-theme: minima
 encoding: utf-8
 paginate: 10
 paginate_path: "/blog/page:num/"
