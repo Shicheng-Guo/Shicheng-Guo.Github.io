@@ -3,6 +3,7 @@ layout: default
 title: "BD Deals"
 nav: deals
 permalink: /deals/
+wide: true
 content_class: archive
 eyebrow: "Pharma & Biotech Business Development"
 tagline: "A tracker of recent M&A, licensing, and partnership deals across pharma & biotech."

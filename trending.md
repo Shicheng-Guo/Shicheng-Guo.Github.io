@@ -3,6 +3,7 @@ layout: default
 title: "Trending"
 nav: trending
 permalink: /trending/
+wide: true
 content_class: archive
 eyebrow: "Live from the GitHub API"
 tagline: "Today's hot open-source projects in pharma & biology."

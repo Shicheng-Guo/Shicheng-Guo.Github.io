@@ -3,6 +3,7 @@ layout: default
 title: "Research"
 nav: research
 permalink: /research/
+wide: true
 content_class: archive
 eyebrow: "Genomics · Epigenetics · Data Science"
 tagline: "Translating human genetics into validated drug targets and biomarkers."

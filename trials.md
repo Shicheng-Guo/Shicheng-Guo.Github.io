@@ -3,6 +3,7 @@ layout: default
 title: "Clinical Trial Updates"
 nav: trials
 permalink: /trials/
+wide: true
 content_class: archive
 eyebrow: "Readouts · Successes · Failures"
 tagline: "A tracker of recent clinical-trial readouts — outcome, significance, target, and mechanism of action."
