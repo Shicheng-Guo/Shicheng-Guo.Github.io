@@ -1,0 +1,35 @@
+name: Update Biobank
+
+on:
+  schedule:
+    - cron: "47 7 * * *"   # daily at 07:47 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-biobank
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch and classify biobank news
+        run: python3 scripts/fetch_biobank.py
+      - name: Commit if changed
+        run: |
+          git config user.name "Shicheng Guo"
+          git config user.email "Shicheng.Guo@hotmail.com"
+          if ! git diff --quiet -- assets/data/biobank.json; then
+            git add assets/data/biobank.json
+            git commit -m "chore: update biobank data [skip ci]"
+            git push
+          else
+            echo "No changes to biobank data."
+          fi

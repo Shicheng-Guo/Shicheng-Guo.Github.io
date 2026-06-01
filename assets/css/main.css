@@ -87,10 +87,10 @@ strong { color: var(--text); font-weight: 600; }
 }
 .masthead__brand { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; color: var(--text); letter-spacing: .4px; }
 .masthead__brand .mark { color: var(--gold); }
-.masthead__nav { display: flex; gap: 19px; align-items: center; list-style: none; margin: 0; padding: 0; }
+.masthead__nav { display: flex; gap: 14px; align-items: center; list-style: none; margin: 0; padding: 0; }
 .masthead__nav a {
-  color: var(--text-soft); font-size: .76rem; font-weight: 500;
-  letter-spacing: .08em; text-transform: uppercase; position: relative; white-space: nowrap;
+  color: var(--text-soft); font-size: .72rem; font-weight: 500;
+  letter-spacing: .06em; text-transform: uppercase; position: relative; white-space: nowrap;
 }
 .masthead__nav a::after {
   content: ""; position: absolute; left: 0; bottom: -6px; height: 1.5px; width: 0;
@@ -327,6 +327,8 @@ a.list-entry__title:hover { color: var(--gold); }
 .deal-badge--opinion     { color: #ff9e7a; border-color: rgba(255,158,122,0.35); }
 .deal-badge--event       { color: #6fe0d0; border-color: rgba(111,224,208,0.35); }
 .deal-badge--product     { color: #ff9ec9; border-color: rgba(255,158,201,0.35); }
+.deal-badge--datacohort  { color: #7fd1ff; border-color: rgba(127,209,255,0.35); }
+.deal-badge--technology  { color: #b6a7ff; border-color: rgba(182,167,255,0.35); }
 
 /* ---------- KOL board ---------- */
 .kol-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 8px; }
