@@ -348,6 +348,10 @@ a.list-entry__title:hover { color: var(--gold); }
 }
 .site-footer a { color: var(--muted); }
 .site-footer a:hover { color: var(--gold); }
+.visitor { flex-basis: 100%; text-align: center; padding-top: 18px; margin-top: 6px; border-top: 1px solid var(--line-soft); color: var(--faint); font-size: .8rem; letter-spacing: .02em; }
+.visitor #visitorCount { color: var(--text-soft); }
+.visitor #visitorLoc { color: var(--muted); }
+.visitor__sep { margin: 0 8px; color: var(--faint); }
 
 /* ---------- Reveal ---------- */
 .reveal { opacity: 0; transform: translateY(20px); transition: opacity .8s var(--ease), transform .8s var(--ease); }
