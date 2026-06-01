@@ -35,12 +35,10 @@
       <nav>
         <ul class="masthead__nav">
           <li><a href="{{ site.url }}/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+          <li><a href="{{ site.url }}/research/" {% if page.nav == "research" %}class="active"{% endif %}>Research</a></li>
+          <li><a href="{{ site.url }}/perspectives/" {% if page.nav == "perspectives" %}class="active"{% endif %}>Perspectives</a></li>
           <li><a href="{{ site.url }}/publications/" {% if page.nav == "publications" %}class="active"{% endif %}>Publications</a></li>
-          <li><a href="{{ site.url }}/talks/" {% if page.nav == "talks" %}class="active"{% endif %}>Talks</a></li>
-          <li><a href="{{ site.url }}/teaching/" {% if page.nav == "teaching" %}class="active"{% endif %}>Teaching</a></li>
-          <li><a href="{{ site.url }}/portfolio/" {% if page.nav == "portfolio" %}class="active"{% endif %}>Portfolio</a></li>
-          <li><a href="{{ site.url }}/cv/" {% if page.nav == "cv" %}class="active"{% endif %}>CV</a></li>
-          <li><a href="{{ site.url }}/archive.html" {% if page.nav == "blog" %}class="active"{% endif %}>Blog</a></li>
+          <li><a href="{{ site.url }}/leadership/" {% if page.nav == "leadership" %}class="active"{% endif %}>Leadership</a></li>
         </ul>
       </nav>
     </div>

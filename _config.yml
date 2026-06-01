@@ -150,8 +150,6 @@ url: https://Shicheng-Guo.github.io
 collections:
   publications:
     output: false
-  talks:
-    output: false
   portfolio:
     output: false
 
