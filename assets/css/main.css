@@ -328,6 +328,25 @@ a.list-entry__title:hover { color: var(--gold); }
 .deal-badge--event       { color: #6fe0d0; border-color: rgba(111,224,208,0.35); }
 .deal-badge--product     { color: #ff9ec9; border-color: rgba(255,158,201,0.35); }
 
+/* ---------- KOL board ---------- */
+.kol-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 8px; }
+.kol-card {
+  display: grid; grid-template-columns: auto 1fr; gap: 18px; align-items: start;
+  background: linear-gradient(160deg, var(--surface), var(--bg-2));
+  border: 1px solid var(--line-soft); border-radius: 10px; padding: 22px;
+  transition: transform .3s var(--ease), border-color .3s var(--ease), box-shadow .3s var(--ease);
+}
+.kol-card:hover { transform: translateY(-4px); border-color: var(--line); box-shadow: 0 18px 44px rgba(0,0,0,0.5); }
+.kol-rank { font-family: var(--serif); font-size: 1.6rem; font-weight: 700; line-height: 1; color: transparent;
+  background: var(--gold-grad); -webkit-background-clip: text; background-clip: text; min-width: 2.2ch; }
+.kol-name { font-family: var(--serif); font-size: 1.3rem; margin: 0 0 2px; color: var(--text); }
+.kol-name a { color: var(--text); }
+.kol-name a:hover { color: var(--gold); }
+.kol-title { color: var(--gold-2); font-size: .9rem; margin-bottom: 10px; }
+.kol-note { color: var(--muted); font-size: .92rem; margin: 10px 0 0; }
+.kol-card .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.kol-card .tag { font-size: .68rem; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-2); border: 1px solid var(--line-soft); padding: 3px 9px; border-radius: 20px; }
+
 /* ---------- CV ---------- */
 .cv-section { margin-bottom: 2.2em; }
 .cv-entry { display: grid; grid-template-columns: 130px 1fr; gap: 22px; padding: 16px 0; border-bottom: 1px solid var(--line-soft); }
@@ -368,11 +387,11 @@ a.list-entry__title:hover { color: var(--gold); }
 /* ============================================================
    Responsive
    ============================================================ */
-@media (max-width: 1040px) {
+@media (max-width: 1180px) {
   .page-wrap { grid-template-columns: 1fr; gap: 28px; padding-top: 92px; }
   .author { position: static; max-width: 420px; margin: 0 auto; padding-bottom: 18px; border-bottom: 1px solid var(--line-soft); }
   .author__links { max-width: 280px; }
-  .highlights, .portfolio-grid, .repo-grid { grid-template-columns: 1fr; }
+  .highlights, .portfolio-grid, .repo-grid, .kol-grid { grid-template-columns: 1fr; }
   .masthead__nav {
     position: fixed; inset: 0 0 0 auto; width: min(76vw, 300px);
     flex-direction: column; justify-content: center; gap: 22px;
