@@ -1,0 +1,142 @@
+// deals.js — renders the pharma/biotech BD deal tracker from
+// assets/data/deals.json (built daily by the update-deals GitHub Action).
+// Client-side filtering (type/area/modality/stage), text search, date sort.
+
+(function () {
+  const tableMount = document.getElementById("dealTable");
+  if (!tableMount) return;
+  const statusEl  = document.getElementById("dealStatus");
+  const searchEl  = document.getElementById("dealSearch");
+  const updatedEl = document.getElementById("dealUpdated");
+  const countEl   = document.getElementById("dealCount");
+  const filterBoxes = {
+    type:     document.getElementById("dealType"),
+    area:     document.getElementById("dealArea"),
+    modality: document.getElementById("dealModality"),
+    stage:    document.getElementById("dealStage"),
+  };
+
+  const DATA_URL = "/assets/data/deals.json";
+
+  let allDeals = [];
+  const active = { type: "", area: "", modality: "", stage: "" };
+  let query = "";
+  let sortDesc = true;
+
+  function el(tag, attrs, ...kids) {
+    const node = document.createElement(tag);
+    if (attrs) for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k === "class") node.className = v;
+      else if (k.startsWith("on") && typeof v === "function") node.addEventListener(k.slice(2), v);
+      else node.setAttribute(k, v === true ? "" : String(v));
+    }
+    for (const c of kids.flat(Infinity)) {
+      if (c == null || c === false || c === true) continue;
+      node.appendChild(c instanceof Node ? c : document.createTextNode(String(c)));
+    }
+    return node;
+  }
+
+  function uniqueSorted(key) {
+    return [...new Set(allDeals.map(d => d[key]).filter(Boolean))].sort();
+  }
+
+  function renderFilters() {
+    Object.entries(filterBoxes).forEach(([key, box]) => {
+      if (!box) return;
+      box.replaceChildren();
+      const opts = ["", ...uniqueSorted(key)];
+      opts.forEach(val => {
+        const isActive = active[key] === val;
+        box.appendChild(el("button", {
+          class: "filter-pill" + (isActive ? " is-active" : ""),
+          type: "button",
+          "aria-pressed": isActive ? "true" : "false",
+          onclick: () => { active[key] = val; renderFilters(); renderTable(); }
+        }, val || "All"));
+      });
+    });
+  }
+
+  function matches(d) {
+    if (active.type && d.type !== active.type) return false;
+    if (active.area && d.area !== active.area) return false;
+    if (active.modality && d.modality !== active.modality) return false;
+    if (active.stage && d.stage !== active.stage) return false;
+    if (query && !d.headline.toLowerCase().includes(query)) return false;
+    return true;
+  }
+
+  function typeBadge(t) {
+    const cls = "deal-badge deal-badge--" + (t || "deal").toLowerCase().replace(/[^a-z]/g, "");
+    return el("span", { class: cls }, t || "Deal");
+  }
+
+  function renderTable() {
+    const rows = allDeals.filter(matches);
+    rows.sort((a, b) => sortDesc ? (b.date || "").localeCompare(a.date || "")
+                                 : (a.date || "").localeCompare(b.date || ""));
+    if (countEl) countEl.textContent = rows.length + (rows.length === 1 ? " deal" : " deals");
+
+    tableMount.replaceChildren();
+    if (!rows.length) {
+      tableMount.appendChild(el("p", { class: "deal-empty" }, "No deals match these filters."));
+      return;
+    }
+
+    const head = el("tr", null,
+      el("th", { class: "deal-th-date", onclick: () => { sortDesc = !sortDesc; renderTable(); }, title: "Sort by date" },
+        "Date " + (sortDesc ? "▾" : "▴")),
+      el("th", null, "Deal"),
+      el("th", null, "Type"),
+      el("th", null, "Value"),
+      el("th", null, "Area"),
+      el("th", null, "Modality"),
+      el("th", null, "Stage"),
+    );
+
+    const body = rows.map(d => el("tr", null,
+      el("td", { class: "deal-date" }, d.date || "—"),
+      el("td", { class: "deal-headline" },
+        el("a", { href: d.link, target: "_blank", rel: "noopener" }, d.headline),
+        d.source && el("span", { class: "deal-source" }, d.source)
+      ),
+      el("td", null, typeBadge(d.type)),
+      el("td", { class: "deal-value" }, d.value || "—"),
+      el("td", null, d.area || "—"),
+      el("td", null, d.modality || "—"),
+      el("td", null, d.stage || "—"),
+    ));
+
+    tableMount.appendChild(
+      el("div", { class: "deal-table-wrap" },
+        el("table", { class: "deal-table" }, el("thead", null, head), el("tbody", null, body))
+      )
+    );
+  }
+
+  function setStatus(msg, isError) {
+    if (!statusEl) return;
+    statusEl.hidden = !msg;
+    statusEl.textContent = msg || "";
+    statusEl.classList.toggle("is-error", !!isError);
+  }
+
+  if (searchEl) searchEl.addEventListener("input", e => { query = e.target.value.trim().toLowerCase(); renderTable(); });
+
+  setStatus("Loading deals…", false);
+  fetch(DATA_URL, { cache: "no-cache" })
+    .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(data => {
+      allDeals = (data.deals || []).filter(d => d.headline && d.link);
+      setStatus("", false);
+      if (updatedEl && data.generated) {
+        const t = new Date(data.generated).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+        updatedEl.textContent = "Last updated " + t + " · " + allDeals.length + " deals tracked";
+      }
+      renderFilters();
+      renderTable();
+    })
+    .catch(() => setStatus("Couldn't load the deal data yet. It is generated by the daily update job — check back after the first run.", true));
+})();

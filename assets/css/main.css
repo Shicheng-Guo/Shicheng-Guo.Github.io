@@ -272,6 +272,44 @@ a.list-entry__title:hover { color: var(--gold); }
 .repo-view { margin-left: auto; font-size: .8rem; font-weight: 600; letter-spacing: .04em; color: var(--gold-2); }
 .repo-view:hover { color: var(--gold); }
 
+/* ---------- BD Deals tracker ---------- */
+.deal-search {
+  width: 100%; font-family: var(--sans); font-size: .95rem; color: var(--text);
+  background: var(--surface); border: 1px solid var(--line-soft); border-radius: 8px;
+  padding: 12px 16px; margin: 1.2em 0 .6em; transition: border-color .2s var(--ease);
+}
+.deal-search::placeholder { color: var(--faint); }
+.deal-search:focus { outline: none; border-color: var(--gold); }
+
+.deal-table-wrap { overflow-x: auto; border: 1px solid var(--line-soft); border-radius: 10px; }
+.deal-table { width: 100%; border-collapse: collapse; font-size: .9rem; min-width: 760px; }
+.deal-table th {
+  text-align: left; font-family: var(--sans); font-size: .72rem; font-weight: 600;
+  letter-spacing: .12em; text-transform: uppercase; color: var(--gold-2);
+  padding: 13px 14px; border-bottom: 1px solid var(--line); background: var(--surface); white-space: nowrap;
+}
+.deal-table .deal-th-date { cursor: pointer; user-select: none; }
+.deal-table .deal-th-date:hover { color: var(--gold); }
+.deal-table td { padding: 13px 14px; border-bottom: 1px solid var(--line-soft); color: var(--text-soft); vertical-align: top; }
+.deal-table tbody tr { transition: background .15s var(--ease); }
+.deal-table tbody tr:hover { background: rgba(255,255,255,0.02); }
+.deal-date { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.deal-value { color: var(--gold-2); font-weight: 600; white-space: nowrap; }
+.deal-headline a { color: var(--text); font-weight: 500; }
+.deal-headline a:hover { color: var(--gold); }
+.deal-source { display: block; color: var(--faint); font-size: .76rem; margin-top: 3px; }
+.deal-empty { color: var(--muted); padding: 24px 4px; }
+
+.deal-badge {
+  display: inline-block; font-size: .68rem; font-weight: 600; letter-spacing: .06em;
+  text-transform: uppercase; padding: 3px 9px; border-radius: 4px; white-space: nowrap;
+  border: 1px solid var(--line-soft); color: var(--text-soft);
+}
+.deal-badge--ma          { color: #ff9e7a; border-color: rgba(255,158,122,0.35); }
+.deal-badge--licensing   { color: #7ac6ff; border-color: rgba(122,198,255,0.35); }
+.deal-badge--partnership { color: #9ee37a; border-color: rgba(158,227,122,0.35); }
+.deal-badge--financing   { color: #c89eff; border-color: rgba(200,158,255,0.35); }
+
 /* ---------- CV ---------- */
 .cv-section { margin-bottom: 2.2em; }
 .cv-entry { display: grid; grid-template-columns: 130px 1fr; gap: 22px; padding: 16px 0; border-bottom: 1px solid var(--line-soft); }
