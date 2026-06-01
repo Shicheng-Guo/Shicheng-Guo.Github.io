@@ -333,6 +333,7 @@ a.list-entry__title:hover { color: var(--gold); }
 .deal-badge--funding     { color: #c89eff; border-color: rgba(200,158,255,0.35); }
 .deal-badge--launch      { color: #ff9ec9; border-color: rgba(255,158,201,0.35); }
 .deal-badge--breakthrough{ color: #5fd98a; border-color: rgba(95,217,138,0.4); }
+.deal-badge--perspective { color: #ff9e7a; border-color: rgba(255,158,122,0.35); }
 
 /* ---------- KOL board ---------- */
 .kol-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 8px; }
