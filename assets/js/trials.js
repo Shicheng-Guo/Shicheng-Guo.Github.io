@@ -12,13 +12,11 @@
   const filterBoxes = {
     outcome: document.getElementById("trialOutcome"),
     phase:   document.getElementById("trialPhase"),
-    target:  document.getElementById("trialTarget"),
-    moa:     document.getElementById("trialMoa"),
   };
   const DATA_URL = "/assets/data/trials.json";
 
   let all = [];
-  const active = { outcome: "", phase: "", target: "", moa: "" };
+  const active = { outcome: "", phase: "" };
   let query = "";
   let sortDesc = true;
 
@@ -58,8 +56,6 @@
   function matches(d) {
     if (active.outcome && d.outcome !== active.outcome) return false;
     if (active.phase && d.phase !== active.phase) return false;
-    if (active.target && d.target !== active.target) return false;
-    if (active.moa && d.moa !== active.moa) return false;
     if (query && !d.headline.toLowerCase().includes(query)) return false;
     return true;
   }
@@ -87,9 +83,6 @@
       el("th", null, "Trial / Drug"),
       el("th", null, "Phase"),
       el("th", null, "Outcome"),
-      el("th", null, "Significance"),
-      el("th", null, "Target"),
-      el("th", null, "MOA"),
     );
 
     const body = rows.map(d => el("tr", null,
@@ -100,9 +93,6 @@
       ),
       el("td", null, d.phase || "—"),
       el("td", null, outcomeBadge(d.outcome)),
-      el("td", null, d.significance || "—"),
-      el("td", null, d.target || "—"),
-      el("td", null, d.moa || "—"),
     ));
 
     tableMount.appendChild(
