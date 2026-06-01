@@ -400,7 +400,7 @@ a.list-entry__title:hover { color: var(--gold); }
 }
 .site-footer a { color: var(--muted); }
 .site-footer a:hover { color: var(--gold); }
-.visitor { color: var(--muted); }
+.visitor { color: var(--muted); text-align: center; flex: 1 1 auto; }
 .visitor[hidden] { display: none; }
 .visitor #visitorCount { color: var(--text-soft); }
 .visitor #visitorLoc { color: var(--muted); }
