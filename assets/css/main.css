@@ -86,10 +86,10 @@ strong { color: var(--text); font-weight: 600; }
 }
 .masthead__brand { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; color: var(--text); letter-spacing: .4px; }
 .masthead__brand .mark { color: var(--gold); }
-.masthead__nav { display: flex; gap: 26px; align-items: center; list-style: none; margin: 0; padding: 0; }
+.masthead__nav { display: flex; gap: 19px; align-items: center; list-style: none; margin: 0; padding: 0; }
 .masthead__nav a {
-  color: var(--text-soft); font-size: .8rem; font-weight: 500;
-  letter-spacing: .1em; text-transform: uppercase; position: relative; white-space: nowrap;
+  color: var(--text-soft); font-size: .76rem; font-weight: 500;
+  letter-spacing: .08em; text-transform: uppercase; position: relative; white-space: nowrap;
 }
 .masthead__nav a::after {
   content: ""; position: absolute; left: 0; bottom: -6px; height: 1.5px; width: 0;
@@ -309,6 +309,10 @@ a.list-entry__title:hover { color: var(--gold); }
 .deal-badge--licensing   { color: #7ac6ff; border-color: rgba(122,198,255,0.35); }
 .deal-badge--partnership { color: #9ee37a; border-color: rgba(158,227,122,0.35); }
 .deal-badge--financing   { color: #c89eff; border-color: rgba(200,158,255,0.35); }
+/* clinical-trial outcomes */
+.deal-badge--success { color: #5fd98a; border-color: rgba(95,217,138,0.4); background: rgba(95,217,138,0.08); }
+.deal-badge--failed  { color: #ff7a7a; border-color: rgba(255,122,122,0.4); background: rgba(255,122,122,0.08); }
+.deal-badge--readout { color: var(--gold-2); border-color: rgba(212,175,55,0.35); }
 
 /* ---------- CV ---------- */
 .cv-section { margin-bottom: 2.2em; }
@@ -346,7 +350,7 @@ a.list-entry__title:hover { color: var(--gold); }
 /* ============================================================
    Responsive
    ============================================================ */
-@media (max-width: 900px) {
+@media (max-width: 1040px) {
   .page-wrap { grid-template-columns: 1fr; gap: 28px; padding-top: 92px; }
   .author { position: static; max-width: 420px; margin: 0 auto; padding-bottom: 18px; border-bottom: 1px solid var(--line-soft); }
   .author__links { max-width: 280px; }

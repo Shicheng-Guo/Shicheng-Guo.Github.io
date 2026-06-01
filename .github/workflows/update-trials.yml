@@ -1,0 +1,38 @@
+name: Update clinical trials
+
+on:
+  schedule:
+    - cron: "47 6 * * *"   # daily at 06:47 UTC
+  workflow_dispatch: {}     # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-trials
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and classify clinical-trial readouts
+        run: python3 scripts/fetch_trials.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "Shicheng Guo"
+          git config user.email "Shicheng.Guo@hotmail.com"
+          if ! git diff --quiet -- assets/data/trials.json; then
+            git add assets/data/trials.json
+            git commit -m "chore: update clinical-trial data [skip ci]"
+            git push
+          else
+            echo "No changes to trial data."
+          fi
