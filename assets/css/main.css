@@ -24,7 +24,7 @@
   --serif: "Cormorant Garamond", "Playfair Display", Georgia, serif;
   --sans:  "Inter", "Helvetica Neue", Arial, sans-serif;
 
-  --content-max: 1240px;
+  --content-max: 1560px;
   --content-max-wide: 1560px;
   --sidebar-w: 280px;
   --ease: cubic-bezier(0.16, 1, 0.3, 1);
