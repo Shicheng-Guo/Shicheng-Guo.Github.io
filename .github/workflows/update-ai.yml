@@ -1,0 +1,38 @@
+name: Update AI in pharma
+
+on:
+  schedule:
+    - cron: "7 7 * * *"   # daily at 07:07 UTC
+  workflow_dispatch: {}    # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ai
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and classify AI-in-pharma news
+        run: python3 scripts/fetch_ai.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "Shicheng Guo"
+          git config user.email "Shicheng.Guo@hotmail.com"
+          if ! git diff --quiet -- assets/data/ai.json; then
+            git add assets/data/ai.json
+            git commit -m "chore: update AI-in-pharma data [skip ci]"
+            git push
+          else
+            echo "No changes to AI data."
+          fi

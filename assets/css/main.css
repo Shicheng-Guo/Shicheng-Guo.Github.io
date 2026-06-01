@@ -319,6 +319,14 @@ a.list-entry__title:hover { color: var(--gold); }
 .deal-badge--success { color: #5fd98a; border-color: rgba(95,217,138,0.4); background: rgba(95,217,138,0.08); }
 .deal-badge--failed  { color: #ff7a7a; border-color: rgba(255,122,122,0.4); background: rgba(255,122,122,0.08); }
 .deal-badge--readout { color: var(--gold-2); border-color: rgba(212,175,55,0.35); }
+/* AI-in-pharma categories */
+.deal-badge--news        { color: var(--gold-2);  border-color: rgba(212,175,55,0.35); }
+.deal-badge--research    { color: #9ee37a; border-color: rgba(158,227,122,0.35); }
+.deal-badge--fundingdeal { color: #c89eff; border-color: rgba(200,158,255,0.35); }
+.deal-badge--regulatory  { color: #7ac6ff; border-color: rgba(122,198,255,0.35); }
+.deal-badge--opinion     { color: #ff9e7a; border-color: rgba(255,158,122,0.35); }
+.deal-badge--event       { color: #6fe0d0; border-color: rgba(111,224,208,0.35); }
+.deal-badge--product     { color: #ff9ec9; border-color: rgba(255,158,201,0.35); }
 
 /* ---------- CV ---------- */
 .cv-section { margin-bottom: 2.2em; }
