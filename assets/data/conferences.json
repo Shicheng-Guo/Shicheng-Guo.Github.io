@@ -1,0 +1,23 @@
+{
+  "updated": "2026-06-01",
+  "note": "Curated calendar. Edit assets/data/conferences.json to add/update events. Dates are best-known/expected — always confirm via the official site. Past events auto-hide.",
+  "conferences": [
+    { "name": "ESMO Congress 2026", "start": "2026-10-16", "date": "Oct 2026 (expected)", "location": "Europe (rotates)", "tags": ["Oncology"], "link": "https://www.google.com/search?q=ESMO+Congress+2026+dates" },
+    { "name": "ASHG Annual Meeting 2026", "start": "2026-10-13", "date": "Oct 2026 (expected)", "location": "USA (rotates)", "tags": ["Human genetics", "Genomics"], "link": "https://www.google.com/search?q=ASHG+2026+annual+meeting+dates" },
+    { "name": "AHA Scientific Sessions 2026", "start": "2026-11-07", "date": "Nov 2026 (expected)", "location": "USA (rotates)", "tags": ["Cardiovascular"], "link": "https://www.google.com/search?q=AHA+Scientific+Sessions+2026" },
+    { "name": "SITC Annual Meeting 2026", "start": "2026-11-04", "date": "Nov 2026 (expected)", "location": "National Harbor, MD (typical)", "tags": ["Immuno-oncology"], "link": "https://www.google.com/search?q=SITC+annual+meeting+2026" },
+    { "name": "ASH Annual Meeting 2026", "start": "2026-12-05", "date": "Dec 2026 (expected)", "location": "USA (rotates)", "tags": ["Hematology"], "link": "https://www.google.com/search?q=ASH+annual+meeting+2026+dates" },
+    { "name": "J.P. Morgan Healthcare Conference 2027", "start": "2027-01-11", "date": "Jan 2027 (expected)", "location": "San Francisco, CA", "tags": ["Industry", "Finance", "Partnering"], "link": "https://www.google.com/search?q=JP+Morgan+Healthcare+Conference+2027" },
+    { "name": "Festival of Genomics & Biodata 2027", "start": "2027-01-27", "date": "Jan 2027 (expected)", "location": "London, UK", "tags": ["Genomics", "Data"], "link": "https://www.google.com/search?q=Festival+of+Genomics+2027" },
+    { "name": "Precision Med Tri-Conference 2027", "start": "2027-03-01", "date": "Mar 2027 (expected)", "location": "San Diego, CA", "tags": ["Genomics", "Diagnostics"], "link": "https://www.google.com/search?q=Molecular+Med+Tri-Con+2027" },
+    { "name": "ACMG Annual Clinical Genetics Meeting 2027", "start": "2027-03-22", "date": "Mar 2027 (expected)", "location": "USA (rotates)", "tags": ["Medical genetics"], "link": "https://www.google.com/search?q=ACMG+annual+meeting+2027" },
+    { "name": "World Vaccine Congress 2027", "start": "2027-04-05", "date": "Apr 2027 (expected)", "location": "Washington, DC (typical)", "tags": ["Vaccines"], "link": "https://www.google.com/search?q=World+Vaccine+Congress+Washington+2027" },
+    { "name": "AACR Annual Meeting 2027", "start": "2027-04-17", "date": "Apr 2027 (expected)", "location": "USA (rotates)", "tags": ["Oncology", "Research"], "link": "https://www.google.com/search?q=AACR+annual+meeting+2027+dates" },
+    { "name": "Bio-IT World Conference 2027", "start": "2027-05-04", "date": "May 2027 (expected)", "location": "Boston, MA", "tags": ["Data science", "Informatics"], "link": "https://www.google.com/search?q=Bio-IT+World+2027" },
+    { "name": "ASGCT Annual Meeting 2027", "start": "2027-05-11", "date": "May 2027 (expected)", "location": "USA (rotates)", "tags": ["Gene & cell therapy"], "link": "https://www.google.com/search?q=ASGCT+annual+meeting+2027" },
+    { "name": "ESHG European Human Genetics Conference 2027", "start": "2027-05-29", "date": "May/Jun 2027 (expected)", "location": "Europe (rotates)", "tags": ["Human genetics"], "link": "https://www.google.com/search?q=ESHG+conference+2027" },
+    { "name": "ASCO Annual Meeting 2027", "start": "2027-05-28", "date": "Late May/Jun 2027 (expected)", "location": "Chicago, IL", "tags": ["Oncology"], "link": "https://www.google.com/search?q=ASCO+annual+meeting+2027+dates" },
+    { "name": "BIO International Convention 2027", "start": "2027-06-07", "date": "Jun 2027 (expected)", "location": "USA (rotates)", "tags": ["Industry", "Partnering"], "link": "https://www.google.com/search?q=BIO+International+Convention+2027" },
+    { "name": "DIA Global Annual Meeting 2027", "start": "2027-06-13", "date": "Jun 2027 (expected)", "location": "USA (rotates)", "tags": ["Regulatory", "Clinical"], "link": "https://www.google.com/search?q=DIA+Global+Annual+Meeting+2027" }
+  ]
+}

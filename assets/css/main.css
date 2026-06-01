@@ -353,6 +353,25 @@ a.list-entry__title:hover { color: var(--gold); }
 .kol-card .tags { display: flex; flex-wrap: wrap; gap: 6px; }
 .kol-card .tag { font-size: .68rem; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-2); border: 1px solid var(--line-soft); padding: 3px 9px; border-radius: 20px; }
 
+/* ---------- Conference calendar ---------- */
+.conf-list { display: grid; gap: 0; }
+.conf-item {
+  display: grid; grid-template-columns: 220px 1fr; gap: 24px; align-items: start;
+  padding: 20px 4px; border-bottom: 1px solid var(--line-soft);
+  transition: padding .25s var(--ease);
+}
+.conf-item:first-child { border-top: 1px solid var(--line-soft); }
+.conf-item:hover { padding-left: 12px; }
+.conf-date { font-family: var(--serif); color: var(--gold); font-size: 1.05rem; }
+.conf-name { font-family: var(--serif); font-size: 1.28rem; margin: 0 0 4px; color: var(--text); }
+.conf-name a { color: var(--text); }
+.conf-name a:hover { color: var(--gold); }
+.conf-loc { color: var(--muted); font-size: .9rem; margin-bottom: 8px; }
+.conf-loc i { color: var(--gold); }
+.conf-item .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.conf-item .tag { font-size: .68rem; letter-spacing: .06em; text-transform: uppercase; color: var(--gold-2); border: 1px solid var(--line-soft); padding: 3px 9px; border-radius: 20px; }
+@media (max-width: 560px) { .conf-item { grid-template-columns: 1fr; gap: 6px; } }
+
 /* ---------- CV ---------- */
 .cv-section { margin-bottom: 2.2em; }
 .cv-entry { display: grid; grid-template-columns: 130px 1fr; gap: 22px; padding: 16px 0; border-bottom: 1px solid var(--line-soft); }
@@ -393,7 +412,7 @@ a.list-entry__title:hover { color: var(--gold); }
 /* ============================================================
    Responsive
    ============================================================ */
-@media (max-width: 1180px) {
+@media (max-width: 1280px) {
   .page-wrap { grid-template-columns: 1fr; gap: 28px; padding-top: 92px; }
   .author { position: static; max-width: 420px; margin: 0 auto; padding-bottom: 18px; border-bottom: 1px solid var(--line-soft); }
   .author__links { max-width: 280px; }
