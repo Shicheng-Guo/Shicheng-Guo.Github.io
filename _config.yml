@@ -144,7 +144,7 @@ google_analytics:
 # GoatCounter analytics: set this to your code (the part before .goatcounter.com).
 # e.g. if your dashboard is https://shichengguo.goatcounter.com then use "shichengguo".
 # Leave blank to disable.
-goatcounter_code:
+goatcounter_code: sguo
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 description: Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals.
