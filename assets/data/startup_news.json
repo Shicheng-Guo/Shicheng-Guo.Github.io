@@ -1,11 +1,18 @@
 {
-  "generated": "2026-06-02T12:13:44+00:00",
+  "generated": "2026-06-03T12:48:58+00:00",
   "items": [
     {
       "date": "2026-06-01",
       "headline": "Boston Startup Fundraising Looks Strong Only By Pre-AI Parameters - Crunchbase News",
       "source": "Crunchbase News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDlKeDdCbFNocVNCaS16enFHeHBTWXQ4WTlrbG9qSU5Ha3J6TnplSHN1VENHUnJ1VDgyXzVLWUpSbmQ4NDFGd3FUWTBaMlpBOGxSdXQ5YUtwdWNrTU9MVTVQNXF4c1hYYjRfVEQ4MHJUMWQ1SmoyR3F0SlZUanRySTBlTVBKclR0NXhDVV9nUVlXMjZNNEZ1YQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-06-01",
+      "headline": "Boston Startup Fundraising Looks Strong Only By Pre-AI Parameters - CryptoRank",
+      "source": "CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0EtOXhnZC0zTlFhSUlOMmdJMWNLV2lqUWxvTmJkUzNBZzEwMU5QWVd3Z2ZHR1dKZ1Ywc2FKeFFqSmZzWDZoVG1qdTdkQXhqN2NlY1pmbjhDSmhEdnNMQ2JPRkJiSGpkb082cWxaZXVVU1ZLVWluV2tneUJkZl84ZmsxYi0xMThJeW1NeWtwWmRCSG44aElMRkVn?oc=5",
       "category": "News"
     },
     {
@@ -93,6 +100,13 @@
       "category": "Funding"
     },
     {
+      "date": "2026-05-18",
+      "headline": "Biotech Startup Cellogen Therapeutics Raises ₹20 Cr from Kotak Alts - Inc42",
+      "source": "Inc42",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWtVOEpTZVZtY3ZSWUt6QWxlR3lkdklKNUhvVzF5QUhYc2xDUC1reEFnVDF5c21QZjY3dm9fVThXM1k1WXN5OXNiWldBcm81RWotaVgxU1lZTkp2aHltWkJWbWhTLUIwalo1dzdZZFJHT1lqOVllb09hWmxUb05IdUMwTERhN2dmV3d0S3lRUFUwNHVmaUI0bUNlSzJyUEVo?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-05-15",
       "headline": "IBM's MAMMAL model puts open AI drug discovery in sharper focus - Startup Fortune",
       "source": "Startup Fortune",
@@ -154,6 +168,20 @@
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUViV19acTlueXNiVjRWRFhyM2xobnI3eXM0VVIxMUVZT3RhTGRvaXBQbDV3MlhGUHJIbDJHMXlVSGlDcTNGQkNsR1FLMTMtMkpQbmJIcXJjQWZWU3kwdG9oeFZ0MTBUc3JfZnQ1WkQ0N3pJWlVVNkNlMks4OU5Ma1JfejBld1gxOGFRQVR2dWFDWFFyeEhFMjM5SFFLLUJ6YVk3bkdSbUZMWDRLRGlTMlp3ZUlTN2RZcE9Hcmt4Qml0RG1w?oc=5",
       "category": "Launch"
+    },
+    {
+      "date": "2026-05-12",
+      "headline": "Isomorphic Labs raises $2.1 billion to test AI drug discovery - Startup Fortune",
+      "source": "Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFRXeFBPZmNsaU5TYVJLX3U5LW44S2ZyVHBvX3RTVzh3dFM2b0EwU2VBZ1N4bVNNbmphdzE1M3lfV3c0NVRLdzdEYTBFdG1LLVBtMWc5Uzd5RV90V1hDaWRYTnFma2JueFJIalZzWDNzYk1ua3BLTUN4Z1RXSHZ3VlZkOGtPS2ZVY3J1Wm1LYl8?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-05-12",
+      "headline": "Google AI legend raises big money for startup targeting this cutting-edge goal - MarketWatch",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2dLcDNNZXJ0Zm5qNXFDYWlJVXpDV0NfSkJ0VTJpZG1uZnVISVZNNktPamtmZUhaVk9qLWVvdmFDMWJ5TmN5SG1vNFYxSEM0US1DWElKLWxxN2FzTWtUU2kzTVNCYTdaSGRNYm5mWGY4M0VmWGpNODVQcDBEeGhBaWx6ZGtRb3dVQ1lpMWt3T2g0SEhMd1Z6RGRZck1sMGZPbUpMTEE3YWE5WnRiM3hDakZvSlE4WS1selBRZm13?oc=5",
+      "category": "Funding"
     },
     {
       "date": "2026-05-11",
@@ -245,6 +273,13 @@
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3hYZ0ZyZk9IOVZKbWxGdGpmRHU4U3c3VElZZXROcU9XOUZ4SnFsa003LWJXWGVnRDFXOWc5MVNoRDJNYXFSa0RucUtrVzYzSW90a2ZudTBBd2cyd3JjNmNxNklycnpiSjRwck93Rm0wbG5YcEVfZktwRFpGc0FoR9IBlAFBVV95cUxQQV9hMVhGWjlFamNCTnNJY0hqUEctVG1IZVE1TlVteWRlMWFhcG9HakEzYXNhZ1JoZG9Uc2VBbkJvSTdQRTJ6Q3hIczJ0Slg5Y0JneU5UdXBtbnlIQ2xmazNOTy04WXlRQ2FHUFA3THRWTGVRcTR0OGJrc3g3eW5GcXdkSnBOX2Q5WkttdkI4WERBeHgz?oc=5",
       "category": "Launch"
+    },
+    {
+      "date": "2026-04-25",
+      "headline": "Isomorphic Labs is putting AI-designed drugs into humans and the results will define a decade - Startup Fortune",
+      "source": "Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzByUWR6dEE0S3p2bmxWX2F6TjB4TnJBRlF4eEF4WExrMk1yX3Y3OE9weGk5WTF1WmdYd2R2b2diSDhsS1lOMGtOczdveHpsRE5YMTVJNU5rT2Y3eFV3dVJ1Q2xLQm9SdXZOWS00YWt4ZDJiWk1ETkpYNlBPbV93ODI1UklZOEI0XzRBLXlTLXRjcVRfNTUwUEhJb0VTdEtnSWFhTkFBaEZfWDdORklIekd5TUNQSWxqSFRtcVN3?oc=5",
+      "category": "Breakthrough"
     },
     {
       "date": "2026-04-24",
@@ -563,8 +598,8 @@
     },
     {
       "date": "2026-03-12",
-      "headline": "AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUY4NDVXaVN1SUpMRDFFYkpEcGN2alI1ZGR1ekpZTVdsTmh4RmRUdUo4VmRoek1oQzhDcEJmUkRBUl9fT0dLMDdzSXpzVWstTUtCX3d0TkFoRVh6RjdDcnhwcWZUZ3hkSHlvS0tFSFVLajQ1MEQzZUdaMEFzc3pTRGg3UHlHRmIzWnBEM1JRTV8weVYxbmdRMEVnazV2WWt6WUwyNFBveXFLUjVXRVRtNl9oSW85NnBjVW5R?oc=5",
       "category": "Breakthrough"
     },
@@ -581,6 +616,13 @@
       "source": "Technical.ly",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXAycnM1NGpEb0pqNHVtejJKN2NORno0TjJieUUwcXRBbTBKU2RYNGtaQ281aml2bU1rNzk0aTUyR0FCcFh2Wkd0NVBLRkY5azBjeUdKaDJNVFRudEJyQWFXbDVhT1MzY0trbkN0OHk3cmlfbFA4TTlPZ040Y3o1TUcyRUY3WnpYQXhFbVFmNW9aZw?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-03-10",
+      "headline": "Global innovators gather as first blue biotech studio launches in Maine - The Fish Site",
+      "source": "The Fish Site",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlF2VnB5UDlIbDF6ckFPWUdRb1I3bkozY0E2WHBKVGFjVkkxLVh1MGh2bEV3U0tZaG1fbzRvOHljWmVuZkhqTHMwM1R4Z284RFpIV3BBT2VNRU93YzBvQXgwZ0lSU01ibWRqTGR6bnR1RTJDS2kzTndsZ25NbzlOcFV3US0xeXZidUEzcWJpMHNVVmZEY3o5dFQtVmZvOHI5WjVIMEd4OA?oc=5",
+      "category": "Launch"
     },
     {
       "date": "2026-03-09",
@@ -814,6 +856,13 @@
       "category": "Launch"
     },
     {
+      "date": "2026-01-28",
+      "headline": "Halozyme buys a biotech startup; Cytokinetics launches heart drug - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWk1bldaeDdxNG11NUVXYUctTGRibHJPTG41S3ZxUks4ZXoyYzRza3VOcGQ2Z1dqZXVENlpKa3o2VVNqVXJiLWZ2dHJGaTlxc2VGcDh3TVk4amo3NXRubWdMRUJ6MkNWWDZ6X3RnUS1GU0VaalJBbXhWdXNUV1ZpYTBhOVg2Wk1XQWxFMGhWVXFFaUNMcHN1QmtxVlNqdUk?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2026-01-27",
       "headline": "Biotech Company Debut Launches Skin Tightening Ingredient - WWD",
       "source": "WWD",
@@ -982,6 +1031,13 @@
       "category": "Funding"
     },
     {
+      "date": "2026-01-08",
+      "headline": "Alveus launches with $160M to advance MariTide-like obesity drug - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1BmX0xjc0ZHaWlZREpJRmcwbkhfay1HV2ZCS3c5MURKMWduM2FXMTk3WENtQ1JsWjMyQ2NIaUhGYnZlaVlsT3RudXdpVzczdGt6cjNINVF2cGkzekFHRVF6WmZhT2tZQmE3Q1E3Yks1b3YtekxFTE04TEgxTS12MnR4ZTNwU3VYczlzNVlNa0Y5S3JzVTJUcGVLNHNzQjhx?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2026-01-03",
       "headline": "Japan Pushes Startups to Power the Next Biotech Cycle - BioSpectrum Asia",
       "source": "BioSpectrum Asia",
@@ -1066,6 +1122,13 @@
       "category": "Breakthrough"
     },
     {
+      "date": "2025-12-16",
+      "headline": "Ambros Therapeutics, Ramaswamy’s latest startup, launches with plans for pain treatment - statnews.com",
+      "source": "statnews.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3lIbEE5YkRhX3d0Umh5TDJteElEQjBKOFJva2RELWUwTWVzYmZJQ3R6X25yWFhHYkp4TEJRa05OOTM2b09ldm9Sd0hDamNPUzNXWGpZdUlTS1ZYYWdWZWJ1SXV4QW44YWMyclZzWEl2d3pQak9XWk5BelNUbXM2Z21Wbi1jQUd3UUtoWU93TTF0c18wSkZqUDhMQjlkWmpDcGxmQ09PdU9qNHlyT3NwQmlLZlpFLTJJYi1DR3NyNA?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2025-12-15",
       "headline": "This Startup Backed By OpenAI and the Jobs Family Is the Latest A.I. Drug Discovery Unicorn - observer.com",
       "source": "observer.com",
@@ -1081,8 +1144,8 @@
     },
     {
       "date": "2025-12-15",
-      "headline": "Watch AI Drug-Discovery Firm Chai Raises $130 Million Series B - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Watch AI Drug-Discovery Firm Chai Raises $130 Million Series B - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGVIOEM5RDRzaG90aWJlTGoxTi1vS2xUWGNld3ZleENUQ2p4anNKUjd2ZTJLckZVdHRJTzh1NnZMZjc3YkEwMElRdlhqQ3l5Z0NZTWh2OWtSckhsU0txVnNvU2FicWl3UjdCX3NCVTZDdEZUN3hyaUh5SV9SalI3ZEJ6a0U4WkIyREZ0LVFhR0lBOGV4TWtOeFY0Qi02cEhscFJfd3pwYWVrTEQ4VU5v?oc=5",
       "category": "Funding"
     },
@@ -1094,7 +1157,7 @@
       "category": "News"
     },
     {
-      "date": "2025-12-12",
+      "date": "2025-12-15",
       "headline": "Reflecting on the biotech funding landscape of 2025 and looking ahead to 2026 - BioXconomy",
       "source": "BioXconomy",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2dDUHRWY2NWd0xDNjdSa1BGSVdHekpULWhQOXJKUlY0OGE3a185T01HNTlzSjJ4MzJid01zS29ockRfaU9ua3Q1QWJkQkF6NHNfTWZWa2twZVlJQjJGMGFaR1pKSG9ORzQ3X2otekhpa1kwajF1VmotQ0VXVUgyM3gtWGhsX3I5RTlXRXktUWw1VHhqY1JYNHEyX195U1V2R3N3NkVmTTlPOVJSakQ0NjMtczlrdw?oc=5",
@@ -1120,6 +1183,13 @@
       "source": "Biz New Orleans",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVBwMENmOG9sQTAzWVJEZ2Fkb3NZOGpQYVFvblUxSHR2QzREYUVmR3FYck9YRTBLZTVITC1GQ0VPNXlQQzNqTVJlV1NaUDBHeDhVdlpZVVM4ZHpoTU10UzRVajFTdVBzd3JqaTFwWGdhczM0SWlUZE5QblBHbC1CTU9EejFkV19z?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2025-12-10",
+      "headline": "A Roivant spinout bets on AI-designed drugs for immune conditions - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDBBMzUtT1lhdHFlckc5Z0hIYV85OFlUSDZKel93Uy1XWi1NZVBLQU1EU0ZFTEhnZVBha3NEWV9CN1IwbnMzNzlqTnB2UGVMbmw5WU0tME43MjdFakF5MVRvWmt4R0ZWekg3NDgtWXFwVXk4OXkwcXQwZG1yTnQyWEdDUENJUkZXMUNtQWQxNmxWN0lHWFhNV0tyUW1PcjJaVXFBQzJRWVc?oc=5",
+      "category": "Launch"
     },
     {
       "date": "2025-12-08",
@@ -1318,6 +1388,13 @@
       "category": "News"
     },
     {
+      "date": "2025-11-06",
+      "headline": "Accipiter Biosciences Emerges from Stealth with $12.7 Million in Seed Financing to Deliver de novo Protein Therapies for Complex Diseases - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDN0eFhwT1cwSFZGZE1TM2RSNVk1SG94a3V2OEw2bVdtemRvc3FnYUNVYzQzalBRRXlaN0pBRnRiQjBjSlRSMERuTlBzWEhPbEJCN0Q2YUpPX09obmMxQi1MQ2dEcUJLUDRNcWR6aER1QXQ2RzJocm02QnFsM3FqWWpBWmpadjJiR04zek9DQQ?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2025-11-04",
       "headline": "Ronawk lauds departing chief science officer as she launches her own biotech startup - Startland News",
       "source": "Startland News",
@@ -1353,6 +1430,13 @@
       "category": "News"
     },
     {
+      "date": "2025-10-30",
+      "headline": "Novo Nordisk launches bidding war with Pfizer for US obesity biotech Metsera - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWlZWGdxdnhkWllOd0pSNXQ2eE1ieHFkSXhFRTRfRGRLSklEYi1xUzEzbWNqcllHaEVQTHhYSVFOYVFzaW9JYXBMS3FxbjRtYnFMa2U5SUJsV2E4Y19YaFNfUnd6OHZNRElmSVBxZ3ZfeUprLVdsVFd5Qm1oaFB4eVBBNWdRZGo4NWZwbFYxVlFNbkRnSG9fZ0VLSXBzRTgzOVFXaWNWWUR6dS1aVnVDZDFRR2tNZ2M?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2025-10-26",
       "headline": "Hub71 launches Hub71+ Life Sciences specialist ecosystem to accelerate innovation in BioTech, MedTech, and digital health - مكتب أبوظبي الإعلامي",
       "source": "مكتب أبوظبي الإعلامي",
@@ -1361,8 +1445,8 @@
     },
     {
       "date": "2025-10-24",
-      "headline": "OpenAI Backs a New Venture Trying to Thwart AI Bio-Attacks - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "OpenAI Backs a New Venture Trying to Thwart AI Bio-Attacks - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEg5YUdING5NelQzQTQtUDg3VmpJMWsxRnBpZ0NqM2VOOFlSa3Ntc3VEbXN4YTRHUXBQTzBBS1F6VXBRSE9KRENLdGxVU2xrMXlIckJldnNrdEFCZ1haamswaEZfc1BJX0RFcHBrekUxdGNtZEY3Qlg3ZVQ2cThlUGQ5UjVkYkhNT1VjZzFTN01PY0hNRWkzX213MlVfMXpQR1V4YlBRbDk5ZDdIM0E?oc=5",
       "category": "News"
     },
@@ -1431,8 +1515,8 @@
     },
     {
       "date": "2025-10-14",
-      "headline": "Insud Pharma launches the 9th edition of ChemoStart, its international biotech startup accelerator program - capital-riesgo.es",
-      "source": "capital-riesgo.es",
+      "headline": "Insud Pharma launches the 9th edition of ChemoStart, its international biotech startup accelerator program - Capital-Riesgo.es",
+      "source": "Capital-Riesgo.es",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNekNma2dWSVZCbkt5NDVkMWhsN0hFOVV0cUpDOHBFbEdtdmlFal9ETXFvMFNUbGRFQnVlWGdiWkdEeDNfZllndnRxQkZxRXBwanlsZXpmclRpMkszYVpmX2ZtdE1TSkRHZ0pUTE5fYjl6Ry1ET1ptdVhSNlBoN0Jfblg3VkYybWt1anZ4RVYzX1hnNjZuZVotaE1aN0VRWFZLQm45Y1pmYmUzNmpNQlFkd3Q1NEhwdTUtOWRhSzl1SmlpajlCSXdjU2tRUXViSml5LWpUSnc5TGc5OXU5?oc=5",
       "category": "Launch"
     },
@@ -1640,6 +1724,13 @@
       "category": "Funding"
     },
     {
+      "date": "2025-09-09",
+      "headline": "Lilly launches TuneLab platform to give biotechnology companies access to AI-enabled drug discovery models built through over $1 billion in research investment - investor.lilly.com",
+      "source": "investor.lilly.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUk40MHFFekw5bnZ2azFYS0Q1WGM4YmRramlxM0lOZERVT1Vsc0xya1l2SlBaWHRIUUJBaDBYcjU5cGNMLVdyRlZIV0tFcWlRajByOUlEc3c2Wk1DMUQwUHFoRG12cTRhTlVYdGdURmhYOXF2SnFmTWwzZFl4X2lJdmdUa3p5QnA4Yzd1OFlZM1hyNUZpanFERnVfWS1hOEJHeGhwbmhWc093Qll6V1BiWG03VUJuRUNZSnBHcFNCQQ?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2025-09-08",
       "headline": "Bayer launches Bayer Co.Lab AdVenture platform in China to accelerate access to global investment network enhancing biotech innovation - Bayer",
       "source": "Bayer",
@@ -1658,97 +1749,6 @@
       "headline": "Atlas Venture reels in $400M to grow its biotech startups - BioPharma Dive",
       "source": "BioPharma Dive",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDAtS3B6cXZpeGxTamdlZ1d2eDFsMkx4QkhBeHlJai1nZmlZWnVZVWE4RmtlOVVkSlZxaHYxY0NyZ1Jra1pCTVp6RnVSNVJNejVCMVp1LUZoa2VQX2M4TExBSHJxMUFubGEtTkE0aWhxTXZnTVdQRWJPS1NvRXNSSjV2cmhhRENnV1RpZmhDSEJBQ1hUMGtSRzBXRzA?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-09-04",
-      "headline": "A drug discovery startup banks $150M for immune and obesity drugs - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeEh6RUE2LXYxT2ZqVElKbVRqYXJTQl9IeFBaNklSdXdOQ1FNekY3RFV5ekxWQUpSUDlCcWpZUHNiT1hRODJsQzk3a1d6LWo4VVlTYnVZSzRYY2FnUThBSkNwd29TNE16elVwdkJDOUtLT21pMXRXSTNOZHVEM3pLS21uR3N0NUtRc1pUMzBuaW4?oc=5",
-      "category": "Breakthrough"
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "Startup Corsera Health aims to bring preventive heart medicine to the masses - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVBMazJGcV93cnVBLU1rV0VycTdKUWlmOHktZXo5aDV5WXU5UEZGU29TbzRhYTZMQlBDS0dTQjB5TS1XaXZHX2psbUdOdHV5TkczU1AzRXB5SlRtdVlxVm42QklYOEpJbjJ3NXd5UlFUdU1aREFxR2xYMjIxak00LU1aNmFIX01VdGtaaHJpYmRjYk1iZ1VV?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "Biotech veterans John Maraganore, Clive Meanwell launch new heart disease startup with lofty goals - statnews.com",
-      "source": "statnews.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85bjUxY1JjNFFRR1NqOUN4azVsN0hPclJCWkVxSm9mc3hoUEpzMnRoQnhPbUJnRHVNZl93cm9CSkJvQlcxTF9IMDNibDNHLTAwUmwzTzBoT0t3WjY2YTNkbGdyT295QXd2eklUcGhJN2tUUGRGQUczQWU4MTg?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "Aiming to disrupt the cardiovascular space, 2 industry vets unveil Boston biotech with preventive RNAi asset - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdERuc3FTbEk5LUI3WHpRdThham42M2Jpb2lGNFZVcGpBak1xdWxLT1Jwdl9JbWM3dk5VaUdJdkh4VWxyTkc3QzlQOUdBaENjcV9LSWViQ2dWQXRSaVhtVU5pSHRDNmtNMWVRd1RENWh4Qmo4dzNCVGM0eDRPMTkzNldvaXI5MGlsQ2h1dEdCTk9wRUdZaTFfZ3NGSWFNR3ltNDlLeDhVTmU5YXkxOHFoZGJEZV9ZMEwtZHZiQUNsRzRMbzFqejBILQ?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "Alnylam founding CEO launches a new biotech to create 'world without cardiovascular disease' - The Business Journals",
-      "source": "The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkNaZ3JLUnc3a3dpWkF3UHl5UWNWTkllNHl1eVVQSVpiV2c1TDBnT2hKTXplbGxGZEg3a0RoeDhjMlR3TWxsaXVPU0lsX0dIX0pKVnhuTEppQmxXNm84emViOWd5RDBRREJXNHc5c2R6UnlQUV9PdU1UVmNyT0lpazZySXB0Yms2Vnhhd0lqcVpJZw?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "MassBio and SCbio Announce Ten Biotech and Techbio Startups to Participate in Drive Accelerator - Massachusetts Biotechnology Council",
-      "source": "Massachusetts Biotechnology Council",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTRoU1NUZDBNUDhTZGpKWlBGdWNiclgxSFNZSWx5TFA4bkJBYTFjVDlLZTBGeVZvRzZZZ2dsMmxxSmtaWHpoN1dOZ3l5Vm5lTV9PQnlRVWVScVpuZEMyTmhWN0dDQ1VoYUJpMnNKckl3V0VtRktuUnJCQzhxVHo5R19BZE5CdExkUFp4d0x0bGtTWHl1dTduNTF3Y3VIbFpHWjhCMVRXeVRxVWs?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-08-28",
-      "headline": "British BioTech startup EnsiliTech raises €5.2 million to cut cold-chain costs in biopharma transport - EU-Startups",
-      "source": "EU-Startups",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdU9ueG9FT3AydFhGQ3E2TkxyRW40bWZNV2NtczJrMUpacnlvclRZUUsyUjQzT0xVMHNfbXhIcmVIc09vZlIxYm9mcUkwRFlFaGR2Vm5aQzdyV0piRzltSG16UmhCcjI5akc2VXdZNndieU5LcU9IMVg3N3NsOFlFSm9ndGVOZVNUWlY1QjNwdlp5THRzNTdOdUxWeFV2aEM2TDUxdDd2cUdvdnllWWZiMEZ4OHE0SGJtSzIzNXBtYzlCY0FRT0hndU5pNWxrSDZhMnFvLQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2025-08-27",
-      "headline": "German BioTech startup Detechgene pockets €3.2 million to take lab diagnostics mobile - EU-Startups",
-      "source": "EU-Startups",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkdUVVdhRVNjWVVCZVZJUUQwTzhzbHpicFIxdWxDcVdTNVhUcFlCSEtqcy1Lb3JLdmEzMW9veTY2UzNKdjNTZkVHZEFwZ05odnNEWWJDbE9fVW05dDdSckMxUFExR1ZWWjh4bGlQd3hnbTZjQUxGcGlIQ0o0ZnlaZFpIR3ZOZmdCWG5GZUZ0MjV5QUg4NEllaDFmdzh4bmktYktOQzJhQ0ppOFQ1SDRaWVVpbmhwSUNVYU9UQkdibw?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2025-08-25",
-      "headline": "Arnatar Therapeutics Emerges from Stealth and Announces - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQNWtBd2MydzhoSDlaMVlVSm5tWmpMTUVPNl9FcDgyWEpIZkdFZDl2Mzk0bEo3NjhuTFRTellCYXJRS241NnRzM2t4UnAwWWdLRVQyd0dGT0dYR0Y1M2t2NXFSOFRhU1YyamQyR0IwVFlZS1BuZTltbllWdm5maGNvV05YQTd6cVI2bEZxam5vbVlIOEpZQW9fLUNxbThoQzJxZXc2T0QtaUs0R2tsdFRjWnlVS0RnSTdhbTdfRWZCbUpMejJwMFBGamFSWVpURnc0bFdlWG1aTzZBeHo5c3pjV24wVlkwdU1GcXA1WkVaYjZ3cHpqQkZ5aXE1bVI3ZUExakpuVllqOG50d2pCaDlVbjBlYWJOSmE5bXVRZ2JBY2VIQll3M2d2STlWcw?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2025-08-25",
-      "headline": "Queensland biotech tops up $1 million Seed round with another $2m - Startup Daily",
-      "source": "Startup Daily",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFFQYzJnMGpNX0drMTh6SXFJaGpGbTQwbzhuMklSMGN5TzNrQTNKb0pjeDB4WkUxWGhwVmVqejVBWmlLT3VOcTdYVlZoc240ZktIVm1XRk5kTzhsWjk5UzdxZUY5Yk8wZTNXSWhLb3JCNG5iaGFFaGlVRFhmbmRER2pUT3FpWkhUcHhWVlhIc3RtWEtKWnVPUF9Bal96Vmx4Z3NqWEktYjg3Nk0?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2025-08-24",
-      "headline": "NBEC 2025 awards Rs 40 Cr in funding to biotech startups - YourStory.com",
-      "source": "YourStory.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmYzVkM1RTk2TWVBcUlOcUNIQzJKUWJLaW85bmdaVHZ2d1IzM1RZb2JtNzhRX3JONVhIZnk5UmcyS2hxY1R4LVdrblQ1TDdtMkpyX2YxcGgxbHhWSWpfalVqRnNob1BHb3Vha1VRXzNITDI5REZIcUVuTFhIa0FIWHRqMDJDRzNtallHWW42WkJQdHJrbXJmUzJIWkVnZw?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2025-08-21",
-      "headline": "San Diego-Area Biotech Startup Achieves Major Breakthrough in the Fight Against Rare Neurodevelopmental Disorder - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT2NvaGRfX1FQc3BneFlCNzAzemgxbXF3Z2ZJNXlCSXZiUmlTSVBnSmtZRW0wc01ud0w1WW5tbWxrbHo1dGU2aUszaGNRWVI5Ni15dGdfVi1Jano0eG56N2FIS3oyWUxTemFKQnh5M3lmSFJjNDQ1SDM1bUZGMUFRWWZMMlJWTE95WnRJYXpfYUFfeEJILXl1WEJhbnR3SnVOY01JUC1BeFJncjUyTGpCN2Vtd3NKd0IyNmpvMkhBNGZqSmZ5RHRZa2h1cmNEbkNyY29meVp3MFRDTk83dGNVUVhCNkYtOHc?oc=5",
-      "category": "Breakthrough"
-    },
-    {
-      "date": "2025-08-19",
-      "headline": "Omega’s Otello Stampacchia on the ‘reset’ changing biotech for the better - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0hEMGVWVjNERzdOVmItNHBKblZLeTR3QWVyLXphMjMzeFFiNVZ6c2YwNVlfc0I0NDllSzdVNWtadEwwSjFCeTlZVFlhZWY3cUJFdXVCWWNiclZ5dENVM21uN0xoWmp0MU02ajB6WjVMRk1TZGc1eVVSalhvWFlnelFLUDRrZ2FPRTN3ay1wY0NWOV9CTDBXZk91MA?oc=5",
       "category": "News"
     }
   ]
