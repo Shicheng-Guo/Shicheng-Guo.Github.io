@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03T12:26:17+00:00",
+  "generated": "2026-06-04T10:51:28+00:00",
   "items": [
     {
       "date": "2026-06-03",
@@ -7,6 +7,20 @@
       "source": "PR Newswire UK",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd2dBUjNOTUhVRTI4TUZsOUt5eExxT20yWEkwQ2FwSmVBM0Q4SC1nYzV1VnJfaEhzSmNVOUpMaVhiYkRoc2dzdmpYRU9aNEpRbTh0Rm5uWVlPLXpFcWN1VFVnWS1ld2haOG5Pb0l3eng4cXdqZGJLWHBZR3kyQUlpZktzLXFfNWdtdjNzVzRiVFVmbnVIaVJBenZxbEdPWmhrWFBubmMyN1p2WURISkZaZjl6aFZWTUdVSl9TemlTQXB1MnU0S3BRNXd2X0NQSFE?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-06-03",
+      "headline": "MetaSTAARlite: an all-in-one tool for biobank-scale whole-genome sequencing meta-analysis - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUXVjck9DMTFLRVVxRElycXZYNnVINFJ5MUwwREJrV2pzTkUwcmJOODFMZlEtTXY0UHpFM0lhc0tmUXNjUmw2QTE5YTFJNFJZYjlyNGJhTU5GYTNVZVQ4?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-06-03",
+      "headline": "MetaSTAARlite: Revolutionizing Biobank-Scale Genome Meta-Analysis - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzlESnZSVXQxeE9Cb1AtTVkwdjZ2M3ozSlk2ZGd2cGIxOWNyTFBMbzd1UmNDTWs3c09YYkdmb2ZpWHBteGQ2bjRuM2lJWUN2Zkk0eWNEVEdZTEFmYW01NDRidFpYUXdacndMTXA0Z0lTeXJDbEZ0a01JYWN3VWY0MVFicjJ5aGFyWlpjWDdHbUhhVWs?oc=5",
+      "category": "Research"
     },
     {
       "date": "2026-05-27",
@@ -37,6 +51,27 @@
       "category": "Data/Cohort"
     },
     {
+      "date": "2026-05-19",
+      "headline": "Thermo Fisher Scientific expands global biobank leadership through strategic collaboration with PRECISE-SG100K Singapore to advance population-scale proteomics - News-Medical",
+      "source": "News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOaGo5OXk2aldfS3Y2Rm8tQWpYNjF6TDNsczhEVjFUTFNLTG5MY2RBTzlaV1ZUMlcyZXEtT0p2NWxyY3pwUkN4MmFmelNwVDNWVzJkMGVkR0dqQ25BWU42dFc1QnQ3ZGJfQVpVMXNNVWhramlqZ3lkU0dGUTNQOGFMSHE3UTBWUXZ0bGxDVW1jZk4zYkdRY0pRNHdtN1FRdEJQQzhNRThUdVpnNGVzRkY2Vy1NV0ZWZXFPVjlQZHktbnFwTGNTZS1pNTJ2bWF0bUdWYy1XLUF0VlFsZmJXYzNBaW5oX09PZ2Z6TVlTYy16elFPRk9NOGd5cExLMEtyV2FCY19LSXRNVWhfOW5OaXh3blBtZmF1QVd4RzdkQVZVNnJ0bDFzSXZFT3QwOVlNVGpj?oc=5",
+      "category": "Partnership"
+    },
+    {
+      "date": "2026-05-16",
+      "headline": "Lipoprotein(a), Insulin Resistance, and Cardiovascular Disease in the UK Biobank - American Heart Association Journals",
+      "source": "American Heart Association Journals",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelVwX0xvMHJEME95RUc1c1RFRE9aNmk5Vk1hYXNXeDZIMnFrNmpqVTVNTTc0V2FwTDJkaTZfa2JZZDVmR1VvRURLM0ZmV3RwNTN5NUI2TDJnS0ZWNVRKMU9FWkZ6b0ZtQlV2R1Yybzl2MjZmMGJQeFVrcFNIanI4ZmttNU1sVng4NkZncklTSnNrZw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-05-16",
+      "headline": "From Biobank to Breakthrough: Activating Proteomic Data for Precision Medicine - Technology Networks",
+      "source": "Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWG9pN0xSenBHMC02eHhCM1B3OXUwS01jUHUtTlhmQnZ0LUIxSVZESDFnTGZMU0tqRVBtSFpFU2dNNEdhR0g4YnpzMVdjN18xUk1iRVlTb2l0SXdsazNOVzR6ZnJCNDExMXdTdjRaS2VSamZjSW55ZEkyQnlMRmRleXhCZGFFUkM3SkdVSktvVV95Z29UVEZLTjRma0dkNEhYd3daQ21RTWphUWRENlU4NUhsdE03di1vY0I2SHBvU3JCTmFES0dEbnctaGdtS1BjVnNWVUJ3?oc=5",
+      "category": "Technology"
+    },
+    {
       "date": "2026-05-13",
       "headline": "What the UK Biobank data exposure should mean for the Health Data Research Service - PHG Foundation",
       "source": "PHG Foundation",
@@ -49,6 +84,13 @@
       "source": "Gulf Business",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHZYV0xJOVNNQ3ZZVXJMemVGWUozeEw3cUdYSjB2YlBvZUR3M2xTUFZGTHJlSXF2WGxiN3llNVoxV0EwdzJkX0twUGpPM0M0Z01XRzAwZkpxV3VLSHR4cHZiRXItN0NxaThoWTVRcUQ0Vm5Dc2I0UkVzOHlKbUFQNUpoQi1FTkJUcGVzeldPRGxITTAydkE?oc=5",
       "category": "Opinion"
+    },
+    {
+      "date": "2026-05-09",
+      "headline": "Multi-Omics Predicts 17 UK Biobank Diseases - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MLXg2LWl4UFdjbUsyZzRoWXhzTjhtMkI4UExTaldsbDY0YXRzci1lajRwdzdCeEZsUml6aUFqUGE1b2dHMkZZUXpWUzRaVjhoMkJYWU15OWxWRmZHVTAtbVY1RkJCeGhCY1M1M0JaeFc3eHIxNXJz?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-05-06",
@@ -303,6 +345,13 @@
       "category": "News"
     },
     {
+      "date": "2026-04-24",
+      "headline": "UK Biobank volunteer data appears on Alibaba - SC Media",
+      "source": "SC Media",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNWxkM0JnY3VoNm1MSnF6NDdtNmxHOXV3TElxbzBHcHY2aV9IRGIxTTg3ZVE0Q1VZM2w3T2Vkei1kS3pFcHEwN2pNTkdCd3h4SlEyUmdqNGplSXhMeHpPNDM3R0tBV3VDemtJMkJvek1QY2R5b21vY3o3ZExOWDA?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-04-23",
       "headline": "UK Biobank health data listed for sale in China, government confirms - BBC",
       "source": "BBC",
@@ -434,6 +483,20 @@
       "source": "Jang",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjVfV3JhMEdfczNfRmpLR0ZGQnQxLTJYQ1RLQU1GWW9kTjY0cTdtSGJGczFVd0NLMU5BR25FVmp5YTRjQTVNRHlseXJmNjdXaTd1LTJYbl83dHRUeDZIOXF0WkhRRU1Wd3VzSTlJQy1YWDIwNUtsMWdiWW4wYlhNYm9Cclh3N2pEUW1IS1pwTkxocmJmdXduZ2FXbndPdjg?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-04-23",
+      "headline": "500,000 patients’ data for sale online after UK Biobank breach - Yahoo",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTdSS1dQMW81WnV6S3BFTmdGMUJMWHk4Mmhaa3B4WVZ3U0lrQmhPZUcwUFB6WHVLSmJGZXFlT3V1dDdSZGl1WHExT0JvQ05CTmdjbHFYRkd5TGhOX0p3VnYtdU5YVktXLTlVSXR1RnpJaGdKM0RxZ0p0YVRteTNCMHBYZw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-04-23",
+      "headline": "Half a million Biobank volunteers’ health data for sale on Chinese website - The Telegraph",
+      "source": "The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX3dNeWx6MWRkWEVrOXB4aEwtRVVGRGhCakZ1SkVtdXpaU0pVRXFNSWtST1pMLVBwRWFOMHhIVkRscTdxVEN5OHlhTUtjTjNIbWFFSzdpSTlmZU5sci1GdTdvcWQtX1BqNGJDZDFGa0VDQWxjdzJYYW1vd0cxSnc2Z0tCX3YwSHlSR0I2VjU0dWNqX0JOT3hMU3VNeWVmcGUwUlc0?oc=5",
+      "category": "Funding/Deal"
     },
     {
       "date": "2026-04-21",
@@ -653,6 +716,13 @@
       "category": "News"
     },
     {
+      "date": "2026-02-23",
+      "headline": "Shared Neurocardiac Pathways Linking Atrial Fibrillation and Depression: A UK Biobank Analysis - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jTzFtWTZPRVBvRUJXbGRyYkJLUkpTOG5zMlhTRTRQNHBsR3J3Z1JCelB3Z29YLTUyRDVyY1JZTUJPWDFBbVJrZ0xpU2ktM3FFNFBCWl9zRFM2RDJKTWoyQXhPenIwbTNSQTdGTA?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-02-18",
       "headline": "Zifo Partners With Maze Therapeutics on Managing Biobank Data - Contract Pharma",
       "source": "Contract Pharma",
@@ -814,6 +884,13 @@
       "category": "Research"
     },
     {
+      "date": "2025-12-22",
+      "headline": "A Common Ancestry-Specific Sodium Channel Variant Increases Susceptibility to Drug-Induced QTc Prolongation: Evidence From a Large Biobank - American Heart Association Journals",
+      "source": "American Heart Association Journals",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uRXdCZ3QyNlpKMXU3RFJ5aExlWTJHNUdXNThzTEV3dHd1WjQyNGV1S3BTdmpBSFVXemlLeFRuS0lha1FnZTZCNjhwNXMwcE01WHdVaUJvNzVjQTB3TXZrVV9iYVFnT1FZZU82RElTMnlyTzQ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2025-12-19",
       "headline": "The Global Biobank event was a touching and memorable experience - The Ehlers Danlos Society",
       "source": "The Ehlers Danlos Society",
@@ -934,7 +1011,7 @@
     },
     {
       "date": "2025-10-31",
-      "headline": "Biobank delivers vital genetic info, saving lives and improving patient care - UCHealth",
+      "headline": "For the millionth time, Colorado biobank delivers vital genetic information, saving lives and directly improving patient care - UCHealth",
       "source": "UCHealth",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVpnOFRSLWlpX3lscUhIY2F5M3FaLTljb3VyLVpIY2lDN2stOGxiQnZLSU5KVVllUkNlSk11bzdGcW5pdFlVdTdfRHZ0S3VuRllGZTlUVHBiT1p5ZHlhUFR2WWZxQ0ppdFRCQkk1d0RkSzF6WTU4b0Q2TF9CbkdFc2U5YXM0Nm1ONDVEU2ZpOFFfdUhPZTRveEo4dFFmTmxNaGw3Qzh3?oc=5",
       "category": "News"
@@ -982,11 +1059,25 @@
       "category": "Research"
     },
     {
+      "date": "2025-10-14",
+      "headline": "Understanding antidepressant change patterns in the UK Biobank - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5alFkbWE3a2o5UEVVeklIakhVODJKMkxtUHVFUU4yaEdOZ3d2czA3eERuWklkblJNY3dUUmZTQTFPZlB1VDFCdnRKQmY2NFNFaW9saTZCZzhtV2o2eGxRS1RyVUdLT2tJbEIxZGMxcEpHN2Zpc2JNVXQ5VQ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2025-10-13",
       "headline": "Clean air could prevent thousands of late-life eczema cases, UK Biobank study finds - Open Access Government",
       "source": "Open Access Government",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnBrT0E2QmZhdUt0TG5SV2FJb09VdEZ6UV9QXzE5RTRUQVFGdjlfVDNlS3JzNG5uTDJscjFRdmZrc2tOS3dxS2kzWEZ1RU9wYnNLbWd4NVhscExFR3RhNkRuem4za01FZlJMcnBJRDlvdFdIU3lNOGFQS3FRb19MYjRPYmo0SHVlUklVRE9qNEtFOEdHbUdEUl9VaEhaZFFsWGZxbm4tU01iMF9OblNheGczVER6M2d1dDVhZmRxWHBrTW5Mcnc?oc=5",
       "category": "Research"
+    },
+    {
+      "date": "2025-10-13",
+      "headline": "Computationally efficient methods for estimating phenome—wide coheritability of multi-type phenotypes using biobank data - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CbHpZMTZLR3NSY2lGZnh4bk1QME1OSUotUWo5SXNFaEdtRmJmYXhDOGszbW5hUHhfeWFyX2JKbGJWUXlrY2cxWjVFVWJXNmMtcWxtbkNrQnRlRHBIaXlB?oc=5",
+      "category": "News"
     },
     {
       "date": "2025-10-11",
@@ -1360,6 +1451,13 @@
       "category": "Research"
     },
     {
+      "date": "2025-03-12",
+      "headline": "Genetically supported targets and drug repurposing for brain aging: A systematic study in the UK Biobank - Science | AAAS",
+      "source": "Science | AAAS",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iTFpGdU9WWDh2WkhNZ3FPMUs0bHk3amEta0ZpQkhGaGNyVFZnRTE0ZFpXb01vbUlOTzVKVERHbWxBQm9yNjJzMks2c09SNXk3dWdQQ3ljYmtvNHRRbVhj?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2025-02-28",
       "headline": "Rare genetic associations with human lifespan in UK Biobank are enriched for oncogenic genes - Nature",
       "source": "Nature",
@@ -1668,6 +1766,13 @@
       "category": "News"
     },
     {
+      "date": "2024-03-05",
+      "headline": "Biobank to tell Victoria’s diverse COVID-19 vaccines stories - Doherty Institute",
+      "source": "Doherty Institute",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSERQRnJXMEEzX3lwMXI2NWkyOHl4eXNVNkNNSS1lOFhNUnZ4VVJNMHFPS1I5SkhJZ1UwZi1lLVVQNC1wLXFIdUI2dlUtTXdnT1FTZFdHUXh2azdWcjV5ejhybl8yWFo2Qk1PQUQ1NjR6QzJoeEdUQzR5TU1IcWs3dTZXMlgtVnFMbGZTeG8xQmMtdlRLUnF0RTFuTjRwbFZwWDR3UTlwczY0QQ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2024-02-26",
       "headline": "Whole-exome sequencing in UK Biobank reveals rare genetic architecture for depression - Nature",
       "source": "Nature",
@@ -1749,6 +1854,13 @@
       "headline": "All of Us UAB Research Program: UAB returns ‘value’ to participants in All of Us Research Program - villagelivingonline.com",
       "source": "villagelivingonline.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3F3Y1B3N0p1aGwwWDFPSVNTRkp6VGtpbUE0WHU0ajZCNlpqLWJ6YkZPZDU5eHFZSVlUSmxCdENKTVE2dEhrVG41VWtpQ0JUT3FPbE0tOFpLMDV3NF9vZXA1Q2haYjZKZDg3Ym9xMGIyY1VldnVkZ09OaFNPeG5yUmRGT0hSUmc0Zld1RmdaUUxhT0ZRZkU3LXFXWi1aSVE1VXJpQlF4SXp3bklEaVdpbUhPdFdudGVFRWpkcG9MN05qSy1faWJlOW1Xb0JVb0lzSTBIbGRn?oc=5",
+      "category": "Data/Cohort"
+    },
+    {
+      "date": "2024-01-31",
+      "headline": "All of Us UAB Research Program: UAB returns ‘value’ to participants in All of Us research program - HooverSun.com",
+      "source": "HooverSun.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjBBX0wyM21GYkUzUnN6V0doY0Z5ZTc3eFlYTXRyUHowVlB6TmRoTzZ3Qkl3VHNGYkp4bHBrN2czX29UUUN4MjVWT3JBSDVwTGNwMXVPbzlNVXlTRl9oWnYzWWJhVEJXQUtndW5NSExkUE5hUFNzT0hlaDlfMERmWGc3WjgzNm9iQ0JWbnctQndJMU90dGY4S2xlbkNBX3FvRWpPNWQ4OXlmamMwcTg3MFczUmN2X0VXeklKVkxILUdjeWdw?oc=5",
       "category": "Data/Cohort"
     },
     {
@@ -1899,6 +2011,13 @@
       "category": "Research"
     },
     {
+      "date": "2023-07-10",
+      "headline": "CU Medicine establishes an internationally accredited biobank: A prerequisite for Hong Kong to be the hub for new drug development in the Greater Bay Area - The Chinese University of Hong Kong",
+      "source": "The Chinese University of Hong Kong",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNkZjM0ExalZtN3A4NFhHbnlYeVB2LVFNVVBZZWRwVlJBRDQzNHBhdU9oenNBMUpESW5YSC1ZQVdWcXNzTXVnQmNaVXBxUjBaS2hvd19uUFM5RHdtYXI0TzBuTjhNMnROYTRkaTdQWW13c2FscEFJa2N0S2lrdzVUY01tdXF1eE51eXFRWUVKb04xZFlSWGdEeUJnejJjODNSX3JlZWUtZllvYWhhcEdnY3EwTzU5cUNmVXljVXN3N0g1cEFoUW1VQlVkUk94bTdjVzdTck1GSW1zb2dqSmZlMjFpbTJxN3Q3czNIbVBvN3hJR3J4V2t0LXlPVjlqZnZJbjBYZHJtaWNieXFEWUZWZEU4YnlpZTYtakhTclkzdEdGZw?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2023-06-29",
       "headline": "Accurate rare variant phasing of whole-genome and whole-exome sequencing data in the UK Biobank - Nature",
       "source": "Nature",
@@ -1962,6 +2081,13 @@
       "category": "Data/Cohort"
     },
     {
+      "date": "2023-01-25",
+      "headline": "Crown Bioscience to Acquire Indivumed’s Service Biz and Supporting Biobank - Contract Pharma",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaS03ZTF1ZUJqNnp2RGJ0aXJKTW9LWjV6b1JjSnN1cEFnZ2dpZ2JQUDlNX2tQSFl2OXpmaGMxOVVLdk9uZmhFSjRxakIxeHNkRm1acERIQ1dMYWxkR1RaU3lDQkpyN3VYRDN5d3Q2RjFWSzBINVRjWElBNWUtYVVMSVg4YTFONnRpc25aZWx5SGhnX2lueFdlb1NDQVNmMmd4YlZfMFdHUURlb3FyakwzVEFtREx3Q09ReHRV?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2023-01-20",
       "headline": "Hundreds of genetic discoveries from FinnGen study - Labiotech.eu",
       "source": "Labiotech.eu",
@@ -1974,132 +2100,6 @@
       "source": "THL",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdWhGdHpTMVUxdHg1dEJQYjNTUEh2UGVua1VuNkVLY19CdnFuWGt5aGJJU0xvTmV4VFhiQzRKanZNeHFERU41VUZ0ZkNuV1FVYURTRkowc01Na0JzUXJnOElxcWgxN1JXR1RHMEdhbU91NkE3SU56MkNQZW9ZMDVWVHczQzJ1UjNlX2dyTEpOUEJtdXVpcFYtdDlsM0hyVlBaYU9uNGlvRzl1d1lENkVIRlNvRURUY084SG5kWnA4REU0RkNmNDk5ak9vQjB5TFVUSzA0a1NoT24?oc=5",
       "category": "Research"
-    },
-    {
-      "date": "2023-01-18",
-      "headline": "FinnGen provides genetic insights from a well-phenotyped isolated population - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsdTY5TlRfTlczNlNJQmJxRVpNNnN5Q1ZSNUJIWjZLNndNX1dKSUFQeEZCMXFyS2xULUROOTFxLVBNR21pY3k5NlVTMXRzcmhUWml5bTl1Y2dURGs1NUZF?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2023-01-18",
-      "headline": "Mono- and biallelic variant effects on disease at biobank scale - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RMy1wSi1MOHZvellmMUNyR3FQdVM4WDBJeXBQUVkyOVR0VHp5T2p6UVBKM1V2ZUtOWEZpQzZiZ3hmVkdTOEI1WlBydnZIaHRsN1RUMGpSeG51Yk9vbk9j?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2023-01-18",
-      "headline": "The power of a genetic isolate: Hundreds of novel genetic discoveries from the FinnGen study - University of Helsinki",
-      "source": "University of Helsinki",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOekFPMzJJNW0wMkwyWjJ0MDNYMWdqQUpXZDhicVJnTHdTdGlFYUNIdHlmTzVBRm5OX25SQ1BMTVlGcXJzQVJGMFRjZlo0Q2dBT0luUEtrT1lld3lGeml2cmpMMk9Ic2NrN3M5dENaa3hGZks3QVBhOUtIajhDdzk1Z3Y4X210V0FUWElPd1NTSHpYR1ZNOFFaQkdWNmpsaWFXZ0FFeWw0bVM5dDdz?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2023-01-06",
-      "headline": "UK Biobank eyes Manchester Science Park move - Place North West",
-      "source": "Place North West",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObHdDbnpya0VleDhmQ3ptNEdrMlk2RWhiclNlTnlCWTVSVV8tVDlFS3VfTnFzc0tGYTMwQVctM2thbGtHLUtZcmo4MWhfRkhZSlFwdjZFbEZPQmtXNzlUdGsyUEJha0RHbC16MlhxMzJ5WWxvMHdGLUc0d0lvbVZpQzlVRXI?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2022-12-13",
-      "headline": "NIH’s All of Us Research Program returns genetic health-related results to participants - National Institutes of Health (.gov)",
-      "source": "National Institutes of Health (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1RmY2RFQVFmWERUSTBXZUVxeUUzUmUwdkJsTGRCcHZvLXRXazN0OEE3Ry15aXhKOE03TjlCWTZpazNyaG9lX1d4ZmtNQTI2WW9vM2xsdnRUazB1aWhtZXdld0dPck91T0hwVkRES21SdUU4djc1bzVqcjlYLXZsLXlaVGlzZC1mdDl3YXlMN3ZaNFJHMGRZVDVXcHpNQjYzTW04Y1owT3dPQ1JOSzBfRzJJSmR5ZnpkRTVzaHcxOWxFMXA5WXc?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2022-12-13",
-      "headline": "NIH's All of Us study hits new milestone as largest-scale research effort to provide DNA results - Fierce Healthcare",
-      "source": "Fierce Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlBWR0lGMHJoZDBOTGhpVFhwdGc5eXdtWGJURmdFM1phMERfcDc2NXVac0p1Z2l4THhvQ21SM3ZqSDlITkpTVDhmZGdPVFNDeFF5T2JHNjR6QnJsOU5nMXBHQkY0aXYwMGdmczlVb0tDRWdMWlFDdjVvTm90MmdRc2tRRFBXNUl0SWthSmhVNXZwNGJOb1didHlQZzRGa2RtYTdLbEpwSk1Fc1ZvSjgyR0JaMlBBcjNDQmNKZHFsUQ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2022-12-13",
-      "headline": "NIH begins sending genetic health results to All of Us participants - Healthcare IT News",
-      "source": "Healthcare IT News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnRQamxzaFE5bnk0UlpkUjFESkpiQzNhb2JoRHdwUzJkUGlkcC1pcDBRNkJsZGh0NHdCR3VzN2hqSWQ1dkNvQjlkUE1ySXhnNnRhVkhKd2doT0VKd3M3ZE50aHA3QUJZem9zQkJjYm5vV2EzbHkybE84VGFXdXcza1hUX0FaRzFOZHM4b1FNR2prWi1KNjQ1MDcwUUJOR0Rr?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2022-12-06",
-      "headline": "All of Us Research Program UArizona-Banner Announces Seed Project Awardees - The University of Arizona Health Sciences",
-      "source": "The University of Arizona Health Sciences",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUp2cmt4cnlWZU1YYm5mWG5PbkU1akJadEdIcHVtTDVMZFUyQlNJVUt5enZIbzN5RTlPaVVrc0FaQkJkTGh3Qm5SYmdHX2Z4RXltcE1HbEFWT3JWZllyZlI5aUxpazNWYVZfOS1oVkJnWTF3cUsxMEJyeGZsRzZCN0NNQVJHUHRpdGs0SUJGdExlRjdfYURvN0Q4cWE5Vi1QQXlZcWlsX3VGNWo3ZGIyRktvYzlwRUU1NlJGNw?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2022-11-19",
-      "headline": "UK Biobank: a globally important resource for cancer research - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3ZVlxeDh2TWc5TUlHWm5PRXIxNmcxVENZSmxBTHptNzlBREtCMjNMWVJQeEs4bW14cjhuaGItYTI1eFJqQXpYT3c1NEw4anI2QmtZREVCaE9RUkh0UG93?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2022-11-03",
-      "headline": "UK Biobank retinal imaging grading: methodology, baseline characteristics and findings for common ocular diseases - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LTjhlUi0wSFVfcldGLUpyVHl1SVIyb29QSjdKUG02MTNraGdyMG9PTTgzUUxhX2hOWFFlaS14a2lRbzMyeFNZNkNILW82dXlqZ2FQb083SmJmU0dxTzdR?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2022-10-12",
-      "headline": "Global Biobank Meta-analysis Initiative making genome-wide association studies more diverse and representative - EurekAlert!",
-      "source": "EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMzZUd2Vtd0o1MmZZdHlhY3g1TVV1VlJaQkZ3eE1xY3hQeG40d3M2XzV2YkFVQVdZWkpmd0J2Sk4zdkJSMFdaNUpiUlRMTXlrYUFsYVpwX0RoWnM?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2022-10-12",
-      "headline": "Global Biobank Collaboration Makes Genomic Studies More Diverse and Representative - Inside Precision Medicine",
-      "source": "Inside Precision Medicine",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYlZRM0ZodDZLaWxaNjRXWmh5bGttamlZVUtmcVloQ3ZZYVR0UmtYSk1EVUNaOWRSZDBoandkWDgzUVp4SER0ODFyd3lUcUFyMUJMSUlhU2RYYnBEYy00bXEwRmdINWx0cWpSR3NtRG15b2dHcENXVzNSYTJ1cUFfdGFOTVJKbXVRM3dWM1R5QVMzRmpfVm4wNWk1MTllRlpZdjhzZkFmZXJWVGlVc1puaFQ1M1NzY2s0OGpBamZMdE9ZckRSSXFrWWJ6b0g5WEdLd1BVNTNXdEI?oc=5",
-      "category": "Partnership"
-    },
-    {
-      "date": "2022-09-21",
-      "headline": "CZI Supports UK Biobank to Create World’s Largest Imaging Dataset To Understand Disease - Chan Zuckerberg Initiative",
-      "source": "Chan Zuckerberg Initiative",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRkFzeEVxbDFVZVQyZUJfbk9zUHFkOUFBdkZWQjM1UFBaams1Tm93ZFF2OG8xSEZqZi1QSnZjYWFQd0hZTFc1SHlqRjdYR3V2QVpaTXNBUXY1M0d2YXVZRFllVjlUeV80eVVnaHBZUlFDQkRLVGRGMVEzV3QxVE5wNy1R?oc=5",
-      "category": "Technology"
-    },
-    {
-      "date": "2022-08-11",
-      "headline": "The UK Biobank at 20 - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EcDdTRjlCOUNYQTBmZUQ0TkdoRE9sd29iSE5sVGgteW82OWRhWDA1czlsbWhyZkNseEVFMWZ5cERoSzh4Z2J2emN2eUNxTmVNTk44dmlPM1BTWmpMaExR?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2022-07-28",
-      "headline": "Alnylam finds belly fat gene and drug target in UK Biobank study - pharmaphorum",
-      "source": "pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDB2bGdqVHpqcTFYTGpVYzZoOUdhX0ZONk8wbVRJUjl1TXdmcTRXcG5uN0tfN0tfdUhMY1BDYnprREpEZkc5U3lEeG9fQzN1LWx1QWQ0YXdhdzNCQ3dleVNHa1BNdTZEYVg2R1c0aDNtVW9lMTBidHZPUXN0bXNCVjkzVjg1d29sSzR0ZUoyRHRlYmgxcENxM2RR?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2022-07-20",
-      "headline": "The sequences of 150,119 genomes in the UK Biobank - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QVHk5VFozNXpmR1ZTRTNkS212SE9kNVU1QUQ2REVSZEV2R1ppNEtFbGhLVlBIN1ZWdHQyRk50dUlfbk5lNGZQWi1TODZaS1lIaExHUy1GbU52eGhPWnJJ?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2022-07-14",
-      "headline": "New project has big impact on bison genome biobank’s development at USask - University of Saskatchewan",
-      "source": "University of Saskatchewan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVp5QVpzVEJmdkk3ZlVxTVpBVFhCc1JMeXlrczVCTTFGa1VjVE1nT3EwMXFoS0JqV0p0YThzR2lkeWFSUnU1OThjSTQ1T0JFTzlTS1h0MG5nMWcxZkxrOVJwbDRmWXN3N0I5UjZKNU5wQXBCbDRVbzVTaEtpU3BNOGNUXzdmYTVxRG13bEtuejNxakZTVGZRalVBckwyQXU3c3REemI2cU1ERGhOd0tGWm5MZEZ0T2JGeGR3MXBB?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2022-06-15",
-      "headline": "Plans announced to create new Manchester HQ for UK Biobank - TheBusinessDesk.com",
-      "source": "TheBusinessDesk.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFpKWFpOeU5IMFEzNkp0aDc1WnRlVjZ6SjJmUDdXM0xINGRod1NHc2RNamY2dE9JeFYyMHNGQWJfSlZDZkJ1VDN6MlVCcGh3MFIxRFNCT0JOZUdnMl9wdjZGTzlzOWFMUWhWa3JBZHpQZE5DXzJSSFJDTC1hUlc2TjBXcEUxM1B5X2Z5Z29RRTlpMzdkckd5aE5sMXVVQmdKY3lUNlpxdUpEeEhLQ3pBT3Qwaw?oc=5",
-      "category": "News"
     }
   ]
 }
