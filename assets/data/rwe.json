@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03T12:17:10+00:00",
+  "generated": "2026-06-04T10:46:16+00:00",
   "items": [
     {
       "date": "2026-06-03",
@@ -23,11 +23,32 @@
       "category": "News"
     },
     {
+      "date": "2026-06-03",
+      "headline": "Real-World Data Reveals Opportunities to Improve HER2-Low Metastatic Breast Cancer Care - Pharmacy Times",
+      "source": "Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONFhsYjZ4dEdFcWZEZW43eFNVZ2hvS0lXY0FZcVQxRzhId3kwaUlESU0xeVhlVzBEaXVyQ0E0Z2lndWdYempKa0FNbHNVcUNzNHVrTXAxblJzQ080VUl4NXV4OXRFcU9RbDlEa2FNQkF1TkVvUEk3TE5VM1AwOWN6RERHOFUxSVRPYnFFQVE3anNUSGVZQ3Eyc3V6M056SUN6NUZydTdMc0FJRzJoWGVxaWM5M1pxdGJld1A0UExCWQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-06-03",
+      "headline": "[Replay] Real-World Evidence: Empowering the Patient - Ipsos",
+      "source": "Ipsos",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVZlFLZVRMT3ZCOVpJOUl3dFMxYWtKUWNUZEhOUFFGWC1wUzFYTURIaGV5QTJ2dkk4dEdXUmNtT1VWWkx6RHVydHpheUJoSWRDSXp6Q0ltSjRLWkN1djhqLWx1b08wUHU1RXhNbHNDRUtIU3Vjckg4LTd3?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-06-02",
       "headline": "From Data to Delivery: How Real-World Evidence Is Transforming Oncology Care - Onco'Zine",
       "source": "Onco'Zine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0YtUVF3SnNQay1yNkVkMTRzVi1peXkxcXl6OFpORFgtRkY3RWgzQ1RaTkpLWkVjZTNHZ3pmVEFLUXV6QUNwLXc2Zzh2YklKNXRMMWkwbG0wazYzMlFfUTZPRy1OWXd2cnFvcXprejFlNFUtblZxUEg2VkYyVnIyVmNSRy1YRndCemNReGtOeEgtSmlUS3VvZEFpTDU1cEstRlQw?oc=5",
       "category": "Opinion"
+    },
+    {
+      "date": "2026-06-02",
+      "headline": "ACT Brief: Process Architecture Over Autonomous AI, Real-Time RWE Integration, and Building RWE Infrastructure - Applied Clinical Trials Online",
+      "source": "Applied Clinical Trials Online",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGhFcU5fWF85Vkdxd0JzazZHbjlZTkczZTNqWGs5aVJZaXNBRF9aZnZJMFc3eTcyY3o4SUFUM2Q5UEhlRHpJNnpxT3dCYy1EQWFKRnhjRVc0U0pRTUtHLXFSN29tVHBlNlFRb1JsVzNTNFFtUTBtQjZCLUVkaDdONlp1WERkd3ZzQ1hTV3I0LWpOa1hDV1BuZ0wtMTlLaFdUQXlTSGhRTzRSWGp5bVBEMHB3UzU4Z09RWVJLMVlNQ0dKOUtJMFBv?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-06-01",
@@ -42,6 +63,13 @@
       "source": "Applied Clinical Trials Online",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLTFoYXFjdDhPVFVqckRkWWZ2dUNseGdGcDlJcHROT2R4N0VJVjJjcmZEM1BxTFRFVkJ4c2VLUkFjVXY0Nkl5bUFwdEwxYTE5N29rYWVJNmh5SDMxMHNyVEU0T3VSQjRVZHZ6Ukc2MTZ6LVEyQS16WEhzRTVnX3pOQ0FQZw?oc=5",
       "category": "Regulatory"
+    },
+    {
+      "date": "2026-06-01",
+      "headline": "Leveraging electronic health record data for precision medicine insights: the precision medicine registry at NYU Langone Health - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tWE15Y3h4M2tvVnUyVWxlRXd4bUVTVlJ4NnNvR0l5QTJidTNTU1c3WWlib0w3X1dSX1BwTFpvZUdPTC1TQXpmLVRnWGdEMTFkdkhIZzdCRk9zN3JQenBN?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-05-28",
@@ -150,16 +178,16 @@
     },
     {
       "date": "2026-05-15",
-      "headline": "The Growing Role of Real-World Evidence in Clinical Trials - IQVIA",
-      "source": "IQVIA",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVElDS2l4d09TMG1sSWxhaEtYczItNTJ6M083dFdONktrZ2cxMW5LLVdUMGc0dnh3VFI3dVVYdHJrb3A5TjNWcVVSRy15Qy1uNGhCS0VDWU9SbnNkN0FHQ2VKaFBVVXFGQ1g3MmhNU2R3akQ2N0xaYXItN1hHVlNMVzJHWF9OTF81SmllcGFUaTM4MWVaOGV3TFlB?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-05-15",
       "headline": "Real-World Evidence for Immunoglobulin Therapy in CIDP - Neurology Live",
       "source": "Neurology Live",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWQwdVAwYmV5RXFldTdaREN1YnhEc3pmY3FWLVpRY0UzdW9LWno0bFo1OXJ6UlNacjVrTnlaVllHbDFiMTJzOVBReVh4VEVpNWR5RXZFSlFIWWJ4Wmp4S09BWGdsTExISFRJc295M05hblVBdG9qNWdGTm9taEt1RmxxY0p1eWtUaVh6TWR6U3p0bjQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-05-14",
+      "headline": "The Growing Role of Real-World Evidence in Clinical Trials - IQVIA",
+      "source": "IQVIA",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVElDS2l4d09TMG1sSWxhaEtYczItNTJ6M083dFdONktrZ2cxMW5LLVdUMGc0dnh3VFI3dVVYdHJrb3A5TjNWcVVSRy15Qy1uNGhCS0VDWU9SbnNkN0FHQ2VKaFBVVXFGQ1g3MmhNU2R3akQ2N0xaYXItN1hHVlNMVzJHWF9OTF81SmllcGFUaTM4MWVaOGV3TFlB?oc=5",
       "category": "News"
     },
     {
@@ -238,6 +266,13 @@
       "source": "statnews.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzBBYjUtRGE5blBPTC1lWm5PdTVnTElJZnRsSk1BY0wyY0s1SzByazIwVEJrNjkwLXN0dUs1bVk3VjlxMWZYX0ppYWlPTUlxbW45dG5NNDVHYXNtd0tVa2o3eUx1RklueUk4RXR6aTF1TDdJZnpvbDh6eDRZa1ZEUVktOVphU2gtNEd0QVhHOU9CQ1NEYWc3T0RRUFNld1lFSGJOV3M1a3c5T2pyMXBEeFFhN2NFMmRhNmpKV0trYXc0bFd4R3prQw?oc=5",
       "category": "Research"
+    },
+    {
+      "date": "2026-05-01",
+      "headline": "Real-World Evidence Informs Rare Disease Treatments - Specialty Pharmacy Continuum",
+      "source": "Specialty Pharmacy Continuum",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGR1d1NOdmw5aXIwSXN1akNWZGdmYjA5dVg1UHNxdm51eFIzRVBQNE5tdVUyTm1VLTRuU25xbVNmbEdCREZrNm11YzNtUFdPX2Z4azhuMDlDcWcxX0JRbjBiYk1feWwzV3VURTQxWG5ibVFKNUNqYnVHRHVlckN1eGpGOS1GNGFRaTBRcENaRjM0Q2hzUW55cTYzVTFaYW9hemhWUEsyM1R1UC1pa01SbE5EemJMT3UyWWFnTTQ0c05PU00?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-04-30",
@@ -590,6 +625,13 @@
       "category": "News"
     },
     {
+      "date": "2026-03-19",
+      "headline": "AstraZeneca’s China CKD Registry Could Fast-Track Nephrology Market Access via Real-World Evidence Edge - Bitget",
+      "source": "Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OY0lkRXd2WWdsMnlVSjBCamhDRGhwOEZKbk9kRHZPQzRRMmZFdmJDXzRQbnR4M2Y5T0U0dlRqcGZacUNOdzNmbzIxRnIyRVZKN3FnbkJqb2hlN0dWVjBqS0l6d9IBY0FVX3lxTE9OY0lkRXd2WWdsMnlVSjBCamhDRGhwOEZKbk9kRHZPQzRRMmZFdmJDXzRQbnR4M2Y5T0U0dlRqcGZacUNOdzNmbzIxRnIyRVZKN3FnbkJqb2hlN0dWVjBqS0l6dw?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-03-17",
       "headline": "Harnessing real-world data to bring life-saving drugs to the public sooner - UC Berkeley School of Public Health",
       "source": "UC Berkeley School of Public Health",
@@ -695,6 +737,13 @@
       "category": "Regulatory"
     },
     {
+      "date": "2026-02-20",
+      "headline": "Real World Data (RWD) Market Research Report 2026-2035: A $4.2+ Billion Market by 2030, Drioven by Electronic Health Record Adoption, AI-driven Analytics, Personalized Medicine, and Value-based Care - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tTEh3NlBzLV9zdjJRZkNuOUNHenVIWWNPM0pTVEhWX3Z6UDF4THJIdl9EVUxxdE1oaVRhbHNiOVBsdGU1X0hyZ3A0RXRKX2QtMlRPQTVLR2tQcGh1V2EyRlJhT3BscGk4dVMycmhLdDBWSkQyMUQ2ZktVN2M?oc=5",
+      "category": "Funding/Deal"
+    },
+    {
       "date": "2026-02-19",
       "headline": "Most impactful areas to clinical real-world evidence as of 2018 - Statista",
       "source": "Statista",
@@ -780,10 +829,10 @@
     },
     {
       "date": "2026-02-04",
-      "headline": "The Value of Real-World Data in CLL: Margaret Krackeler, MD - The American Journal of Managed Care® (AJMC®)",
-      "source": "The American Journal of Managed Care® (AJMC®)",
+      "headline": "The Value of Real-World Data in CLL: Margaret Krackeler, MD - AJMC",
+      "source": "AJMC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnRmNnJMU0NyRDZfR1o3Ym95YVhKMHViTGpSckRYV0dwdmRna0lXZHdrWU5USGVJd190bVdoYWZMYnJwMzNuY2g4amZFM0pDWUU0VzdTOFpjaWR6LVVUNTBpOTd5a0dycl9Fc0hFcUlCVU5laThxeDdRU2tsUkxJdEZ2QXZTeDVDQkV3?oc=5",
-      "category": "Research"
+      "category": "News"
     },
     {
       "date": "2026-02-03",
@@ -882,6 +931,13 @@
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tWE84eVZiUExtenlXVzhucE54dnFrRTBVRENwTFBGOWRxUTNycHA5TVc4eDFyOFJ6Zk5IR1N3ZUFkZGs3MWJRUGhwMjRKU2xNc0FMVWFGd0V3S0x4YTV3?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-01-14",
+      "headline": "When better data meets better design: How EHR data usability and system usability shape physicians’ cognitive load - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OUTRFc3hJeDhhcFlVbzgtbGg3ZjVqQjFWU25HenFPd3NYeURRdlhCMko0T25zaUd0QXo4LVhaSTZFd0hOV01DYlNwX2hTTkpJSGdmeFZMR0U0aTZYcUhn?oc=5",
+      "category": "Opinion"
     },
     {
       "date": "2026-01-12",
@@ -1353,6 +1409,13 @@
       "category": "News"
     },
     {
+      "date": "2025-10-09",
+      "headline": "Policy Address 2025: Hong Kong expands data, EHR, telehealth - Healthcare IT News",
+      "source": "Healthcare IT News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFFnQ0NqdTFTUUtwcDBzVEVRUTkxZHpxVi1oZ1NOVm9Zc0lETmRLYWdELVlaY2NoUGdSSVhpV1JNaWlKcnRDcDE1MUd3cnZTb28tZklUWUJBOUxRSkhhLU9OYjlaRDZyMkRiYWs0NG15QlJUN1kzd0w3YVJTR1lveWt6elhYdHNVdFpjXy1HWnh0VDJlbFJMNmRXZVZjVmsxUWc?oc=5",
+      "category": "Regulatory"
+    },
+    {
       "date": "2025-10-01",
       "headline": "Real World Evidence Solutions Research and Forecast Report 2025-2030: Growth Opportunities in Emerging Markets and Increased Focus on End-To-End Rwe Services, & Personalized and Precision Medicine - Yahoo Finance UK",
       "source": "Yahoo Finance UK",
@@ -1434,6 +1497,13 @@
       "headline": "The use of real-world evidence among healthcare payers: a scoping review - Cambridge University Press & Assessment",
       "source": "Cambridge University Press & Assessment",
       "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPbERfR0pxaW4taUwtS2NXbFpDVUU2YTB6emtURmYwal9aT0oyaXRzSUd4Mm53cDIyUXd4ZUx1eFBCU2c2bkJIZzRETUR0MnV6dUE4NXZFZmEzLURHeUR4LUtOdGRkNHhHOHVrYkhWa256MDhVdFh3MTBaN1dXajNsMExDZDdrQ2lLbTRCUXN1clg5d1VWQmRFWVFURFlHZjRqUUhlY1lfTlVfOHhENkFQTGwxV0JxbzJJUTRubnlxb3FBUzJMLWhvZFlXNm9uYVFpY293QjVkMzdGSHVYYTZDTjU5NExlRUVxWXRveHItU2tVSDVXSVZpcTZSYlprTlhlZ0gzbXhwLUNuMVJwQ0R1ZTF1WWpiTUVxT3Z3WjUzTG85NUpmNmZqT2hhaHNxQm5IOGFN?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2025-09-09",
+      "headline": "Neffy demonstrates positive, real-world data for anaphylaxis - Contemporary Pediatrics",
+      "source": "Contemporary Pediatrics",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGVyNXdLbWwyS3pPU0VhbURpYVRaeXczN0JpSVZMVGJuTUZwOUNNYVBxdEo4VjRQMFJwcnpyQS1RNHM0M3R1RUJONlZiM1dmem1QcDdEQUs0ZnozdUlRdTRuM1A4TG1UZjdWVVNyTlZKNWMzMEZndnJUUTNjdWNJcGNNVTFaeVBDLWZaOE5nWV96LWhRQ0QtY2xxQV80TXBYQVViYzR3?oc=5",
       "category": "News"
     },
     {
@@ -1535,6 +1605,13 @@
       "category": "News"
     },
     {
+      "date": "2025-08-08",
+      "headline": "Real-World Data Support Bevacizumab-Based Quadruplet Therapy in Frontline Advanced Cervical Cancer - OncLive",
+      "source": "OncLive",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVVhGcU02VEV0U1lWZE1oS0VWOHpYZXNCb0ZtQmQyb0VDSzBfbVdSU2NQY0xHWHFoMklJbUVsVW5RY0hWc3FQd1VudG5RVVR4dm8xdnRqS0VGQ1dTNTJHaVdqdVdZRWhzeGN1UG1SelBuRm1oRkVoaF83ZDZfX2FmVWw4ZHhranZVeDNmLWY1bmRtV0YtMlZkTXhaLXJzUHNsRkVVRVZpbWxGSExzQnhfV2NQbm9FOXRHSjVUdWZfOFdUa2hHbXc?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2025-08-06",
       "headline": "Real-World Evidence Reveals CAR T Sequencing Approach in Myeloma - Targeted Oncology",
       "source": "Targeted Oncology",
@@ -1630,6 +1707,13 @@
       "headline": "The Role of Real-World Data in Advancing Value-Based Cancer Care: CK Wang, MD - AJMC",
       "source": "AJMC",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUFvUGJPRjFhZUdBbUNHQS1DY2pNSDd1RXFLbTU2Nk1HN2p5QTlaR0xCVDJKQTJvZ2pNSFp1ZlFkM1B1cUFaNExxYXVJOVlSM3JmNHg2RzhGMFRwQXB3UEJGanhOYTN5bm9DTFFyc1d1RGhCWDlQdEgyalB6djQzMmhhSUhMLVhvRThYZnQxQ0FSX1JwZHB3NC14aWlxTjRYZFNF?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2025-06-23",
+      "headline": "Paulus on the Rationale for Utilizing an External Control Arm in a Single-Arm HER2+ Breast Cancer Trial - OncLive",
+      "source": "OncLive",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYlRTT1h6LXA0N1loZHpEZEdsR2RIWEZKR3NqYlN6bzlTdXNEWm5uMVZFd3FER29lTV9wUkVJUEl6M2FFalFsdFlQb0d4S2RSeG1OT1Z4SWtSSmZEZjRVUjIzTC1PNF9DQkx2QnRsN3hfYS1tZWlidkphMHBzbnh6TnZXa3dJTm5TT3otbE52WXpjb1JqV1Nhai1ZNU1xcER0MU5DZFJid0RfZ3RIckEyWHNZZFdxM2xQelZYaGx3T2R1NnhwZzFTNlRHZw?oc=5",
       "category": "News"
     },
     {
@@ -1871,6 +1955,13 @@
       "category": "Research"
     },
     {
+      "date": "2024-12-16",
+      "headline": "FDA Announces New Center for Real-World Evidence Innovation - Akin",
+      "source": "Akin",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY3VpVzRwaEdxcDBydjdtWlI4UTZsNzdKdHhLNHZjbnYyWWFnU1hXZkstcVhRTmZGai16T05NRVVWa2gzZWxvaFFnYjBaOWMzMVRSWF81LUFTWGxVR21hRmFQUy1DRTlSZUIyU1Z2bnlnT3VMMV9WOWVRRi04ZVdiandzZXV0QVBVeTlibUxkSUNMemtKaTBwN1BZV2JxejQ2aEIxckQ2MXljc2dqcHVobHc3OA?oc=5",
+      "category": "Regulatory"
+    },
+    {
       "date": "2024-12-12",
       "headline": "CDER establishes new Center for Real-World Evidence Innovation - fda.gov",
       "source": "fda.gov",
@@ -2009,97 +2100,6 @@
       "source": "NYU Langone Health",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmJIYzdPb1NxMUFNeUJlR3ZfQjhteE5JODJmc3ZXZXpoblR2LTJzUmY0cGJ3UU16ekxXV1hJclJGbWd2T1dBQlFGSENYVENJTDJRY3k4SmpmVTl3MzRIaXVwTFlCbGpKSVpjbnV0eDl3RnR6d2RGeWx0aXVaekFKR0Z3RklNeWF1MU9QZ0pGVXRrM3B5NjJhLWIzcFRKSXhld1E?oc=5",
       "category": "Product"
-    },
-    {
-      "date": "2024-07-08",
-      "headline": "The Pros And Cons Of Synthetic Control Arms In Clinical Trials - Clinical Leader",
-      "source": "Clinical Leader",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUVuWkxpSklId2ZWd2U5ZUU5SDFMMV82WXFEWThyUlgtYVFSY2Rqb1dVVU84N21XVTJ6SjZzRUJyX1hMTkdhMDZVVEwxNFBlaWxsak1ORzE1U3paQThSdndpcGxuRTE5WXI3aEpGY21nTGROWUFJdTdyVllIdTJEZ3lvdWRKVkduQVRZajFXb05LVVdjODlwZzZJOUpfZkR6b1BHXw?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-07-06",
-      "headline": "Data-Driven Development: How Real-World Data and AI Are Transforming Clinical Trials - Pharmacy Times",
-      "source": "Pharmacy Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkxpVjBiOVhlVGYtdG94aFlvSzh4LTF4WC05TUE5S1l1UFdVY1RhdkdLLUtSb3pIU0F4NWxZU2pSaDZRR0lpNU1RZUU4Nkc3NC0tSUtMMGljYTZxdHp6NDN5WXlXZl85SDdXb1ZHNXNIUFg0aWkzNldCRm9PaEZYTk5ibjhkeTZKNE41VlVfdGVhdVd3aVpzYzVCcVRsTjMwdkplUW5sN0hfM18yM1pJM2JmTk5Xd1N3elE?oc=5",
-      "category": "Opinion"
-    },
-    {
-      "date": "2024-07-04",
-      "headline": "Harnessing EHR data for health research - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHdnblVpMWIyaG5OcVhJT2Nzd0tYckNPa0dSM2t2TzJwVkplTHZPX0dQaThBMXpYdklMSV9CUnRaMndjdEo0LXZqdmROOVJxQmg0QWJnN3g0WjdMT3ZF?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2024-06-24",
-      "headline": "Exploring the discrepancies between clinical trials and real-world data by accounting for Selection criteria, Operations, and Measurements of Outcome - medRxiv",
-      "source": "medRxiv",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qRmRfMWlLZGNkSFV2eHBpWDB6YjIwVnRpVF9yOW5KeFJETnNQU3NDRWJMcnMyTGgwYTZmaURwYmY2Tk1oQUpxRXR2ZWZIR1pqaW4zUHptZ1ZLeXpyUzdoN3JxUmNHaUF1em4tVTlwTUFXSGNhWXJIU0IySQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-06-18",
-      "headline": "Real-World Evidence to Support Causal Inference: Methodological Considerations for Non-Interventional Studies - Margolis Institute for Health Policy",
-      "source": "Margolis Institute for Health Policy",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGFmeWlIcDFvZHEwejZfUWk0TFhLZ1VTZWFiVmlpLXNvOTJ2WlZjcDFSckw3cndyRDY4V2gtOHVmLW1RenY3MzVuN2lJRjEyMzdEa0lVSFdmcjl2eG9MVWoza3hqUUQteGxhRDVlYUxEMzlpVEVxT3pYSkhrdWp3cWVXX2dMUnpMLWtHTEhxNzY?oc=5",
-      "category": "Regulatory"
-    },
-    {
-      "date": "2024-05-28",
-      "headline": "Next Generation Research Uses Real-World Data to Identify Most Effective Hypertension Drugs for Patients - Yale School of Medicine",
-      "source": "Yale School of Medicine",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeHFLVmx6QVlLOElTLXYtWXFwNlNxeVA5MGNNamk3UW1DTmcwOFk1Yk8wSWZZQ3gyXy05a1c5U3NhNkRBNTlncDg5dFlyU1doblhIZVZXUTlKclQteGZScHA3V3YzT3J2RElhYWcyb04tUzJUeTNpdVBsRlp5OW9wU3l0Y3I3MnoxQjZtaVRXWGhsU1pNb3FZaw?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2024-05-16",
-      "headline": "Dandelion Health launches GLP-1 real-world data library - drugdiscoverytrends.com",
-      "source": "drugdiscoverytrends.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmZEN0V0THZiQXdxX2ZfNFZGaTVhMThBSDdQVG81ZWNlb1dmR1BCT01hRUI3MEU2RVNqeVU0NW9Td0NWTGRfaFpFd1lVRGtOclBhQmNaNkViMVY0dV9RSzcyQXhtLUpnSHZQMmF3T2x0emh0Y3VzczZEOHFQdlZtNjlCSUlNMTRTQTUyd25OYWhYSzlTZzJF?oc=5",
-      "category": "Product"
-    },
-    {
-      "date": "2024-05-13",
-      "headline": "The use of real-world data in drug development - PhRMA",
-      "source": "PhRMA",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kRzdPU1lnOVBRSl9zem1Hc2hTOUJJQ1BWdG4yT2JwcEt6V3Q5c1Y1RTV2cWNTZW9WZml3OFo5a1NzZ2V0R3BxWjl1LVREdG5YQ3RETl9jZ2tfWVAtcUlEck1udmRNbU42eEItVW9YMmFGZld1cUg2bw?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-04-29",
-      "headline": "Real-world evidence key to navigating new policy changes - drugdiscoverytrends.com",
-      "source": "drugdiscoverytrends.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVjVpM1dENzNRZ0NVUFZncTJMOG9SaVlYZTE4ZDhlbUc2WjJaRmdKbW1CNjlPM3ZWQ3ZoQU5MSWJQbjZiSV9takFRWmYxMGFyUklBNXU2Vi1lRGRweUR0eW9EbFZXZ3ZCdUt1UHFBN1JIRnhVWTJlT1V6YWJBckRheXh4MEpHckV2VjRxYUJzd1VZekIyYWExb2ZYdUNkeVZn?oc=5",
-      "category": "Regulatory"
-    },
-    {
-      "date": "2024-04-28",
-      "headline": "A national evaluation analysis and expert interview study of real-world data sources for research and healthcare decision-making - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zSVpianBxaEJ5QVBQbjU1UGgzUXR2T2ZydE8tVkZtY2RLcFRSSzlQRGIxaTJQVllzbUFzNDNySnNTWmlORXVVQkQzd0p5c05qNHJzbk9ISjhGT00xM2RR?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2024-03-22",
-      "headline": "FDA’s updated RWE guidelines allow pharma marketers to make more claims - Medical Marketing and Media",
-      "source": "Medical Marketing and Media",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNenNPeUFZMXRlLW1JXzIzTm5XTlFWel83bmhLVm53UjlEY0N0MW9MSFVYT1FXOFNHNmQyYkNDRU0zaER3X2I2c3RTczVBMDd2dGY3ZFZaenVqT04tVTNXNjZtYjVRQmp5UGdZVERGXzZaRG1wYmdZU0thS1R6S1hubl9XcUtkU0xoa1ZzcmtuS3ZCclJSd3c?oc=5",
-      "category": "Regulatory"
-    },
-    {
-      "date": "2024-03-21",
-      "headline": "FDA advises on RWE non-interventional study use as evidence of effectiveness or safety - www.hoganlovells.com",
-      "source": "www.hoganlovells.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcFlvUlVxeGZyNVNXaDFCT1V0QWY0aHBHREh2MDl4WFFjWmYzektCTGhQUE9kb3lJdnJUSnZJNEdtZ0VDd1o0dGJOb09XY1dYVXc2MmI5aHkycTBLRlBseEtpU19WdXBlS1BpZHZKQTVZaXJNVVhEbWVHSGF5ZXhadGdTcXVMNXRncmRQcnBKd1dhQi12NjlGUGpUQXJacU5jRmVCRFExRzBXUkdBdWhjcF9weTdSZnllR3JWc1N0cnRXb0c5SXJDZl9lYw?oc=5",
-      "category": "Regulatory"
-    },
-    {
-      "date": "2024-03-13",
-      "headline": "Unlock the power of Real World Data (RWD) to drive innovation in the healthcare industry - IQVIA",
-      "source": "IQVIA",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDlKdkZWeHR5U0RRQjF5RWNCX2t1dXRnV0t2OFVfVmtWME5EMFBCeTdpMVRPXzlmdmJSOG51ak9KTXdXR0Z5R3pabFdNZVI0anNYX2ppZVZKdUN2eWhkZU9NaUJBLWRPcmtMM25RV3Y5cE5yRmJSelVmcUdEbUtVbHZSY2tWQnNRWHRVUURRa2R2eVVyN1ZyQ1pYZWFSTGJpQkxJMlZQTk5qUk03bDJhZHdvMWl0aHc1Nmc?oc=5",
-      "category": "News"
     }
   ]
 }
