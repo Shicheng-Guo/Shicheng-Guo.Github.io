@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-03T11:22:38+00:00",
+  "generated": "2026-06-04T10:12:03+00:00",
   "deals": [
     {
       "date": "2026-06-03",
@@ -9,6 +9,50 @@
       "type": "Deal",
       "value": "$1.9B",
       "area": "Renal",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-03",
+      "headline": "SGS Expands Bioanalytical Testing Capabilities in North America with Acquisition of CMIC, INC. - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObGZmSjlyd0k2RFpHaDJnS2ZKN0hZNmVmQ2k4R0NnckNVcWU4Q3VtdmJ4UXVYSTQ0VUZfS0lmdkNILUlrNjhraEF5THZ6S0hfRjhZaGVfSklEVnhTWTJlVDBlWEV0NWJuN2NvZ1lYQ245Wi00MkhNdXROZzJ4NDNXRjVxbUVEellVWnBiaUhkVzBsR0dzbElBbERpZ21HdmUxdDVJNktuT0NieXdtVnpDZ0xYVUtjUjBlbGowejVZVTlzTXhEMGJ0NDJVejlhTHh2dkNnaXJEa3pxOW41RXNrWTF3?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-03",
+      "headline": "Competitor data cast doubt on Genmab's Dutch acquisition - medwatch.com",
+      "source": "medwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sRW4xcC16czVFTVZtV3R2SzlfYk42R2IzSmFCanBMcVlNdUJ0VWFHSFBMVjM5amRZRlMwQXVIZ2d6Y0NPbVBmRVVDQk4wdnVDU1BzZ3NBVHY5TjZzbUpQNF84SzlPTUk5LUpJUWRVOA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-03",
+      "headline": "Bliss GVS Pharma Ltd hits 52-week high of ₹447 Amid WHO Approval, Strong Earnings and Acquisition Boost - India Infoline",
+      "source": "India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMTNsdnJWd0dBRG9TRGJuOUdEcW9JUm1wQ2x1WEFDRnBHT2VnRlVIaWE4VmZGT1ZkODJYN1JwNDROTkFvLWFNY1VyeVlrNGttMm9YMTB4UmRfM1FZQjlGUzdqYTg1Zk9YeHhIRmY5U182cnllRjBlX0Fxc21vSlFHUmp0STdkaXdmYjQxdkNhenhWT0RmcDBtQ2tkWHFzWVhUbmxVZnNBYjgxMWpFcTY0NllVd3hfN29ydDNaS0dNRnVaUEpRZlVzZFdoN3YxcFBLZFFpMnJKbUR5S2d3OXN3?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": "Approved"
+    },
+    {
+      "date": "2026-06-03",
+      "headline": "Alnylam to pay $30M upfront to AI startup Inceptive in RNA R&D deal",
+      "source": "",
+      "link": "https://endpoints.news/alnylam-to-pay-30m-upfront-to-ai-startup-inceptive-in-rna-rd-deal/",
+      "type": "Deal",
+      "value": "$30M",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -112,6 +156,17 @@
       "stage": ""
     },
     {
+      "date": "2026-06-02",
+      "headline": "Five years after its acquisition by senior management, Duchesnay Pharmaceutical Group continues to grow as one of Canada's few full-range pharma businesses - Newswire Canada",
+      "source": "Newswire Canada",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZ00teFBLZXNjTDhzYXpzdEFhS2NoWm1TZ3g0LWRaSEh5U051WndTNzlIckpPZkUzalY1YVBIeVJlWjZPdUdZa0dkVVBqNDhVOEhadVZIQTRFX3Z5UzAtS2JONFRxQUxTWU9pSGh0c09WZm9tdzkxdk5VZFZXZ25lajN6SXA3RTh1bFpCSGlyejhFb0s4R2VtSU44VWR6UXJFS0dSa3o0QXNVOVp2SVZObFNpUTQ1MVA4VnNUczVrc3hsQUhud0w2Q1B1Ylo1WnpuY2tQVFIyU2dOdUJNXzhFcmtsS0NNNE1PRy1NaUF4dVpUYTZ2RW8zeEpreG1NaWgxQTRfYjB6WG84TWVpQ2MzQVl5YnJkWjlqVEptVzBoTENubnJWZmVVTmtDUnhQdFU2?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-06-01",
       "headline": "Marksans Pharma strengthens European presence with €7.5 million QliniQ acquisition - CNBC TV18",
       "source": "CNBC TV18",
@@ -198,6 +253,17 @@
       "area": "",
       "modality": "",
       "stage": ""
+    },
+    {
+      "date": "2026-06-01",
+      "headline": "Agios signs $165M deal for blood disorder drug from Korea’s Oscotec that flunked phase 2 study - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTdtd2l5SHZNZVR0RmlIdFo2QWU1NDlvSUtvUXlsdEw1WWg3Y3hnU2Z0czJ3RTZUdnktUnB6RGk0bVRwamIteDdRSVBpSm84YWlrcWpBc2k3Z2tXYjdRNElDYV9ZNDNJTzdJclJ4S3NfMDlFM0ZSQ29fMVA5d21QUkVZUHY4UFFITUVqRDZGQml1a1ZkaUl6QkdLdXBFVm16TktSUEE0eWRxUmdoNi1kNlFR?oc=5",
+      "type": "Deal",
+      "value": "$165M",
+      "area": "Hematology",
+      "modality": "",
+      "stage": "Phase 2"
     },
     {
       "date": "2026-05-29",
@@ -354,6 +420,17 @@
       "stage": ""
     },
     {
+      "date": "2026-05-19",
+      "headline": "Roche signs generic Xofluza licensing deal with Medicines Patent Pool for 129 countries - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEt5NmFLOS03UTE4elN4Zllkdmd6RlJ2R0xnNFJiSU5DRzNCRk9aNDBjOXVLYWd5N0tsZ0pBMEVrZl9lb0NYbzdxMGY2NXYwVGR4alBCcUlTdUJWRUNrWHp1X3lHeGM5Z2tScjRWeUloS0NMTWRDN0s2RGU3Z1ZTY1UxYmtVZjZHWllkbHlabTNIU3pjNnl0R0pNNFNodm1xaWxtVHMycEhiOHRGdTlFRUhDUTA?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-05-18",
       "headline": "Biogen completes acquisition of Apellis Pharmaceuticals - Ophthalmology Times",
       "source": "Ophthalmology Times",
@@ -398,6 +475,17 @@
       "stage": ""
     },
     {
+      "date": "2026-05-14",
+      "headline": "AriBio Signs $4.7 Billion Alzheimer's Drug Licensing Deal with Fosun Pharma - Seoul Economic Daily",
+      "source": "Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGFGX0tZUS1RZm5rbFhNYUQ2SWFCRlNoTVlaMlVHZEluUldOYW5WblJyUUNJTlFaTUtjeG40NXlLYWRNVUNPS0NEUE1NWGpLamVFck1rTHE1d1NxTi1ZT0VTNE5SMGV4TjJITVZvY2FCd0pidDZvNzRrS1MySko4V1NIVnFrNXBnR09uakZhUl9PNWFvYW9HNXhfcC11bzB3THFR?oc=5",
+      "type": "Licensing",
+      "value": "$4.7 Billion",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-05-13",
       "headline": "The Other Side of Arcellx’s $7.8 Billion Exit: What the Gilead Buyout Means for Maryland’s Biotech Workforce - biobuzz.io",
       "source": "biobuzz.io",
@@ -416,6 +504,17 @@
       "type": "Licensing",
       "value": "$405M",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-05-13",
+      "headline": "Daewoong signs IBD licensing deal with Innovo Therapeutics for mucosal regeneration drug - koreabiomed.com",
+      "source": "koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UM1V4ZXhVUnNoQ0JNaFNaSnN6SnUtV3ZialNPSnVTRjVsTXN4MUNVeU5uNDkyemV0R0phNTkwTFR6QjdKeGZyMXV5TE8zRzJrSnBROGY3bm9JdG55QlhyUGxkYUhEc1dORlp5WVRR0gFyQVVfeXFMUDltLTJzLXQwR3JIbm9jczg1WUFXWlZOSTA5V3dNNDEtLXV2R0YtMDNzRGpBWDlzTlFoRnJ6V2xkMWJER0s1d0tLQjRXUUtlbnZ5cXVuRE1UTnpCZkxvOGcwNWhCQTFETTBIbHcwVEhLUl9R?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Immunology",
       "modality": "",
       "stage": ""
     },
@@ -449,6 +548,17 @@
       "type": "Licensing",
       "value": "$85M",
       "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-05-12",
+      "headline": "Bristol Myers and China’s Hengrui Pharma ink a licensing deal worth up to $15.2B - MSN",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUR1TjdkaDVZUlVoU2I0cGxnMllSWGV5Tk5ZZ21vUlBSSG5PNTlLTTRVYklhSDliMGJEN1kzbTY1QXI4MGhLOVJLOC16c1R3TW5yQlRQbTlBV1BwbWJPXzNaNWtVZmYzTVJpdFJCQlp5NEJPRVJudV9SYVE1WmtjYzhGcXlucG9IdV9Kcy1uZnQ4LWxKSUZBd09majJnOG1acHpDQWk4UzJoTTBaLUw2aTNxMHVHanJzdzFQTkFmY1VROW1Od2Fia1R5eGM?oc=5",
+      "type": "Licensing",
+      "value": "$15.2B",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -505,6 +615,17 @@
       "value": "$6.7B",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-05-05",
+      "headline": "UPDATED: After Arcellx buyout close, Gilead trims 192 jobs at CAR-T biotech's Redwood City and Rockville outposts - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2kydzBwZXd6Y2JGYTRwZWlWenJBUmlfUnJUV1dTRGhucEthWGRPV2VLRWxJd1lFdDhJQThPS1o3bGRGWHZ3Yk5ISWV2SGlfd0tURzRkRnRVbGZWTDRfMHYzSkNwZDlTUE1Na0dkSkpxTjh1LWcyZnM1OGwwZUdHcURRelA2dGNiWUhHZGRGZzZEOFZuUFBPdDhzWm0zU0w1bFRobmZsMEEzTlJQcnQwY242aGwwbmNMbEVwT2V2aw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "Cell therapy",
       "stage": ""
     },
     {
@@ -816,6 +937,17 @@
       "stage": ""
     },
     {
+      "date": "2026-04-23",
+      "headline": "Servier completes the acquisition of Day One Biopharmaceuticals - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTFSTDNNX2k4RXBReGJKaW9yNHI5OGpxRy01bGh4cE12ZnJ4TWZUYll1OVdWRlZMc1pwcTNaejhkQWR3Yzl0N2V0YXZvdV9od09EZGNFeUFXS1RUbHg1WjV3YUR2QTlVSUtiZ3VtcDdWT3pSNlczb0hxRmZCZ1NaeHVxVEd3Tk52UjRzWjZhVnpPN29hbW9QdHNLMnJKNzltNnVlb3YtYUNncWQtRV9lRXBTSTRrdl96T3Zn?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-04-21",
       "headline": "LLY to Buy Oncology Biotech Kelonia Therapeutics for $7 Billion - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -893,6 +1025,17 @@
       "stage": ""
     },
     {
+      "date": "2026-04-20",
+      "headline": "JATT II Acquisition Corp Raises $60M for AI-Driven Biotech Hunt - BriefGlance",
+      "source": "BriefGlance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQm83aTZDRF9LSmhzamdGRzlRQ3NabExVaEh5N1R0Tkxha2pZMnVKVVAxNDJYS0hpcmp5bTBlU3VFSzB5ZGFpNnI3UnAtYU0wYXJldUV4bWp5Smtydm9YeGdSRXQxNmdtSFNGVnRNZ1l3NXNBWVRNenpPZzJwRnRnRWp6T0twRGhycFNWNWV1amRSSjdNbEFKc3ZIVQ?oc=5",
+      "type": "M&A",
+      "value": "$60M",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-04-14",
       "headline": "Lilly makes preclinical ADC specialist CrossBridge its latest acquisition in vague $300M deal - Fierce Biotech",
       "source": "Fierce Biotech",
@@ -933,6 +1076,28 @@
       "type": "Licensing",
       "value": "",
       "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-04-08",
+      "headline": "Cosette Pharmaceuticals Expands Branded Portfolio through Acquisition of SYMPAZAN® and Additional Products from Assertio - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTk9HeFVmUWhtNlBwWG5nM1VvbDhLeFRXSk5MRVhlRl9abUc2YlBRaXRsZ2QyZGhCeW1fcVNUbVBGQjIwTjNWTkN1czFKUk1kZkF6YVpfV1BzSDFGOWpmMWtDQ3E5WHROV1VoeU5OVVNFLXRwbk5RblFjQ0hBQTRfc0diWFFpQmlMR05JNUx0N09yM1dpQlFhZU56U1Y3ekNmNngyLUhxSFJCeVp5NlhHMi1sOE9rU3VOczV5aVF5TDdZM2pETy1WNUV3YklLM2tfSmtoOTZQejlwZC1odDZ2dUtEQjZSYmlWTFJHU2JxT2M?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-04-08",
+      "headline": "Halozyme inks license agreement with Vertex - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUQ2RzdZZFRiVTAwdW9DWGJoN1QzcGZsRFk5WXVfeW9YTDY2cmVRTUtqUWNVdm9Pd0ZobnNCWnlUQUlOWVAyQ2lLMGVMeTZQR1dWOEc3bnkzODZGUUdjWG9ISngzVFA3YnNsOTFuNGd0VDNsWFl2QjdDMzViU1pDM18wQUZKb09xYzY1TUZ3SHE?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -1058,6 +1223,17 @@
       "stage": ""
     },
     {
+      "date": "2026-03-31",
+      "headline": "Lilly to buy narcolepsy drug developer for $6.3 billion - Chemical & Engineering News",
+      "source": "Chemical & Engineering News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXdrX1B3OGZOOFo2VGNwNlBlUXlkd2NhUHhjRU9NTGVSbFhpTEloSHRrZG82ZlBEdWUzcVhDYTFfUkNSaVpabkFCZzkyU0ROMW5iMDlWdmNBZS1BWFNibmw2a01tTWU5VlYyV01lTUZrZTgtenJ2NWI2bk1DQ25JQTNvZFByelV5SE5aUS1HQVlnTTVKcldCNldYdHlCaGlJUDZNaHNzSVFlRDdyTjR3?oc=5",
+      "type": "M&A",
+      "value": "$6.3 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-03-27",
       "headline": "Novartis to buy US based biotech firm Excellergy for up to $2 bn - ETPharma.com",
       "source": "ETPharma.com",
@@ -1065,6 +1241,17 @@
       "type": "M&A",
       "value": "$2 bn",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-03-26",
+      "headline": "Merck expands haematology pipeline with $6.7bn acquisition of Terns Pharmaceuticals - European Pharmaceutical Review",
+      "source": "European Pharmaceutical Review",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWNyblluWU1PMDBtUnlCT3dZQVJkWm1GUEtFcVRZaHA5TmpnbjdET0pQSFZvOWQ5bmpINVhIV0dITi1JWWZ3V1ZxZ01pT1Y5LU1tUUd1SWJrclpORUFzU0h6eDdYdkFfYW5JSXRDUElMLXZsV3VsSGs0eG5MaURwbmtWNkdzeTd0QVhndDhNYU1TYURaU2s0cU5DMkRBLVVRcFVvTjFPVndOVXhhMVFDZTJKVXVQblJBUlpnaWZXcDlVNzEyaF95TzNfWGk4MGotTUU2bEVvaGVYSS0tMi1LWA?oc=5",
+      "type": "M&A",
+      "value": "$6.7bn",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -1175,6 +1362,17 @@
       "type": "M&A",
       "value": "$2 billion",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-03-23",
+      "headline": "Kali Therapeutics signs deal with Sanofi to develop autoimmune treatment - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2RTWUcyTVN3Tlh6a0owaklCR3VQVW9rUzF1WWs0OXJacVdfNXJ5bF9oMHFBNFZUejlDeFhUeFJPT1B4b1BIY19wTVhQT1cwSzRZTzNmTF9WS3lzSG5ES0NGaFN1OTJVMmZVNFJ0Nm5SOW00bFg2c1BJV2xqSVVlUjU5dWI1QUxwQlZoa1VfOFBVN21kSmY2Wk45NU8zSGpzenhxNDRUQ0V6bWlockRDS1NvZ0dJM1lZbHV2VGhQZ3pMU1VaUDlkOHhPTTM4UGNScEYyS3prWEk?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "Immunology",
       "modality": "",
       "stage": ""
     },
@@ -1318,6 +1516,17 @@
       "type": "M&A",
       "value": "",
       "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-03-06",
+      "headline": "Fenwick Represents Day One Biopharmaceuticals in $2.5B Acquisition by Servier - fenwick.com",
+      "source": "fenwick.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnFUX0h5R3djNkVKNXYzUWxWTnBPMlJMLWE4aHA4bUFGeHFzRVNmZFMzV0Fuc0JEZEFtQXNCSjk3am1RbEhyWFl0TFVDa2RVVkltbUt3UnA5QWxFSzZ6RTBydEwxa01UNTZhcUY4U3QxVnhJS2ZuT1BwWjhLbVBYekpMT1gzTmdqQlNNemJ5bUthWmdXb3RVX3FIQXNJTkJhbWlZMHNhSWloWlBqYlpneWJvWGs0QlBsekx5NA?oc=5",
+      "type": "M&A",
+      "value": "$2.5B",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -1614,6 +1823,17 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PQVpHMFI1RGZRaENjQkVTSUVFQ3hpaEZEZGdJc0RlejBRODJiMGJ4LVQ3SWxnYmpvTEdOd1ZsRWFyTHc0dWxpZHY5MWFuUUNSTWJ3?oc=5",
       "type": "M&A",
       "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-01-23",
+      "headline": "HLXC IPO News - Cormorant Asset Management's SPAC Helix Acquisition III prices upsized $150 million IPO - renaissancecapital.com",
+      "source": "renaissancecapital.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRGlyY2NyYVpyMWZ4VG40aFBmX2psdmt4LUNMYk44VkNETGwxQ0pTWjVnUXlHLXVaNTllbWliQVZZVzBwRFRuYjBnYTNXUGwzeF9yLWFwWTh1cVREQnd5bVpKS0RJRlpjUXFOT1U0ZDVHdlhpaG5icm1UY205V3dubjdILTZqc2cxdGxGYWFrb1BPRFZjMXlndldZanA3T0lodXhfanJqN0ExU2s0cXFFdDc3NTNTRFBqZVBRcHZwdzNxejNVd09OMWRMY01adw?oc=5",
+      "type": "M&A",
+      "value": "$150 million",
       "area": "",
       "modality": "",
       "stage": ""
@@ -2015,6 +2235,17 @@
       "stage": ""
     },
     {
+      "date": "2025-12-11",
+      "headline": "Formation's latest acquisition brings a TYK2 inhibitor under its wing - FirstWord Pharma",
+      "source": "FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnUnJDblR3Ti10UmN4NUZfZW5EMGQ3U1ZEejdEU01vUGprbWhjM1U2SWpvNTBHTGdpdmNoR3pBX2xJOVBWQW13Zk5DZlYyNmpPQ3A0?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2025-12-04",
       "headline": "Crescent, Kelun-Biotech Swap Therapies in ADC-Bispecific Deal Worth Up To $1.25B - BioSpace",
       "source": "BioSpace",
@@ -2230,6 +2461,17 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aM2J3elR2QkxVV2xrTEdLNFV2NUk4ZTA3bDJwTkRXdlJxVld6YkFkRTBwQk9IVzdNLXdtWEl6VjN3R3FjcnYxdVJxcnd2NXEwTnktd0NIOVpKRDJvQ0RzYVNGU0c1YWtLN1JVRW5kOUE0Sl9FRzRZcDQyZ9IBgAFBVV95cUxOeXpLMkVMZk1XdnVDVVkwa194SGRUQXNvdTNVSW0wRHJONVpSblFUR0MzMHVHanh6U2k5V2FpMm80cnhFOWk2RHpPR3dxQWNGSmlYeHlRSEtQUElKcXl6UUNIVlYwb0RYWUJpNGJ5c1JQcmZPUXJkbVZhM1lON0FrcA?oc=5",
       "type": "M&A",
       "value": "$12 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2025-10-22",
+      "headline": "Hologic to go private with $18.3B acquisition by Blackstone and TPG - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnpHVUg0MGlYOFQ0dXozcU04c0FodjBNU0ItTmdYSG1zWUFMUXZPTmJ4NjdwMjdFZGNNdElScHZXVU5kXzRjT2Vjc3FVRWlIREJZNmJ2NDBhc1dXZ2dfSzFYRlMyUHVTXzdma0NGN19LVjd4ejJJSnNPczR4R0hMOElWdDRBcy1DeEUya1lKaldrZjlYUU5n?oc=5",
+      "type": "M&A",
+      "value": "$18.3B",
       "area": "",
       "modality": "",
       "stage": ""
@@ -2503,248 +2745,6 @@
       "headline": "3 Potential Biotech Acquisition Targets - Seeking Alpha",
       "source": "Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOUtUV2lWMFVhanB4YzdWODJsUjduaUlCdVVGTzdPMmR5UEZERHZoX0g4M3Y2NUxUeU8xUHE2N3pOVUMwcF9zUGFpdWN6RTFFTFpPMlFCb3RKR0JQZ3ZMWnd4ajl1bTM3c3RDVnFBaThPajAxSE1YQlNsOUlDXzJ3VEVpNmVRVHM?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-09-15",
-      "headline": "Novartis signs up to $5.7 billion licensing deal with Monte Rosa Therapeutics - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdG9FYUFjUVpGNWRwNFc5VjJTNG9BdTU5aUdOSzJ5WUxaQkJMRks3eGxPTktTcGxHQUdRVmd0cllIUV9aWmtzUlZHVUN2dV8xajF3V0FkVFgteERsN2JudEl2V3dKX3V0b1gtVmxnX05HNEVnTDY3b28tQ3V0ZGg2VmItbEQtX21xZjVlaExsaUlPa3RwMkpZSXNIbi1QY09GOWR0SHRYMF90US0xNl9pVGw0bV9FdnhqMS1wWWJreTJoRThoT2JUMkstVVY2ZWlzd2hnYUUwOXY3ZXg5?oc=5",
-      "type": "Licensing",
-      "value": "$5.7 billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-09-03",
-      "headline": "Novartis signs up to $5.2 billion licensing deal with China's biotech Argo for heart drugs - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUmU3OUctRkVvYWdEbVROYVBDbklxYkZScVd2QzdIcU5iUzZ4b1NwZHcySzhqa0MxU0FrTmNWb3dFcnNUSlRjTXp4WVRyMEU3N2QtamxsaUpKUDloSGpabDlMd3RGM2JvYVpVMWhpa2Q5UnNsQm5lT2dLeDUxN2JPeU03YW9xQ05pS1BhLURFWEpiM2tDcXBxa2JtTHlRZjB5SjlDTWJ6b2c3b0prejF5WmJnZEh4LXZRN3lfVlhxZmIyNURrRmdBMnhSM2pvWWdrQ0I0Y25Cd3JCR0J5X2ZXMG44RDZ1bFU?oc=5",
-      "type": "Licensing",
-      "value": "$5.2 billion",
-      "area": "Cardiovascular",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-09-03",
-      "headline": "Novartis signs up to $5.2 billion licensing deal with China's biotech Argo for heart drugs - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdkhzcVk0SUtCTlB0M3lhenQ1M1pHaURQUVBkZXlRMWdfVFVUUUwwVml1bFBHTlRzb2Z3bkNRUW5FZEFyZjlQSXo4MTBRYWc1Y2ZSQ2d6NF80cHdWdWw2SkNaYUJYdzhVSUV0NGJkWWVqMDNVWU1nVF9QRFREMUg3bw?oc=5",
-      "type": "Licensing",
-      "value": "$5.2 billion",
-      "area": "Cardiovascular",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "High Tide Closes Acquisition of a Majority Stake in Remexian Pharma GmbH - Cannabis Business Times",
-      "source": "Cannabis Business Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPazZzbG5STmlFYzh2eWtIODhPNjNLb1UzNC0taGdlN2ZSYjJ4a3hMNVJMSi1kNDI5VXRveHZlS21xVGRCRXN1OEJITWJGX29ER1BRMVZxNGl6ODJCT3pqQ2w3TjNFcTZOTG43RkFFZHBMMF9rT2FNdWs5UzZkNmtNWGxmMWVDd19GeUM3emdCVklmd2c3SjZ3T0FlUTRiX1lwdGFUb05rR3Y1LWpjdXRTa3pnLURFM25hWU10Z0FQZEFHcjk2N01zQzU3ZmlOeG5LQk9zN0lYNW85SU1QaGdKTUx3WGFJWkdQQm13SXY0VTl5OE9WYVZ3VmVOWjI2ejlKaWdYN3FtQQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "High Tide Closes Acquisition of a Majority Stake in Remexian Pharma GmbH - High Tide Inc.",
-      "source": "High Tide Inc.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzk5NzRodVJBOEx1Q2NjLW5VT1YxVEYyanVFRmUyM05YWTU1RVIwTG1jQmN6bjlIN1VPMTBMbDd4NklwdThOcmhwcUQzMUY1MUt3TUx4bU1UMndxXzNmNjBDR1BBSjluZ0h5djJ0M3NuRFhVMF9tLUVINm1SM05Ea1dLVzNnQXNfeFUwYTl0Mk5tUHIzczNCeXhBczhlZw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "Medicus Pharma Ltd. Completes Acquisition of Antev Limited - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenlncl9UM2pQOUNGQXhJX0owSEIzMEIyMFZNMnJfeDB0TjlXa1Y3YklUdzMwNTVVa3g0cDZFREs3N0NiRHdaaVV4QlotUHVYQ016a18ydmFjeEhxR1RxSVlnMU02WktwT0xDNTQyWUlsRGdHSTZ5V2EyM19fQ1cwSi1LZVoxZUlwT3c5TUpvdw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "Polpharma Inks Licensing Deal with MS Pharma for Guselkumab, Ocrelizumab and Vedolizumab Biosimilars - Pearce IP",
-      "source": "Pearce IP",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVJhdnVTS2tiU2hlczBnbzBGeVFMUUV4WjVVdVZjWEMwYTJqRUp0MWJPM2p4eDVmWnRxcnY0NHczTXQ3MU0yWlJIMmg5Y1FDMHRja2FuZ2ZMYndUVnhBZE9UWlBxalpsUWVtdGVKeU8tNUlQX1VQYVlNV2YzZUlqc0pxdlFCUWhRSDdiRm1CRURkOWJMcHRvWEw3MFZ6UkFCQkRZM042YkNoSmx2QU9GV3ZXSDJCeGkyaFhHbkVOU1BWbFFSUDZ0NWNyTXdOOURkVHc?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-08-28",
-      "headline": "PCI Pharma Services completes acquisition of Ajinomoto Althea - Pharmaceutical Technology",
-      "source": "Pharmaceutical Technology",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUtaWm5tbnpoT1VBOElDQTUyLUZmd0YyRHBWLWdNRV80NnZnLWI4RkFMRVpxRjZhRzlvSVZ3TlREekZ4OHpCT09HNmJVWmlfTW41Ukl4aG0tbnFLcktkeVVDSERWSmFrRXlEcTNySC1NeEdkMDNrV21nb1JVQ09xbTMzcHMxSmpzaDhTNFZXWkRsN0R3ckpzWDZDNGdHREl6d3BMLVYxLWI1aDczWnNuazRuOGU?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-08-25",
-      "headline": "AbbVie to buy Gilgamesh’s psychedelic drug for up to $1.2 billion - statnews.com",
-      "source": "statnews.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbE1xREZMUjdmZHpzWWlaSm9wZ3ladEtYUTF1a2FveUhCYThpUF9iWkJPVUpZck1PNzRSMjJMYW40OXN2YjFEdC1vUnpmRnBTSm5BYklGM01kZmlFRHg3OGJSVGY1V3NpNFdsa0kxemJMVFM3aTlxbE9DX0h3UFFJSERYUQ?oc=5",
-      "type": "M&A",
-      "value": "$1.2 billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-08-13",
-      "headline": "Tang Capital’s Concentra on Buyout Binge With Plenty of Biotech Fodder - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmkyaExSQ2pyYUdwSEJ4cUJWVjN5Tk1Va2JHZ3RIMmZEdVpJWGdrSWc4RWhoOHZFSW1maG9POUFhOWhRSXdMblRKYzNJeEhOaWxGQWo4c054VXVJMTU3T2ZJb0hHM2pYdkJNZW1mX2lOZE1lQkd1NUg3RXdlaW5EMmszY0VmaWFnaHotamlJb2VHMHZVdlRFV0JjaFRsekFDMFViM2x3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-08-12",
-      "headline": "Xspray Pharma Signs License Agreement with Handa Therapeutics – to Receive up to Double-Digit Royalty on Handa’s Net Proceeds - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFMyOWpPei1ld1pSaDJLVHowMVJmLWU0OFRjQ0wzb2Z5bENpQUJSOHc2dXhLdktOenU5VWxLa055dTdnZU5nLUVpTXp5RkxOcEpSektpZk5LOW91WVVaSEZRUW4yLUk5aDBYdnRHRTU3UWppRXRJVWcwTjQ4QXRtWjR5SlhJbUJHOHFR?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-08-07",
-      "headline": "Merck had no other competition in its $10B buyout of Verona - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmdEV3E0bE9TczlQdXpRRVdHOWtscGZ4cmJGU1VtQ2NUbi0zTmNFNHpUcjd0dVdFaVRKSjdfbUlNQ2NUanRDUWVRXzB4N1htc3o2T0FWTXZBb2UyaWhCbGt6Uk14TXZjVjNtX0RuRWNTbHlEZGVwY1hUeHlaa3Zsckg0dGtCdw?oc=5",
-      "type": "M&A",
-      "value": "$10B",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-08-07",
-      "headline": "India's Intas Pharma emerges as largest global supplier of Pegfilgrastim with acquisition of UDENYCA - BioSpectrum Asia",
-      "source": "BioSpectrum Asia",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPenlTTm9JcHRyNzdyY3E4VzV3Vk5sc25YVGZxYzlOZ0hPcFV1SXVUX0tlVmtHcmNUal8tVWIzR0FtLUllWFhPYjBCeWJ5Y2U3WHJ5YjJibVppaDZaR1pJN1JzZm1POXNFMHUzRzk0eGw5alg0YVB0bUJtVldsN2Z5TU0zVldPQlZjN1E0NTFMUHpYdnlKa0k3WlB5Q1FaTU93TUZaT3g4b2FyMWstUlVfblNzWE1hLUdyMERPcmExajNFa08zU2VYa3hmbVVyTzF2M1phUGhUT0pXNHdRY2UzVWFSUkE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-08-01",
-      "headline": "Supernus Pharma Completes Sage Therapeutics Acquisition - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlJ5MjNpWk81aWE4Njdld3RrNGg4MzBITHFxV3FMeG84WmxfbVBXTHVSMktUQXJtbENLMWIxQ3NxTzVQeEZqaFdXTExNWTV6R1JxS1dCQzZrelRQZDRFUHlJb2ZqSHZ0bmtxTnlXSXM3eTE1ZHdIU25OTWRyZ1pEVjhwYlBxY2UzWmpxSU5nMzRuRXBjTTNxZnpXM1ZnQkZS?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-07-31",
-      "headline": "South Korea’s DXVX Inks $220M Global Out-Licensing Deal for mRNA Cancer Vaccine with U.S. Biotech - BioPharma APAC",
-      "source": "BioPharma APAC",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVGJtNXJfX1pyZkpsaWJ4dUVSdllQbUFub2ZOWmEwd3pNaERaREFFcFpkdm56N3k5bW1CWndfM21RSVcyQ2Q0SzloV2lsN05qNE9HY2Y0VGI1bVV2bnB5V2lwdS1uRHB5STdMdjI2MW5fVV9ocTZMUDB1bk9EOHNtSUJyZlpsTVgxT0w1cklKX3k1aEYyMmdRY1FtcV9adlVfQnRseExLNkJJbXFyOV9RY1oxZDNDbDlvSWpITXY1bGgyQjhfR3lpdHVoZ2hrMFE0X3RXQg?oc=5",
-      "type": "Licensing",
-      "value": "$220M",
-      "area": "Oncology",
-      "modality": "mRNA",
-      "stage": ""
-    },
-    {
-      "date": "2025-07-30",
-      "headline": "Merck Expands Respiratory Portfolio With Verona Pharma Acquisition - The Healthcare Technology Report.",
-      "source": "The Healthcare Technology Report.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2N3czFVZ0NKeC1Ya0d0SnRjTzV1am5ScXJZR0NnRkltTU5vRXNCS3d5ZHVkU3lIWVhBdUxKRkxjMTN6TS1IeTlCM1g1TkE0RDlqZGxRN3M5VUk5dndUcGZCRlRfT2IzN2VZQ0paaFlfYTdDNnpFWVd3UDdPWWROamFlUnJXTkF5MVdsNFp6anNEcHJZX2FDejBRdFhRR2xsSjdPZHpBYlpGdXhTRmc?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Respiratory",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-07-29",
-      "headline": "Merck axes midstage asset from $1.9B Pandion buyout due to lack of clinical benefit - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjViblE0M0ZBUUNVQk1GaG5McEhobEVDWThmV2VJYmdtUTAyTElBRk4wZHYzaUhxb1o4a3lCSlhoS0UzTF9lYzNYcENiZmJ2M3FmOG9Ic1RyRTJLRjVaQW9LUWVCSXNVdWZvWExxNUhkb1FGUFoyOVFMb3BERkNLUkdlSjRBMWhKZ0tmalR5LU82RkYtbW5NeVZsYVczVzhfdHJJek4tNjVvdFNy?oc=5",
-      "type": "M&A",
-      "value": "$1.9B",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-07-25",
-      "headline": "SASMAR Pharma Expands Global Presence with Strategic Acquisition of Goodwin Nutrition Srl and MORINGA BOOST Brand - 24-7 Press Release Newswire",
-      "source": "24-7 Press Release Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWjBRRGI5VGRpMlJJTGpiX083U0duTjZ6TmJCOFlnNU1HT29zWUNvZ2c2U1dnYmxMNS0tdDJEZjhheV9mdjNTUW1ReXR4Skx6QVhyZzZoQmw1clZFcEJkdWNETG43VjdxQmlfX3RVQ2h6blZtWERnWDdvZEZJTWxOcFg2R0NVNFRzek8wRy05MDBDRkNfd3lnSGlCSUt2MjBZZ0FmTFFXWGN1XzVxOGktMXlvbHgwQlJoTjlwa1BwSDFua2FtLVZmZTYzcmgxT2RFd2VnQ1RMZTg2OTFwdGhaTGRsYVVhSzU4cVBzVEJnbXpIRkMtSGNULTR0dw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-07-16",
-      "headline": "Navamedic completes dne pharma acquisition - Pharmaceutical Technology",
-      "source": "Pharmaceutical Technology",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmZwQkM1ODFraUN2YXR0MGswbzlra1czTXRwTEhBbnlBalZtVkNvSWtyTXVvUHZleWptcGthT3g2djFBNUJNMEtIQzFlWnpaNlJxaFVCbkhQZ3pCUzRYcFJTeEZXWUgyeGNpdkVSdWtUVWZIUzYtaEZqS29sS2dmaTRpbHBnNTg?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-07-15",
-      "headline": "Aptar Pharma Bolsters Clinical Trial Capabilities with Strategic Materials Manufacturing Acquisition - Aptar",
-      "source": "Aptar",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWhyTHRmd054WjUtX2NMVEVIbXExajFSSE9ZWU1vWW56N2VLSnZIczNNd2ZjWFAxcWV1SzQtRk9LY3RoWFBhZFpuWkNnTHFuX2oxSE52Rjh0dEVGSVFRSWpVU1c0RTZNTklQVEhlRmlzRDVHY05uaXBQSmpNa2pja2hNQmJBRTg5Y3k1a1VXZGlfdWoxcUN6eDhfMWFOSkUwT2lKSEdVNnVGSHpZS19sMmln?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-07-15",
-      "headline": "Aptar Pharma Bolsters Clinical Trial Capabilities with Strategic Materials Manufacturing Acquisition - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeUl2Ri1WWWg0OVM0TjM4cExyRkk4dk5teTZEcVFxX01DeGV5aF9ndjJ1Z2k4OGQ2N29oendKd250TDhoN3MtdmI5ODk2WlNlaU5oWDV5V3g3N0ZfUUdIWWs5a0dudjhjRTFxa0tUc2dzZ0ZRZjlTS0pOODZRam5qTDhmd3d0akpLZnc?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2025-07-15",
-      "headline": "Serial acquirer Concentra Biosciences on a buyout spree in 2025 - Labiotech.eu",
-      "source": "Labiotech.eu",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGJlZ1pLYnd6VjFHUWV5RXh4eDVoR3ZadlBRelpXSkdTNlRtQmRXak1abE4weWxDaUxlQ0lrdVhXMFpaVFVtcEE5OU15QzdmMUJUanhWdUt3eDZtcm1ycVJVdVoxcXNkeTJOU2pOWU52YndxVF8xQm5jSVB4Y2ZfWUJ0SQ?oc=5",
       "type": "M&A",
       "value": "",
       "area": "",
