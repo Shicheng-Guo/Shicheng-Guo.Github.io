@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04T10:29:13+00:00",
+  "generated": "2026-06-05T10:38:00+00:00",
   "trials": [
     {
       "date": "2026-06-04",
@@ -28,6 +28,72 @@
       "headline": "J&J’s nipocalimab meets primary endpoint in Phase II JASMINE study - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmRNUjRRSko1S1lIUHUwcWExN0VON2Y4U3YtYVhwaWg4Y2VjcGhNU3RQb0o0LWpLX3lTSzFHWGYwWEJNNHp0LXBnXzZCSmY3TXQxNTA4NlpYaXdaWFBSYXpFRk16d05aSWQ0azF6YkFWYTROSmR1Q1U1Q0d4OGVjLWxEQzRYTzQzM0RtcE1HVQ?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 2",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "2026 ASCO LBA | Juncell Therapeutics' GC101 TIL Therapy Achieves Primary Endpoint in the Pivotal Phase II Trial for PD-1 Antibody Failed Advanced Melanoma - StreetInsider",
+      "source": "StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWVVKaUc4REtmcW9qTzMxa1FzMnVsM0hwenZmeXVaQ3cyRDV4aGFQdjdGMVltOHhYSDlKZ2pNZFliNlFkSHA3M21nZ3VfX0VGWEpCWFZHYW9wZDhacmkzUFJ5M1FTQm9wSHZYSWlVZlQyQlZ6dXhlMGdJcHpaRm14cVplTk0yVnhORGJiek1UMk54UHl6MWtSNU5vV0ZqT1l1MW9pOU1SalhhOVRaMmdNUHFGamZtd3RTRjI0cm55OHFaZnFjQWVhaDRIcjBKdGVqNHpfV3IzSE1QRDhwSWo3SkIxR3VCUktlY1hxakRDa3VUeXVYNHV3N3AwQUk3Vmp4SXF4WTFvTThza3JidmZNRmlyTnlJWGIyczR2ZTRjOS1xaEZmNVVsQ2tGVktZREV6a09QMQ?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "PD-1",
+      "moa": "Checkpoint inhibitor"
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "Apnimed Submits NDA for AD109 Following Positive Phase 3 Results in Obstructive Sleep Apnea - Pharmacy Times",
+      "source": "Pharmacy Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORHFndThEdXpfWGpRNVEySGN3dkxwdTZIN2RWNFNwVzZvQ1IzUWk1Z05TcmpZbnl5cHFWUzczTEo5SWFVM2I0eWhIcUQ4alpuZTBoTl9DVzAwQWtBbWJsUUNOQkNQWTRoOXZiMjB0U0xCaDZuVWhYd3VwR2Z2dGdaTldhVVF4dl9VaTlQRVFFLUNOSnpXNXphWE11UTRsQ0VJeUVZTlpYYUxCUjhvVm9oT2hkU3E0V3lLMnBEbDZMVTdUQ21O?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "Experimental ALS pill brelgometon targets Phase 2 trial in 2026 - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzNtUEFyQkt2MURneDNjb20yYUNrQ25TZU9NYlVHOGtsQUYwWEdSWnk3a2d0Wng5bWNSSUx6TUF3QjNxUmtCbjhIU1FyUUNBS3Rac0VmalZ4dDFMR0s1cmpzMkhocWxrckloMXNWbDAtMmVLcTJyalM0aElKOWpkaUszeG1FOVYzVS1OaEJNbHVsUWI0WU05TmF4OUhvU3hIX1ViU0JKLTk3R3lOam9obXFvaGViQjF2a1VFdw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "2026 ASCO LBA | Juncell Therapeutics' GC101 TIL Therapy Achieves Primary Endpoint in the Pivotal Phase II Trial for PD-1 Antibody Failed Advanced Melanoma - Lelezard",
+      "source": "Lelezard",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FaE03Y3VzcVJQRFEyMmlnMy0waHZIX3pRc2k2TTBqVklmVzVibGZhYV9WdW5KYTlkdzAtR0N6OGRtZlBYRW5oMjZXbDVOZXViX3ZSNFhTYUhxZw?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "PD-1",
+      "moa": "Checkpoint inhibitor"
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "Cloudbreak completes primary endpoint for pterygium drug trial By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2Z5bnY2QXZ4VGlNejJjSHRFemJyN1pwb0VKX3VzTGQxeEpJSVBlRHpnSmUtdWxSOEQ4UDctc09YSkNDSkRETTRfTjV3OGEzVnlOREZqaFJIQ3NLLXhCV2VzdnlFRkxDSmUxVGJfY2xZUzZsMThZRmdFcHotT2ZhVS04dDFoYk81OV9mODhHRFJZSFhtbWpMOURYNEVqOEpyWnZOcmtiR3JLUmNuNDYxSlFrR2VhRGxXakJydmoyQko?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "J&J’s nipocalimab meets primary endpoint in Phase II JASMINE study - Yahoo",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOUtDNG5jVUFWN2lyU21yQ1lFcUFBNHNkMl84WFZyTzlOejBzUXk2X2VjVi1ZQkFnR0tpVm1paExGLWZfWkRJeC1GYXlhVWJJeUZhSDRFTXYyR2d4cG90QWI1UWM5WTM0ZDZpNFo2UWFBb3ZSN0YzdmhsNVh6S2djTjhxM1hnVjI5VFNWQnNULV9pZw?oc=5",
       "outcome": "Success",
       "phase": "Phase 2",
       "significance": "Met primary",
@@ -443,7 +509,7 @@
     },
     {
       "date": "2026-05-29",
-      "headline": "Oculis Announces Topline Results from DIAMOND Phase 3 - The European Times",
+      "headline": "[Press Release] Oculis Announces Topline Results from DIAMOND Phase 3 - The European Times",
       "source": "The European Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamVRTzNjQklpeXBadzBDRF9jWUY2SVpyUUc0dU5idVl5QVV2akVmajYzb3REc2lXR09KY3otRFpLbTVYejFSWXhVcll3MGlIMVpKQm9VUUQtaFR6U05SdTFWenhhSVNSQU9BNmxpUzJrc1I3QW92WWl3RVJDblVXR3ZYLVJaLXkwQldtZk9Gc0FHalk?oc=5",
       "outcome": "Readout",
@@ -563,6 +629,17 @@
       "moa": ""
     },
     {
+      "date": "2026-05-27",
+      "headline": "Junshi Biosciences Announces Primary Endpoints Met in Final Analysis of Phase 3 Study for Perioperative Toripalimab plus Chemotherapy for Resectable Stage II-III NSCLC - Macau Business",
+      "source": "Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQdU1aMEQtRVlneHgtdW1rTy0yelphOHJLWTZvM1R5cEd5NHV2SGFKRUp4eTVWQ3ZfYmZ5WG04RHBzQlBvZ2NsRUEtRE5kX2YzRkJQZkpPQ3JJakRvaGRjSnJVdERWQTBkbFlKbnozUVg2SUp5dFhjVUNzTnJPYUN0ZUg4MEtxZkNDcEtCcWMxNnh2R2lEQ1FrMGJHQ2VRdmJ3RUhsNmFOQlpBdElhWTBfSGl3cHB3V19tOXc3cVVIT1VXT2ozUGFzbEU3d1VjUlVWWTVIZ2VZQWhSaThjaXlENG96Y2JaUVZJcVdPMWlQTWpXbi1FZUxTLUs0dGszY1pDYTdSRzU4djlvZExhVXAxZVlxS2I0UWJGYncxNWh1UQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-05-26",
       "headline": "LUMA trial of BIIB122 misses primary endpoints in Parkinson’s disease study - The Clinical Trial Vanguard",
       "source": "The Clinical Trial Vanguard",
@@ -673,6 +750,17 @@
       "moa": ""
     },
     {
+      "date": "2026-05-21",
+      "headline": "Lilly’s retatrutide shows powerful weight loss in Phase III trial - PharmaLive",
+      "source": "PharmaLive",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMzZVRnhHRWN6UTIxa3lOUmxyXzVhYTRtZEVaUXFPblJvZ0owR1dNS1FvckhhVHBkdGthS3d0Y1RORXd2bmhYMEU5ZEJQWW4wZWI3S3F6R09qbjdjLV9SRkI2RWpRZW14SkdPcGMxSUFkbmRlY1VyLWRGaUI4d2psOHhLOXJSX1R4eDlYd0xRTWlEbzdWamhz?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-05-20",
       "headline": "BioMarin’s ENERGY 3 trial of BMN 401 meets one co-primary endpoint - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
@@ -710,6 +798,17 @@
       "headline": "Relay ‘full steam ahead’ on PI3K inhibitor fueled by first phase 2 data in blood vessel disorder - Fierce Biotech",
       "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXB2bnlKcWtFZ0NMR01HUGVncVRNRWxieXVfRjAzNG4zQWdmaUFoeG8wYmVoT3Nva0VLQnlDWTVqdXRsa1hON09OVlU5dmhNdjgwSFNfTHZ6aXpoU2hJdVB4MTkyWU1oRHlTVWtuVjFfQjRjSWZDWU1kTS1SV0FnTnBQY0lwZzZ5LXNHWlBERmJsYnNOM2ZlSlBMd1R0aG8tdDdpMWJJaEQtcDNYUFhoMEQ0Y3Y1eUU?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-05-19",
+      "headline": "Altesa BioSciences Presents Positive Phase 2 Challenge Study Results for Vapendavir at American Thoracic Society International Conference 2026 - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNSU82bWk3TjJPTHBtZlhBZTdFZjVTN2dhSU91cVU0OXRKQzVneVJ2SVlhdjBUMjM1cEtRRkh4S2lUR3JLMHR4ZjhwMnF6ZkxTdF9VeUxQYklxa0xGNTFiX0x6eXhRTlA2Mi1jLVJOaWFidXlGVWFFemh1OHFmcGhUeXdxUDVCQ0g3c1F3UWFnc2N5ZU9oYXlCS3F4NlBZSTA1NHFNQkxiQzNyemowNXhDS2lJX1hiMnlnYkhmTGo1MFlNUzZRckFhX3l2Z195azlGaWRlaVdGWDdhSXJVdkxUYUpSblV5X2FkWGRjNy1PRERmc0ZHdlI3TTdRQ3N4VkYyaEx4ZmJndWd1ZkxUTmJGbGV5ek5FQkxXOExjRktGNG5vWUVP?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
       "significance": "",
@@ -834,6 +933,50 @@
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-05-18",
+      "headline": "Merck Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGswR2NPRGtLX1ZJcHRKM3ZqTm54Z3N4X1hRTjJGNFFDeFVfbWsxRUlaYnFINkwtM2Z6S3pWV3B5aDc1THRPOWZSQ1BCXzVVTVpYSnlxME94QjhGSl83djBKSGlSclRsdmlsa1pzdkNGaE0zM1ktQVlNWXhxUE04eGRldm55bFJ6anlReDRJRC1BamF5RzA4QUNOd3diYlluODlsVw?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-05-18",
+      "headline": "Merck Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - ChartMill",
+      "source": "ChartMill",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNS0g3RklyZ2Noa1hlZE9zRjh4WTZMSFpvZV85REFOUUZVeEdXSHNlajJRMzR2b2pxRi1vYTBrbVNxTWdoZ0Y1bzFrZzFxc1NwVTdqU2pLTEZBU3hWS3dCWWlYcFl1SDBtZ3VoVnF4Q3NOS1hSRlFuQU5jMnl4NU0zbFZtX0VLTnI2Vl9jZE0wMFBsa0M1Mkt3RVlEeHZSY3RuTlVwWi1nU0RseEdYaTdFUDlna3ZFQWhrQ1VrUnJ3R0o2LXMxODlkTHE4d1V2c05HR2dqa3F1ejBrWEV5b1hIVW1kOWE3ZndmbEtlVGl4aUtHVV9NdXcwR3d3QndzZnhlazBWcUdXbDVJQUhGQkxnSXduMkFjeGkxOHBPNnk3TzRxenZvSGtLZTFSbjhLR3Jidzl1ZnY5SFV0WFJGQm5JOTB5Tl9vaXNCdXhPbG9rSE8wUlVnQnNOU2ZMTHNPbE5odW9GUURrRTI3VHFiUVFNcmttVU9Ldl9YSWhXaEVnUUYyTjJ3SHJCaExB?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-05-16",
+      "headline": "Regeneron’s Fianlimab Misses Primary Endpoint in Melanoma Trial - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHpYd0RCazBMTDNFc0xLSm5CeEREUW1oa09lR1gtR3AzOTB4LXh6QUNFMEhoOFBIUTVRNFJsOXQyMUpEZ1FtME1IeENwb2sxR0UxeGw2azZyNUFraWl5eGc5TUNKNTZ2c2FRUjFneUZTSHZOOHlnLVgtZThlMlhEQjNXVEJfM2o2Rk1LWGNOM0VRMmFxZjBNSE1qeWNwWkw1RzhHVkN5dmdRQQ?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-05-16",
+      "headline": "Regeneron melanoma drug trial misses primary endpoint By Investing.com - Investing.com South Africa",
+      "source": "Investing.com South Africa",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3A1dDhaNjdsWDR1Q3R5MkhVMzBmTWhYNWVkdklDcWN4LVpuOE5CZEdfaW44WFRMbUZOZmc3Z1AtNExHM0ZfMEFOemItSjNtZmZrT0wwaUxSXzRiand4bG40dWV5a1lqWWVnZm1pZ1pYUHpJZVo4Q2ZMVUdjZFJtMXlLeDBtTHluVEtUX3hhcGp5V2ZZWC15dGJ1REM4OXBMQmRKbTFNTjZaY1VmVkZTVTFORTA?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
       "target": "",
       "moa": ""
     },
@@ -1234,6 +1377,28 @@
       "moa": ""
     },
     {
+      "date": "2026-04-28",
+      "headline": "Huntington's drug posts 52% slower decline as Phase 3 starts - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0RzbGZTdi02Unc2dDFsRDBwalgyaktEWHFHSXltZXlVdHNueUlEZmxoeWkxdmZOLVR1c2ZNWXRrczBXVjNEVmpGb1JDRjAyQ2p4NXFwTkRCVm5NVEdpWFMxd0hkWEppVTBDMmxfVHduR2pkbm56WFJYOGtEdFJVUEowSXRnV21mTkZhaHR3VDNBc3BXZG1YTzd1TjZpRUtMNkZEd3NJdmRVNEhjYTFTY1NTZm9qanQ3X2c?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-04-28",
+      "headline": "Inside Biotech: Dimerix sharpens Phase 3 pathway with ACTION3 ‘de-risking’ update - Proactive financial news",
+      "source": "Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYncwMXBuRXE2c29tbS1YUWZHUHhLZ1NKVkZjbjJPcklmM0l3WldTU2RJT21wOFp6SzdtV2pIZ0VPNDRKOFo4Z2EzeVNtdllldzZZSThjZEp5aUhFcFlySk51emVxdGFGTVlfNWtYNWU2b3NuNWRWTE9fam9uNXNJY2J3RHFIVEEyUzM5dWx1UUZIWS1ualBKS2tETlZDbjgzcFBwS01FdFRfUEZrR0pFRjNsYzluM21kRjYyLW1tUkFqYlZVd3dUZ2ZsMk5xSzlnWF9JMnNGWnZuaTlyM3ZCcXpZSQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-04-27",
       "headline": "Intellia Therapeutics Reports Positive Phase 3 Results in Hereditary Angioedema, Marking a Global First for In Vivo Gene Editing - Intellia Therapeutics",
       "source": "Intellia Therapeutics",
@@ -1328,6 +1493,28 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3U2TEJuVVB6ZXJ1aFk2TVBKVFpfZlMxdDBSSjA4Q09rVkFGWFYxbXJZMW5DVllSYzZmM2txREJVR0RpWEw3dXBmcnh6cld3WjZ3aFc0YjNzWXIzSm5ITXQ0LVYzUExKN3JCZ2JuOTJkclJhcDhBTGZTVDRSbmltSy1YR1JUbVB3Q0ptSzVOTnZJMkx4anBVbEo5Z1JxSjZjZlU5aVhIWjdoLWl6d2Q5b3h0Wms4dw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-04-26",
+      "headline": "Veradermics to Hold Conference Call to Discuss Topline Results from Phase 2/3 ‘302’ Study of VDPHL01 in Males with Mild-to-Moderate Pattern Hair Loss - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVmxydk1JR3dTeGtXNFpsOHBwWmtyYUoyN00yMFdteXN4c0VHOURRei1jWEVRUEFYX1VxUHRza2ZMNFJtZWV6MC1hVF9zVUg4bTdWdFlxaWgwYms4cWtvYkF6MndnT0JycHdaRG5hNk5tUVJqWHlJUFBSaGdDa0dvSGtmX2c5Qk5QZDNxSG4zbWNBOFBTLWxjck5oZGNUNmNtbnhaMWhlVmxHVnd2TkhSck1jYzNmNng5U05wUUF6ODJZM2w1NnE4Y3RSVGx4c3NJZ0FJa0hqd2Ficm1Zck9HODNfS0RUQllRbmJJdXJBekJuUVVENTh5U253b2NpWmFUUzNkWTVZMktSemZaNXh3NnpEWE9UVzdFMzBvdnhJQnJoRzJybEZpYUFsOA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2/3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-04-25",
+      "headline": "POSITIVE Trial Update: Oncologic Outcomes Maintained After Pausing Endocrine Therapy for Pregnancy - The ASCO Post",
+      "source": "The ASCO Post",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWFQwYTdKMDVuamJYaG1ZWjd1Zkx1Y3JRaXlzZTdPWjc0RnVZX1doVi14SUp1bkROazJJeEJ2eTZNQkxQYjEtR3VvRXhNd0t3SGhURjk0NE5QQ1VTbDczY1hOZVVobTN6bWx3cXFyNGY3VTZXSS1teUdiVVJZRTVDRVoxcW4ta21BTkRJZndHdVNuQllJUlhBVWxpeS1lRWtrb2JqNjFpbVNtNVduR1dMZTJFeFNxTDNKaXp0anQzcnZWeG56WXJDZnZaaXZIYWhjc29jejdHTQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
       "significance": "",
       "target": "",
       "moa": ""
@@ -1428,6 +1615,28 @@
       "outcome": "Success",
       "phase": "",
       "significance": "Statistically significant",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-04-21",
+      "headline": "REVA Medical Announces Positive MOTIV BTK Trial Results Showing Superiority in Patients with Critical Limb-Threatening Ischemia - Newswise",
+      "source": "Newswise",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOWluNnBEUi1YSkpDR1lWakIwV0NpNWxKNWlRMDhMVVByb3RVQXFSVl8ybmNwb19EbERyMEJucDFheHg3bmNCZ3c4QWJOZkR5WFp0S25ETUFfeFlCYXpaREY1bERGYlpIUUhvNkZnWE00R05NVFUzWUdMaWs1VWpKaHQ4bmlpZ2RMUVhjWUFXLVhVNmVTdFBCS1o2T1pWLWpRTzBwSlhPMlRRRjZtWl9Za3p5RzFxYUNtVDkxYXBuUzRJaDBSbkxHVDVTZjFrTzRqUks2aE5RTU12LW1hQmtVQkt0cHlxVGY0eVNBLU1oSVlMU2c?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "BTK",
+      "moa": ""
+    },
+    {
+      "date": "2026-04-21",
+      "headline": "Roche unpacks death imbalance, secondary endpoints in phase 3 multiple sclerosis trials - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUZPN01FZ0t5cXQ1TEJHdnZIblRZTUpRRDFhLWU3T2hld0RQb0wzbzNEamNKZ0xHYjY4WE5VbWE4UmRTV0stbndnV1lFMEpfcDJnVU03ZWUwaVFZSTA0WTJ6dmM5RFFkU3BnNGVtcnFoNW9NalNScjI4VXI3RngxMjMwYVZCNVQwb3RYdHhrdkVnQlE5Q0hzNFVSaXE3OGluWEd4OTk1WUliaXJrZFlfMVJoU0ZEWl9IVjhnc3hB?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -1850,6 +2059,17 @@
       "moa": ""
     },
     {
+      "date": "2026-03-30",
+      "headline": "Viridian Therapeutics Announces Positive Topline Results from Elegrobart Phase 3 REVEAL‑1 Clinical Trial in Active Thyroid Eye Disease - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakRfSmxJWWp6NTZJTlNtbjVuOUJyWVVUOHNhTzl1WlNjNGxDV3lMaVBXa0pBQ3hmYkFFRWJsSWJ5RU9xa09hcTJnZDBqVDRLX3ljYld3WVZmeHlabWdwNlBZeHRncDJaQVhweURpYjc2eFQzMm1UVUdPSzN1TW5VOXpqYjlzM2lLcnF2WmRLRy0waGdGdG1zcFcwVEJtWHRMbUVINm9Lei1ldmNnN3BiNjBPanYtUkdr?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-03-29",
       "headline": "Phase 2 trial of novel blood pressure drug tonlamarsen provides mixed results - Healio",
       "source": "Healio",
@@ -2158,6 +2378,17 @@
       "moa": ""
     },
     {
+      "date": "2026-03-19",
+      "headline": "Retatrutide Delivers A1C Reduction, Weight Loss in Phase 3 TRANSCEND-T2D-1 Trial - HCPLive",
+      "source": "HCPLive",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1ZwamxiR1VucHh0YjhoQ2xJZU9lbDA2Q002UzUtbkdJVzFxUi1JZkVYRjVRcWVnT2ZBZXVQSFhXdl91czl6WmczZTM5S2F4YmQ0X2hnbnJRQ190dXZQc0lhN1ZDNi1hM0gtSnlCbjd6NmhkTkJCaEw3N1U3cVBsLWtVT0lJOTAyVFpzam5zVXRpRzdZZnpfbjJhX29CZnR5Y3JwVlpZdnZEMXl1?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-03-17",
       "headline": "Rhythm’s Imcivree fails Phase III rare disease obesity trial - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
@@ -2312,6 +2543,17 @@
       "moa": ""
     },
     {
+      "date": "2026-03-10",
+      "headline": "New Positive Results for Z-rostudirsen in DMD DELIVER Trial - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUQ5UUJ4MjBwcG12T19ONFZnVVdaQkNUMk1Ud2dva1dfcEJPd29sUVdNeEpfZDQ5YmJuenZucDFkcVFSYUo4OVh4LWlXZVR1S1dCZy1lYTl4Sm45ZmphclVDdUlCMUhqMFliTGs3cHcxRTRKMnhjd3ZHa1VGcklDM09pM0xDMEhFZWQ4MjB3eUdJaUk5UFdPSDJEVkt0a3ltVDZXS1NB?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-03-09",
       "headline": "Vertex Announces Positive Week 36 Interim Analysis Results for Primary and All Secondary Endpoints in the RAINIER Phase 3 Trial of Povetacicept in Adults With IgA Nephropathy - Business Wire",
       "source": "Business Wire",
@@ -2411,6 +2653,17 @@
       "moa": ""
     },
     {
+      "date": "2026-03-08",
+      "headline": "Edesa Biotech’s Paridiprubart Trial Success Spurs Market Optimism - StocksToTrade",
+      "source": "StocksToTrade",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlTUVZUjdRblVMMVpNN0lEZzI5eWgxYkoybTZNTGlNYnNwR2JpX25nd1RWQWJRNHQ0eDZtWVl2ZkJETjBuYVZhTzVicE1nSUtlcTk5djJLSG9BZVVvRGhKTURZOXRIbUNsMzc2NFZweGdSUC1FNHlJ?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-03-06",
       "headline": "TRIUMPH-4: Topline Data Highlights Retatrutide's Significant Weight Loss Effects - HCPLive",
       "source": "HCPLive",
@@ -2455,6 +2708,17 @@
       "moa": ""
     },
     {
+      "date": "2026-03-05",
+      "headline": "Oral remibrutinib hits Phase 3 primary endpoint for inducible hives - 2 Minute Medicine",
+      "source": "2 Minute Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkFYNDMtQ3IycUZPQl93Vk1oU1lxNlE4Qkx0a1ZRRV9vMVg0YUROT3dfa3lhLWtod0FTY052Mno2N0pWdjBBWjBqcEw1dnlEY2ViQjcxT2lEblV3RDRwaTUwejMycXhBcVFTalZjRFVQWmxfNHZ4c2tjdnhidDJrRlJqeGJTQTZwd2ZqSzZwMng0dS1nVmFNeDVBRWVPUE5oQkE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-03-04",
       "headline": "Can-Fite’s Namodenoson Successfully Meets Primary Endpoint in Phase 2a Pancreatic Cancer Study - GlobeNewswire",
       "source": "GlobeNewswire",
@@ -2483,270 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHNiLWtDM1pwdzBvOHdBZV9OTENzajBJOFJnQ3Y4WVNOYnYwZkczUTByN04wUGEtbHp5amxEMVV2NUhDdVBVcExLRE84aF9Wd3NUT3h2RmNuc3lnWlR6NW9PYjFmbUlSMVNxMk5uQmZjeFJDaXJnSHJTaGRWcU1hWG5xU3Q4VnBiY29QampyZzB0T19oOGlCSjM3MVgwNHdWWDE1cEc1OEp5YUN2TVdN?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-03",
-      "headline": "Oncolytics Biotech Launches Randomized Phase 2 REO-033 Trial for Pelareorep in RAS-Mutant MSS Metastatic Colorectal Cancer — With FDA Fast Track Behind It - Oncodaily",
-      "source": "Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41bU9FMTRZVHZNc1BlcWhYbXVBY3FwWksxM3MxWXJ5V2tjNUxjcFBQR0pwX2M0ZXE0OE15RV9nUHpYRk0yQVlKcnlyNzc0UHYzWXVxd0NNOVk?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-02",
-      "headline": "Bimagrumab plus semaglutide alone or in combination for the treatment of obesity: a randomized phase 2 trial - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiSWE0aTRBUnRMNmNZNWJZOVBmN1U1eW14ZjNHT2JIakZzbVVZWlpRcTBsWVViOHNFSElIeDFIRDdrTHd1UlRpTE1sLW9Yc3RzSkdaMndzeUFmV3RvS0FF?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-01",
-      "headline": "Pfizer Inc. (PFE) and Astellas Pharma Announce Positive Results From the Phase 3 EV-304 Clinical Trial for PADCEVTM - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbWhkWVl6cmFMRnlFOE5QMEJxM0NHd0x3SzhCNGEzZU9DTVRzcURhYkZLTlJVa3U4ck1yZE16ZFhDR2Q4NEZTendhVW1UcERZa0xfd1VzMm1mbERyMzFld1NtRDdONkRuYkpZXzVIeXRpZm56cDE5d1RzaERLampzQWVR?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-26",
-      "headline": "Iza-Bren Improves Survival in Phase 3 Triple-Negative Breast Cancer Study - Cure Today",
-      "source": "Cure Today",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWtzZWpwT2hTbVZ0UWpfUkVBU3pHc0FyOEx6ZmRIZHlmNXktZFQyVDBPeDBzZGJFWk9RVGpnTkxaMXZxRmlCVlB2ZkI1TjZlbzRPdW41MW5lUnkzWm9IUlM1Y3UyTzY5NS1MSnREWVFEd0t1Qktzc1YtZlpwenN0bWlqWS03RjMwVUxUNlpBYWpBYmc2aml1LU1qZG5oSHJNOHNIMzNIcw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-26",
-      "headline": "argenx Announces Positive Topline Results from Phase 3 - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTHgzUThKMDBEdHpIeExaUmk3NGFyM25JampwMVNrS05aekNVWUVGYVRHSEdVOFZOcFpxUk9RR0tSZG1USmkzTWVJVjhiQmhnei13QURGaW1tZVJRRFEwNkItaXNCazkweG5GN09uMnJzc19RNXdXQTRwRU1pNDhrVURWNW9WX043TmlGdHVseDV3ZWJZSXJ4dmNEVDg5Mm15Q3VwXzdEMVdiU3dLYzZha291d2lMel9yRDdPWWZrSnRieXpiTjdNcU9hM2ZBcGtzbEprOTZaS2FVaW1NTHYwSFVlZ000QjE3bVZ6ZEw1M0FXc2ZncTZZYV9kUEQ2ZDNEVTNwaWl4amRVOXhHblFCSVln?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-26",
-      "headline": "SystImmune and Bristol Myers Squibb Highlight Positive Phase III Interim Topline Results for izalontamab brengitecan (Iza-bren) in Previously Treated Unresectable Locally Advanced or Metastatic Triple-Negative Breast Cancer - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQMnpmVVN1QzdRQWhSZUVVZGM5VHlYUGtNWnRSUVFrTnFzMWttS0tXSGJsb1VHVEVlM2YtcFpOblJPekJtZ3pLaTFYRDZ1YkVFV2s4QTVJaVFQZEJaS3A0dW44aUhoc204WjkzQWFLT3ZZbjNrMmVlQ3lJUVhTTjNUWDFZUG9mMmRZR3BMQkJwMmRZQVZtRVRlbUstS3F0VzBkSlNPYk9RYWptU3FDeW9aRlN5bXYyTUUtNzc2SEJHNjduQXFVdEdNVTlnSXJrbFNnal85eUFJMldQYzVzMGstenQyZ0lSNEZaTkRfeUx3MUUzNUpLNS10ZWV5Tml3WkdiZk9rRm4zRC1qUFEwSFBYU2dBOHlJTXhCX0plYy1pTmJHRmJGVDgyR0Y4bng5XzRNel9faExaMDBjMFVSY09USUc4UUMteGE1NnAxMnBnUGdabVV5MVk3NmlaNE1WRUd4a1l5NDd5eUVvQlE0cHZ5UmN1WXRRemUtMmU4TV8zSEFLVzJLVTU2M3JGX0cyY2c?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-26",
-      "headline": "Izalontamab Brengitecan Demonstrates Significant PFS, OS Benefit in Phase III Trial for Pretreated Triple-Negative Breast Cancer - BioPharm International",
-      "source": "BioPharm International",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjZSMENQWnJPNjdFd1pBc3VrM3lrVUtIcHZHeWc0QWtNUkxPR1BENlNzTXk2bG91U0lHejduLTdwYmgtS2ZQZDlEbEJoREFmd095ZS1rb3FJT2VBU29jSzhKaDFSZXpHalJPQS1RVEliZnh2ZnAyZ1VyM3U1SnZ5Qm1Qb2k5cTBQVEx6NHBZVk02YnNkbGRYclV1dFk?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-26",
-      "headline": "Immunic sets stage for phase 3 MS data readout after $400M financing - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aUEdZdTFxZTJYU2VyR3duZ2VDYk9OOWJoWFlQS1VqcHp3UU1rRFRvalIxcHVvc2R6OGJweFFKWnF6c1RzZXN6SlRUd0NZR25Xd0FCUnNNU3BZOVJJX28wOVNOWVlLa2FYWV9qazYyVTA5TTVkUnJKYzJwd28?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-26",
-      "headline": "Novo Nordisk’s triple agonist delivers up to 19.7% average weight loss in Phase 2 trial - drugdiscoverytrends.com",
-      "source": "drugdiscoverytrends.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2lYMFFPSXlNdEQ0SlpWcjBNVllDSEdLbkZTdXBCajhLMk1aNURha0kwX1ZKTXByTm9KX1pkZndzOXFWUjhqeFVwODVGbVo4VUtnZ2FiMWpob1YtVl8xZWMzRHB4aFJDaGc5eWxBa2RoeVRIUDFtU2pidG5LcWxxNTROZUFjQlBJWkRSUHVIOTZPTzVxRkxMeFhKbmtzOFBRZkoyMjZwUGJJZXQteTFoT2FFeDJjTkJadHpSTEtWTQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-25",
-      "headline": "Gossamer Bio (GOSS) Reports Topline Phase 3 Results for Seralutinib in Pulmonary Arterial Hypertension - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0xNSGthUkZKYWduN0xoZU90SXE5T1FUN21OdTVrRlZuQlNzQ09VWlo1MnQ2YmJjcDJjNGJUSlh3dVNWWHJ6LVlYOTY1c2tIYjNrT2VoVkd3SUhPUjVsVGdFR2xSSjRLTnZfQTVkemVBWFZOd1dlR3g2TFlzSHdfX3JJTHA0Zw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-25",
-      "headline": "Novo Nordisk-partnered drug shows 19.7% weight loss in Phase II trial - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTRkNEltR2ZPVU1HZHZNbE9QVUc4ek1DbEI3SEUtbDFVWnU2YWViMkQ1QVlJVXRGdERWWTZJdWs2X0w1T0xZTjZDd0UtUUttVVJ1V29uM0FsVk9HSHlwZUJFREUtTXNIRmNIWXZZekxPclRaODlfYW1lanRzZW40LS03Wm95U3haWXd0aXI5UE91dzJvRE04bzk5WUhobHEzRXBzUFUydXh2dXpnY3J3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-25",
-      "headline": "Migraine drug trial advances after positive results - Juta MedicalBrief",
-      "source": "Juta MedicalBrief",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNU5QS2Flakw2REV4YlppenVvcWFzVFhHOGgtSkRESEllMzdpa2gxblhkb01MT0hJRklmVDFWSlNWcU1LWWVQdU8taEh4Rlh4eGh0czRNckhuWDFfa3R0c3VoSjFuc0ExOGFLWVBDZTJvR1g2bV82UEgxYkJLdDQ2MXBiV05VbmhJR29v?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-24",
-      "headline": "Palvella Therapeutics Announces Positive Topline Results from Phase 3 SELVA Clinical Study of QTORIN™ 3.9% Rapamycin Anhydrous Gel (QTORIN™ rapamycin) in Microcystic Lymphatic Malformations - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEJFdG04V0lvU1VmQ0lYS1lHUmM4Ri10eFNaOFN3TlJSVE14d19IZEYzRUx6dHZyTXhSa091anVaekNYSDFWeVRZOFR1ZDNtSDg5UndrMGNIQ1JjeXpDbkFoT0l5LWNSQ29OVU1BZjRDSUxjdzJzWHctR1NhaGs1UEk5SmJZWTFPUlZyNklkS3JQZ3h1OE9DaU5n?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-24",
-      "headline": "Grail Stock Craters 47% After Cancer Drug Trial Fails To Meet Primary Endpoint - TIKR.com",
-      "source": "TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMm5BbUpkX1ljT2toMHd2RFVMQkh3Ymo4Q0FzcDRFZHFubDEwSlFxdTMzRXJfdnpUbkNQdENIMmo2SWxjOU5fa0dqeWdIbWxhcDR1SGhPRDZXYmszcWxBTTBqamIzVmVKb0dSV3VNYlcwT0VaT0kxZEhSaDkxUlZJOFVSMk5qMlU3cUk3eTZSMFZ6SExCZy1FWkpFakdvWGxtX1pzN0Vod2U2N1lxVzB6MjQ3NlI?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-24",
-      "headline": "Iovance Announces Positive Results from the First Clinical Trial for TIL Cell Therapy in Soft Tissue Sarcomas - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZ3pWbm5wY2JKZ1FDY2RxV1JkbTlMbWlqbk5TYldKZWNNdExTUnZyeDAyN19FSWlpZUc5NkRHSnhqdS0zZ1BqbHYxV2tjV0JsZ2lXdmJ3M2duWHZDRW5vVTZaVkpJc0V3UTNMZmI5Y2RMZXZUNm5UR0lSNlNKcUVwY2pNX2RkZWR3Z3FGRzlZcER3S1BWNmFBQl9lQndxb3ZpLUlBX19vRGU2YmU0REM5VDRtWVN6WFBXMEdrdHdhS21mU0dublRlNlppWGpQWVlVUGF5eG1nX1VselNUNldJNjN5dHEwN3o1a3RHYTBFMkdvRVpQcFlSb3JRbklzUHNpeUNmTmV4VDM2c0pSZ3c?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": "CAR-T / cell therapy"
-    },
-    {
-      "date": "2026-02-24",
-      "headline": "Abcuro's KLRG1 antibody flunks phase 2/3 muscle disease study - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWFid0JQYWtXYzFxdGNwbV9wMzc4dDVQV1djOHRnMHNtLTVjSXhmY2hKV2lfQjBDcW81eXJJX3pEOG8xaGt5RTlhOGlUV3JDdWNyUVFHWkR0bXRnbmU4R1NKMmhoTVVKZnQ0dExiVWdvclRvOU5VVnNka2dPT3ZqeFFYcVdvUXYzT0Q0Rm9SS1BHNWxIaXlMSmlpWmJ3dw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2/3",
-      "significance": "",
-      "target": "",
-      "moa": "Monoclonal antibody"
-    },
-    {
-      "date": "2026-02-24",
-      "headline": "Novo Nordisk’s triple G candidate drives 20% weight loss in phase 2 trial in China - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXNjWkZTUElubW1SWWRSNzJnRWJqemhscmozemYxaEZCTFpmeTZ4NzFHR0UxZ3NPRWlXRExfbDRYQnRsM0V4dGh2TWVJY0pWS29UMFZkR0xwYmtlalhvMDRkaHBjRFFwZUJYdTUzT1FuR1BlN3gwUUZvbmpXYWNvLTN6a2t3UXJJR1RHWloxRTVYTGRJMDEtdWEzQmFwNy1qblV1Ty1rMC05Zw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-24",
-      "headline": "One-time cell therapy shrinks tough sarcomas in early Iovance trial - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXREeE4xcGUycmVBN3duZTFMWkJhRUkwTXFHN3VrNXVsUFY1REJrMnlZTGxObHg1TzZQTzhoV1NnQ2tqRFFBUUhxQjNTbzNWS1lJWEFGYlFJdFpXVlNDOHM5a1N4TEFfWnZqSlloVml3aTlQZ0VvbEF3WFdwUm9QcGNXd0NHWXdtMW1VRm5LUWh2WFBvSFJYWldjbUlWVm9NX1A3V2lnbGtpVTBKUzVSZ05FNmZSNUMzOGNfWXNfYXU?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": "CAR-T / cell therapy"
-    },
-    {
-      "date": "2026-02-24",
-      "headline": "Abcuro Announces Topline Results from the MUSCLE Study of Ulviprubart in Patients with Inclusion Body Myositis - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNclJ4YThJYTJ5RUNDckk0a2F1a2lxdWdsMUpFSE5wdjdjemdmUmJiNUdrQ0RnQzFSMW1pSTBXSTMwdFZOTl94cGpHYjdQU2lUYV9iZVpwbHdGdmZ0UjdvSVVmUzhKUWw3TDhmSVo4Y1IxeVR6blZ5dE1XUFhVSUcwRm0wNGlaYjVPYWZxbGRhMWRLYUJreU9IUzU2UmUtdUhEWnk2WE9tdk0zZGJLSXhBaFphM0tKMmNUX2FoSmVobEhPblQ3OUtjVzRaVVU4Uy1ZbWw3NEhLY2FKT0tYaW41bzMzRHlhdFFOUzJMbmFFc21xcnFvYm5wOFhWaw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-24",
-      "headline": "Palvella Therapeutics Announces Positive Topline Results - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxONkEtaS1JUkdNMFpRS1BPZVJVY1doaGlJSzhLSE8yRUxtOTdsT1JEZjJ6OGJrRUVsZXF3MTlBb1h0dzBUSEV1RUFIR2xRU3U1bjZHS204SU9DS3pJT2IybkhoZHdWQmJBNVRJX0JJMTNxOFh4bmdpN1NTdzRzVkdhZHVOX3ladW5wcmNUVmlWMDhHLWd1RERSSTZLaXdLNTE4d1JrRUY3NXZGaGVqZlo1ZDNRZmtBSFluS3pIR2owLXRYVENoRllYV2RMNVRseXZxR2RWd3YwQTJvSk9CQnJiQ25hWVZsWGZzaTgxVlNvQ0hHRTVlVkU0RUkwYzlBekdYVnpFVzJZTzFDRnN4N094eUhlU3BHeklKS0Z1RVFmdGFBSjhwREhrS3JlUElNY2xjeDZURV9DTGpTQmdjVnpPYlVZUlZhaGZBaGxVeThzRlRqeHctT0lIenpvRlVtZVFUckx3NVNiZ2Rla0Zp?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-23",
-      "headline": "Luspatercept Meets Primary Endpoints in Phase 2 Alpha-Thalassemia Trial - HCPLive",
-      "source": "HCPLive",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckhjQkMzMzN4YXEtZlU1OEtOejVEekI1eGl2aWNYeXh3X1BYU2owaTlQMW5MQzR4am02Q1UtVmZjVDItOVZoQk9NdjBiLXNBbG9LX0x4bEZ5eDhIN3NYcDdjUkpNTWxacktSci15TG5IbzQ4LWRZckRqTVJpVzVqd2c1T0pYTF9zTkZuc3p0U3BXZVRsLWwwYjlxNk5jczlkY2c?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-23",
-      "headline": "Gossamer Bio Announces Topline Results from the Phase 3 PROSERA Study Evaluating Seralutinib in Pulmonary Arterial Hypertension - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdkZvUnl3T244OUlRM252SzBMZnVFZFlvZXdZQXE3eEY3NTYyVW0zM2ZldGJVajZ3SFlpUHN0ZnVnMFVrR2JYdUFHbVF6MWF6SnBYdEN5MXplZW5fZnZ2aHc5UnRycjdjc3FFTExIVXR3YnQ1aTk3VUFYbFM0clRTc0tkUlJmNmVTMGNMd1Y3MFlkdFJyQ1VyMnllV1RTSjdRUmxhczFoaGFSLXFBWVVTcnJGNEJLQmRRT01IekVYYVZ1Qm41RWczaFl3eFdfM0xuY1hfOFE1eXEyaVZtN0pYa19OYUp6WWs5RzRpS1Z3d2tZek5JYm4zRUd1TQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-23",
-      "headline": "Gossamer's stock sinks after phase 3 pulmonary arterial hypertension fail - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcXZzUG1FRW5RTWxvVWRzQmRTd1BjdXNMWVByZWJucTR2TWZBMWE1U09DbnJMZjJhN2ZWM01YX0I1b0hwZEltRzNwQUg5ZWVFbWVRX3RjTGh6bVd4WGZPTVhMN2RFYmgtV3J0eDhfc2hfSlg4WUhFRDRmRWw3bTRnektGQ2xLLW1QZmNhZzA4LTA4b3JZVWtjSklMQTlZLTBCM1NhTnBtc2lqNnVIdEhDT1FYMURqcUNqRk11MXc3ZVloT2REOXc?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-02-23",
-      "headline": "Novo Nordisk sinks 16% after weight loss drug fails to match Eli Lilly's in trial - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenhCczZXZ2N1MnVxZk4wZENfbjh4LXFBYVc3RVc5VmF4dVFNa0s5Y0V0NHhTTWF6TEZWUmJtQTF3U1VTaEUzTFVkYkx3VWt5R0JfaEF3WnNkdnN1M2VVT2VTeExBNk1rNzJQQzJoVlp0eFh0V0IzYU1lUVdhX1c2Vm9hbThiTGRyblJiYVU4ajVHRzjSAZgBQVVfeXFMTk1ObWFJcUdYWklUTnVyak9KTzB0dWd4R2hOdGQzY3V5dVF1YzRmaWpteFFVeWlCVnlOMDZ3MlVLUF9JTGhyUXZSSTJHa3dNN1I5VjZJd05EbWlYbm8yQzdob2dpTVYwUms1VUtldFdQSi0zVU4tSXg2dGNoU29sN3R2TFNTdmdTY29wcTRpUHhtdThHZWQxOUY?oc=5",
-      "outcome": "Failed",
-      "phase": "",
       "significance": "Missed primary",
       "target": "",
       "moa": ""
