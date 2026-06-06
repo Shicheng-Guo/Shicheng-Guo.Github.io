@@ -2,7 +2,7 @@
 layout: page
 title: About
 eyebrow: The Story
-tagline: A statistical geneticist turning data into therapies.
+tagline: Human data, genomics, and agentic AI for end-to-end drug discovery.
 header: About me
 group: navigation
 description: Biography of Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals.
@@ -13,8 +13,10 @@ description: Biography of Shicheng Guo, Ph.D. — Senior Director of Translation
 I am **Shicheng Guo, Ph.D.**, Senior Director of **Translational Genetics & Data Science** at
 [Arrowhead Pharmaceuticals](https://arrowheadpharma.com), where I lead human-genetics-driven
 target discovery and biomarker strategy for RNA-based therapeutics. My work sits where
-computational genomics, statistical genetics, and machine learning meet drug development —
-translating population-scale biology into medicines.
+**human data, genomics, and AI** meet drug development — using population-scale biology,
+biobanks, and real-world evidence to power an **end-to-end, AI-native discovery engine**,
+increasingly orchestrated by **agentic AI systems** that reason, plan, and act across the
+target-to-medicine pipeline.
 
 ## Background
 
@@ -43,16 +45,37 @@ that identified **FGF6** as a new iron-metabolism gene — work published in
 
 ## Focus today
 
-At Arrowhead, I connect human genetics, functional genomics, and AI/ML to:
+My work centers on a simple thesis: **the best medicines start in human data, and AI is how we
+read that data end to end.** I build the bridge from population-scale genetics to validated
+programs, and from manual analysis to autonomous, agent-driven discovery.
 
-- **Identify and validate drug targets** grounded in human-genetic evidence and the druggable genome
-- **Build biomarker and patient-stratification strategies** for RNA therapeutics
-- **Scale data science infrastructure** across multi-omic and clinical datasets to support program decisions
+### Human data, genomics & biobanks
+
+- **Human-genetics-first target discovery** — anchoring targets in genetic causal evidence across
+  the druggable genome, drawing on biobanks (UK Biobank, FinnGen, *All of Us*, eMERGE, PMRP) and
+  rare-variant consortia such as [BRaVa]({{ site.url }}/consortium/).
+- **Multi-omic & functional genomics** — integrating GWAS, exome/rare-variant, eQTL, methylation,
+  and single-cell data to move from association to mechanism.
+- **Real-world evidence (RWE)** — linking EHR, claims, and registry data to genetics for
+  patient stratification, indication selection, and biomarker strategy.
+
+### AI, agents & agentic systems
+
+- **AI/ML for discovery** — predictive models for target prioritization, variant effect, and
+  biomarker discovery across multi-omic and clinical data.
+- **Agentic AI & autonomous systems** — designing **AI agents** and multi-agent workflows that
+  plan, retrieve, analyze, and verify across the discovery stack — turning fragmented, manual
+  steps into reproducible, self-checking pipelines.
+- **End-to-end drug discovery** — connecting human-data evidence, target validation, biomarker
+  and patient-selection strategy, and program decisions into one AI-native loop.
+
+### How I got here
 
 Across my career I have applied case-control, pedigree-based linkage, association, and transmission
 disequilibrium analyses under additive, dominant, recessive, and compound-heterozygous models —
 with mixed-model correction for population structure and relatedness, multi-phenotype joint analysis,
-and causal inference — to find and validate disease genes.
+and causal inference — to find and validate disease genes. That statistical-genetics foundation is
+what I now scale with AI and agentic systems.
 
 ---
 
