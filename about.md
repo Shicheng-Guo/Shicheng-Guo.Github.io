@@ -18,30 +18,46 @@ biobanks, and real-world evidence to power an **end-to-end, AI-native discovery 
 increasingly orchestrated by **agentic AI systems** that reason, plan, and act across the
 target-to-medicine pipeline.
 
-## Background
+## Background — the road to an AI-native, end-to-end discovery vision
 
-I earned my Ph.D. at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University) in 2014
+My vision is an **end-to-end drug-discovery engine built on human data and run by AI** — where
+genomics, biobanks, and real-world evidence feed agentic systems that move autonomously from
+biology to validated medicine. Every stage of my career has been a building block toward it.
+
+**Learning the language of human data.** I earned my Ph.D. at
+[Fudan University](https://en.wikipedia.org/wiki/Fudan_University) in 2014
 under Prof. [Li Jin](https://en.wikipedia.org/wiki/Jin_Li), with the support of
-Prof. Jiucun Wang and Prof. [Momiao Xiong](https://sph.uth.edu/research/centers/hgc/xiong/).
-I completed postdoctoral training at the
+Prof. Jiucun Wang and Prof. [Momiao Xiong](https://sph.uth.edu/research/centers/hgc/xiong/) —
+where I learned to read population-scale human biology as data, the raw material of everything
+that follows.
+
+**Genomics & epigenomics at scale.** In postdoctoral training at the
 [University of Texas Health Science Center at Houston](https://en.wikipedia.org/wiki/University_of_Texas_Health_Science_Center_at_Houston)
 (2014–2015) and the [University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego)
-(2015–2017), where I contributed to landmark studies of the human
+(2015–2017), I contributed to landmark studies of the human
 [PBMC methylome](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000533),
 the [silkworm methylome](https://www.nature.com/articles/nbt.1626), hepatocellular and pancreatic
 cancer methylomes, CD4+ methylomes in rheumatoid arthritis, and
-[tissue-of-origin mapping](https://www.nature.com/articles/ng.3805) from cell-free circulating DNA methylation.
+[tissue-of-origin mapping](https://www.nature.com/articles/ng.3805) from cell-free circulating DNA methylation —
+turning genomic and epigenomic signal into diagnosis, prognosis, and biomarkers.
 
-From 2017, I worked at the [Marshfield Clinic Research Institute](https://www.marshfieldresearch.org/cpmr)
-and the University of Wisconsin–Madison on genetic epidemiology and the diagnostic and prognostic
-roles of epigenetic variation in human complex disease — especially autoimmune disease and cancer.
-There I applied large-scale bioinformatics and data-mining to the
+**Biobanks, RWE & disease genes.** From 2017, at the
+[Marshfield Clinic Research Institute](https://www.marshfieldresearch.org/cpmr)
+and the University of Wisconsin–Madison, I worked at the intersection of genetics and the clinic —
+linking genome data to electronic health records and registries, the foundation of **real-world
+evidence**. I applied large-scale bioinformatics and data-mining to the
 [Personalized Medicine Research Project (PMRP)](https://www.marshfieldresearch.org/cpmr/pmrp) cohort
-alongside Roadmap, eMERGE, GTEx, UK Biobank, TCGA, and other major resources to map disease
+alongside Roadmap, eMERGE, GTEx, UK Biobank, TCGA, and other **biobanks** to map disease
 susceptibility genes and biomarkers. In 2019, I introduced a novel
 [gene-based recessive diplotype approach](https://github.com/Shicheng-Guo/marshfield/tree/master/2ALOF)
 that identified **FGF6** as a new iron-metabolism gene — work published in
 [*Blood*](http://www.bloodjournal.org/content/133/17/1888.abstract).
+
+**From human genetics to medicines, now run by AI.** At Arrowhead, these threads converge:
+human-genetics-driven target discovery, biomarkers, and patient stratification for RNA
+therapeutics — and the build-out of **AI and agentic systems** that connect human data, genomics,
+and RWE into one autonomous, **end-to-end discovery loop**. That is the vision the rest of my work
+is in service of.
 
 ## Focus today
 
