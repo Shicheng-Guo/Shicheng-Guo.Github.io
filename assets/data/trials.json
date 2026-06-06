@@ -1,6 +1,28 @@
 {
-  "generated": "2026-06-05T10:38:00+00:00",
+  "generated": "2026-06-06T09:12:48+00:00",
   "trials": [
+    {
+      "date": "2026-06-05",
+      "headline": "Lundbeck’s bocunebart meets primary endpoint in Phase IIb migraine trial - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVy1tNGd6VlF4V2NVdTB6QjBUZVZWMXRUb3N0bWJTUHZ3LTFfR0JuUHZ1aTNOZGRyUUhrU3hKNm1nX2d4QmxTby00cFFmMGEtYVVMUUlYdWoySzhSNUhMVWNvVzRKcENwQnUwbEFjVGMtdW1BdU8yZHU0dmFzbXllQ0ZydEgxcVBnbVVKTTVEbzZSa2F0OFNEOHE3bmtqc3UyTG83NEpOZFJibEoyZW5sWVI3SFFyUQ?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-05",
+      "headline": "Zealand Pharma reports phase 2 weight loss drug trial results By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlBXVk9RY2hnczlpanZkSUN2ODllejN5V1BjY0NIQ2lGSVNnRjJlcVc3c3cyQ2haaklNT0hnSUV3b1VsSGM1THF0QURMVks0dEhKMXBkWm12cTBlQXFOSjdmQ0RkYWZKYURkMlp2NEU5RFNjbC1HaWJidkxnWFR1YlkxNkRBdUoyWHc1VkphZEdQOHpPT0VVaG1RX1k3ZnpwdVhCcGhfSERzUHpRSjA4QmRXdDdaVXFua2hkSVNBaw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-06-04",
       "headline": "World's First CLDN18.2 ADC for Regulatory Review: Innovent Biologics Announces IBI343 (arcotatug tavatecan) Met Primary Endpoint in International Phase 3 Study in Advanced Refractory Gastric Cancer and NDA Accepted by China NMPA - The Manila Times",
@@ -99,6 +121,17 @@
       "significance": "Met primary",
       "target": "",
       "moa": ""
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "World's First CLDN18.2 ADC for Regulatory Review: Innovent Biologics Announces IBI343 (arcotatug tavatecan) Met Primary Endpoint in International Phase 3 Study in Advanced Refractory Gastric Cancer and NDA Accepted by China NMPA - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzdNZ1kwVnRqZFFlQUx3RlFkaE5mVTFDaDdLeHZlZnU5bFNWYUVfcmJJYnp1X0NzSmhJUmkwU2dvUWxnV3lJLUF3RVJURXVxazJIc2UtUEY4cEZlY2VEQ2dQQ2hqVVVfandUdzVXSTFJQ193eklrREdRRlYzck9wQjUzWVVmdVo0Q2twalAxbm0tN3FOZGJMc0lB?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "CLDN18.2",
+      "moa": "ADC"
     },
     {
       "date": "2026-06-03",
@@ -284,6 +317,17 @@
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-02",
+      "headline": "Oculis phase 3 DIAMOND trials miss vision endpoints in diabetic macular edema - Ophthalmology Times",
+      "source": "Ophthalmology Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamp5VTktR3N5ZXBrRGY3aEFIRVI2SG1kOTg1N2ZRbkpIdzNRcHV3emY3YVFoQXRWQnNzSTk4cnVDSmpuUkVfamRRTXdwaEtVYV9RWTQxSVJkUDlpTU5nTklJTmRRRFk0MEFFOEJJOEZPcjVKYTY5VDZ5Zl9uYi0wUFVjckpZdllSLTZUdEtMNXFOeV9XMUY1aGVwZnN1ZWVXOXdxU0N0LWJneTRad0diSS1wR3VSdnpE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -493,17 +537,6 @@
       "outcome": "Success",
       "phase": "Phase 3",
       "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-29",
-      "headline": "What Does Grail's NHS-Galleri Trial Failure Mean for Multi-Cancer Early Detection - Kavout",
-      "source": "Kavout",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGp3ejRFekZDR1k2TTdTM1dvZ1Z6U3R5djdkU0xuQmEyYUhZc2ktM2VfVXVtVXdjWmt0dllZZjd4dHN0SFFPdE5mTFVFbGJ2elhLazF1S3ljdkZDLUpwTlcyOXhaWS01aUx1RnpMOFV5dGJWWV96TkFXeWQxOWx0TEV2QjZOb0Z3alpZaTJWdGd1NFBvRmNPLVZqSjYxekk5REpGbUdTREtFdFo3SUtONVBEMkp2QWs?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
       "target": "",
       "moa": ""
     },
@@ -2114,6 +2147,28 @@
       "moa": ""
     },
     {
+      "date": "2026-03-27",
+      "headline": "Tozorakimab met primary endpoint in both OBERON and TITANIA Phase III trials in patients with COPD - AstraZeneca",
+      "source": "AstraZeneca",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRzhpVDFqNk1OdzJaRmZNSlNqSnZwbG5kdllSZlV0by1PZU5CS19JTkZxczBla2lJcHo2Q25sS011cEdLM0RSWlBLN2Y0cGpIVy1PTU1YRlFYOXhaUV9ZRjAta01SMXkxOWwxQzZyMXhuUk96VF96dGU2Nl9qOWJwNURNSXhhcktPemlqeHpsTVA1ZUtPRkxURVlyckNrX1hUTDdFbWFheUp4c3RGNEl5RDBuTU1TV045Z3NCcFJxSWhnemRhMWJ6VWhmMWF2UzRtWm85a0NSa0ZOYU9OeDdreHJua2FpWW5CRHJtZkp4UVNKUHV1Z1ZR?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-03-27",
+      "headline": "Tozorakimab met primary endpoint in both OBERON and TITANIA Phase III trials in patients with COPD - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdlRtUG0wYW5sTjl1dzE3b0xKV3BmYy1adDFuRS1ROWl4TUVfZ0h6dERDRDl6TlRfQzVHRnNiMktadm5GdFBldnAtdzdISU1OM0E2Q01HbGJ5T2dRRTlfMGxLcnd0T3hnOFd6TE43NnNSZ2F4MjNXMWlsVjFmWWxTWFE2UHZzVTUxTWdjUmNPTTJhcVJUdG9HYm8tS2JyTkxvVEJxOHdkR0F6UmJ4YmNweFYwamc1REFtX3VvT192akdfT2lIOGplZ3dpNFhCaHQ3cUlwNVRHLW5rZGFhUzB6a2dEWHdJOUx6dGpz?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-03-26",
       "headline": "Kodiak Sciences Announces Positive Topline Results in GLOW2, the Second Phase 3 Study in Diabetic Retinopathy, Demonstrating Superiority of Zenkuda™ (tarcocimab tedromer) Over Sham - PR Newswire",
       "source": "PR Newswire",
@@ -2444,6 +2499,17 @@
       "moa": ""
     },
     {
+      "date": "2026-03-16",
+      "headline": "Rhythm Pharmaceuticals Announces Topline Results from Phase 3 EMANATE Trial - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWllHRjh4RE4xVlhWX092bnZLM0tmSGVtNWlXdG5LZHh5S0lsckk0Z201V1JQa3ItbENhTHJOZXFMdnZmM1lHNGFfbkNZMEtGZjhkb3c5LVJuTUdqWEtZWjRQd2hIblpVUjRBaXNGeGJESENFVG9HRlpFM1NFbmQ2XzBiSGhLejNrUkxuUGw3aTg4REdPZGRCRTBZeERHQmVmVW5Zc3hCWU10NjBjc2ZNZUUzRlVSQ1dhRlIzSDVxVzM1NnlLVWV0QVBQX3BYMkwtTjdwWmtVc21jZU1kMENn?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-03-13",
       "headline": "Gut microbiota modulation via repeated donor fecal transplantation improves motor and gastrointestinal symptoms in drug-naïve Parkinson’s disease: a randomized phase 2 trial - Nature",
       "source": "Nature",
@@ -2682,72 +2748,6 @@
       "outcome": "Readout",
       "phase": "Phase 2",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-05",
-      "headline": "This One Data Readout Could Make Or Break Revolution Medicines (NASDAQ:RVMD) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeEVXUVVFaFhRd0RTZFRiR2FKRjZNWlh6VHlnWHJZSElYTmtLT0I2TTdUTlcyd3FQbXV0M19xRktPMS1samEzbFhFX3dYT2hRekJFcmtCc2xQaC10NEFfWi1IUzBYbnVSRU5wdkJmQnF0a25lRVNOZ1BDVTBZcmZJTF9Dbk10cC1QM01MMmJQRF9RQlpKRE0taVItY2NlZ3Z1QUJucnp3?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-05",
-      "headline": "New Phase 2 Signal Detection Results: HLP004 for Moderate-to-Severe Generalized Anxiety Disorder - Psychiatric Times",
-      "source": "Psychiatric Times",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZThwWEExZUl3NmNzOHZDWHA0b2VCRllmdXNraVNWVURQS2wyaERtQmE3ODBkdUZQRzVaVFdRdURHelFycHpzWXRnS3V5V190Qm9panhRSklPcHl4eWZ0al9aZW9CS0kxWEllSV9La2I3eG9tb19zeERHZnpjUjlSNFRwOXJVQ1JIcnk3eFdEOWZWX0pJUGRVSFpiQ2RFZlVmTFZ1ZmNIekp1NlBMZ0R2LXI4QkFNSUxjYjdVTVFlZzZOTkJoN0hfX282aFFiQQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-05",
-      "headline": "Oral remibrutinib hits Phase 3 primary endpoint for inducible hives - 2 Minute Medicine",
-      "source": "2 Minute Medicine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkFYNDMtQ3IycUZPQl93Vk1oU1lxNlE4Qkx0a1ZRRV9vMVg0YUROT3dfa3lhLWtod0FTY052Mno2N0pWdjBBWjBqcEw1dnlEY2ViQjcxT2lEblV3RDRwaTUwejMycXhBcVFTalZjRFVQWmxfNHZ4c2tjdnhidDJrRlJqeGJTQTZwd2ZqSzZwMng0dS1nVmFNeDVBRWVPUE5oQkE?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-04",
-      "headline": "Can-Fite’s Namodenoson Successfully Meets Primary Endpoint in Phase 2a Pancreatic Cancer Study - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPenB4eFpmN3c4QXpCTXZwQ1A3anZTWDFPQXQ1dHhsMGU4MUpZVzdNQUpYem05b1pkZWlLMnNibjYtcXI4TnE4NUVrUnNkU1BqbUh0b0tPTjdGZkNXN0M1Z1lzeFVyYnVPbF9yeEw5TVJMUHZ5VjBYU21MN1dNSU5iZkJCWk1wb1hmMHVPMnB1VDEwRHJPVVpGTzU2alJ1Rm5GV0RXQ0paQTlBalFOYVJXekdzaW9YTjlqcEtOZ0pTeTdVU1lrcWh4QTZQNW1KMVc2d0VyN0t2UmtfWjI0Zm9walV2cWdQdWw4ZFg0STJDMmFTYkhQem5BcXJB?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-04",
-      "headline": "Theravance shuts down R&D efforts and cuts workforce by half after Phase III trial failure - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTFpUjJfQkdxUWJPbU5aZ2ZzS0hjblVsLWVYZWpKZmJNdG84Q09mSng2bGFzRHRyX1AyRHEyT21scnJId1IzQ2xYa0wxLTUxX1VxUjRsckhJc2NhdWZrbTc5UlduamxNdGRMbjQ3dlYtajRIbkhPRnFPN1FaalpDSjVFVHp6Y29abm5RMnk2eFE1WGxGdlI1SW54Y0hhcHRFQ0x0OE13U0c?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-03",
-      "headline": "Theravance halves head count, ends all R&D work after phase 3 rare disease fail - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHNiLWtDM1pwdzBvOHdBZV9OTENzajBJOFJnQ3Y4WVNOYnYwZkczUTByN04wUGEtbHp5amxEMVV2NUhDdVBVcExLRE84aF9Wd3NUT3h2RmNuc3lnWlR6NW9PYjFmbUlSMVNxMk5uQmZjeFJDaXJnSHJTaGRWcU1hWG5xU3Q4VnBiY29QampyZzB0T19oOGlCSjM3MVgwNHdWWDE1cEc1OEp5YUN2TVdN?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
       "target": "",
       "moa": ""
     }
