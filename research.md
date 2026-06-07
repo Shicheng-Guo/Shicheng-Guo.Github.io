@@ -27,7 +27,7 @@ description: "Research areas and projects of Shicheng Guo, Ph.D. — translation
   </div>
   <div class="hl-card">
     <i class="fa-solid fa-chart-line"></i>
-    <h3>Statistical Genetics &amp; GWAS</h3>
+    <h3>Computational Biology</h3>
     <p>Association, rare-variant and gene-based methods (SKAT, recessive diplotype) across biobanks — UK Biobank, eMERGE, PMRP, TCGA, GTEx.</p>
   </div>
   <div class="hl-card">
