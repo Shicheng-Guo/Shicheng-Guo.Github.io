@@ -5,9 +5,9 @@ nav: research
 permalink: /research/
 wide: true
 content_class: archive
-eyebrow: "Genomics · Epigenetics · Data Science"
+eyebrow: "Genomics · Biobank &amp; RWE · Data Science"
 tagline: "Translating human genetics into validated drug targets and biomarkers."
-description: "Research areas and projects of Shicheng Guo, Ph.D. — translational genetics, epigenetics, statistical genetics, and data science."
+description: "Research areas and projects of Shicheng Guo, Ph.D. — translational genetics, biobank & real-world evidence, statistical genetics, and data science."
 ---
 
 <p class="lead">My research turns population-scale human biology into therapeutic decisions — identifying which targets are worth pursuing and which patients a medicine can help.</p>
@@ -21,9 +21,9 @@ description: "Research areas and projects of Shicheng Guo, Ph.D. — translation
     <p>Human-genetics-driven target identification and validation across the druggable genome, de-risking discovery with population evidence.</p>
   </div>
   <div class="hl-card">
-    <i class="fa-solid fa-wave-square"></i>
-    <h3>Epigenetics &amp; Methylomics</h3>
-    <p>Genome-wide methylation, methylation haplotype blocks, cell-free DNA, and aging clocks for diagnosis, tissue-of-origin, and prognosis.</p>
+    <i class="fa-solid fa-database"></i>
+    <h3>Biobank &amp; RWE</h3>
+    <p>Population-scale biobanks (UK Biobank, eMERGE, PMRP) and real-world evidence from EHR and claims to drive target validation, safety, and patient stratification.</p>
   </div>
   <div class="hl-card">
     <i class="fa-solid fa-chart-line"></i>
@@ -32,7 +32,7 @@ description: "Research areas and projects of Shicheng Guo, Ph.D. — translation
   </div>
   <div class="hl-card">
     <i class="fa-solid fa-microchip"></i>
-    <h3>Data Science &amp; AI/ML</h3>
+    <h3>Data Science &amp; Agentic AI</h3>
     <p>Scalable bioinformatics pipelines and predictive models that turn multi-omic and clinical big data into program decisions.</p>
   </div>
 </div>
