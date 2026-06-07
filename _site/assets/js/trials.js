@@ -1,0 +1,128 @@
+// trials.js — renders the clinical-trial readout tracker from
+// assets/data/trials.json (built daily by the update-trials GitHub Action).
+// Client-side filtering (outcome/phase/target/MOA), text search, date sort.
+
+(function () {
+  const tableMount = document.getElementById("trialTable");
+  if (!tableMount) return;
+  const statusEl  = document.getElementById("trialStatus");
+  const searchEl  = document.getElementById("trialSearch");
+  const updatedEl = document.getElementById("trialUpdated");
+  const countEl   = document.getElementById("trialCount");
+  const filterBoxes = {
+    outcome: document.getElementById("trialOutcome"),
+    phase:   document.getElementById("trialPhase"),
+  };
+  const DATA_URL = "/assets/data/trials.json";
+
+  let all = [];
+  const active = { outcome: "", phase: "" };
+  let query = "";
+  let sortDesc = true;
+
+  function el(tag, attrs, ...kids) {
+    const node = document.createElement(tag);
+    if (attrs) for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k === "class") node.className = v;
+      else if (k.startsWith("on") && typeof v === "function") node.addEventListener(k.slice(2), v);
+      else node.setAttribute(k, v === true ? "" : String(v));
+    }
+    for (const c of kids.flat(Infinity)) {
+      if (c == null || c === false || c === true) continue;
+      node.appendChild(c instanceof Node ? c : document.createTextNode(String(c)));
+    }
+    return node;
+  }
+
+  const uniqueSorted = (key) => [...new Set(all.map(d => d[key]).filter(Boolean))].sort();
+
+  function renderFilters() {
+    Object.entries(filterBoxes).forEach(([key, box]) => {
+      if (!box) return;
+      box.replaceChildren();
+      ["", ...uniqueSorted(key)].forEach(val => {
+        const isActive = active[key] === val;
+        box.appendChild(el("button", {
+          class: "filter-pill" + (isActive ? " is-active" : ""),
+          type: "button",
+          "aria-pressed": isActive ? "true" : "false",
+          onclick: () => { active[key] = val; renderFilters(); renderTable(); }
+        }, val || "All"));
+      });
+    });
+  }
+
+  function matches(d) {
+    if (active.outcome && d.outcome !== active.outcome) return false;
+    if (active.phase && d.phase !== active.phase) return false;
+    if (query && !d.headline.toLowerCase().includes(query)) return false;
+    return true;
+  }
+
+  function outcomeBadge(o) {
+    const cls = "deal-badge deal-badge--" + (o || "readout").toLowerCase().replace(/[^a-z]/g, "");
+    return el("span", { class: cls }, o || "Readout");
+  }
+
+  function renderTable() {
+    const rows = all.filter(matches);
+    rows.sort((a, b) => sortDesc ? (b.date || "").localeCompare(a.date || "")
+                                 : (a.date || "").localeCompare(b.date || ""));
+    if (countEl) countEl.textContent = rows.length + (rows.length === 1 ? " update" : " updates");
+
+    tableMount.replaceChildren();
+    if (!rows.length) {
+      tableMount.appendChild(el("p", { class: "deal-empty" }, "No trial updates match these filters."));
+      return;
+    }
+
+    const head = el("tr", null,
+      el("th", { class: "deal-th-date", onclick: () => { sortDesc = !sortDesc; renderTable(); }, title: "Sort by date" },
+        "Date " + (sortDesc ? "▾" : "▴")),
+      el("th", null, "Trial / Drug"),
+      el("th", null, "Phase"),
+      el("th", null, "Outcome"),
+    );
+
+    const body = rows.map(d => el("tr", null,
+      el("td", { class: "deal-date" }, d.date || "—"),
+      el("td", { class: "deal-headline" },
+        el("a", { href: d.link, target: "_blank", rel: "noopener" }, d.headline),
+        d.source && el("span", { class: "deal-source" }, d.source)
+      ),
+      el("td", null, d.phase || "—"),
+      el("td", null, outcomeBadge(d.outcome)),
+    ));
+
+    tableMount.appendChild(
+      el("div", { class: "deal-table-wrap" },
+        el("table", { class: "deal-table" }, el("thead", null, head), el("tbody", null, body))
+      )
+    );
+  }
+
+  function setStatus(msg, isError) {
+    if (!statusEl) return;
+    statusEl.hidden = !msg;
+    statusEl.textContent = msg || "";
+    statusEl.classList.toggle("is-error", !!isError);
+  }
+
+  if (searchEl) searchEl.addEventListener("input", e => { query = e.target.value.trim().toLowerCase(); renderTable(); });
+
+  setStatus("Loading trial updates…", false);
+  fetch(DATA_URL, { cache: "no-cache" })
+    .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(data => {
+      all = (data.trials || []).filter(d => d.headline && d.link);
+      setStatus("", false);
+      if (updatedEl && data.generated) {
+        const t = new Date(data.generated).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+        updatedEl.textContent = "Last updated " + t + " · " + all.length + " updates tracked";
+      }
+      renderFilters();
+      renderTable();
+    })
+    .catch(() => setStatus("Couldn't load the trial data yet. It is generated by the daily update job — check back after the first run.", true));
+})();

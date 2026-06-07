@@ -1,249 +1,96 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Exploring the human genome (Part 2) - Transcripts</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>Exploring the human genome (Part 2) - Transcripts — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/genome/2016/11/01/AnnotationDbi_part2">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>Exploring the human genome (Part 2) - Transcripts </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Exploring the human genome (Part 2) - Transcripts" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>01 November 2016</span>
-    </div>
-    <div class="content">
-      <h1 id="how-many-transcripts-and-proteins-do-genes-have">How many transcripts and proteins do genes have?</h1>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">November 1, 2016</span>
+  <h1 class="page__title">Exploring the human genome (Part 2) - Transcripts</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<h1 id="how-many-transcripts-and-proteins-do-genes-have">How many transcripts and proteins do genes have?</h1>
 
 <p>In <a href="https://shiring.github.io/genome/2016/10/23/AnnotationDbi">Exploring the human genome (Part 1) - Gene Annotations</a> I examined Ensembl, Entrez and HGNC gene annotations with <a href="http://www.bioconductor.org/packages/release/bioc/html/AnnotationDbi.html">AnnotationDbi</a> via three R packages: <a href="http://bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html">org.Hs.eg.db</a>, <a href="https://bioconductor.org/packages/release/data/annotation/html/EnsDb.Hsapiens.v79.html">EnsDb.Hsapiens.v79</a> and <a href="http://bioconductor.org/packages/release/data/annotation/html/TxDb.Hsapiens.UCSC.hg38.knownGene.html">TxDb.Hsapiens.UCSC.hg38.knownGene</a>.</p>
 
@@ -265,68 +112,60 @@
 
 <p>With org.Hs.eg.db I am using Entrez and Ensembl IDs to obtain Ensembl transcript IDs, which show splice variants of a gene, including protein-coding and non-coding transcripts.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">AnnotationDbi</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">AnnotationDbi</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">org.Hs.eg.db</span><span class="p">)</span><span class="w">
 
 </span><span class="n">ENTREZID_org</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">keys</span><span class="p">(</span><span class="n">org.Hs.eg.db</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">)</span><span class="w">
 </span><span class="n">ENSEMBL_org</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">keys</span><span class="p">(</span><span class="n">org.Hs.eg.db</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENSEMBL"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Summarize number of transcripts per gene Entrez ID
+</span><span class="c1"># Summarize number of transcripts per gene Entrez ID</span><span class="w">
 </span><span class="n">org_trans_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">AnnotationDbi</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">org.Hs.eg.db</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENTREZID_org</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"ENSEMBLTRANS"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">)</span><span class="w">
 </span><span class="n">org_transcript_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">org_trans_entrez</span><span class="o">$</span><span class="n">ENTREZID</span><span class="p">))</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">org_transcript_num_table_entrez</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Entrez"</span><span class="p">,</span><span class="w"> </span><span class="s2">"orgDb"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Summarize number of transcripts per gene Ensembl ID
+</span><span class="c1"># Summarize number of transcripts per gene Ensembl ID</span><span class="w">
 </span><span class="n">org_trans_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">AnnotationDbi</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">org.Hs.eg.db</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENSEMBL_org</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"ENSEMBLTRANS"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENSEMBL"</span><span class="p">)</span><span class="w">
 </span><span class="n">org_transcript_num_table_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">org_trans_ensembl</span><span class="o">$</span><span class="n">ENSEMBL</span><span class="p">))</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">org_transcript_num_table_ensembl</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Ensembl"</span><span class="p">,</span><span class="w"> </span><span class="s2">"orgDb"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># how many NAs are in each column?
+</span><span class="c1"># how many NAs are in each column?</span><span class="w">
 </span><span class="n">sapply</span><span class="p">(</span><span class="n">org_trans_entrez</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##     ENTREZID ENSEMBLTRANS 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##     ENTREZID ENSEMBLTRANS 
 ##            0        52081
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">sapply</span><span class="p">(</span><span class="n">org_trans_ensembl</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sapply</span><span class="p">(</span><span class="n">org_trans_ensembl</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##      ENSEMBL ENSEMBLTRANS 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##      ENSEMBL ENSEMBLTRANS 
 ##            0        17678
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">org_trans_entrez</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">org_trans_entrez</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##   ENTREZID    ENSEMBLTRANS
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##   ENTREZID    ENSEMBLTRANS
 ## 1        1            &lt;NA&gt;
 ## 2        2            &lt;NA&gt;
 ## 3        3 ENST00000543404
 ## 4        3 ENST00000566278
 ## 5        3 ENST00000545343
 ## 6        3 ENST00000544183
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">org_trans_ensembl</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">org_trans_ensembl</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##           ENSEMBL    ENSEMBLTRANS
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##           ENSEMBL    ENSEMBLTRANS
 ## 1 ENSG00000121410            &lt;NA&gt;
 ## 2 ENSG00000175899            &lt;NA&gt;
 ## 3 ENSG00000256069 ENST00000543404
 ## 4 ENSG00000256069 ENST00000566278
 ## 5 ENSG00000256069 ENST00000545343
 ## 6 ENSG00000256069 ENST00000544183
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Strangely, some genes, like A1BG (Entrez ID 1) are listed with one gene ID but no Ensembl transcript ID. This is weird, especially since I happen to know for this particular gene that it has several transcripts. Also, because each gene must have at least one transcript, all NAs are counted as 1 transcript in the summary table.</p>
 
@@ -338,38 +177,34 @@
 
 <p>TxDb.Hsapiens.UCSC.hg38.knownGene only has Entrez IDs to identify genes and UCSC transcript ID to identify transcripts.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">TxDb.Hsapiens.UCSC.hg38.knownGene</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">TxDb.Hsapiens.UCSC.hg38.knownGene</span><span class="p">)</span><span class="w">
 
 </span><span class="n">ENTREZID_TxDb</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">keys</span><span class="p">(</span><span class="n">TxDb.Hsapiens.UCSC.hg38.knownGene</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 </span><span class="n">TxDb_trans</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">AnnotationDbi</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">TxDb.Hsapiens.UCSC.hg38.knownGene</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENTREZID_TxDb</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"TXID"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Summarize number of transcripts per gene Entrez ID
+</span><span class="c1"># Summarize number of transcripts per gene Entrez ID</span><span class="w">
 </span><span class="n">TxDb_transcript_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">TxDb_trans</span><span class="o">$</span><span class="n">GENEID</span><span class="p">))</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">TxDb_transcript_num_table_entrez</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Entrez"</span><span class="p">,</span><span class="w"> </span><span class="s2">"TxDb"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># how many NAs are in each column?
+</span><span class="c1"># how many NAs are in each column?</span><span class="w">
 </span><span class="n">sapply</span><span class="p">(</span><span class="n">TxDb_trans</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## GENEID   TXID 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## GENEID   TXID 
 ##      0      0
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">TxDb_trans</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">TxDb_trans</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##   GENEID   TXID
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##   GENEID   TXID
 ## 1      1 166436
 ## 2      1 166437
 ## 3      1 166438
 ## 4      1 166439
 ## 5      1 166440
 ## 6      1 166441
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Here, we don’t have NAs in the data and in contrast to org.Hs.eg.db we find at least six transcripts for A1BG.</p>
 
@@ -379,7 +214,7 @@
 
 <p>Like org.Hs.eg.db EnsDb.Hsapiens.v79 has Entrez and Ensembl IDs in reference to Ensembl transcript IDs.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">)</span><span class="w">
 
 </span><span class="n">ENSEMBL_EnsDb</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">keys</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 </span><span class="n">ENTREZ_EnsDb</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">keys</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">)</span><span class="w">
@@ -387,92 +222,82 @@
 </span><span class="n">EnsDb_trans_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENSEMBL_EnsDb</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"TXID"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 </span><span class="n">EnsDb_trans_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENTREZ_EnsDb</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"TXID"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># somehow there are empty fields in the Entrez ID column, replacing them with NA
+</span><span class="c1"># somehow there are empty fields in the Entrez ID column, replacing them with NA</span><span class="w">
 </span><span class="n">EnsDb_trans_entrez</span><span class="p">[</span><span class="n">EnsDb_trans_entrez</span><span class="w"> </span><span class="o">==</span><span class="w">  </span><span class="s2">""</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="kc">NA</span><span class="w">
 
-</span><span class="c1"># how many NAs are in each column?
+</span><span class="c1"># how many NAs are in each column?</span><span class="w">
 </span><span class="n">sapply</span><span class="p">(</span><span class="n">EnsDb_trans_entrez</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## ENTREZID     TXID 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## ENTREZID     TXID 
 ##    47828        0
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># and removing NA rows
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># and removing NA rows</span><span class="w">
 </span><span class="n">EnsDb_trans_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">EnsDb_trans_entrez</span><span class="p">[</span><span class="o">!</span><span class="nf">is.na</span><span class="p">(</span><span class="n">EnsDb_trans_entrez</span><span class="o">$</span><span class="n">ENTREZID</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># order by Entrez ID to compare with other databases
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># order by Entrez ID to compare with other databases</span><span class="w">
 </span><span class="n">EnsDb_trans_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">EnsDb_trans_entrez</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">EnsDb_trans_entrez</span><span class="o">$</span><span class="n">ENTREZID</span><span class="p">),]</span><span class="w">
 
 </span><span class="n">head</span><span class="p">(</span><span class="n">EnsDb_trans_ensembl</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##            GENEID            TXID
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##            GENEID            TXID
 ## 1 ENSG00000000003 ENST00000373020
 ## 2 ENSG00000000003 ENST00000496771
 ## 3 ENSG00000000003 ENST00000494424
 ## 4 ENSG00000000003 ENST00000612152
 ## 5 ENSG00000000003 ENST00000614008
 ## 6 ENSG00000000005 ENST00000373031
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">EnsDb_trans_entrez</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">EnsDb_trans_entrez</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##        ENTREZID            TXID
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##        ENTREZID            TXID
 ## 95915         1 ENST00000596924
 ## 95916         1 ENST00000263100
 ## 95917         1 ENST00000595014
 ## 95918         1 ENST00000598345
 ## 95919         1 ENST00000600966
 ## 135994       10 ENST00000286479
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Here, we find five transcripts for A1BG.</p>
 
 <p><br /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Summarize number of transcripts per gene Entrez ID
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Summarize number of transcripts per gene Entrez ID</span><span class="w">
 </span><span class="n">EnsDb_transcript_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">EnsDb_trans_entrez</span><span class="o">$</span><span class="n">ENTREZID</span><span class="p">))</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">EnsDb_transcript_num_table_entrez</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Entrez"</span><span class="p">,</span><span class="w"> </span><span class="s2">"EnsDb"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Summarize number of transcripts per gene Ensembl ID
+</span><span class="c1"># Summarize number of transcripts per gene Ensembl ID</span><span class="w">
 </span><span class="n">EnsDb_transcript_num_table_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">EnsDb_trans_ensembl</span><span class="o">$</span><span class="n">GENEID</span><span class="p">))</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">EnsDb_transcript_num_table_ensembl</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Ensembl"</span><span class="p">,</span><span class="w"> </span><span class="s2">"EnsDb"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># In the Entrez column, there are some with multiple entries
-# divide entries with multiple gene names into one row per gene/ entry
+</span><span class="c1"># In the Entrez column, there are some with multiple entries</span><span class="w">
+</span><span class="c1"># divide entries with multiple gene names into one row per gene/ entry</span><span class="w">
 </span><span class="n">head</span><span class="p">(</span><span class="n">EnsDb_transcript_num_table_entrez</span><span class="p">[</span><span class="n">grep</span><span class="p">(</span><span class="s2">";"</span><span class="p">,</span><span class="w"> </span><span class="n">EnsDb_transcript_num_table_entrez</span><span class="o">$</span><span class="n">Entrez</span><span class="p">),</span><span class="w"> </span><span class="p">])</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##                                     Entrez EnsDb
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##                                     Entrez EnsDb
 ## 13                     100033415;100033421     1
 ## 15                     100033417;100033419     2
 ## 18                     100033421;100033415     1
 ## 40                     100033446;100033449     1
 ## 42 100033448;100033803;100033817;100033810     2
 ## 43                     100033449;100033446     1
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">splitstackshape</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">splitstackshape</span><span class="p">)</span><span class="w">
 </span><span class="n">out</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">cSplit</span><span class="p">(</span><span class="n">EnsDb_transcript_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">splitCols</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Entrez"</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">";"</span><span class="p">,</span><span class="w"> </span><span class="n">direction</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"long"</span><span class="p">),</span><span class="w"> </span><span class="n">stringsAsFactors</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">)</span><span class="w">
 </span><span class="n">out</span><span class="o">$</span><span class="n">Entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">as.character</span><span class="p">(</span><span class="n">out</span><span class="o">$</span><span class="n">Entrez</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># remove duplicates and take the mean
+</span><span class="c1"># remove duplicates and take the mean</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">plyr</span><span class="p">)</span><span class="w">
 </span><span class="n">EnsDb_transcript_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ddply</span><span class="p">(</span><span class="n">out</span><span class="p">,</span><span class="w"> </span><span class="s2">"Entrez"</span><span class="p">,</span><span class="w"> </span><span class="n">numcolwise</span><span class="p">(</span><span class="n">mean</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -482,40 +307,37 @@
 
 <h3 id="entrez-ids">Entrez IDs</h3>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># merging datasets by Entrez ID
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># merging datasets by Entrez ID</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w">
 </span><span class="n">transcript_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">full_join</span><span class="p">(</span><span class="n">org_transcript_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">TxDb_transcript_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Entrez"</span><span class="p">)</span><span class="w">
 </span><span class="n">transcript_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">full_join</span><span class="p">(</span><span class="n">transcript_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">EnsDb_transcript_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Entrez"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># gather for plotting
+</span><span class="c1"># gather for plotting</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">tidyr</span><span class="p">)</span><span class="w">
 </span><span class="n">transcript_num_table_gather_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">transcript_num_table_entrez</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> 
   </span><span class="n">gather</span><span class="p">(</span><span class="n">DB</span><span class="p">,</span><span class="w"> </span><span class="n">count</span><span class="p">,</span><span class="w"> </span><span class="n">orgDb</span><span class="o">:</span><span class="n">EnsDb</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># How many counts are NA?
+</span><span class="c1"># How many counts are NA?</span><span class="w">
 </span><span class="n">sapply</span><span class="p">(</span><span class="n">transcript_num_table_gather_entrez</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## Entrez     DB  count 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Entrez     DB  count 
 ##      0      0  71066
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># removing rows with NA counts
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># removing rows with NA counts</span><span class="w">
 </span><span class="n">transcript_num_table_gather_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">transcript_num_table_gather_entrez</span><span class="p">[</span><span class="o">!</span><span class="nf">is.na</span><span class="p">(</span><span class="n">transcript_num_table_gather_entrez</span><span class="o">$</span><span class="n">count</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
-</span><span class="c1"># because there are only a handful of genes with many transcripts, they can't be plotted together with genes with few transcripts
-# separating them in high and low
+</span><span class="c1"># because there are only a handful of genes with many transcripts, they can't be plotted together with genes with few transcripts</span><span class="w">
+</span><span class="c1"># separating them in high and low</span><span class="w">
 </span><span class="n">transcript_num_table_gather_entrez</span><span class="o">$</span><span class="n">group</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">transcript_num_table_gather_entrez</span><span class="o">$</span><span class="n">count</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">25</span><span class="p">,</span><span class="w"> </span><span class="s2">"high"</span><span class="p">,</span><span class="w"> </span><span class="s2">"low"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># setting factor levels
+</span><span class="c1"># setting factor levels</span><span class="w">
 </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"low"</span><span class="p">,</span><span class="w"> </span><span class="s2">"high"</span><span class="p">)</span><span class="w">
 </span><span class="n">transcript_num_table_gather_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">within</span><span class="p">(</span><span class="n">transcript_num_table_gather_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">group</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">group</span><span class="p">,</span><span class="w"> </span><span class="n">levels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">f</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># setting my custom theme of choice
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># setting my custom theme of choice</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
 
 </span><span class="n">my_theme</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">base_size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">12</span><span class="p">,</span><span class="w"> </span><span class="n">base_family</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"sans"</span><span class="p">){</span><span class="w">
@@ -533,10 +355,9 @@
     </span><span class="n">panel.border</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"grey"</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NA</span><span class="p">,</span><span class="w"> </span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">)</span><span class="w">
   </span><span class="p">)</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">p</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">transcript_num_table_gather_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="nf">as.numeric</span><span class="p">(</span><span class="n">count</span><span class="p">)))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">p</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">transcript_num_table_gather_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="nf">as.numeric</span><span class="p">(</span><span class="n">count</span><span class="p">)))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_histogram</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Histogram of number of transcripts per gene (Entrez ID)"</span><span class="p">,</span><span class="w"> 
@@ -561,8 +382,7 @@
                                                      </span><span class="n">transcript_num_table_gather_entrez</span><span class="o">$</span><span class="n">DB</span><span class="w"> </span><span class="o">==</span><span class="w">  </span><span class="s2">"TxDb"</span><span class="p">)))))</span><span class="w">
 
 </span><span class="n">p</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">geom_text</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ann_text_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">labs</span><span class="p">,</span><span class="w"> </span><span class="n">group</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NULL</span><span class="p">),</span><span class="w"> </span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">8</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="AnnotationDbi_part2_blog_files/figure-markdown_github/transcript_histogram-1.png" style="display: block; margin: auto;" /></p>
 
@@ -572,37 +392,34 @@
 
 <h3 id="ensembl-ids">Ensembl IDs</h3>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># merging datasets by Ensembl ID
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># merging datasets by Ensembl ID</span><span class="w">
 </span><span class="n">transcript_num_table_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">full_join</span><span class="p">(</span><span class="n">org_transcript_num_table_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">EnsDb_transcript_num_table_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Ensembl"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># gather for plotting
+</span><span class="c1"># gather for plotting</span><span class="w">
 </span><span class="n">transcript_num_table_gather_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">transcript_num_table_ensembl</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> 
   </span><span class="n">gather</span><span class="p">(</span><span class="n">DB</span><span class="p">,</span><span class="w"> </span><span class="n">count</span><span class="p">,</span><span class="w"> </span><span class="n">orgDb</span><span class="o">:</span><span class="n">EnsDb</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># How many counts are NA?
+</span><span class="c1"># How many counts are NA?</span><span class="w">
 </span><span class="n">sapply</span><span class="p">(</span><span class="n">transcript_num_table_gather_ensembl</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## Ensembl      DB   count 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Ensembl      DB   count 
 ##       0       0   38659
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># removing rows with NA counts
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># removing rows with NA counts</span><span class="w">
 </span><span class="n">transcript_num_table_gather_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">transcript_num_table_gather_ensembl</span><span class="p">[</span><span class="o">!</span><span class="nf">is.na</span><span class="p">(</span><span class="n">transcript_num_table_gather_ensembl</span><span class="o">$</span><span class="n">count</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
-</span><span class="c1"># because there are only a handful of genes with many transcripts, they can't be plotted together with genes with few transcripts
-# separating them in high and low
+</span><span class="c1"># because there are only a handful of genes with many transcripts, they can't be plotted together with genes with few transcripts</span><span class="w">
+</span><span class="c1"># separating them in high and low</span><span class="w">
 </span><span class="n">transcript_num_table_gather_ensembl</span><span class="o">$</span><span class="n">group</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">transcript_num_table_gather_ensembl</span><span class="o">$</span><span class="n">count</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">25</span><span class="p">,</span><span class="w"> </span><span class="s2">"high"</span><span class="p">,</span><span class="w"> </span><span class="s2">"low"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># setting factor levels
+</span><span class="c1"># setting factor levels</span><span class="w">
 </span><span class="n">f</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"low"</span><span class="p">,</span><span class="w"> </span><span class="s2">"high"</span><span class="p">)</span><span class="w">
 </span><span class="n">transcript_num_table_gather_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">within</span><span class="p">(</span><span class="n">transcript_num_table_gather_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">group</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">group</span><span class="p">,</span><span class="w"> </span><span class="n">levels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">f</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">p</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">transcript_num_table_gather_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="nf">as.numeric</span><span class="p">(</span><span class="n">count</span><span class="p">)))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">p</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">transcript_num_table_gather_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="nf">as.numeric</span><span class="p">(</span><span class="n">count</span><span class="p">)))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_histogram</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Histogram of number of transcripts per gene (Ensembl ID)"</span><span class="p">,</span><span class="w"> 
@@ -623,8 +440,7 @@
                                                             </span><span class="n">transcript_num_table_gather_ensembl</span><span class="o">$</span><span class="n">DB</span><span class="w"> </span><span class="o">==</span><span class="w">  </span><span class="s2">"orgDb"</span><span class="p">)))))</span><span class="w">
 
 </span><span class="n">p</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">geom_text</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ann_text_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">labs</span><span class="p">,</span><span class="w"> </span><span class="n">group</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NULL</span><span class="p">),</span><span class="w"> </span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">8</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="AnnotationDbi_part2_blog_files/figure-markdown_github/transcript_histogram2-1.png" style="display: block; margin: auto;" /></p>
 
@@ -636,26 +452,25 @@
 
 <p>Now that we know what the distribution of transcript numbers per gene is in different database packages, I want to directly compare the numbers of transcripts that are identified for each gene.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># for comparison replacing NAs with 0
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># for comparison replacing NAs with 0</span><span class="w">
 </span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">transcript_num_table_ensembl</span><span class="w">
 </span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="p">[</span><span class="nf">is.na</span><span class="p">(</span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="p">)]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">0</span><span class="w">
 
 </span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">transcript_num_table_entrez</span><span class="w">
 </span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">[</span><span class="nf">is.na</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">)]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">0</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggrepel</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggrepel</span><span class="p">)</span><span class="w">
 
-</span><span class="n">p</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">orgDb</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+</span><span class="n">p1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">orgDb</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_abline</span><span class="p">(</span><span class="n">linetype</span><span class="o">=</span><span class="s2">"dashed"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.3</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
-  </span><span class="n">geom_smooth</span><span class="p">(</span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"black"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">            </span><span class="c1"># Add a loess smoothed fit curve with confidence region
-</span><span class="w">  </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Number of transcripts per Ensembl ID"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
+  </span><span class="n">geom_smooth</span><span class="p">(</span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"black"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">            </span><span class="c1"># Add a loess smoothed fit curve with confidence region</span><span class="w">
+  </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Number of transcripts per Ensembl ID"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_text_repel</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">orgDb</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">140</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">EnsDb</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">150</span><span class="p">),</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Ensembl</span><span class="p">))</span><span class="w">
 
-</span><span class="n">p</span><span class="m">2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">orgDb</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">TxDb</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+</span><span class="n">p2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">orgDb</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">TxDb</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_abline</span><span class="p">(</span><span class="n">linetype</span><span class="o">=</span><span class="s2">"dashed"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.3</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -663,7 +478,7 @@
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Number of transcripts per Entrez ID"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_text_repel</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">orgDb</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">100</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">TxDb</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">200</span><span class="p">),</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Entrez</span><span class="p">))</span><span class="w">
 
-</span><span class="n">p</span><span class="m">3</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">orgDb</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+</span><span class="n">p3</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">orgDb</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_abline</span><span class="p">(</span><span class="n">linetype</span><span class="o">=</span><span class="s2">"dashed"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.3</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -671,7 +486,7 @@
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Number of transcripts per Entrez ID"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_text_repel</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">orgDb</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">100</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">EnsDb</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">900</span><span class="p">),</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Entrez</span><span class="p">))</span><span class="w">
 
-</span><span class="n">p</span><span class="m">4</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">TxDb</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+</span><span class="n">p4</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">TxDb</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_abline</span><span class="p">(</span><span class="n">linetype</span><span class="o">=</span><span class="s2">"dashed"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.3</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -682,9 +497,8 @@
 </span><span class="n">library</span><span class="p">(</span><span class="n">gridExtra</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">grid</span><span class="p">)</span><span class="w">
 
-</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span><span class="w"> </span><span class="n">p2</span><span class="p">,</span><span class="w"> </span><span class="n">p3</span><span class="p">,</span><span class="w"> </span><span class="n">p4</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="AnnotationDbi_part2_blog_files/figure-markdown_github/unnamed-chunk-2-1.png" style="display: block; margin: auto;" /></p>
 
@@ -700,23 +514,22 @@
 
 <p>Exon IDs are only available in TxDb.Hsapiens.UCSC.hg38.knownGene and EnsDb.Hsapiens.v79.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">TxDb_exons</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">AnnotationDbi</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">TxDb.Hsapiens.UCSC.hg38.knownGene</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENTREZID_TxDb</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"EXONID"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">TxDb_exons</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">AnnotationDbi</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">TxDb.Hsapiens.UCSC.hg38.knownGene</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENTREZID_TxDb</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"EXONID"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">EnsDb_exons_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENSEMBL_EnsDb</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"EXONID"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 </span><span class="n">EnsDb_exons_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ENTREZ_EnsDb</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"EXONID"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># summarize number of exons per gene
+</span><span class="c1"># summarize number of exons per gene</span><span class="w">
 </span><span class="n">TxDb_exons_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">TxDb_exons</span><span class="o">$</span><span class="n">GENEID</span><span class="p">))</span><span class="w">
 
 </span><span class="n">EnsDb_exons_num_table_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">EnsDb_exons_ensembl</span><span class="o">$</span><span class="n">GENEID</span><span class="p">))</span><span class="w">
 </span><span class="n">EnsDb_exons_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">EnsDb_exons_entrez</span><span class="o">$</span><span class="n">ENTREZID</span><span class="p">))</span><span class="w">
 
-</span><span class="c1"># there are over 98000 entries without corresponding Entrez ID, removing those
+</span><span class="c1"># there are over 98000 entries without corresponding Entrez ID, removing those</span><span class="w">
 </span><span class="n">EnsDb_exons_num_table_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">EnsDb_exons_num_table_entrez</span><span class="p">[</span><span class="m">-1</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">full_join</span><span class="p">(</span><span class="n">EnsDb_transcript_num_table_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">EnsDb_exons_num_table_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Ensembl"</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">full_join</span><span class="p">(</span><span class="n">EnsDb_transcript_num_table_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">EnsDb_exons_num_table_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Ensembl"</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">))</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="p">)[</span><span class="m">2</span><span class="o">:</span><span class="m">3</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"EnsDb_transcripts"</span><span class="p">,</span><span class="w"> </span><span class="s2">"EnsDb_exons"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">full_join</span><span class="p">(</span><span class="n">EnsDb_transcript_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">EnsDb_exons_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Entrez"</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">))</span><span class="w">
@@ -724,10 +537,9 @@
 
 </span><span class="n">TxDb_trans_vs_exons_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">full_join</span><span class="p">(</span><span class="n">TxDb_transcript_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">TxDb_exons_num_table_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Entrez"</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">))</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">TxDb_trans_vs_exons_entrez</span><span class="p">)[</span><span class="m">2</span><span class="o">:</span><span class="m">3</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"TxDb_transcripts"</span><span class="p">,</span><span class="w"> </span><span class="s2">"TxDb_exons"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">p</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_transcripts</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_exons</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">p1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_transcripts</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_exons</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_abline</span><span class="p">(</span><span class="n">linetype</span><span class="o">=</span><span class="s2">"dashed"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.3</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -735,7 +547,7 @@
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Number of transcripts vs number of exons\nper Ensembl ID in EnsDb"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_text_repel</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="p">,</span><span class="w"> </span><span class="n">EnsDb_transcripts</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">150</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">EnsDb_exons</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">300</span><span class="p">),</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Ensembl</span><span class="p">))</span><span class="w">
 
-</span><span class="n">p</span><span class="m">2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_transcripts</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_exons</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+</span><span class="n">p2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_transcripts</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_exons</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_abline</span><span class="p">(</span><span class="n">linetype</span><span class="o">=</span><span class="s2">"dashed"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.3</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -743,7 +555,7 @@
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Number of transcripts vs number of exons\nper Entrez ID in EnsDb"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_text_repel</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">EnsDb_transcripts</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">300</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">EnsDb_exons</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">1000</span><span class="p">),</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Entrez</span><span class="p">))</span><span class="w">
 
-</span><span class="n">p</span><span class="m">3</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">TxDb_trans_vs_exons_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">TxDb_transcripts</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">TxDb_exons</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+</span><span class="n">p3</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">TxDb_trans_vs_exons_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">TxDb_transcripts</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">TxDb_exons</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_abline</span><span class="p">(</span><span class="n">linetype</span><span class="o">=</span><span class="s2">"dashed"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">colour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"deepskyblue4"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.3</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -751,9 +563,8 @@
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Number of transcripts vs number of exons\nper Entrez ID in TxDb"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_text_repel</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">TxDb_trans_vs_exons_entrez</span><span class="p">,</span><span class="w"> </span><span class="n">TxDb_transcripts</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">200</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">TxDb_exons</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">400</span><span class="p">),</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Entrez</span><span class="p">))</span><span class="w">
 
-</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span><span class="w"> </span><span class="n">p2</span><span class="p">,</span><span class="w"> </span><span class="n">p3</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="AnnotationDbi_part2_blog_files/figure-markdown_github/unnamed-chunk-5-1.png" style="display: block; margin: auto;" /></p>
 
@@ -765,93 +576,83 @@
 
 <p>Interestingly, there are a couple of genes with many exons but only few transcripts. To find out more about these genes, I will compare their proportion of gene biotypes.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># gene biotypes are only available in EnsDb
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># gene biotypes are only available in EnsDb</span><span class="w">
 </span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="o">$</span><span class="n">ratio</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="o">$</span><span class="n">EnsDb_exons</span><span class="o">/</span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="o">$</span><span class="n">EnsDb_transcripts</span><span class="w">
 </span><span class="n">EnsDb_trans_vs_exons_ensembl_genes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">as.character</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_ensembl</span><span class="o">$</span><span class="n">ratio</span><span class="p">,</span><span class="w"> </span><span class="n">decreasing</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">),</span><span class="w"> </span><span class="s2">"Ensembl"</span><span class="p">][</span><span class="m">1</span><span class="o">:</span><span class="m">100</span><span class="p">])</span><span class="w">
 
 </span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="o">$</span><span class="n">ratio</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="o">$</span><span class="n">EnsDb_exons</span><span class="o">/</span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="o">$</span><span class="n">EnsDb_transcripts</span><span class="w">
 </span><span class="n">EnsDb_trans_vs_exons_entrez_genes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">as.character</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">EnsDb_trans_vs_exons_entrez</span><span class="o">$</span><span class="n">ratio</span><span class="p">,</span><span class="w"> </span><span class="n">decreasing</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">),</span><span class="w"> </span><span class="s2">"Entrez"</span><span class="p">][</span><span class="m">1</span><span class="o">:</span><span class="m">100</span><span class="p">])</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># get all gene biotypes for all gene IDs
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># get all gene biotypes for all gene IDs</span><span class="w">
 </span><span class="n">biotypes_exons_trans_EnsDb_ensembl_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_trans_vs_exons_ensembl_genes</span><span class="p">,</span><span class="w"> 
                                           </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">biotypes_exons_trans_EnsDb_entrez_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">EnsDb_trans_vs_exons_entrez_genes</span><span class="p">,</span><span class="w"> 
                                           </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># get all gene biotypes for all gene IDs
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># get all gene biotypes for all gene IDs</span><span class="w">
 </span><span class="n">biotypes_EnsDb_ensembl_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">keys</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">),</span><span class="w"> 
                                           </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">biotypes_EnsDb_entrez_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">keys</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">),</span><span class="w"> 
                                           </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># how many NAs are in each column?
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># how many NAs are in each column?</span><span class="w">
 </span><span class="n">sapply</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_ensembl_all</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##      GENEID GENEBIOTYPE 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##      GENEID GENEBIOTYPE 
 ##           0           0
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">sapply</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_entrez_all</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sapply</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_entrez_all</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##    ENTREZID GENEBIOTYPE 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##    ENTREZID GENEBIOTYPE 
 ##           0           0
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># summary table of number of genebiotypes
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># summary table of number of genebiotypes</span><span class="w">
 </span><span class="n">biotypes_exons_trans_EnsDb_ensembl_all_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_ensembl_all</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w">
 </span><span class="n">biotypes_exons_trans_EnsDb_entrez_all_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_entrez_all</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># subset to keep only those biotypes that are among the top genes
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># subset to keep only those biotypes that are among the top genes</span><span class="w">
 </span><span class="n">biotypes_EnsDb_ensembl_all_subs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_EnsDb_ensembl_all</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_all</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="w"> </span><span class="o">%in%</span><span class="w"> 
                                                                       </span><span class="n">unique</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_ensembl_all</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">)),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
 </span><span class="n">biotypes_EnsDb_entrez_all_subs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_EnsDb_entrez_all</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_all</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="w"> </span><span class="o">%in%</span><span class="w"> 
                                                                       </span><span class="n">unique</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_entrez_all</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">)),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
-</span><span class="c1"># summary table of biotypes background (all genes)
+</span><span class="c1"># summary table of biotypes background (all genes)</span><span class="w">
 </span><span class="n">biotypes_EnsDb_ensembl_all_subs_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_all_subs</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w">
 </span><span class="n">biotypes_EnsDb_entrez_all_subs_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_all_subs</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w">
 
-</span><span class="c1"># add background number of biotypes to number among top genes
+</span><span class="c1"># add background number of biotypes to number among top genes</span><span class="w">
 </span><span class="n">biotypes_EnsDb_ensembl_top_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">merge</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_ensembl_all_num_table</span><span class="p">,</span><span class="w"> </span><span class="n">biotypes_EnsDb_ensembl_all_subs_table</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">,</span><span class="w"> </span><span class="n">all.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 </span><span class="n">biotypes_EnsDb_entrez_top_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">merge</span><span class="p">(</span><span class="n">biotypes_exons_trans_EnsDb_entrez_all_num_table</span><span class="p">,</span><span class="w"> </span><span class="n">biotypes_EnsDb_entrez_all_subs_table</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">,</span><span class="w"> </span><span class="n">all.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># merge
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># merge</span><span class="w">
 </span><span class="n">biotypes_top_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">merge</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_top_num_table</span><span class="p">,</span><span class="w"> </span><span class="n">biotypes_EnsDb_entrez_top_num_table</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">,</span><span class="w"> </span><span class="n">all</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">biotypes_top_num_table</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Ensembl_top"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Ensembl_bg"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Entrez_top"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Entrez_bg"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Ensembl_top</span><span class="o">/</span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Ensembl_bg</span><span class="w">
 </span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Entrez_top</span><span class="o">/</span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Entrez_bg</span><span class="w">
 
-</span><span class="c1"># gather for plotting
+</span><span class="c1"># gather for plotting</span><span class="w">
 </span><span class="n">biotypes_top_num_table_gather</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_top_num_table</span><span class="p">[,</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">6</span><span class="p">,</span><span class="w"> </span><span class="m">7</span><span class="p">)]</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> 
   </span><span class="n">gather</span><span class="p">(</span><span class="n">GENEBIOTYPE</span><span class="p">,</span><span class="w"> </span><span class="n">count</span><span class="p">,</span><span class="w"> </span><span class="n">Ensembl</span><span class="o">:</span><span class="n">Entrez</span><span class="p">)</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">biotypes_top_num_table_gather</span><span class="p">)[</span><span class="m">2</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"Gene_ID"</span><span class="w">
 
-</span><span class="c1"># replace NA with 0
+</span><span class="c1"># replace NA with 0</span><span class="w">
 </span><span class="n">biotypes_top_num_table_gather</span><span class="p">[</span><span class="nf">is.na</span><span class="p">(</span><span class="n">biotypes_top_num_table_gather</span><span class="p">)]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">0</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">(</span><span class="n">biotypes_top_num_table_gather</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">GENEBIOTYPE</span><span class="p">),</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">count</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Gene_ID</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">(</span><span class="n">biotypes_top_num_table_gather</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">GENEBIOTYPE</span><span class="p">),</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">count</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Gene_ID</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">stat</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"identity"</span><span class="p">,</span><span class="w"> </span><span class="n">position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dodge"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">theme</span><span class="p">(</span><span class="n">legend.position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"right"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">coord_flip</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -860,8 +661,7 @@
   </span><span class="n">scale_x_discrete</span><span class="p">(</span><span class="n">breaks</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">biotypes_top_num_table_gather</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">,</span><span class="w">
                       </span><span class="n">labels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_"</span><span class="p">,</span><span class="w"> </span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="n">biotypes_top_num_table_gather</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">scale_fill_brewer</span><span class="p">(</span><span class="n">palette</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Set1"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="AnnotationDbi_part2_blog_files/figure-markdown_github/unnamed-chunk-12-1.png" style="display: block; margin: auto;" /></p>
 
@@ -884,42 +684,40 @@
   <li>for over-represented gene ontology (GO) categories.</li>
 </ol>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># mean number of transcripts over all database packages
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># mean number of transcripts over all database packages</span><span class="w">
 </span><span class="n">mean_num_transcripts_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">mean_num_transcripts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rowMeans</span><span class="p">(</span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">]),</span><span class="w">
                </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="p">[,</span><span class="w"> </span><span class="m">1</span><span class="p">])</span><span class="w">
 
 </span><span class="n">mean_num_transcripts_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">mean_num_transcripts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rowMeans</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">]),</span><span class="w">
                </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">[,</span><span class="w"> </span><span class="m">1</span><span class="p">])</span><span class="w">
 
-</span><span class="c1"># standard error of mean
+</span><span class="c1"># standard error of mean</span><span class="w">
 </span><span class="n">mean_num_transcripts_ensembl</span><span class="o">$</span><span class="n">sem</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">transcript_num_table_ensembl_NAtozero</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">],</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="n">sd</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="o">/</span><span class="nf">sqrt</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
 </span><span class="n">mean_num_transcripts_entrez</span><span class="o">$</span><span class="n">sem</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">transcript_num_table_entrez_NAtozero</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">],</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="n">sd</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="o">/</span><span class="nf">sqrt</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
 
-</span><span class="c1"># ranking the mean
+</span><span class="c1"># ranking the mean</span><span class="w">
 </span><span class="n">mean_num_transcripts_ensembl</span><span class="o">$</span><span class="n">rank</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rank</span><span class="p">(</span><span class="n">mean_num_transcripts_ensembl</span><span class="o">$</span><span class="n">mean_num_transcripts</span><span class="p">)</span><span class="w">
 </span><span class="n">mean_num_transcripts_ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">mean_num_transcripts_ensembl</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">mean_num_transcripts_ensembl</span><span class="o">$</span><span class="n">rank</span><span class="p">,</span><span class="w"> </span><span class="n">decreasing</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
 </span><span class="n">mean_num_transcripts_entrez</span><span class="o">$</span><span class="n">rank</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rank</span><span class="p">(</span><span class="n">mean_num_transcripts_entrez</span><span class="o">$</span><span class="n">mean_num_transcripts</span><span class="p">)</span><span class="w">
 </span><span class="n">mean_num_transcripts_entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">mean_num_transcripts_entrez</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">mean_num_transcripts_entrez</span><span class="o">$</span><span class="n">rank</span><span class="p">,</span><span class="w"> </span><span class="n">decreasing</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <p>I am picking the top 1000 genes with highest mean number of transcripts.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># picking top genes
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># picking top genes</span><span class="w">
 </span><span class="n">mean_num_transcripts_ensembl_top</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">mean_num_transcripts_ensembl</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">1000</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
 </span><span class="n">mean_num_transcripts_entrez_top</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">mean_num_transcripts_entrez</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">1000</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
 
-</span><span class="c1"># distribution of mean number of transcripts
-</span><span class="n">p</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">mean_num_transcripts_ensembl_top</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">mean_num_transcripts</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">geom_density</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s2">"navy"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
+</span><span class="c1"># distribution of mean number of transcripts</span><span class="w">
+</span><span class="n">p1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">mean_num_transcripts_ensembl_top</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">mean_num_transcripts</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">geom_density</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s2">"navy"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Mean number of transcripts\nper Ensembl ID for the top genes"</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"mean number of transcripts pr gene"</span><span class="p">)</span><span class="w">
-</span><span class="n">p</span><span class="m">2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">mean_num_transcripts_entrez_top</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">mean_num_transcripts</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">geom_density</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s2">"navy"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
+</span><span class="n">p2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">mean_num_transcripts_entrez_top</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">mean_num_transcripts</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">geom_density</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s2">"navy"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">labs</span><span class="p">(</span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Mean number of transcripts\nper Entrez ID for the top genes"</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"mean number of transcripts per gene"</span><span class="p">)</span><span class="w">
-</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span><span class="w"> </span><span class="n">p2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="AnnotationDbi_part2_blog_files/figure-markdown_github/unnamed-chunk-15-1.png" style="display: block; margin: auto;" /></p>
 
@@ -929,72 +727,65 @@
 
 <h3 id="gene-biotypes-of-top-genes-with-highest-mean-number-of-transcripts">Gene biotypes of top genes with highest mean number of transcripts</h3>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">biotypes_EnsDb_ensembl_top</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rownames</span><span class="p">(</span><span class="n">mean_num_transcripts_ensembl_top</span><span class="p">),</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">biotypes_EnsDb_ensembl_top</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rownames</span><span class="p">(</span><span class="n">mean_num_transcripts_ensembl_top</span><span class="p">),</span><span class="w"> 
                                           </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">biotypes_EnsDb_entrez_top</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rownames</span><span class="p">(</span><span class="n">mean_num_transcripts_entrez_top</span><span class="p">),</span><span class="w"> 
                                           </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ENTREZID"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># how many NAs are in each column?
+</span><span class="c1"># how many NAs are in each column?</span><span class="w">
 </span><span class="n">sapply</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_top</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##      GENEID GENEBIOTYPE 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##      GENEID GENEBIOTYPE 
 ##           0           0
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">sapply</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_top</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sapply</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_top</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##    ENTREZID GENEBIOTYPE 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##    ENTREZID GENEBIOTYPE 
 ##           0           0
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># summary table of number of genebiotypes
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># summary table of number of genebiotypes</span><span class="w">
 </span><span class="n">biotypes_EnsDb_ensembl_top_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_top</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w">
 </span><span class="n">biotypes_EnsDb_entrez_top_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_top</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># subset to keep only those biotypes that are among the top genes
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># subset to keep only those biotypes that are among the top genes</span><span class="w">
 </span><span class="n">biotypes_EnsDb_ensembl_all_subs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_EnsDb_ensembl_all</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_all</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="w"> </span><span class="o">%in%</span><span class="w"> 
                                                                       </span><span class="n">unique</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_top_num_table</span><span class="o">$</span><span class="n">Var1</span><span class="p">)),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
 </span><span class="n">biotypes_EnsDb_entrez_all_subs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_EnsDb_entrez_all</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_all</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="w"> </span><span class="o">%in%</span><span class="w"> 
                                                                       </span><span class="n">unique</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_top_num_table</span><span class="o">$</span><span class="n">Var1</span><span class="p">)),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
-</span><span class="c1"># summary table of biotypes background (all genes)
+</span><span class="c1"># summary table of biotypes background (all genes)</span><span class="w">
 </span><span class="n">biotypes_EnsDb_ensembl_all_subs_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_all_subs</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w">
 </span><span class="n">biotypes_EnsDb_entrez_all_subs_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">table</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_all_subs</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w">
 
-</span><span class="c1"># add background number of biotypes to number among top genes
+</span><span class="c1"># add background number of biotypes to number among top genes</span><span class="w">
 </span><span class="n">biotypes_EnsDb_ensembl_top_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">merge</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_top_num_table</span><span class="p">,</span><span class="w"> </span><span class="n">biotypes_EnsDb_ensembl_all_subs_table</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">,</span><span class="w"> </span><span class="n">all.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 </span><span class="n">biotypes_EnsDb_entrez_top_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">merge</span><span class="p">(</span><span class="n">biotypes_EnsDb_entrez_top_num_table</span><span class="p">,</span><span class="w"> </span><span class="n">biotypes_EnsDb_entrez_all_subs_table</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">,</span><span class="w"> </span><span class="n">all.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># merge
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># merge</span><span class="w">
 </span><span class="n">biotypes_top_num_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">merge</span><span class="p">(</span><span class="n">biotypes_EnsDb_ensembl_top_num_table</span><span class="p">,</span><span class="w"> </span><span class="n">biotypes_EnsDb_entrez_top_num_table</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Var1"</span><span class="p">,</span><span class="w"> </span><span class="n">all</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">biotypes_top_num_table</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Ensembl_top"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Ensembl_bg"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Entrez_top"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Entrez_bg"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Ensembl_top</span><span class="o">/</span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Ensembl_bg</span><span class="w">
 </span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Entrez</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Entrez_top</span><span class="o">/</span><span class="n">biotypes_top_num_table</span><span class="o">$</span><span class="n">Entrez_bg</span><span class="w">
 
-</span><span class="c1"># gather for plotting
+</span><span class="c1"># gather for plotting</span><span class="w">
 </span><span class="n">biotypes_top_num_table_gather</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">biotypes_top_num_table</span><span class="p">[,</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">6</span><span class="p">,</span><span class="w"> </span><span class="m">7</span><span class="p">)]</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> 
   </span><span class="n">gather</span><span class="p">(</span><span class="n">GENEBIOTYPE</span><span class="p">,</span><span class="w"> </span><span class="n">count</span><span class="p">,</span><span class="w"> </span><span class="n">Ensembl</span><span class="o">:</span><span class="n">Entrez</span><span class="p">)</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">biotypes_top_num_table_gather</span><span class="p">)[</span><span class="m">2</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"Gene_ID"</span><span class="w">
 
-</span><span class="c1"># replace NA with 0
+</span><span class="c1"># replace NA with 0</span><span class="w">
 </span><span class="n">biotypes_top_num_table_gather</span><span class="p">[</span><span class="nf">is.na</span><span class="p">(</span><span class="n">biotypes_top_num_table_gather</span><span class="p">)]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">0</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">(</span><span class="n">biotypes_top_num_table_gather</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">GENEBIOTYPE</span><span class="p">),</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">count</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Gene_ID</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">(</span><span class="n">biotypes_top_num_table_gather</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">GENEBIOTYPE</span><span class="p">),</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">count</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Gene_ID</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">stat</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"identity"</span><span class="p">,</span><span class="w"> </span><span class="n">position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dodge"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">theme</span><span class="p">(</span><span class="n">legend.position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"right"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">coord_flip</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -1003,8 +794,7 @@
   </span><span class="n">scale_x_discrete</span><span class="p">(</span><span class="n">breaks</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">biotypes_top_num_table_gather</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">,</span><span class="w">
                       </span><span class="n">labels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_"</span><span class="p">,</span><span class="w"> </span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="n">biotypes_top_num_table_gather</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">scale_fill_brewer</span><span class="p">(</span><span class="n">palette</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Set1"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="AnnotationDbi_part2_blog_files/figure-markdown_github/unnamed-chunk-19-1.png" style="display: block; margin: auto;" /></p>
 
@@ -1040,7 +830,7 @@
 
 <p><br /></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.3.1 (2016-06-21)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## R version 3.3.1 (2016-06-21)
 ## Platform: x86_64-apple-darwin13.4.0 (64-bit)
 ## Running under: OS X 10.12 (Sierra)
 ## 
@@ -1105,123 +895,28 @@
 ## [53] rtracklayer_1.34.0            fastmatch_1.0-4              
 ## [55] fgsea_1.0.0                   stringi_1.1.2                
 ## [57] GOSemSim_2.0.0                Rcpp_0.12.7
-</code></pre>
-</div>
-
-    </div>
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
+</code></pre></div></div>
 
 
-  
-     
-    	<li><a href="/categories.html#genome-ref">
-    		genome <span>6</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#AnnotationDbi-ref">AnnotationDbi <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#ggplot2-ref">ggplot2 <span>32</span></a></li>
-     
-    	<li><a href="/tags.html#genes-ref">genes <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#genomics-ref">genomics <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#genetics-ref">genetics <span>2</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev"><a href="/genome/2016/10/23/AnnotationDbi" title="Exploring the human genome (Part 1) - Gene Annotations">&laquo; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/text_analysis/2016/11/06/sysk_earwax" title="Is 'Yeah' Josh and Chuck's favorite word?">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

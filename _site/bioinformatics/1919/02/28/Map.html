@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>How to Prepare China and USA Map with R — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/bioinformatics/1919/02/28/Map">
+</head>
+<body class="">
+
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
+
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
+
+  <hr class="author__divider">
+
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
+
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
+
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">February 28, 1919</span>
+  <h1 class="page__title">How to Prepare China and USA Map with R</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shicheng Guo</p>
+<p>Plan-A</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>setwd("C:\\Users\\Schrodi Lab\\Documents\\GitHub\\rheumatoidarthritis\\RA\\ASA\\MIR\\manuscript\\map")
+install.packages("maptools")
+install.packages("rgdal")
+install.packages("maps")
+install.packages("usmap")
+install.packages("data.table")
+install.packages("ggsn")
+install.packages("ggrepel")
+install.packages("rmarkdown")
+library(ggplot2)
+library(maps)
+library(usmap)
+library(data.table)
+library(ggsn) 
+library(ggrepel) 
+library("maptools")
+library("rgdal")
+library("rmarkdown")
+china_map &lt;- rgdal::readOGR("bou2_4p.shp")
+china_province = setDT(china_map@data)
+setnames(china_province, "NAME", "province")
+china_province[, province:=iconv(province, from = "GBK", to = "UTF-8")] 
+china_province[, id:= .I-1] 
+china_province[, table(province)]
+china_province[, province:= as.factor(province)]
+dt_china = setDT(fortify(china_map))
+dt_china[, id:= as.numeric(id)]
+setkey(china_province, id); setkey(dt_china, id)
+dt_china &lt;- china_province[dt_china]
+province_CH &lt;- china_province[, levels(province)] # the CH are in UTF-8 code
+province_EN &lt;- c("Shanghai", "Yunnan", "Inner Mongolia", "Beijing", "Taiwan",
+                 "Jilin", "Sichuan", "Tianjin City", "Ningxia", "Anhui",
+                 "Shandong", "Shanxi", "Guangdong", "Guangxi ", "Xinjiang",
+                 "Jiangsu", "Jiangxi", "Hebei", "Henan", "Zhejiang",
+                 "Hainan", "Hubei", "Hunan", "Gansu", "Fujian",
+                 "Tibet", "Guizhou", "Liaoning", "Chongqing", "Shaanxi",
+                 "Qinghai", "Hong Kong", "Heilongjiang"
+)
+value &lt;- c(8893483, 12695396,  8470472,  7355291, 23193638,  9162183, 26383458,  3963604,  1945064, 19322432, 30794664, 10654162, 32222752, 13467663,  6902850, 25635291, 11847841, 20813492, 26404973, 20060115, 2451819, 17253385, 19029894,  7113833, 11971873,   689521, 10745630, 15334912, 10272559, 11084516, 1586635,  7026400, 13192935)
+input_data &lt;- data.table(province_CH, province_EN, value)
+setkey(input_data, province_CH)
+setkey(dt_china, province)
+china_map_pop &lt;- input_data[dt_china[AREA&gt;0.1,]]
+label_dt &lt;- china_map_pop[, .(x = mean(range(long)), y = mean(range(lat)), province_EN, province_CH), by = id]
+label_dt &lt;- unique(label_dt)
+setkey(label_dt, province_EN)
+# I have fine-tuned the label position of some provinces
+label_dt['Inner Mongolia', `:=` (x = 110, y = 42)]
+label_dt['Gansu', `:=` (x = 96.3, y = 40)]
+label_dt['Hebei', `:=` (x = 115.5, y = 38.5)]
+label_dt['Liaoning', `:=` (x = 123, y = 41.5)]
+rmarkdown::paged_table(china_map_pop[!is.na(province_CH),])
+
+ggplot(china_map_pop, aes(x = long, y = lat, group = group, fill="blank")) +
+  labs(fill = "Population (outdated)")+
+  geom_polygon()+
+  geom_path()+
+  blank() 
+
+  scale_fill_gradientn(colours=rev(heat.colors(10)),na.value="grey90",
+  guide = guide_colourbar(barwidth = 0.8, barheight = 10)) + 
+  + 
+  geom_text(data = label_dt, aes(x=x, y=y, label = ""),inherit.aes = F) +
+  scalebar(data = china_map_pop, dist = 500, dist_unit = "km",
+  transform = T, model = "WGS84",
+  border.size = 0.4, st.size = 2
+  ) 
+</code></pre></div></div>
+
+<p>Plan-B</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>install.packages("maptools")
+install.packages("rgdal")
+install.packages("maps")
+install.packages("usmap")
+install.packages("data.table")
+install.packages("ggsn")
+install.packages("ggrepel")
+install.packages("rmarkdown")
+install.packages("mapdata")
+
+library(ggplot2)
+library(maps)
+library(usmap)
+library(data.table)
+library(ggsn) 
+library(ggrepel) 
+library("maptools")
+library("rgdal")
+library("rmarkdown")
+library(mapdata)
+library(maptools)
+
+map("china", col = "gray40", ylim = c(18,54))
+china_map &lt;- readShapePoly("bou2_4p.shp")
+Shanghai = china_map[china_map$ADCODE99 == 310000,]
+plot(Shanghai)
+
+mydat = readShapePoly("bou2_4p.shp")
+Shanghai = mydat[substr(as.character(mydat$ADCODE99), 1, 2) == '31',]
+mysh = fortify(Shanghai, region = 'NAME99')
+
+head(fortify(Shanghai))
+
+mysh = transform(mysh, id = iconv(id, from = 'GBK'), group = iconv(group, from = 'GBK'))
+head(mysh)
+
+
+Shanghai = mydat[substr(as.character(mydat$ADCODE99), 1, 2) == '31',]
+mysh = fortify(Shanghai, region = 'NAME99')
+mysh = transform(mysh, id = iconv(id, from = 'GBK'), group = iconv(group, from = 'GBK'))
+head(mysh)
+
+
+install.packages("mapproj")
+library(maptools)
+library(ggplot2)
+library(mapproj)
+mydat = readShapePoly("bou2_4p.shp")
+mymap&lt;-ggplot(data = fortify(mydat)) +
+  geom_polygon(aes(x = long, y = lat, group = id), colour = "black",
+  fill = NA) +
+  blank()
+print(mymap + coord_map())
+Shanghai = mydat[mydat$ADCODE99 == 310000,]
+plot(Shanghai)
+mysh=fortify(Shanghai)
+mysh$id=1:nrow(mysh)
+head(mysh)
+
+sample = data.frame(id = unique(sort(mysh$id)))
+sample$num = runif(length(mysh$id))
+sample
+
+csmap = ggplot(sample) +
+  geom_map(aes(map_id = id, fill = num), color = "white", map = mysh) +
+  scale_fill_gradient(high = "darkgreen",low = "lightgreen") +
+  expand_limits(mysh) + coord_map() + blank()
+print(csmap)
+
+head(mysh)
+</code></pre></div></div>
+
+
+      </div>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
+</html>

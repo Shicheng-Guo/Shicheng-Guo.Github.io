@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>RNA-seq data to reveal novel response mechanism to bacterial — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/bioinformatics/1928/02/28/Rockhopper">
+</head>
+<body class="">
+
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
+
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
+
+  <hr class="author__divider">
+
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
+
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
+
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">February 28, 1928</span>
+  <h1 class="page__title">RNA-seq data to reveal novel response mechanism to bacterial</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shicheng Guo</p>
+<p>bacterial RNA-seq analysis with Rockhopper: RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Here is a small pipeline to do microbial RNA-seq analysis with [Rockhopper][1], Here I suppose you have pair-end RNA-seq data and single-end reads will be much easier for which I will not show it in this post:  
+
+Step 1: Download Rockhopper including both Windows and Java versions. Please remember download Rockhopper.exe is important since it can be used to create reference much easier. You can download the reference from windows system and copy them to your Linux server. 
+    wget https://cs.wellesley.edu/~btjaden/Rockhopper/download/current/Rockhopper.exe
+    wget http://cs.wellesley.edu/~btjaden/Rockhopper/download/current/Rockhopper.jar
+Step 2: create reference: 
+Step 3: prepare the running script with Perl and bash
+ls *.fastq.gz | paste - - &gt; input.txt
+perl -p -i -e 's/\s/\&amp;/'  input.txt
+paste 
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#########################################################################################################
+##### RNA-seq data to reveal novel response mechanism to bacterial within host wound tissues ###########
+#########################################################################################################
+## 02/04/2020
+wget http://cs.wellesley.edu/~btjaden/Rockhopper/download/current/Rockhopper.jar
+cd ~/hpc/project/RnaseqBacterial/extdata/rnaseq
+genome_DIR1=~/hpc/project/RnaseqBacterial/extdata/rnaseq/Rockhopper_Results/genomes/Staphylococcus_aureus_subsp__aureus_USA300_FPR3757
+genome_DIR2=
+
+mkdir temp
+for i in $(ls *.fastq.gz | rev | cut -c 17- | rev | uniq)
+do
+echo $i
+echo \#PBS -N $i  &gt; $i.job
+echo \#PBS -l nodes=1:ppn=12 &gt;&gt; $i.job
+echo \#PBS -M Guo.shicheng\@marshfieldresearch.org &gt;&gt; $i.job
+echo \#PBS -m abe  &gt;&gt; $i.job
+echo \#PBS -o $(pwd)/temp/ &gt;&gt;$i.job
+echo \#PBS -e $(pwd)/temp/ &gt;&gt;$i.job
+echo cd $(pwd) &gt;&gt; $i.job
+echo java -Xmx1200m -cp Rockhopper.jar Rockhopper -g $genome_DIR1 $i\_R1_001.fastq.gz%$i\_R2_001.fastq.gz -o ./Rockhopper_Results/$i &gt;&gt; $i.job
+qsub  $i.job
+done
+</code></pre></div></div>
+
+<p>How do download nr.faa for diamond and samsa2</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/nr.gz
+diamond makedb --in nr.gz -d nr
+</code></pre></div></div>
+
+<p>Here is R script to summarize microbial dual-transcriptome data</p>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">
+</span><span class="n">setwd</span><span class="p">(</span><span class="s2">"//mcrfnas2/bigdata/Genetic/Projects/shg047/project/RnaseqBacterial/extdata/rnaseq/Rockhopper_Results"</span><span class="p">)</span><span class="w">
+
+</span><span class="n">perl</span><span class="w"> </span><span class="o">-</span><span class="n">p</span><span class="w"> </span><span class="o">-</span><span class="n">i</span><span class="w"> </span><span class="o">-</span><span class="n">e</span><span class="w"> </span><span class="s2">"s/\'/-/g"</span><span class="w"> </span><span class="n">gene.tab.matrix.v4.txt</span><span class="w">
+</span><span class="n">perl</span><span class="w"> </span><span class="o">-</span><span class="n">p</span><span class="w"> </span><span class="o">-</span><span class="n">i</span><span class="w"> </span><span class="o">-</span><span class="n">e</span><span class="w"> </span><span class="s2">"s/\(/-/g"</span><span class="w"> </span><span class="n">gene.tab.matrix.v4.txt</span><span class="w">
+</span><span class="n">perl</span><span class="w"> </span><span class="o">-</span><span class="n">p</span><span class="w"> </span><span class="o">-</span><span class="n">i</span><span class="w"> </span><span class="o">-</span><span class="n">e</span><span class="w"> </span><span class="s2">"s/\)/-/g"</span><span class="w"> </span><span class="n">gene.tab.matrix.v4.txt</span><span class="w">
+</span><span class="n">perl</span><span class="w"> </span><span class="o">-</span><span class="n">p</span><span class="w"> </span><span class="o">-</span><span class="n">i</span><span class="w"> </span><span class="o">-</span><span class="n">e</span><span class="w"> </span><span class="s2">"s/\,/-/g"</span><span class="w"> </span><span class="n">gene.tab.matrix.v4.txt</span><span class="w">
+</span><span class="n">perl</span><span class="w"> </span><span class="o">-</span><span class="n">p</span><span class="w"> </span><span class="o">-</span><span class="n">i</span><span class="w"> </span><span class="o">-</span><span class="n">e</span><span class="w"> </span><span class="s2">"s/\:/-/g"</span><span class="w"> </span><span class="n">gene.tab.matrix.v4.txt</span><span class="w">
+</span><span class="n">perl</span><span class="w"> </span><span class="o">-</span><span class="n">p</span><span class="w"> </span><span class="o">-</span><span class="n">i</span><span class="w"> </span><span class="o">-</span><span class="n">e</span><span class="w"> </span><span class="s2">"s/\;/-/g"</span><span class="w"> </span><span class="n">gene.tab.matrix.v4.txt</span><span class="w">
+
+</span><span class="n">data</span><span class="o">&lt;-</span><span class="n">read.table</span><span class="p">(</span><span class="s2">"gene.tab.matrix.v4.txt"</span><span class="p">,</span><span class="n">head</span><span class="o">=</span><span class="nb">T</span><span class="p">,</span><span class="n">row.names</span><span class="o">=</span><span class="m">1</span><span class="p">,</span><span class="n">sep</span><span class="o">=</span><span class="s2">"\t"</span><span class="p">,</span><span class="n">as.is</span><span class="o">=</span><span class="nb">T</span><span class="p">,</span><span class="n">check.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">F</span><span class="p">)</span><span class="w">
+</span><span class="n">head</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="w">
+</span><span class="nf">dim</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="w">
+
+</span><span class="n">data</span><span class="o">&lt;-</span><span class="n">data</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[,</span><span class="m">1</span><span class="o">:</span><span class="m">24</span><span class="p">],</span><span class="m">1</span><span class="p">,</span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="n">x</span><span class="o">&gt;</span><span class="m">0</span><span class="p">)),</span><span class="n">decreasing</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">T</span><span class="p">),]</span><span class="w">
+</span><span class="n">data</span><span class="o">&lt;-</span><span class="n">data</span><span class="p">[,</span><span class="nf">c</span><span class="p">(</span><span class="n">order</span><span class="p">(</span><span class="nf">as.numeric</span><span class="p">(</span><span class="n">colnames</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">24</span><span class="p">]))),</span><span class="m">25</span><span class="p">,</span><span class="m">26</span><span class="p">)]</span><span class="w">
+
+</span><span class="n">data</span><span class="o">$</span><span class="n">pc</span><span class="o">&lt;-</span><span class="n">percent</span><span class="p">(</span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[,</span><span class="m">1</span><span class="o">:</span><span class="m">24</span><span class="p">],</span><span class="m">1</span><span class="p">,</span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="n">x</span><span class="o">&gt;</span><span class="m">0</span><span class="p">))</span><span class="o">/</span><span class="m">24</span><span class="p">)</span><span class="w">
+</span><span class="n">data</span><span class="o">$</span><span class="n">mean</span><span class="o">&lt;-</span><span class="nf">round</span><span class="p">(</span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[,</span><span class="m">1</span><span class="o">:</span><span class="m">24</span><span class="p">],</span><span class="m">1</span><span class="p">,</span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="n">mean</span><span class="p">(</span><span class="n">x</span><span class="p">)),</span><span class="m">0</span><span class="p">)</span><span class="w">
+</span><span class="n">data</span><span class="o">$</span><span class="n">sd</span><span class="o">&lt;-</span><span class="nf">round</span><span class="p">(</span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[,</span><span class="m">1</span><span class="o">:</span><span class="m">24</span><span class="p">],</span><span class="m">1</span><span class="p">,</span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="n">sd</span><span class="p">(</span><span class="n">x</span><span class="p">)),</span><span class="m">0</span><span class="p">)</span><span class="w">
+</span><span class="n">data</span><span class="o">$</span><span class="n">cv</span><span class="o">&lt;-</span><span class="nf">round</span><span class="p">(</span><span class="n">apply</span><span class="p">(</span><span class="n">data</span><span class="p">[,</span><span class="m">1</span><span class="o">:</span><span class="m">24</span><span class="p">],</span><span class="m">1</span><span class="p">,</span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="n">cv</span><span class="p">(</span><span class="n">x</span><span class="p">)),</span><span class="m">2</span><span class="p">)</span><span class="w">
+
+</span><span class="n">head</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="w">
+</span><span class="n">write.csv</span><span class="p">(</span><span class="n">data</span><span class="p">,</span><span class="n">file</span><span class="o">=</span><span class="s2">"gene.tab.matrix.v6.csv"</span><span class="p">,</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">,</span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">T</span><span class="p">)</span><span class="w">
+
+</span><span class="n">GOI1</span><span class="o">&lt;-</span><span class="n">read.table</span><span class="p">(</span><span class="s2">"https://raw.githubusercontent.com/Shicheng-Guo/RnaseqBacterial/master/extdata/interestlist1.txt"</span><span class="p">)</span><span class="w">
+</span><span class="n">GOI2</span><span class="o">&lt;-</span><span class="n">read.table</span><span class="p">(</span><span class="s2">"https://raw.githubusercontent.com/Shicheng-Guo/RnaseqBacterial/master/extdata/interestlist2.txt"</span><span class="p">)</span><span class="w">
+
+</span><span class="n">x1</span><span class="o">&lt;-</span><span class="n">tolower</span><span class="p">(</span><span class="n">GOI1</span><span class="p">[,</span><span class="m">1</span><span class="p">])</span><span class="w">
+</span><span class="n">x2</span><span class="o">&lt;-</span><span class="n">tolower</span><span class="p">(</span><span class="n">GOI1</span><span class="p">[,</span><span class="m">1</span><span class="p">])</span><span class="w">
+</span><span class="n">x3</span><span class="o">&lt;-</span><span class="n">tolower</span><span class="p">(</span><span class="n">data</span><span class="o">$</span><span class="n">N1</span><span class="p">)</span><span class="w">
+
+</span><span class="n">x1</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="w"> </span><span class="o">!</span><span class="w"> </span><span class="n">x1</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="n">x3</span><span class="p">)]</span><span class="w">
+</span><span class="n">x2</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="w"> </span><span class="o">!</span><span class="w"> </span><span class="n">x2</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="n">x3</span><span class="p">)]</span><span class="w">
+
+</span><span class="n">out1</span><span class="o">&lt;-</span><span class="n">na.omit</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="n">match</span><span class="p">(</span><span class="n">tolower</span><span class="p">(</span><span class="n">GOI1</span><span class="p">[,</span><span class="m">1</span><span class="p">]),</span><span class="n">tolower</span><span class="p">(</span><span class="n">data</span><span class="o">$</span><span class="n">N1</span><span class="p">)),])</span><span class="w">
+</span><span class="n">out2</span><span class="o">&lt;-</span><span class="n">na.omit</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="n">match</span><span class="p">(</span><span class="n">tolower</span><span class="p">(</span><span class="n">GOI2</span><span class="p">[,</span><span class="m">1</span><span class="p">]),</span><span class="n">tolower</span><span class="p">(</span><span class="n">data</span><span class="o">$</span><span class="n">N1</span><span class="p">)),])</span><span class="w">
+</span><span class="n">out1</span><span class="w">
+</span><span class="n">out2</span><span class="w">
+</span><span class="n">write.csv</span><span class="p">(</span><span class="n">out1</span><span class="p">,</span><span class="n">file</span><span class="o">=</span><span class="s2">"gene.tab.matrix.table3.csv"</span><span class="p">,</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+</span><span class="n">write.csv</span><span class="p">(</span><span class="n">out2</span><span class="p">,</span><span class="n">file</span><span class="o">=</span><span class="s2">"gene.tab.matrix.table4.csv"</span><span class="p">,</span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+
+      </div>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
+</html>

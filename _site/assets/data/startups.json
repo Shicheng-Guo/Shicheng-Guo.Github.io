@@ -1,0 +1,66 @@
+{
+  "updated": "2026-06-01",
+  "note": "Curated showcase. Edit this file (assets/data/startups.json) to add, remove, or reorder breakthrough startups.",
+  "startups": [
+    {
+      "name": "Isomorphic Labs",
+      "innovation": "AI-first drug design built on AlphaFold-class structure prediction.",
+      "tags": ["AI", "Protein structure", "Drug design"],
+      "link": "https://www.google.com/search?q=Isomorphic+Labs"
+    },
+    {
+      "name": "insitro",
+      "innovation": "Machine-learning-first drug discovery integrating genomics and high-content data.",
+      "tags": ["ML", "Genomics", "Discovery"],
+      "link": "https://www.google.com/search?q=insitro"
+    },
+    {
+      "name": "Recursion",
+      "innovation": "Industrializing discovery with automated phenomics and AI maps of biology.",
+      "tags": ["Phenomics", "AI", "Platform"],
+      "link": "https://www.google.com/search?q=Recursion+Pharmaceuticals"
+    },
+    {
+      "name": "Xaira Therapeutics",
+      "innovation": "Generative AI for biology; launched in 2024 with over $1B to design new medicines.",
+      "tags": ["Generative AI", "Protein design"],
+      "link": "https://www.google.com/search?q=Xaira+Therapeutics"
+    },
+    {
+      "name": "Generate:Biomedicines",
+      "innovation": "Generative biology to design protein therapeutics from first principles.",
+      "tags": ["Generative biology", "Proteins"],
+      "link": "https://www.google.com/search?q=Generate+Biomedicines"
+    },
+    {
+      "name": "EvolutionaryScale",
+      "innovation": "Frontier protein language models (ESM) for programmable biology.",
+      "tags": ["Protein LLMs", "Foundation models"],
+      "link": "https://www.google.com/search?q=EvolutionaryScale+ESM3"
+    },
+    {
+      "name": "Cradle",
+      "innovation": "Generative AI to design and optimize proteins for biotech R&D.",
+      "tags": ["Protein design", "AI"],
+      "link": "https://www.google.com/search?q=Cradle+bio+protein+design"
+    },
+    {
+      "name": "Genesis Therapeutics",
+      "innovation": "AI molecular modeling to drug historically hard-to-drug targets.",
+      "tags": ["AI", "Molecular modeling"],
+      "link": "https://www.google.com/search?q=Genesis+Therapeutics"
+    },
+    {
+      "name": "Iambic Therapeutics",
+      "innovation": "Physics-informed ML for fast discovery of clinical candidates.",
+      "tags": ["AI", "Discovery"],
+      "link": "https://www.google.com/search?q=Iambic+Therapeutics"
+    },
+    {
+      "name": "Chai Discovery",
+      "innovation": "Open models for molecular structure and interaction prediction (Chai-1).",
+      "tags": ["Structure prediction", "AI"],
+      "link": "https://www.google.com/search?q=Chai+Discovery+Chai-1"
+    }
+  ]
+}

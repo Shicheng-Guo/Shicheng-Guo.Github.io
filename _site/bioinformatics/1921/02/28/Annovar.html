@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>How to install ANNOVAR in DeepThought@UW-Madison — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/bioinformatics/1921/02/28/Annovar">
+</head>
+<body class="">
+
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
+
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
+
+  <hr class="author__divider">
+
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
+
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
+
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">February 28, 1921</span>
+  <h1 class="page__title">How to install ANNOVAR in DeepThought@UW-Madison</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shicheng Guo</p>
+<p>1, download ANNOVAR: <a href="http://annovar.openbioinformatics.org/en/latest/user-guide/download/">http://annovar.openbioinformatics.org/en/latest/user-guide/download/</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd ~/tools/annovar
+annotate_variation.pl -buildver hg19 -downdb cytoBand humandb/
+annotate_variation.pl -buildver hg19 -downdb -webfrom annovar refGene humandb/
+
+# just for allele frequency
+# annotate_variation.pl -downdb -webfrom annovar exac03 humandb -buildver hg38  &amp;
+# annotate_variation.pl -downdb -webfrom annovar esp6500siv2 humandb -buildver hg38 &amp;
+annotate_variation.pl -downdb -webfrom annovar esp6500siv2_all humandb -buildver hg38 &amp;
+annotate_variation.pl -downdb -webfrom annovar gnomad_exome humandb -buildver hg38 &amp;
+
+# whole-exome data
+annotate_variation.pl -downdb -webfrom annovar 1000g2015aug humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar kaviar_20150923 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar hrcr1 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar cg69 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar gnomad_genome humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar dbnsfp30a humandb -buildver hg38 &amp;
+annotate_variation.pl -downdb -webfrom annovar esp6500siv2 humandb -buildver hg38 &amp;
+annotate_variation.pl -downdb esp6500siv2 humandb -buildver hg38 &amp;
+
+# whole-genome data
+annotate_variation.pl -downdb -webfrom annovar gerp++ humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar cadd humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar cadd13 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar fathmm humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar eigen humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar gwava humandb -buildver hg38  &amp;
+
+# CNV
+annotate_variation.pl -downdb -webfrom annovar dbscsnv11 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar spidex humandb -buildver hg38  &amp;
+
+# disease-specific variants
+annotate_variation.pl -downdb -webfrom annovar clinvar_20160302 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar cosmic70 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar icgc21 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar nci60 humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar dbnsfp35c humandb -buildver hg38  &amp;
+annotate_variation.pl -downdb -webfrom annovar dbnsfp33a humandb -buildver hg19  &amp;
+annotate_variation.pl -downdb -webfrom annovar dbnsfp35a humandb -buildver hg19  &amp;
+annotate_variation.pl -downdb -webfrom annovar dann humandb --buildver hg38 &amp;
+annotate_variation.pl -downdb -webfrom annovar dann humandb --buildver hg19 &amp;
+annotate_variation.pl -downdb -webfrom annovar ljb23_all humandb --buildver hg19&amp;
+
+# GWAS
+annotate_variation.pl -buildver hg38 -downdb -webfrom annovar gwasCatalog humandb/ &amp;
+annotate_variation.pl -buildver hg38 -downdb  tfbsConsSites humandb/ 
+annotate_variation.pl -buildver hg38 -downdb -webfrom annovar wgRna humandb/ &amp;
+annotate_variation.pl -buildver hg38 -downdb targetScanS humandb/ 
+annotate_variation.pl -downdb -webfrom annovar dann humandb --buildver hg38 &amp;
+annotate_variation.pl -buildver hg38 -downdb  tfbsConsSites humandb/ 
+annotate_variation.pl -buildver hg38 -downdb  tfbsConsSites humandb/ 
+annotate_variation.pl -buildver hg38 -downdb -webfrom annovar gnomad_genome humandb/ 
+annotate_variation.pl -buildver hg38 -downdb -webfrom ucsc gnomad_genome humandb/ 
+</code></pre></div></div>
+<p>2, ANNOVAR now takes VCF as standard input</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bcftools view -G Final.vcf.gz --threads 32 -Ov -o avinput.vcf
+table_annovar.pl -vcfinput avinput.vcf ~/tools/annovar/humandb/ --thread 12 -buildver hg19 -out myanno -remove -protocol refGene,dbnsfp33a -operation gx,f -nastring . -otherinfo -polish -xref ~/tools/annovar/humandb/gene_fullxref.txt
+</code></pre></div></div>
+<p>3, SNP distribution patterns, how many intergenic? how many exomic?</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bcftools view -G Final.vcf.gz --threads 32 -Ov -o avinput.vcf
+table_annovar.pl -vcfinput avinput.vcf ~/tools/annovar/humandb/ --thread 12 -buildver hg19 -out myanno -remove -protocol refGene,dbnsfp33a -operation gx,f -nastring . -otherinfo -polish -xref ~/tools/annovar/humandb/gene_fullxref.txt
+
+data&lt;-read.table("c1",as.is=T)
+anno&lt;-data[,1]
+anno[anno=="ncRNA_UTR5"]&lt;-"ncRNA_exonic"
+anno[anno=="ncRNA_exonic;splicing"]&lt;-"ncRNA_exonic"
+anno[anno=="exonic;splicing"]&lt;-"splicing"
+anno[anno=="UTR5;UTR3"]&lt;-"exonic"
+anno[anno=="ncRNA_splicing"]&lt;-"splicing"
+anno[anno=="upstream;downstream"]&lt;-"intergenic"
+input&lt;-table(anno)
+pdf("pie.annovar.pdf")
+pie(input,col=rainbow(length(input)),main="N=13,494,289 SNPs")
+dev.off()
+</code></pre></div></div>
+<p>4, Distance distribution to exome regions?</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>perl -lane '{print $1 if /dist=(\d+)/}' myanno.refGene.variant_function &gt; dist
+
+data&lt;-read.table("dist",as.is=T)
+distance&lt;-data[,1]
+
+pdf("dist.annovar.pdf")
+hist(distance,col=rainbow(20),main=paste("N=",length(distance),"SNPs",sep=" "))
+dev.off()
+
+distance&lt;-distance[distance&lt;100000]
+pdf("dist.100k.annovar.pdf")
+hist(distance,col=rainbow(20),main=paste("N=",length(distance),"SNPs",sep=" "),xlab="distance to nearby exome (bp)")
+dev.off()
+
+distance&lt;-distance[distance&lt;10000]
+pdf("dist.10k.annovar.pdf")
+hist(distance,col=rainbow(20),main=paste("N=",length(distance),"SNPs",sep=" "),xlab="distance to nearby exome (bp)")
+dev.off()
+
+distance&lt;-distance[distance&lt;1000]
+pdf("dist.1k.annovar.pdf")
+hist(distance,col=rainbow(20),main=paste("N=",length(distance),"SNPs",sep=" "),xlab="distance to nearby exome (bp)")
+dev.off()
+</code></pre></div></div>
+<p>5, PCA analysis</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>awk '{print $4}' hsa.gff3.hg19.bed  | sort -u &gt; hsa.gff3.hg19.snp
+plink --bfile /gpfs/home/guosa/hpc/db/hg19/1000Genome/plink/G1000plink --extract hsa.gff3.hg19.snp --make-bed --out G1000.miRNA
+plink --bfile ROI.RA3000.dbsnp --bmerge G1000.miRNA --allow-no-sex --make-bed --out ./PCA/ROI
+plink --bfile ROI --threads 31 --cluster --mds-plot 2
+plink --bfile ROI --threads 31 --pca 2 'header' --out ROI
+
+hapmap2&lt;-read.table("https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hapmap2.pop",head=F)
+hapmap3&lt;-read.table("https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hapmap3.pop",head=T)
+G1000Sam &lt;-read.table("https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/1000G/1000GenomeSampleInfo.txt",head=F,as.is=T)
+G1000Super&lt;-read.table("https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/1000G/superpopulation.txt",head=F,sep="\t")
+G1000Sam$superpop&lt;-G1000Super[match(G1000Sam$V3,G1000Super$V1),]$V2
+write.table(G1000Sam,file="1000GenomeSampleInfo.txt",quote=F,sep="\t",col.names=F,row.names=F)
+
+eigenvec&lt;-read.table("plink.eigenvec",head=T)
+head(eigenvec)
+pop&lt;-as.character(G1000Sam[match(eigenvec[,2],G1000Sam[,2]),3])
+super&lt;-as.character(G1000Sam[match(eigenvec[,2],G1000Sam[,2]),5])
+pop[is.na(pop)]&lt;-"GHRA"
+super[is.na(super)]&lt;-"GHRA"
+eigenvec$pop=pop
+eigenvec$super=super
+eigenvec$col=as.numeric(as.factor(super))
+eigenvec$pch=as.numeric(as.factor(super))
+
+set&lt;-unique(data.frame(pch=eigenvec$pch,col=eigenvec$col,legend=eigenvec$super))
+
+for(i in 1:15){
+jpeg(paste("pca.super",i,".jpg",sep=""))
+plot(eigenvec[,3],eigenvec[,4],pch=16,col=eigenvec$col+i,xlab="principle component 1",ylab="principle componment 2",cex.axis=1.5,cex.lab=1.5,cex=1)
+legend("topright",pch=16,legend=set$legend,col=set$col+i,bty="n",cex=1)
+dev.off()
+}
+</code></pre></div></div>
+
+
+
+      </div>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
+</html>

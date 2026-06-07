@@ -1,288 +1,135 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Plotting trees from Random Forest models with ggraph</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>Plotting trees from Random Forest models with ggraph — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/machine_learning/2017/03/16/rf_plot_ggraph">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>Plotting trees from Random Forest models with ggraph </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Plotting trees from Random Forest models with ggraph" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>16 March 2017</span>
-    </div>
-    <div class="content">
-      <p>Today, I want to show how I use Thomas Lin Pedersen’s awesome <a href="https://github.com/thomasp85/ggraph">ggraph</a> package to plot decision trees from Random Forest models.</p>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">March 16, 2017</span>
+  <h1 class="page__title">Plotting trees from Random Forest models with ggraph</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<p>Today, I want to show how I use Thomas Lin Pedersen’s awesome <a href="https://github.com/thomasp85/ggraph">ggraph</a> package to plot decision trees from Random Forest models.</p>
 
 <p>I am very much a visual person, so I try to plot as much of my results as possible because it helps me get a better feel for what is going on with my data.</p>
 
 <p>A nice aspect of using tree-based machine learning, like Random Forest models, is that that they are more easily interpreted than e.g. neural networks as they are based on decision trees. So, when I am using such models, I like to plot final decision trees (if they aren’t too large) to get a sense of which decisions are underlying my predictions.</p>
 
-<p>There are a few very convient ways to plot the outcome if you are using the <code class="highlighter-rouge">randomForest</code> package but I like to have as much control as possible about the layout, colors, labels, etc. And because I didn’t find a solution I liked for <code class="highlighter-rouge">caret</code> models, I developed the following little function (below you may find information about how I built the model):</p>
+<p>There are a few very convient ways to plot the outcome if you are using the <code class="language-plaintext highlighter-rouge">randomForest</code> package but I like to have as much control as possible about the layout, colors, labels, etc. And because I didn’t find a solution I liked for <code class="language-plaintext highlighter-rouge">caret</code> models, I developed the following little function (below you may find information about how I built the model):</p>
 
-<p>As input, it takes part of the output from <code class="highlighter-rouge">model_rf &lt;- caret::train(... "rf" ...)</code>, that gives the trees of the final model: <code class="highlighter-rouge">model_rf$finalModel$forest</code>. From these trees, you can specify which one to plot by index.</p>
+<p>As input, it takes part of the output from <code class="language-plaintext highlighter-rouge">model_rf &lt;- caret::train(... "rf" ...)</code>, that gives the trees of the final model: <code class="language-plaintext highlighter-rouge">model_rf$finalModel$forest</code>. From these trees, you can specify which one to plot by index.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">ggraph</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">igraph</span><span class="p">)</span><span class="w">
 
 </span><span class="n">tree_func</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">final_model</span><span class="p">,</span><span class="w"> 
                       </span><span class="n">tree_num</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
   
-  </span><span class="c1"># get tree by index
-</span><span class="w">  </span><span class="n">tree</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">randomForest</span><span class="o">::</span><span class="n">getTree</span><span class="p">(</span><span class="n">final_model</span><span class="p">,</span><span class="w"> 
+  </span><span class="c1"># get tree by index</span><span class="w">
+  </span><span class="n">tree</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">randomForest</span><span class="o">::</span><span class="n">getTree</span><span class="p">(</span><span class="n">final_model</span><span class="p">,</span><span class="w"> 
                                 </span><span class="n">k</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tree_num</span><span class="p">,</span><span class="w"> 
                                 </span><span class="n">labelVar</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
     </span><span class="n">tibble</span><span class="o">::</span><span class="n">rownames_to_column</span><span class="p">()</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
-    </span><span class="c1"># make leaf split points to NA, so the 0s won't get plotted
-</span><span class="w">    </span><span class="n">mutate</span><span class="p">(</span><span class="n">`split point`</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">prediction</span><span class="p">),</span><span class="w"> </span><span class="n">`split point`</span><span class="p">,</span><span class="w"> </span><span class="kc">NA</span><span class="p">))</span><span class="w">
+    </span><span class="c1"># make leaf split points to NA, so the 0s won't get plotted</span><span class="w">
+    </span><span class="n">mutate</span><span class="p">(</span><span class="n">`split point`</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">prediction</span><span class="p">),</span><span class="w"> </span><span class="n">`split point`</span><span class="p">,</span><span class="w"> </span><span class="kc">NA</span><span class="p">))</span><span class="w">
   
-  </span><span class="c1"># prepare data frame for graph
-</span><span class="w">  </span><span class="n">graph_frame</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">from</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="n">tree</span><span class="o">$</span><span class="n">rowname</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">),</span><span class="w">
+  </span><span class="c1"># prepare data frame for graph</span><span class="w">
+  </span><span class="n">graph_frame</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">from</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="n">tree</span><span class="o">$</span><span class="n">rowname</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">),</span><span class="w">
                             </span><span class="n">to</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">tree</span><span class="o">$</span><span class="n">`left daughter`</span><span class="p">,</span><span class="w"> </span><span class="n">tree</span><span class="o">$</span><span class="n">`right daughter`</span><span class="p">))</span><span class="w">
   
-  </span><span class="c1"># convert to graph and delete the last node that we don't want to plot
-</span><span class="w">  </span><span class="n">graph</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">graph_from_data_frame</span><span class="p">(</span><span class="n">graph_frame</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+  </span><span class="c1"># convert to graph and delete the last node that we don't want to plot</span><span class="w">
+  </span><span class="n">graph</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">graph_from_data_frame</span><span class="p">(</span><span class="n">graph_frame</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
     </span><span class="n">delete_vertices</span><span class="p">(</span><span class="s2">"0"</span><span class="p">)</span><span class="w">
   
-  </span><span class="c1"># set node labels
-</span><span class="w">  </span><span class="n">V</span><span class="p">(</span><span class="n">graph</span><span class="p">)</span><span class="o">$</span><span class="n">node_label</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_"</span><span class="p">,</span><span class="w"> </span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="nf">as.character</span><span class="p">(</span><span class="n">tree</span><span class="o">$</span><span class="n">`split var`</span><span class="p">))</span><span class="w">
+  </span><span class="c1"># set node labels</span><span class="w">
+  </span><span class="n">V</span><span class="p">(</span><span class="n">graph</span><span class="p">)</span><span class="o">$</span><span class="n">node_label</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_"</span><span class="p">,</span><span class="w"> </span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="nf">as.character</span><span class="p">(</span><span class="n">tree</span><span class="o">$</span><span class="n">`split var`</span><span class="p">))</span><span class="w">
   </span><span class="n">V</span><span class="p">(</span><span class="n">graph</span><span class="p">)</span><span class="o">$</span><span class="n">leaf_label</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">as.character</span><span class="p">(</span><span class="n">tree</span><span class="o">$</span><span class="n">prediction</span><span class="p">)</span><span class="w">
   </span><span class="n">V</span><span class="p">(</span><span class="n">graph</span><span class="p">)</span><span class="o">$</span><span class="n">split</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">as.character</span><span class="p">(</span><span class="nf">round</span><span class="p">(</span><span class="n">tree</span><span class="o">$</span><span class="n">`split point`</span><span class="p">,</span><span class="w"> </span><span class="n">digits</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">))</span><span class="w">
   
-  </span><span class="c1"># plot
-</span><span class="w">  </span><span class="n">plot</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggraph</span><span class="p">(</span><span class="n">graph</span><span class="p">,</span><span class="w"> </span><span class="s1">'dendrogram'</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+  </span><span class="c1"># plot</span><span class="w">
+  </span><span class="n">plot</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggraph</span><span class="p">(</span><span class="n">graph</span><span class="p">,</span><span class="w"> </span><span class="s1">'dendrogram'</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
     </span><span class="n">theme_bw</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_edge_link</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_node_point</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -305,18 +152,16 @@
   
   </span><span class="n">print</span><span class="p">(</span><span class="n">plot</span><span class="p">)</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <p>We can now plot, e.g. the tree with the smalles number of nodes:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">tree_num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="o">$</span><span class="n">forest</span><span class="o">$</span><span class="n">ndbigtree</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="nf">min</span><span class="p">(</span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="o">$</span><span class="n">forest</span><span class="o">$</span><span class="n">ndbigtree</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">tree_num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="o">$</span><span class="n">forest</span><span class="o">$</span><span class="n">ndbigtree</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="nf">min</span><span class="p">(</span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="o">$</span><span class="n">forest</span><span class="o">$</span><span class="n">ndbigtree</span><span class="p">))</span><span class="w">
 
 </span><span class="n">tree_func</span><span class="p">(</span><span class="n">final_model</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="p">,</span><span class="w"> </span><span class="n">tree_num</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="rf_plot_ggraph_files/figure-markdown_github/unnamed-chunk-3-1.png" alt="" /></p>
 
@@ -324,11 +169,10 @@
 
 <p>Or we can plot the tree with the biggest number of nodes:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">tree_num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="o">$</span><span class="n">forest</span><span class="o">$</span><span class="n">ndbigtree</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="nf">max</span><span class="p">(</span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="o">$</span><span class="n">forest</span><span class="o">$</span><span class="n">ndbigtree</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">tree_num</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="o">$</span><span class="n">forest</span><span class="o">$</span><span class="n">ndbigtree</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="nf">max</span><span class="p">(</span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="o">$</span><span class="n">forest</span><span class="o">$</span><span class="n">ndbigtree</span><span class="p">))</span><span class="w">
 
 </span><span class="n">tree_func</span><span class="p">(</span><span class="n">final_model</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">model_rf</span><span class="o">$</span><span class="n">finalModel</span><span class="p">,</span><span class="w"> </span><span class="n">tree_num</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="rf_plot_ggraph_files/figure-markdown_github/unnamed-chunk-4-1.png" alt="" /></p>
 
@@ -363,7 +207,7 @@
   <li>Classes, i.e. diagnosis</li>
 </ul>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">bc_data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read.table</span><span class="p">(</span><span class="s2">"datasets/breast-cancer-wisconsin.data.txt"</span><span class="p">,</span><span class="w"> </span><span class="n">header</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">","</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">bc_data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read.table</span><span class="p">(</span><span class="s2">"datasets/breast-cancer-wisconsin.data.txt"</span><span class="p">,</span><span class="w"> </span><span class="n">header</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">","</span><span class="p">)</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">bc_data</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"sample_code_number"</span><span class="p">,</span><span class="w"> 
                        </span><span class="s2">"clump_thickness"</span><span class="p">,</span><span class="w"> 
                        </span><span class="s2">"uniformity_of_cell_size"</span><span class="p">,</span><span class="w"> 
@@ -381,7 +225,7 @@
 
 </span><span class="n">bc_data</span><span class="p">[</span><span class="n">bc_data</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"?"</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="kc">NA</span><span class="w">
 
-</span><span class="c1"># impute missing data
+</span><span class="c1"># impute missing data</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">mice</span><span class="p">)</span><span class="w">
 
 </span><span class="n">bc_data</span><span class="p">[,</span><span class="m">2</span><span class="o">:</span><span class="m">10</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">apply</span><span class="p">(</span><span class="n">bc_data</span><span class="p">[,</span><span class="w"> </span><span class="m">2</span><span class="o">:</span><span class="m">10</span><span class="p">],</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="nf">as.character</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
@@ -390,10 +234,10 @@
 
 </span><span class="n">bc_data</span><span class="o">$</span><span class="n">classes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.factor</span><span class="p">(</span><span class="n">bc_data</span><span class="o">$</span><span class="n">classes</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># how many benign and malignant cases are there?
+</span><span class="c1"># how many benign and malignant cases are there?</span><span class="w">
 </span><span class="n">summary</span><span class="p">(</span><span class="n">bc_data</span><span class="o">$</span><span class="n">classes</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># separate into training and test data
+</span><span class="c1"># separate into training and test data</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">caret</span><span class="p">)</span><span class="w">
 
 </span><span class="n">set.seed</span><span class="p">(</span><span class="m">42</span><span class="p">)</span><span class="w">
@@ -401,7 +245,7 @@
 </span><span class="n">train_data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">bc_data</span><span class="p">[</span><span class="n">index</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
 </span><span class="n">test_data</span><span class="w">  </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">bc_data</span><span class="p">[</span><span class="o">-</span><span class="n">index</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
 
-</span><span class="c1"># run model
+</span><span class="c1"># run model</span><span class="w">
 </span><span class="n">set.seed</span><span class="p">(</span><span class="m">42</span><span class="p">)</span><span class="w">
 </span><span class="n">model_rf</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">caret</span><span class="o">::</span><span class="n">train</span><span class="p">(</span><span class="n">classes</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="n">.</span><span class="p">,</span><span class="w">
                          </span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">train_data</span><span class="p">,</span><span class="w">
@@ -412,8 +256,7 @@
                                                   </span><span class="n">repeats</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10</span><span class="p">,</span><span class="w"> 
                                                   </span><span class="n">savePredictions</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> 
                                                   </span><span class="n">verboseIter</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -425,11 +268,10 @@
 
 <p><br /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.3.3 (2017-03-06)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## R version 3.3.3 (2017-03-06)
 ## Platform: x86_64-w64-mingw32/x64 (64-bit)
 ## Running under: Windows 7 x64 (build 7601) Service Pack 1
 ## 
@@ -467,125 +309,28 @@
 ## [49] assertthat_0.1      pbkrtest_0.4-6      ggforce_0.1.1      
 ## [52] colorspace_1.3-2    labeling_0.3        quantreg_5.29      
 ## [55] stringi_1.1.2       lazyeval_0.2.0      munsell_0.4.3
-</code></pre>
-</div>
-
-    </div>
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
+</code></pre></div></div>
 
 
-  
-     
-    	<li><a href="/categories.html#machine_learning-ref">
-    		machine_learning <span>14</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#ggplot2-ref">ggplot2 <span>32</span></a></li>
-     
-    	<li><a href="/tags.html#machine_learning-ref">machine_learning <span>13</span></a></li>
-     
-    	<li><a href="/tags.html#caret-ref">caret <span>3</span></a></li>
-     
-    	<li><a href="/tags.html#random_forest-ref">random_forest <span>6</span></a></li>
-     
-    	<li><a href="/tags.html#ggraph-ref">ggraph <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#igraph-ref">igraph <span>5</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev"><a href="/machine_learning/2017/03/07/grid_search" title="Hyper-parameter Tuning with Grid Search for Deep Learning">&laquo; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/machine_learning/2017/03/31/webinar_code" title="Building meaningful machine learning models for disease prediction">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

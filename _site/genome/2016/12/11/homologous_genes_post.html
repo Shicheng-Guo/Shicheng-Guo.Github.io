@@ -1,249 +1,96 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Creating a network of human gene homology with R and D3</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>Creating a network of human gene homology with R and D3 — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/genome/2016/12/11/homologous_genes_post">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>Creating a network of human gene homology with R and D3 </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Creating a network of human gene homology with R and D3" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>11 December 2016</span>
-    </div>
-    <div class="content">
-      <p><strong>Edited on 20 December 2016</strong></p>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">December 11, 2016</span>
+  <h1 class="page__title">Creating a network of human gene homology with R and D3</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<p><strong>Edited on 20 December 2016</strong></p>
 
 <hr />
 
@@ -257,24 +104,22 @@
 
 <p>I am using the <a href="https://bioconductor.org/packages/release/bioc/html/biomaRt.html">biomaRt</a> package to access all datasets available in the <a href="http://www.ensembl.org/biomart/martview/64258667e46f2ecac32be58d12091b87">Biomart</a> Ensembl database. The <em>listDatasets()</em> function shows that currently there is data for 69 species (including humans). This dataframe gives us the name of each dataset in Biomart Ensembl, the respective common species name and version number.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">biomaRt</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">biomaRt</span><span class="p">)</span><span class="w">
 </span><span class="n">ensembl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">useMart</span><span class="p">(</span><span class="s2">"ensembl"</span><span class="p">)</span><span class="w">
 </span><span class="n">datasets</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">listDatasets</span><span class="p">(</span><span class="n">ensembl</span><span class="p">)</span><span class="w">
 
 </span><span class="n">human</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">useMart</span><span class="p">(</span><span class="s2">"ensembl"</span><span class="p">,</span><span class="w"> </span><span class="n">dataset</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"hsapiens_gene_ensembl"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>I am then looping over each species to call <em>useMart()</em> and assign an object to each species’ Ensembl database.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">datasets</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">datasets</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
   </span><span class="n">ensembl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">datasets</span><span class="p">[</span><span class="n">i</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">]</span><span class="w">
   </span><span class="n">assign</span><span class="p">(</span><span class="n">paste0</span><span class="p">(</span><span class="n">ensembl</span><span class="p">),</span><span class="w"> </span><span class="n">useMart</span><span class="p">(</span><span class="s2">"ensembl"</span><span class="p">,</span><span class="w"> </span><span class="n">dataset</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">paste0</span><span class="p">(</span><span class="n">ensembl</span><span class="p">)))</span><span class="w">
 </span><span class="p">}</span><span class="w">
 
 </span><span class="n">specieslist</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">datasets</span><span class="o">$</span><span class="n">dataset</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -286,23 +131,22 @@
 
 <p>To identify all protein coding genes in the human genome, I am using <a href="https://bioconductor.org/packages/release/bioc/html/AnnotationDbi.html">AnnotationDbi</a> and the <a href="https://bioconductor.org/packages/release/data/annotation/html/EnsDb.Hsapiens.v79.html">EnsDb.Hsapiens.v79</a> database.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">AnnotationDbi</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">AnnotationDbi</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># get all Ensembl gene IDs
+</span><span class="c1"># get all Ensembl gene IDs</span><span class="w">
 </span><span class="n">human_EnsDb</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">keys</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># get the biotype of each gene ID
+</span><span class="c1"># get the biotype of each gene ID</span><span class="w">
 </span><span class="n">human_gene_EnsDb</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ensembldb</span><span class="o">::</span><span class="n">select</span><span class="p">(</span><span class="n">EnsDb.Hsapiens.v79</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">human_EnsDb</span><span class="p">,</span><span class="w"> </span><span class="n">columns</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEBIOTYPE"</span><span class="p">,</span><span class="w"> </span><span class="n">keytype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># and keep only protein coding genes
+</span><span class="c1"># and keep only protein coding genes</span><span class="w">
 </span><span class="n">human_prot_coding_genes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">human_gene_EnsDb</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">human_gene_EnsDb</span><span class="o">$</span><span class="n">GENEBIOTYPE</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"protein_coding"</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>To get a dataframe of human genes and their homologs in other species, I am looping over all Biomart Ensembl databases using biomaRt’s <em>getLDS()</em> function. <em>getLDS()</em> links two datasets and is equivalent to homology mapping with Ensembl. I am also including the human database so that I can see how many genes from EnsDb.Hsapiens.v79 are found via Biomart.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">species</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">specieslist</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">species</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">specieslist</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
   </span><span class="n">print</span><span class="p">(</span><span class="n">species</span><span class="p">)</span><span class="w">
   </span><span class="n">assign</span><span class="p">(</span><span class="n">paste0</span><span class="p">(</span><span class="s2">"homologs_human_"</span><span class="p">,</span><span class="w"> </span><span class="n">species</span><span class="p">),</span><span class="w"> </span><span class="n">getLDS</span><span class="p">(</span><span class="n">attributes</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"ensembl_gene_id"</span><span class="p">,</span><span class="w"> </span><span class="s2">"chromosome_name"</span><span class="p">),</span><span class="w"> 
        </span><span class="n">filters</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"ensembl_gene_id"</span><span class="p">,</span><span class="w"> 
@@ -311,12 +155,11 @@
        </span><span class="n">attributesL</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"ensembl_gene_id"</span><span class="p">,</span><span class="w"> </span><span class="s2">"chromosome_name"</span><span class="p">),</span><span class="w"> 
        </span><span class="n">martL</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">get</span><span class="p">(</span><span class="n">species</span><span class="p">)))</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>Based on EnsDb.Hsapiens.v79 protein coding genes, I now have 69 individual datasets with homologous genes found in other species. I now want to combine these 69 datasets into one cooccurrence matrix. To do this, I am first joining the homologous gene subsets back to the original dataframe with all protein coding genes. Then, I convert existing homologous gene names to 1 and NAs to 0. These, I then merge into one table. This final table now contains the information whether each gene has a homolog in each of the other species (“1”) or not (“0”).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w">
 
 </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">specieslist</span><span class="p">)){</span><span class="w">
   </span><span class="n">species</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">specieslist</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="w">
@@ -331,14 +174,12 @@
     </span><span class="n">homologs_human_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">left_join</span><span class="p">(</span><span class="n">homologs_human_table</span><span class="p">,</span><span class="w"> </span><span class="n">homologs_human</span><span class="p">,</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"GENEID"</span><span class="p">)</span><span class="w">
   </span><span class="p">}</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>I only want to keep the 21,925 human genes found via Biomart (77 genes were not found).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">homologs_human_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">homologs_human_table</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">homologs_human_table</span><span class="p">[,</span><span class="w"> </span><span class="n">grep</span><span class="p">(</span><span class="s2">"sapiens"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">homologs_human_table</span><span class="p">))]</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">1</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">homologs_human_table</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">homologs_human_table</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">homologs_human_table</span><span class="p">[,</span><span class="w"> </span><span class="n">grep</span><span class="p">(</span><span class="s2">"sapiens"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">homologs_human_table</span><span class="p">))]</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">1</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
+</span></code></pre></div></div>
 
 <p>The final steps to creating a cooccurrence matrix are</p>
 
@@ -348,20 +189,18 @@
   <li>setting all rows and columns which don’t show cooccurrences with humans to 0 (because I only looked at homology from the human perspective).</li>
 </ul>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">gene_matrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">homologs_human_table</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">]</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gene_matrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">homologs_human_table</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">]</span><span class="w">
 
 </span><span class="n">co_occurrence</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">t</span><span class="p">(</span><span class="n">as.matrix</span><span class="p">(</span><span class="n">gene_matrix</span><span class="p">))</span><span class="w"> </span><span class="o">%*%</span><span class="w"> </span><span class="n">as.matrix</span><span class="p">(</span><span class="n">gene_matrix</span><span class="p">)</span><span class="w">
 </span><span class="n">co_occurrence</span><span class="p">[</span><span class="o">-</span><span class="n">grep</span><span class="p">(</span><span class="s2">"sapiens"</span><span class="p">,</span><span class="w"> </span><span class="n">rownames</span><span class="p">(</span><span class="n">co_occurrence</span><span class="p">)),</span><span class="w"> </span><span class="o">-</span><span class="n">grep</span><span class="p">(</span><span class="s2">"sapiens"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">co_occurrence</span><span class="p">))]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">0</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>The first information I want to extract from this data is how many and what proportion of human genes had a homolog in each of the other species.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">genes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">organism</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">gene_matrix</span><span class="p">),</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">genes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">organism</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">gene_matrix</span><span class="p">),</span><span class="w">
                     </span><span class="n">number_genes</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colSums</span><span class="p">(</span><span class="n">gene_matrix</span><span class="p">),</span><span class="w">
                     </span><span class="n">proportion_human_genes</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colSums</span><span class="p">(</span><span class="n">gene_matrix</span><span class="p">)</span><span class="o">/</span><span class="n">nrow</span><span class="p">(</span><span class="n">homologs_human_table</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>I also want to know which species are similar regarding the gene homology they share with humans. This, I will visualize with a hierarchical clustering dendrogram using the <a href="https://cran.r-project.org/web/packages/dendextend/vignettes/introduction.html">dendextend</a> and <a href="https://cran.r-project.org/web/packages/circlize/index.html">circlize</a> packages.</p>
 
@@ -376,10 +215,10 @@
 
 <p>Most of the common names I can extract from the list of Biomart Ensembl datasets but a few I have to change manually.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">dendextend</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">dendextend</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">circlize</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># create a dendrogram
+</span><span class="c1"># create a dendrogram</span><span class="w">
 </span><span class="n">h</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">hclust</span><span class="p">(</span><span class="n">dist</span><span class="p">(</span><span class="n">scale</span><span class="p">(</span><span class="n">as.matrix</span><span class="p">(</span><span class="n">t</span><span class="p">(</span><span class="n">gene_matrix</span><span class="p">))),</span><span class="w"> </span><span class="n">method</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"manhattan"</span><span class="p">))</span><span class="w">
 </span><span class="n">dend</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.dendrogram</span><span class="p">(</span><span class="n">h</span><span class="p">)</span><span class="w">
 
@@ -398,12 +237,11 @@
 </span><span class="n">labels</span><span class="o">$</span><span class="n">description</span><span class="p">[</span><span class="n">grep</span><span class="p">(</span><span class="s2">"elegans"</span><span class="p">,</span><span class="w"> </span><span class="n">labels</span><span class="o">$</span><span class="n">description</span><span class="p">)]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"C. elegans"</span><span class="w">
 </span><span class="n">labels</span><span class="o">$</span><span class="n">description</span><span class="p">[</span><span class="n">grep</span><span class="p">(</span><span class="s2">"turtle"</span><span class="p">,</span><span class="w"> </span><span class="n">labels</span><span class="o">$</span><span class="n">description</span><span class="p">)]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"Turtle"</span><span class="w">
 </span><span class="n">labels</span><span class="o">$</span><span class="n">description</span><span class="p">[</span><span class="n">grep</span><span class="p">(</span><span class="s2">"Vervet"</span><span class="p">,</span><span class="w"> </span><span class="n">labels</span><span class="o">$</span><span class="n">description</span><span class="p">)]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"Vervet"</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>The first plot shows the proportion of human genes with a homolog in each of the other species.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
 
 </span><span class="n">my_theme</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">base_size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">12</span><span class="p">,</span><span class="w"> </span><span class="n">base_family</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"sans"</span><span class="p">){</span><span class="w">
   </span><span class="n">theme_grey</span><span class="p">(</span><span class="n">base_size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">base_size</span><span class="p">,</span><span class="w"> </span><span class="n">base_family</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">base_family</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -438,8 +276,7 @@
     </span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Human gene homology"</span><span class="p">,</span><span class="w">
     </span><span class="n">subtitle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Proportion of human protein coding genes with homologs in 68 other species"</span><span class="w">
   </span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="homologous_genes_post_files/figure-markdown_github/unnamed-chunk-12-1.png" style="display: block; margin: auto;" /></p>
 
@@ -451,13 +288,12 @@
 
 <p>For plotting the dendrograms, I am adding a column with color specifications for each group to the annotation table.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">labels</span><span class="o">$</span><span class="n">col</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="s2">"aquamarine4"</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"darkorange3"</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">),</span><span class="w"> </span><span class="s2">"blue4"</span><span class="p">,</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"darkorange3"</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"darkred"</span><span class="p">,</span><span class="w"> </span><span class="m">5</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"darkmagenta"</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"aquamarine4"</span><span class="p">,</span><span class="w"> </span><span class="m">41</span><span class="p">),</span><span class="w"> </span><span class="s2">"darkslateblue"</span><span class="p">,</span><span class="w"> </span><span class="s2">"deepskyblue1"</span><span class="p">,</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"deeppink3"</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">),</span><span class="w"> </span><span class="s2">"forestgreen"</span><span class="p">,</span><span class="w"> </span><span class="s2">"brown3"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">labels</span><span class="o">$</span><span class="n">col</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="s2">"aquamarine4"</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"darkorange3"</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">),</span><span class="w"> </span><span class="s2">"blue4"</span><span class="p">,</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"darkorange3"</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"darkred"</span><span class="p">,</span><span class="w"> </span><span class="m">5</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"darkmagenta"</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"aquamarine4"</span><span class="p">,</span><span class="w"> </span><span class="m">41</span><span class="p">),</span><span class="w"> </span><span class="s2">"darkslateblue"</span><span class="p">,</span><span class="w"> </span><span class="s2">"deepskyblue1"</span><span class="p">,</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"deeppink3"</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">),</span><span class="w"> </span><span class="s2">"forestgreen"</span><span class="p">,</span><span class="w"> </span><span class="s2">"brown3"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p>This dendrogram shows the hierarchical clustering of human gene homology with 68 other species. The species are grouped by color (see legend).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">labels</span><span class="p">(</span><span class="n">dend</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">labels</span><span class="o">$</span><span class="n">description</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">labels</span><span class="p">(</span><span class="n">dend</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">labels</span><span class="o">$</span><span class="n">description</span><span class="w">
 </span><span class="n">dend</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> 
   </span><span class="n">set</span><span class="p">(</span><span class="s2">"labels_col"</span><span class="p">,</span><span class="w"> </span><span class="n">labels</span><span class="o">$</span><span class="n">col</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> 
   </span><span class="n">set</span><span class="p">(</span><span class="s2">"labels_cex"</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> 
@@ -465,8 +301,7 @@
 
 </span><span class="n">legend</span><span class="p">(</span><span class="s2">"topleft"</span><span class="p">,</span><span class="w"> </span><span class="n">unique</span><span class="p">(</span><span class="n">labels</span><span class="o">$</span><span class="n">group</span><span class="p">),</span><span class="w"> </span><span class="n">pch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">19</span><span class="p">,</span><span class="w">
        </span><span class="n">col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">unique</span><span class="p">(</span><span class="n">labels</span><span class="o">$</span><span class="n">col</span><span class="p">),</span><span class="w"> </span><span class="n">pt.cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">bty</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"n"</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="homologous_genes_post_files/figure-markdown_github/unnamed-chunk-15-1.png" style="display: block; margin: auto;" /></p>
 
@@ -478,7 +313,7 @@
 
 <p>In order to show the homology between human genes with the other species, we can also plot a network. The 2D-network is created from the cooccurrence matrix with node size and edge width representing the proportion of homology and colors depicting the species’ group.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># plot the network graph
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># plot the network graph</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">igraph</span><span class="p">)</span><span class="w">
 </span><span class="n">g</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">graph_from_adjacency_matrix</span><span class="p">(</span><span class="n">co_occurrence</span><span class="p">,</span><span class="w">
                          </span><span class="n">weighted</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w">
@@ -495,10 +330,9 @@
 </span><span class="n">E</span><span class="p">(</span><span class="n">g</span><span class="p">)</span><span class="o">$</span><span class="n">arrow.size</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">0.2</span><span class="w">
 </span><span class="n">E</span><span class="p">(</span><span class="n">g</span><span class="p">)</span><span class="o">$</span><span class="n">edge.color</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"gray80"</span><span class="w">
 </span><span class="n">E</span><span class="p">(</span><span class="n">g</span><span class="p">)</span><span class="o">$</span><span class="n">width</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">labels_2</span><span class="o">$</span><span class="n">proportion_human_genes</span><span class="o">*</span><span class="m">10</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">g</span><span class="p">,</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">g</span><span class="p">,</span><span class="w">
      </span><span class="n">vertex.label.font</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w">
      </span><span class="n">vertex.shape</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"sphere"</span><span class="p">,</span><span class="w">
      </span><span class="n">vertex.label.cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w">
@@ -507,14 +341,13 @@
 
 </span><span class="n">legend</span><span class="p">(</span><span class="s2">"topleft"</span><span class="p">,</span><span class="w"> </span><span class="n">unique</span><span class="p">(</span><span class="n">labels_2</span><span class="o">$</span><span class="n">group</span><span class="p">),</span><span class="w"> </span><span class="n">pch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">19</span><span class="p">,</span><span class="w">
        </span><span class="n">col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">unique</span><span class="p">(</span><span class="n">labels_2</span><span class="o">$</span><span class="n">col</span><span class="p">),</span><span class="w"> </span><span class="n">pt.cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1.5</span><span class="p">,</span><span class="w"> </span><span class="n">bty</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"n"</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="homologous_genes_post_files/figure-markdown_github/unnamed-chunk-17-1.png" style="display: block; margin: auto;" /></p>
 
 <p>Another nice way to visualize networks is to create a D3 JavaScript network graph with the <a href="https://christophergandrud.github.io/networkD3/">networkD3</a> package. It shows the same information as the 2D-network above but here you can interact with the nodes, which makes the species names easier to read.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">networkD3</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">networkD3</span><span class="p">)</span><span class="w">
 
 </span><span class="n">net_d3</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">igraph_to_networkD3</span><span class="p">(</span><span class="n">g</span><span class="p">,</span><span class="w"> </span><span class="n">group</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">labels_2</span><span class="o">$</span><span class="n">group</span><span class="p">)</span><span class="w">
 </span><span class="n">net_d3</span><span class="o">$</span><span class="n">nodes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">merge</span><span class="p">(</span><span class="n">net_d3</span><span class="o">$</span><span class="n">nodes</span><span class="p">,</span><span class="w"> </span><span class="n">genes</span><span class="p">,</span><span class="w"> </span><span class="n">by.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"name"</span><span class="p">,</span><span class="w"> </span><span class="n">by.y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"row.names"</span><span class="p">)</span><span class="w">
@@ -524,7 +357,7 @@
 
 </span><span class="n">net_d3</span><span class="o">$</span><span class="n">nodes</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">net_d3</span><span class="o">$</span><span class="n">nodes</span><span class="p">[</span><span class="n">match</span><span class="p">(</span><span class="n">labels_2</span><span class="p">[,</span><span class="w"> </span><span class="m">1</span><span class="p">],</span><span class="w"> </span><span class="n">net_d3</span><span class="o">$</span><span class="n">nodes</span><span class="o">$</span><span class="n">organism</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
-</span><span class="c1"># Create force directed network plot
+</span><span class="c1"># Create force directed network plot</span><span class="w">
 </span><span class="n">forceNetwork</span><span class="p">(</span><span class="n">Links</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">net_d3</span><span class="o">$</span><span class="n">links</span><span class="p">,</span><span class="w"> 
              </span><span class="n">Nodes</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">net_d3</span><span class="o">$</span><span class="n">nodes</span><span class="p">,</span><span class="w">
              </span><span class="n">Nodesize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"proportion_human_genes"</span><span class="p">,</span><span class="w">
@@ -542,8 +375,7 @@
              </span><span class="n">fontSize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10</span><span class="p">,</span><span class="w"> 
              </span><span class="n">charge</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">-200</span><span class="p">,</span><span class="w">
              </span><span class="n">opacityNoHover</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.7</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 <p><strong>Click to open the interactive network and use the mouse to zoom and turn the plot:</strong></p>
 
 <p><a href="networkD3.html"><img border="0" alt="networkD3" src="networkD3.png" width="500" height="500" /></a></p>
@@ -552,7 +384,7 @@
 
 <p><br /></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.3.2 (2016-10-31)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## R version 3.3.2 (2016-10-31)
 ## Platform: x86_64-apple-darwin13.4.0 (64-bit)
 ## Running under: macOS Sierra 10.12
 ## 
@@ -608,121 +440,28 @@
 ## [61] modeltools_0.2-21             stringi_1.1.2                
 ## [63] Rcpp_0.12.8                   DEoptimR_1.0-8               
 ## [65] diptest_0.75-7
-</code></pre>
-</div>
-
-    </div>
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
+</code></pre></div></div>
 
 
-  
-     
-    	<li><a href="/categories.html#genome-ref">
-    		genome <span>6</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#AnnotatioDbi-ref">AnnotatioDbi <span>3</span></a></li>
-     
-    	<li><a href="/tags.html#ggplot2-ref">ggplot2 <span>32</span></a></li>
-     
-    	<li><a href="/tags.html#dendextend-ref">dendextend <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#networkD3-ref">networkD3 <span>1</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev"><a href="/blogging/2016/12/04/diy_your_own_blog" title="How to set up your own R blog with Github pages and Jekyll Bootstrap">&laquo; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/genome/2016/12/14/homologous_genes_part2_post" title="Gene homology Part 2 - creating directed networks with igraph">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

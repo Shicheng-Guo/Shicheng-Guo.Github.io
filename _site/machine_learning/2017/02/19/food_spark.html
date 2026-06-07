@@ -1,249 +1,96 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Predicting food preferences with sparklyr (machine learning)</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>Predicting food preferences with sparklyr (machine learning) — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/machine_learning/2017/02/19/food_spark">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>Predicting food preferences with sparklyr (machine learning) </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Predicting food preferences with sparklyr (machine learning)" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>19 February 2017</span>
-    </div>
-    <div class="content">
-      <p>This week I want to show how to run machine learning applications on a Spark cluster. I am using the <a href="http://spark.rstudio.com"><strong>sparklyr</strong></a> package, which provides a handy interface to access Apache Spark functionalities via R.</p>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">February 19, 2017</span>
+  <h1 class="page__title">Predicting food preferences with sparklyr (machine learning)</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<p>This week I want to show how to run machine learning applications on a Spark cluster. I am using the <a href="http://spark.rstudio.com"><strong>sparklyr</strong></a> package, which provides a handy interface to access Apache Spark functionalities via R.</p>
 
 <p>The question I want to address with machine learning is whether the preference for a country’s cuisine can be predicted based on preferences of other countries’ cuisines.</p>
 
@@ -262,17 +109,15 @@ With <strong>sparklyr</strong> you can easily access <a href="http://spark.rstud
 
 <p>If you don’t have Spark installed locally, run:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">sparklyr</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">sparklyr</span><span class="p">)</span><span class="w">
 </span><span class="n">spark_install</span><span class="p">(</span><span class="n">version</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"2.0.0"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>Now we can connect to a local Spark instance:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">sparklyr</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">sparklyr</span><span class="p">)</span><span class="w">
 </span><span class="n">sc</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">spark_connect</span><span class="p">(</span><span class="n">master</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"local"</span><span class="p">,</span><span class="w"> </span><span class="n">version</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"2.0.0"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -280,7 +125,7 @@ With <strong>sparklyr</strong> you can easily access <a href="http://spark.rstud
 
 <p>Before I start with the analysis, I am preparing my custom ggplot2 theme and load the packages <strong>tidyr</strong> (for gathering data for plotting), <strong>dplyr</strong> (for data manipulation) and <strong>ggrepel</strong> (for non-overlapping text labels in plots).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyr</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyr</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">ggrepel</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w">
@@ -300,8 +145,7 @@ With <strong>sparklyr</strong> you can easily access <a href="http://spark.rstud
     </span><span class="n">panel.border</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"grey"</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NA</span><span class="p">,</span><span class="w"> </span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">)</span><span class="w">
   </span><span class="p">)</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -322,21 +166,20 @@ With <strong>sparklyr</strong> you can easily access <a href="http://spark.rstud
 
 <p>Because I think that whether someone doesn’t know a country’s cuisine is in itself information, I  recoded NAs to 0.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">fivethirtyeight</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">fivethirtyeight</span><span class="p">)</span><span class="w">
 
 </span><span class="n">food_world_cup</span><span class="p">[</span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"N/A"</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="kc">NA</span><span class="w">
 </span><span class="n">food_world_cup</span><span class="p">[,</span><span class="w"> </span><span class="m">9</span><span class="o">:</span><span class="m">48</span><span class="p">][</span><span class="nf">is.na</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">[,</span><span class="w"> </span><span class="m">9</span><span class="o">:</span><span class="m">48</span><span class="p">])]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">0</span><span class="w">
 </span><span class="n">food_world_cup</span><span class="o">$</span><span class="n">gender</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.factor</span><span class="p">(</span><span class="n">food_world_cup</span><span class="o">$</span><span class="n">gender</span><span class="p">)</span><span class="w">
 </span><span class="n">food_world_cup</span><span class="o">$</span><span class="n">location</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.factor</span><span class="p">(</span><span class="n">food_world_cup</span><span class="o">$</span><span class="n">location</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>The question I want to address with machine learning is whether the preference for a country’s cuisine can be predicted based on preferences of other countries’ cuisines, general knowledge and interest in different cuisines, age, gender, income, education level and/ or location.</p>
 
 <p>Before I do any machine learning, however, I want to get to know the data.
 First, I am calculating the percentages for each preference category and plot them with a pie chart that is facetted by country.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># calculating percentages per category and country
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># calculating percentages per category and country</span><span class="w">
 </span><span class="n">percentages</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">select</span><span class="p">(</span><span class="n">algeria</span><span class="o">:</span><span class="n">vietnam</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">gather</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -344,7 +187,7 @@ First, I am calculating the percentages for each preference category and plot th
   </span><span class="n">summarise</span><span class="p">(</span><span class="n">n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">n</span><span class="p">())</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">Percent</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">round</span><span class="p">(</span><span class="n">n</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="nf">sum</span><span class="p">(</span><span class="n">n</span><span class="p">)</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="m">100</span><span class="p">,</span><span class="w"> </span><span class="n">digits</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">))</span><span class="w">
 
-</span><span class="c1"># rename countries &amp; plot
+</span><span class="c1"># rename countries &amp; plot</span><span class="w">
 </span><span class="n">percentages</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_"</span><span class="p">,</span><span class="w"> </span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"(^|[[:space:]])([[:alpha:]])"</span><span class="p">,</span><span class="w"> </span><span class="s2">"\\1\\U\\2"</span><span class="p">,</span><span class="w"> </span><span class="n">x_2</span><span class="p">,</span><span class="w"> </span><span class="n">perl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -356,8 +199,7 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">facet_wrap</span><span class="p">(</span><span class="o">~</span><span class="w"> </span><span class="n">x_2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">8</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">scale_fill_brewer</span><span class="p">(</span><span class="n">palette</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Set3"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">labs</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-7-1.png" style="display: block; margin: auto;" /></p>
 
@@ -369,12 +211,11 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>In the demographic information, there are a few missing values. These, I want to impute:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">mice</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">mice</span><span class="p">)</span><span class="w">
 
 </span><span class="n">dataset_impute</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">mice</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">[,</span><span class="w"> </span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">)],</span><span class="w">  </span><span class="n">print</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">)</span><span class="w">
 </span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">cbind</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">[,</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">drop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">],</span><span class="w"> </span><span class="n">mice</span><span class="o">::</span><span class="n">complete</span><span class="p">(</span><span class="n">dataset_impute</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -382,19 +223,18 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>Strictly speaking, the preference data is categorical. But because using them as factor levels would make the models much more complex and calculation-intensive, I am converting the factors to numbers and transform them by dividing through the mean of non-zero values for each country.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="p">[</span><span class="m">8</span><span class="o">:</span><span class="m">47</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lapply</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">[</span><span class="m">8</span><span class="o">:</span><span class="m">47</span><span class="p">],</span><span class="w"> </span><span class="n">as.numeric</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="p">[</span><span class="m">8</span><span class="o">:</span><span class="m">47</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lapply</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">[</span><span class="m">8</span><span class="o">:</span><span class="m">47</span><span class="p">],</span><span class="w"> </span><span class="n">as.numeric</span><span class="p">)</span><span class="w">
 
 </span><span class="n">countries</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">colnames</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">)[</span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">7</span><span class="p">)])</span><span class="w">
 
 </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">response</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">countries</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
   </span><span class="n">food_world_cup</span><span class="p">[</span><span class="n">paste</span><span class="p">(</span><span class="n">response</span><span class="p">,</span><span class="w"> </span><span class="s2">"trans"</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"_"</span><span class="p">)]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup</span><span class="p">[</span><span class="n">response</span><span class="p">]</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">mean</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">[</span><span class="n">food_world_cup</span><span class="p">[</span><span class="n">response</span><span class="p">]</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">response</span><span class="p">])</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>As we can see by plotting the distribution of transformed values, they are far from being normal distributions. Moreover, we still see big differences between well known and not well known countries - this means that the data is unbalanced.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">gather</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">algeria_trans</span><span class="o">:</span><span class="n">vietnam_trans</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_trans"</span><span class="p">,</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_"</span><span class="p">,</span><span class="w"> </span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="n">x_2</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -405,8 +245,7 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> 
     </span><span class="n">facet_wrap</span><span class="p">(</span><span class="o">~</span><span class="w"> </span><span class="n">x_2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">8</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">labs</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"transformed preference"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-15-1.png" style="display: block; margin: auto;" /></p>
 
@@ -416,16 +255,15 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>Then, I wanted to know which countries were the most liked and whether we see a gender bias in preference for some country’s cuisines. The first plot shows the sum of preference values for each country, separated by male and female answers.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">food_world_cup_gather</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">food_world_cup_gather</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">collect</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">gather</span><span class="p">(</span><span class="n">country</span><span class="p">,</span><span class="w"> </span><span class="n">value</span><span class="p">,</span><span class="w"> </span><span class="n">algeria</span><span class="o">:</span><span class="n">vietnam</span><span class="p">)</span><span class="w">
                                  
 </span><span class="n">food_world_cup_gather</span><span class="o">$</span><span class="n">value</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="n">food_world_cup_gather</span><span class="o">$</span><span class="n">value</span><span class="p">)</span><span class="w">
 </span><span class="n">food_world_cup_gather</span><span class="o">$</span><span class="n">country</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.factor</span><span class="p">(</span><span class="n">food_world_cup_gather</span><span class="o">$</span><span class="n">country</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">food_world_cup_gather</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup_gather</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">food_world_cup_gather</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup_gather</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_"</span><span class="p">,</span><span class="w"> </span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="n">country</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"(^|[[:space:]])([[:alpha:]])"</span><span class="p">,</span><span class="w"> </span><span class="s2">"\\1\\U\\2"</span><span class="p">,</span><span class="w"> </span><span class="n">x_2</span><span class="p">,</span><span class="w"> </span><span class="n">perl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"And"</span><span class="p">,</span><span class="w"> </span><span class="s2">"and"</span><span class="p">,</span><span class="w"> </span><span class="n">x_2</span><span class="p">))</span><span class="w">
@@ -442,8 +280,7 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">labs</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Gender"</span><span class="p">,</span><span class="w">
          </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w">
          </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"sum of preferences"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-17-1.png" style="display: block; margin: auto;" /></p>
 
@@ -453,7 +290,7 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>Because I want to paste the country list to <strong>dplyr</strong>’s functions, I need to use standard evaluation (SE). Be default, <strong>dplyr</strong> uses non-standard evalutaion (NSE), i.e. variable names are given without quotation marks. This makes it possible to easily convert between R and SQL code. But each <strong>dplyr</strong> function also has a version to use with SE: they each have a “<em>” appended to the function name, here e.g. *mutate_each</em>()*.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">collect</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate_each_</span><span class="p">(</span><span class="n">funs</span><span class="p">(</span><span class="n">as.numeric</span><span class="p">),</span><span class="w"> </span><span class="n">countries</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">group_by</span><span class="p">(</span><span class="n">gender</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -469,8 +306,7 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">theme</span><span class="p">(</span><span class="n">axis.text.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">angle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">90</span><span class="p">,</span><span class="w"> </span><span class="n">vjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">,</span><span class="w"> </span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">labs</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w">
          </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"difference\nbetween gender"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-19-1.png" style="display: block; margin: auto;" /></p>
 
@@ -482,9 +318,8 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>Now, that I’m somewhat familiar with the data, I copy it to the Spark instance:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">copy_to</span><span class="p">(</span><span class="n">sc</span><span class="p">,</span><span class="w"> </span><span class="n">food_world_cup</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">copy_to</span><span class="p">(</span><span class="n">sc</span><span class="p">,</span><span class="w"> </span><span class="n">food_world_cup</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -492,7 +327,7 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>One of the functions of Spark’s machine learning functions is for PCA: <em>ml_pca()</em>. I am using it to get an idea about where the countries fall on a 2-dimensional plane of the first two principal components.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">pca</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pca</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate_each_</span><span class="p">(</span><span class="n">funs</span><span class="p">(</span><span class="n">as.numeric</span><span class="p">),</span><span class="w"> </span><span class="n">countries</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ml_pca</span><span class="p">(</span><span class="n">features</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">colnames</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">)[</span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">47</span><span class="p">)]))</span><span class="w">
 
@@ -510,8 +345,7 @@ First, I am calculating the percentages for each preference category and plot th
          </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">paste0</span><span class="p">(</span><span class="s2">"PC2: "</span><span class="p">,</span><span class="w"> </span><span class="nf">round</span><span class="p">(</span><span class="n">pca</span><span class="o">$</span><span class="n">explained.variance</span><span class="p">[</span><span class="m">2</span><span class="p">],</span><span class="w"> </span><span class="n">digits</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="m">100</span><span class="p">,</span><span class="w"> </span><span class="s2">"% variance"</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> 
     </span><span class="n">guides</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-22-1.png" style="display: block; margin: auto;" /></p>
 
@@ -523,7 +357,7 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>First, I need to convert the factor strings of the non-country features into indexes. To do so, I am using the <em>ft_string_indexer()</em> function. For other feature transformation functions, check out <a href="http://spark.rstudio.com/"><strong>sparklyr</strong>’s website</a>.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">tbl</span><span class="p">(</span><span class="n">sc</span><span class="p">,</span><span class="w"> </span><span class="s2">"food_world_cup"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">food_world_cup</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">tbl</span><span class="p">(</span><span class="n">sc</span><span class="p">,</span><span class="w"> </span><span class="s2">"food_world_cup"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ft_string_indexer</span><span class="p">(</span><span class="n">input_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"interest"</span><span class="p">,</span><span class="w"> </span><span class="n">output_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"interest_idx"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ft_string_indexer</span><span class="p">(</span><span class="n">input_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"gender"</span><span class="p">,</span><span class="w"> </span><span class="n">output_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"gender_idx"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ft_string_indexer</span><span class="p">(</span><span class="n">input_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"age"</span><span class="p">,</span><span class="w"> </span><span class="n">output_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"age_idx"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -531,17 +365,15 @@ First, I am calculating the percentages for each preference category and plot th
   </span><span class="n">ft_string_indexer</span><span class="p">(</span><span class="n">input_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"education"</span><span class="p">,</span><span class="w"> </span><span class="n">output_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"education_idx"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ft_string_indexer</span><span class="p">(</span><span class="n">input_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"location"</span><span class="p">,</span><span class="w"> </span><span class="n">output_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"location_idx"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ft_string_indexer</span><span class="p">(</span><span class="n">input_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"knowledge"</span><span class="p">,</span><span class="w"> </span><span class="n">output_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"knowledge_idx"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <p>Now I can divide the data into training and test sets using the <em>sdf_partition()</em> function.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">partitions</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">partitions</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">food_world_cup</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">sdf_partition</span><span class="p">(</span><span class="n">training</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.75</span><span class="p">,</span><span class="w"> </span><span class="n">test</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.25</span><span class="p">,</span><span class="w"> </span><span class="n">seed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">753</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -559,7 +391,7 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>Finally, I am combining the output tables from all countries’s models to compare.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">lazyeval</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">lazyeval</span><span class="p">)</span><span class="w">
 
 </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">response</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">countries</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
 
@@ -592,12 +424,12 @@ First, I am calculating the percentages for each preference category and plot th
   
   </span><span class="n">feature_imp</span><span class="o">$</span><span class="n">response</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">response</span><span class="w">
   
-  </span><span class="n">f</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ml_classification_eval</span><span class="p">(</span><span class="n">pred_sc</span><span class="p">,</span><span class="w"> </span><span class="n">response</span><span class="p">,</span><span class="w"> </span><span class="s2">"prediction"</span><span class="p">,</span><span class="w"> </span><span class="n">metric</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"f1"</span><span class="p">)</span><span class="w">
+  </span><span class="n">f1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ml_classification_eval</span><span class="p">(</span><span class="n">pred_sc</span><span class="p">,</span><span class="w"> </span><span class="n">response</span><span class="p">,</span><span class="w"> </span><span class="s2">"prediction"</span><span class="p">,</span><span class="w"> </span><span class="n">metric</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"f1"</span><span class="p">)</span><span class="w">
   </span><span class="n">wP</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ml_classification_eval</span><span class="p">(</span><span class="n">pred_sc</span><span class="p">,</span><span class="w"> </span><span class="n">response</span><span class="p">,</span><span class="w"> </span><span class="s2">"prediction"</span><span class="p">,</span><span class="w"> </span><span class="n">metric</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"weightedPrecision"</span><span class="p">)</span><span class="w">
   </span><span class="n">wR</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ml_classification_eval</span><span class="p">(</span><span class="n">pred_sc</span><span class="p">,</span><span class="w"> </span><span class="n">response</span><span class="p">,</span><span class="w"> </span><span class="s2">"prediction"</span><span class="p">,</span><span class="w"> </span><span class="n">metric</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"weightedRecall"</span><span class="p">)</span><span class="w">
   
   </span><span class="n">ml_eval</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">response</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">response</span><span class="p">,</span><span class="w">
-                        </span><span class="n">f</span><span class="m">1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">f</span><span class="m">1</span><span class="p">,</span><span class="w">
+                        </span><span class="n">f1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">f1</span><span class="p">,</span><span class="w">
                         </span><span class="n">weightedPrecision</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">wP</span><span class="p">,</span><span class="w">
                         </span><span class="n">weightedRecall</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">wR</span><span class="p">)</span><span class="w">
   
@@ -611,8 +443,7 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">pred_df</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rbind</span><span class="p">(</span><span class="n">pred_df</span><span class="p">,</span><span class="w"> </span><span class="n">pred_2</span><span class="p">)</span><span class="w">
   </span><span class="p">}</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -640,14 +471,14 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>Let’s say we had 10 “5s” in the training data. The prediction table classified 8 samples as “5s”, 6 of which were correctly classified. In this example, we have 2 false positives and 4 false negatives. This means we would have a precision of 6/8 and a recall of 6/10.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">results</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ml_eval_df</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">results</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ml_eval_df</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"_"</span><span class="p">,</span><span class="w"> </span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="n">response</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"(^|[[:space:]])([[:alpha:]])"</span><span class="p">,</span><span class="w"> </span><span class="s2">"\\1\\U\\2"</span><span class="p">,</span><span class="w"> </span><span class="n">x_2</span><span class="p">,</span><span class="w"> </span><span class="n">perl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"And"</span><span class="p">,</span><span class="w"> </span><span class="s2">"and"</span><span class="p">,</span><span class="w"> </span><span class="n">x_2</span><span class="p">))</span><span class="w">
   
-</span><span class="n">order</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">results</span><span class="o">$</span><span class="n">x_2</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">results</span><span class="o">$</span><span class="n">f</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">decreasing</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)]</span><span class="w">
+</span><span class="n">order</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">results</span><span class="o">$</span><span class="n">x_2</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">results</span><span class="o">$</span><span class="n">f1</span><span class="p">,</span><span class="w"> </span><span class="n">decreasing</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)]</span><span class="w">
 
-</span><span class="n">gather</span><span class="p">(</span><span class="n">results</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">f</span><span class="m">1</span><span class="o">:</span><span class="n">weightedRecall</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+</span><span class="n">gather</span><span class="p">(</span><span class="n">results</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">f1</span><span class="o">:</span><span class="n">weightedRecall</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">x_2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">x_2</span><span class="p">,</span><span class="w"> </span><span class="n">levels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">order</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x_2</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">stat</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"identity"</span><span class="p">,</span><span class="w"> </span><span class="n">position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dodge"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.9</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -655,8 +486,7 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">theme</span><span class="p">(</span><span class="n">axis.text.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">angle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">90</span><span class="p">,</span><span class="w"> </span><span class="n">vjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">,</span><span class="w"> </span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">labs</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"value"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-40-1.png" style="display: block; margin: auto;" /></p>
 
@@ -666,7 +496,7 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p>To see what features had been used in more and less successful models, I am plotting the values of the 10 final features for classifying Spanish, Greece and Italian food preference categories 1 - 5 in the original dataset.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">as.data.frame</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">as.data.frame</span><span class="p">(</span><span class="n">food_world_cup</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">select_</span><span class="p">(</span><span class="n">.dots</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"spain"</span><span class="p">,</span><span class="w"> </span><span class="nf">as.character</span><span class="p">(</span><span class="n">feats</span><span class="o">$</span><span class="n">feature</span><span class="p">)))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">gather</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="o">-</span><span class="n">spain</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">filter</span><span class="p">(</span><span class="n">spain</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">0</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -683,12 +513,11 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">theme</span><span class="p">(</span><span class="n">axis.text.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">angle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">45</span><span class="p">,</span><span class="w"> </span><span class="n">vjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">labs</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Spain"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-42-1.png" style="display: block; margin: auto;" /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">feats</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">feature_imp_df</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">feats</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">feature_imp_df</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">filter</span><span class="p">(</span><span class="n">response</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"greece"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">slice</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">10</span><span class="p">)</span><span class="w">
 
@@ -709,12 +538,11 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">theme</span><span class="p">(</span><span class="n">axis.text.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">angle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">45</span><span class="p">,</span><span class="w"> </span><span class="n">vjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">labs</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Greece"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-43-1.png" style="display: block; margin: auto;" /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">feats</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">feature_imp_df</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">feats</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">feature_imp_df</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">filter</span><span class="p">(</span><span class="n">response</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"italy"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">slice</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">10</span><span class="p">)</span><span class="w">
 
@@ -735,8 +563,7 @@ First, I am calculating the percentages for each preference category and plot th
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">theme</span><span class="p">(</span><span class="n">axis.text.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">angle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">45</span><span class="p">,</span><span class="w"> </span><span class="n">vjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">labs</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Italy"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="food_spark_files/figure-markdown_github/unnamed-chunk-44-1.png" style="display: block; margin: auto;" /></p>
 
@@ -762,7 +589,7 @@ First, I am calculating the percentages for each preference category and plot th
 
 <p><br /></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.3.2 (2016-10-31)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## R version 3.3.2 (2016-10-31)
 ## Platform: x86_64-apple-darwin13.4.0 (64-bit)
 ## Running under: macOS Sierra 10.12.1
 ## 
@@ -789,121 +616,28 @@ First, I am calculating the percentages for each preference category and plot th
 ## [25] base64enc_0.1-3    evaluate_0.10      rmarkdown_1.3     
 ## [28] labeling_0.3       stringi_1.1.2      scales_0.4.1      
 ## [31] backports_1.0.5    jsonlite_1.2
-</code></pre>
-</div>
-
-    </div>
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
+</code></pre></div></div>
 
 
-  
-     
-    	<li><a href="/categories.html#machine_learning-ref">
-    		machine_learning <span>14</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#ggplot2-ref">ggplot2 <span>32</span></a></li>
-     
-    	<li><a href="/tags.html#machine_learning-ref">machine_learning <span>13</span></a></li>
-     
-    	<li><a href="/tags.html#spark-ref">spark <span>3</span></a></li>
-     
-    	<li><a href="/tags.html#random_forest-ref">random_forest <span>6</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev"><a href="/ggplot2/2017/02/12/qtl_plots" title="Conditional ggplot2 geoms in functions (QTL plots)">&laquo; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/machine_learning/2017/02/27/h2o" title="Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

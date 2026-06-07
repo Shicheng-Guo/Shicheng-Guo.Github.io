@@ -1,249 +1,96 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Gene homology Part 3 - Visualizing Gene Ontology of Conserved Genes</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>Gene homology Part 3 - Visualizing Gene Ontology of Conserved Genes — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/genome/2017/01/05/homologous_genes_part3_post">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>Gene homology Part 3 - Visualizing Gene Ontology of Conserved Genes </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Gene homology Part 3 - Visualizing Gene Ontology of Conserved Genes" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>05 January 2017</span>
-    </div>
-    <div class="content">
-      <h2 id="which-genes-have-homologs-in-many-species">Which genes have homologs in many species?</h2>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">January 5, 2017</span>
+  <h1 class="page__title">Gene homology Part 3 - Visualizing Gene Ontology of Conserved Genes</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<h2 id="which-genes-have-homologs-in-many-species">Which genes have homologs in many species?</h2>
 
 <p>In <a href="https://shiring.github.io/genome/2016/12/11/homologous_genes_post">Part 1</a> and <a href="https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post">Part 2</a> I have already explored gene homology between humans and other species. But there I have only considered how many genes where shared between the species.</p>
 
@@ -263,11 +110,10 @@
 
 <p>I’m starting with the same table as from <a href="https://shiring.github.io/genome/2016/12/14/homologous_genes_part2_post">this post</a>, called <em>homologs_table_combined</em>.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">homologs_table_combined</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">homologs_table_combined</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##   celegans_gene_ensembl cfamiliaris_gene_ensembl
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##   celegans_gene_ensembl cfamiliaris_gene_ensembl
 ## 1                    NA                       NA
 ## 2                    NA                   477699
 ## 3                    NA                   477023
@@ -295,22 +141,20 @@
 ## 4                    24158                       NA               397104
 ## 5                    24159                   854310                   NA
 ## 6                    24161                   856187            100737301
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Each row in this table denotes a gene with its Entrez ID and corresponding Entrez IDs for homologs in each of the other 10 species I explored. If a gene doesn’t have homolog the table says “NA”. However, some genes have duplicate entries for a species if there are multiple homologs in different species.</p>
 
 <p>By counting the number of NAs per row, we can identify genes with homologs in all species (sum of NAs = 0) and genes which are specific (sum of NAs = 10).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">homologs_na</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rowSums</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">homologs_table_combined</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">homologs_na</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rowSums</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">homologs_table_combined</span><span class="p">))</span><span class="w">
+</span></code></pre></div></div>
 
 <p>Before I delve deeper into the biology behind these genes, I want to examine the distribution of the NA-counts. To do so, I am plotting a histogram.</p>
 
 <p>But first I’m preparing my custom ggplot2 theme:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
 </span><span class="n">my_theme</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">base_size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">12</span><span class="p">,</span><span class="w"> </span><span class="n">base_family</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"sans"</span><span class="p">){</span><span class="w">
   </span><span class="n">theme_minimal</span><span class="p">(</span><span class="n">base_size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">base_size</span><span class="p">,</span><span class="w"> </span><span class="n">base_family</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">base_family</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">theme</span><span class="p">(</span><span class="w">
@@ -331,10 +175,9 @@
 </span><span class="p">}</span><span class="w">
 
 </span><span class="n">theme_set</span><span class="p">(</span><span class="n">my_theme</span><span class="p">())</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">aes</span><span class="p">(</span><span class="n">homologs_na</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_histogram</span><span class="p">(</span><span class="n">binwidth</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"royalblue"</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"royalblue"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.8</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">labs</span><span class="p">(</span><span class="w">
@@ -347,8 +190,7 @@
     gene that is specific to one species, while rows with no NAs show genes with homologs in all species -
     such genes are said to be highly conserved."</span><span class="w">
   </span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -358,7 +200,7 @@
 
 <p><br /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">aes</span><span class="p">(</span><span class="n">subset</span><span class="p">(</span><span class="n">homologs_na</span><span class="p">,</span><span class="w"> </span><span class="n">homologs_na</span><span class="w">  </span><span class="o">&lt;</span><span class="w"> </span><span class="m">10</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_histogram</span><span class="p">(</span><span class="n">binwidth</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"royalblue"</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"royalblue"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.8</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">labs</span><span class="p">(</span><span class="w">
@@ -371,8 +213,7 @@
     gene that is specific to one species, while rows with no NAs show genes with homologs in all species -
     such genes are said to be highly conserved."</span><span class="w">
   </span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -388,14 +229,12 @@
 
 <p>There are 3461 rows in the original table with no NAs.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">genes_homologs_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">homologs_table_combined</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">rowSums</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">homologs_table_combined</span><span class="p">))</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">0</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">genes_homologs_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">homologs_table_combined</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">rowSums</span><span class="p">(</span><span class="nf">is.na</span><span class="p">(</span><span class="n">homologs_table_combined</span><span class="p">))</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">0</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
 </span><span class="n">nrow</span><span class="p">(</span><span class="n">genes_homologs_all</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 3461
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 3461
+</code></pre></div></div>
 
 <p>Looking at all of these genes by hand wouldn’t be feasible. So, to find out what biological functions these genes have, I am using gene ontology (GO-term) enrichment analysis as implemented in <a href="https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html">clusterProfiler</a>.</p>
 
@@ -405,7 +244,7 @@
   <li>Molecular functions (MF): Molecular functions like catalytic or binding activity</li>
 </ul>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">clusterProfiler</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">clusterProfiler</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">DOSE</span><span class="p">)</span><span class="w">
 
 </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">datasets</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
@@ -443,10 +282,9 @@
   </span><span class="n">try</span><span class="p">(</span><span class="n">assign</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s2">"go_enrich_MF"</span><span class="p">,</span><span class="w"> </span><span class="n">species</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"_"</span><span class="p">),</span><span class="w"> </span><span class="n">go_enrich_MF</span><span class="p">))</span><span class="w">
   </span><span class="n">try</span><span class="p">(</span><span class="n">assign</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s2">"go_enrich_CC"</span><span class="p">,</span><span class="w"> </span><span class="n">species</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"_"</span><span class="p">),</span><span class="w"> </span><span class="n">go_enrich_CC</span><span class="p">))</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## 
 ## Species Rat has 47989 unique Entrez IDs, of which 1796 have homologs in all species.
 ## 
 ## Species Yeast has 6350 unique Entrez IDs, of which 1363 have homologs in all species.
@@ -475,8 +313,7 @@
 ## Species Mouse has 68603 unique Entrez IDs, of which 1761 have homologs in all species.
 ## 
 ## Species Dog has 31376 unique Entrez IDs, of which 1716 have homologs in all species.
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>I’m not sure why yeast throws an error but since all other species worked I will ignore yeast genes for now…</p>
 
@@ -488,7 +325,7 @@
 
 <p>To generate this heatmap, I am using the output tables from clusterProfiler, which tell us the enrichment p-value (before and after correction for multiple testing, aka False Discovery Rate or FDR), the proportion of genes belonging to each GO category in the background versus all background genes and in our gene list compared to all genes in our list. To keep the graph reasonably small, I’m subsetting only the top 10 enriched genes with lowest adjusted p-values for biological processes (BP), molecular functions (MF) and cellular components (CC).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># removing yeast
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># removing yeast</span><span class="w">
 </span><span class="n">datasets_2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">datasets</span><span class="p">[</span><span class="o">-</span><span class="n">grep</span><span class="p">(</span><span class="s2">"scerevisiae_gene_ensembl"</span><span class="p">,</span><span class="w"> </span><span class="n">datasets</span><span class="o">$</span><span class="n">dataset</span><span class="p">),</span><span class="w"> </span><span class="p">]</span><span class="w">
 
 </span><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w">
@@ -530,14 +367,12 @@
 </span><span class="p">}</span><span class="w">
 
 </span><span class="nf">length</span><span class="p">(</span><span class="n">unique</span><span class="p">(</span><span class="n">plot_df</span><span class="o">$</span><span class="n">ID</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 123
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 123
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">(</span><span class="n">plot_df</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Species</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Description</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">GR</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">ggplot</span><span class="p">(</span><span class="n">plot_df</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Species</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Description</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">GR</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w"> 
   </span><span class="n">geom_tile</span><span class="p">(</span><span class="n">width</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">height</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">scale_fill_gradient2</span><span class="p">(</span><span class="n">low</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"white"</span><span class="p">,</span><span class="w"> </span><span class="n">mid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"blue"</span><span class="p">,</span><span class="w"> </span><span class="n">high</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"red"</span><span class="p">,</span><span class="w"> </span><span class="n">space</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Lab"</span><span class="p">,</span><span class="w"> </span><span class="n">name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Gene Ratio"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">facet_grid</span><span class="p">(</span><span class="n">Category</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="n">.</span><span class="p">,</span><span class="w"> </span><span class="n">scales</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"free_y"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -547,8 +382,7 @@
       </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w">
       </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="w">
     </span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -560,7 +394,7 @@
 
 <p>Another way to capture information about GO terms is to use the GO description texts as basis for wordclouds. I’m using the general method described <a href="https://shiring.github.io/text_analysis/2016/11/06/sysk_earwax">here</a>. I’m also included a list of words to remove, like process, activity, etc. These words occur often and on their own don’t tell us much about the GO term.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tm</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tm</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">SnowballC</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">wordcloud</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">RColorBrewer</span><span class="p">)</span><span class="w">
@@ -584,8 +418,8 @@
   
   </span><span class="n">input</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">tm_map</span><span class="p">(</span><span class="n">input</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="n">removeWords</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">stopwords</span><span class="p">(</span><span class="s2">"english"</span><span class="p">)))</span><span class="w">
   
-  </span><span class="c1"># specify your stopwords as a character vector
-</span><span class="w">  </span><span class="n">input</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">tm_map</span><span class="p">(</span><span class="n">input</span><span class="p">,</span><span class="w"> </span><span class="n">removeWords</span><span class="p">,</span><span class="w"> </span><span class="n">removewords</span><span class="p">)</span><span class="w">
+  </span><span class="c1"># specify your stopwords as a character vector</span><span class="w">
+  </span><span class="n">input</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">tm_map</span><span class="p">(</span><span class="n">input</span><span class="p">,</span><span class="w"> </span><span class="n">removeWords</span><span class="p">,</span><span class="w"> </span><span class="n">removewords</span><span class="p">)</span><span class="w">
   
   </span><span class="n">tdm</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">TermDocumentMatrix</span><span class="p">(</span><span class="n">input</span><span class="p">)</span><span class="w">
   </span><span class="n">m</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.matrix</span><span class="p">(</span><span class="n">tdm</span><span class="p">)</span><span class="w">
@@ -597,10 +431,9 @@
             </span><span class="n">max.words</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">max.words</span><span class="p">,</span><span class="w"> </span><span class="n">random.order</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">random.order</span><span class="p">,</span><span class="w"> </span><span class="n">rot.per</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.15</span><span class="p">,</span><span class="w">
             </span><span class="n">colors</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">brewer.pal</span><span class="p">(</span><span class="m">8</span><span class="p">,</span><span class="w"> </span><span class="s2">"Dark2"</span><span class="p">))</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">layout</span><span class="p">(</span><span class="n">matrix</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">80</span><span class="p">),</span><span class="w"> </span><span class="n">nrow</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="n">byrow</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">),</span><span class="w"> </span><span class="n">heights</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.1</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">layout</span><span class="p">(</span><span class="n">matrix</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">80</span><span class="p">),</span><span class="w"> </span><span class="n">nrow</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="n">byrow</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">),</span><span class="w"> </span><span class="n">heights</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.1</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w">
 
 </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">datasets_2</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
   </span><span class="n">species</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">datasets_2</span><span class="o">$</span><span class="n">dataset</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="w">
@@ -615,8 +448,7 @@
   </span><span class="n">wordcloud_function</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">df_MF</span><span class="o">$</span><span class="n">Description</span><span class="p">)</span><span class="w">
   </span><span class="n">wordcloud_function</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">df_CC</span><span class="o">$</span><span class="n">Description</span><span class="p">)</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="homologous_genes_part3_post_files/figure-markdown_github/unnamed-chunk-14-1.png" style="display: block; margin: auto;" /></p>
 
@@ -628,7 +460,7 @@
 
 <p>I’m creating a list of enriched GO categories of all species and ask for common elements using the <strong>list.common</strong> function of the <a href="https://cran.r-project.org/web/packages/rlist/index.html">rlist</a> package.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># create empty list to populate with a loop
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># create empty list to populate with a loop</span><span class="w">
 </span><span class="n">go_list_BP</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lapply</span><span class="p">(</span><span class="n">datasets_2</span><span class="o">$</span><span class="n">dataset</span><span class="p">,</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="kc">NULL</span><span class="p">)</span><span class="w">
 </span><span class="nf">names</span><span class="p">(</span><span class="n">go_list_BP</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">paste</span><span class="p">(</span><span class="n">datasets_2</span><span class="o">$</span><span class="n">dataset</span><span class="p">)</span><span class="w">
 
@@ -637,9 +469,9 @@
   </span><span class="n">go_list_BP</span><span class="p">[[</span><span class="n">species</span><span class="p">]]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">df_BP</span><span class="o">$</span><span class="n">ID</span><span class="w">
 </span><span class="p">}</span><span class="w">
 
-</span><span class="c1"># Now I know which GO IDs are common but I want to know the description as well.
-# Because they are in all go_enrich tables, I'm chosen one to subset
-</span><span class="w">
+</span><span class="c1"># Now I know which GO IDs are common but I want to know the description as well.</span><span class="w">
+</span><span class="c1"># Because they are in all go_enrich tables, I'm chosen one to subset</span><span class="w">
+
 </span><span class="n">library</span><span class="p">(</span><span class="n">rlist</span><span class="p">)</span><span class="w">
 </span><span class="n">common_gos_BP</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">go_enrich_BP_cfamiliaris_gene_ensembl</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">filter</span><span class="p">(</span><span class="n">ID</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="n">list.common</span><span class="p">(</span><span class="n">go_list_BP</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -675,12 +507,11 @@
   </span><span class="n">filter</span><span class="p">(</span><span class="n">ID</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="n">list.common</span><span class="p">(</span><span class="n">go_list_CC</span><span class="p">))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">select</span><span class="p">(</span><span class="n">ID</span><span class="p">,</span><span class="w"> </span><span class="n">Description</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">arrange</span><span class="p">(</span><span class="n">Description</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>To visualize these common GO categories, I’m going back to the clusterProfiler output tables. This time I’m not using a heatmap, but a point plot to show enrichment statistics for all species.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">datasets_2</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">datasets_2</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
   </span><span class="n">species</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">datasets_2</span><span class="o">$</span><span class="n">dataset</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="w">
   
   </span><span class="n">go_enrich_BP_df</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">get</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s2">"go_enrich_BP"</span><span class="p">,</span><span class="w"> </span><span class="n">species</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"_"</span><span class="p">)))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -722,8 +553,7 @@
       </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="w">
     </span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">facet_grid</span><span class="p">(</span><span class="n">Category</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="n">Species</span><span class="p">,</span><span class="w"> </span><span class="n">scales</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"free_y"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -737,12 +567,11 @@
 
 <p>The package <a href="https://bioconductor.org/packages/release/bioc/html/RamiGO.html">RamiGO</a> can be used to plot all parents of the 10 common GO categories:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">RamiGO</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">RamiGO</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">RColorBrewer</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">set3</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">brewer.pal</span><span class="p">(</span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="s2">"Set3"</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">set3</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">brewer.pal</span><span class="p">(</span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="s2">"Set3"</span><span class="p">)</span><span class="w">
 </span><span class="n">goIDs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">list.common</span><span class="p">(</span><span class="n">go_list_BP</span><span class="p">)</span><span class="w">
 </span><span class="n">getAmigoTree</span><span class="p">(</span><span class="n">goIDs</span><span class="p">,</span><span class="w"> </span><span class="n">set3</span><span class="p">,</span><span class="w"> </span><span class="n">filename</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"common_gos_BP"</span><span class="p">,</span><span class="w"> </span><span class="n">picType</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"png"</span><span class="p">,</span><span class="w"> </span><span class="n">modeType</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"amigo"</span><span class="p">,</span><span class="w"> </span><span class="n">saveResult</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 
@@ -752,8 +581,7 @@
 
 </span><span class="n">goIDs</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">list.common</span><span class="p">(</span><span class="n">go_list_CC</span><span class="p">)</span><span class="w">
 </span><span class="n">getAmigoTree</span><span class="p">(</span><span class="n">goIDs</span><span class="p">,</span><span class="w"> </span><span class="n">set3</span><span class="p">,</span><span class="w"> </span><span class="n">filename</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"common_gos_CC"</span><span class="p">,</span><span class="w"> </span><span class="n">picType</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"png"</span><span class="p">,</span><span class="w"> </span><span class="n">modeType</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"amigo"</span><span class="p">,</span><span class="w"> </span><span class="n">saveResult</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <ul>
   <li>Common GOs BP</li>
@@ -779,7 +607,7 @@
 
 <p>To visualize clusters of species-specific and common enriched GO categories within their hierachical structure, I’m creating a network of the top 15 enriched biological process categories of each species with two levels of parent terms.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">datasets_2</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">datasets_2</span><span class="p">))</span><span class="w"> </span><span class="p">{</span><span class="w">
   </span><span class="n">species</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">datasets_2</span><span class="o">$</span><span class="n">dataset</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="w">
   </span><span class="n">df_BP</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">get</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s2">"go_enrich_BP"</span><span class="p">,</span><span class="w"> </span><span class="n">species</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"_"</span><span class="p">)))</span><span class="w">
   </span><span class="n">df_BP</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">df_BP</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">15</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">drop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">]</span><span class="w">
@@ -793,25 +621,23 @@
 </span><span class="p">}</span><span class="w">
 
 </span><span class="nf">length</span><span class="p">(</span><span class="n">unique</span><span class="p">(</span><span class="n">df_BP_all</span><span class="o">$</span><span class="n">ID</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 69
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 69
+</code></pre></div></div>
 
 <p>Of these top GO categories most are not unique to individual species.</p>
 
 <p>In the network I want to show GO categories that are species-specific and those that are common among all species. To create the annotation data with this information I’m creating a dataframe with the names of the species along with their specific GO term and combine this with the common GO terms from above.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyr</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyr</span><span class="p">)</span><span class="w">
 </span><span class="n">df_BP_all</span><span class="o">$</span><span class="n">value</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">1</span><span class="w">
 </span><span class="n">df_BP_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">spread</span><span class="p">(</span><span class="n">df_BP_all</span><span class="p">,</span><span class="w"> </span><span class="n">species</span><span class="p">,</span><span class="w"> </span><span class="n">value</span><span class="p">)</span><span class="w">
 
 </span><span class="n">go_sums</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">ID</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">df_BP_all</span><span class="o">$</span><span class="n">ID</span><span class="p">,</span><span class="w">
                       </span><span class="n">sum</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rowSums</span><span class="p">(</span><span class="o">!</span><span class="nf">is.na</span><span class="p">(</span><span class="n">df_BP_all</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">])))</span><span class="w">
 
-</span><span class="c1"># GO in all species
+</span><span class="c1"># GO in all species</span><span class="w">
 </span><span class="n">go_anno</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">ID</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">go_sums</span><span class="o">$</span><span class="n">ID</span><span class="p">)</span><span class="w">
 </span><span class="n">go_anno</span><span class="o">$</span><span class="n">group</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">go_sums</span><span class="o">$</span><span class="n">sum</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="s2">"common_all"</span><span class="p">,</span><span class="w"> </span><span class="kc">NA</span><span class="p">)</span><span class="w">
 
@@ -831,16 +657,15 @@
   </span><span class="p">}</span><span class="w">
 </span><span class="p">}</span><span class="w">
 
-</span><span class="c1"># Common GOs
-</span><span class="n">unique_common_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rbind</span><span class="p">(</span><span class="n">unique_all</span><span class="p">,</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">V</span><span class="m">1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">list.common</span><span class="p">(</span><span class="n">go_list_BP</span><span class="p">),</span><span class="w"> </span><span class="n">xxx</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"common"</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span><span class="c1"># Common GOs</span><span class="w">
+</span><span class="n">unique_common_all</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rbind</span><span class="p">(</span><span class="n">unique_all</span><span class="p">,</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">V1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">list.common</span><span class="p">(</span><span class="n">go_list_BP</span><span class="p">),</span><span class="w"> </span><span class="n">xxx</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"common"</span><span class="p">))</span><span class="w">
+</span></code></pre></div></div>
 
 <p>To identify the parent GO terms, I’m using the <a href="http://bioconductor.org/packages/release/data/annotation/html/GO.db.html">GO.db</a> package. I’m adding two levels of parental structure for each GO term.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">GO.db</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">GO.db</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># GO parents list
+</span><span class="c1"># GO parents list</span><span class="w">
 </span><span class="n">ontology</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.list</span><span class="p">(</span><span class="n">GOBPPARENTS</span><span class="p">)</span><span class="w">
 
 </span><span class="n">goChilds</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">unique</span><span class="p">(</span><span class="n">df_BP_all</span><span class="o">$</span><span class="n">ID</span><span class="p">)</span><span class="w">
@@ -849,25 +674,24 @@
 </span><span class="n">adjList</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">matrix</span><span class="p">(</span><span class="n">nrow</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">)</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">adjList</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"parent"</span><span class="p">,</span><span class="w"> </span><span class="s2">"rel"</span><span class="p">,</span><span class="w"> </span><span class="s2">"child"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Find parents
+</span><span class="c1"># Find parents</span><span class="w">
 </span><span class="n">goChilds</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">goChilds</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">goChilds</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="s2">"all"</span><span class="p">)]</span><span class="w">
         
 </span><span class="n">goFamilyList</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lapply</span><span class="p">(</span><span class="n">ontology</span><span class="p">[</span><span class="n">goChilds</span><span class="p">],</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">parent</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">rel</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">names</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
 </span><span class="n">adjList</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rbind</span><span class="p">(</span><span class="n">adjList</span><span class="p">,</span><span class="w"> </span><span class="n">as.matrix</span><span class="p">(</span><span class="n">cbind</span><span class="p">(</span><span class="n">do.call</span><span class="p">(</span><span class="n">rbind</span><span class="p">,</span><span class="w"> </span><span class="n">goFamilyList</span><span class="p">),</span><span class="w"> </span><span class="n">child</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">goFamilyList</span><span class="p">),</span><span class="w"> </span><span class="n">sapply</span><span class="p">(</span><span class="n">goFamilyList</span><span class="p">,</span><span class="w"> </span><span class="n">nrow</span><span class="p">)))))</span><span class="w">
 
-</span><span class="c1"># Next parents
+</span><span class="c1"># Next parents</span><span class="w">
 </span><span class="n">goParents</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">unique</span><span class="p">(</span><span class="nf">as.character</span><span class="p">(</span><span class="n">adjList</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="o">!</span><span class="n">adjList</span><span class="p">[,</span><span class="s2">"parent"</span><span class="p">]</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="n">adjList</span><span class="p">[,</span><span class="s2">"child"</span><span class="p">]),</span><span class="w"> </span><span class="s2">"parent"</span><span class="p">]))</span><span class="w">    
 </span><span class="n">goFamilyList_2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lapply</span><span class="p">(</span><span class="n">ontology</span><span class="p">[</span><span class="n">goParents</span><span class="p">],</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">parent</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">rel</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">names</span><span class="p">(</span><span class="n">x</span><span class="p">)))</span><span class="w">
 </span><span class="n">adjList</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rbind</span><span class="p">(</span><span class="n">adjList</span><span class="p">,</span><span class="w"> </span><span class="n">as.matrix</span><span class="p">(</span><span class="n">cbind</span><span class="p">(</span><span class="n">do.call</span><span class="p">(</span><span class="n">rbind</span><span class="p">,</span><span class="w"> </span><span class="n">goFamilyList_2</span><span class="p">),</span><span class="w"> </span><span class="n">child</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="nf">names</span><span class="p">(</span><span class="n">goFamilyList_2</span><span class="p">),</span><span class="w"> </span><span class="n">sapply</span><span class="p">(</span><span class="n">goFamilyList_2</span><span class="p">,</span><span class="w"> </span><span class="n">nrow</span><span class="p">)))))</span><span class="w">
 
 </span><span class="n">adjList</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">adjList</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="n">adjList</span><span class="p">[,</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="s2">"all"</span><span class="p">),</span><span class="w"> </span><span class="p">,</span><span class="w"> </span><span class="n">drop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">]</span><span class="w">
 </span><span class="n">adjList</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">adjList</span><span class="p">[,</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"child"</span><span class="p">,</span><span class="s2">"parent"</span><span class="p">,</span><span class="w"> </span><span class="s2">"rel"</span><span class="p">),</span><span class="w"> </span><span class="n">drop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">]</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>The graph is then prodcued with <a href="http://igraph.org/redirect.html">igraph</a> as a directed network. Colors show species-specific, common and remaining enriched GO categories. Parents are shown in light blue.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">igraph</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">igraph</span><span class="p">)</span><span class="w">
 
 </span><span class="n">goGraph</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">graph.edgelist</span><span class="p">(</span><span class="n">adjList</span><span class="p">[,</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"parent"</span><span class="p">,</span><span class="w"> </span><span class="s2">"child"</span><span class="p">),</span><span class="w"> </span><span class="n">drop</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">],</span><span class="w"> </span><span class="n">directed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 </span><span class="n">goGraph</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">set.edge.attribute</span><span class="p">(</span><span class="n">goGraph</span><span class="p">,</span><span class="w"> </span><span class="s2">"type"</span><span class="p">,</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">adjList</span><span class="p">[,</span><span class="s2">"rel"</span><span class="p">])</span><span class="w">
@@ -881,8 +705,8 @@
                 </span><span class="n">term</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"( development)$"</span><span class="p">,</span><span class="w"> </span><span class="s2">" dev."</span><span class="p">,</span><span class="w"> </span><span class="n">term</span><span class="p">,</span><span class="w"> </span><span class="n">perl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
                 </span><span class="n">term</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"Development "</span><span class="p">,</span><span class="w"> </span><span class="s2">"Dev. "</span><span class="p">,</span><span class="w"> </span><span class="n">term</span><span class="p">)</span><span class="w">
             
-            </span><span class="c1"># split in two lines
-</span><span class="w">            </span><span class="n">spaceLoc</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gregexpr</span><span class="p">(</span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="n">term</span><span class="p">,</span><span class="w"> </span><span class="n">fixed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)[[</span><span class="m">1</span><span class="p">]]</span><span class="w">
+            </span><span class="c1"># split in two lines</span><span class="w">
+            </span><span class="n">spaceLoc</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gregexpr</span><span class="p">(</span><span class="s2">" "</span><span class="p">,</span><span class="w"> </span><span class="n">term</span><span class="p">,</span><span class="w"> </span><span class="n">fixed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)[[</span><span class="m">1</span><span class="p">]]</span><span class="w">
             </span><span class="k">if</span><span class="w"> </span><span class="p">((</span><span class="n">spaceLoc</span><span class="p">[</span><span class="m">1</span><span class="p">]</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="m">-1</span><span class="p">)</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">spaceLoc</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w">
             </span><span class="p">{</span><span class="w">
                 </span><span class="n">spaceLoc</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">spaceLoc</span><span class="p">[</span><span class="nf">ceiling</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">spaceLoc</span><span class="p">)</span><span class="o">/</span><span class="m">2</span><span class="p">)]</span><span class="w">
@@ -918,10 +742,9 @@
                            </span><span class="n">ifelse</span><span class="p">(</span><span class="n">E</span><span class="p">(</span><span class="n">goGraph</span><span class="p">)</span><span class="o">$</span><span class="n">type</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"negatively_regulates"</span><span class="p">,</span><span class="w"> </span><span class="s2">"orange"</span><span class="p">,</span><span class="w"> </span><span class="s2">"greenyellow"</span><span class="p">))))</span><span class="w">
 
 </span><span class="n">E</span><span class="p">(</span><span class="n">goGraph</span><span class="p">)</span><span class="o">$</span><span class="n">color</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">Ecolor</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">goGraph</span><span class="p">,</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">goGraph</span><span class="p">,</span><span class="w">
      </span><span class="n">vertex.label.color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"black"</span><span class="p">,</span><span class="w">
      </span><span class="n">vertex.label.cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.8</span><span class="p">,</span><span class="w">
      </span><span class="n">vertex.size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w">
@@ -931,8 +754,7 @@
 </span><span class="n">colors</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"green"</span><span class="p">,</span><span class="w"> </span><span class="s2">"yellowgreen"</span><span class="p">,</span><span class="w"> </span><span class="s2">"violetred"</span><span class="p">,</span><span class="w"> </span><span class="s2">"turquoise"</span><span class="p">,</span><span class="w"> </span><span class="s2">"violet"</span><span class="p">,</span><span class="w"> </span><span class="s2">"thistle"</span><span class="p">,</span><span class="w"> </span><span class="s2">"tan1"</span><span class="p">,</span><span class="w"> </span><span class="s2">"steelblue"</span><span class="p">,</span><span class="w"> </span><span class="s2">"orangered"</span><span class="p">,</span><span class="w"> </span><span class="s2">"olivedrab"</span><span class="p">,</span><span class="w"> </span><span class="s2">"cyan"</span><span class="p">,</span><span class="w"> </span><span class="s2">"red"</span><span class="p">,</span><span class="w"> </span><span class="s2">"skyblue2"</span><span class="p">)</span><span class="w">
 </span><span class="n">legend</span><span class="p">(</span><span class="s2">"topleft"</span><span class="p">,</span><span class="w"> </span><span class="n">labels</span><span class="p">,</span><span class="w"> </span><span class="n">pch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">19</span><span class="p">,</span><span class="w">
        </span><span class="n">col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colors</span><span class="p">,</span><span class="w"> </span><span class="n">pt.cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">bty</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"n"</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>For the output network graph, see summary at the beginning of this post.</p>
 
@@ -940,11 +762,10 @@
 
 <p><br /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.3.2 (2016-10-31)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## R version 3.3.2 (2016-10-31)
 ## Platform: x86_64-w64-mingw32/x64 (64-bit)
 ## Running under: Windows 7 x64 (build 7601) Service Pack 1
 ## 
@@ -989,121 +810,28 @@
 ## [40] DO.db_2.9          fastmatch_1.0-4    tools_3.3.2       
 ## [43] yaml_2.1.14        colorspace_1.3-2   memoise_1.0.0     
 ## [46] knitr_1.15.1       XMLRPC_0.3-0
-</code></pre>
-</div>
-
-    </div>
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
+</code></pre></div></div>
 
 
-  
-     
-    	<li><a href="/categories.html#genome-ref">
-    		genome <span>6</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#AnnotatioDbi-ref">AnnotatioDbi <span>3</span></a></li>
-     
-    	<li><a href="/tags.html#biomaRt-ref">biomaRt <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#igraph-ref">igraph <span>5</span></a></li>
-     
-    	<li><a href="/tags.html#ggplot2-ref">ggplot2 <span>32</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev"><a href="/maps/2016/12/30/Standortverlauf_post" title="How to map your Google location history with R">&laquo; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/machine_learning/2017/01/15/rfe_ga_post" title="Feature Selection in Machine Learning (Breast Cancer Datasets)">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

@@ -1,249 +1,96 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/machine_learning/2017/02/27/h2o">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>27 February 2017</span>
-    </div>
-    <div class="content">
-      <p><a href="https://shiring.github.io/machine_learning/2017/02/19/food_spark">Last week, I introduced how to run machine learning applications on Spark from within R, using the <strong>sparklyr</strong> package.</a> This week, I am showing how to build feed-forward deep neural networks or multilayer perceptrons. The models in this example are built to classify ECG data into being either from <em>healthy</em> hearts or from someone suffering from <em>arrhythmia</em>. I will show how to prepare a dataset for modeling, setting weights and other modeling parameters and finally, how to evaluate model performance with the <strong>h2o</strong> package via <strong>rsparkling</strong>.</p>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">February 27, 2017</span>
+  <h1 class="page__title">Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<p><a href="https://shiring.github.io/machine_learning/2017/02/19/food_spark">Last week, I introduced how to run machine learning applications on Spark from within R, using the <strong>sparklyr</strong> package.</a> This week, I am showing how to build feed-forward deep neural networks or multilayer perceptrons. The models in this example are built to classify ECG data into being either from <em>healthy</em> hearts or from someone suffering from <em>arrhythmia</em>. I will show how to prepare a dataset for modeling, setting weights and other modeling parameters and finally, how to evaluate model performance with the <strong>h2o</strong> package via <strong>rsparkling</strong>.</p>
 
 <p><br /></p>
 
@@ -265,20 +112,19 @@
 
 <p>First, we need to load the packages and connect to the Spark instance (for demonstration purposes, I am using a local instance).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">rsparkling</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">rsparkling</span><span class="p">)</span><span class="w">
 </span><span class="n">options</span><span class="p">(</span><span class="n">rsparkling.sparklingwater.version</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"2.0.3"</span><span class="p">)</span><span class="w">
 
-</span><span class="n">library</span><span class="p">(</span><span class="n">h</span><span class="m">2</span><span class="n">o</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">h2o</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">sparklyr</span><span class="p">)</span><span class="w">
 
 </span><span class="n">sc</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">spark_connect</span><span class="p">(</span><span class="n">master</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"local"</span><span class="p">,</span><span class="w"> </span><span class="n">version</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"2.0.0"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>I am also preparing my custom plotting theme.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">ggrepel</span><span class="p">)</span><span class="w">
 
 </span><span class="n">my_theme</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">base_size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">12</span><span class="p">,</span><span class="w"> </span><span class="n">base_family</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"sans"</span><span class="p">){</span><span class="w">
@@ -296,8 +142,7 @@
     </span><span class="n">panel.border</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_rect</span><span class="p">(</span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"grey"</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NA</span><span class="p">,</span><span class="w"> </span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">)</span><span class="w">
   </span><span class="p">)</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -305,46 +150,41 @@
 
 <p>The data I am using to demonstrate the building of neural nets is the arrhythmia dataset from <a href="https://archive.ics.uci.edu/ml/datasets/Arrhythmia">UC Irvine’s machine learning database</a>. It contains 279 features from ECG heart rhythm diagnostics and one output column. I am not going to rename the feature columns because they are too many and the descriptions are too complex. Also, we don’t need to know specifically which features we are looking at for building the models. For a description of each feature, see <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/arrhythmia/arrhythmia.names">https://archive.ics.uci.edu/ml/machine-learning-databases/arrhythmia/arrhythmia.names</a>. The output column defines 16 classes: class 1 samples are from healthy ECGs, the remaining classes belong to different types of arrhythmia, with class 16 being all remaining arrhythmia cases that didn’t fit into distinct classes.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">arrhythmia</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read.table</span><span class="p">(</span><span class="s2">"arrhythmia.data.txt"</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">","</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">arrhythmia</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read.table</span><span class="p">(</span><span class="s2">"arrhythmia.data.txt"</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">","</span><span class="p">)</span><span class="w">
 </span><span class="n">arrhythmia</span><span class="p">[</span><span class="n">arrhythmia</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"?"</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="kc">NA</span><span class="w">
 
-</span><span class="c1"># making sure, that all feature columns are numeric
+</span><span class="c1"># making sure, that all feature columns are numeric</span><span class="w">
 </span><span class="n">arrhythmia</span><span class="p">[</span><span class="m">-280</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lapply</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">[</span><span class="m">-280</span><span class="p">],</span><span class="w"> </span><span class="n">as.character</span><span class="p">)</span><span class="w">
 </span><span class="n">arrhythmia</span><span class="p">[</span><span class="m">-280</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lapply</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">[</span><span class="m">-280</span><span class="p">],</span><span class="w"> </span><span class="n">as.numeric</span><span class="p">)</span><span class="w">
 
-</span><span class="c1">#  renaming output column and converting to factor
+</span><span class="c1">#  renaming output column and converting to factor</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">)[</span><span class="m">280</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"class"</span><span class="w">
 </span><span class="n">arrhythmia</span><span class="o">$</span><span class="n">class</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.factor</span><span class="p">(</span><span class="n">arrhythmia</span><span class="o">$</span><span class="n">class</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>As usual, I want to get acquainted with the data and explore it’s properties before I am building any model. So, I am first going to look at the distribution of classes and of healthy and arrhythmia samples.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">p</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">class</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">p1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">class</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"navy"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.7</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>Because I am interested in distinguishing healthy from arrhythmia ECGs, I am converting the output to binary format by combining all arrhythmia cases into one class.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">arrhythmia</span><span class="o">$</span><span class="n">diagnosis</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">arrhythmia</span><span class="o">$</span><span class="n">class</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="s2">"healthy"</span><span class="p">,</span><span class="w"> </span><span class="s2">"arrhythmia"</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">arrhythmia</span><span class="o">$</span><span class="n">diagnosis</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">arrhythmia</span><span class="o">$</span><span class="n">class</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="s2">"healthy"</span><span class="p">,</span><span class="w"> </span><span class="s2">"arrhythmia"</span><span class="p">)</span><span class="w">
 </span><span class="n">arrhythmia</span><span class="o">$</span><span class="n">diagnosis</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.factor</span><span class="p">(</span><span class="n">arrhythmia</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">p</span><span class="m">2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">diagnosis</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">p2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ggplot</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">diagnosis</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"navy"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.7</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">gridExtra</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">gridExtra</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">grid</span><span class="p">)</span><span class="w">
 
-</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span><span class="w"> </span><span class="n">p2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-8-1.png" style="display: block; margin: auto;" /></p>
 
@@ -352,7 +192,7 @@
 
 <p>I am also interested in how much the normal and arrhythmia cases cluster in a Principal Component Analysis (PCA). I am first preparing the PCA plotting function and then run it on the feature data.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">pcaGoPromoter</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">pcaGoPromoter</span><span class="p">)</span><span class="w">
 
 </span><span class="n">pca_func</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="p">,</span><span class="w"> </span><span class="n">group_name</span><span class="p">){</span><span class="w">
     </span><span class="n">centroids</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">aggregate</span><span class="p">(</span><span class="n">cbind</span><span class="p">(</span><span class="n">PC1</span><span class="p">,</span><span class="w"> </span><span class="n">PC2</span><span class="p">)</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="n">groups</span><span class="p">,</span><span class="w"> </span><span class="n">pcaOutput2</span><span class="p">,</span><span class="w"> </span><span class="n">mean</span><span class="p">)</span><span class="w">
@@ -374,33 +214,30 @@
     
     </span><span class="nf">return</span><span class="p">(</span><span class="n">plot</span><span class="p">)</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">pcaOutput</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">pca</span><span class="p">(</span><span class="n">t</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">[</span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">280</span><span class="p">,</span><span class="w"> </span><span class="m">281</span><span class="p">)]),</span><span class="w"> </span><span class="n">printDropped</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">scale</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">center</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pcaOutput</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">pca</span><span class="p">(</span><span class="n">t</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">[</span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">280</span><span class="p">,</span><span class="w"> </span><span class="m">281</span><span class="p">)]),</span><span class="w"> </span><span class="n">printDropped</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">scale</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">center</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 </span><span class="n">pcaOutput2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">pcaOutput</span><span class="o">$</span><span class="n">scores</span><span class="p">)</span><span class="w">
 
 </span><span class="n">pcaOutput2</span><span class="o">$</span><span class="n">groups</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">arrhythmia</span><span class="o">$</span><span class="n">class</span><span class="w">
-</span><span class="n">p</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">pca_func</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="p">,</span><span class="w"> </span><span class="n">group_name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"class"</span><span class="p">)</span><span class="w">
+</span><span class="n">p1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">pca_func</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="p">,</span><span class="w"> </span><span class="n">group_name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"class"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">pcaOutput2</span><span class="o">$</span><span class="n">groups</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">arrhythmia</span><span class="o">$</span><span class="n">diagnosis</span><span class="w">
-</span><span class="n">p</span><span class="m">2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">pca_func</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="p">,</span><span class="w"> </span><span class="n">group_name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"diagnosis"</span><span class="p">)</span><span class="w">
+</span><span class="n">p2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">pca_func</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="p">,</span><span class="w"> </span><span class="n">group_name</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"diagnosis"</span><span class="p">)</span><span class="w">
 
-</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span><span class="w"> </span><span class="n">p2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-10-1.png" alt="" /></p>
 
 <p>The PCA shows that there is a big overlap between healthy and arrhythmia samples, i.e. there does not seem to be major global differences in all features. The class that is most distinct from all others seems to be class 9. I want to give the arrhythmia cases that are very different from the rest a stronger weight in the neural network, so I define a weight column where every sample outside the central PCA cluster will get a “2”, they will in effect be used twice in the model.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">weights</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="o">$</span><span class="n">PC1</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="m">-5</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="nf">abs</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="o">$</span><span class="n">PC2</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">weights</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="o">$</span><span class="n">PC1</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="m">-5</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="nf">abs</span><span class="p">(</span><span class="n">pcaOutput2</span><span class="o">$</span><span class="n">PC2</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p>I also want to know what the variance is within features.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">matrixStats</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">matrixStats</span><span class="p">)</span><span class="w">
 
 </span><span class="n">colvars</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">feature</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">[</span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">280</span><span class="p">,</span><span class="w"> </span><span class="m">281</span><span class="p">)]),</span><span class="w">
                       </span><span class="n">variance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colVars</span><span class="p">(</span><span class="n">as.matrix</span><span class="p">(</span><span class="n">arrhythmia</span><span class="p">[</span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">280</span><span class="p">,</span><span class="w"> </span><span class="m">281</span><span class="p">)])))</span><span class="w">
@@ -411,16 +248,14 @@
     </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">stat</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"identity"</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"navy"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.7</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">theme</span><span class="p">(</span><span class="n">axis.text.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">angle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">90</span><span class="p">,</span><span class="w"> </span><span class="n">vjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">,</span><span class="w"> </span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-12-1.png" style="display: block; margin: auto;" /></p>
 
 <p>Features with low variance are less likely to strongly contribute to a differentiation between healthy and arrhythmia cases, so I am going to remove them. I am also concatenating the weights column:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">arrhythmia_subset</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">cbind</span><span class="p">(</span><span class="n">weights</span><span class="p">,</span><span class="w"> </span><span class="n">arrhythmia</span><span class="p">[,</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">281</span><span class="p">,</span><span class="w"> </span><span class="m">280</span><span class="p">,</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">colvars</span><span class="o">$</span><span class="n">variance</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">50</span><span class="p">))])</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">arrhythmia_subset</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">cbind</span><span class="p">(</span><span class="n">weights</span><span class="p">,</span><span class="w"> </span><span class="n">arrhythmia</span><span class="p">[,</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">281</span><span class="p">,</span><span class="w"> </span><span class="m">280</span><span class="p">,</span><span class="w"> </span><span class="n">which</span><span class="p">(</span><span class="n">colvars</span><span class="o">$</span><span class="n">variance</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">50</span><span class="p">))])</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -428,19 +263,18 @@
 
 <p>Now that I have my final data frame for modeling, I copy it to the Spark instance. For working with <strong>h2o</strong> functions, the data needs to be converted from a Spark DataFrame to an H2O Frame. This is done with the <em>as_h2o_frame()</em> function.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">arrhythmia_sc</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">copy_to</span><span class="p">(</span><span class="n">sc</span><span class="p">,</span><span class="w"> </span><span class="n">arrhythmia_subset</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">arrhythmia_sc</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">copy_to</span><span class="p">(</span><span class="n">sc</span><span class="p">,</span><span class="w"> </span><span class="n">arrhythmia_subset</span><span class="p">)</span><span class="w">
 </span><span class="n">arrhythmia_hf</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as_h2o_frame</span><span class="p">(</span><span class="n">sc</span><span class="p">,</span><span class="w"> </span><span class="n">arrhythmia_sc</span><span class="p">,</span><span class="w"> </span><span class="n">strict_version_check</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>We can now access all functions from the <strong>h2o</strong> package that are built to work on H2O Frames. A useful such function is <em>h2o.describe()</em>. It is similar to base R’s <em>summary()</em> function but outputs many more descriptive measures for our data. To get a good overview about these measures, I am going to plot them.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyr</span><span class="p">)</span><span class="w"> </span><span class="c1"># for gathering
-</span><span class="n">h</span><span class="m">2</span><span class="n">o.describe</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">])</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> </span><span class="c1"># excluding the weights column
-</span><span class="w">  </span><span class="n">gather</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">Zeros</span><span class="o">:</span><span class="n">Sigma</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyr</span><span class="p">)</span><span class="w"> </span><span class="c1"># for gathering</span><span class="w">
+</span><span class="n">h2o.describe</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">])</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> </span><span class="c1"># excluding the weights column</span><span class="w">
+  </span><span class="n">gather</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">Zeros</span><span class="o">:</span><span class="n">Sigma</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">mutate</span><span class="p">(</span><span class="n">group</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Min"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Max"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Mean"</span><span class="p">),</span><span class="w"> </span><span class="s2">"min, mean, max"</span><span class="p">,</span><span class="w"> 
-                        </span><span class="n">ifelse</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"NegInf"</span><span class="p">,</span><span class="w"> </span><span class="s2">"PosInf"</span><span class="p">),</span><span class="w"> </span><span class="s2">"Inf"</span><span class="p">,</span><span class="w"> </span><span class="s2">"sigma, zeros"</span><span class="p">)))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> </span><span class="c1"># separating them into facets makes them easier to see
-</span><span class="w">  </span><span class="n">mutate</span><span class="p">(</span><span class="n">Label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">Label</span><span class="p">,</span><span class="w"> </span><span class="n">levels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">])))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+                        </span><span class="n">ifelse</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"NegInf"</span><span class="p">,</span><span class="w"> </span><span class="s2">"PosInf"</span><span class="p">),</span><span class="w"> </span><span class="s2">"Inf"</span><span class="p">,</span><span class="w"> </span><span class="s2">"sigma, zeros"</span><span class="p">)))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w"> </span><span class="c1"># separating them into facets makes them easier to see</span><span class="w">
+  </span><span class="n">mutate</span><span class="p">(</span><span class="n">Label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">factor</span><span class="p">(</span><span class="n">Label</span><span class="p">,</span><span class="w"> </span><span class="n">levels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">-1</span><span class="p">])))</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Label</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">as.numeric</span><span class="p">(</span><span class="n">y</span><span class="p">),</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">x</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_point</span><span class="p">(</span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.6</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">scale_color_brewer</span><span class="p">(</span><span class="n">palette</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Set1"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -450,19 +284,18 @@
     </span><span class="n">labs</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Feature"</span><span class="p">,</span><span class="w">
          </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Value"</span><span class="p">,</span><span class="w">
          </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-16-1.png" style="display: block; margin: auto;" /></p>
 
 <p>I am also interested in the correlation between features and the output. We can use the <em>h2o.cor()</em> function to calculate the correlation matrix. It is again much easier to understand the data when we visualize it, so I am going to create another plot.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">reshape2</span><span class="p">)</span><span class="w"> </span><span class="c1"># for melting
-</span><span class="w">
-</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">2</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.asfactor</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">2</span><span class="p">])</span><span class="w"> </span><span class="c1"># diagnosis is now a characer column and we need to convert it again
-</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">3</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.asfactor</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">3</span><span class="p">])</span><span class="w"> </span><span class="c1"># same for class
-</span><span class="w">
-</span><span class="n">cor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.cor</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">3</span><span class="p">)])</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">reshape2</span><span class="p">)</span><span class="w"> </span><span class="c1"># for melting</span><span class="w">
+
+</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">2</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.asfactor</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">2</span><span class="p">])</span><span class="w"> </span><span class="c1"># diagnosis is now a characer column and we need to convert it again</span><span class="w">
+</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">3</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.asfactor</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="m">3</span><span class="p">])</span><span class="w"> </span><span class="c1"># same for class</span><span class="w">
+
+</span><span class="n">cor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.cor</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">[,</span><span class="w"> </span><span class="o">-</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">3</span><span class="p">)])</span><span class="w">
 </span><span class="n">rownames</span><span class="p">(</span><span class="n">cor</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">cor</span><span class="p">)</span><span class="w">
 
 </span><span class="n">melt</span><span class="p">(</span><span class="n">cor</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
@@ -476,8 +309,7 @@
     </span><span class="n">theme</span><span class="p">(</span><span class="n">axis.text.x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">element_text</span><span class="p">(</span><span class="n">angle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">90</span><span class="p">,</span><span class="w"> </span><span class="n">vjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.5</span><span class="p">,</span><span class="w"> </span><span class="n">hjust</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">labs</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> 
          </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">""</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-17-1.png" style="display: block; margin: auto;" /></p>
 
@@ -489,7 +321,7 @@
 
 <p>I am also defining response, feature and weight column names now.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">splits</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.splitFrame</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">,</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">splits</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.splitFrame</span><span class="p">(</span><span class="n">arrhythmia_hf</span><span class="p">,</span><span class="w"> 
                          </span><span class="n">ratios</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0.7</span><span class="p">,</span><span class="w"> </span><span class="m">0.15</span><span class="p">),</span><span class="w"> 
                          </span><span class="n">seed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
 
@@ -500,44 +332,37 @@
 </span><span class="n">response</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"diagnosis"</span><span class="w">
 </span><span class="n">weights</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"weights"</span><span class="w">
 </span><span class="n">features</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">setdiff</span><span class="p">(</span><span class="n">colnames</span><span class="p">(</span><span class="n">train</span><span class="p">),</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">response</span><span class="p">,</span><span class="w"> </span><span class="n">weights</span><span class="p">,</span><span class="w"> </span><span class="s2">"class"</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">summary</span><span class="p">(</span><span class="n">train</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">,</span><span class="w"> </span><span class="n">exact_quantiles</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">summary</span><span class="p">(</span><span class="n">train</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">,</span><span class="w"> </span><span class="n">exact_quantiles</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##  diagnosis      
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##  diagnosis      
 ##  healthy   :163 
 ##  arrhythmia:155
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">summary</span><span class="p">(</span><span class="n">valid</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">,</span><span class="w"> </span><span class="n">exact_quantiles</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">summary</span><span class="p">(</span><span class="n">valid</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">,</span><span class="w"> </span><span class="n">exact_quantiles</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##  diagnosis     
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##  diagnosis     
 ##  healthy   :43 
 ##  arrhythmia:25
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">summary</span><span class="p">(</span><span class="n">test</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">,</span><span class="w"> </span><span class="n">exact_quantiles</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">summary</span><span class="p">(</span><span class="n">test</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">,</span><span class="w"> </span><span class="n">exact_quantiles</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##  diagnosis     
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##  diagnosis     
 ##  healthy   :39 
 ##  arrhythmia:27
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>If we had more categorical features, we could use the <em>h2o.interaction()</em> function to define interaction terms, but since we only have numeric features here, we don’t need this.</p>
 
 <p>We can also run a PCA on the training data, using the <em>h2o.prcomp()</em> function to calculate the singular value decomposition of the Gram matrix with the power method.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">pca</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.prcomp</span><span class="p">(</span><span class="n">training_frame</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">train</span><span class="p">,</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pca</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.prcomp</span><span class="p">(</span><span class="n">training_frame</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">train</span><span class="p">,</span><span class="w">
            </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">features</span><span class="p">,</span><span class="w">
            </span><span class="n">validation_frame</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">valid</span><span class="p">,</span><span class="w">
            </span><span class="n">transform</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"NORMALIZE"</span><span class="p">,</span><span class="w">
@@ -545,10 +370,9 @@
            </span><span class="n">seed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">42</span><span class="p">)</span><span class="w">
 
 </span><span class="n">pca</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## Model Details:
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Model Details:
 ## ==============
 ## 
 ## H2ODimReductionModel: pca
@@ -566,18 +390,16 @@
 ## H2ODimReductionMetrics: pca
 ## 
 ## No model metrics available for PCA
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">eigenvec</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">pca</span><span class="o">@</span><span class="n">model</span><span class="o">$</span><span class="n">eigenvectors</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">eigenvec</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">pca</span><span class="o">@</span><span class="n">model</span><span class="o">$</span><span class="n">eigenvectors</span><span class="p">)</span><span class="w">
 </span><span class="n">eigenvec</span><span class="o">$</span><span class="n">label</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">features</span><span class="w">
 
 </span><span class="n">ggplot</span><span class="p">(</span><span class="n">eigenvec</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pc1</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pc2</span><span class="p">,</span><span class="w"> </span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">label</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"navy"</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.7</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_text_repel</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">my_theme</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-23-1.png" alt="" /></p>
 
@@ -610,36 +432,33 @@
 
 <p>Of course, you need quite a bit of experience and intuition to hit on a good combination of parameters. That’s why it usually makes sense to do a grid search for hyper-parameter tuning. Here, I want to focus on building and evaluating deep learning models, though. I will cover grid search in next week’s post.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">dl_model</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.deeplearning</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">features</span><span class="p">,</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">dl_model</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.deeplearning</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">features</span><span class="p">,</span><span class="w">
                              </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">response</span><span class="p">,</span><span class="w">
                              </span><span class="n">weights_column</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">weights</span><span class="p">,</span><span class="w">
                              </span><span class="n">model_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dl_model"</span><span class="p">,</span><span class="w">
                              </span><span class="n">training_frame</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">train</span><span class="p">,</span><span class="w">
                              </span><span class="n">validation_frame</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">valid</span><span class="p">,</span><span class="w">
-                             </span><span class="n">nfolds</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">15</span><span class="p">,</span><span class="w">                                   </span><span class="c1"># 10x cross validation
-</span><span class="w">                             </span><span class="n">keep_cross_validation_fold_assignment</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w">
+                             </span><span class="n">nfolds</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">15</span><span class="p">,</span><span class="w">                                   </span><span class="c1"># 10x cross validation</span><span class="w">
+                             </span><span class="n">keep_cross_validation_fold_assignment</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w">
                              </span><span class="n">fold_assignment</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Stratified"</span><span class="p">,</span><span class="w">
                              </span><span class="n">activation</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"RectifierWithDropout"</span><span class="p">,</span><span class="w">
                              </span><span class="n">score_each_iteration</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w">
-                             </span><span class="n">hidden</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="m">200</span><span class="p">),</span><span class="w">           </span><span class="c1"># 5 hidden layers, each of 200 neurons
-</span><span class="w">                             </span><span class="n">epochs</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">100</span><span class="p">,</span><span class="w">
+                             </span><span class="n">hidden</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="m">200</span><span class="p">,</span><span class="w"> </span><span class="m">200</span><span class="p">),</span><span class="w">           </span><span class="c1"># 5 hidden layers, each of 200 neurons</span><span class="w">
+                             </span><span class="n">epochs</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">100</span><span class="p">,</span><span class="w">
                              </span><span class="n">variable_importances</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w">
                              </span><span class="n">export_weights_and_biases</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w">
                              </span><span class="n">seed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">42</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>Because training can take a while, depending on how many samples, features, nodes and hidden layers you are training on, it is a good idea to save your model.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.saveModel</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">path</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dl_model"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.saveModel</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">path</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dl_model"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p>We can then re-load the model again any time to check the model quality and make predictions on new data.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">dl_model</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.loadModel</span><span class="p">(</span><span class="s2">"dl_model/dl_model"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">dl_model</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.loadModel</span><span class="p">(</span><span class="s2">"dl_model/dl_model"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -647,113 +466,96 @@
 
 <p>We now want to know how our model performed on the validation data. The <em>summary()</em> function will give us a detailed overview of our model. I am not showing the output here, because it is quite extensive.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">summary</span><span class="p">(</span><span class="n">dl_model</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">summary</span><span class="p">(</span><span class="n">dl_model</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p>One performance metric we are usually interested in is the mean per class error for training and validation data.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.mean_per_class_error</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">train</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">valid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">xval</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.mean_per_class_error</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">train</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">valid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">xval</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##           train          valid            xval 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##           train          valid            xval 
 ## 0.0304878 0.2232558 0.2257781
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>The confusion matrix tells us, how many classes have been predicted correctly and how many predictions were accurate. Here, we see the errors in predictions on validation data</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.confusionMatrix</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">valid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.confusionMatrix</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">valid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## Confusion Matrix (vertical: actual; across: predicted)  for max f1 @ threshold = 0.00425904880659062:
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Confusion Matrix (vertical: actual; across: predicted)  for max f1 @ threshold = 0.00425904880659062:
 ##            arrhythmia healthy    Error    Rate
 ## arrhythmia         15      10 0.400000  =10/25
 ## healthy             2      41 0.046512   =2/43
 ## Totals             17      51 0.176471  =12/68
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>We can also plot the classification error over all epochs or samples.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w">
      </span><span class="n">timestep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"epochs"</span><span class="p">,</span><span class="w">
      </span><span class="n">metric</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"classification_error"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-33-1.png" style="display: block; margin: auto;" /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w">
      </span><span class="n">timestep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"samples"</span><span class="p">,</span><span class="w">
      </span><span class="n">metric</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"classification_error"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-34-1.png" style="display: block; margin: auto;" /></p>
 
 <p>Next to the classification error, we are usually interested in the logistic loss (negative log-likelihood or log loss). It describes the sum of errors for each sample in the training or validation data or the negative logarithm of the likelihood of error for a given prediction/ classification. Simply put, the lower the loss, the better the model (if we ignore potential overfitting).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w">
      </span><span class="n">timestep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"epochs"</span><span class="p">,</span><span class="w">
      </span><span class="n">metric</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"logloss"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-36-1.png" style="display: block; margin: auto;" /></p>
 
 <p>We can also plot the mean squared error (MSE). The MSE tells us the average of the prediction errors squared, i.e. the estimator’s variance and bias. The closer to zero, the better a model.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w">
      </span><span class="n">timestep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"epochs"</span><span class="p">,</span><span class="w">
      </span><span class="n">metric</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"rmse"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-37-1.png" style="display: block; margin: auto;" /></p>
 
 <p>Next, we want to know the area under the curve (AUC). AUC is an important metric for measuring binary classification model performances. It gives the area under the curve, i.e. the integral, of true positive vs false positive rates. The closer to 1, the better a model.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.auc</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">train</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.auc</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">train</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 0.9864582
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 0.9864582
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.auc</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">valid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.auc</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">valid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 0.852093
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 0.852093
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.auc</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">xval</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.auc</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">xval</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 0.8577735
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 0.8577735
+</code></pre></div></div>
 
 <p>The weights for connecting two adjacent layers and per-neuron biases that we specified the model to save, can be accessed with:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">w</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.weights</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">matrix_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
-</span><span class="n">b</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.biases</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">vector_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">w</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.weights</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">matrix_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
+</span><span class="n">b</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.biases</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">vector_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p>Variable importance can be extracted as well (but keep in mind, that variable importance in deep neural networks is difficult to assess and should be considered only as rough estimates).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.varimp</span><span class="p">(</span><span class="n">dl_model</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.varimp</span><span class="p">(</span><span class="n">dl_model</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## Variable Importances: 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Variable Importances: 
 ##   variable relative_importance scaled_importance percentage
 ## 1     V169            1.000000          1.000000   0.013925
 ## 2     V239            0.987290          0.987290   0.013748
@@ -769,12 +571,10 @@
 ## 88     V168            0.711402          0.711402   0.009906
 ## 89      V33            0.707356          0.707356   0.009850
 ## 90     V219            0.696149          0.696149   0.009694
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1">#h2o.varimp_plot(dl_model)
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">#h2o.varimp_plot(dl_model)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -782,12 +582,11 @@
 
 <p>Now that we have a good idea about model performance on validation data, we want to know how it performed on unseen test data. A good model should find an optimal balance between accuracy on training and test data. A model that has 0% error on the training data but 40% error on the test data is in effect useless. It overfit on the training data and is thus not able to generalize to unknown data.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">perf</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h</span><span class="m">2</span><span class="n">o.performance</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">test</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">perf</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">h2o.performance</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">test</span><span class="p">)</span><span class="w">
 </span><span class="n">perf</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## H2OBinomialMetrics: deeplearning
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## H2OBinomialMetrics: deeplearning
 ## 
 ## MSE:  0.2154912
 ## RMSE:  0.4642103
@@ -816,48 +615,39 @@
 ## 10 max mean_per_class_accuracy  0.132564 0.774929  40
 ## 
 ## Gains/Lift Table: Extract with `h2o.gainsLift(&lt;model&gt;, &lt;data&gt;)` or `h2o.gainsLift(&lt;model&gt;, valid=&lt;T/F&gt;, xval=&lt;T/F&gt;)`
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Plotting the test performance’s AUC plot shows us approximately how good the predictions are.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">perf</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot</span><span class="p">(</span><span class="n">perf</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-46-1.png" style="display: block; margin: auto;" /></p>
 
 <p>We also want to know the log loss, MSE and AUC values, as well as other model metrics for the test data:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.logloss</span><span class="p">(</span><span class="n">perf</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.logloss</span><span class="p">(</span><span class="n">perf</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 1.378809
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 1.378809
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.mse</span><span class="p">(</span><span class="n">perf</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.mse</span><span class="p">(</span><span class="n">perf</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 0.2154912
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 0.2154912
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.auc</span><span class="p">(</span><span class="n">perf</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.auc</span><span class="p">(</span><span class="n">perf</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## [1] 0.7796771
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## [1] 0.7796771
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">h</span><span class="m">2</span><span class="n">o.metric</span><span class="p">(</span><span class="n">perf</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">head</span><span class="p">(</span><span class="n">h2o.metric</span><span class="p">(</span><span class="n">perf</span><span class="p">))</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## Metrics for Thresholds: Binomial metrics as a function of classification thresholds
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Metrics for Thresholds: Binomial metrics as a function of classification thresholds
 ##   threshold       f1       f2 f0point5 accuracy precision   recall
 ## 1  0.982938 0.050000 0.031847 0.116279 0.424242  1.000000 0.025641
 ## 2  0.982811 0.097561 0.063291 0.212766 0.439394  1.000000 0.051282
@@ -879,18 +669,16 @@
 ## 4  26  36   1   3 0.962963 0.923077 0.037037 0.076923   3
 ## 5  26  35   1   4 0.962963 0.897436 0.037037 0.102564   4
 ## 6  25  35   2   4 0.925926 0.897436 0.074074 0.102564   5
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>The confusion matrix alone can be seen with the <em>h2o.confusionMatrix()</em> function, but is is also part of the performance summary.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">h</span><span class="m">2</span><span class="n">o.confusionMatrix</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">test</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">h2o.confusionMatrix</span><span class="p">(</span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">test</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p>The final predictions with probabilities can be extracted with the <em>h2o.predict()</em> function. Beware though, that the number of correct and wrong classifications can be slightly different from the confusion matrix above. Here, I combine the predictions with the actual test diagnoses and classes into a data frame. For plotting I also want to have a column, that tells me whether the predictions were correct. By default, a prediction probability above 0.5 will get scored as a prediction for the respective category. I find it often makes sense to be more stringent with this, though and set a higher threshold. Therefore, I am creating another column with stringent predictions, where I only count predictions that were made with more than 80% probability. Everything that does not fall within this range gets scored as “uncertain”. For these stringent predictions, I am also creating a column that tells me whether they were accurate.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">class</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">as.vector</span><span class="p">(</span><span class="n">test</span><span class="o">$</span><span class="n">class</span><span class="p">),</span><span class="w"> </span><span class="n">actual</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">as.vector</span><span class="p">(</span><span class="n">test</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">),</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">h</span><span class="m">2</span><span class="n">o.predict</span><span class="p">(</span><span class="n">object</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">newdata</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">test</span><span class="p">)))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">class</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">as.vector</span><span class="p">(</span><span class="n">test</span><span class="o">$</span><span class="n">class</span><span class="p">),</span><span class="w"> </span><span class="n">actual</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">as.vector</span><span class="p">(</span><span class="n">test</span><span class="o">$</span><span class="n">diagnosis</span><span class="p">),</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">h2o.predict</span><span class="p">(</span><span class="n">object</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">dl_model</span><span class="p">,</span><span class="w"> </span><span class="n">newdata</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">test</span><span class="p">)))</span><span class="w">
 
 </span><span class="n">finalRf_predictions</span><span class="o">$</span><span class="n">accurate</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">finalRf_predictions</span><span class="o">$</span><span class="n">actual</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">finalRf_predictions</span><span class="o">$</span><span class="n">predict</span><span class="p">,</span><span class="w"> </span><span class="s2">"yes"</span><span class="p">,</span><span class="w"> </span><span class="s2">"no"</span><span class="p">)</span><span class="w">
 
@@ -898,16 +686,14 @@
                                                 </span><span class="n">ifelse</span><span class="p">(</span><span class="n">finalRf_predictions</span><span class="o">$</span><span class="n">healthy</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">0.8</span><span class="p">,</span><span class="w"> </span><span class="s2">"healthy"</span><span class="p">,</span><span class="w"> </span><span class="s2">"uncertain"</span><span class="p">))</span><span class="w">
 </span><span class="n">finalRf_predictions</span><span class="o">$</span><span class="n">accurate_stringent</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">finalRf_predictions</span><span class="o">$</span><span class="n">actual</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">finalRf_predictions</span><span class="o">$</span><span class="n">predict_stringent</span><span class="p">,</span><span class="w"> </span><span class="s2">"yes"</span><span class="p">,</span><span class="w"> 
                                        </span><span class="n">ifelse</span><span class="p">(</span><span class="n">finalRf_predictions</span><span class="o">$</span><span class="n">predict_stringent</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"uncertain"</span><span class="p">,</span><span class="w"> </span><span class="s2">"na"</span><span class="p">,</span><span class="w"> </span><span class="s2">"no"</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">group_by</span><span class="p">(</span><span class="n">actual</span><span class="p">,</span><span class="w"> </span><span class="n">predict</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">summarise</span><span class="p">(</span><span class="n">n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">n</span><span class="p">())</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## Source: local data frame [4 x 3]
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Source: local data frame [4 x 3]
 ## Groups: actual [?]
 ## 
 ##       actual    predict     n
@@ -916,16 +702,14 @@
 ## 2 arrhythmia    healthy    11
 ## 3    healthy arrhythmia     6
 ## 4    healthy    healthy    33
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">group_by</span><span class="p">(</span><span class="n">actual</span><span class="p">,</span><span class="w"> </span><span class="n">predict_stringent</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">summarise</span><span class="p">(</span><span class="n">n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">n</span><span class="p">())</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## Source: local data frame [6 x 3]
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## Source: local data frame [6 x 3]
 ## Groups: actual [?]
 ## 
 ##       actual predict_stringent     n
@@ -936,12 +720,11 @@
 ## 4    healthy        arrhythmia     8
 ## 5    healthy           healthy    29
 ## 6    healthy         uncertain     2
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>To get a better overview, I am going to plot the predictions (default and stringent):</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">p</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">p1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">actual</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">accurate</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dodge"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">scale_fill_brewer</span><span class="p">(</span><span class="n">palette</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Set1"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -949,7 +732,7 @@
     </span><span class="n">labs</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Were\npredictions\naccurate?"</span><span class="p">,</span><span class="w">
          </span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Default predictions"</span><span class="p">)</span><span class="w">
 
-</span><span class="n">p</span><span class="m">2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+</span><span class="n">p2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">finalRf_predictions</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">subset</span><span class="p">(</span><span class="n">accurate_stringent</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="s2">"na"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">actual</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">accurate_stringent</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dodge"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -958,9 +741,8 @@
     </span><span class="n">labs</span><span class="p">(</span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Were\npredictions\naccurate?"</span><span class="p">,</span><span class="w">
          </span><span class="n">title</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Stringent predictions"</span><span class="p">)</span><span class="w">
 
-</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span><span class="w"> </span><span class="n">p2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-53-1.png" alt="" /></p>
 
@@ -968,7 +750,7 @@
 
 <p>I also want to know whether there are certain classes of arrhythmia that are especially prone to being misclassified:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">p</span><span class="m">1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">finalRf_predictions</span><span class="p">,</span><span class="w"> </span><span class="n">actual</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"arrhythmia"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">p1</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">finalRf_predictions</span><span class="p">,</span><span class="w"> </span><span class="n">actual</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"arrhythmia"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">predict</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">class</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dodge"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -976,7 +758,7 @@
          </span><span class="n">subtitle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Default predictions"</span><span class="p">,</span><span class="w">
          </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"predicted to be"</span><span class="p">)</span><span class="w">
 
-</span><span class="n">p</span><span class="m">2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">finalRf_predictions</span><span class="p">,</span><span class="w"> </span><span class="n">actual</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"arrhythmia"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+</span><span class="n">p2</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">subset</span><span class="p">(</span><span class="n">finalRf_predictions</span><span class="p">,</span><span class="w"> </span><span class="n">actual</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"arrhythmia"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">predict_stringent</span><span class="p">,</span><span class="w"> </span><span class="n">fill</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">class</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_bar</span><span class="p">(</span><span class="n">position</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"dodge"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">my_theme</span><span class="p">()</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -984,9 +766,8 @@
          </span><span class="n">subtitle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Stringent predictions"</span><span class="p">,</span><span class="w">
          </span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"predicted to be"</span><span class="p">)</span><span class="w">
 
-</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="m">2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span><span class="n">grid.arrange</span><span class="p">(</span><span class="n">p1</span><span class="p">,</span><span class="w"> </span><span class="n">p2</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="h2o_files/figure-markdown_github/unnamed-chunk-54-1.png" alt="" /></p>
 
@@ -1010,7 +791,7 @@
 
 <p><br /></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.3.2 (2016-10-31)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## R version 3.3.2 (2016-10-31)
 ## Platform: x86_64-apple-darwin13.4.0 (64-bit)
 ## Running under: macOS Sierra 10.12.3
 ## 
@@ -1043,125 +824,28 @@
 ## [31] assertthat_0.1       colorspace_1.3-2     labeling_0.3        
 ## [34] config_0.2           stringi_1.1.2        RCurl_1.95-4.8      
 ## [37] lazyeval_0.2.0       munsell_0.4.3
-</code></pre>
-</div>
-
-    </div>
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
+</code></pre></div></div>
 
 
-  
-     
-    	<li><a href="/categories.html#machine_learning-ref">
-    		machine_learning <span>14</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#ggplot2-ref">ggplot2 <span>32</span></a></li>
-     
-    	<li><a href="/tags.html#machine_learning-ref">machine_learning <span>13</span></a></li>
-     
-    	<li><a href="/tags.html#spark-ref">spark <span>3</span></a></li>
-     
-    	<li><a href="/tags.html#h2o-ref">h2o <span>3</span></a></li>
-     
-    	<li><a href="/tags.html#neural_nets-ref">neural_nets <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#deep_learning-ref">deep_learning <span>2</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev"><a href="/machine_learning/2017/02/19/food_spark" title="Predicting food preferences with sparklyr (machine learning)">&laquo; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/machine_learning/2017/03/07/grid_search" title="Hyper-parameter Tuning with Grid Search for Deep Learning">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

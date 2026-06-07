@@ -1,249 +1,96 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Explaining complex machine learning models with LIME</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>Explaining complex machine learning models with LIME — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/machine_learning/2017/04/23/lime">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>Explaining complex machine learning models with LIME </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Explaining complex machine learning models with LIME" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>23 April 2017</span>
-    </div>
-    <div class="content">
-      <p>The classification decisions made by machine learning models are usually difficult - if not impossible - to understand by our human brains. The complexity of some of the most accurate classifiers, like neural networks, is what makes them perform so well - often with better results than achieved by humans. But it also makes them inherently hard to explain, especially to non-data scientists.</p>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">April 23, 2017</span>
+  <h1 class="page__title">Explaining complex machine learning models with LIME</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<p>The classification decisions made by machine learning models are usually difficult - if not impossible - to understand by our human brains. The complexity of some of the most accurate classifiers, like neural networks, is what makes them perform so well - often with better results than achieved by humans. But it also makes them inherently hard to explain, especially to non-data scientists.</p>
 
 <p>Especially, if we aim to develop machine learning models for medical diagnostics, high accuracies on test samples might not be enough to sell them to clinicians. Doctors and patients alike will be less inclined to trust a decision made by a model that they don’t understand.</p>
 
@@ -255,41 +102,37 @@
   <p><a href="https://arxiv.org/pdf/1602.04938.pdf">“Why Should I Trust You?” Explaining the Predictions of Any Classifier. By Marco Tulio Ribeiro, Sameer Singh and Carlos Guestrin from the University of Washington in Seattle</a></p>
 </blockquote>
 
-<p>lime is able to explain all models for which we can obtain prediction probabilities (in R, that is every model that works with <code class="highlighter-rouge">predict(type = "prob")</code>). It makes use of the fact that linear models are easy to explain because they are based on linear relationships between features and class labels: The complex model function is approximated by <strong>locally</strong> fitting linear models to permutations of the original training set.</p>
+<p>lime is able to explain all models for which we can obtain prediction probabilities (in R, that is every model that works with <code class="language-plaintext highlighter-rouge">predict(type = "prob")</code>). It makes use of the fact that linear models are easy to explain because they are based on linear relationships between features and class labels: The complex model function is approximated by <strong>locally</strong> fitting linear models to permutations of the original training set.</p>
 
 <p>On each permutation, a linear model is being fit and weights are given so that incorrect classification of instances that are more similar to the original data are penalized (positive weights support a decision, negative weights contradict them). This will give an approximation of how much (and in which way) each feature contributed to a decision made by the model.</p>
 
 <p>The code for lime has originally been made available for <a href="https://github.com/marcotcr/lime">Python</a> but the awesome Thomas Lin Pedersen has already created an <a href="https://github.com/thomasp85/lime">implementation in R</a>. It is not on CRAN (yet, I assume), but you can install it via Github:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">devtools</span><span class="o">::</span><span class="n">install_github</span><span class="p">(</span><span class="s2">"thomasp85/lime"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">devtools</span><span class="o">::</span><span class="n">install_github</span><span class="p">(</span><span class="s2">"thomasp85/lime"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <p>The data I am using is the <a href="https://shiring.github.io/machine_learning/2017/04/23/one_r">World Happiness Data from my last post</a>. So, let’s train a neural network on this data to predict three classes of the happiness scores: low, medium and high.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">load</span><span class="p">(</span><span class="s2">"data_15_16.RData"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">load</span><span class="p">(</span><span class="s2">"data_15_16.RData"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># configure multicore
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># configure multicore</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">doParallel</span><span class="p">)</span><span class="w">
 </span><span class="n">cl</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">makeCluster</span><span class="p">(</span><span class="n">detectCores</span><span class="p">())</span><span class="w">
 </span><span class="n">registerDoParallel</span><span class="p">(</span><span class="n">cl</span><span class="p">)</span><span class="w">
 
 </span><span class="n">library</span><span class="p">(</span><span class="n">caret</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">set.seed</span><span class="p">(</span><span class="m">42</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">set.seed</span><span class="p">(</span><span class="m">42</span><span class="p">)</span><span class="w">
 </span><span class="n">index</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">createDataPartition</span><span class="p">(</span><span class="n">data_15_16</span><span class="o">$</span><span class="n">Happiness.Score.l</span><span class="p">,</span><span class="w"> </span><span class="n">p</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.7</span><span class="p">,</span><span class="w"> </span><span class="n">list</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">)</span><span class="w">
 </span><span class="n">train_data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data_15_16</span><span class="p">[</span><span class="n">index</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
 </span><span class="n">test_data</span><span class="w">  </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data_15_16</span><span class="p">[</span><span class="o">-</span><span class="n">index</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">set.seed</span><span class="p">(</span><span class="m">42</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">set.seed</span><span class="p">(</span><span class="m">42</span><span class="p">)</span><span class="w">
 </span><span class="n">model_mlp</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">caret</span><span class="o">::</span><span class="n">train</span><span class="p">(</span><span class="n">Happiness.Score.l</span><span class="w"> </span><span class="o">~</span><span class="w"> </span><span class="n">.</span><span class="p">,</span><span class="w">
                          </span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">train_data</span><span class="p">,</span><span class="w">
                          </span><span class="n">method</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"mlp"</span><span class="p">,</span><span class="w">
@@ -297,44 +140,41 @@
                                                   </span><span class="n">number</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10</span><span class="p">,</span><span class="w"> 
                                                   </span><span class="n">repeats</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="w"> 
                                                   </span><span class="n">verboseIter</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <h3 id="the-explain-function">The explain function</h3>
 
-<p>The central function of <strong>lime</strong> is <code class="highlighter-rouge">lime()</code> It creates the function that is used in the next step to explain the model’s predictions.</p>
+<p>The central function of <strong>lime</strong> is <code class="language-plaintext highlighter-rouge">lime()</code> It creates the function that is used in the next step to explain the model’s predictions.</p>
 
-<p>We can give a couple of options. Check the help <code class="highlighter-rouge">?lime</code> for details, but the most important to think about are:</p>
+<p>We can give a couple of options. Check the help <code class="language-plaintext highlighter-rouge">?lime</code> for details, but the most important to think about are:</p>
 
 <ul>
   <li>Should continuous features be binned? And if so, into how many bins?</li>
 </ul>
 
-<p>Here, I am keeping the default <code class="highlighter-rouge">bin_continuous = TRUE</code> but specify 5 instead of 4 (the default) bins with <code class="highlighter-rouge">n_bins = 5</code>.</p>
+<p>Here, I am keeping the default <code class="language-plaintext highlighter-rouge">bin_continuous = TRUE</code> but specify 5 instead of 4 (the default) bins with <code class="language-plaintext highlighter-rouge">n_bins = 5</code>.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">lime</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">lime</span><span class="p">)</span><span class="w">
 
 </span><span class="n">explain</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">lime</span><span class="p">(</span><span class="n">train_data</span><span class="p">,</span><span class="w"> </span><span class="n">model_mlp</span><span class="p">,</span><span class="w"> </span><span class="n">bin_continuous</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">n_bins</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="w"> </span><span class="n">n_permutations</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1000</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <p>Now, let’s look at how the model is explained. Here, I am not going to look at all test cases but I’m randomly choosing three cases with correct predictions and three with wrong predictions.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">pred</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">sample_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">test_data</span><span class="p">),</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pred</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">sample_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="n">nrow</span><span class="p">(</span><span class="n">test_data</span><span class="p">),</span><span class="w">
                    </span><span class="n">predict</span><span class="p">(</span><span class="n">model_mlp</span><span class="p">,</span><span class="w"> </span><span class="n">test_data</span><span class="p">,</span><span class="w"> </span><span class="n">type</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"prob"</span><span class="p">),</span><span class="w">
                    </span><span class="n">actual</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">test_data</span><span class="o">$</span><span class="n">Happiness.Score.l</span><span class="p">)</span><span class="w">
   </span><span class="n">pred</span><span class="o">$</span><span class="n">prediction</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">pred</span><span class="p">)[</span><span class="m">3</span><span class="o">:</span><span class="m">5</span><span class="p">][</span><span class="n">apply</span><span class="p">(</span><span class="n">pred</span><span class="p">[,</span><span class="w"> </span><span class="m">3</span><span class="o">:</span><span class="m">5</span><span class="p">],</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="n">which.max</span><span class="p">)]</span><span class="w">
   </span><span class="n">pred</span><span class="o">$</span><span class="n">correct</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">pred</span><span class="o">$</span><span class="n">actual</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">pred</span><span class="o">$</span><span class="n">prediction</span><span class="p">,</span><span class="w"> </span><span class="s2">"correct"</span><span class="p">,</span><span class="w"> </span><span class="s2">"wrong"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>Beware that we need to give our test-set data table row names with the sample names or IDs to be displayed in the header of our explanatory plots below.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span><span class="w">
 </span><span class="n">pred_cor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">filter</span><span class="p">(</span><span class="n">pred</span><span class="p">,</span><span class="w"> </span><span class="n">correct</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"correct"</span><span class="p">)</span><span class="w">
 </span><span class="n">pred_wrong</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">filter</span><span class="p">(</span><span class="n">pred</span><span class="p">,</span><span class="w"> </span><span class="n">correct</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"wrong"</span><span class="p">)</span><span class="w">
 
@@ -353,8 +193,7 @@
   </span><span class="n">remove_rownames</span><span class="p">()</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">tibble</span><span class="o">::</span><span class="n">column_to_rownames</span><span class="p">(</span><span class="n">var</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"sample_id"</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">select</span><span class="p">(</span><span class="o">-</span><span class="n">Happiness.Score.l</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -364,42 +203,38 @@
   <li>How many features do we want to use in the explanatory function?</li>
 </ul>
 
-<p>Let’s say we have a big training set with 100 features. Looking at all features and trying to understand them all could be more confusing than helpful. And very often, a handful of very important features will be enough to predict test samples with a reasonable accuracy (<a href="https://shiring.github.io/machine_learning/2017/04/23/one_r">see also my last post on OneR</a>). So, we can choose how many features we want to look at with the <code class="highlighter-rouge">n_features</code> option.</p>
+<p>Let’s say we have a big training set with 100 features. Looking at all features and trying to understand them all could be more confusing than helpful. And very often, a handful of very important features will be enough to predict test samples with a reasonable accuracy (<a href="https://shiring.github.io/machine_learning/2017/04/23/one_r">see also my last post on OneR</a>). So, we can choose how many features we want to look at with the <code class="language-plaintext highlighter-rouge">n_features</code> option.</p>
 
 <ul>
   <li>How do we want to choose these features?</li>
 </ul>
 
-<p>Next, we specify how we want this subset of features to be found. The default, <code class="highlighter-rouge">auto</code>, uses forward selection if we chose <code class="highlighter-rouge">n_features</code> &lt;= 6 and uses the features with highest weights otherwise. We can also directly choose <code class="highlighter-rouge">feature_select = "forward_selection"</code>, <code class="highlighter-rouge">feature_select = "highest_weights"</code> or <code class="highlighter-rouge">feature_select = "lasso_path"</code>. Again, check <code class="highlighter-rouge">?lime</code> for details.</p>
+<p>Next, we specify how we want this subset of features to be found. The default, <code class="language-plaintext highlighter-rouge">auto</code>, uses forward selection if we chose <code class="language-plaintext highlighter-rouge">n_features</code> &lt;= 6 and uses the features with highest weights otherwise. We can also directly choose <code class="language-plaintext highlighter-rouge">feature_select = "forward_selection"</code>, <code class="language-plaintext highlighter-rouge">feature_select = "highest_weights"</code> or <code class="language-plaintext highlighter-rouge">feature_select = "lasso_path"</code>. Again, check <code class="language-plaintext highlighter-rouge">?lime</code> for details.</p>
 
 <p>In our example dataset, we only have 7 features and I want to look at the top 5.</p>
 
-<p>I also want to have explanation for all three class labels in the response variable (low, medium and high happiness), so I am choosing <code class="highlighter-rouge">n_labels = 3</code>.</p>
+<p>I also want to have explanation for all three class labels in the response variable (low, medium and high happiness), so I am choosing <code class="language-plaintext highlighter-rouge">n_labels = 3</code>.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">explanation_cor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">explain</span><span class="p">(</span><span class="n">test_data_cor</span><span class="p">,</span><span class="w"> </span><span class="n">n_labels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">n_features</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">explanation_cor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">explain</span><span class="p">(</span><span class="n">test_data_cor</span><span class="p">,</span><span class="w"> </span><span class="n">n_labels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">n_features</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">)</span><span class="w">
 </span><span class="n">explanation_wrong</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">explain</span><span class="p">(</span><span class="n">test_data_wrong</span><span class="p">,</span><span class="w"> </span><span class="n">n_labels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">n_features</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<p>It will return a tidy tibble object that we can plot with <code class="highlighter-rouge">plot_features()</code>:</p>
+<p>It will return a tidy tibble object that we can plot with <code class="language-plaintext highlighter-rouge">plot_features()</code>:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot_features</span><span class="p">(</span><span class="n">explanation_cor</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot_features</span><span class="p">(</span><span class="n">explanation_cor</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="lime_files/figure-markdown_github/unnamed-chunk-12-1.png" alt="" /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">plot_features</span><span class="p">(</span><span class="n">explanation_wrong</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">plot_features</span><span class="p">(</span><span class="n">explanation_wrong</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="lime_files/figure-markdown_github/unnamed-chunk-13-1.png" alt="" /></p>
 
-<p>The information in the output tibble is described in the help function <code class="highlighter-rouge">?lime</code> and can be viewed with</p>
+<p>The information in the output tibble is described in the help function <code class="language-plaintext highlighter-rouge">?lime</code> and can be viewed with</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">tibble</span><span class="o">::</span><span class="n">glimpse</span><span class="p">(</span><span class="n">explanation_cor</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">tibble</span><span class="o">::</span><span class="n">glimpse</span><span class="p">(</span><span class="n">explanation_cor</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -414,15 +249,13 @@
 
 <p>From the explanation for the label “high” we can also see that this case has a family score bigger than 1.12, which is more representative of high happiness samples.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">pred</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pred</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">filter</span><span class="p">(</span><span class="n">sample_id</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="m">22</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##   sample_id        low   medium       high actual prediction correct
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##   sample_id        low   medium       high actual prediction correct
 ## 1        22 0.02906327 0.847562 0.07429938 medium     medium correct
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>The explanatory function named dystopia the most strongly supporting feature for this prediction. <a href="http://worldhappiness.report/faq/">Dystopia is an imaginary country that has the world’s least-happy people. The purpose in establishing Dystopia is to have a benchmark against which all countries can be favorably compared (no country performs more poorly than Dystopia) in terms of each of the six key variables […]</a></p>
 
@@ -430,25 +263,23 @@
 
 <p>When we look at where this case falls on the range of values for this feature, we can see that is indeed very close to the median of medium training cases and further away from the medians for high and low training cases. The other supportive features show us the same trend.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">train_data</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">train_data</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">gather</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">Economy..GDP.per.Capita.</span><span class="o">:</span><span class="n">Dystopia.Residual</span><span class="p">)</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">ggplot</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Happiness.Score.l</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">y</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">geom_boxplot</span><span class="p">(</span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.8</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"grey"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> 
     </span><span class="n">geom_point</span><span class="p">(</span><span class="n">data</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gather</span><span class="p">(</span><span class="n">test_data</span><span class="p">[</span><span class="m">22</span><span class="p">,</span><span class="w"> </span><span class="p">],</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">Economy..GDP.per.Capita.</span><span class="o">:</span><span class="n">Dystopia.Residual</span><span class="p">),</span><span class="w"> </span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"red"</span><span class="p">,</span><span class="w"> </span><span class="n">size</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">3</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
     </span><span class="n">facet_wrap</span><span class="p">(</span><span class="o">~</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">scales</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"free"</span><span class="p">,</span><span class="w"> </span><span class="n">ncol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="lime_files/figure-markdown_github/unnamed-chunk-16-1.png" alt="" /></p>
 
 <p>An overview over the top 5 explanatory features for case 22 is stored in:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">as.data.frame</span><span class="p">(</span><span class="n">explanation_cor</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">9</span><span class="p">])</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">as.data.frame</span><span class="p">(</span><span class="n">explanation_cor</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">9</span><span class="p">])</span><span class="w"> </span><span class="o">%&gt;%</span><span class="w">
   </span><span class="n">filter</span><span class="p">(</span><span class="n">case</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s2">"22"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##    case  label label_prob   model_r2 model_intercept
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##    case  label label_prob   model_r2 model_intercept
 ## 1    22 medium 0.84756196 0.05004205       0.5033729
 ## 2    22 medium 0.84756196 0.05004205       0.5033729
 ## 3    22 medium 0.84756196 0.05004205       0.5033729
@@ -496,8 +327,7 @@
 ## 13                          Generosity &lt;= 0.123528
 ## 14        2.025072 &lt; Dystopia.Residual &lt;= 2.320632
 ## 15       Trust..Government.Corruption. &lt;= 0.051198
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>In a similar way, we can explore why some predictions were wrong.</p>
 
@@ -507,11 +337,10 @@
 
 <hr />
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.3.3 (2017-03-06)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## R version 3.3.3 (2017-03-06)
 ## Platform: x86_64-apple-darwin13.4.0 (64-bit)
 ## Running under: macOS Sierra 10.12.3
 ## 
@@ -551,121 +380,28 @@
 ## [55] pbkrtest_0.4-7     yaml_2.1.14        colorspace_1.3-2  
 ## [58] rvest_0.3.2        knitr_1.15.1       haven_1.0.0       
 ## [61] quantreg_5.29
-</code></pre>
-</div>
-
-    </div>
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
+</code></pre></div></div>
 
 
-  
-     
-    	<li><a href="/categories.html#machine_learning-ref">
-    		machine_learning <span>14</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#machine_learning-ref">machine_learning <span>13</span></a></li>
-     
-    	<li><a href="/tags.html#ggplot2-ref">ggplot2 <span>32</span></a></li>
-     
-    	<li><a href="/tags.html#lime-ref">lime <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#neural_network-ref">neural_network <span>2</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev"><a href="/ggplot2/2017/04/16/hasen" title="Happy EasteR: Plotting hare populations in Germany">&laquo; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/machine_learning/2017/04/23/one_r" title="Does money buy happiness after all? Machine Learning with One Rule">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

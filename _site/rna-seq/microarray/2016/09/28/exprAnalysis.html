@@ -1,249 +1,96 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>exprAnalysis package</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>exprAnalysis package — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/rna-seq/microarray/2016/09/28/exprAnalysis">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>exprAnalysis package </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="exprAnalysis package" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>28 September 2016</span>
-    </div>
-    <div class="content">
-      <p>I created the R package <strong>exprAnalysis</strong> designed to streamline my RNA-seq data analysis pipeline. Below you find the vignette for installation and usage of the package.</p>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">September 28, 2016</span>
+  <h1 class="page__title">exprAnalysis package</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<p>I created the R package <strong>exprAnalysis</strong> designed to streamline my RNA-seq data analysis pipeline. Below you find the vignette for installation and usage of the package.</p>
 
 <hr />
 
@@ -280,11 +127,10 @@
 
 <h1 id="prepare-session">Prepare session</h1>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">exprAnalysis</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">exprAnalysis</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># update all packages
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># update all packages</span><span class="w">
 </span><span class="n">source.bioc</span><span class="o">=</span><span class="s2">"https://bioconductor.org/biocLite.R"</span><span class="w">
 </span><span class="n">source</span><span class="p">(</span><span class="n">source.bioc</span><span class="p">)</span><span class="w">
 </span><span class="n">biocLite</span><span class="p">(</span><span class="s2">"BiocUpgrade"</span><span class="p">)</span><span class="w">
@@ -292,14 +138,13 @@
 
 </span><span class="n">update.packages</span><span class="p">()</span><span class="w">
 
-</span><span class="c1"># make sure the workspace is in pristine condition
+</span><span class="c1"># make sure the workspace is in pristine condition</span><span class="w">
 </span><span class="n">rm</span><span class="p">(</span><span class="n">list</span><span class="o">=</span><span class="n">ls</span><span class="p">(</span><span class="n">all</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">))</span><span class="w">
 
 </span><span class="n">orig_par</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">par</span><span class="p">(</span><span class="n">no.readonly</span><span class="o">=</span><span class="nb">T</span><span class="p">)</span><span class="w">
 
 </span><span class="n">options</span><span class="p">(</span><span class="n">stringsAsFactors</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -309,50 +154,47 @@
 
 <p>Beware that the vignette is rather large and thus takes a minute to compile. You can also just use this page (it is identical to the vignette).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># install package from github
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># install package from github</span><span class="w">
 </span><span class="n">install.packages</span><span class="p">(</span><span class="s2">"devtools"</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">devtools</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># either the latest stable release that passed TRAVIS CI check
+</span><span class="c1"># either the latest stable release that passed TRAVIS CI check</span><span class="w">
 </span><span class="n">devtools</span><span class="o">::</span><span class="n">install_github</span><span class="p">(</span><span class="s2">"ShirinG/exprAnalysis"</span><span class="p">,</span><span class="w"> </span><span class="n">build_vignettes</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">ref</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"stable.version0.1.0"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># or the development version
+</span><span class="c1"># or the development version</span><span class="w">
 </span><span class="n">devtools</span><span class="o">::</span><span class="n">install_github</span><span class="p">(</span><span class="s2">"ShirinG/exprAnalysis"</span><span class="p">,</span><span class="w"> </span><span class="n">build_vignettes</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">ref</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"master"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>There might be problems with installation of some dependency packages (especially Bioconductor packages and WGCNA and its dependencies from CRAN). In order to install them manually:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">list.of.packages_bioconductor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"arrayQualityMetrics"</span><span class="p">,</span><span class="w"> </span><span class="s2">"beadarray"</span><span class="p">,</span><span class="w"> </span><span class="s2">"pcaGoPromoter"</span><span class="p">,</span><span class="w"> </span><span class="s2">"limma"</span><span class="p">,</span><span class="w"> </span><span class="s2">"pathview"</span><span class="p">,</span><span class="w"> </span><span class="s2">"sva"</span><span class="p">,</span><span class="w"> </span><span class="s2">"GO.db"</span><span class="p">,</span><span class="w"> </span><span class="s2">"impute"</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">list.of.packages_bioconductor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"arrayQualityMetrics"</span><span class="p">,</span><span class="w"> </span><span class="s2">"beadarray"</span><span class="p">,</span><span class="w"> </span><span class="s2">"pcaGoPromoter"</span><span class="p">,</span><span class="w"> </span><span class="s2">"limma"</span><span class="p">,</span><span class="w"> </span><span class="s2">"pathview"</span><span class="p">,</span><span class="w"> </span><span class="s2">"sva"</span><span class="p">,</span><span class="w"> </span><span class="s2">"GO.db"</span><span class="p">,</span><span class="w"> </span><span class="s2">"impute"</span><span class="p">)</span><span class="w">
 </span><span class="n">list.of.packages_cran</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"WGCNA"</span><span class="p">,</span><span class="w"> </span><span class="s2">"roxygen2"</span><span class="p">,</span><span class="w"> </span><span class="s2">"testthat"</span><span class="p">,</span><span class="w"> </span><span class="s2">"gplots"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">new.packages_bioconductor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">list.of.packages_bioconductor</span><span class="p">[</span><span class="o">!</span><span class="p">(</span><span class="n">list.of.packages_bioconductor</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="n">installed.packages</span><span class="p">()[,</span><span class="s2">"Package"</span><span class="p">])]</span><span class="w">
 </span><span class="n">new.packages_cran</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">list.of.packages_cran</span><span class="p">[</span><span class="o">!</span><span class="p">(</span><span class="n">list.of.packages_cran</span><span class="w"> </span><span class="o">%in%</span><span class="w"> </span><span class="n">installed.packages</span><span class="p">()[,</span><span class="s2">"Package"</span><span class="p">])]</span><span class="w">
 
-</span><span class="c1"># CRAN
+</span><span class="c1"># CRAN</span><span class="w">
 </span><span class="k">if</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">new.packages_cran</span><span class="p">)</span><span class="o">&gt;</span><span class="m">0</span><span class="p">)</span><span class="w"> </span><span class="n">install.packages</span><span class="p">(</span><span class="n">new.packages_cran</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Bioconductor
+</span><span class="c1"># Bioconductor</span><span class="w">
 </span><span class="k">if</span><span class="p">(</span><span class="nf">length</span><span class="p">(</span><span class="n">new.packages_bioconductor</span><span class="p">)</span><span class="o">&gt;</span><span class="m">0</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
   </span><span class="n">source</span><span class="p">(</span><span class="s2">"https://bioconductor.org/biocLite.R"</span><span class="p">)</span><span class="w">
   </span><span class="n">biocLite</span><span class="p">(</span><span class="n">new.packages_bioconductor</span><span class="p">)</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 <p>Load the library:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="s2">"exprAnalysis"</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="s2">"exprAnalysis"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># To view the vignette if you built it with the package:
-</span><span class="w">
+</span><span class="c1"># To view the vignette if you built it with the package:</span><span class="w">
+
 </span><span class="n">vignette</span><span class="p">(</span><span class="s2">"exprAnalysis"</span><span class="p">,</span><span class="w"> </span><span class="n">package</span><span class="o">=</span><span class="s2">"exprAnalysis"</span><span class="p">)</span><span class="w">
 </span><span class="n">vignette</span><span class="p">(</span><span class="s2">"CummeRbund"</span><span class="p">,</span><span class="w"> </span><span class="n">package</span><span class="o">=</span><span class="s2">"exprAnalysis"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">browseVignettes</span><span class="p">(</span><span class="s2">"exprAnalysis"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">enableWGCNAThreads</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -377,10 +219,9 @@
 
 <p>This package contains two example matrices of randomly generated expression data as raw read counts (called <strong>“countmatrix”</strong>) and as normalized read counts (called <strong>“expmatrix”</strong>).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">data</span><span class="p">(</span><span class="s2">"countmatrix"</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">data</span><span class="p">(</span><span class="s2">"countmatrix"</span><span class="p">)</span><span class="w">
 </span><span class="n">data</span><span class="p">(</span><span class="s2">"expmatrix"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -410,27 +251,26 @@
 
 <p><strong>read_bam_to_countmatrix()</strong> uses the packages Rsamtools, GenomicAlignments, GenomicFeatures, Biobase and SummarizedExperiment.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Locate alignment files
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Locate alignment files</span><span class="w">
 </span><span class="n">dir</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">getwd</span><span class="p">()</span><span class="w">
 </span><span class="n">filenames</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">fileslist</span><span class="p">[</span><span class="n">grep</span><span class="p">(</span><span class="s2">".*sorted.bam$"</span><span class="p">,</span><span class="w"> </span><span class="n">list.files</span><span class="p">(</span><span class="n">dir</span><span class="p">))]</span><span class="w">
 
-</span><span class="c1"># Create a sample table
-</span><span class="w">
+</span><span class="c1"># Create a sample table</span><span class="w">
+
 </span><span class="n">samplename</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">sub</span><span class="p">(</span><span class="s2">"_accepted_hits.sorted.bam"</span><span class="p">,</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">filenames</span><span class="p">)</span><span class="w">
 </span><span class="n">design</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Treatment"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Control"</span><span class="p">)</span><span class="w">
 </span><span class="n">sampleid</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">sub</span><span class="p">(</span><span class="s2">"Sample"</span><span class="p">,</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">samplename</span><span class="p">)</span><span class="w">
 
 </span><span class="n">sampleTable</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">samplename</span><span class="p">,</span><span class="w"> </span><span class="n">sampleid</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">sampleid</span><span class="p">,</span><span class="w"> </span><span class="n">filenames</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">filenames</span><span class="p">,</span><span class="w"> </span><span class="n">colData</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">design</span><span class="p">,</span><span class="w"> </span><span class="n">stringsAsFactors</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">F</span><span class="p">)</span><span class="w">
 
-</span><span class="c1">#         sampleid                         filenames    colData
-#Sample1         1  Sample1_accepted_hits.sorted.bam  Treatment
-#Sample2         2  Sample2_accepted_hits.sorted.bam    Control
-</span><span class="w">
+</span><span class="c1">#         sampleid                         filenames    colData</span><span class="w">
+</span><span class="c1">#Sample1         1  Sample1_accepted_hits.sorted.bam  Treatment</span><span class="w">
+</span><span class="c1">#Sample2         2  Sample2_accepted_hits.sorted.bam    Control</span><span class="w">
+
 </span><span class="n">data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read_bam_to_countmatrix</span><span class="p">(</span><span class="n">sampleTable</span><span class="p">,</span><span class="w"> </span><span class="n">gtffile</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Homo_sapiens.GRCh38.83.gtf"</span><span class="p">,</span><span class="w"> </span><span class="n">projectfolder</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">getwd</span><span class="p">(),</span><span class="w"> </span><span class="n">outPrefix</span><span class="o">=</span><span class="s2">"Test"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">countmatrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">SummarizedExperiment</span><span class="o">::</span><span class="n">assay</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -446,16 +286,14 @@
   <li>convert to DESeq data set</li>
 </ul>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">countmatrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w">   </span><span class="n">read.table</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">projectfolder</span><span class="p">,</span><span class="w"> </span><span class="s2">"Countdata"</span><span class="p">,</span><span class="w"> </span><span class="n">outPrefix</span><span class="p">,</span><span class="w"> </span><span class="n">paste0</span><span class="p">(</span><span class="n">outPrefix</span><span class="p">,</span><span class="w"> </span><span class="s2">"_Summarize_overlaps_count_matrix.txt"</span><span class="p">)),</span><span class="w"> </span><span class="n">header</span><span class="o">=</span><span class="nb">T</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"\t"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">countmatrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w">   </span><span class="n">read.table</span><span class="p">(</span><span class="n">file.path</span><span class="p">(</span><span class="n">projectfolder</span><span class="p">,</span><span class="w"> </span><span class="s2">"Countdata"</span><span class="p">,</span><span class="w"> </span><span class="n">outPrefix</span><span class="p">,</span><span class="w"> </span><span class="n">paste0</span><span class="p">(</span><span class="n">outPrefix</span><span class="p">,</span><span class="w"> </span><span class="s2">"_Summarize_overlaps_count_matrix.txt"</span><span class="p">)),</span><span class="w"> </span><span class="n">header</span><span class="o">=</span><span class="nb">T</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"\t"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">design</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"(.*)(_[0-9])"</span><span class="p">,</span><span class="w"> </span><span class="s2">"\\1"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">countmatrix</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">design</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"(.*)(_[0-9])"</span><span class="p">,</span><span class="w"> </span><span class="s2">"\\1"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">countmatrix</span><span class="p">))</span><span class="w">
 </span><span class="n">ExpDesign</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">row.names</span><span class="o">=</span><span class="n">colnames</span><span class="p">(</span><span class="n">countmatrix</span><span class="p">),</span><span class="w"> </span><span class="n">treatment</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">design</span><span class="p">)</span><span class="w">
 
 </span><span class="n">data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">DESeq2</span><span class="o">::</span><span class="n">DESeqDataSetFromMatrix</span><span class="p">(</span><span class="n">countData</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">countmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">colData</span><span class="o">=</span><span class="n">ExpDesign</span><span class="p">,</span><span class="w"> </span><span class="n">design</span><span class="o">=~</span><span class="n">treatment</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -469,22 +307,20 @@
 
 <p>Note: the rlog transformation is provided for applications other than differential testing. For differential testing we recommend the DESeq function applied to raw counts, as described later in this workflow, which also takes into account the dependence of the variance of counts on the mean value during the dispersion estimation step.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data</span><span class="p">[</span><span class="n">rowSums</span><span class="p">(</span><span class="n">DESeq2</span><span class="o">::</span><span class="n">counts</span><span class="p">(</span><span class="n">data</span><span class="p">))</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">data</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data</span><span class="p">[</span><span class="n">rowSums</span><span class="p">(</span><span class="n">DESeq2</span><span class="o">::</span><span class="n">counts</span><span class="p">(</span><span class="n">data</span><span class="p">))</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="p">]</span><span class="w">
 
 </span><span class="n">data_DESeq</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">DESeq2</span><span class="o">::</span><span class="n">DESeq</span><span class="p">(</span><span class="n">data</span><span class="p">)</span><span class="w">
 
 </span><span class="n">expmatrix_DESeq</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">DESeq2</span><span class="o">::</span><span class="n">rlog</span><span class="p">(</span><span class="n">data_DESeq</span><span class="p">,</span><span class="w"> </span><span class="n">fitType</span><span class="o">=</span><span class="s2">"local"</span><span class="p">)</span><span class="w">
 </span><span class="n">expmatrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">SummarizedExperiment</span><span class="o">::</span><span class="n">assay</span><span class="p">(</span><span class="n">expmatrix_DESeq</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <h4 id="dispersion-plot">Dispersion plot</h4>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">DESeq2</span><span class="o">::</span><span class="n">plotDispEsts</span><span class="p">(</span><span class="n">data_DESeq</span><span class="p">,</span><span class="w"> </span><span class="n">main</span><span class="o">=</span><span class="s2">"Dispersion Estimates"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">DESeq2</span><span class="o">::</span><span class="n">plotDispEsts</span><span class="p">(</span><span class="n">data_DESeq</span><span class="p">,</span><span class="w"> </span><span class="n">main</span><span class="o">=</span><span class="s2">"Dispersion Estimates"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <hr />
 
@@ -500,19 +336,19 @@
 
 <p>Currently the rma function implements RMA in the following manner 1. Probe specific correction of the PM probes using a model based on observed intensity being the sum of signal and noise 2. Normalization of corrected PM probes using quantile normalization (Bolstad et al., 2003) 3. Calculation of Expression measure using median polish.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">affy</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">affy</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Choose directory containing CEL files
+</span><span class="c1"># Choose directory containing CEL files</span><span class="w">
 </span><span class="n">dir</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">getwd</span><span class="p">()</span><span class="w">
 
-</span><span class="c1"># check, that you have the correct directory
+</span><span class="c1"># check, that you have the correct directory</span><span class="w">
 </span><span class="n">celfiles</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">file.path</span><span class="p">(</span><span class="n">dir</span><span class="p">,</span><span class="w"> </span><span class="n">list.files</span><span class="p">(</span><span class="n">dir</span><span class="p">,</span><span class="w"> </span><span class="n">recursive</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)[</span><span class="n">grep</span><span class="p">(</span><span class="s2">".*CEL$"</span><span class="p">,</span><span class="w"> </span><span class="n">list.files</span><span class="p">(</span><span class="n">dir</span><span class="p">,</span><span class="w"> </span><span class="n">recursive</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">),</span><span class="w"> </span><span class="n">ignore.case</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)])</span><span class="w">
 
 </span><span class="n">affydata</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">ReadAffy</span><span class="p">(</span><span class="n">filenames</span><span class="o">=</span><span class="n">celfiles</span><span class="p">)</span><span class="w">
 </span><span class="n">affy</span><span class="o">::</span><span class="n">MAplot</span><span class="p">(</span><span class="n">affydata</span><span class="p">,</span><span class="n">plot.method</span><span class="o">=</span><span class="s2">"smoothScatter"</span><span class="p">)</span><span class="w">
 </span><span class="n">eset</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">affy</span><span class="o">::</span><span class="n">rma</span><span class="p">(</span><span class="n">affydata</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># If affy doesn' recognize the chip type, try the oligo package:
+</span><span class="c1"># If affy doesn' recognize the chip type, try the oligo package:</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">oligo</span><span class="p">)</span><span class="w">
 </span><span class="n">rawData</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read.celfiles</span><span class="p">(</span><span class="n">celfiles</span><span class="p">)</span><span class="w">
 </span><span class="n">oligo</span><span class="o">::</span><span class="n">MAplot</span><span class="p">(</span><span class="n">rawData</span><span class="p">,</span><span class="w"> </span><span class="n">plotFun</span><span class="o">=</span><span class="n">smoothScatter</span><span class="p">)</span><span class="w">
@@ -520,21 +356,20 @@
 
 </span><span class="n">quality_control_plots</span><span class="p">(</span><span class="n">eset</span><span class="p">,</span><span class="w"> </span><span class="n">groupColumn</span><span class="o">=</span><span class="nf">c</span><span class="p">())</span><span class="w">
 
-</span><span class="c1"># Optional: Remove bad quality probes/ genes and/ or samples
-</span><span class="w">
+</span><span class="c1"># Optional: Remove bad quality probes/ genes and/ or samples</span><span class="w">
+
 </span><span class="n">write.exprs</span><span class="p">(</span><span class="n">eset</span><span class="p">,</span><span class="w"> </span><span class="n">file</span><span class="o">=</span><span class="s2">"eset.txt"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">library</span><span class="p">(</span><span class="n">made4</span><span class="p">)</span><span class="w">
 </span><span class="n">overview</span><span class="p">(</span><span class="n">eset</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># RNA degradation plots
+</span><span class="c1"># RNA degradation plots</span><span class="w">
 </span><span class="n">deg</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">AffyRNAdeg</span><span class="p">(</span><span class="n">affydata</span><span class="p">)</span><span class="w">
 </span><span class="n">plotAffyRNAdeg</span><span class="p">(</span><span class="n">deg</span><span class="p">)</span><span class="w">
 
 
 </span><span class="n">expmatrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">exprs</span><span class="p">(</span><span class="n">eset</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -559,24 +394,23 @@
 
 <p><strong>read_Illumina()</strong> and <strong>normalise_eset()</strong> uses the R package beadarray.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">dataFile</span><span class="w">      </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">file.path</span><span class="p">(</span><span class="s2">"SampleProbeProfile.txt"</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">dataFile</span><span class="w">      </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">file.path</span><span class="p">(</span><span class="s2">"SampleProbeProfile.txt"</span><span class="p">)</span><span class="w">
 </span><span class="n">qcFile</span><span class="w">        </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">file.path</span><span class="p">(</span><span class="s2">"ControlProbeProfile.txt"</span><span class="p">)</span><span class="w">
 </span><span class="n">sampleSheet</span><span class="w">   </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">file.path</span><span class="p">(</span><span class="s2">"samplesheet.csv"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># define Illumina Expression Array: "HumanHT-12 v?", "MouseWG-6 v?", "MouseRef-8 v?"
+</span><span class="c1"># define Illumina Expression Array: "HumanHT-12 v?", "MouseWG-6 v?", "MouseRef-8 v?"</span><span class="w">
 </span><span class="n">expressionchipType</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="s2">"HumanHT-12 v4"</span><span class="w">
 
 </span><span class="n">eset</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read_Illumina</span><span class="p">(</span><span class="n">dataFile</span><span class="p">,</span><span class="w"> </span><span class="n">qcFile</span><span class="p">,</span><span class="w"> </span><span class="n">sampleSheet</span><span class="p">,</span><span class="w"> </span><span class="n">expressionchipType</span><span class="p">,</span><span class="w"> </span><span class="n">ProbeID</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"PROBE_ID"</span><span class="p">,</span><span class="w"> </span><span class="n">skip</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">controlID</span><span class="o">=</span><span class="s2">"ProbeID"</span><span class="p">,</span><span class="w"> </span><span class="n">qc.skip</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">method_norm</span><span class="w"> </span><span class="o">=</span><span class="s2">"none"</span><span class="p">,</span><span class="w"> </span><span class="n">transform</span><span class="o">=</span><span class="s2">"log2"</span><span class="p">)</span><span class="w">
 
 </span><span class="n">quality_control_plots</span><span class="p">(</span><span class="n">eset</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Optional: Remove bad quality probes/ genes and/ or samples
-</span><span class="w">
+</span><span class="c1"># Optional: Remove bad quality probes/ genes and/ or samples</span><span class="w">
+
 </span><span class="n">eset</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">normalise_eset</span><span class="p">(</span><span class="n">eset</span><span class="p">)</span><span class="w">
 
 </span><span class="n">expmatrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">exprs</span><span class="p">(</span><span class="n">eset</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -586,11 +420,10 @@
 
 <p><strong>batch_removal()</strong> uses the R package sva.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">pheno</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">sample</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">16</span><span class="p">),</span><span class="w"> </span><span class="n">treatment</span><span class="o">=</span><span class="n">sub</span><span class="p">(</span><span class="s2">"(.*)(_[0-9])"</span><span class="p">,</span><span class="w"> </span><span class="s2">"\\1"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">)),</span><span class="w"> </span><span class="n">batch</span><span class="o">=</span><span class="n">ifelse</span><span class="p">(</span><span class="n">grepl</span><span class="p">(</span><span class="s2">"Ctrl"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="s2">"1"</span><span class="p">,</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">grepl</span><span class="p">(</span><span class="s2">"ActLPS"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="s2">"1"</span><span class="p">,</span><span class="w"> </span><span class="s2">"2"</span><span class="p">)),</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pheno</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">sample</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">16</span><span class="p">),</span><span class="w"> </span><span class="n">treatment</span><span class="o">=</span><span class="n">sub</span><span class="p">(</span><span class="s2">"(.*)(_[0-9])"</span><span class="p">,</span><span class="w"> </span><span class="s2">"\\1"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">)),</span><span class="w"> </span><span class="n">batch</span><span class="o">=</span><span class="n">ifelse</span><span class="p">(</span><span class="n">grepl</span><span class="p">(</span><span class="s2">"Ctrl"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="s2">"1"</span><span class="p">,</span><span class="w"> </span><span class="n">ifelse</span><span class="p">(</span><span class="n">grepl</span><span class="p">(</span><span class="s2">"ActLPS"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="s2">"1"</span><span class="p">,</span><span class="w"> </span><span class="s2">"2"</span><span class="p">)),</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w">
 
 </span><span class="n">expmatrix</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">batch_removal</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">pheno</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -604,13 +437,12 @@
 
 <p><strong>var_vs_mean()</strong> uses the R package matrixStats.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">var_vs_mean</span><span class="p">(</span><span class="n">countmatrix</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">var_vs_mean</span><span class="p">(</span><span class="n">countmatrix</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="exprAnalysis_files/figure-markdown_github/var_vs_mean-1.png" alt="" /></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## 
 ##  Pearson's product-moment correlation
 ## 
 ## data:  log2(dispersion[, 1] + 1) and log2(dispersion[, 2] + 1)
@@ -621,12 +453,10 @@
 ## sample estimates:
 ##       cor 
 ## 0.9422083
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># var_vs_mean(expmatrix)
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># var_vs_mean(expmatrix)</span><span class="w">
+</span></code></pre></div></div>
 
 <hr />
 
@@ -634,15 +464,14 @@
 
 <h2 id="intersample-variances">Intersample variances</h2>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">corrgram</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">corrgram</span><span class="p">)</span><span class="w">
 
 </span><span class="n">Ctrl_cor</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">expmatrix</span><span class="p">[,</span><span class="n">grep</span><span class="p">(</span><span class="s2">"Ctrl"</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))]</span><span class="w">
 
 </span><span class="n">corrgram</span><span class="o">::</span><span class="n">corrgram</span><span class="p">(</span><span class="n">Ctrl_cor</span><span class="p">,</span><span class="w"> </span><span class="n">order</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">lower.panel</span><span class="o">=</span><span class="n">corrgram</span><span class="o">::</span><span class="n">panel.pie</span><span class="p">,</span><span class="w">
          </span><span class="n">upper.panel</span><span class="o">=</span><span class="n">corrgram</span><span class="o">::</span><span class="n">panel.pts</span><span class="p">,</span><span class="w"> </span><span class="n">text.panel</span><span class="o">=</span><span class="n">corrgram</span><span class="o">::</span><span class="n">panel.txt</span><span class="p">,</span><span class="w">
          </span><span class="n">main</span><span class="o">=</span><span class="s2">"Correlogram of controls"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -654,11 +483,10 @@
 
 <p>You can only plot the principle components using:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">groups</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.factor</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="s2">"Ctrl"</span><span class="p">,</span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"TolLPS"</span><span class="p">,</span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"TolS100A8"</span><span class="p">,</span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"ActLPS"</span><span class="p">,</span><span class="m">4</span><span class="p">)))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">groups</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.factor</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="s2">"Ctrl"</span><span class="p">,</span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"TolLPS"</span><span class="p">,</span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"TolS100A8"</span><span class="p">,</span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="s2">"ActLPS"</span><span class="p">,</span><span class="m">4</span><span class="p">)))</span><span class="w">
 
 </span><span class="n">pca_plot</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">groups</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="exprAnalysis_files/figure-markdown_github/pca_plot-1.png" alt="" /></p>
 
@@ -666,9 +494,8 @@
 
 <p>Or you can plot the principle components and calculate TF and GO term enrichments of genes (defaults to top 2.5%) with highest and lowest loadings. With this function, the ouput files are directly saved to .pdf and .txt (by default to working directory).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">pca_plot_enrich</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">groups</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pca_plot_enrich</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">groups</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <hr />
 
@@ -680,16 +507,15 @@
 
 <p>Here, of the 30 most highly expressed genes.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">select</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">order</span><span class="p">(</span><span class="n">rowMeans</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">),</span><span class="n">decreasing</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">)[</span><span class="m">1</span><span class="o">:</span><span class="m">30</span><span class="p">]</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">select</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">order</span><span class="p">(</span><span class="n">rowMeans</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">),</span><span class="n">decreasing</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">)[</span><span class="m">1</span><span class="o">:</span><span class="m">30</span><span class="p">]</span><span class="w">
 
 </span><span class="n">heatmaps</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">[</span><span class="n">select</span><span class="p">,],</span><span class="w"> </span><span class="n">samplecols</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="s2">"#E41A1C"</span><span class="p">,</span><span class="w"> </span><span class="s2">"#377EB8"</span><span class="p">,</span><span class="w"> </span><span class="s2">"#4DAF4A"</span><span class="p">,</span><span class="w"> </span><span class="s2">"#984EA3"</span><span class="p">),</span><span class="w"> </span><span class="n">each</span><span class="o">=</span><span class="m">4</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="exprAnalysis_files/figure-markdown_github/heatmaps-1.png" alt="" /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Heatmap function from DESeq2, using pheatmap:
-</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Heatmap function from DESeq2, using pheatmap:</span><span class="w">
+
 </span><span class="n">library</span><span class="p">(</span><span class="n">pheatmap</span><span class="p">)</span><span class="w">
 
 </span><span class="n">sampleDists</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">dist</span><span class="p">(</span><span class="n">t</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w">
@@ -704,25 +530,23 @@
 
 </span><span class="n">df</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">treatment</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">SummarizedExperiment</span><span class="o">::</span><span class="n">colData</span><span class="p">(</span><span class="n">data_DESeq</span><span class="p">)[,</span><span class="nf">c</span><span class="p">(</span><span class="s2">"treatment"</span><span class="p">)],</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rownames</span><span class="p">(</span><span class="n">SummarizedExperiment</span><span class="o">::</span><span class="n">colData</span><span class="p">(</span><span class="n">data_DESeq</span><span class="p">)))</span><span class="w">
 </span><span class="n">pheatmap</span><span class="o">::</span><span class="n">pheatmap</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">[</span><span class="n">select</span><span class="p">,],</span><span class="w"> </span><span class="n">cluster_rows</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">show_rownames</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">cluster_cols</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">annotation_col</span><span class="o">=</span><span class="n">df</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Interactive heatmap
-</span><span class="w">
-</span><span class="c1">#devtools::install_github('talgalili/heatmaply')
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Interactive heatmap</span><span class="w">
+
+</span><span class="c1">#devtools::install_github('talgalili/heatmaply')</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">heatmaply</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># sample correlation
+</span><span class="c1"># sample correlation</span><span class="w">
 </span><span class="n">hm</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">heatmapr</span><span class="p">(</span><span class="n">cor</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">[</span><span class="n">select</span><span class="p">,]),</span><span class="w"> </span><span class="n">k_row</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="n">k_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># gene correlation
+</span><span class="c1"># gene correlation</span><span class="w">
 </span><span class="n">hm</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">heatmapr</span><span class="p">(</span><span class="n">cor</span><span class="p">(</span><span class="n">t</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">[</span><span class="n">select</span><span class="p">,])),</span><span class="w"> </span><span class="n">k_row</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NULL</span><span class="p">,</span><span class="w"> </span><span class="n">k_col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">NULL</span><span class="p">)</span><span class="w">
 
 </span><span class="n">heatmaply</span><span class="p">(</span><span class="n">hm</span><span class="p">)</span><span class="w">
 
-</span><span class="c1">#Hover over heatmap to see individual values and sample/ gene IDs
-</span></code></pre>
-</div>
+</span><span class="c1">#Hover over heatmap to see individual values and sample/ gene IDs</span><span class="w">
+</span></code></pre></div></div>
 
 <hr />
 
@@ -736,29 +560,25 @@
 
 <p>Uses adjacency matrix function from the R package WGCNA and hierarchical clustering from the R package flashClust.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">datTraits</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">Ctrl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">12</span><span class="p">)),</span><span class="w"> </span><span class="n">TolPS</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">)),</span><span class="w"> </span><span class="n">TolS100A8</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">)),</span><span class="w"> </span><span class="n">ActLPS</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">12</span><span class="p">),</span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">)),</span><span class="w"> </span><span class="n">Tol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">)),</span><span class="w"> </span><span class="n">ExPhenotype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">stats</span><span class="o">::</span><span class="n">rnorm</span><span class="p">(</span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">),</span><span class="n">stats</span><span class="o">::</span><span class="n">rnorm</span><span class="p">(</span><span class="m">8</span><span class="p">,</span><span class="w"> </span><span class="m">25</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">),</span><span class="n">stats</span><span class="o">::</span><span class="n">rnorm</span><span class="p">(</span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="m">50</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">)),</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">datTraits</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">data.frame</span><span class="p">(</span><span class="n">Ctrl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">12</span><span class="p">)),</span><span class="w"> </span><span class="n">TolPS</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">)),</span><span class="w"> </span><span class="n">TolS100A8</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">)),</span><span class="w"> </span><span class="n">ActLPS</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">12</span><span class="p">),</span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">)),</span><span class="w"> </span><span class="n">Tol</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">)),</span><span class="w"> </span><span class="n">ExPhenotype</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="n">stats</span><span class="o">::</span><span class="n">rnorm</span><span class="p">(</span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">),</span><span class="n">stats</span><span class="o">::</span><span class="n">rnorm</span><span class="p">(</span><span class="m">8</span><span class="p">,</span><span class="w"> </span><span class="m">25</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">),</span><span class="n">stats</span><span class="o">::</span><span class="n">rnorm</span><span class="p">(</span><span class="m">4</span><span class="p">,</span><span class="w"> </span><span class="m">50</span><span class="p">,</span><span class="w"> </span><span class="m">1</span><span class="p">)),</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">))</span><span class="w">
 
 </span><span class="n">datExpr</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">wgcna_sample_dendrogram</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">datTraits</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## 
-</code></pre>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## 
+</code></pre></div></div>
 
 <p><img src="exprAnalysis_files/figure-markdown_github/wgcna_sample_dendrogram-1.png" alt="" /></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>##  Flagging genes and samples with too many missing values...
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>##  Flagging genes and samples with too many missing values...
 ##   ..step 1
 ## All genes are okay!
 ## All samples are okay!
-</code></pre>
-</div>
+</code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Optional: Remove outlier samples and repeats: All genes flagged for removal are saved to the object "remove_genes"
-#head(remove_genes)
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Optional: Remove outlier samples and repeats: All genes flagged for removal are saved to the object "remove_genes"</span><span class="w">
+</span><span class="c1">#head(remove_genes)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
@@ -766,67 +586,63 @@
 
 <p>Ideally, pick a SFT with R^2 &gt; 0.9. In this example, this threshold was not reached, so I pick the highest SFT: 30.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Choose a set of soft thresholding powers
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Choose a set of soft thresholding powers</span><span class="w">
 </span><span class="n">powers</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="m">30</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># choose power based on SFT criterion
+</span><span class="c1"># choose power based on SFT criterion</span><span class="w">
 </span><span class="n">sft</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">pickSoftThreshold</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">powerVector</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">powers</span><span class="p">,</span><span class="w"> </span><span class="n">verbose</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">5</span><span class="p">,</span><span class="w"> </span><span class="n">networkType</span><span class="w"> </span><span class="o">=</span><span class="s2">"signed"</span><span class="p">,</span><span class="w"> </span><span class="n">corFnc</span><span class="o">=</span><span class="w"> </span><span class="s2">"bicor"</span><span class="p">,</span><span class="w"> </span><span class="n">corOptions</span><span class="o">=</span><span class="nf">list</span><span class="p">(</span><span class="n">maxPOutliers</span><span class="o">=</span><span class="m">0.1</span><span class="p">))</span><span class="w">
 
-</span><span class="c1"># Plot the results:
+</span><span class="c1"># Plot the results:</span><span class="w">
 </span><span class="n">tiff</span><span class="p">(</span><span class="n">filename</span><span class="o">=</span><span class="w"> </span><span class="s2">"SFT.tiff"</span><span class="p">,</span><span class="w"> </span><span class="n">width</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">8000</span><span class="w"> </span><span class="p">,</span><span class="w"> </span><span class="n">height</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">4000</span><span class="p">,</span><span class="w"> </span><span class="n">res</span><span class="o">=</span><span class="m">600</span><span class="p">,</span><span class="w"> </span><span class="n">compression</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"lzw"</span><span class="p">)</span><span class="w">
 </span><span class="n">par</span><span class="p">(</span><span class="n">mfrow</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="m">2</span><span class="p">))</span><span class="w">
-</span><span class="c1"># SFT index as a function of different powers
+</span><span class="c1"># SFT index as a function of different powers</span><span class="w">
 </span><span class="n">plot</span><span class="p">(</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">1</span><span class="p">],</span><span class="o">-</span><span class="nf">sign</span><span class="p">(</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">3</span><span class="p">])</span><span class="o">*</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">2</span><span class="p">],</span><span class="w">
      </span><span class="n">xlab</span><span class="o">=</span><span class="s2">"Soft Threshold (power)"</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s2">"SFT, signed R^2"</span><span class="p">,</span><span class="n">type</span><span class="o">=</span><span class="s2">"n"</span><span class="p">,</span><span class="n">main</span><span class="o">=</span><span class="n">paste</span><span class="p">(</span><span class="s2">"Scale independence"</span><span class="p">))</span><span class="w">
 </span><span class="n">text</span><span class="p">(</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">1</span><span class="p">],</span><span class="o">-</span><span class="nf">sign</span><span class="p">(</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">3</span><span class="p">])</span><span class="o">*</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">2</span><span class="p">],</span><span class="w">
      </span><span class="n">labels</span><span class="o">=</span><span class="n">powers</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s2">"red"</span><span class="p">)</span><span class="w">
-</span><span class="c1"># this line corresponds to using an R^2 cut-off of h
+</span><span class="c1"># this line corresponds to using an R^2 cut-off of h</span><span class="w">
 </span><span class="n">abline</span><span class="p">(</span><span class="n">h</span><span class="o">=</span><span class="m">0.90</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s2">"red"</span><span class="p">)</span><span class="w">
-</span><span class="c1"># Mean connectivity as a function of different powers
+</span><span class="c1"># Mean connectivity as a function of different powers</span><span class="w">
 </span><span class="n">plot</span><span class="p">(</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">1</span><span class="p">],</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">5</span><span class="p">],</span><span class="n">type</span><span class="o">=</span><span class="s2">"n"</span><span class="p">,</span><span class="w">
      </span><span class="n">xlab</span><span class="o">=</span><span class="s2">"Soft Threshold (power)"</span><span class="p">,</span><span class="n">ylab</span><span class="o">=</span><span class="s2">"Mean Connectivity"</span><span class="p">,</span><span class="n">main</span><span class="o">=</span><span class="n">paste</span><span class="p">(</span><span class="s2">"Mean connectivity"</span><span class="p">))</span><span class="w">
 </span><span class="n">text</span><span class="p">(</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">1</span><span class="p">],</span><span class="n">sft</span><span class="o">$</span><span class="n">fitIndices</span><span class="p">[,</span><span class="m">5</span><span class="p">],</span><span class="n">labels</span><span class="o">=</span><span class="n">powers</span><span class="p">,</span><span class="n">col</span><span class="o">=</span><span class="s2">"red"</span><span class="p">)</span><span class="w">
 </span><span class="n">dev.off</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <h3 id="automatic-module-detection-via-dynamic-tree-cutting">Automatic module detection via dynamic tree cutting</h3>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">softpower</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">30</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">softpower</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">30</span><span class="w">
 </span><span class="n">mergingThresh</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.25</span><span class="w">
-</span><span class="n">net</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">blockwiseModules</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">checkMissingData</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">corType</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"bicor"</span><span class="p">,</span><span class="w"> </span><span class="c1"># or pearson
-</span><span class="w">                       </span><span class="n">maxBlockSize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10000</span><span class="p">,</span><span class="w"> </span><span class="n">networkType</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"signed"</span><span class="p">,</span><span class="w"> </span><span class="n">power</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">softpower</span><span class="p">,</span><span class="w">
+</span><span class="n">net</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">blockwiseModules</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">checkMissingData</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">corType</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"bicor"</span><span class="p">,</span><span class="w"> </span><span class="c1"># or pearson</span><span class="w">
+                       </span><span class="n">maxBlockSize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10000</span><span class="p">,</span><span class="w"> </span><span class="n">networkType</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"signed"</span><span class="p">,</span><span class="w"> </span><span class="n">power</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">softpower</span><span class="p">,</span><span class="w">
                        </span><span class="n">minModuleSize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">30</span><span class="p">,</span><span class="w"> </span><span class="n">maxPOutliers</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.1</span><span class="p">,</span><span class="w"> </span><span class="n">mergeCutHeight</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">mergingThresh</span><span class="p">,</span><span class="w">
                        </span><span class="n">numericLabels</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">saveTOMs</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">randomSeed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">12345</span><span class="p">,</span><span class="w">
                        </span><span class="n">pamRespectsDendro</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">saveTOMFileBase</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"TESTexprsTOM"</span><span class="p">)</span><span class="w">
 </span><span class="n">str</span><span class="p">(</span><span class="n">net</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">moduleColors</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">wgcna_plotDendroAndColors</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">datTraits</span><span class="p">,</span><span class="w"> </span><span class="n">net</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">moduleColors</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">wgcna_plotDendroAndColors</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">datTraits</span><span class="p">,</span><span class="w"> </span><span class="n">net</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Recalculate MEs with color labels
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Recalculate MEs with color labels</span><span class="w">
 </span><span class="n">MEs0</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">moduleEigengenes</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">moduleColors</span><span class="p">,</span><span class="w"> </span><span class="n">softPower</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">softpower</span><span class="p">)</span><span class="o">$</span><span class="n">eigengenes</span><span class="w">
-</span><span class="c1"># Reorder given (eigen-)vectors such that similar ones (as measured by correlation) are next to each other:
+</span><span class="c1"># Reorder given (eigen-)vectors such that similar ones (as measured by correlation) are next to each other:</span><span class="w">
 </span><span class="n">MEs</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">orderMEs</span><span class="p">(</span><span class="n">MEs0</span><span class="p">)</span><span class="w">
 </span><span class="n">rownames</span><span class="p">(</span><span class="n">MEs</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rownames</span><span class="p">(</span><span class="n">datExpr</span><span class="p">)</span><span class="w">
 </span><span class="n">write.table</span><span class="p">(</span><span class="n">MEs</span><span class="p">,</span><span class="w"> </span><span class="s2">"Automatic_ModuleEigengenes_numberLabel.txt"</span><span class="p">,</span><span class="w"> </span><span class="n">row.names</span><span class="o">=</span><span class="nb">T</span><span class="p">,</span><span class="w"> </span><span class="n">quote</span><span class="o">=</span><span class="nb">F</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="o">=</span><span class="s2">"\t"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># calculate the module membership values (aka. module eigengene based connectivity kME):
-</span><span class="w">  </span><span class="n">datKME</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">WGCNA</span><span class="o">::</span><span class="n">signedKME</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">MEs</span><span class="p">)</span><span class="w">  </span><span class="c1"># equals geneModuleMembership
-</span><span class="w">  </span><span class="n">colnames</span><span class="p">(</span><span class="n">datKME</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">sub</span><span class="p">(</span><span class="s2">"kME"</span><span class="p">,</span><span class="w"> </span><span class="s2">"MM."</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">datKME</span><span class="p">))</span><span class="w">
+</span><span class="c1"># calculate the module membership values (aka. module eigengene based connectivity kME):</span><span class="w">
+  </span><span class="n">datKME</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">WGCNA</span><span class="o">::</span><span class="n">signedKME</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">MEs</span><span class="p">)</span><span class="w">  </span><span class="c1"># equals geneModuleMembership</span><span class="w">
+  </span><span class="n">colnames</span><span class="p">(</span><span class="n">datKME</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">sub</span><span class="p">(</span><span class="s2">"kME"</span><span class="p">,</span><span class="w"> </span><span class="s2">"MM."</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">datKME</span><span class="p">))</span><span class="w">
 
 </span><span class="n">wgcna_modulememberships</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">MEs</span><span class="p">,</span><span class="w"> </span><span class="n">datKME</span><span class="p">,</span><span class="w"> </span><span class="n">moduleColors</span><span class="p">)</span><span class="w">
 
 </span><span class="n">wgcna_heatmaps</span><span class="p">(</span><span class="n">MEs</span><span class="p">,</span><span class="w"> </span><span class="n">datExpr</span><span class="p">,</span><span class="w"> </span><span class="n">datTraits</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="wgcnaHeatmap.png" alt="Module trait correlation heatmap" /></p>
 
@@ -836,29 +652,27 @@
 
 <p><strong>geneAnnotations()</strong> uses the R package AnnotationDbi.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Annotate
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Annotate</span><span class="w">
 </span><span class="n">genes</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">datExpr</span><span class="p">)</span><span class="w">
 </span><span class="n">datExpr_anno</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">geneAnnotations</span><span class="p">(</span><span class="n">input</span><span class="o">=</span><span class="n">genes</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="o">=</span><span class="n">genes</span><span class="p">,</span><span class="w"> </span><span class="n">column</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"ENTREZID"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ENSEMBL"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="o">=</span><span class="s2">"SYMBOL"</span><span class="p">,</span><span class="w"> </span><span class="n">organism</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"human"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># Correlations of genes and traits
+</span><span class="c1"># Correlations of genes and traits</span><span class="w">
 </span><span class="n">traitsCor</span><span class="o">=</span><span class="n">cor</span><span class="p">(</span><span class="n">datExpr</span><span class="p">,</span><span class="n">datTraits</span><span class="p">,</span><span class="n">use</span><span class="o">=</span><span class="s2">"p"</span><span class="p">)</span><span class="w">
 </span><span class="n">colnames</span><span class="p">(</span><span class="n">traitsCor</span><span class="p">)</span><span class="o">=</span><span class="n">paste</span><span class="p">(</span><span class="s2">"cor"</span><span class="p">,</span><span class="n">colnames</span><span class="p">(</span><span class="n">traitsCor</span><span class="p">),</span><span class="n">sep</span><span class="o">=</span><span class="s2">"."</span><span class="p">)</span><span class="w">
 
 </span><span class="n">dataOutput</span><span class="o">=</span><span class="n">data.frame</span><span class="p">(</span><span class="n">datExpr_anno</span><span class="w"> </span><span class="p">,</span><span class="n">moduleColors</span><span class="p">,</span><span class="w"> </span><span class="n">datKME</span><span class="p">,</span><span class="w"> </span><span class="n">traitsCor</span><span class="p">)</span><span class="w">
 
 </span><span class="n">write.table</span><span class="p">(</span><span class="n">dataOutput</span><span class="p">,</span><span class="s2">"AllGenesResults.txt"</span><span class="p">,</span><span class="n">row.names</span><span class="o">=</span><span class="nb">F</span><span class="p">,</span><span class="n">sep</span><span class="o">=</span><span class="s2">"\t"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <h3 id="module-eigengene-expression-plots">Module eigengene expression plots</h3>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">data</span><span class="p">(</span><span class="n">MEs</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">data</span><span class="p">(</span><span class="n">MEs</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">layout</span><span class="p">(</span><span class="n">matrix</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">colnames</span><span class="p">(</span><span class="n">MEs</span><span class="p">)),</span><span class="m">12</span><span class="p">,</span><span class="nf">rep</span><span class="p">(</span><span class="m">13</span><span class="p">,</span><span class="m">3</span><span class="p">)),</span><span class="w"> </span><span class="n">ncol</span><span class="o">=</span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">byrow</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">),</span><span class="w"> </span><span class="n">heights</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">3</span><span class="p">,</span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="m">0.5</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">layout</span><span class="p">(</span><span class="n">matrix</span><span class="p">(</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="o">:</span><span class="nf">length</span><span class="p">(</span><span class="n">colnames</span><span class="p">(</span><span class="n">MEs</span><span class="p">)),</span><span class="m">12</span><span class="p">,</span><span class="nf">rep</span><span class="p">(</span><span class="m">13</span><span class="p">,</span><span class="m">3</span><span class="p">)),</span><span class="w"> </span><span class="n">ncol</span><span class="o">=</span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">byrow</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">),</span><span class="w"> </span><span class="n">heights</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">3</span><span class="p">,</span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="m">0.5</span><span class="p">))</span><span class="w">
 
 </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">color</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">gsub</span><span class="p">(</span><span class="s2">"ME"</span><span class="p">,</span><span class="w"> </span><span class="s2">""</span><span class="p">,</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">MEs</span><span class="p">))){</span><span class="w">
   </span><span class="n">module_eigengene_plot</span><span class="p">(</span><span class="n">groups</span><span class="p">,</span><span class="w"> </span><span class="n">MEs</span><span class="p">,</span><span class="w"> </span><span class="n">color</span><span class="p">)</span><span class="w">
@@ -868,8 +682,7 @@
 </span><span class="n">par</span><span class="p">(</span><span class="n">mai</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">))</span><span class="w">
 </span><span class="n">plot.new</span><span class="p">()</span><span class="w">
 </span><span class="n">legend</span><span class="p">(</span><span class="s2">"bottom"</span><span class="p">,</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"mean module eigengenes"</span><span class="p">,</span><span class="w"> </span><span class="s2">"replicate module eigengene values"</span><span class="p">),</span><span class="w"> </span><span class="n">xpd</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">horiz</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">inset</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">0</span><span class="p">),</span><span class="w"> </span><span class="n">bty</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"n"</span><span class="p">,</span><span class="w"> </span><span class="n">col</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"grey"</span><span class="p">,</span><span class="w"> </span><span class="s2">"black"</span><span class="p">),</span><span class="w"> </span><span class="n">pch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">16</span><span class="p">,</span><span class="w"> </span><span class="n">cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="exprAnalysis_files/figure-markdown_github/module_eigengene_plot-1.png" alt="" /></p>
 
@@ -883,7 +696,7 @@
 
 <p>For normalized expression data (FPKM from Cufflinks or intensities from expression chip arrays).</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">design</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.matrix</span><span class="p">(</span><span class="n">data.frame</span><span class="p">(</span><span class="n">Ctrl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">12</span><span class="p">)),</span><span class="w"> </span><span class="n">TolLPS</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">design</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.matrix</span><span class="p">(</span><span class="n">data.frame</span><span class="p">(</span><span class="n">Ctrl</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="m">12</span><span class="p">)),</span><span class="w"> </span><span class="n">TolLPS</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w">
               </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">)),</span><span class="w"> </span><span class="n">TollMRP8</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">8</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">),</span><span class="w"> </span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">)),</span><span class="w"> </span><span class="n">ActLPS</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="nf">rep</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">12</span><span class="p">),</span><span class="w">
               </span><span class="nf">rep</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="w"> </span><span class="m">4</span><span class="p">)),</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">colnames</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">)))</span><span class="w">
 </span><span class="n">groupcomparisons</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"TolLPS-Ctrl"</span><span class="p">,</span><span class="w"> </span><span class="s2">"TollMRP8-Ctrl"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ActLPS-Ctrl"</span><span class="p">)</span><span class="w">
@@ -893,16 +706,15 @@
 </span><span class="n">Allgenes_limma_pw</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">diff_limma_pw_unfiltered</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">design</span><span class="p">,</span><span class="w"> </span><span class="n">comparison</span><span class="p">)</span><span class="w">
 
 </span><span class="n">DEgenes_pw</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">Allgenes_limma_pw</span><span class="p">[</span><span class="n">which</span><span class="p">(</span><span class="nf">abs</span><span class="p">(</span><span class="n">Allgenes_limma_pw</span><span class="o">$</span><span class="n">logFC</span><span class="p">)</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">log2</span><span class="p">(</span><span class="m">1.5</span><span class="p">)</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="n">Allgenes_limma_pw</span><span class="o">$</span><span class="n">adj.P.Val</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="m">0.05</span><span class="p">),]</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>Example output files from diff_limma functions have been saved to the package data and can be accessed via:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">data</span><span class="p">(</span><span class="s2">"DEgenes_pw"</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">data</span><span class="p">(</span><span class="s2">"DEgenes_pw"</span><span class="p">)</span><span class="w">
 </span><span class="n">data</span><span class="p">(</span><span class="s2">"Allgenes_limma_pw"</span><span class="p">)</span><span class="w">
 
 
-</span><span class="c1"># Export tables to Latex
+</span><span class="c1"># Export tables to Latex</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">xtable</span><span class="p">)</span><span class="w">
 
 </span><span class="n">italic</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">){</span><span class="w">
@@ -923,14 +735,13 @@
       </span><span class="n">scalebox</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.8</span><span class="p">,</span><span class="w">
       </span><span class="n">tabular.environment</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"tabularx"</span><span class="p">,</span><span class="w"> </span><span class="n">width</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"\\textwidth"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># or to html
+</span><span class="c1"># or to html</span><span class="w">
 </span><span class="n">print</span><span class="p">(</span><span class="n">xtable</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">10</span><span class="p">,],</span><span class="w"> 
        </span><span class="n">digits</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span><span class="p">,</span><span class="w">
        </span><span class="n">caption</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nf">c</span><span class="p">(</span><span class="s2">"Long caption"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Short caption"</span><span class="p">),</span><span class="w">
        </span><span class="n">label</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"tab:testtable"</span><span class="p">,</span><span class="w">
        </span><span class="n">auto</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">),</span><span class="w"> </span><span class="n">type</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"html"</span><span class="p">,</span><span class="w"> </span><span class="n">caption.placement</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"top"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <!-- html table generated in R 3.3.0 by xtable 1.8-2 package -->
 <!-- Wed Jun 01 08:44:34 2016 -->
@@ -1339,16 +1150,16 @@ ENSG00000039600
 
 <p><br /></p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">DESeq2</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">DESeq2</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">ggrepel</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># find possible contrasts with
+</span><span class="c1"># find possible contrasts with</span><span class="w">
 </span><span class="n">DESeq2</span><span class="o">::</span><span class="n">resultsNames</span><span class="p">(</span><span class="n">data_DESeq</span><span class="p">)</span><span class="w">
 
 </span><span class="n">res</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">DESeq2</span><span class="o">::</span><span class="n">results</span><span class="p">(</span><span class="n">data_DESeq</span><span class="p">,</span><span class="w"> </span><span class="n">contrast</span><span class="o">=</span><span class="nf">list</span><span class="p">(</span><span class="s2">"treatmentActLPS"</span><span class="p">,</span><span class="w"> </span><span class="s2">"treatmentCtrl"</span><span class="p">),</span><span class="w"> </span><span class="n">cooksCutoff</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.99</span><span class="p">,</span><span class="w"> </span><span class="n">independentFiltering</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">alpha</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.05</span><span class="p">,</span><span class="w"> </span><span class="n">pAdjustMethod</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"BH"</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># order results table by the smallest adjusted p value:
+</span><span class="c1"># order results table by the smallest adjusted p value:</span><span class="w">
 </span><span class="n">res</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">res</span><span class="p">[</span><span class="n">order</span><span class="p">(</span><span class="n">res</span><span class="o">$</span><span class="n">padj</span><span class="p">),]</span><span class="w">
 
 </span><span class="n">results</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">dplyr</span><span class="o">::</span><span class="n">mutate</span><span class="p">(</span><span class="n">as.data.frame</span><span class="p">(</span><span class="n">res</span><span class="p">),</span><span class="w"> </span><span class="n">sig</span><span class="o">=</span><span class="n">ifelse</span><span class="p">(</span><span class="n">res</span><span class="o">$</span><span class="n">padj</span><span class="o">&lt;</span><span class="m">0.05</span><span class="p">,</span><span class="w"> </span><span class="s2">"FDR&lt;0.05"</span><span class="p">,</span><span class="w"> </span><span class="s2">"Not Sig"</span><span class="p">)),</span><span class="w"> </span><span class="n">row.names</span><span class="o">=</span><span class="n">rownames</span><span class="p">(</span><span class="n">res</span><span class="p">))</span><span class="w">
@@ -1362,32 +1173,29 @@ ENSG00000039600
 
 </span><span class="n">p</span><span class="o">+</span><span class="n">ggrepel</span><span class="o">::</span><span class="n">geom_text_repel</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="n">results</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="p">],</span><span class="w"> </span><span class="n">ggplot2</span><span class="o">::</span><span class="n">aes</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="n">rownames</span><span class="p">(</span><span class="n">results</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">10</span><span class="p">,</span><span class="w"> </span><span class="p">])))</span><span class="w">
 
-</span><span class="c1"># If there aren't too many DE genes:
-#p+geom_text_repel(data=dplyr::filter(results, padj&lt;0.05), aes(label=rownames(results[1:10, ])))
-</span></code></pre>
-</div>
+</span><span class="c1"># If there aren't too many DE genes:</span><span class="w">
+</span><span class="c1">#p+geom_text_repel(data=dplyr::filter(results, padj&lt;0.05), aes(label=rownames(results[1:10, ])))</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <h4 id="ma-plot">MA-plot</h4>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">DESeq2</span><span class="o">::</span><span class="n">plotMA</span><span class="p">(</span><span class="n">res</span><span class="p">,</span><span class="w"> </span><span class="n">main</span><span class="o">=</span><span class="s2">"MA Plot"</span><span class="p">,</span><span class="w"> </span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">-2</span><span class="p">,</span><span class="m">2</span><span class="p">))</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">DESeq2</span><span class="o">::</span><span class="n">plotMA</span><span class="p">(</span><span class="n">res</span><span class="p">,</span><span class="w"> </span><span class="n">main</span><span class="o">=</span><span class="s2">"MA Plot"</span><span class="p">,</span><span class="w"> </span><span class="n">ylim</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">-2</span><span class="p">,</span><span class="m">2</span><span class="p">))</span><span class="w">
+</span></code></pre></div></div>
 
 <p><br /></p>
 
 <h4 id="plotcounts-which-normalizes-counts-by-sequencing-depth-and-adds-a-pseudocount-of-12-to-allow-for-log-scale-plotting">plotCounts, which normalizes counts by sequencing depth and adds a pseudocount of 1/2 to allow for log scale plotting</h4>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">par</span><span class="p">(</span><span class="n">mfrow</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="m">3</span><span class="p">))</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">par</span><span class="p">(</span><span class="n">mfrow</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="m">1</span><span class="p">,</span><span class="m">3</span><span class="p">))</span><span class="w">
 
 </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="m">1</span><span class="o">:</span><span class="m">3</span><span class="p">){</span><span class="w">
   </span><span class="n">gene</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rownames</span><span class="p">(</span><span class="n">res</span><span class="p">)[</span><span class="n">i</span><span class="p">]</span><span class="w">
   </span><span class="n">main</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">gene</span><span class="w">
   </span><span class="n">DESeq2</span><span class="o">::</span><span class="n">plotCounts</span><span class="p">(</span><span class="n">data_DESeq</span><span class="p">,</span><span class="w"> </span><span class="n">gene</span><span class="o">=</span><span class="n">gene</span><span class="p">,</span><span class="w"> </span><span class="n">intgroup</span><span class="o">=</span><span class="s2">"treatment"</span><span class="p">,</span><span class="w"> </span><span class="n">main</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">main</span><span class="p">)</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -1397,13 +1205,11 @@ ENSG00000039600
 
 <p>Can be used to add e.g. ENTREZ ID, ENSEMBL ID, etc. to gene name.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">DEgenes_pw</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">geneAnnotations</span><span class="p">(</span><span class="n">input</span><span class="o">=</span><span class="n">DEgenes_pw</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="o">=</span><span class="n">row.names</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="p">),</span><span class="w"> </span><span class="n">column</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"ENTREZID"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ENSEMBL"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="o">=</span><span class="s2">"SYMBOL"</span><span class="p">,</span><span class="w"> </span><span class="n">organism</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"human"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">DEgenes_pw</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">geneAnnotations</span><span class="p">(</span><span class="n">input</span><span class="o">=</span><span class="n">DEgenes_pw</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="o">=</span><span class="n">row.names</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="p">),</span><span class="w"> </span><span class="n">column</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"ENTREZID"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ENSEMBL"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="o">=</span><span class="s2">"SYMBOL"</span><span class="p">,</span><span class="w"> </span><span class="n">organism</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"human"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">DEgenes_DESeq</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">geneAnnotations</span><span class="p">(</span><span class="n">input</span><span class="o">=</span><span class="n">DEgenes_DESeq</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="o">=</span><span class="n">row.names</span><span class="p">(</span><span class="n">DEgenes_DESeq</span><span class="p">),</span><span class="w"> </span><span class="n">column</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"ENTREZID"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ENSEMBL"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="o">=</span><span class="s2">"SYMBOL"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">DEgenes_DESeq</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">geneAnnotations</span><span class="p">(</span><span class="n">input</span><span class="o">=</span><span class="n">DEgenes_DESeq</span><span class="p">,</span><span class="w"> </span><span class="n">keys</span><span class="o">=</span><span class="n">row.names</span><span class="p">(</span><span class="n">DEgenes_DESeq</span><span class="p">),</span><span class="w"> </span><span class="n">column</span><span class="o">=</span><span class="nf">c</span><span class="p">(</span><span class="s2">"ENTREZID"</span><span class="p">,</span><span class="w"> </span><span class="s2">"ENSEMBL"</span><span class="p">),</span><span class="w"> </span><span class="n">keytype</span><span class="o">=</span><span class="s2">"SYMBOL"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <hr />
 
@@ -1411,16 +1217,16 @@ ENSG00000039600
 
 <h2 id="enrichment-analysis-using-clusterpofiler">Enrichment Analysis using clusterPofiler</h2>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">clusterProfiler</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">clusterProfiler</span><span class="p">)</span><span class="w">
 </span><span class="n">library</span><span class="p">(</span><span class="n">DOSE</span><span class="p">)</span><span class="w">
 
 </span><span class="n">geneList</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">as.vector</span><span class="p">(</span><span class="n">Allgenes_limma_pw</span><span class="o">$</span><span class="n">logFC</span><span class="p">)</span><span class="w">
 </span><span class="nf">names</span><span class="p">(</span><span class="n">geneList</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">rownames</span><span class="p">(</span><span class="n">Allgenes_limma_pw</span><span class="p">)</span><span class="w">
 </span><span class="n">gene</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">na.omit</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="o">$</span><span class="n">ENTREZID</span><span class="p">)</span><span class="w">
 
-</span><span class="n">OrgDb</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">org.Hs.eg.db</span><span class="o">::</span><span class="n">org.Hs.eg.db</span><span class="w"> </span><span class="c1"># can also be org.Mm.eg.db::org.Mm.eg.db
-</span><span class="w">
-</span><span class="c1"># Group GO
+</span><span class="n">OrgDb</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">org.Hs.eg.db</span><span class="o">::</span><span class="n">org.Hs.eg.db</span><span class="w"> </span><span class="c1"># can also be org.Mm.eg.db::org.Mm.eg.db</span><span class="w">
+
+</span><span class="c1"># Group GO</span><span class="w">
 </span><span class="n">ggo</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">clusterProfiler</span><span class="o">::</span><span class="n">groupGO</span><span class="p">(</span><span class="n">gene</span><span class="w">     </span><span class="o">=</span><span class="w"> </span><span class="n">gene</span><span class="p">,</span><span class="w">
                                 </span><span class="n">OrgDb</span><span class="w">    </span><span class="o">=</span><span class="w"> </span><span class="n">OrgDb</span><span class="p">,</span><span class="w">
                                 </span><span class="n">ont</span><span class="w">      </span><span class="o">=</span><span class="w"> </span><span class="s2">"BP"</span><span class="p">,</span><span class="w">
@@ -1429,7 +1235,7 @@ ENSG00000039600
 </span><span class="n">head</span><span class="p">(</span><span class="n">summary</span><span class="p">(</span><span class="n">ggo</span><span class="p">))</span><span class="w">
 </span><span class="n">barplot</span><span class="p">(</span><span class="n">ggo</span><span class="p">,</span><span class="w"> </span><span class="n">drop</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">showCategory</span><span class="o">=</span><span class="m">12</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># GO over-representation test
+</span><span class="c1"># GO over-representation test</span><span class="w">
 </span><span class="n">ego</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">clusterProfiler</span><span class="o">::</span><span class="n">enrichGO</span><span class="p">(</span><span class="n">gene</span><span class="w">          </span><span class="o">=</span><span class="w"> </span><span class="n">gene</span><span class="p">,</span><span class="w">
                                  </span><span class="n">OrgDb</span><span class="w">         </span><span class="o">=</span><span class="w"> </span><span class="n">OrgDb</span><span class="p">,</span><span class="w">
                                  </span><span class="n">ont</span><span class="w">           </span><span class="o">=</span><span class="w"> </span><span class="s2">"BP"</span><span class="p">,</span><span class="w">
@@ -1440,14 +1246,14 @@ ENSG00000039600
 </span><span class="n">head</span><span class="p">(</span><span class="n">summary</span><span class="p">(</span><span class="n">ego</span><span class="p">))</span><span class="w">
 </span><span class="n">barplot</span><span class="p">(</span><span class="n">ego</span><span class="p">,</span><span class="w"> </span><span class="n">showCategory</span><span class="o">=</span><span class="m">25</span><span class="p">)</span><span class="w">
 </span><span class="n">clusterProfiler</span><span class="o">::</span><span class="n">dotplot</span><span class="p">(</span><span class="n">ego</span><span class="p">,</span><span class="w"> </span><span class="n">showCategory</span><span class="o">=</span><span class="m">25</span><span class="p">)</span><span class="w">
-</span><span class="c1">#enrichMap(ego)
+</span><span class="c1">#enrichMap(ego)</span><span class="w">
 </span><span class="n">cnetplot</span><span class="p">(</span><span class="n">ego</span><span class="p">,</span><span class="w"> </span><span class="n">categorySize</span><span class="o">=</span><span class="s2">"pvalue"</span><span class="p">,</span><span class="w"> </span><span class="n">foldChange</span><span class="o">=</span><span class="n">geneList</span><span class="p">)</span><span class="w">
 </span><span class="n">clusterProfiler</span><span class="o">::</span><span class="n">plotGOgraph</span><span class="p">(</span><span class="n">ego</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># enrichGO test the whole GO corpus and enriched result may contains very general terms. With dropGO function, user can remove specific GO terms or GO level from results obtained from both enrichGO and compareCluster.
-</span><span class="w">
+</span><span class="c1"># enrichGO test the whole GO corpus and enriched result may contains very general terms. With dropGO function, user can remove specific GO terms or GO level from results obtained from both enrichGO and compareCluster.</span><span class="w">
 
-</span><span class="c1">## KEGG over-representation test
+
+</span><span class="c1">## KEGG over-representation test</span><span class="w">
 </span><span class="n">kk</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">clusterProfiler</span><span class="o">::</span><span class="n">enrichKEGG</span><span class="p">(</span><span class="n">gene</span><span class="w">         </span><span class="o">=</span><span class="w"> </span><span class="n">gene</span><span class="p">,</span><span class="w">
                  </span><span class="n">organism</span><span class="w">     </span><span class="o">=</span><span class="w"> </span><span class="s1">'hsa'</span><span class="p">,</span><span class="w">
                  </span><span class="n">pvalueCutoff</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.05</span><span class="p">)</span><span class="w">
@@ -1455,8 +1261,7 @@ ENSG00000039600
 </span><span class="n">barplot</span><span class="p">(</span><span class="n">kk</span><span class="p">,</span><span class="w"> </span><span class="n">showCategory</span><span class="o">=</span><span class="m">8</span><span class="p">)</span><span class="w">
 </span><span class="n">clusterProfiler</span><span class="o">::</span><span class="n">dotplot</span><span class="p">(</span><span class="n">kk</span><span class="p">)</span><span class="w">
 </span><span class="n">cnetplot</span><span class="p">(</span><span class="n">kk</span><span class="p">,</span><span class="w"> </span><span class="n">categorySize</span><span class="o">=</span><span class="s2">"geneNum"</span><span class="p">,</span><span class="w"> </span><span class="n">foldChange</span><span class="o">=</span><span class="n">geneList</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -1468,9 +1273,8 @@ ENSG00000039600
 
 <p>For Toll-like-receptor signaling:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">pathview_func</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="p">,</span><span class="w"> </span><span class="n">logFCcolumn</span><span class="o">=</span><span class="s2">"logFC"</span><span class="p">,</span><span class="w"> </span><span class="n">pathway.id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"04620"</span><span class="p">,</span><span class="w"> </span><span class="n">out.suffix</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"DE_TolLPS"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">pathview_func</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="p">,</span><span class="w"> </span><span class="n">logFCcolumn</span><span class="o">=</span><span class="s2">"logFC"</span><span class="p">,</span><span class="w"> </span><span class="n">pathway.id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"04620"</span><span class="p">,</span><span class="w"> </span><span class="n">out.suffix</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"DE_TolLPS"</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <hr />
 
@@ -1478,17 +1282,16 @@ ENSG00000039600
 
 <h2 id="venn-diagrams-and-biological-theme-comparison">Venn diagrams and Biological theme comparison</h2>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">gplots</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">gplots</span><span class="p">)</span><span class="w">
 
 </span><span class="n">venn_list</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="nf">list</span><span class="p">(</span><span class="n">genelist1</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">na.omit</span><span class="p">(</span><span class="n">rownames</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="p">)[</span><span class="m">1</span><span class="o">:</span><span class="m">50</span><span class="p">]),</span><span class="w"> </span><span class="n">genelist2</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">na.omit</span><span class="p">(</span><span class="n">rownames</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="p">)[</span><span class="m">30</span><span class="o">:</span><span class="m">80</span><span class="p">]),</span><span class="w"> </span><span class="n">genelist3</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">na.omit</span><span class="p">(</span><span class="n">rownames</span><span class="p">(</span><span class="n">DEgenes_pw</span><span class="p">)[</span><span class="m">48</span><span class="o">:</span><span class="m">100</span><span class="p">]))</span><span class="w">
 
 </span><span class="n">gplots</span><span class="o">::</span><span class="n">venn</span><span class="p">(</span><span class="n">venn_list</span><span class="p">,</span><span class="w"> </span><span class="n">show.plot</span><span class="o">=</span><span class="kc">TRUE</span><span class="p">,</span><span class="w"> </span><span class="n">small</span><span class="o">=</span><span class="m">0.7</span><span class="p">,</span><span class="w"> </span><span class="n">showSetLogicLabel</span><span class="o">=</span><span class="kc">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">simplify</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 
 </span><span class="n">mtext</span><span class="p">(</span><span class="s2">"If you want a header, put it here"</span><span class="p">,</span><span class="w"> </span><span class="n">side</span><span class="o">=</span><span class="m">3</span><span class="p">,</span><span class="w"> </span><span class="n">cex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0.8</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># Biological theme comparison
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Biological theme comparison</span><span class="w">
 </span><span class="n">compGO</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">clusterProfiler</span><span class="o">::</span><span class="n">compareCluster</span><span class="p">(</span><span class="n">geneCluster</span><span class="w">   </span><span class="o">=</span><span class="w"> </span><span class="n">venn_list</span><span class="p">,</span><span class="w">
                                           </span><span class="n">fun</span><span class="w">           </span><span class="o">=</span><span class="w"> </span><span class="s2">"enrichGO"</span><span class="p">,</span><span class="w">
                                           </span><span class="n">ont</span><span class="w">           </span><span class="o">=</span><span class="w"> </span><span class="s2">"BP"</span><span class="p">,</span><span class="w">
@@ -1515,9 +1318,8 @@ ENSG00000039600
                                           </span><span class="n">pAdjustMethod</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"BH"</span><span class="p">,</span><span class="w">
                                           </span><span class="n">readable</span><span class="w">      </span><span class="o">=</span><span class="w"> </span><span class="kc">TRUE</span><span class="p">)</span><span class="w">
 
-</span><span class="c1"># For visualisation see Enrichment Analysis using clusterProfiler
-</span></code></pre>
-</div>
+</span><span class="c1"># For visualisation see Enrichment Analysis using clusterProfiler</span><span class="w">
+</span></code></pre></div></div>
 
 <hr />
 
@@ -1556,9 +1358,8 @@ ENSG00000039600
   </li>
 </ul>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">TF_networks</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">nodeAnno</span><span class="o">=</span><span class="n">Allgenes_limma_pw</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">TF_networks</span><span class="p">(</span><span class="n">expmatrix</span><span class="p">,</span><span class="w"> </span><span class="n">nodeAnno</span><span class="o">=</span><span class="n">Allgenes_limma_pw</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <p><img src="CopyOfnetwork_test.png" alt="TF network Pearson 0.7" /></p>
 
@@ -1603,7 +1404,7 @@ ENSG00000039600
 
 <h2 id="mirna-target-identification">miRNA target identification</h2>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="c1"># The current version of multiMiR is 1.0.1 and can be downloaded from
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># The current version of multiMiR is 1.0.1 and can be downloaded from</span><span class="w">
 </span><span class="n">http</span><span class="o">://</span><span class="n">multimir.ucdenver.edu</span><span class="o">/</span><span class="n">multiMiR_1.0.1.tar.gz.</span><span class="w">
 
 </span><span class="n">install.packages</span><span class="p">(</span><span class="s2">"XML"</span><span class="p">)</span><span class="w">
@@ -1621,8 +1422,7 @@ ENSG00000039600
 </span><span class="n">write.table</span><span class="p">(</span><span class="n">miRNA_allTargets</span><span class="o">$</span><span class="n">validated</span><span class="p">,</span><span class="w"> </span><span class="s2">"miRNAs_allTargets_validatedTargets.txt"</span><span class="p">,</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">F</span><span class="p">,</span><span class="w"> </span><span class="n">col.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">T</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="o">=</span><span class="s2">"\t"</span><span class="p">)</span><span class="w">
 </span><span class="n">write.table</span><span class="p">(</span><span class="n">miRNA_allTargets</span><span class="o">$</span><span class="n">disease.drug</span><span class="p">,</span><span class="w"> </span><span class="s2">"miRNAs_allTargets_diseaseDrugTargets.txt"</span><span class="p">,</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">F</span><span class="p">,</span><span class="w"> </span><span class="n">col.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">T</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="o">=</span><span class="s2">"\t"</span><span class="p">)</span><span class="w">
 </span><span class="n">write.table</span><span class="p">(</span><span class="n">miRNA_allTargets</span><span class="o">$</span><span class="n">summary</span><span class="p">,</span><span class="w"> </span><span class="s2">"miRNAs_allTargets_summaryTargets.txt"</span><span class="p">,</span><span class="w"> </span><span class="n">row.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">F</span><span class="p">,</span><span class="w"> </span><span class="n">col.names</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">T</span><span class="p">,</span><span class="w"> </span><span class="n">sep</span><span class="o">=</span><span class="s2">"\t"</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <hr />
 
@@ -1632,9 +1432,8 @@ ENSG00000039600
 
 <p>Analogous to Fisher’s Exact Test.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">phyper</span><span class="p">(</span><span class="n">SampleSuccesses</span><span class="w"> </span><span class="m">-1</span><span class="p">,</span><span class="w"> </span><span class="n">PopulationSuccesses</span><span class="p">,</span><span class="w"> </span><span class="n">PopulationSize</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">PopulationSuccesses</span><span class="p">,</span><span class="w"> </span><span class="n">sampleSize</span><span class="p">,</span><span class="w"> </span><span class="n">lower.tail</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">phyper</span><span class="p">(</span><span class="n">SampleSuccesses</span><span class="w"> </span><span class="m">-1</span><span class="p">,</span><span class="w"> </span><span class="n">PopulationSuccesses</span><span class="p">,</span><span class="w"> </span><span class="n">PopulationSize</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">PopulationSuccesses</span><span class="p">,</span><span class="w"> </span><span class="n">sampleSize</span><span class="p">,</span><span class="w"> </span><span class="n">lower.tail</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
 
 <hr />
 
@@ -1760,11 +1559,10 @@ ENSG00000039600
 
 <h1 id="session-info">Session Info</h1>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
-</span></code></pre>
-</div>
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sessionInfo</span><span class="p">()</span><span class="w">
+</span></code></pre></div></div>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## R version 3.3.1 (2016-06-21)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## R version 3.3.1 (2016-06-21)
 ## Platform: x86_64-w64-mingw32/x64 (64-bit)
 ## Running under: Windows 7 x64 (build 7601) Service Pack 1
 ## 
@@ -1805,139 +1603,28 @@ ENSG00000039600
 ## [61] cluster_2.0.4         GO.db_3.3.0           Matrix_1.2-7.1       
 ## [64] data.table_1.9.6      rmarkdown_1.0         iterators_1.0.8      
 ## [67] rpart_4.1-10          nnet_7.3-12
-</code></pre>
-</div>
-
-    </div>
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
+</code></pre></div></div>
 
 
-  
-     
-    	<li><a href="/categories.html#RNA-seq-ref">
-    		RNA-seq <span>2</span>
-    	</a></li>
-     
-    	<li><a href="/categories.html#microarray-ref">
-    		microarray <span>1</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#RNA-seq-ref">RNA-seq <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#exprAnalysis-ref">exprAnalysis <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#Illumina-ref">Illumina <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#Affymetrix-ref">Affymetrix <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#DESeq2-ref">DESeq2 <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#ggplot2-ref">ggplot2 <span>32</span></a></li>
-     
-    	<li><a href="/tags.html#networks-ref">networks <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#cummeRbund-ref">cummeRbund <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#PCA-ref">PCA <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#heatmap-ref">heatmap <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#WGCNA-ref">WGCNA <span>1</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev disabled"><a>&larr; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/rna-seq/deseq2/teaching/2016/09/29/DESeq2-course" title="DESeq2 Course Work">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

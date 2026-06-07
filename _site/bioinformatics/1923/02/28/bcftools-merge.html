@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>How to merge 7000 VCF files with bcftools merge? — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/bioinformatics/1923/02/28/bcftools-merge">
+</head>
+<body class="">
+
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
+
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
+
+  <hr class="author__divider">
+
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
+
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
+
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">February 28, 1923</span>
+  <h1 class="page__title">How to merge 7000 VCF files with bcftools merge?</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shicheng Guo</p>
+<p>Sometimes, maybe you want to merge &gt;7000 vcf files/samples into one big VCF file with <code class="language-plaintext highlighter-rouge">bcftools merge</code>, for example PMRP have 20,000 samples/vcf files:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bcftools merge -l merge.txt -Oz -o merge.vcf.gz
+</code></pre></div></div>
+<p>if the sample counts &lt;1021, everything is okay. However, if it is &gt;= 1021, bcftools merge will reports:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[E::hts_idx_load3] Could not load local index file '229209.fstl1.vcf.gz.tbi'
+Failed to open 229209.fstl1.vcf.gz: could not load index
+</code></pre></div></div>
+<p>Okay. Here is my final solution developed based on WouterDeCoste’s post. I hope it is helpful. One of my friends told me his computer allowed merging 7000 VCF at one time. I am not sure whether it is caused by a specific file operating setting.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ls *.vcf.gz | split -l 500 - subset_vcfs
+
+for i in subset_vcfs*; 
+do 
+bcftools merge -0 -l $i -Oz -o merge.$i.vcf.gz; 
+tabix -p vcf merge.$i.vcf.gz
+done
+
+ls merge.*.vcf.gz &gt; merge.txt
+bcftools merge -l merge.txt -0 -Oz -o all_merged.vcf.gz
+bcftools annotate -x INFO,^FORMAT/GT all_merged.vcf.gz -Oz -o Final.vcf.gz
+</code></pre></div></div>
+<p>-0 is to set missing to reference</p>
+
+<p>Another example I want to share as the following: Project Exome-sequencing:</p>
+
+<p>1, rename WP files to -a files</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>use strict;
+my @file=glob("WP_*.gz");
+foreach my $file(@file){
+my(undef,$id,undef)=split/_/,$file;
+print "$file\t$id\n";
+system("cp $file $id-a.filtered.vcf.gz")
+}
+</code></pre></div></div>
+
+<p>2, the file name is not exactly same with sample id for the vcf. What’s more, vcfs are from to project</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rm sample.txt
+for i in `ls *.vcf.gz`
+do
+echo $i
+#bcftools index -f -t $i
+bcftools query -l $i &gt;&gt; sample.txt
+done
+</code></pre></div></div>
+
+<p>3, sampleid is too long, rename the sample id</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>use strict;
+use Cwd;
+chdir getcwd;
+my $file="sample.txt";
+open F, $file || die "cannot open $file\n";
+while(&lt;F&gt;){
+chomp;
+my $file=$_;
+my($id,undef)=split/.filtered.vcf.gz/,$file;
+if($id =~/-a/){
+my ($name,undef)=split/-/,$id;
+print "$id $name\n";
+}else{
+my (undef,$name,undef)=split/_/,$id;
+print "$id $name\n";
+}
+}
+</code></pre></div></div>
+<p>4, sometimes, the computer have limited <code class="language-plaintext highlighter-rouge">ulimit</code> setting, you cannot merge too many samples at the same time. Here, I showed the solution to merge every 200 files and finally we will merge 7000 samples.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ls *.vcf.gz | split -l 200 - subset_vcfs
+for i in subset_vcfs*; 
+do 
+echo $i
+bcftools merge -0 -l $i -Oz -o merge.$i.vcf.gz 
+tabix -p vcf merge.$i.vcf.gz
+done
+ls merge.*.vcf.gz &gt; merge.txt
+bcftools merge -l merge.txt -0 -Oz -o all_merged.vcf.gz
+bcftools annotate -x INFO,^FORMAT/GT all_merged.vcf.gz -Oz -o Final.vcf.gz
+</code></pre></div></div>
+
+
+
+      </div>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
+</html>

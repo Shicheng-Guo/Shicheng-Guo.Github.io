@@ -1,249 +1,96 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>How to set up your own R blog with Github pages and Jekyll Bootstrap</title>
-    
-    <meta name="author" content="Shirin Glander">
+  <title>How to set up your own R blog with Github pages and Jekyll Bootstrap — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
 
-    <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
 
-    <!-- Bootstrap styles -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional theme -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
-    <!-- Sticky Footer -->
-    <link href="/assets/themes/bootstrap-3/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
 
-    <!-- Custom styles -->
-    <link href="/assets/themes/bootstrap-3/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-	  
-    <!-- Fav and touch icons -->
-    <!-- Update these with your own images      -->
-      <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000/assets/images/iconified/favicon.ico">
-      <!-- <link rel="shortcut icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png"> -->
-      <link rel="apple-touch-icon" type="image/png" href="http://localhost:4000/assets/images/iconified/apple-touch-icon.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="http://localhost:4000/images/iconified/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="http://localhost:4000/images/iconified/apple-touch-icon-114x114.png">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/blogging/2016/12/04/diy_your_own_blog">
+</head>
+<body class="">
 
-    <!-- atom & rss feed -->
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-  </head>
-  
- <div class="header">
-      <div id="wrap">
-      <nav class="navbar navbar-default" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- <a class="navbar-brand" href="/">Shirin's playgRound</a> -->
-		  <a class="navbar-brand" href="/"><img src="https://raw.githubusercontent.com/ShirinG/ShirinG.github.io/master/assets/images/logo.png" alt="logo" />Shirin's playgRound</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="jb-navbar-collapse">
-          <ul class="nav navbar-nav">
-            
-            
-            
-
-
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/about">About me</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/archive">Archive</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/categories">Categories</a></li>
-      	
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/feeds">Feeds</a></li>
-      	
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-      	
-      	<li><a href="/tags">Tags</a></li>
-      	
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-
-
-
-          </ul>
-          <form class="navbar-form navbar-right" role="search">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        </div><!-- /.navbar-collapse -->
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
       </nav>
-
     </div>
-</div>
+  </header>
 
-  <body>
-    <div id="wrap">
-      <div class="container">
-        
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
 
-<div class="page-header">
-  <h1>How to set up your own R blog with Github pages and Jekyll Bootstrap </h1>
-</div>
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
 
-<!-- Paste the 3 next lines where you want the sharing button(s) to appear -->
-    <div class="post-sharing">
-     
+  <hr class="author__divider">
 
-  
-  		<div id="fb-root"></div>
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
 
-<ul class="post-share ulno mob">
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
 
-<!-- Twitter -->
-<li class="tw"><a href="https://twitter.com/share" class="twitter-share-button" data-text="How to set up your own R blog with Github pages and Jekyll Bootstrap" data-via="" data-related="" data-count="" data-size="">Tweet</a>
-
-<!-- Google+ -->
-<li class="gp"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div>
-
-<!-- Facebook -->
-<li class="fb"><div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font=""></div>
-
-<!-- Reddit -->
-<li><script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=4"></script>
-</ul>
-
-<script>
-  
-(function(doc, script) {
- 	
-    // Async Social Buttons
-    var js, 
-        fjs = doc.getElementsByTagName(script)[0],
-        add = function(url, id) {
-            if (doc.getElementById(id)) {return;}
-            js = doc.createElement(script);
-            js.src = url;
-            id && (js.id = id);
-            fjs.parentNode.insertBefore(js, fjs);
-        };
-
-    // Twitter SDK
-    add('//platform.twitter.com/widgets.js', 'twitter-wjs');
-    
-    // Google+ button
-    add('https://apis.google.com/js/plusone.js');
-    
-    // Facebook SDK
-    add('https://connect.facebook.net/en_GB/all.js#xfbml=1&appId=1424112504267565', 'facebook-jssdk');
-    
-}(document, 'script'));
-
-</script>
-  
-
-
-
-    </div>
-
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>04 December 2016</span>
-    </div>
-    <div class="content">
-      <h3 id="this-post-is-in-reply-to-a-request-how-did-i-set-up-this-r-blog">This post is in reply to a request: How did I set up this R blog?</h3>
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">December 4, 2016</span>
+  <h1 class="page__title">How to set up your own R blog with Github pages and Jekyll Bootstrap</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shirin Glander</p>
+<h3 id="this-post-is-in-reply-to-a-request-how-did-i-set-up-this-r-blog">This post is in reply to a request: How did I set up this R blog?</h3>
 
 <p>I have wanted to have my own R blog for a while before I actually went ahead and realised this page. I had seen all the cool things people do with R by following <a href="https://www.r-bloggers.com/">R-bloggers</a> and reading their newsletter every day!</p>
 
@@ -271,12 +118,11 @@
   <li>pull from Github to make sure everything is synchronized and up to date between your computer and Github</li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="nb">cd </span>Home/Documents/Test
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd </span>Home/Documents/Test
 git clone https://github.com/username/username.github.io
 <span class="nb">cd </span>username.github.io
 git pull origin master
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><br /></p>
 
@@ -314,28 +160,26 @@ git pull origin master
 
 <p>Your Rmarkdown will need a header with title, author, date and output information:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="o">---</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">---</span><span class="w">
 </span><span class="n">title</span><span class="o">:</span><span class="w"> </span><span class="s2">"This is a test post for my R blog"</span><span class="w">
 </span><span class="n">author</span><span class="o">:</span><span class="w"> </span><span class="s2">"Dr. Shirin Glander"</span><span class="w">
 </span><span class="n">date</span><span class="o">:</span><span class="w"> </span><span class="s1">'`r Sys.Date()`'</span><span class="w">
 </span><span class="n">output</span><span class="o">:</span><span class="w"> </span><span class="n">html_document</span><span class="w">
 </span><span class="o">---</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>Below the header you can <a href="https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf">write text, insert pictures, create tables and much more</a>. Code chunks will go in between brackets.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>```{r, echo=TRUE}
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>```{r, echo=TRUE}
 summary(cars)
 ```
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>As always, there is much more information on <a href="http://rmarkdown.rstudio.com/lesson-1.html">how to work with RMarkdown</a> on the webs.</p>
 
 <p>The final code chunk will look something like <a href="https://blog.rstudio.org/2016/11/14/ggplot2-2-2-0/">this</a> in the output:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span><span class="w">
 </span><span class="n">ggplot</span><span class="p">(</span><span class="n">mpg</span><span class="p">,</span><span class="w"> </span><span class="n">aes</span><span class="p">(</span><span class="n">displ</span><span class="p">,</span><span class="w"> </span><span class="n">hwy</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_point</span><span class="p">(</span><span class="n">aes</span><span class="p">(</span><span class="n">color</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">class</span><span class="p">))</span><span class="w"> </span><span class="o">+</span><span class="w">
   </span><span class="n">geom_smooth</span><span class="p">(</span><span class="n">se</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">FALSE</span><span class="p">,</span><span class="w"> </span><span class="n">method</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"loess"</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w">
@@ -344,8 +188,7 @@ summary(cars)
     </span><span class="n">subtitle</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Two seaters (sports cars) are an exception because of their light weight"</span><span class="p">,</span><span class="w">
     </span><span class="n">caption</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Data from fueleconomy.gov"</span><span class="w">
   </span><span class="p">)</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p><img src="diy_your_own_blog_files/figure-markdown_github/unnamed-chunk-4-1.png" style="display: block; margin: auto;" /></p>
 
@@ -353,23 +196,21 @@ summary(cars)
 
 <p>Once I’m happy with my finished blog post, I’m changing the output format in the YAML header to create a markdown file (I’m using markdown_github) and knit again.</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="n">output</span><span class="o">:</span><span class="w"> 
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">output</span><span class="o">:</span><span class="w"> 
   </span><span class="n">md_document</span><span class="o">:</span><span class="w">
     </span><span class="n">variant</span><span class="o">:</span><span class="w"> </span><span class="n">markdown_github</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>This will produce a markdown document (ending in .md) of your blog post. This markdown is now almost ready to be published but first you need to add a header in the markdown document to the top of your finished markdown for Jekyll to recognize. An example markdown header looks like this:</p>
 
-<div class="language-r highlighter-rouge"><pre class="highlight"><code><span class="o">---</span><span class="w">
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">---</span><span class="w">
 </span><span class="n">layout</span><span class="o">:</span><span class="w"> </span><span class="n">post</span><span class="w">
 </span><span class="n">title</span><span class="o">:</span><span class="w"> </span><span class="s2">"This is a test post for my R blog"</span><span class="w">
 </span><span class="n">date</span><span class="o">:</span><span class="w"> </span><span class="m">2016-12-01</span><span class="w">
 </span><span class="n">categories</span><span class="o">:</span><span class="w"> </span><span class="n">rblogging</span><span class="w">
 </span><span class="n">tags</span><span class="o">:</span><span class="w"> </span><span class="n">test</span><span class="w"> </span><span class="n">ggplot2</span><span class="w">
 </span><span class="o">---</span><span class="w">
-</span></code></pre>
-</div>
+</span></code></pre></div></div>
 
 <p>It needs to contain the layout definition for post, the title and date. Categories and tags are optional but I like using them to categorize the posts I have written and make them easier to find again.</p>
 
@@ -381,17 +222,15 @@ summary(cars)
 
 <p>I’m working in a different directory to produce my posts and test out things (in this example called “<em>blog_prep</em>”), so once I have my markdown file ready (in this example called “<em>example_post.md</em>”), I am going back to the terminal window and copy it to my blog repository’s folder “<em>_post</em>” and rename it so that it has the following format: Date-name.md (of course, you could also manually copy, paste and rename the file).</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>cp ../blog_prep/example_post.md _posts
-mv _posts/example_post.md _posts/2016-11-20-example_post.md
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cp</span> ../blog_prep/example_post.md _posts
+<span class="nb">mv </span>_posts/example_post.md _posts/2016-11-20-example_post.md
+</code></pre></div></div>
 
 <p>If you also have figures or graphs in your blog post, there will be a folder generated along with your markdown with the name “<em>example_post_files</em>”. You need to copy this folder to your blog repository as well. If you gave your post a category, it will look for the files in a folder with the same name as your category with subfolders for the date. With the example above, which was categorized as “<em>rblogging</em>”, I will need to have/ make a folder with the same name and create subdirectories for the date on which my post is published:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>mkdir -p rblogging/2016/12/01
-cp ../blog_prep/example_post_files rblogging/2016/12/01
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir</span> <span class="nt">-p</span> rblogging/2016/12/01
+<span class="nb">cp</span> ../blog_prep/example_post_files rblogging/2016/12/01
+</code></pre></div></div>
 
 <p><br /></p>
 
@@ -399,9 +238,8 @@ cp ../blog_prep/example_post_files rblogging/2016/12/01
 
 <p>Before I push my updated blog to Github where it will go live, I’m testing the output locally with Jekyll. In order to be able to run Jekyll locally, you need to follow <a href="http://jekyllrb.com/docs/installation/">these excellent guidelines</a>. Once you have Jekyll up and running, all you need to do is to be in your page repository and run jekyll serve.</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll serve
-</code></pre>
-</div>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
 
 <p>This will build your page from the contents of your repository and you can preview whether everything looks the way you want it to.</p>
 
@@ -409,11 +247,10 @@ cp ../blog_prep/example_post_files rblogging/2016/12/01
 
 <p>If my new blog post looks okay and I don’t want to change anything any more, I can finally stage, commit and push the updated blog to Github.</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code>git add <span class="k">*</span>
-git commit -m <span class="s2">"name"</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add <span class="k">*</span>
+git commit <span class="nt">-m</span> <span class="s2">"name"</span>
 git push origin master
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><br /></p>
 
@@ -423,118 +260,26 @@ git push origin master
 
 <p>And voilà, your new R blog post is out there for the world to see!</p>
 
-    </div>
 
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-open"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/categories.html#blogging-ref">
-    		blogging <span>3</span>
-    	</a></li>
-    
-  
-
-
-    </ul>
-    
-
-  
-    <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
-      
-      
-
-
-  
-     
-    	<li><a href="/tags.html#blogging-ref">blogging <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#github-ref">github <span>2</span></a></li>
-     
-    	<li><a href="/tags.html#jekyll-ref">jekyll <span>1</span></a></li>
-     
-    	<li><a href="/tags.html#bootstrap-ref">bootstrap <span>1</span></a></li>
-    
-  
-
-
-
-    </ul>
-    
-  
-    <hr>
-    <ul class="pagination">
-    
-      <li class="prev"><a href="/machine_learning/2016/12/02/flu_outcome_ML_2_post" title="Extreme Gradient Boosting and Preprocessing in Machine Learning - Addendum to predicting flu outcome with R">&laquo; Previous</a></li>
-    
-      <li><a href="/archive.html">Archive</a></li>
-    
-      <li class="next"><a href="/genome/2016/12/11/homologous_genes_post" title="Creating a network of human gene homology with R and D3">Next &raquo;</a></li>
-    
-    </ul>
-    <hr>
-    
-
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    
-    var disqus_developer = 1;
-    var disqus_shortname = 'shirinsplayground'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
+      </div>
+    </main>
   </div>
-</div>
 
-
-      </div>
-
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
     </div>
-	  
-	   
+  </footer>
 
-
-
-	  
-  </body>
-
-<div class="footer">
-    <div id="footer">
-      <div class="container">
-        <p>&copy; 2017 Shirin Glander
-		<a href="mailto:shirin.glander@gmail.com"><img src="http://localhost:4000/assets/images/200px-Email_Shiny_Icon.png" /></a>
-		<a href="http://stackoverflow.com/users/6623620/shirin-glander"><img src="http://localhost:4000/assets/images/so-logo.png" /></a>
-		<a href="https://github.com/ShirinG"><img src="http://localhost:4000/assets/images/GitHub_Logo.png" /></a>
-		<a href="http://www.xing.com/profile/Shirin_Glander"><img src="http://localhost:4000/assets/images/xing.png" /></a>
-		<a href="http://de.linkedin.com/in/shirin-glander-01120881"><img src="http://localhost:4000/assets/images/Logo-2C-101px-R.png" /></a>
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-        </p>
-      </div>
-    </div>
-	
-    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/themes/bootstrap-3/bootstrap/js/bootstrap.min.js"></script>
-</div>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
 </html>
-

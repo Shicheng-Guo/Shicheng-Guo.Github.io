@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Next generation protocol to bcftools in medical genetics research — Shicheng Guo, Ph.D.</title>
+  <meta name="description" content="Shicheng Guo, Ph.D. — Senior Director of Translational Genetics & Data Science at Arrowhead Pharmaceuticals. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta name="author" content="Shicheng Guo">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shicheng Guo, Ph.D. — Translational Genetics & Data Science">
+  <meta property="og:description" content="Senior Director of Translational Genetics & Data Science. Genomics, epigenetics, and AI-driven precision medicine.">
+  <meta property="og:image" content="/assets/images/Dr.Shicheng.Guo.jpg">
+  <meta name="theme-color" content="#0c0c0e">
+
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+  <link rel="icon" type="image/png" sizes="180x180" href="/assets/images/favicon-180.png">
+  <link rel="alternate icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="apple-touch-icon" href="/assets/images/favicon-180.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/bioinformatics/2018/10/01/Next_Generation_bcftools-samtools">
+</head>
+<body class="">
+
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="masthead__brand" href="/">Shicheng <span class="mark">Guo</span></a>
+      <button class="masthead__toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+      <nav>
+        <ul class="masthead__nav">
+          <li><a href="/" >Home</a></li>
+          <li><a href="/research/" >Research</a></li>
+          <li><a href="/perspectives/" >Perspectives</a></li>
+          <li><a href="/publications/" >Publications</a></li>
+          <li><a href="/innovation/" >Innovation</a></li>
+          <li><a href="/trending/" >Trending</a></li>
+          <li><a href="/deals/" >Deals</a></li>
+          <li><a href="/trials/" >Trials</a></li>
+          <li><a href="/ai/" >AI</a></li>
+          <li><a href="/rwe/" >RWE</a></li>
+          <li><a href="/kol/" >KOL</a></li>
+          <li><a href="/biobank/" >Biobank</a></li>
+          <li><a href="/conference/" >Conference</a></li>
+          <li><a href="/pharma/" >Pharma 5.0</a></li>
+          <li><a href="https://github.com/Shicheng-Guo" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-wrap">
+    <aside class="author">
+  <img class="author__avatar" src="/assets/images/Dr.Shicheng.Guo.jpg" alt="Shicheng Guo">
+  <h2 class="author__name">Shicheng Guo, Ph.D.</h2>
+  <p class="author__role">Senior Director</p>
+  <p class="author__org">Translational Genetics &amp; Data Science<br>Arrowhead Pharmaceuticals</p>
+
+  <p class="author__bio">End-to-end drug discovery and development enabled by Human Genetics, AI, Real-World Evidence, and Biobanks.</p>
+
+  <hr class="author__divider">
+
+  <p class="author__meta"><i class="fa-solid fa-location-dot"></i> California, USA</p>
+
+  <ul class="author__links">
+    <li><a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Shicheng_Guo"><i class="fa-brands fa-researchgate"></i> ResearchGate</a></li>
+    <li><a href="https://www.linkedin.com/in/shicheng-guo-b5724925"><i class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/shihcheng.bsky.social"><i class="fa-brands fa-bluesky"></i> Bluesky</a></li>
+    <li><a href="https://twitter.com/ShichengGuo"><i class="fa-brands fa-x-twitter"></i> Twitter</a></li>
+    <li><a href="https://github.com/Shicheng-Guo"><i class="fa-brands fa-github"></i> GitHub</a></li>
+    <li><a href="mailto:Shihcheng.Guo@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a></li>
+  </ul>
+</aside>
+
+    <main class="content">
+      
+      <div class="prose">
+        <a class="back-link" href="/archive.html"><i class="fa-solid fa-arrow-left"></i> All posts</a>
+<header>
+  <span class="eyebrow">October 1, 2018</span>
+  <h1 class="page__title">Next generation protocol to bcftools in medical genetics research</h1>
+  <hr class="page__divider">
+</header>
+<p class="post-meta">By Shicheng Guo</p>
+<p>Today, I will give a talk about “Next generation protocol to <a href="https://samtools.github.io/bcftools/bcftools.html#annotate">bcftools</a> in medical genetics research” in MCRI research hub meeting. As we know, bcftools, <a href="http://vcftools.sourceforge.net/man_latest.html">vcftools</a>, <a href="https://www.cog-genomics.org/plink/2.0/">plink2</a>, <a href="https://software.broadinstitute.org/gatk/gatk4">GATK4</a> have been widely used in medical genetics and population genetics research. The usage of these tools require lots of experiences. However, the original protocols are quite limited espeically lacking of real-data example. Here, I will provide the real-data examples and solution to most frequently problem we meet in the usage of these tools.</p>
+
+<h4 id="bcftools-view">bcftools view</h4>
+<p>bcftools view is the most frequent command to use for SNPs filtering, sample filtering, format changing.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bcftools view -i '(IMP=1 &amp; R2&gt;0.6)|IMPUTED=0' chr$i.dose.dbSNP.hg19.vcf.gz |  bcftools annotate -x ^FORMAT/GT -Oz -o chr$i.dose.dbSNP.clean.hg19.vcf.gz
+
+bcftools view -i \'R2\&gt;0.6\|TYPED=1\|TYPED_ONLY=1\' -Oz chr$i.dose.vcf.gz -Oz -o chr$i.dose.filter.vcf.gz
+
+</code></pre></div></div>
+<h4 id="bcftools-annotation">bcftools annotation</h4>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># collect gene regions. don't forget to extend regions with -5K to +5K to region regions to cover promoter and enhancer SNPs
+awk '{print $1,$2-5000,$3+5000,$4}' OFS="\t"  MUC.hg19.bed | bedtools sort -i &gt; MUC.hg19.sort.bed
+
+bcftools annotate -a ~/hpc/db/hg19/dbSNP152/dbSNP152.chr$i.hg19.vcf.gz -c ID  chr$i.dose.contig.vcf.gz -Oz -o chr$i.dose.dbSNP.hg19.vcf.gz &gt;&gt;$i.job
+
+# merge MUC genotypes from chr1 to chr22
+cd /gpfs/home/guosa/hpc/rheumatology/RA/he2020/impute/R3
+ls chr*.dose.MUC.clean.hg19.vcf.gz &gt; MUC.vcf.txt
+bcftools concat -f MUC.vcf.txt -Oz -o MUC.hg19.vcf.gz
+bcftools annotate -a ~/hpc/db/hg19/dbSNP152/dbSNP152.chr$i.hg19.vcf.gz -c ID  chr$i.dose.contig.vcf.gz -Oz -o MUC.hg19.vcf.gz
+
+# https://github.com/Shicheng-Guo/AnnotationDatabase/blob/master/hg19/refGene.hg19.VCF.sort.bed.gz
+# https://github.com/Shicheng-Guo/AnnotationDatabase/blob/master/hg19/refGene.hg19.VCF.sort.bed.gz.tbi
+
+bcftools annotate -a ~/hpc/db/hg19/refGene.hg19.VCF.sort.bed.gz -c CHROM,FROM,TO,GENE -h &lt;(echo '##INFO=&lt;ID=GENE,Number=1,Type=String,Description="Gene name"&gt;') MUC.hg19.vcf.gz -Oz -o MUC.anno.hg19.vcf.gz
+
+# review dbSNPs from vcf.gz file
+bcftools view -i '%iD=="rs35705950"' MUC.anno.hg19.vcf.gz | less -S 
+bcftools view -i '%iD=="rs79920422"' MUC.anno.hg19.vcf.gz | less -S 
+</code></pre></div></div>
+<h4 id="how-to-fix-this-strand-flips-for-michigan-imputation-server">How to fix this strand flips for Michigan Imputation Server?</h4>
+<ul>
+  <li>Error: More than 100 obvious strand flips have been detected. Please check strand. Imputation cannot be started!
+```
+chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz
+zcat chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz | awk ‘{print $1,$2,$3,$4,$5}’ OFS=”\t”| grep -v ‘.;’ &gt; keep.txt
+bcftools view -T keep.txt chr2.1kg.phase3.v5a.dedup.norm.EUR.vcf.gz -Oz -o chr2.1kg.phase3.v5a.dedup.norm.clean.EUR.vcf.gz</li>
+</ul>
+
+<h1 id="you-need-remove-the-following-snps-from-chr21kgphase3v5adedupeurvcfgz">you need remove the following SNPs from chr2.1kg.phase3.v5a.dedup.EUR.vcf.gz</h1>
+<p>^2      18004148        .;rs541466601   AGAGCCCA        AGAGCCCG
+^2      33172927        .;rs554173463   GC      GA
+^2      40484170        .;rs537996337   AAATAAATA       AAATAAATG
+^2      44234879        rs550419970;.;rs533534296       ATAAA   ATAAATAAA
+^2      45515468        .;rs544467622   CTTTTGT CTTTTAT
+^2      47982412        .;rs536566627   GG      GC
+^2      74559847        .;rs564494041   TGT     TGC
+^2      77195037        .;rs548983836   TTAC    TCAC
+^2      84495638        rs573607330;.;rs569169043       AATAA   AATAAATAA
+^2      109192726       .;rs539410502   GTTTTGTTTTG     GTTTTGTTTTC
+^2      179073443       .;rs538697958   TTTTCC  TTTGCC
+^2      206417755       rs574286642;.;rs576039119       AGAA    AGAAGAA</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+
+### vcftools
+</code></pre></div></div>
+<p>zcat dbSNP152.chr1.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c &gt; dbSNP152.chr1.hg19.sort.vcf.gz &amp;
+zcat dbSNP152.chr7.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c &gt; dbSNP152.chr7.hg19.sort.vcf.gz &amp;
+zcat dbSNP152.chr8.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c &gt; dbSNP152.chr8.hg19.sort.vcf.gz &amp;
+zcat dbSNP152.chr9.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c &gt; dbSNP152.chr9.hg19.sort.vcf.gz &amp;</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+#### GATK
+Some of my colleagues meet lots of GATK bugs. Please be sure GATK requires `Java 1.8` other Java will have some unexpected errors. On the other side, please download the database from [GATK Resource Bundle ftp server](https://software.broadinstitute.org/gatk/download/bundle) rather than other database. 
+</code></pre></div></div>
+<p>gatk CreateSequenceDictionary -R hg19.fa -O hg19.dict</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#### SnpSift 
+
+#### Example 1. How to build vcf annotation database for bcftools annotate
+</code></pre></div></div>
+<h1 id="hg19-dbsnp">hg19 dbSNP</h1>
+<p>wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/All_20180423.vcf.gz
+wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/All_20180423.vcf.gz.md5
+wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/All_20180423.vcf.gz.tbi</p>
+
+<h1 id="hg38-dbsnp">hg38 dbSNP</h1>
+<p>wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/VCF/All_20180418.vcf.gz
+wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/VCF/All_20180418.vcf.gz.md5
+wget ftp://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh38p7/VCF/All_20180418.vcf.gz.tbi</p>
+
+<h1 id="copy-files-from-uw-madison-to-mcri">copy files from UW-Madison to MCRI</h1>
+<p>scp nu_guos@submit-1.chtc.wisc.edu:/home/nu_guos/All_20180423* ~/hpc/db/hg19/dbSNP</p>
+
+<h1 id="split-with-chrosome-name">split with chrosome name</h1>
+
+<h1 id="snp-orders-are-not-correct-sort-chr1chr7chr8chr9">SNP orders are not correct, sort chr1,chr7,chr8,chr9</h1>
+<p>mkdir ./temp/chr1/
+mkdir ./temp/chr7/
+mkdir ./temp/chr8/
+mkdir ./temp/chr9/
+zcat dbSNP152.chr1.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c &gt; dbSNP152.chr1.hg19.sort.vcf.gz &amp;
+zcat dbSNP152.chr7.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/ | bgzip -c &gt; dbSNP152.chr7.hg19.sort.vcf.gz &amp;
+zcat dbSNP152.chr8.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/chr8 | bgzip -c &gt; dbSNP152.chr8.hg19.sort.vcf.gz &amp;
+zcat dbSNP152.chr9.hg19.vcf.gz | vcf-sort -p 16 -t ./temp/chr9 | bgzip -c &gt; dbSNP152.chr9.hg19.sort.vcf.gz &amp;
+mv dbSNP152.chr8.hg19.sort.vcf.gz dbSNP152.chr8.hg19.sort.vcf.gz
+mv dbSNP152.chr9.hg19.sort.vcf.gz dbSNP152.chr9.hg19.sort.vcf.gz
+tabix -p vcf dbSNP152.chr8.hg19.sort.vcf.gz &amp;
+tabix -p vcf dbSNP152.chr9.hg19.sort.vcf.gz &amp;
+```</p>
+
+<h4 id="footnote">Footnote:</h4>
+
+<ul>
+  <li>
+    <p>human refGene hg19 TSS: 
+https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hg19/refGene_hg19_TSS.bed</p>
+  </li>
+  <li>
+    <p>human refGene hg38 TSS: 
+https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/hg38/refGene.hg38.TSS.bed</p>
+  </li>
+  <li>
+    <p>All the figures are only used for non-profit education. reminding me if infrigement happens</p>
+  </li>
+</ul>
+
+
+
+      </div>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div>© 2026 Shicheng Guo · Built with Jekyll</div>
+    <div class="visitor" id="visitorBar" hidden><span id="visitorCount"></span><span class="visitor__sep" id="visitorSep" hidden> · </span><span id="visitorLoc"></span></div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=BixB4TsAAAAJ&hl=en">Scholar</a> ·
+      <a href="https://github.com/Shicheng-Guo">GitHub</a> ·
+      <a href="https://www.linkedin.com/in/shicheng-guo-b5724925">LinkedIn</a> ·
+      <a href="/rss.xml">RSS</a>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/visitor.js"></script>
+  
+  <script data-goatcounter="https://sguo.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  
+</body>
+</html>
