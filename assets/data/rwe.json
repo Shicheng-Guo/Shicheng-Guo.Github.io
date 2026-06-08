@@ -1,13 +1,6 @@
 {
-  "generated": "2026-06-07T10:11:12+00:00",
+  "generated": "2026-06-08T12:12:05+00:00",
   "items": [
-    {
-      "date": "2026-06-04",
-      "headline": "Real-World Evidence: Shaping Obesity Treatment Beyond Clinical Trials - Amgen",
-      "source": "Amgen",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUFOSDFqc1NzOXoxcFowOHJ5SFpITEJNWFE2UEZOOG0zN2hRM2lIbFRoRHlrRFNLY0Jmc3BSaHFURk9yYXhqLS1hV1V4SFMwRFpHNFZqZU5XeDlYQTVqZ3o5VVlRN3I0aEJydDI3d2dJLXBvVDd4dlNnTUVORUQ0cXhoNEwybmJTdEpqekY0RQ?oc=5",
-      "category": "News"
-    },
     {
       "date": "2026-06-04",
       "headline": "Florida Cancer Specialists & Research Institute Real-World Evidence Abstract Highlights Progress and Gaps in Biomarker Testing for Lung Cancer - PR Newswire",
@@ -136,8 +129,8 @@
     },
     {
       "date": "2026-05-21",
-      "headline": "European EHR/EPR Market Enters Research-Ready Era as Clinical Trials and Real-World Evidence Move Into the Hospital Data Environment - Newswire.com",
-      "source": "Newswire.com",
+      "headline": "European EHR/EPR Market Enters Research-Ready Era as Clinical Trials and Real-World Evidence Move Into the Hospital Data Environment - newswire.com",
+      "source": "newswire.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGF6S2tMUmhDbXo3dHRxenV2RDJ1Zk5LdGRYVWRTX1Q1bTJVMzVvSUJkcFdqTGJzaUhqMXQzTHF0Q3FyMmtJOW5XTXdsbXVObEM3OXFwYS1ncnVQSlB6N2o3aFpLMi16eDhTWjVnbXdONVdmZDBsSTM3Z2dDUURsYmtCcnNJaGZ0VlpXNlNtNDVVcVQ2OTNmNjBTY2R2elVPLWxPdE9WMGtkYm8?oc=5",
       "category": "Research"
     },
@@ -500,6 +493,13 @@
     },
     {
       "date": "2026-04-06",
+      "headline": "Real-World Evidence: Shaping Obesity Treatment Beyond Clinical Trials - Amgen",
+      "source": "Amgen",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUFOSDFqc1NzOXoxcFowOHJ5SFpITEJNWFE2UEZOOG0zN2hRM2lIbFRoRHlrRFNLY0Jmc3BSaHFURk9yYXhqLS1hV1V4SFMwRFpHNFZqZU5XeDlYQTVqZ3o5VVlRN3I0aEJydDI3d2dJLXBvVDd4dlNnTUVORUQ0cXhoNEwybmJTdEpqekY0RQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-04-06",
       "headline": "Kakao Healthcare, Sanofi launch AI-driven RWE studies in Korea - koreabiomed.com",
       "source": "koreabiomed.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rOUotZUdPbXR0TDlSU0tHc3FiTkMtNnFlYXloSTBqa1RfdVBoajdzbFFNQ05wTEE3WDZWdzVLb2Z0QjYtbmJ0Z1c1Z1AtREkxZzhlRDExclgwTjJLQi04MkJXRTZWTHdLb0w1NkNR0gFyQVVfeXFMT1dDcG5oc2YyVnlRbE80aUdkaGlMcF9tamcxY1IzWkExeVhrdTZILU5OeTBPWE01djlwdC1Pa1dRdG5JU1Q3bTVvbTdNRmRFbWlrZmxIQlUtNjlNSkVZcHVBN19meHAxUlJseGlEdG14SkhB?oc=5",
@@ -616,6 +616,13 @@
       "source": "OncLive",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRy1WRjl6OW5kU0ljUFNHM3VaMy1iUUdZRkFSWEVZdzFRcHRCQUx5bjc5MFY0aVBUWjdTRHJ0dG5jSldsTHhPMi1QSzV6cmcyVjVEeFRGWm1aVlU4bVBPSFZ1RldyNHVvNm9HY1hnaXZ6NWVTZS1lQUNIeUQ3em9pbC1TSjZyNXVxZEFiWXhpc1h4X1c5MjBQUnlYa3E5OWVhY05SNEFIR1o1NlVMdzlqeDM3SDRWXzhyTENISQ?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-03-26",
+      "headline": "Adjunctive Nutritional Supplementation in Drug-Resistant Epilepsy: A Prospective Observational Study Evaluating Quality of Life and Seizure Outcomes - Cureus",
+      "source": "Cureus",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPc05kV05PVWZuNXVLei0wMDBHd3RMTHFiQTNtZDFmUUozcmJ3NXBLVldhZXFQdHM2RzVBZUxiWjZsSkl0Zmsyd2ZrQV9XbnRJNmxPNm1lTFFnM1R4eGV1QUF2THhFYUlRMWZjNGFnVzVaUzZXcF9VM3NfNkV2dVJNV2tDSlkxUkNZMGdjRGxfcEtnM0E1elVoWUdzVDBPVUxLQnBERDhuWk53WElQRjVZV1c5SUJTNFZWQ2E1Mmd6cEdlU0djTjRVRHA1MTd5SzlkQTUtb1dUZzlUQXNTODlOREhjU0JOcFlPTkl0Ykc5WWRjMW1TbGFTRDluRGhodmc1Q2F6bU9uOE8yVmJMcDIxdG1xc2s?oc=5",
+      "category": "Research"
     },
     {
       "date": "2026-03-25",
@@ -884,6 +891,13 @@
       "category": "News"
     },
     {
+      "date": "2026-02-09",
+      "headline": "Real-world Evidence (RWE) Solutions Market 2030 | Research Report, Size, Share, Growth, Trends, And Forecast - Ubiratã Online",
+      "source": "Ubiratã Online",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0p4dHJhOU9FWWV5c2UtWkRsS1Q2NkJXTWdwcl81a0gzRUZON3NFb2hwR3dyM1MtSmJBaVFJZkZ3UGlJRnM3MjJWN2pjS1NsUzZzXzBySlRodlJJU05uR3l6aFFVZTZsU2Ita1Nhb29EQWF5M2dyck5xVEh1NEZMZ0FZM3RaNEtzZ3VEeUtqMm1TeE5KNXFEUlFnUGlyUnhtMkZWQW11b3hEVFlZUHdsX1h4Uk5mTlVoZm1PVW9KbE0zVUE4V0kyaQ?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-02-05",
       "headline": "Real-World Data on Healthcare Technology Adoption: Company Insights and Government Trends with Key Statistics (e.g., 71% U.S. Hospitals Adoption, $3B Company Valuations) - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -892,10 +906,10 @@
     },
     {
       "date": "2026-02-04",
-      "headline": "The Value of Real-World Data in CLL: Margaret Krackeler, MD - AJMC",
-      "source": "AJMC",
+      "headline": "The Value of Real-World Data in CLL: Margaret Krackeler, MD - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORnRmNnJMU0NyRDZfR1o3Ym95YVhKMHViTGpSckRYV0dwdmRna0lXZHdrWU5USGVJd190bVdoYWZMYnJwMzNuY2g4amZFM0pDWUU0VzdTOFpjaWR6LVVUNTBpOTd5a0dycl9Fc0hFcUlCVU5laThxeDdRU2tsUkxJdEZ2QXZTeDVDQkV3?oc=5",
-      "category": "News"
+      "category": "Research"
     },
     {
       "date": "2026-02-03",
@@ -1298,10 +1312,10 @@
     },
     {
       "date": "2025-11-19",
-      "headline": "Using Real-World Evidence of BTK Inhibitors to Inform Coverage Decisions in CLL - AJMC",
-      "source": "AJMC",
+      "headline": "Using Real-World Evidence of BTK Inhibitors to Inform Coverage Decisions in CLL - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTJsRlE4SWlTZEJuOEplamRCWjV1dWxTNkJubnZvZjhpMHl1NEp0V2VhU0R6R0hSN1EwRWVUT1ZhaVlibHdwcXp3cDBMRUdrWGRtZmF3Wmc3aGNCeWJVOG9hRXJzZS04bWE4LUg4VThFMUJ0UUFXVHNXOGV2Wng5cEtPXzRQejhKME84SFo3TFoxTmVfRWZhb3FYVWtSOE9XVzBacWgwVWk?oc=5",
-      "category": "News"
+      "category": "Research"
     },
     {
       "date": "2025-11-19",
@@ -1543,10 +1557,10 @@
     },
     {
       "date": "2025-09-28",
-      "headline": "Real-World Evidence Supports Chemoimmunotherapy in ES-SCLC With Poor PS - AJMC",
-      "source": "AJMC",
+      "headline": "Real-World Evidence Supports Chemoimmunotherapy in ES-SCLC With Poor PS - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZTTnZYeWVQQmdyV0Q1dWtCR0tmaFBaTFNBZ2RBUVVHYm5mb1lvRlcwV3FMdHU1bWI3ZUhsQTNiZENnMWRSTkFQaWtXZDBiYlc0TGJ5SXNHcnpqU1pqXzdPUG01eWViLU9Wc01faFB0cEh3VExxRU8ySjBWaFJydlFwTDNSVFoteUpXdU82RG9HV1NTeUg4azJHQ1IwQQ?oc=5",
-      "category": "News"
+      "category": "Research"
     },
     {
       "date": "2025-09-26",
@@ -1561,6 +1575,13 @@
       "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPamlYZnNyUWQxNC1oRWtWTWY3bWptZU1oODJIRmZvb2VGT1lZWmhyQWJSejFFSUE4dXJBaElEcE1rcG44UkdHN1o4ZjdqbU5JMGVOeHByMmhVSEFZazhMWEpwRFd2bTFVSDgxaHdXUjZrYVdQOEdsT3FZS2RqT1lKejFIQzBwU21NdVd0dklEQTVadE9vMkY5WlVvSTZXcU55Z2h1OFdkam4tZUV0bEViNGFNS21jdWxVZk1lcTBwWU1VQ090NDJWTWp0TnBxSkxBX1Ric04tUDNGRGc1Vm5QYmFaWjFPblV2RHp1ZFNxWWdCYkRTNEY4eWY4SU13Z1NxbW1qMnRPZWRIRmZnU0ppV0JVNlR3bF9OdjdzRHk4OTJXSjhrN1dYaVhUOXJQclozay1idV81R19zT0RTVVFBR1RuMnJISDAxZF93Y1ZzV2xPc190U2ZGdkthNG9wbHZoS1F6eFhya2pmenRvTGlpZHJyWEFfUQ?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2025-09-22",
+      "headline": "Florida Cancer Specialists & Research Institute Utilizes Proprietary Real-World Data in First Study of Treatment Response in Lower-Risk Myelodysplastic Syndrome Patients Treated with Erythropoiesis-Stimulating Agents - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNUUFOTXRYVWRWd29XemM2QkZjcl9pSV9MS2RIX2VoUktGc3ZuVk1Qa0c5ODFHWEdiSVFaRnFIa2NsdmQ3bjd4UkFSZUlEcHNoQkhBLVBmR0M2dUo3dEJETkl5YWtTeDVnc2tzd2U2VTFBcXV2QTdDLVpBOGh3X0tDVlI0UEtGNUtqczZ3ZElqclBqMmcxZk54ejNFU0ZZbHNUaDN0TmlUbzVfUXF1RHZFczhKVmZ1X1l1WG52eWhRbGo4ZE9pcjk1NkFuNk90NGlQcTlnRjFBSFVEbEpBY3E0SGNVMzJIc1F2Skk2bFloMEd0b1N1WGhibEM1VWd6QVl3d0phOTJVWkQyVlZxQTJFdU5wSVg3NWFac1FILWk2WjA0ZGRmTWJ2cjBMUnNZSnZOVWdyWjdmbWRXam1uTjNSNXZmMVRKSTlQRHo4UmNEdDNYeW84TkpxZWlGQjdrb25kOWh3ZHlwN1p0WUZjZzFOVi1ra09tWTQ4LUdDLUNxYm1jeXM5QXc?oc=5",
+      "category": "Research"
     },
     {
       "date": "2025-09-18",
@@ -1802,10 +1823,10 @@
     },
     {
       "date": "2025-06-26",
-      "headline": "The Role of Real-World Data in Advancing Value-Based Cancer Care: CK Wang, MD - AJMC",
-      "source": "AJMC",
+      "headline": "The Role of Real-World Data in Advancing Value-Based Cancer Care: CK Wang, MD - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUFvUGJPRjFhZUdBbUNHQS1DY2pNSDd1RXFLbTU2Nk1HN2p5QTlaR0xCVDJKQTJvZ2pNSFp1ZlFkM1B1cUFaNExxYXVJOVlSM3JmNHg2RzhGMFRwQXB3UEJGanhOYTN5bm9DTFFyc1d1RGhCWDlQdEgyalB6djQzMmhhSUhMLVhvRThYZnQxQ0FSX1JwZHB3NC14aWlxTjRYZFNF?oc=5",
-      "category": "News"
+      "category": "Research"
     },
     {
       "date": "2025-06-23",
@@ -2078,27 +2099,6 @@
       "headline": "Real-world evidence has a place in cancer immunotherapy - ESMO Daily Reporter",
       "source": "ESMO Daily Reporter",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWXFCWUZ0b1FWS2xXN0xYT2dUYzdNY0RFZGVyLVNCMEQ0Y0ZRQU1kOHVuRmJMZ1liYzZ1MGRHOEtvNXJ2TUZkN3RoZVdnN3dfakxyMGphcEVZazZLeWU0amV4MjdiS3FZYmZzaWdTcW43MV9heFhId2pDY0VPeGxGSlV1UlV3QlZDZ0JMS2FFNjhWN0pSbUg1ZmJmdk9NRjVfY2h2S2VNNGdxRUMzT3RrZ3ZTTXhMUUpLT2NlbmRSNEU4ejN3cm5UYVJVWQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-12-09",
-      "headline": "How Mayo Clinic is using real-world data to advance precision medicine - Healthcare IT News",
-      "source": "Healthcare IT News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZThtdFdpZGp4S1hiTE1SOWktb2F2bjRyMXlQX0I0TTNYcS1LNjBxb2VwaXFfc1hmbVN0VU92TUMwWGVMYmNZaGRGNGpPdmFnU1VjczR3d3pLXzU3YUN2dTd4eGlfWVl3UjA4dVZRN3B4anpJRWxHZ2l6eWJzVmxNR3FtMnNpcG1rN0pUWEp4RVpqMGt3aTc3aGFkNDBud1pxWlNvcw?oc=5",
-      "category": "Opinion"
-    },
-    {
-      "date": "2024-11-29",
-      "headline": "From Data to Dialogue: Transforming Oncology With Real-World Evidence - AJMC",
-      "source": "AJMC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUJ4Mlptd09SaGtwUjRQY2ZKVHZOR0ZLZGVBSWlRWm9QUmZwcnFuZnA5RnZSOFFGTkJpc2Z2ZGlWV2RzMHpyaTM2Z25iVVdOR2VOVEg1Z0o4Sk9vbmczd3k2cFZrWVBNZkxMekxjdXpOZ1pYWVN0a1hUYXZlSzJBN2NlZWlmQmMwOHRFbVdvd2laYkRoNTUyNlR3?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-10-16",
-      "headline": "Real-World Data on the Course of Idiopathic Pulmonary Fibrosis - AJMC",
-      "source": "AJMC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDZxRjY1SEhtN2tNUDljekl6VEVqRmd2eTMwU0dWVjZHRm9Rd0VZMFhaeklhWHpJVnlQaFU0TjIzMld2cXRxTzdMTlNrbk4tdkRWSWNjZXViYy1yT09HNmRhLUhCanRjdm9KZG1yLVB5aHNTLTBaUmpEVC1DR1Eya2JtTVQwbHlCMC1lTnhuVDZZQQ?oc=5",
       "category": "News"
     }
   ]
