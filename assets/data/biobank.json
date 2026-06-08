@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-07T10:17:06+00:00",
+  "generated": "2026-06-08T12:17:25+00:00",
   "items": [
     {
       "date": "2026-06-05",
@@ -332,7 +332,7 @@
     },
     {
       "date": "2026-04-24",
-      "headline": "Health Records of 500,000 UK Biobank Volunteers Listed Online in China - TechRepublic",
+      "headline": "UK Biobank Data of 500K Listed for Sale in China - TechRepublic",
       "source": "TechRepublic",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iU3JPTFFZVXlVZ056X2ZkbnBoUnhoWm9OTzBGbnR6VExYSi10cjhSVTBqdHJQVHphelNRTE5MSnA2WU45Z3VBZVFlb2dTSklVeFNENVR4aU5iY0Fva1ExTlFkb3U1QW1HNWxUNDNIa3Q0VW1qaWg0Yw?oc=5",
       "category": "News"
@@ -797,6 +797,13 @@
       "headline": "Health data from UK Biobank exposed online - The News International",
       "source": "The News International",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlF1ZEtoVUcxU1QtOUoyNzU2djNjeGxrQTNRUkZLTUpQUVNmNGY3TVRUMzJnUlZZcDc2TDluR21qOGNTQkFmbnlYS2JaQmwtYmJMTEttVkUtdU9UNjVWbkdnN0N3Z0thdEVXZXpZcE9lcmo2eGFCZklDQmNwWjRNUEdZd1Boa1VaQVJFT1BPRE0tQ25kSmIyY0ZyQnNpRjZXU3FOVNIBoAFBVV95cUxNVmlNdlBxQ19NYWZYeWt6TFRzTE1RenVBU29DTWNxVGdDVzhBTUlVVVY3ak8xQXB1aHpCTzlEa3E5ZzJaTTZEN2JLek5YYnMtWUpMbnlVWENwc1RTX0hIU1NEcVZleERTX2l6NVJkRmZSd1ZNbjRBbTNDQlg5Q1Z5NW1BU0R3dlhXZ1gxd21PMHdxM1NqNDV5cVJRNUFqWWcy?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-03-13",
+      "headline": "Development and validation of an ECG-based 10-year risk prediction model for Major Adverse Cardiac and Cerebrovascular Events in UK Biobank - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kNHZvSUJhSlRkSkxNYTZGLUJSbXBtM2VUcnBKYWhRenlDQzdkeVdPNVNfcE9uUlB0ck5rNXllVVdFbTBjM3FaNXN5VUJHcUVsc2hnUlBUSGtwclZlZlVXdWFHTWhnemhqUU9CTUZxU1BISUg3dUNMdzRJSjA?oc=5",
       "category": "News"
     },
     {
@@ -2093,13 +2100,6 @@
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96aWFfSXl5dU9XTDlBc3Y4bnlOQ1dmZGZXMS0zWVQxV1pCZmM3d2tvcnBHc2VrS3lraFk1d0VYZ0FYTDR4RVFUaWxpc3g5Vkl4V0oyQk42Tm45TThZano4?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2023-12-07",
-      "headline": "Diversity and genetic ancestry effects in the Cancer Cohort of the 100,000 Genomes Project - genomicsengland.co.uk",
-      "source": "genomicsengland.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOalp1M2R6dXdnNlZXd095MFpUcFZid1JMRmJTWUZDS1JFTGZNUlpzSW1wVUV5VS01Y2hiRGZESlBCeUZZQmozcjlBejZsTGl6WTh3cDA3MmE4NEhBZndQaTI0bm1kV1h6Um42WXNueG1PV004V25Zem1EQ2R1WllpYVdTOVpkcjg4S3VKTS1YMktjdmdQQ0pERUtfOTVXck5qSGZxTDhyM0hzZE9mTGJiMnphSXdReHVZYnUyUUZxdHZvSVhDc0JubQ?oc=5",
-      "category": "Data/Cohort"
     }
   ]
 }
