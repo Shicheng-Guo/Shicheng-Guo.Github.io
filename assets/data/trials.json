@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T10:24:32+00:00",
+  "generated": "2026-06-10T10:44:51+00:00",
   "trials": [
     {
       "date": "2026-06-09",
@@ -28,6 +28,39 @@
       "headline": "US drug regulator backs Alterity’s pivotal phase III trial - The Australian",
       "source": "The Australian",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdDVZX3dYZU4wUk1kbWRVUzllRE1qc0lzdzkxeUZjenA2QXRJOHV1TkpCY01MREJoUWlhbEdLM3J5S3JlSVg2Zkl5OEo1YVRiaFlHd0I2Ti1GLURrOVU4V1ZsdU9qRjY5WFZMZzBNM0FtVmRtZzF1VGRkcDZQMU5sYWdIQWNoVW5DRnFSR1hJR2VJTlB0bGVieXdhcXBpR1JDdXJSRkQyN2I5dU9vY3plbGhWdFhxTTZ0OFhNeG9mVFVsYjhYRmRlRVltVDdncDlabzI3VnFlNlk0aldmZHJzank4M2FsTVpKZUZZelNXOElVWEptZXRiMk9R0gH_AUFVX3lxTFBiSkJaZHlmMjJvUGRZVjZkRG1zbkxpby1EQjU4WGh4dk42ckZCX0pkYVR1a3dxcXB2MmotQ0tpZDRJS3lXOGJnaGpDQzNrMldwd2hodEdYOTlfT1hPbWl6X2E1SkYyQ1NoTzJaeFRacDZjSUpDZ1hzMHJ2RGstbkRoNG5QaUk4M1M1YnAwQVcwLXhJUXlrVnNjXzVoMFBuck1YM0NOWE1iMk5EWVpsVGlWdGhQeTdBaXA5akhxVXVXeTVkT0dsR3NYaWRQb1RKTXVKRnlobUxCdmZNWXB0V2hnMnJocjN5cFVlNUVzOXE4M2JMbUhBV182UlZJNjEzTQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-09",
+      "headline": "Encouraging trial results for AstraZeneca's new weight-loss pill - Medical Xpress",
+      "source": "Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlE1QUVSTngzR1QtY05tMm1YTlN0MVcyVDVaZ2ZsTzJHRUVGaTlFRmxOc0ZhVWZDbHVIRGtDdjZTVHhOUjZpMkNFakFNaklFRWstVmFJWWNsT1BoZnotRE8tS2twMjVsdXNmbTNqUlJROWI5OG1QeV85aHZJZWZsTVhTYnZwcTQ5?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-09",
+      "headline": "Bial bails after Parkinson’s fail, axing asset over phase 2 miss - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdVZPbGktRE04ODRDRlk4QVBaZGhKMnk2LUxFRF9VOHUxR2JUb09SRHBBb2FjVGNxTnM1ZWFjUVNVcHk3WHBGbHExVjVUV0todEFIR05kRFdGRHdKUmNnZ3ZTblJZS3pBWlpwaG1FNFVXcThrdlZRRTNwUkIzTERXSmRLS2J1Y2ZfQzNzZ0ZnYW5jaTRzLXVEYW1Sdy1Hblk2d2c?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-09",
+      "headline": "MSA drug that slowed decline 48% gets FDA nod for Phase 3 plan - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2RsUXFyNlhPNEpUamgyYThlNzJCUVlnWHY5WlpnZkJjd2ZDZG0yMzItYkhTaDAtdEZxOGxvZTh4cjZmUWZ0Y01WNHFzY2dxbGNXU0h1dVZRVWV3U3FFbnhOLUZhcFBSVS1JSmdWNS1SQnQtLU5vMVI3a1Q5WS1MNFAybXlxVUc5WUJCVUprOUJWY0dEay1pZHA0Q3o2STNxZWhwVmEzRVpJR1hIRzZ3cVpjczNHckVhSWRj?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
@@ -152,6 +185,50 @@
       "outcome": "Success",
       "phase": "Phase 2",
       "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-08",
+      "headline": "[Press release] Gilead and Merck announce positive topline results from two Phase 3 studies evaluating islatravir/lenacapavir, an oral once-weekly HIV treatment - European AIDS Treatment Group",
+      "source": "European AIDS Treatment Group",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTUt3MW1ZWHNZLXl6ZGU4NWJQSV9BQkFSSnE2UnFhdG05Rl91Q2hLZGZyUkhBeldsYVY5aWNJRW80N2M5WjJNa1h5dzJnWW5YN2R2amQyenB5ZjBmWkFQU3hPQUhMLVpxM3UwUTk0TTFYSUhDR1E4aFNiWDRNSGh3N19pTEo0SzhTdnN4MzdXWi0xaXFZS2xPblNFdlVWOEg0MFlqS1p1QTFJU2FSMkduLTJqeFZndU1RX0cwVXNzTkcwamZOMlNnX0N5bzFZaklXOWY4QTFET3JfcU5ERFQyejFuX1pqQnpsdFhMRWlfQk1Ra0swbHhVY1ZZZWJoUWo1d2NJSXpnWUx4c1VWM0NHRDBnaU0yeVU?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-08",
+      "headline": "Dayspring Pharma Announces Positive Topline Results… - inkl",
+      "source": "inkl",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRUlKZEEySXpTdGVWRl9hbzhOZXkwRjZRTE0tX3FTdUdoODQtX3dvWThqQVpEOF9zVzJZVW10SW5jOWxIOHM2amh2ZTYzckZXcTduTU51WlZtZEJuS3VFaUNSa0Y1OWlNVmdnVXFRbVNtSzk2NHZ5djNxVTRmaGVndHlQSzNKa2N4TEZudDNCQi12NFVwa1p6SzdBUDNENE0ybmFOVW5SNW5mZzQ3TVNBSG5tMndtaklscEhFRzBMdDJSRHJGRTJJTXhYN2FQYjBCcklOM3JudVd3WmE5U3dnNF9YS25OZXRHcjExaDFueUZQYi1DYkE?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-08",
+      "headline": "Apitegromab for lean mass preservation during tirzepatide-induced weight loss: a randomized, double-blind, placebo-controlled phase 2 trial - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxb3BqUERCOURxWEM4R1pra2E4Q3JBUC1OYm8yUy1IQ2x1NTNKTmM0N1RsTFdyQzB1TThnNWFYb21UTzRUZEF4azVNMVVzZzI5QXBUUmwzUTdvdmFuc0F3?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-08",
+      "headline": "Post-adjuvant chemotherapy in ctDNA-positive patients with resected colorectal cancer: a randomized phase 3 trial - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hR2Rsb3ROU1g5YVJQMWZlQ3BlRzhPbGlsTXVtUjJ5bDZnNmdCcGhHR29WWFYxeTZxaS1zWlJ1dVpSMDZIX3lLOU1OTDg0cm5sa1NnY0RDc1FfS1h3Sk5Z?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -915,6 +992,17 @@
       "moa": ""
     },
     {
+      "date": "2026-05-26",
+      "headline": "Lilly reports positive interim results from Heart-2 trial of VERVE-102 - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56SFBlMllTQ25UbU13ZzdyY3ZHS3pucEhTYzFqaDlxX0xWcWdGZkc5bGl4Z2JuTWtseEx3WlFkYzB5NnI2RXYxOUtQZkg5RnZKRWJMazFaeWNUOWRTQkJBMl96LU50aG9mc3R1TV90NlJKUWVmU0JQVg?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-05-23",
       "headline": "Tedopi Plus Pembrolizumab Met Primary Endpoint in TEDOVA Ovarian Cancer Trial - The Clinical Trial Vanguard",
       "source": "The Clinical Trial Vanguard",
@@ -1311,6 +1399,17 @@
       "moa": ""
     },
     {
+      "date": "2026-05-16",
+      "headline": "Regeneron melanoma drug trial misses primary endpoint By Investing.com - Investing.com UK",
+      "source": "Investing.com UK",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmpqaklYSTVXRk9YUjBRUDRxRFZBWDFaaWc0VlJXRFJEOFI0QlYyQURSbVN2TTdxOGpzSkREb0tvOWp5YzVPZzkyX1RBNGhOTXdveXlOV0ZmUVVjN2FBcVdPazdDWk5YaVhuWmNWaWxBMEFUZWlaaVVvN3dTRkNzVXc0Qml2RmdPMWh6eW9ycFV2SnI1TGdwblYxMERyREZRSmdHSGRLWXdKa0Z4c0phbU9WbGI?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-05-15",
       "headline": "Favipiravir for Lassa fever: an open-label, randomized controlled phase 2 trial - Nature",
       "source": "Nature",
@@ -1400,8 +1499,8 @@
     },
     {
       "date": "2026-05-12",
-      "headline": "Vemircopan Misses Primary End Point in Phase 2 Trial of Generalized Myasthenia Gravis - Neurology Live",
-      "source": "Neurology Live",
+      "headline": "Vemircopan Misses Primary End Point in Phase 2 Trial of Generalized Myasthenia Gravis - NeurologyLive",
+      "source": "NeurologyLive",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1cxV2o0aVJXaHNjd2xUTVRMVVV4LXZOdjVMNVBNTEtxbnhlUWlROHpyY3NDOFBuYjBza2s0SHdyVlpHRFVQMGNqblUyaGVrMDByaWp6NFNkNm1kdlhuMmsxZ1VqTlNoSllUbUVWNVpkVk5HMUNHaGtPLXdnNmVjaGhYbnBacE1BUTJEeVdaSm5TczJJRG5WQURXV240Qm1GeDJwSGpuSmF3V3dZQ29TOU9QMVo?oc=5",
       "outcome": "Failed",
       "phase": "Phase 2",
@@ -1944,6 +2043,17 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHVfeG9jdVZkUVRyX0ZuNHJIRkV4WnBjeWw0RTdZN0E1bnBxZWFvU1o0MjBlb3UwTHJkWFp3MWYyYU1od0NxOTVuRWZJUVlaNXoyNmk2OXVIU3VrUloyX1RWR2ZvaTh0VTR0RUNRd0Z2S3llUmV2LUFCek41NmRGMzhtNnBkQkk0TmVIVndDc0MtUXQ0dkF6bHZMVHp0SXB6ZEVrczB5aDcyM2pZeENEQmtkanBObVNIdHFhTDVLeTJoaGoxc2tWSFppdnNqSEE4SUREQmRXdThvWWFkZU9MaHln?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2/3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-04-27",
+      "headline": "Intellia Therapeutics Reports Positive Phase 3 Results in - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbUhiRndUNGJCQjhEX1RON1FGLUZJMHRvSmJaNGxIWjlXVlZVZXZLNnhzNlcteWZXT2RMSEdGaWtkZVJOOHQ0Z09kV2ZVRHBoM2phcnJLaFc0dV9EdVRuS3JVczQ3ZVoyU3R5QTAtQklMakJfbW9NOGdoWi0xY3V6Q2MwX0pXUGRWelBZWG9EOU9HQ1cyYTJ4OWhoZDBYc19IYXlOMEJEYXctbjVEdElvREVmaWRjcXJrU0JDUHRMVnYxanFsblR6RE1kNUxyaThsZGVHZldwb29OQWl6U2Rmb0FueVZaNWFxSTdVZWNWaFJWblNDSjVxM25Ib1BWVGFsN3I1VVZkc05DNlFQc3VEOFpSbERfeFJ3bmRTVlF3RUVoZ3dBUlE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -2499,6 +2609,17 @@
       "moa": "Vaccine"
     },
     {
+      "date": "2026-04-01",
+      "headline": "Viridian reports positive results from elegrobart phase 3 trial - PharmaTimes",
+      "source": "PharmaTimes",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZm9ZWFh0ZmpHbTUzNXZUN3ZKQXhjcXRpSTJaZUh2SGx6UVdHaG9WdEtGYW9QV1Q3VWVXbS1kODVjeUYwUVJZS2QxMGREYkZLMHdhLTgtNmh0LTlIZkoxeXl5ZjBSSE5ZUWo4WThkdzQxSFZQaWlFaktpRGRfUFI5a3RwVlRaUDhKQ3ppZTNKTU1wbnIyX2Utag?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-03-31",
       "headline": "Gan & Lee Pharmaceuticals' Once-Weekly Basal Insulin GZR4 Injection Meets Primary Endpoints in Two Pivotal Phase 3 Clinical Trials: SUPER-1 and SUPER-2 - PR Newswire",
       "source": "PR Newswire",
@@ -2627,127 +2748,6 @@
       "outcome": "Readout",
       "phase": "Phase 2",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-28",
-      "headline": "HI-PEITHO trial demonstrates Boston Scientific EKOS™ Endovascular System is superior to standard of care for treatment of acute pulmonary embolism - www.bostonscientific.com",
-      "source": "www.bostonscientific.com",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTGIxVGcxVE1fUWRhTWtUYURTTENvR2hiMlBoTHdnQ0xTYlJOT2duamJNTGIxRVdGbTNLbVhhNW02eHR2cEIyeml0VHg4cWIyWDdMWHJIRjlCVFNkYWgwckRHRDNlbjBYdVVrZGNURUY1d19HNmh2Rlo1OHdGMnZ2d0MtRXljdW9KTGE5c2RmeUU5c2NkRjVrUXZ3WjJyNi1QcHJUXzdDWXZBb1liT0NjbklWSUMtUGlDWlY1YmNtVVozbWtzTVhzQWJNZVZrMHNGN0ExMVFraEJ2RW5KU2UxdFhDMDNITkliMEc2SmFiQ2NyYXozY0NlV010Tnk4azlCV2g4VndySlVWamJHX2M1andmaEQ1Umc0eW14SWVR?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-28",
-      "headline": "Biogen Announces Second Positive Phase 2 Litifilimab Trial in Cutaneous Lupus Erythematosus at 2026 American Academy of Dermatology Annual Meeting, Showing a Significant Reduction in Skin Disease Activity - Biogen",
-      "source": "Biogen",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOEtJc2lhcXJPbG13bVJ6MHZGY0ljVEs5X2d4ZEdOMUFZbHpac0ZZaDJRai1KVWM4NW02WFdXenVBRkVRMHVlc25qNHZldGVMN2RtSm93Qlh0MFZ0aTB1RjJZX2lBdG1DTVJ4ZTdCN19wUWM0M1Raa3NzRGk4SW9LZU1HQ21Mdk9UUFR5Z3dLNnhYZkpYRGEzX1FuUFhpNUx3UnROdFdVNTV0RnRiMm80VkdENnVXc3E3U0Y2YVBCSQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-27",
-      "headline": "Tozorakimab met primary endpoint in both OBERON and TITANIA Phase III trials in patients with COPD - AstraZeneca",
-      "source": "AstraZeneca",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVU16OXVHS3kycm4tU1djVlY2TGZOVldGd2U4akNEMXpjamZwS0laeTBTOWwyYmpTeTJiMkdYRUtzZS16SG9GQkZmSTRMSzVQN0NfWFRvdXNqdmV0UV9XY0c3VXo4WkNmcFhialkyYUpiRmhtdEZ0TTlnclFtUzl4UWh5WnpzNTRxSmNKR2EtaV82T2p0anIzbm5PUGpYUWxvSUZqWGNWVllxbW5rOXJSdW1Cb2VmSEU4dXlYVlFxZGpwWjVHLVp2T1VsMHJFT2tGNmV4aFN3bkJJZF9Ba19nX3h1cDBkdGo2SWpZ?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-27",
-      "headline": "Tozorakimab met primary endpoint in both OBERON and TITANIA Phase III trials in patients with COPD - AstraZeneca",
-      "source": "AstraZeneca",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRzhpVDFqNk1OdzJaRmZNSlNqSnZwbG5kdllSZlV0by1PZU5CS19JTkZxczBla2lJcHo2Q25sS011cEdLM0RSWlBLN2Y0cGpIVy1PTU1YRlFYOXhaUV9ZRjAta01SMXkxOWwxQzZyMXhuUk96VF96dGU2Nl9qOWJwNURNSXhhcktPemlqeHpsTVA1ZUtPRkxURVlyckNrX1hUTDdFbWFheUp4c3RGNEl5RDBuTU1TV045Z3NCcFJxSWhnemRhMWJ6VWhmMWF2UzRtWm85a0NSa0ZOYU9OeDdreHJua2FpWW5CRHJtZkp4UVNKUHV1Z1ZR?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-27",
-      "headline": "Tozorakimab met primary endpoint in both OBERON and TITANIA Phase III trials in patients with COPD - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdlRtUG0wYW5sTjl1dzE3b0xKV3BmYy1adDFuRS1ROWl4TUVfZ0h6dERDRDl6TlRfQzVHRnNiMktadm5GdFBldnAtdzdISU1OM0E2Q01HbGJ5T2dRRTlfMGxLcnd0T3hnOFd6TE43NnNSZ2F4MjNXMWlsVjFmWWxTWFE2UHZzVTUxTWdjUmNPTTJhcVJUdG9HYm8tS2JyTkxvVEJxOHdkR0F6UmJ4YmNweFYwamc1REFtX3VvT192akdfT2lIOGplZ3dpNFhCaHQ3cUlwNVRHLW5rZGFhUzB6a2dEWHdJOUx6dGpz?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-27",
-      "headline": "AstraZeneca stock jumps after surprise trial win for lung disease drug where rivals have failed - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FoNXh0NHBPalJ0SEctM0J6RjdTMEJPZ21XcVhmLWx5cWdZSlRybUtTOTdwSU5EMEl2ZlVUTFpoZnE5cmlybFViX2pLSU9kUldhOVFOaEhFOE9WQ1lUeFYxb1ljQUE4aHp3SU9LekE1cnFUSWhPdUlnSzBzaGFEdUZONk5DSjUtdXJxWHdfY2JkaUZ6cVc40gGcAUFVX3lxTE4zaV9IQndhQ1ZSc0hxWXJSVlMzaDNKWUpOS3FsZ1hyR1FoVGdiVnY2blhFeTRQMC0xSTBIbm9sN05BRjUyTXFVaFZOZkt0c2tWbUNZMm40NGJ6aWhPVDhoOXBia1N5clZaUEhaNmlTaTNlaXBMTVY1Wm9BX1huTkludnV4Sm4yYmp5RDE1Ty1yU1VhUkx4ZHNNZVRleQ?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-26",
-      "headline": "Kodiak Sciences Announces Positive Topline Results in GLOW2, the Second Phase 3 Study in Diabetic Retinopathy, Demonstrating Superiority of Zenkuda™ (tarcocimab tedromer) Over Sham - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPMWc5UVExZmVvTDVWVWZuWmsydHhVcXhUQ1J2VGZsR2lNTUltYWpOSThDQVJKNW1Ed051OWRXeWJqbTh3aUFnQl9Xc29lUk9WcXJvbnAwOXFpZHE2bG5fNEFWV0UxR3oyY211S0d1SXZtLTdqMjJWX2VzcjJzbk1YejQ5XzNUMG05WENpdXBteFdrZHM4b2cydnNuRFFQMFNXd2N5NmJtSzZ1YzBmOTdvMkIxSzJHUTJ2anpwZFBqWUw4RHJoWFpPRmJTM0MyQ1RscmkzcXNCZTE4Nl9NNEZiRko5NTNfVWtFaGE0Nl8tcjRHTTBrd2Y0bElGaU9YU1JNcFo3ZFBNa1Q4NlJrZFJqVnpncGhhSUFZdC1BVUV3WXhjOGpNWnprSHROTTRiLVBRQlh5MHlQQU5yRUo0Q2V1aFFuYlZfMWo0Y0VrY1BvSTY?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-26",
-      "headline": "Novocure Announces Positive Topline Results from Phase 2 PANOVA-4 Clinical Trial of Tumor Treating Fields (TTFields) Therapy for Metastatic Pancreatic Cancer - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUzA4cFE4OFVLaHBNeHJwRnFxQmxNdlJTWWwtUVUwSktpSWdUakxVcGlTWDBkbXhfeFpFQno4eXl3Zi1OWjlvZWtzaUhYTzl1a2twZF9TTnZNTTdSV1YtUDRfanpUM2tLcHhxLVo3QVlkRjl3WFNkVkFnUHNRYzVSRm9uT01WSE5NRVNEdVJoTDJPSnZsUEF5LVZBMTBpNkp3LTk2S0c3dm9nQTBwVUtJQUo3ZDZ6RnhrSW5lSFZSejBYZThENXNyc1h4RmpaSS1XNHFHNjg1V0lXaFc1VGI3eUxaN3FFUlNrTXFZT3hvUlFsZXlNSHdvSlNZOE5ITTVyS3ZyS3pQWGM3aXZ3WU1hVlVQdXZBeHBqX0ZDejY4ZXZWUkY4bGREY3NZODE5RVZHMDNLWmdLdw?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-26",
-      "headline": "Novocure Announces Positive Topline Results from Phase 2 PANOVA-4 Clinical Trial of Tumor Treating Fields (TTFields) Therapy for Metastatic Pancreatic Cancer - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdHZqRUFqRmc0dVBQWXZGWW54YXlDS3R2V2pUeUN5MEdTNHprQkREMF9kb1pEbHNWaVZMRkgzSVJnWFZwVU1td2pkNnZpcTNuTHR2Tk92OXJjVXpaT3UtY2h1YW9MeXQ0WVJ1U2htZnZPeXBMZFZUaC1fVlpPNnJFY1VHbXMzZENwNG5pOXMzM1h2dlI5aEtQckdHb2t5VE84WEVPcWZDTnRteXRtSkNmT2xXaEViYUJpUUgxYk12M3BiM2FUYmNVVkxDNzVmQmZlZzRQVmktaWhnRGh0WTdjM3pIM1pzQkVWaWFlQ0UzRGtNYy13NndCc0JSR0FYc3hUNHJRUTljVFNxV2VCRGNfeC0zNEIzQXQzaC1HQjhuNnU?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-25",
-      "headline": "Pfizer Inc. (PFE) Announces Positive Topline Results From Phase 3 TALAPRO-3 Study of TALZENNA® - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlhDa3BrWjBOY2ZjX3J6VnM2N1FTa2FnSHk3VkRxSUtVUGs0bDI5b2lsaW1lRzRyQlQ0bGZXMTV1bVozMTdIRVE1RHN6b2ZPR2RpWmRxdldTVW12ZHc2NHVjUGJ6TTgzckh6UEdEYy1nbE1nRC02UWFSdm1RcDhKeHVndEVtTFNXT1JNYXpKLU1Wc3JVWmJJdzA4NGJNM2tMcmtmVA?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-03-24",
-      "headline": "Karyopharm's Phase 3 SENTRY Trial in Myelofibrosis Met First Co-Primary Endpoint, Demonstrating Statistically Significant Improvement in Spleen Volume Reduction - Karyopharm",
-      "source": "Karyopharm",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNaENpTi1uUXdmb0VQa05EZlRXclZKZHdZUjAyZ2hfWVVNTFAxMEd3dDBnWFlsTEZqa1ZZMTUzbnFDQ21VLTZoR3VHVnk4NFVKNlZWU1lPS2VGV3BhVkpIVEdMeDFYMU9hSllxeENQamF5UVZpQ01qMUhzOFl6YnZ6aVVQcU9sdHd2SHpHaWkwb2MwcU5nVDk1a3JlZDNXa3VjMWlWYXJYcWcyZGhjemo1MGhINms5T1dKZFIyUzRWYzFhMjUyZW5YZXVhajBuZG5rSng1aE5oZFg4Tk5KRVA2LVhwZVN4S3h3VWc1Z3dfM0I2X2htNWR6VmpjY1dkZ2VUSkF4VHhjanhOekhGVWxfZDJJdklKOUdMSWUzU1NRVl9KOFVUQ1VFZlFDbw?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Statistically significant",
       "target": "",
       "moa": ""
     }
