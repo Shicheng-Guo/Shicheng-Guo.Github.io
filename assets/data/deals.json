@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T10:22:24+00:00",
+  "generated": "2026-06-11T10:57:54+00:00",
   "deals": [
     {
       "date": "2026-06-10",
@@ -10,6 +10,61 @@
       "value": "$1bn",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-10",
+      "headline": "Guard Therapeutics has entered into a conditional agreement for a reverse takeover with Disruptive Pharma - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNDNpNzlfbkJUNzhhcEVUUGpZZTI4anJvemtLYVZiNTFSOURUX3AyU1hMMFZWQm1nUll1ZEZRcGJIalVkcjAxRXNxTkd1SXVrclFFWjd6clJQTWhPaktBTE9sOFNSMHFJTzFKNDgtcmdQd3NJMU1iaWpyLVd6dEwzakpPcGlEU0JzZXdLVlByX3lXcHFGR3Q1b2F1WkxXYml6bUJ3dWV6UWlmOGtVSklTMks2ZHpkOFFGb2JfS2lUeXVaR2g1VU0yN05UTTdkXzhiRFJJWXM3NFJ3dUlKbmcteEhiQmdmVmVwSll1LTZCZzZFUXZNc096QUltaUFqNTN5?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-10",
+      "headline": "SBI Set to Join Global Lenders Backing Sun Pharma's USD 12 Billion Organon Acquisition - Medical Dialogues",
+      "source": "Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnVTc1dVdHJ5R3JjY1pqbTJ4ZmZjTkZBUXZrUlNDSE1QOC01OGYxTXJpaDgwY3h0cXI0czlZeWJCMWcxRWhtNmZZSFRZOGlyd1o1WktSbjdaZWVXeXRuM1lHRXB5dG0ydHJPTEZZbEVWZjdfRk83X2kyMEdZdFZYM2JMMllJZUNzTE5QbE0tMHcwOVBKVGhrcnpkRUVTWWM1VDNlTWdWZmFqdW5XLXZNdlN0aFpxLXBUTVNHMUR2RExmdkkxYkRvTDRLMEs2cHVNRDhDaWtNYkjSAd4BQVVfeXFMTnVCRVZqSURfdnFzQ0RJMkVqSXdHbWxKMm1zbXpYSkZtV245dlFWR3d0dkhmREp1RXVjMnVDcUtQUTE0YWlfdnhsYjJoN3NuaUdMTU1iUmd3c3NnZm1uQWFjTHRYQ205UmtRMUJEN3VNcEI4dDdNZW5BWjJRVFBDRHpCYjB0UWp0bjBBbXJYZDNJYjFYVmtWZkFCdVd1UDRCTVBfZFF3Vl9ZZUdIZW5HZnBBNTQ5T1JNX3prUXZ4U3hMRkdBdGQwQm51SmZZX2RfZG1CNnFBUG1MYi1FU3Nn?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-10",
+      "headline": "Aditxt and Ignite announce merger plans with strategic partner - Pharmaceutical Technology",
+      "source": "Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPeXJGalpQMXZ6UDJCOGQ0TmdkT2JHMVNXcWZ0Z2lFUUtXTEVMbng1LWtEZGtYOGFNOHFCbndyNlpQY2h4eGY5WkJwQWdCYVNsVnFlUEZKeXY3SWE4dVhzUjZCUm5xaGxUVGVJR0dwY09TSUEtcElXcy1RUjlaVEk?oc=5",
+      "type": "Partnership",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-10",
+      "headline": "Novartis and Orionis strike second molecular glue deal for $40M upfront",
+      "source": "",
+      "link": "https://endpoints.news/novartis-and-orionis-strike-second-molecular-glue-deal-for-40m-upfront/",
+      "type": "Deal",
+      "value": "$40M",
+      "area": "",
+      "modality": "Protein degrader",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-10",
+      "headline": "Shattuck raises $75M; Servier inks neuro ASO pact with n-Lorem Foundation",
+      "source": "",
+      "link": "https://endpoints.news/shattuck-raises-75m-servier-inks-neuro-aso-pact-with-n-lorem-foundation/",
+      "type": "Financing",
+      "value": "$75M",
+      "area": "Neurology",
+      "modality": "ASO / oligo",
       "stage": ""
     },
     {
@@ -151,6 +206,39 @@
       "link": "https://www.biopharmadive.com/news/gsk-nuvalent-11B-dollar-acquisition-alk-ros1/822340/",
       "type": "M&A",
       "value": "$11B",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-09",
+      "headline": "GSK boosts cancer pipeline with $11B Nuvalent buyout - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSllqeWZRQjFtY1R1RGRGa0V4QVZlM21lMjAxN1lfeG42WHVtNXdreHVSTjF0VHpjR3pYZkx2RktzRU9ISHpackZhVUw2T2dDMU81aGdQUlhOcDEtS0R0RGFfU1pkdHZJcFpKMmNWRWw5QV82Tm50RTNZT3hfSnM0aVB6MjlmQllPeFpqUXVnTmg?oc=5",
+      "type": "M&A",
+      "value": "$11B",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-09",
+      "headline": "GSK boosts cancer portfolio with $10.6 billion Nuvalent takeover - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHFPVWp5ckQtdGRRYXFDSU1kMER6VlRhaC1tTkNzd0dBbWY5WmxZbFdQaG5fY3VVSFJtLWFvb3BPckoxbndhcGd6ZlNjbEI4akxBNkt0eVZucm1VVUpDSXlobHB5TUoxcTNUd2MzOHdmUE1KV1gwaEZBd05qMEdONkwxMzdlUWdyR3RJajVWMXNVMzd4bG03WlI4Um43V0NCbzJVb29RUzBrNzNQVWVkTUgxbl9TWWJ3YVRJS3VfUnEyWVMteEJEZDZR?oc=5",
+      "type": "M&A",
+      "value": "$10.6 billion",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-09",
+      "headline": "GSK to Buy Nuvalent for $10.6 Billion in Oncology Push - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFllSlpQSHk2bjZwbGlzQkl6aTdhQkVIQUNSVUZSY2xZQUFwRmdXZ0RxQWVfVWt6LWtVclJ4VFpPWGNQU1ljYk5uODJjQmxfOWVJR0lfMk1nQXFEalNDcWRybk9PMld3WDlueFQ2NnVuMldweFJXY2V1ME9WR1c1X1FRMnY3aGVEaEwzS1o4MFYxTGhCUlFfMFlEZVdxUQ?oc=5",
+      "type": "M&A",
+      "value": "$10.6 Billion",
       "area": "Oncology",
       "modality": "",
       "stage": ""
@@ -1235,8 +1323,8 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "Italy’s Angelini Said to Explore Catalyst Pharma Acquisition - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "Italy’s Angelini Said to Explore Catalyst Pharma Acquisition - Bloomberg",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWVmRU0taWdCbGFrZlFocHRNMnBIYUVYT2NTXzFKMzUxZlRqNUVFeDA5d2oyMFQ0TzJqZkJqNEFScF9yU1pNU09TNy1nbUNxQXZKdnpuSkdkWU1CUnRScnU2U3VsYndPQ1pXRkVfb2xYdE1fdVZnVTk5T3FoYWEzaGFzaHc1QU1YSlRZT0hfeHpjMDN4QTVaYzU5bEN5czVBeXlqSkl3TG9MS0VpeDF5Z0xId2U?oc=5",
       "type": "M&A",
       "value": "",
@@ -2658,94 +2746,6 @@
       "source": "Pharmaceutical Technology",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWlPcTBydFp5aXo1LTZtLWZXUXdRLWpMb1dRYlNiRVhJdGxUQlhEUXFsVElrV0RhejBiVTllSW9WeWRFWjVZSE0yZmUwVlkzbEd1MlBCWi1RX3I2SENhM1BZOUFESzBqRFdzN192RnU1eHVqTU5HdzFHTHBEYXlXNHZ4ekRSd2VQbU1XVEhGaUwyT080UkxLM3NaakRSYVRlbzBJYVp0YzZ2WTNNME5vVXlCZU0ySVl1LWs0dXZVNEU1dw?oc=5",
       "type": "M&A",
-      "value": "",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-13",
-      "headline": "CPA Celebrates Member PAI Pharma’s Acquisition of Nivagen Pharmaceuticals - Coalition For A Prosperous America",
-      "source": "Coalition For A Prosperous America",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGJpSlA3Wm1oNHkxUXFHb0wySmpyRUtadjQ1czRMd0VmUTk2S1ZURlVKaXNtcjNBY2pnVUhKc1A2blNMdGZnNW5ETHVLbEVoYjBoQlVmbTJUbTVZSnB1M2JaanBWU2VId1hkaFNqTEwtbWFoYkIxQWZFR2JMZlF6eTl2dWwtLUpYWW1UU0VXaDFrZkl3dGFua2hyT0xNa04yaVhwLXlB?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-13",
-      "headline": "Eli Lilly-Abivax €15 billion takeover rumor stirs markets, but no formal steps confirmed - European Biotechnology Magazine",
-      "source": "European Biotechnology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONDZ2SW42TFlBa0w2Yk9uUTd4WF9mdVppX2lsS2JhVWRRVE9nUVpOUUViQjdSeGVZbU54dVQ5VHZSRmZkQllYN2EwbUdUc2tMb3M0NUl3VW5lX0R2YUpnMGdoUEdIalZlcnVXLUpvU3pKSzNEaEM3cXZWeVhDbHVQNllJT1RjZw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-09",
-      "headline": "A little-known biotech stock has become a prime takeover target after surging nearly 1,700% last year - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHB5dzhQYmdDaXYxN0NZZ0xTdzVYLUtLSFV3bXV6azFhcFZxaFR3ZmpxR1VpV19MRDQ3b2J2T0FQMVRJYUk4ZEhVb2FyX1JSSnJMTzF6QnBXZDRWSEllbFRmSTN3MXdSME5GcGVlVkhsUnZwNC16WE1jZnZ0aVc2S2J2QlVWZXRXbTNqWHZwTXBnRURY0gGaAUFVX3lxTE9vZ0x4MnhiMVpnNFl4cTFyYk9mWnFodEZPWUd0dDRSRktMSk9lcHhBM3pwMEZiTmZpT2FjSG5QOFBEOXNHRFpRdElETU94SDd4c0VMaEFlbUNYeVYyejVyOW9HVGppQ29xMXN5RVVuZ1hkdEtkeFlPelVOenVLU0JFbUU3bk1yb2Uyd2FLNlZPRXZrOTNjdGR4VEE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-08",
-      "headline": "Merck in talks to buy biotech Revolution in up to $32 billion deal, FT reports - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLV9oSWQ2a0VBYTJXMm9lWDI4UllSdzJQc2x5M2c5RHUzbEhRTjZJUzdaOFNWOG9WUjJqVXE5SklvVW5WMGktTE9JMXJBNkk4akxseG5rMV9nYTlHQWpiOG85ZExnLWtlSHVxa2RjQWRiRUlWZHJVRG9rRzNKRVZ1ejE2aUoxVnRFbTN4VEFnOHozdlVONkJHbXVkeWowdXJBTlVSX3pIZWxLWWZYOGNycmFTQXpPSmJ3WVRDZDVZa0tnVm1YQVE?oc=5",
-      "type": "M&A",
-      "value": "$32 billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-08",
-      "headline": "Eli Lilly completes billion-dollar acquisition of US biotech company - medwatch.com",
-      "source": "medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fc25odUdQU2tCZE82dFpnb2xrWUI3bFE4TnRqNlhBeHhjWXJzc3VrZlgyVzNYMHBhT0JZZHdMNFpHOFVEYlVUR2RyWEJndU1wa2pDRzllVTdOUXRRUC1KbFRaSlk5N0psd0Q2YzVIcw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-08",
-      "headline": "GSK inks a model deal in $50M bet on Noetik's cancer AI platform - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaWdQUnU2WS1JYWNOUGF1WXdRVmxaamxrWE56S0VyYjh6b0k5ZnI5WDgzdTZIc1FZSEVrdHNwUHhEa3JEQ0dQbklGX0hxVkt0N2VZN19CaFVUc0E2M0ltMGQxSmVYQ1JFbUd2OTZyblBQanZIbjNYbWlfWEFJYnM3aE9IYV9fREFiM3pEc0RoOXZkdW9yRTdN?oc=5",
-      "type": "Deal",
-      "value": "$50M",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-08",
-      "headline": "Evotec benefits from Dark Blue acquisition by Amgen - European Biotechnology Magazine",
-      "source": "European Biotechnology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFM4dFhDb2tJZnJyQ2daZ1BuaWN4SGdqMmxUTDB2NnBOdV83ekJub1F5X3MtUzJNVjI5aW91NGcwb25jLVVDNDJHcUlFRUVzajExaG9jT2xVWXRXOExSMXh0cEpadk1XYnhuLXhxTHNMODZCUDZIbkp4MW52WVJ0cEFsXzlraTg3MVFvSjlZSVdNUFBLT2d6dHJJSGljZVVu?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-08",
-      "headline": "InduPro Therapeutics inks oncology collaboration with Lilly - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXl2QTJwMW0tbUxGS1poU3NQcFRHVTl5ZFdYNTRkRlBwYi1VVEFuU2VlWVg3QWtqdEFGX2RXWGI1eWNzdWQtY3EwMmRRWi1Xbkc4UWlJZUh5WUxfQUhaM1hkYXAtV2w2MGRneGxLTVpXN1ZEeVlKNFJ2bTF5WUhpb1N2U3IwMGp4dmo1RndfRXNvbnhMc2RDM0dJZDdSMmx4ME5VYU94SQ?oc=5",
-      "type": "Deal",
       "value": "",
       "area": "Oncology",
       "modality": "",
