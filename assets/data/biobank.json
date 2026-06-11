@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-10T11:26:25+00:00",
+  "generated": "2026-06-11T12:00:20+00:00",
   "items": [
     {
       "date": "2026-06-09",
@@ -34,6 +34,13 @@
       "headline": "Asia-Pacific Community: From breakwater to \"biobank\" beneath Sri Lanka's Hambantota Port - Xinhua",
       "source": "Xinhua",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZZXYzdS15R05IWnZqOVk3QlpRZVN6TVVhWG0tQXhBV25UOVdvcjVmMHZRRThDNGsxaWpyMVpPalB3aTU2bFpHekw0dzlYNE1oSzhYek9UQ0V1WEFoa1p1cFJGOXA0ZWprTktmSTQxOHpRRlJMeHlsekN1Zw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-06-08",
+      "headline": "Asia-Pacific Community: From breakwater to \"biobank\" beneath Sri Lanka's Hambantota Port - Xinhua",
+      "source": "Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TcEZLUGJYajZyVFk3d0RJZTFZaDlsZndBd3BsSU9Xa0lKWGlCV1g0ZkF0QWxOMFlBOVp2eDFSelFYQlJNRmo3VTlVRy1tM1pKRU1Gc09tcGNYZ1M0VUhqTk1VOUdFZEplaVF5aVIweDhnSXhJVlc4dkpBMHQ?oc=5",
       "category": "News"
     },
     {
@@ -294,6 +301,13 @@
       "source": "The Business Times",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVVrdkdKSTJqa0IyaTBaZ2lVUTFhY3VVUXhCdDBja2ZzTlVuckxmLTN0dnVvbDNETlc3emZtdnUwTF80a21pTnJTX3lKeWE1WmlYcmVqMTVBMkVVRGt5STEyVWJIaVdRQUNYY3dvZjhyLTRpOEZsTVo5Y1BVRWZhSHZxeHg1Wlg5QnRod2ZQRTV5MGExOWNETkdIVGlGLUxpdnZiMnNOaVdwVFdEYWxN?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-04-28",
+      "headline": "UK Biobank-Based Genetic and Proteomic Network Insights into Metabolic Dysfunction-Associated Steatotic Liver Disease Pathogenesis - National Institutes of Health (.gov)",
+      "source": "National Institutes of Health (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWaVR2VGViSmJGOHVTbm1nMXR2Q3ZOMVFBTDJ2aWU1U2pHVnFGTk1qMmFWTWpoMmdndE9iY0J3Vy12ektwTThpRFUtbVBoX0hINHdV?oc=5",
+      "category": "Technology"
     },
     {
       "date": "2026-04-27",
@@ -2086,20 +2100,6 @@
       "source": "NPR",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTlQd0t1WTM5Z0hPSFlROVdSenRQbGxCbVhraWlMaTdOeURfSFh1a0VXY2IxWDZ6Z3hrbVdldnJCb0lhSWtvalJCVTcwNzdLaHI1Z0pJRU03M3hMOUdTZWJXckFkcW5SR2tTUlFOVkFwdTdXUjZGOXBFWWYwNHFZd1V6M3JxMldyU29FdnhXRlRmemdFMnozUkp3?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2024-03-05",
-      "headline": "Biobank to tell Victoria’s diverse COVID-19 vaccines stories - Doherty Institute",
-      "source": "Doherty Institute",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSERQRnJXMEEzX3lwMXI2NWkyOHl4eXNVNkNNSS1lOFhNUnZ4VVJNMHFPS1I5SkhJZ1UwZi1lLVVQNC1wLXFIdUI2dlUtTXdnT1FTZFdHUXh2azdWcjV5ejhybl8yWFo2Qk1PQUQ1NjR6QzJoeEdUQzR5TU1IcWs3dTZXMlgtVnFMbGZTeG8xQmMtdlRLUnF0RTFuTjRwbFZwWDR3UTlwczY0QQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-02-26",
-      "headline": "Whole-exome sequencing in UK Biobank reveals rare genetic architecture for depression - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpN0VGTkJ0N1BhWlFXTEJjdGFOc0pkYjJwOGpLSXNTSzZaVUhJeWFjamJWYWE4SmE4YU9YWTAxVHp6cVF4dzF1VjN2ZFQ2Z1lCOVlxOUFvWG93THFrMktv?oc=5",
-      "category": "Data/Cohort"
     }
   ]
 }
