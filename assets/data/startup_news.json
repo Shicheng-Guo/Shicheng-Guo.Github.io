@@ -1,13 +1,6 @@
 {
-  "generated": "2026-06-11T12:16:44+00:00",
+  "generated": "2026-06-12T11:50:27+00:00",
   "items": [
-    {
-      "date": "2026-06-09",
-      "headline": "Reid Hoffman Exits Microsoft Board To Focus On AI Drug Discovery Startup - BW Businessworld",
-      "source": "BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzdoOHk3SUI4TjluWTc5NGFKV196d0oxS3Zlanlma2xqTnRDSl9tOUVqbzFRLWJTeFZZbVpsd01USUxGb3dLbktrNC1PeE5pNjZ5aThaTHlvNHRMUWFzaDEweFFaMEVvQUNERzBnMEFNbWVoUXlsRnhwZzJ6blpSYVl6ZGhXNUF0M1Y5dW55eWZTbFIxWk4tejUyVW11MV9wYzUySm5HVXBGYUVtZnFQZjNlc1ZUQjQ?oc=5",
-      "category": "Breakthrough"
-    },
     {
       "date": "2026-06-08",
       "headline": "India: Cancer-focused biotech startup Immuneel Therapeutics raises funding - DealStreetAsia",
@@ -49,6 +42,13 @@
       "source": "Edinburgh Chamber of Commerce",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3AwYVZ6RFVwNzVxOVR2aVQ2NzIxMVhyX1JhVHpONDh6d2lPZUg3X3NidU9nZjdEcnNOc293WGJfeWlORGdlWTV4T3JEalV1dHZjRVJDb0oyd0hDQWNoQnotM2VUMEF1YTN4b0wwVnZ3TWk5Y3YzRzVzV0JsYzZiMEpHRW9zM1ZXSmtUVDJScTZVbzVBY0VVbEZSaEQybkdCMU4zYlB2UVFPVnhGZFBaQWE1RUthbFVXRFV5TmlUdnhJQ0k?oc=5",
       "category": "Launch"
+    },
+    {
+      "date": "2026-06-06",
+      "headline": "Reid Hoffman Exits Microsoft Board To Focus On AI Drug Discovery Startup - BW Businessworld",
+      "source": "BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzdoOHk3SUI4TjluWTc5NGFKV196d0oxS3Zlanlma2xqTnRDSl9tOUVqbzFRLWJTeFZZbVpsd01USUxGb3dLbktrNC1PeE5pNjZ5aThaTHlvNHRMUWFzaDEweFFaMEVvQUNERzBnMEFNbWVoUXlsRnhwZzJ6blpSYVl6ZGhXNUF0M1Y5dW55eWZTbFIxWk4tejUyVW11MV9wYzUySm5HVXBGYUVtZnFQZjNlc1ZUQjQ?oc=5",
+      "category": "Breakthrough"
     },
     {
       "date": "2026-06-06",
@@ -423,17 +423,17 @@
     },
     {
       "date": "2026-05-09",
-      "headline": "Google's Isomorphic Labs seeks $2 billion for AI drug discovery - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOG1kbzlnaHRDbzJkRHJ6VUE3V2JLa0R4RTBmVTJoM0QtRkxZYkRGX3RrcEJsUzhLVWNlWmdEWVRZQTJBV0VPSjFUcEVGSUJJUkd4b1BweDY3b2ZqNGIza05GV3VQLUZfM0ZzazNtbzJnM1c4UlVZTEE4dUVQSUNkNUlBR3hkX0dvZWtyOFlfMTZzVVk?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-09",
       "headline": "Biotech’s new company model; The super poop behind a startup launch; and more - Endpoints News",
       "source": "Endpoints News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFA3alpGWnpmazgtaDdrd1d6ODBSQjZRR25oX0dfTUYxT1dLTDZLVG1HYmtIVmFxa1FHM3AyRERMWXNTQVo1eTJRMGRSTExmbE5WV1l6MkZ2cVoyTllFekdGbzBOSHA5UkVYTlNlU2pVeVBoQzQ2VWdFeUNzYjhXYmVxM0ZKYjZjcElVZXRGcG41d3NXY2J2MEQtaVI1VTA?oc=5",
       "category": "Launch"
+    },
+    {
+      "date": "2026-05-08",
+      "headline": "Google's Isomorphic Labs seeks $2 billion for AI drug discovery - Startup Fortune",
+      "source": "Startup Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOG1kbzlnaHRDbzJkRHJ6VUE3V2JLa0R4RTBmVTJoM0QtRkxZYkRGX3RrcEJsUzhLVWNlWmdEWVRZQTJBV0VPSjFUcEVGSUJJUkd4b1BweDY3b2ZqNGIza05GV3VQLUZfM0ZzazNtbzJnM1c4UlVZTEE4dUVQSUNkNUlBR3hkX0dvZWtyOFlfMTZzVVk?oc=5",
+      "category": "Funding"
     },
     {
       "date": "2026-05-08",
@@ -1683,8 +1683,8 @@
     },
     {
       "date": "2025-12-15",
-      "headline": "Watch AI Drug-Discovery Firm Chai Raises $130 Million Series B - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Watch AI Drug-Discovery Firm Chai Raises $130 Million Series B - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGVIOEM5RDRzaG90aWJlTGoxTi1vS2xUWGNld3ZleENUQ2p4anNKUjd2ZTJLckZVdHRJTzh1NnZMZjc3YkEwMElRdlhqQ3l5Z0NZTWh2OWtSckhsU0txVnNvU2FicWl3UjdCX3NCVTZDdEZUN3hyaUh5SV9SalI3ZEJ6a0U4WkIyREZ0LVFhR0lBOGV4TWtOeFY0Qi02cEhscFJfd3pwYWVrTEQ4VU5v?oc=5",
       "category": "Funding"
     },
