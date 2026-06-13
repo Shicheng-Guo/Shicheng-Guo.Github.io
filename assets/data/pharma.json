@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T11:55:10+00:00",
+  "generated": "2026-06-13T10:41:18+00:00",
   "items": [
     {
       "date": "2026-06-12",
@@ -7,6 +7,13 @@
       "source": "MarketsMojo",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0R1eE5YSVV4dHladVBSZzdCRE51N2hRZlpjakdLV1FsQjBWYXoxQmNGU2ZDMUU1Ynl6WE82XzV6WUl6RTQzd21zakNTZDFadXlIQzlDSy1aV1NtZFF2bVFVUW1qbXNHSlh6T0FHeHVndVNhaGZzUElUT3NvM2lDNHZTNmpxeVd5RTFER2pIXzctYVUzVzJrY2dHZnV2ZXl1cXp2U2FMVlUzdjZBSXpveXlaMWtNc3FhaFdtSG5FZmFpOU8yZUVUWHhn?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-06-12",
+      "headline": "Pharma 4.0: Digital Integration, LIMS, and AI in the Lab - Technology Networks",
+      "source": "Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGppaWlBVGFCVkVuemE1c2FTa2RJbl9IRWJBY3FKZUpLMzZ3Z19PTEkxZHBvM2pMV2RSZUxpYTNpZjNPNW9SWmt6SEgtUzRZSGRBbGREN1YzWGRQeGJrcWw2R3c1bDBDbFVtNGlNRzVmRWxTZ2Npd3RiMWh5MTBuZGk1YjdBdVlTV2F2NkpqOFM3Qno0d0JFbTA2Y3hJRDd6NnpTMHZxVUc3Zw?oc=5",
+      "category": "Technology"
     },
     {
       "date": "2026-06-11",
@@ -37,7 +44,7 @@
       "category": "News"
     },
     {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "headline": "India’s Industrial Automation Boom: How Smart Manufacturing Is Reshaping the Nation’s Future - vocal.media",
       "source": "vocal.media",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUxiTWZnN3hnTW1zcTV6TFZZaGo0MHZCbWdMcVZaMDFPdjJMTTNtSGJGQlZHYi1iT09mUWRQaVc1cWpFN1JrU3Q5ZzVhci1MSnBlVlpDR05TbUFlYVVwUjFybG54MDVLRU8tLVlSd2lLM0dqaEhHSmVaVXliZWFBaFRtYndhZEk2TWl5T3dWbXBWLU9za09ncjY3eFBLdTNzanFKWU1nTTNJM0lZMnJKZWxMVVNxWVhZZHc?oc=5",
@@ -535,8 +542,8 @@
     },
     {
       "date": "2025-01-30",
-      "headline": "HCP marketing’s Pharma 4.0 moment: Leveraging AI for real-time campaign optimisation - pharmaphorum",
-      "source": "pharmaphorum",
+      "headline": "HCP marketing’s Pharma 4.0 moment: Leveraging AI for real-time campaign optimisation - Pharmaphorum",
+      "source": "Pharmaphorum",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUV0MzN5aXdZOG02c19VTEtqWDhMS09TUmgySVA4bWhzcTdrRWw5RTJJb2ZESDczVUYxcGJ6YWxYWk9SV3lqMFhDZVctN3NEaUtBcjBlTHktZVFwclhwd1lWRms0M2FFMWNBSzVhd0dTd1RLZkdpbmlMYnIzVGRvQWtYc25odFZ3Y0FqSXdrOVJJWXNzdXdwTldHcGZTMnpDRnVTSmpyMTRqOWZzX3dsUE10elRSMGNKNHc?oc=5",
       "category": "Technology"
     },
@@ -616,6 +623,13 @@
       "source": "CHEManager",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wQ2ZaaTgzc3hiY1NvZTFlMHFfbElGNVlENEp6TTV5U0FMa0NXeU5RbTRWVGNUWC1kWHNjLXIyUXBUR1gyRjNndEI4V21mbmItTWF5aU1NbHRTclhaZXBMMjg0eW95cEFTc0wwa24tMGZncWNibDZr?oc=5",
       "category": "Technology"
+    },
+    {
+      "date": "2024-08-27",
+      "headline": "Pharma 4.0: the importance of data integrity - EUbusiness.com",
+      "source": "EUbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mUHpobkVDSzlsWUlTam1hRjdEZ3RjN3FPZk42clFJdXR2NjNQODhXc3NvQldVQUVKVWpicGk1OHA5Yi03QjYwd0tRejh0WVRGXzlzNE01ektnWVhPbkExRDlpM1dDQnF5dVFV?oc=5",
+      "category": "Regulatory"
     },
     {
       "date": "2024-08-14",
