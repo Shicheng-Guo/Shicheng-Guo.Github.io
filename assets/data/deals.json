@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T10:39:35+00:00",
+  "generated": "2026-06-13T09:33:13+00:00",
   "deals": [
     {
       "date": "2026-06-12",
@@ -7,6 +7,50 @@
       "source": "koreabiomed.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBob1lHYTh3Sm9KWjlZRUItZHNqZTVjZ21EWlJweXFpUzB6Q0xaSHhOTE5TMHl6d3VDUTBpTXhVQ2pxUWJzMVBJRlYwZU40U2ZDN0NuX2NoQ3ZzRTVRQjF6Z1M3elpxOWZiNXJ0dDln0gFyQVVfeXFMTVhmRlNxZHVRMVVPR3hlUkVTSHR6dzdGUjIzOTEwb1pGeXlHQkhWSnhIRWREaDM5T3ZsSEpjTmdJWDAtLUdCMGpIUXhiY2NZT2RsYjJHZnVKSWQzTkZRYXZBVWV3aGlYN0hjanJ0UTN3b3FR?oc=5",
       "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-12",
+      "headline": "Otsuka Completes Transcend Therapeutics Acquisition, Advancing Next-Gen Neuropsychiatric Treatments - Contract Pharma",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQnNxV2NmNDlDclFTWC1HRVpvRWpwR1JxVHpSVzg3bGJ5bFEyT0NXQmVYY2FZRUdRQjRid01YWXFsS0RHUjhOZnFKTTNuYjdDa3RBRFFwanpYTW05bHJKenAxaDY2dzg2YW45OHNiSkozV243Qllsd3pzM1FJejA0WU1nbFpsbFZUZlE4VFRjdlFVcU1Idy1WUlprVUs3WWVBblpvbU5Lbk9ValVfU0VpVDA3VzRWbXFiaUtNbGhmQTBSWUFLMHBmd05Gd2J0UkVsOUFFREh2UjBrYVpE?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-12",
+      "headline": "Italian company completes $1.9B acquisition of Framingham pharma firm - Worcester Business Journal",
+      "source": "Worcester Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUxWQmowLTBoV0lUMTNrWGJBRU8xYWxrWVAwcnBmTE9sbmRrTVRVMzR3dlZGeGJ2Qm0ybjMyZGNaVHc0WWhiamxHeGR4RE1OWlRtNmZONEFhZjNuVW00NVFRZWd5aHZDT2dET0JWOGdmTFJxaUYxYWgwNzZqN1RPbzdMdlh6T2VSR0xQRTNZUjlDdUptckdtdnFFeWhCRXFT?oc=5",
+      "type": "M&A",
+      "value": "$1.9B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-12",
+      "headline": "Adial broadens pipeline with Azora acquisition and up to $64 million financing - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMG9OT3BUYlVTLUwtc3dmWDBjdGhQcWRCUkJZWVV2Tks1YmFrQjNvTGxpV0RuV0Q0WDZjUExhMElzZFJwc3E4VlFNZ2ZfQzNNcjltWmlZNXdsdXV1a1BaWExWV3pkWmFGVWRQVmhLeUsxTFVOYTN2c3BvTWhXalc3ejVKblVZQXBqZWtCYldmcTRmWkx5a25fSElGUllEemdja0NGZG05OGFoWDBLcTQyS1RiUGNienJhUDJjUllRdw?oc=5",
+      "type": "M&A",
+      "value": "$64 million",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-12",
+      "headline": "Cosmos Health (COSM) Plans Acquisition of Doc Pharma - GuruFocus",
+      "source": "GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHJGSmN5akxOVEVUclBnNnpvdzFjeXoxLWxFN3RnNGdXenFlWkp6TUFSNkhOY1dDbG01aDlBcUlqWW93Mlc3Tkg4dDBBV3NYcUw4dHpicDVXOUI4Mm9EbkxYeUZkWVp1NDlWVmpYbnpKNEpvWVUyZDdkanRTN0dKM0taUFlScnZwQ25QeUtBejF0Z2dRUHA5TjVGeTVfRl93REtv?oc=5",
+      "type": "M&A",
       "value": "",
       "area": "",
       "modality": "",
@@ -90,6 +134,17 @@
       "stage": ""
     },
     {
+      "date": "2026-06-11",
+      "headline": "60 Degrees Pharmaceuticals Signs Exclusive Patent License - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQaWV1QTFnZTlBc1VYeTdKcmRlZGdfcmRVZ05DUTBJRnFUQTYyWlFGaU83YnlCTmZLWU8yOERER19HYm5tQmY4SUlaMlRnNWtoT01ma21Ua1hhZjJmaFhVX0NlMGF3SlFSSmxkMEk5MXpldEpOTFRibFdhWnQ5M2ZmM3FqOFR6NjZ4anAyeVRldVJCbEo3djV5RUNMci1hRmYtTWQyU0otR2dIUG1hNTVpMkkzREdGdXpnM0FhNlFXdGdiNHR6UXFvN21haDYtdXlFZ0I1YWlGaVp6dGNhQ1BmRTZjcjF5dmZqLXFoWUIwMFlENmt0T0tXUGFQbGxIYkI0TFpwMlRBVFMwd1UyMTNXTGxBY2RnRGhDcjZwRUM5TXJGZTRKdGx3cXBTeG44R2MxNDFJZ2FXSS1oeWRmWmxrdFFSNWIxTkUxcDVLSG1DUzdyeGJqVVJsdzJCbVN0Uk14MU9wUThIUkl4Mlk?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-06-10",
       "headline": "J&J sets DACs on fire with $1bn acquisition of Firefly Bio - BioXconomy",
       "source": "BioXconomy",
@@ -163,6 +218,17 @@
       "type": "M&A",
       "value": "$9 billion",
       "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-10",
+      "headline": "Chemist Warehouse owner eyes huge international takeover: 'No certainty' - Yahoo Finance Australia",
+      "source": "Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0RrcUZwOURqUEFkOGZUTWlHMFhRbmoxeWgwcWlRRjZvZWRTNm5QMmJqSVlBQWZCR0dsZE1sYnFMdDh0cWFDVjFDWW9SbGFRUnpySnJlZTVITWFxdUhxdldEcEtqaVVCakhmR24xUllocTNCR25mcFcxM1N1YVlDRHRQTHc2YktGTjYtSlZ2elhkQ0hqLV8xcTBMX1FoSEFOMHRNaWRJS05Ra2d4azdBT240WXpMMTB3U2c?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -332,6 +398,17 @@
       "stage": ""
     },
     {
+      "date": "2026-06-09",
+      "headline": "GSK makes biggest ever acquisition with $10.6bn for US cancer drug firm - The Guardian",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFJGTVdyUngyZFR2UEZCamx2d253S0NrckZNMUJncUxHM253SVgtQ1BWNDZRV21LUHRqTlp2azg3dE9FQm50aXgtUzdidXRFMXhaYUdTNFV1eGRra3ZTeUVvMnZ4R1pKSER5ZG9MSlhsOEVtbzA0NG54R1M4cEo4NDFyb3BONmUwbVhQdlFBczZfUldUWHppY1BRWXYxd0NZckw4?oc=5",
+      "type": "M&A",
+      "value": "$10.6bn",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-06-08",
       "headline": "BRIEF—Incyte eyeing acquisition of Star Therapeutics - The Pharma Letter",
       "source": "The Pharma Letter",
@@ -432,22 +509,22 @@
     },
     {
       "date": "2026-06-05",
-      "headline": "Assessing Gerresheimer (XTRA:GXI) Valuation After Volatile Share Moves And The Bormioli Pharma Acquisition - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnZCMHhtUjNOcG40eE1yeWVuME1tZUVJY3FtSVgzTlVNTGFDSE5EMVBRTXByOWpiYWZMUEliMVhXeUZIN2VUdnFGUENGMzNlaERQNFduVFR1Mm5oRWE4ZEdnSEE4TFE3WFZhNmpwaUVNbEtUdTBYdE5IQkZ5Z1FmZUtlYTFBLTMxZ2JNSXU4UXBzb25rdmt0Z3l1WTRZb04xM0lteDVFMzdqQQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-05",
       "headline": "Gilead, Merck, Eli Lilly lead $106B biopharma takeover wave in 2026 - MSN",
       "source": "MSN",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajl1WktQNWhwMnRWaGJwTll5S1o1S2VpSEViTFZjTzRCb2k0aXhuMm1kaHpGR2FWZWNwM090NWNJRW11RWNUejRKUkQzajdMS1VzQ21ma3ZackE1YlptRmpJUW52MWdRU29SUGkyZFdRQmdDdkZEa19Ra2RuQ0tMQVRnVkZnTWlDOHBYbENLWTZUeGVGelZpc05hMmxjQkdqUGphNHVPVlVtWHZfaTIwOHpIa292YmxxYkhCTGU4ZmhzR3lHUkdERHdYZzVCMlF1NXhBSXloMDcwVlNP?oc=5",
       "type": "M&A",
       "value": "$106B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-04",
+      "headline": "Assessing Gerresheimer (XTRA:GXI) Valuation After Volatile Share Moves And The Bormioli Pharma Acquisition - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnZCMHhtUjNOcG40eE1yeWVuME1tZUVJY3FtSVgzTlVNTGFDSE5EMVBRTXByOWpiYWZMUEliMVhXeUZIN2VUdnFGUENGMzNlaERQNFduVFR1Mm5oRWE4ZEdnSEE4TFE3WFZhNmpwaUVNbEtUdTBYdE5IQkZ5Z1FmZUtlYTFBLTMxZ2JNSXU4UXBzb25rdmt0Z3l1WTRZb04xM0lteDVFMzdqQQ?oc=5",
+      "type": "M&A",
+      "value": "",
       "area": "",
       "modality": "",
       "stage": ""
@@ -871,6 +948,17 @@
       "stage": ""
     },
     {
+      "date": "2026-05-26",
+      "headline": "YKVN, Allens drive USD227m Vietnam pharma giant acquisition - Law.asia",
+      "source": "Law.asia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGlnUjBKTmpoQUgtS3M1alI5SmNsdzZpX1VkQ0NUWmMtdlB1YVFBbGN4bGFObmkxOFltcjlXaVkwbUE1cWtLV3JYYzdwRThXc1JNbjhMWUc1bVdTRFpiMExNdm5uNW1kNkpJZXNCSlctOHBnQnNRRE4zalVvRHpCZVU4Vk9taW9ybDVMTw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-05-25",
       "headline": "Telomir Pharmaceuticals Completes Acquisition of TELI Pharmaceuticals, Securing Global Rights to Telomir-1 (Telomir-Zn) - ACCESS Newswire",
       "source": "ACCESS Newswire",
@@ -1190,6 +1278,17 @@
       "stage": ""
     },
     {
+      "date": "2026-05-07",
+      "headline": "Merck & Co Completes $5.3-Bn Acquisition of Terns Pharmaceuticals - DCAT Value Chain Insights",
+      "source": "DCAT Value Chain Insights",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmlvSmhwcEtuX21tazlvSlBidjhsMXFOYkRMbjB4aHk5RXZKUnNNeU1qQ1JLZVRpam9FNEZJS2pMWlZUV29qYlJwMTZ4WlI1d1FESXo1V25zU0MtaGwtVDc2OGx0dzNOR0hSMk53U1BtZWFWRXhrZm1namVPNUJCQ29tanR6aG1KdVJodjQxMlI3QXNwSV9xUXNOdVlTNTN6RDZnak9pTzg?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-05-05",
       "headline": "Merck completes $6.7B Terns acquisition - NJBIZ",
       "source": "NJBIZ",
@@ -1422,8 +1521,8 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "Italy’s Angelini Said to Explore Catalyst Pharma Acquisition - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Italy’s Angelini Said to Explore Catalyst Pharma Acquisition - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWVmRU0taWdCbGFrZlFocHRNMnBIYUVYT2NTXzFKMzUxZlRqNUVFeDA5d2oyMFQ0TzJqZkJqNEFScF9yU1pNU09TNy1nbUNxQXZKdnpuSkdkWU1CUnRScnU2U3VsYndPQ1pXRkVfb2xYdE1fdVZnVTk5T3FoYWEzaGFzaHc1QU1YSlRZT0hfeHpjMDN4QTVaYzU5bEN5czVBeXlqSkl3TG9MS0VpeDF5Z0xId2U?oc=5",
       "type": "M&A",
       "value": "",
@@ -2092,7 +2191,7 @@
       "stage": ""
     },
     {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "headline": "Merck nears $6 billion acquisition of Terns Pharma to boost cancer portfolio, FT reports - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHNPQVNLbVlNTWdRcF9KZWx5eW5MLVdra3Q4NGZFY2xGUWN1T3h5UFFOMXd5WTFsY2FOVVFYbnNXdzlDWUFfSHRYcVh0Y0Z2MnUwUzJxd19zaXl5ejlERzQ4ektPeEN0dFRlTjBtNDRTb0lVLWZLYzZJRk9PaHNPTHVGeXNPRkdfR0pjam02NGhQUkNqclBDRW0tY2RVN183dlpzcWVtTVBxZkUxMV9lalVOaVNoQ2JxcmlWdXRSVmE0aEI0djNwdlMzM2hWZVRV?oc=5",
@@ -2389,6 +2488,17 @@
       "stage": ""
     },
     {
+      "date": "2026-03-02",
+      "headline": "VERAXA Biotech Shareholders Approve Merger and Issuance of New Shares to Voyager Acquisition Corp. - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVR5cnNiTTdmUmVUXzlpaWVoVTRkemlja2JKZWcwdlczZ0I3clMzMTJyZWVrRHlZQWRvU2JpZ2VIYnBXUU0wekJyQ3lvYy1TOHZRVTNtZkZDaEV4ZTV4Y3RhT2U5QlBQclVGeE5lX0p5VXFsYkhPaGZTeC05T091ZHM3M2pKYkxDYkhOVElFYmZsZw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-03-01",
       "headline": "February M&A deals: Boston PE firms lead $9.2B acquisition deal - The Business Journals",
       "source": "The Business Journals",
@@ -2396,17 +2506,6 @@
       "type": "M&A",
       "value": "$9.2B",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-01",
-      "headline": "VERAXA Biotech Shareholders Approve Merger and Issuance of New Shares to Voyager Acquisition Corp. - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVR5cnNiTTdmUmVUXzlpaWVoVTRkemlja2JKZWcwdlczZ0I3clMzMTJyZWVrRHlZQWRvU2JpZ2VIYnBXUU0wekJyQ3lvYy1TOHZRVTNtZkZDaEV4ZTV4Y3RhT2U5QlBQclVGeE5lX0p5VXFsYkhPaGZTeC05T091ZHM3M2pKYkxDYkhOVElFYmZsZw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -2648,105 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGJLOGdubUVhZGIycjBqajFCR01QSDVPd3pSWnJIVzc0VHNpNUs1NVQ4Yk5Vem5jQi05dC1ScmRvemFjb3NGdFdqOTI0UnAyZ21DajFpdzJxbzRhb1FVUGdseTVfdWFPOHlidGdESnBYQjhrT3hBcTdwTEJyZ0FEM3EzSDAwb1diRFdTS2Nkai1BMWR0amJISUh2c01JUQ?oc=5",
       "type": "Partnership",
       "value": "$8.5 Billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-02-03",
-      "headline": "Cycle Pharmaceuticals Completes Acquisition of Applied Therapeutics - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmdTeUJTa0Y4ZXpzN2s1OWNyeW9nb3NidXlXby01T0NzMDljaXhUUE1Yb0Y3cGFWcHR1b3J3eUY0VHBYWlpCSmFqenduektLUENILUdNRmVreVF3aXB0bndtaFpyX1Y4RTdWZnM3VzAxME95WFFwamNQUjNlNXFkUVhJcnp3YjZQa0hmVC1iaC1XdGhCM0s2S3pYZDJZUQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-02-03",
-      "headline": "Cycle Pharmaceuticals Completes Acquisition of Applied Therapeutics - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSVo2S2NrejZMeWpvQ0tGZnhDVmFmRlVfbVVQWUx2MkZ3NjdSOUtteUk5aDBFODB2X01Ja2hxYzByOVBIVTVXOGkxdVV4alRMZ0pRUFI3UlpvLU5ZMm9vZ1o2MnRrVmo5TnpsT3h2Z0x1SmJPc3pnbmRFMGFlMUE0ekh2RmpPLURZVUhyb0pueG90bkhQOTlZdmZOZUw1OG5icDNzQmQyYkU5a2V4dU5DQjlzZmhGSzFCdXZMSWNkaEUxUQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-31",
-      "headline": "Want to remain disciplined with acquisition bets: Sun Pharma Executive Chairman - ETPharma.com",
-      "source": "ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSm5fNThIc194SkFBQmJXYlBRV1FLYkJTbzlKRElSU3h2d1A2elRLei1TX0lJWmtfUVNLcmwwWnpuWXhpeFFJR0Q0ZW9OVDY3bzdrb2JHYmdlRFNQUFV6OUtIRVhrc0ZrbzBMNWdXanBqb3l3LTRnaF84bUR1XzBsQWdlMTBZckdzbHgzOFhQN3l1M2FnR0JUc3JpNmw3M0t6anVWYjZPcUR4aDQyWURGR1Q4UlFib21TbW92QmY3QmVrQXFLRXpEcWZLeWVuWWNkUHc5RUs4YllQbmEtN0ozdXBMeGRsbnhI0gHuAUFVX3lxTE1wR05YcFAtWExLRkw1VHlLZHp6U0ZDRktLWGVSODZRUlRMQmtSMnllUHlHR01iQXdDWWJtWlJLeDdsR2F3eHliQlExRENXbE5wUmZaTElLeDVEMjVzb0FjSnpUUnZ0NHVDcDFXSHJ0U0N5bWVoeXlVd2ZHV1lveUxiT1JaRWJCRnozVVJnUXFvZ0p1akp3bzkwQjlQaXZzMThJWk5paURqajdVVlFMYjh2X2g4NEdUa3RPV0ZOYWllcUlLZDhIOFVLUmdWZjdMTXVnb3VPV1I0SFMyaW5GTFNyMmlpdTdLT2VJZm05UUE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-30",
-      "headline": "AstraZeneca leans into obesity, striking wide-ranging alliance with China’s CSPC - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDRaOVJJU05sYWE3Rzg4U0JxV0FTZEMwWUR6NktFaGQ1UVpMczBYc3hncDJqekMxZHR0bW5WdDRJQURwc3B3dmhnRi1yMEwtX3RUUS1xUGV4NHVTTUJOUkdFa2l5cTFnWVJtcXBCZ3lVSENxZ2pxVG1ibENyMzZrUWNNNlUtWFFF?oc=5",
-      "type": "Partnership",
-      "value": "",
-      "area": "Metabolic",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-29",
-      "headline": "Repertoire adds Lilly to range of Big Pharma partners in autoimmune deal worth up to $1.9B - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcHA1V0dJMTMybjBMRW1xOXlBNlJqdzMwQVY4RWdDZG5kR25fYXoxcHJwVmhCQ3BlVTE1TmM5WkdyV3luaGh4NFZxZ2NyWjI2dl8wNmwyclZwRWM0eGFYY1J4cFVKYkRneVB3T3V5MXlOSmRyekJnZjhBcEt6bndMYkxhYVpacVJnQzg2Qkx4THA4OUF6QWc4SlFFcWRBbE94SmlHUDJ1TkRrVzlFbDhYLTFiMmwzZElaUnRwS0pB?oc=5",
-      "type": "Deal",
-      "value": "$1.9B",
-      "area": "Immunology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-29",
-      "headline": "Lilly to partner with Cambridge biotech to fight autoimmune diseases in $85 million deal - The Boston Globe",
-      "source": "The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOREMzY0p5azhobV9USS1pUGczajFKVDBwTzROaHd2S3JvMVJINUZPNW9ONVZ2aWh1aktSc25sQ0VVNGphQkx3STh0VUhmLVdIeGdYdWxFRzVPSkhjYjVCS0VveW1NT012RkNPZmZWRzFFYkU2LVFnR2J5bGtlZ3RseXZfUDAxZWQxSHZlU2Z2YXM?oc=5",
-      "type": "Partnership",
-      "value": "$85 million",
-      "area": "Immunology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-28",
-      "headline": "Halozyme catches M&A wave to snap up Surf Bio in delivery tech deal worth up to $400M - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmR6UmhFcV8xeFNEM3hxTDFPQnZydjRxV0Q1ZnRKNVhkSjNBRDFRQkJ1MnBTV0xfZnY4VFZLT2xRZDdkR0JGRmdMUEJ4NHVsR081blBVZnA3aXBBeXZ1NnhoeWFDS2hsbGlkVzUtb3UwMi1Cdkp2czhUNThseVplblhNTjF6dm96MExWRE1JNEJHY1pBS2UzcUxZelcxRWhjcjdsUGJGOA?oc=5",
-      "type": "Deal",
-      "value": "$400M",
-      "area": "Hepatology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-26",
-      "headline": "The Platform Group: Intended Acquisition of the AEP Pharma Group with EUR 1 Billion in Profitable Revenue and a New Independent Business Segment - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQSVVuSWxNNllBZVhxZXp1M1BlRV9fVl9jLXIyNkNSdFdUaWNuSFRfMEhOXzVQSVBVLUNNcVJzUjkyRV81N3lmUWpldjJubXR6cE11ZU9FV0p5RXFxMi1qd3Jiblc0MUpxU2dqWVVpejMxM3ZON2d0UlJrQk4yMFhnQndsQzRWVWRwbnRPYTM4anhwd3RkWGN0ZU9fc1YzaG1LQjRzZUJKejJDbWlVQjJwQTBQdVZOc2V5VDFxaUVnb0N0REJEazVjSTRWUUVFX3hsUGFGVUI5ejNYR0FzR3hzYm1jTFZEQno0VFdrTVhUZHRETVM5Sy1rOWkwVUN3RmpOV2ZsbGx5SVJDMXpkejg1Qy1GYkJockVfdzFkeGJjMmdQdjA?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-01-26",
-      "headline": "Pharma industry's biggest acquisition in two years could collapse - medwatch.com",
-      "source": "medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcnZ5RF84UVE4cFBTYkFWdWh6bDhIcWhILTg5ZkFxUVp2NjNJNjYtUXEyTU1pVUpNOFYxOG9qSHB0dlV1WmV4MXkzMUxOV0pjd3ZQVmY5MjFpYnE1ZU05QjlIbnZGRWpPcUM4MV82cw?oc=5",
-      "type": "M&A",
-      "value": "",
       "area": "",
       "modality": "",
       "stage": ""
