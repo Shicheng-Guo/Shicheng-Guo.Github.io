@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T10:35:54+00:00",
+  "generated": "2026-06-14T10:53:23+00:00",
   "items": [
     {
       "date": "2026-06-12",
@@ -7,6 +7,13 @@
       "source": "Crunchbase News",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1RnUDdjbFFwbHZyQkRNeHF5cDhWZXUyY3hDQVUtOXJlaTJQZzlmYUVxaDlaOUd3RlNvVVYyNm52eXV0MjhRSzF4QkFXSkN6UmFLZlNBZ3A3c2RxSWRBODVzbzd2bWRCeTltQTl3cW91MlhvVlBhRzlXLTU2a3IweTlkSGpjS0dHcUplNUhBN0VHRlFtQnByQll6cWI?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-06-11",
+      "headline": "Three Swiss biotech companies secure grants - Startupticker.",
+      "source": "Startupticker.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTk1QeWhGZXVWcHV2N0V6MlpvT0dpc3ZTM05Oa056SWZpSVRLNEFzdkxTUlhvVnJJWGlLZjRUOW1kSUpQYWpTajlsVXpSOERBcy1tUThFOE9WOUVDRk5ZQ3dDOXJsclF1ekVVVkJBc0VyOTNYSVNHTEV6WHNkUjgtNXZYMkxQZ1U?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-06-08",
@@ -266,6 +273,13 @@
       "source": "YourStory.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUV9xYld4dGZiR0RaaGtkRW5fVVdNVnY1UE9jT09FY0c2ckRROVlUcS16cldGeDhiakhUSnNQZTdVZFIybVFQVGUxQk1Ybm0zbWVJdk05T2VyUjhBbVZtYzQyb2Z4MTdLU3dPRVlyNFZGU1dIVWxZd1Y0Rmx2emlKZlpCS0ZhbFFtb0dTR1dKTC03NXQteWJ5c0lhckQ?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-05-25",
+      "headline": "Biotech Startup StrainX Bags $13 Mn To Manufacture Alternative Proteins - Inc42",
+      "source": "Inc42",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMHFzdkxLaGhvSXlnSGdDTTBHaEZIVXNIWl9ONGRoWkEwR0FacHNHSW9hV25uX1J5NUxrbVFKMFdVVTlKYXJMQ0NzVkZBU3dSSnI3QTlBOGQwaHM3TncyR1BqelRQTE9Ec202eHQ1MHd5bWw4dktFcHBaMHRVbzdHRTJ5Y3ZhMUtyYVk1b2U0RG11NFNVX0J2X3B3?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-05-23",
@@ -983,8 +997,8 @@
     },
     {
       "date": "2026-03-12",
-      "headline": "AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUY4NDVXaVN1SUpMRDFFYkpEcGN2alI1ZGR1ekpZTVdsTmh4RmRUdUo4VmRoek1oQzhDcEJmUkRBUl9fT0dLMDdzSXpzVWstTUtCX3d0TkFoRVh6RjdDcnhwcWZUZ3hkSHlvS0tFSFVLajQ1MEQzZUdaMEFzc3pTRGg3UHlHRmIzWnBEM1JRTV8weVYxbmdRMEVnazV2WWt6WUwyNFBveXFLUjVXRVRtNl9oSW85NnBjVW5R?oc=5",
       "category": "Breakthrough"
     },
@@ -1445,8 +1459,8 @@
     },
     {
       "date": "2026-01-13",
-      "headline": "Proxima Raises $80 Million for AI Drug Discovery From DCVC, Nvidia - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Proxima Raises $80 Million for AI Drug Discovery From DCVC, Nvidia - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzFrNU1JU1ZqVlg5aWRXemJKV1kzQWlkaGNvbHFlWm5GNEl0TE9jRkhNQVNseENvWERkZW5RTG0zaW5pUFRfWW92MEpqbmhTbW9rdGN1MGZfbTlyNzQ5ak1TeWNTa0RfQ2t2SjNKbWNhM3dRczhxd1B2UWZzdDdTemVnQjFSWVJZV3dQckV1THR2TUxELTlvSDhXZU1TQmEzSmJsOE5WY2QzSFNiV3hERWIzX1JJZw?oc=5",
       "category": "Funding"
     },
@@ -1736,20 +1750,6 @@
       "source": "Biz New Orleans",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVBwMENmOG9sQTAzWVJEZ2Fkb3NZOGpQYVFvblUxSHR2QzREYUVmR3FYck9YRTBLZTVITC1GQ0VPNXlQQzNqTVJlV1NaUDBHeDhVdlpZVVM4ZHpoTU10UzRVajFTdVBzd3JqaTFwWGdhczM0SWlUZE5QblBHbC1CTU9EejFkV19z?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2025-12-11",
-      "headline": "Medra, a developer of AI-powered lab robots and scientists to advance drug discovery, raises $52M - SiliconANGLE",
-      "source": "SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1FOZkpucnJaeEdETkFLU2pTdjBGSEpaS1lPamdzZW1IZUFKS0JpODFZTjBlWUtIZDVoMkhkQ3YwWTdhckJPYVduNDlsWU1LQkc2eHc3VDJBejVFaXRwcUdzTlJEZkNoN3R2eWMwd0g5RUpyMHlXQVA2ZW40c09sRndqOFQzNDVhMktsaE0tSzlDS2hYT1JNdDJHN3lXdy1KMkhtQWZJdF9nangwOUVGTkJoUmk4dHl2NWNJ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2025-12-10",
-      "headline": "A Roivant spinout bets on AI-designed drugs for immune conditions - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDBBMzUtT1lhdHFlckc5Z0hIYV85OFlUSDZKel93Uy1XWi1NZVBLQU1EU0ZFTEhnZVBha3NEWV9CN1IwbnMzNzlqTnB2UGVMbmw5WU0tME43MjdFakF5MVRvWmt4R0ZWekg3NDgtWXFwVXk4OXkwcXQwZG1yTnQyWEdDUENJUkZXMUNtQWQxNmxWN0lHWFhNV0tyUW1PcjJaVXFBQzJRWVc?oc=5",
-      "category": "Launch"
     }
   ]
 }
