@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T10:17:17+00:00",
+  "generated": "2026-06-14T10:40:19+00:00",
   "items": [
     {
       "date": "2026-06-12",
@@ -142,10 +142,24 @@
       "category": "Research"
     },
     {
+      "date": "2026-05-27",
+      "headline": "Loneliness and Social Isolation as Predictors of Morbidity and Mortality in Middle-Aged and Older Adults: Evidence from the UK Biobank - Vera Health",
+      "source": "Vera Health",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbk5BNFg4Zndzb0hqRlA3RlZtSjNQbkp5Tmsxa1ZzWWR1dWFLZm05Z3VWZVFrc0xmY0xoYnFnV1k2QUVEd1djcXk4NURaNDBQUzV4U3AtOXVBdnk5SnkyRmxLTExNdDZSNkp2M0lIWm8yTXJqVUVRcWtJYUt1WUdWX1pHQ0dRQ3cwcnUySEJnb1pNRmo3cERFZ3FvazFLUVNXV0ttd2R4N2ZmNUF1QzNzV3VnZG4?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-05-25",
       "headline": "The UK Biobank breach shows the need for data management training - Times Higher Education",
       "source": "Times Higher Education",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUJRUjY1eFlieHg0eTMtR05BY1dOZWJacDRsbzdXYnpzTXFuMFpfV3EtVFBEdWp6Znl5cEhsa0QxMXdCWWRnU01QTDBYUHFwcThNSjVkTkw1TW5TdzYtN3BUTnB1MDBfZjJjRzc1elMybGtReWxOR1VBVVFmWVM0YWp2UHZ2ZV9qYlE3Vi0xRENEZ09FRHdfTC04UlZmR3c?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-05-25",
+      "headline": "Insomnia With Objective Short Sleep Duration Is Associated With Incident Cardiovascular and Cerebrovascular Disease: Evidence from the UK Biobank Data - American Heart Association Journals",
+      "source": "American Heart Association Journals",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IMGk1RHhxX09laXBTM1h1QWg4ZzVqSkJhd3Vkb0pXNzcyYm1GZUxZR2hJeGxTXzkyZlpUZTNWWXRwWVFvMUp1b0V1YlpoRFh2VzNtb0JKb2I5VzFoN3B6Ulc3dWlrUQ?oc=5",
       "category": "News"
     },
     {
@@ -394,6 +408,13 @@
       "category": "News"
     },
     {
+      "date": "2026-04-27",
+      "headline": "Mild ketosis, metabolic syndrome and genetic–lifestyle interactions in the UK Biobank - Cambridge University Press & Assessment",
+      "source": "Cambridge University Press & Assessment",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZ1lLRmVtaFlmNUpmdGE4ZllVZEx3NDZCTkIwM0pCTS1vdlRfeWs3Z3F5OU9wT2p6andUMFJYMWlEQ1JmbVRjV2Q1RE1La3V3eTJGNkpUcFpOcUlpd2drZnJqRXlDS3FDS3NZc19vQ2ViU1VPbEtEajc2cnRzU0EwTjdMN251eExpT0dBeTFrOTFtYlF0LTdjNnZyWi1pNzFSWmNaRE0yWVNqVjExTTQzSUVUMFZBd1NRM2dWRE4tRDhBbVZzRGc2QzN3RDBnT2RzNTdlbEJRNmVfekU2Wm1LZW1hMlIzWW1yUWhIVzUxa3FZMkJ0QmVvdzlfYUR2UGNhWWhQYlh3MnVkalU3UHZwZEtxRklqVzlUckE4S0VB?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-04-26",
       "headline": "Access suspended to UK Biobank as data found for sale on a Chinese website - thepharmacist.co.uk",
       "source": "thepharmacist.co.uk",
@@ -584,8 +605,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "UK Biobank patient data placed on sale in China - Pharmaphorum",
-      "source": "Pharmaphorum",
+      "headline": "UK Biobank patient data placed on sale in China - pharmaphorum",
+      "source": "pharmaphorum",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xZUY1Q3FnN2tlVXhjVkx3cU5UdGxYZExCXzl6M3kzdXQyT1pHVlE1amVrbzdpZ3hfZFYtVUwwbmNiMTRsYUs0eHowQUwyTlUyeVB1MmNpUGF4VDV3bUdOOENaOEdvTGNUMU5XV25wSnhUMnBWMHAxMjFtYw?oc=5",
       "category": "News"
     },
@@ -2079,27 +2100,6 @@
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZYjNmLTdMbTBGcGNPR0RLb012Y281ZC1OZDl3NnZodnk0RE5YSE1WbFlhLWQyQ09jSUFlOTUwWC1NVEFhekdVUTlkbWVjLThPZV9Oc2x4eElQaE5fTkhJ?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2024-06-11",
-      "headline": "The Space Omics and Medical Atlas (SOMA) and international astronaut biobank - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yUE1mMGNoNG9icWc1STV3OEZJUkR4enFnVWxUSEdINzFvY0RaVDRGTzVtM2RISW9zZVhRR3pqODM2bW1SSTBqYVlJSmN4UWFraXMwWjM3Y05nQm5Zei1N?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-05-29",
-      "headline": "Ecuador’s Biodiversity Efforts Bolstered by New Biobank Network - LatinAmerican Post",
-      "source": "LatinAmerican Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXAxRmFCbGhac2tPTDlwZGdkaUJsLUl6b1Y0TU1Hc3hrYmtRYkVYZUFIemNuc1lQTWdUT2VxNjV2YVF4RWpuVm9tT2NDbVdoSDhud0FJbENJLU54cjg4cFdsTjI3VXZIMHZ5QldUUTBZN1I2NTA0ZENyYUNEdllsSTJsT0RJcU96LWFER3pHTnpNemk1SWpnMkFVLW5iWmNTQzlrbWVXY3V4elR5U3d5RExR?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-05-20",
-      "headline": "NIH Awards Coast-To-Coast Consortium $5.6 Million for All of Us Research Program - UC San Diego Today",
-      "source": "UC San Diego Today",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUx1SkhRY05xUy15YS1hb2VnblNNYWFSRWRVd1BvcV9JQm5kbW9YbWFsamJKWWRRQkJLamE2ZTFWQXZRSlY4dnhJazZKNnVtNV8zMlRjZFJseVJqZGVPU1V1c0ZTX3F1ZjNlcEwwX2FrNUxMZHFaZjVYNU56eDdBVVd0SjRiUlp3LUl2Q3FYeFFoeXJxekd3MGlTemtMLWxTSy1BMnpfcWRHRUJS?oc=5",
-      "category": "Funding/Deal"
     }
   ]
 }
