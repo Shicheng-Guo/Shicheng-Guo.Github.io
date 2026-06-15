@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-14T10:40:19+00:00",
+  "generated": "2026-06-15T13:42:07+00:00",
   "items": [
     {
       "date": "2026-06-12",
@@ -45,8 +45,8 @@
     },
     {
       "date": "2026-06-09",
-      "headline": "From breakwater to \"biobank\" beneath Sri Lanka's Hambantota Port - Xinhua",
-      "source": "Xinhua",
+      "headline": "From breakwater to \"biobank\" beneath Sri Lanka's Hambantota Port - 新华网",
+      "source": "新华网",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBveHhqTFpJVmxUVXMxVTFQTjBJYWRxZ2REa2dFSWNDRy1SNWJ4MXBqM3F2ay1DNk9oYldUeUZNYUowTDZnRjlmLXhoZ2JQcmJIdmpGTTFiM196ZE5TM1dpSDFYcW5waElrbWVaMWZHNTJIZVY2MHkySDd5WGE?oc=5",
       "category": "News"
     },
@@ -388,8 +388,8 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHVSdXBxcUdzNmhndkN4djFGRUYtQVFQYm92eFFkMDJtdVZEUnBqRU9SN0cyU0pQRXhXbDJ4TWZQd1d4UURIV3ROVVdxeklXNjBjaGpib1dNTXJpWjk4Q3VyTU1oSm40Rl90TFBpQjdLLTdrdzR6bXBKN2JYdFo1cDY1T2xQWlk4OXdNZWtKcDBMUTVLeFk4eWJXWGlsLVRQTWo1aDdXYXd6ck9WdkFhWWd0SU5RZUs2TGh0RV9vRQ?oc=5",
       "category": "News"
     },
@@ -416,8 +416,8 @@
     },
     {
       "date": "2026-04-26",
-      "headline": "Access suspended to UK Biobank as data found for sale on a Chinese website - thepharmacist.co.uk",
-      "source": "thepharmacist.co.uk",
+      "headline": "Access suspended to UK Biobank as data found for sale on a Chinese website - The Pharmacist News",
+      "source": "The Pharmacist News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFFGRTVYYm1ncDFFRmVYWi0xY1VIQk9XeVRva0pLbHRYVG1yUHY3NllUYnZTOWZIMHh2SURIVTVKVFJVd3RxaENhcW05bVJJcE5LTlMzcnFKaFpnRXZ0SmZkNjI1YjI2c2YyZ3JVcnR1QmRtN0lDY3ItYlM4ZmljQ1oyRXFNRjNhdjdtejhJTXExbWpTVjlvYWlOcVVsQU1XcEltZHB6aHpYaU1ScDhrUWpnQnhOQ2xNbjlN?oc=5",
       "category": "News"
     },
@@ -605,8 +605,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "UK Biobank patient data placed on sale in China - pharmaphorum",
-      "source": "pharmaphorum",
+      "headline": "UK Biobank patient data placed on sale in China - Pharmaphorum",
+      "source": "Pharmaphorum",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xZUY1Q3FnN2tlVXhjVkx3cU5UdGxYZExCXzl6M3kzdXQyT1pHVlE1amVrbzdpZ3hfZFYtVUwwbmNiMTRsYUs0eHowQUwyTlUyeVB1MmNpUGF4VDV3bUdOOENaOEdvTGNUMU5XV25wSnhUMnBWMHAxMjFtYw?oc=5",
       "category": "News"
     },
@@ -821,6 +821,13 @@
       "category": "Funding/Deal"
     },
     {
+      "date": "2026-04-09",
+      "headline": "Thermo Fisher Scientific Expands Global Biobank Leadership Through Strategic Collaboration with PRECISE-SG100K Singapore to Advance Population-Scale Proteomics - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQZmphOU9lRmc5R2JqckpQZFI4c3FqQnVsTDRXaUZaM2o4NW15b1kxTDljeXloRGJ3dXU1RE03dWtyb25BSHVWMU1sV3JZM3BoVGdRSnYxYlZiTGdHcFN0MmhibV9TWGQ4OG9mQzl2cU5UQWcwTHMzVF9kOFp1cnFLenJGalA5bFl3T2hxeHBKWFlyeWVCbi1vekREMzhyN0xfTjdENVlNUEFTeGI1RjBrR3RuZk9GTHpJV2FLVW44a0g1UHFGUkxrTUh3eVpKRUdaOERTTzYyeVNZREVyR3VHeW1Oc24zTVV1WlRzdGxUajZpX2h2MXRmUE5yYmxJeUVuY3lCa2hxbU9sVXN0Tk9hOEh4VjViTkNNX2pUandUZUdKXzh0NDdjOEdjS0ZnejcwNWJlVERhdVZNZEVw?oc=5",
+      "category": "Partnership"
+    },
+    {
       "date": "2026-04-06",
       "headline": "Federated learning for biobank data at the CMU-NVIDIA Hackathon - Amazon Web Services (AWS)",
       "source": "Amazon Web Services (AWS)",
@@ -885,8 +892,8 @@
     },
     {
       "date": "2026-03-24",
-      "headline": "UK Biobank addresses data leak controversy - thepharmacist.co.uk",
-      "source": "thepharmacist.co.uk",
+      "headline": "UK Biobank addresses data leak controversy - The Pharmacist News",
+      "source": "The Pharmacist News",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2ZDQmEzSUFwMTd1WnV0ZEd6SUFNa21aalFfbWFjeXVweGkyWTNBZ0ZBYXEwbm9DWkFfMzNRYktKOE9QS3g4ZXRTMEdVV2Q2SG5lUGtWY21lY2lJcGVUajQ2NFpBTkFUUkU5VmdEU19tWDJEWFU3VnZNQ01nSjlqX3Q4MWNsR2U1QXltVDE5TnI?oc=5",
       "category": "News"
     },
@@ -1192,6 +1199,13 @@
       "category": "Research"
     },
     {
+      "date": "2025-12-31",
+      "headline": "World's Largest Genetic Database Unlocked: UK Biobank Releases Data from 500,000 People - 동아사이언스",
+      "source": "동아사이언스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNQ1BSamw2aURMdm9YWDJBc3BuTzNJVDE5RlJfT3pOMENqOHZLTUQ0QlhheGg0bVlRTS1SMXBEQkRpS3ZIUFJtVmUwLThnd3pEa21YSA?oc=5",
+      "category": "Data/Cohort"
+    },
+    {
       "date": "2025-12-29",
       "headline": "Ten Years of Scientific Discovery with the UK Biobank CMR Imaging Study - medRxiv",
       "source": "medRxiv",
@@ -1288,6 +1302,13 @@
       "source": "Invest in Manchester",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEpxUlU0R2Vibkx4dWJnRk1pS0xCSmM3Qk9pbl9wS3lQWi1UU25UZW8wRzE4eHY5Ymp0cEtkb1lvMFhXMWhTSy10TUJtcmM5NEE1RDVzeUU5MkF5UnF3TWNKVl9ieWhibVY3OE1MRTRwUDdrM0RpOVppbDdJMUJUSTlidHFtUmRvVGc?oc=5",
       "category": "Funding/Deal"
+    },
+    {
+      "date": "2025-11-25",
+      "headline": "UK Biobank and Its Growing Importance in the Future of UK Life Sciences - PharmiWeb.com",
+      "source": "PharmiWeb.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbC1ySk5TZEdmNFpLbWxudGEzLUhFS2dvZ0NjWVBuRkdxOTB5dktEU2JDeTRBUENkVVhvbFlKOUQxNk1CQ3ZmRmdpVmV0a3lVbDd1aEtyaV9iSXA4SjgxUGRhSXF0SVl4V3NTSTlMRUtXSzZQbEVWSVJkU0Eydk5mekJUX1RIVWc0REVwSFl3QTg4SGh5czkxZVktaVNjczAtTlhkRjNVWWM?oc=5",
+      "category": "Opinion"
     },
     {
       "date": "2025-11-21",
@@ -1752,6 +1773,13 @@
       "category": "Research"
     },
     {
+      "date": "2025-06-06",
+      "headline": "MetaSTAARlite: An all-in-one tool for biobank-scale whole-genome sequencing meta-analysis - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kamRDRzB3MjlkUGlabGZxdWhDcFBHajJfbTBMbmRKMU92eERHb0hTN1ZJLXZEQnd1M3dWdThpN2s0SnJyZTYzdEttUXB2VzByUl9mcnh1TDd4bGxBVGYwbTdOMHd2ZlNkcmY2S0F5YzZXbXM0ZWRLRkp4SQ?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2025-06-04",
       "headline": "Elucidata and Sapien Biosciences Announce Strategic Partnership to Transform Biobank Assets into high quality AI Products - Business Wire",
       "source": "Business Wire",
@@ -2072,34 +2100,6 @@
       "source": "GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEViTkFRNURiQmF6TjRzM21hLWl6TnRHUWlYMTF4c2s4dlpiWFgySkRSLWVfOFZSNUdyYnRHWHhKS0lYc2JtbHE2SWVTTk9kdzhfVldPRkkxWXBTUHdOc1dlNjBneXkzUjVwZnJCM0J2b0RmM1RUdm5ibW9teXR1REwyRFlTNWZ4SW5GLWZ5ZW1ZbDlERUVzaWRXRnd0aFl4SDJsQVo1eUxQNGg2c0NmaGVva3FaOXpYbTBTVlRB?oc=5",
       "category": "Funding/Deal"
-    },
-    {
-      "date": "2024-07-25",
-      "headline": "Nearly £50 Million Unlocked for World-Leading UK Biobank Following New Industry Backing - Bruntwood",
-      "source": "Bruntwood",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnZIc0ZrOFFMN2s0VWhQdlpoOGNEYWZ2ZGQwRlNnR1hBY0R3WUVBZ1NVMkcwM081Yk1lbjlvSkpHVEsxNldlV3QtTlNmOHo2cGVNQkI0cTZlWnNGRlczN05HamZPZUcwTUJ6N3l0Z0FOR2xjT0x5LXFTRzRnNTU5dGptNEh1aXl2Y1BfbTJvSGxwd0w1RTgyOFJRM2U0RkpkVFlTSTdOUWlpT1FST2piOUtaWXk5WlE?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2024-07-19",
-      "headline": "Million Veteran Program Bridges Diversity Gap in Genome-Wide Association Studies - Inside Precision Medicine",
-      "source": "Inside Precision Medicine",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ0ljWURIbldVT3YtaFRwTGp6RHhoT0NfekVtcTRMYXVuLVFXZEtTZUdRdGEzY1ZNUEE0N0ZUaDFQRmZRVmpVQTJOOEpEUUZTcU00M05wVlhtNXFNSU9pUzRYUTMteFJyczZBT0w1SVM3UThibkFkQWowUEZhTHhweWlUeUJBV25lLVNNRmc5d3pYTVZZTDNYVXFYbFlVd3RKbFg1aF94aUpLQnlIUHJ1UVNBY28wT2ZESVVaQlpzN2F5TmxrdUJNVUpnQVJSWkM2UXlyRWExRERmbF9MQ0ZSVA?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2024-07-10",
-      "headline": "Genomics England Research Summit: Innovations, breakthroughs and asking the big questions - genomicsengland.co.uk",
-      "source": "genomicsengland.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmRpbktZZ01CZnRVODBWRHZaRTEwZW9TSGN6R0V4SUNuQjBpNG9PbjZxXzNJNWZqeXJwRHQ4QzFXLXhjUXFqWmJza3dCRlhOLWg5N3hDT1RYeXNVd3F1RlhRT3IwSkxZRnpVX09BazNjN3JrVDloRXZESTl2ZkxFcFhjSUg1Njh6cHotOTVyR19FZ2hHRnB4Y2ZJX0R2bVhyX3JNZEZ5RUxIV2NtZTN4U2pUWG91cVdxQ21FdVRGZjdmQlFn?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-07-04",
-      "headline": "Principled distillation of UK Biobank phenotype data reveals underlying structure in human variation - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZYjNmLTdMbTBGcGNPR0RLb012Y281ZC1OZDl3NnZodnk0RE5YSE1WbFlhLWQyQ09jSUFlOTUwWC1NVEFhekdVUTlkbWVjLThPZV9Oc2x4eElQaE5fTkhJ?oc=5",
-      "category": "News"
     }
   ]
 }
