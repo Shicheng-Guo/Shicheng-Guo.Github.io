@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T14:32:48+00:00",
+  "generated": "2026-06-16T13:02:15+00:00",
   "items": [
     {
       "date": "2026-06-15",
@@ -10,7 +10,7 @@
     },
     {
       "date": "2026-06-14",
-      "headline": "Between June 08 and June 13, 2026, as many as 23 Indian startups from diverse sectors raised over $244 million in funding from investors. These sectors include Robotics, Wealthtec, Quick Commerce, Deeptech, Fitness, Retail, Healthcare, AI, Fintech, EV, M - instagram.com",
+      "headline": "Between June 08 and June 13, 2026, as many as 23 Indian startups from diverse sectors raised over $244 million in funding from investors. These sectors include Robotics, Wealthtech, Quick Commerce, Deeptech, Fitness, Retail, Healthcare, AI, Fintech, EV, - instagram.com",
       "source": "instagram.com",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vVVcycFJySEg1SG5fcGRaeFF5Ml9rY1Nvdkc3ZXJfeWJycjFFcUt4X3ZuaHpERks1MzJoRThiQkRNZEk5M2s5ZTRoWTRKUFNQamc?oc=5",
       "category": "Funding"
@@ -24,9 +24,16 @@
     },
     {
       "date": "2026-06-11",
-      "headline": "Three Swiss biotech companies secure grants - Startupticker.",
-      "source": "Startupticker.",
+      "headline": "Three Swiss biotech companies secure grants - Startupticker.ch",
+      "source": "Startupticker.ch",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTk1QeWhGZXVWcHV2N0V6MlpvT0dpc3ZTM05Oa056SWZpSVRLNEFzdkxTUlhvVnJJWGlLZjRUOW1kSUpQYWpTajlsVXpSOERBcy1tUThFOE9WOUVDRk5ZQ3dDOXJsclF1ekVVVkJBc0VyOTNYSVNHTEV6WHNkUjgtNXZYMkxQZ1U?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-06-09",
+      "headline": "Reid Hoffman Quits Microsoft Board for AI Drug Startup - FourWeekMBA",
+      "source": "FourWeekMBA",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmZySTZDb0dFMVVKbGZ0VXFXb2xmQ0FrdnRONWFlY1ZpWjI3QWx3WTZoZnRnSmlSdzR6Zkh6SlByc2xVTncya3hKc3JlTl8xYVlvWFgwbDlmQ1psSDk4QUpKQl84WGRoT0FNblJvaUpKUHQ5RWpaTFJXczVmZUNWT2VvQ2Eycnc?oc=5",
       "category": "News"
     },
     {
@@ -70,13 +77,6 @@
       "source": "Edinburgh Chamber of Commerce",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3AwYVZ6RFVwNzVxOVR2aVQ2NzIxMVhyX1JhVHpONDh6d2lPZUg3X3NidU9nZjdEcnNOc293WGJfeWlORGdlWTV4T3JEalV1dHZjRVJDb0oyd0hDQWNoQnotM2VUMEF1YTN4b0wwVnZ3TWk5Y3YzRzVzV0JsYzZiMEpHRW9zM1ZXSmtUVDJScTZVbzVBY0VVbEZSaEQybkdCMU4zYlB2UVFPVnhGZFBaQWE1RUthbFVXRFV5TmlUdnhJQ0k?oc=5",
       "category": "Launch"
-    },
-    {
-      "date": "2026-06-07",
-      "headline": "Reid Hoffman Quits Microsoft Board for AI Drug Startup - FourWeekMBA",
-      "source": "FourWeekMBA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmZySTZDb0dFMVVKbGZ0VXFXb2xmQ0FrdnRONWFlY1ZpWjI3QWx3WTZoZnRnSmlSdzR6Zkh6SlByc2xVTncya3hKc3JlTl8xYVlvWFgwbDlmQ1psSDk4QUpKQl84WGRoT0FNblJvaUpKUHQ5RWpaTFJXczVmZUNWT2VvQ2Eycnc?oc=5",
-      "category": "News"
     },
     {
       "date": "2026-06-06",
@@ -948,8 +948,8 @@
     },
     {
       "date": "2026-03-18",
-      "headline": "Rivia raises $15M Series A to bring clinical trials into the agentic AI era - Startupticker.",
-      "source": "Startupticker.",
+      "headline": "Rivia raises $15M Series A to bring clinical trials into the agentic AI era - Startupticker.ch",
+      "source": "Startupticker.ch",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOTQtaHRnOGFBb3VNUlkzTTY5a0YySU1UbXRWNm0zOHhkR3Qtaldoc0JfdExqOUl2amVxd2dhcHJmMDJXSmR5Y2xPcHZjbC0yUUhOLVJ3V0JudVFqMW55Y0J4QWhHS245M2dxTHhFbjliaTRid2tFdUZucFliMVZ3NkNpT2d0eHJlYXRiRl9CYnhmS2JIamFaSmpjRXlxZndLM1g1VXhBUlBMWnBxOVVnWg?oc=5",
       "category": "Funding"
     },
@@ -969,8 +969,8 @@
     },
     {
       "date": "2026-03-17",
-      "headline": "Drug discovery startup PerturbAI launches with massive CRISPR dataset - FirstWord Pharma",
-      "source": "FirstWord Pharma",
+      "headline": "Drug discovery startup PerturbAI launches with massive CRISPR dataset - FirstWord PHARMA",
+      "source": "FirstWord PHARMA",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zVG9vV0Npdm1ESHlGTy1SMGF4VVNVRlJzNXVkRmtmMi1CcFk2Q1l6cFdnRzZ6eXhnMERUaWJFc2p4N3ZQRlVnQWlVYkJ4RUdSb2Rn?oc=5",
       "category": "Launch"
     },
