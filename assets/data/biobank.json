@@ -1,6 +1,13 @@
 {
-  "generated": "2026-06-18T11:40:13+00:00",
+  "generated": "2026-06-19T11:55:12+00:00",
   "items": [
+    {
+      "date": "2026-06-18",
+      "headline": "From Microbial Dark Matter To Living Library: New Biobank Decodes Survival Secrets Of Extreme Acid Mine Drainage Microbes - astrobiology.com",
+      "source": "astrobiology.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUFc1YnI5aEh4RWN6SGFHLThMWUg0VmthbzEzcXd2YzN1ZkVVVzhvVUJFZk5vVlM1dHNHN1hKbVlCZXpNM1pFVnBKTEd5OHFFWHh6X1VRUllMMUhEcjVVM0hDdGV6blBaM3p6ck1oLXZRRTFsSmc2am4tbldKRERQVnRjU3pXRWZyY0dVWTBxaUY1aUU2c0JGRmhuaVhPN3hFdGt3VWN0SndwVGdDNHNneEVEcDBkMkMyRmpnRVZ5WGVXMGVZaldqeEZDMXRvRE9PUnBtSlgwUzJXVmIwRjNjSk5iYjZPRVF5RElwNm5zaw?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-06-17",
       "headline": "From microbial dark matter to living library: New biobank decodes survival secrets of extreme acid mine drainage microbes | Newswise - Newswise",
@@ -275,6 +282,13 @@
       "category": "News"
     },
     {
+      "date": "2026-05-09",
+      "headline": "Multi-Omics Analysis Predicts Onset of 17 Diseases Using UK Biobank Data - geneonline.com",
+      "source": "geneonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2RUb24wS0FPaEc2MjREODQ2Y250a0dGMVg4WV9VUnZyWUU1dldSbWpRbTVWckE0U2ZPT1JidGgyako5azVHRzE3Tk12V3hBbVpzMHpsbWpoZHdTaHhFMUFyaUp1c1BUSXJXZ3k0Z3Nhd2J2Z2l5UnR6aTQyTmljM2VzYXNyQ3FKTDZaU1lhTkVqSlY2ZzlnWjN6UnZyTGdMaVE?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-05-08",
       "headline": "UK Biobank leak: Are patients’ details safe, and what are the risks to future research? - The BMJ",
       "source": "The BMJ",
@@ -423,8 +437,8 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHVSdXBxcUdzNmhndkN4djFGRUYtQVFQYm92eFFkMDJtdVZEUnBqRU9SN0cyU0pQRXhXbDJ4TWZQd1d4UURIV3ROVVdxeklXNjBjaGpib1dNTXJpWjk4Q3VyTU1oSm40Rl90TFBpQjdLLTdrdzR6bXBKN2JYdFo1cDY1T2xQWlk4OXdNZWtKcDBMUTVLeFk4eWJXWGlsLVRQTWo1aDdXYXd6ck9WdkFhWWd0SU5RZUs2TGh0RV9vRQ?oc=5",
       "category": "News"
     },
@@ -580,6 +594,13 @@
       "headline": "UK Biobank volunteer data appears on Alibaba - SC Media",
       "source": "SC Media",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HNWxkM0JnY3VoNm1MSnF6NDdtNmxHOXV3TElxbzBHcHY2aV9IRGIxTTg3ZVE0Q1VZM2w3T2Vkei1kS3pFcHEwN2pNTkdCd3h4SlEyUmdqNGplSXhMeHpPNDM3R0tBV3VDemtJMkJvek1QY2R5b21vY3o3ZExOWDA?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-04-24",
+      "headline": "UK Biobank Incident: Trust Is the Currency of Health Data... - politicsuk.com",
+      "source": "politicsuk.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aWGYyOUpWX1BNSEFMWmgwbjJKc0hYTndkSVNZcU02bnkzMktMVm5TNXF3YWpYV2toVlBnTWFuZTR6OXF6MWUyZFJfbF8xYzNCQmVXQTdmRVFWSEg5TVcyQ2lLZGJSdXdGalZJVUJLNUFocDhkZTNNRA?oc=5",
       "category": "News"
     },
     {
@@ -786,6 +807,13 @@
       "category": "News"
     },
     {
+      "date": "2026-04-17",
+      "headline": "UK BioCoin: swift trait-specific summary statistics regression for UK Biobank - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWaENKbHRQamFQRlVEM2VrRjdxYVVMZW9UNmtlYkFJaF9PZG1rejNRMWp4c2NnQy03dUpPRmJGZDFNU1lVZEJXTWNtWGowY0dJamsxUHRULV9wZExRR2FZ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-04-14",
       "headline": "UK Biobank at 20 — a growing, global resource for dementia research - Nature",
       "source": "Nature",
@@ -871,8 +899,8 @@
     },
     {
       "date": "2026-04-06",
-      "headline": "Federated learning for biobank data at the CMU-NVIDIA Hackathon - Amazon Web Services (AWS)",
-      "source": "Amazon Web Services (AWS)",
+      "headline": "Federated learning for biobank data at the CMU-NVIDIA Hackathon - Amazon Web Services",
+      "source": "Amazon Web Services",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1hDQy1wSTBUUUdtQldQemZzLVRvd2RWSWRkVHRLb3VNNGxjOHRKOEhia1N0T0Y4aExWeXBhLTRJTlBkcmlCekZQRFhEaW9QcXpfOE1OdUZrMmpKa04xZGpkZEE5R2JRVmdDYlUyY1YxQW1hckZBQVcxTWJlR3lYaGpaOGtnckhHMVE0THdLeVNHNTZyazZwNXoxczdMZXRVTXJWY01EaFg5dw?oc=5",
       "category": "News"
     },
@@ -1864,6 +1892,13 @@
       "category": "Research"
     },
     {
+      "date": "2025-05-26",
+      "headline": "Screening of biobank SNP-array genotyping data to detect Lynch syndrome predisposing MLH1 copy number variants - Springer Nature Link",
+      "source": "Springer Nature Link",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96NUJDT1JSdGswMmRsLXpzVW15eHU3alhlREFZYVhZRWxwOXVLMS1LZU56TkV2Q3dOLTl3V0pBaU55Q1pWZ1VlOXo3SXlvREpmNHlDdTRGRjFNeC1NT0RUUDFCdjRBa2liM09hMQ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2025-05-13",
       "headline": "Cluster and survival analysis of UK biobank data reveals associations between physical multimorbidity clusters and subsequent depression | Communications Medicine - Nature",
       "source": "Nature",
@@ -2065,41 +2100,6 @@
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mWGVPX3N1SFV0cGZJc3J4c0lmY0c2UnIwaGdQY0gtMnZvLVdPLVdKQkxaTVNxLWtBa0ZSb1E0QXhmZU9CcWxlNUpReGFaSU1JOE5JX0JkekdYTFJaQjRr?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2024-11-06",
-      "headline": "Algorithms for the identification of prevalent diabetes in the All of Us Research Program validated using polygenic scores - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sOE1OTV82VVpiZnA0TDVCZzRSTUpsdVp2RXlHVEhpbjlJXzlsV3RMcHF5a1F3LUVaR01NOFRkQUhNU2VwelBROW5HcTBkdDVxUV9DYm1tNUNiNWJsakNj?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-10-15",
-      "headline": "How the Biobank is Driving Medical Discovery - Mass General Brigham",
-      "source": "Mass General Brigham",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmN0RTdaNjBiYlZCREpDT0VsWFU3Nk51aTZNZTdjRUZZT3J5TkI1WEJmdnRtbkljMU9XU2d6bVJadmh1WWl0WjhqVXBnVnk5aGlPNzZFZWZKMUlJbFRoSjViUFh5bGVwWGMxV1QyQVlRTjYyNVFQeXJCeVJSeGZ4NExuNXFjczZSekJqZUxmTkRXYmQ1SDVnbXlDaw?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2024-10-10",
-      "headline": "Congressman Kennedy Announces Over $7.7 Million for State-of-the-Art Biobank at Roswell Park - Roswell Park Comprehensive Cancer Center",
-      "source": "Roswell Park Comprehensive Cancer Center",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX3ZxMTJpWW1QZXR3NXJhTlVvM241SHBlblh4OVZiT0syZzZaODR3V3A1RVAxb1NsSG9KTmtCMVQwWEVJYXVnbWVOZF9GRDFNbURGUHU0T1FmSTBON0hPek1UQWN5VFBheUxsSVFlQjZNbmdTVlhZRFo4MHlhTUJEc3BuRmVCa0UxNEJHcUNwU21Vb1J6d0J1R3ZBTk9hT2R3ZnYtVzl2cTNHa3Zpb1JSLWRrLW5WOW03OUgyTHpkdjk0aVhVd0Z4dVBEM3dxdkZaR0oyMGd3?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2024-10-08",
-      "headline": "Top 5 reasons to participate in the biobank at the Colorado Center for Personalized Medicine - UCHealth",
-      "source": "UCHealth",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjFZTGdIdjlpMzdvbXJvUGgzcURCei1oOG9BV2djX25fSmNfT1VhS0RLZmVDZllTbE1ubW1QMzYxQmNJdllTLUtITm9RLXJXbWFiWFZib2s4WXZIVUc0dGRCQUpGdjhkT05IdDBrUTVPM0pDZ2M5QTZTNjFIZEk2N2ZhYXozbXRTdkpfcHBPWEZYRDRzRk9Va1BYbE9tdGtteG80ODk1RHNSSU1qZ3d0VEl2Yw?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-10-08",
-      "headline": "Serum bilirubin levels and risk of colorectal cancer in Korean adults: results from the Korean Genome and Epidemiology Study-Health Examinee (KoGES-HEXA) Cohort Study - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54MFQwbmkxVV9mNm84QjZnNnRNWHhraHpnVEQ3QW50TEFBenZmQ1d3LWxLUTZKVm9TRHdrTzdnVkxQcmVRZVdGVGthZ0RpcmVLV19WWnZkVnBESVlKM0dr?oc=5",
-      "category": "Research"
     }
   ]
 }
