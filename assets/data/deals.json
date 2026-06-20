@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T10:56:25+00:00",
+  "generated": "2026-06-20T09:37:03+00:00",
   "deals": [
     {
       "date": "2026-06-19",
@@ -185,6 +185,17 @@
       "type": "M&A",
       "value": "$1B",
       "area": "Immunology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-18",
+      "headline": "Biogen makes up to $1B immuno play with RayThera takeover - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFpjT3pwRklpWUpIemtQbzYtZllSaTJmWmd5OExWMzNHZkJTQUwwQmxuS2JGNFRNUk14S1laZkVYRzNrckR6SEZzdk5NcnBMeU5nOFBaeVpJVGJvT2UweUZmRTJVMmpreU96dlRIVjhSMTNUUk1WSFZSUDNSX1RsUjU3YmNsYmJvdWpnMEZaOEFsc25EVF9aUER1MjI5TWs?oc=5",
+      "type": "M&A",
+      "value": "$1B",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -559,6 +570,17 @@
       "type": "M&A",
       "value": "",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-11",
+      "headline": "60 Degrees Pharmaceuticals Signs Exclusive Patent License Agreement with Florida State University for Non-Prescription Use of Australian Chestnut Extract as a Botanical Supplement - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVi1zanp2bXVvYlN3cDVFbktCMmpBUDJCQU0tdFBFQ24ya2l2dGNTOTZ6bWVOTkI2UFl1dy05X2NJcmU3N1ozMU8yZU5FUDRkcUZzSWhkOTdqMF9ydXB6MmtyanQxOGYwVnFkQjZsTDByaEFJUVhCNmYwNXlmTWJSNTlKeVgwVGpfamNzOXpqMmktc2pDUVRjQnRiRjYyd3JhaEVBZElOVVRzajlKTjFOZQ?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -1751,6 +1773,17 @@
       "stage": ""
     },
     {
+      "date": "2026-05-07",
+      "headline": "Angelini to buy Catalyst in $4B play for rare neuro drugs - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVFjS3Bvb051X0F2bnNEcHFBV0VPYnFCZ2lndGdmdlp4cjZZRnZKVjBCN2dRRTVSeWthS3drb0Z6WE9WcGliY0dmdG10UGhob0JwY21UZUFpcVhoUHNZSTEzSDhkQm44aXhqYzB2TzV6VHNQalYzQUx1OF9ueG5GWUNFMFVQcU1fSkE?oc=5",
+      "type": "M&A",
+      "value": "$4B",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-05-05",
       "headline": "Merck completes $6.7B Terns acquisition - NJBIZ",
       "source": "NJBIZ",
@@ -2715,39 +2748,6 @@
       "type": "M&A",
       "value": "$2 billion",
       "area": "Immunology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-24",
-      "headline": "Merck nears $6 billion acquisition of Terns Pharma to boost cancer portfolio, FT reports - WTVB",
-      "source": "WTVB",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjBEaDVkVUlZZ1Y1Zld2N3VUb25OMkZaNVJPUjc0ME1aWkZmVWRSWUJ1dzdIaFdqcmN3dWxlWXdnNmhoSndJXy1OU2p6UGRCUnY4NmpkcnRWamxOREZMTDI4dEx6bGdsbDY5SUpZNFdJUjF3WlpTUDkwdFFacENGMnRsZldqRFU3Ti1jS2FONlR3LU5oMGwxVUhxWUVrTUxPM1l0RFBHUHN1Qk9kQWFxWkdSS2ZhQkc0?oc=5",
-      "type": "M&A",
-      "value": "$6 billion",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-23",
-      "headline": "Gilead to buy biotech firm Ouro Medicines in over $2 billion deal - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjMwY3QzZ1RPV2RYY1JxVmxld1E0TkEyT3lMNG9zakN5Tk1maG91ZkxhSTk4MEVDWVdUel9hUFRQTkJBbEFuVW1vbHNLclV5XzMyQzlVdlRJZ2tIQVUzcExWTmhlSnpxcUR5dFk0eGlFckM1VENNOXFmUGJOZDV3YjRYcmFUckJMUlAwZVFKa2ZELU9KbVhsLWtvamNNNDZSQmtYam1ZYk04dnNQYWVKNlN0MkU?oc=5",
-      "type": "M&A",
-      "value": "$2 billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-23",
-      "headline": "Gilead nearing up to $2 billion buyout of biotech Ouro Medicines, FT reports - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzZGLTItRDJKYmpCSXhDV2NhTW5ENGw4ZEF5cWxzZHFISjZBVnQ3WGtzUnB1Y1ZYaFoxcXhONy1HNnZoUENOZHVxUFh3Q1pDQmRrTHJCQU1GY1lxb0UzcU5seWhIVUhDTnh6VWF1ZF9fU0RNUkpYY0MxWjlJM3kxUUZCUzB3NXpuYkN4YzJUc216a21hZ1k0a2JUcUxuNjhBaEE?oc=5",
-      "type": "M&A",
-      "value": "$2 billion",
-      "area": "",
       "modality": "",
       "stage": ""
     }
