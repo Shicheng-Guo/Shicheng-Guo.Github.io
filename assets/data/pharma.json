@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T12:27:15+00:00",
+  "generated": "2026-06-20T10:43:13+00:00",
   "items": [
     {
       "date": "2026-06-18",
@@ -7,13 +7,6 @@
       "source": "the packman",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaXYyTTR3b1B2ZEl5TGl4a1N6NlVpd2UzWUVjMC1kaWFpTHFGa1FFQkJmbW9OcTd1Y0tYQndldHh4eTZIdzZtVkZYajFFZ3hid3RPUXpicTVEQVJ4ZlpjVEZyekZlY3NvU2hnLXByWmNzOHZYQVQtVzNmVjJwcFlaUERndzJmNGxPd0VqbXkzMzhmR1JBR2FpLXdpbTZrakViT2pFQWhPaHk0UWhxQzNqVzh5WUpJUdIBuwFBVV95cUxNZ0dnakNmbXVlWXVfM3A0ZHdWMjZpQ0JUWVVOUVVLT0QzN1dmdnBtNFVwM3FIRmRweUh1R2w0dF9sV2hJUC1Rd3pNV2pBVU9fMHNzSW5DUHViR0E3RXdsME1OTF83dDVHZlpTUGJ4QkFyNnBCcFpNZHpEMWFYU1NDd1Q0a1AtREhWTm00NkNYQ0liUzRYNmVMcEtzeC1mQUZYc0wyLUVqZkFPSmNjOTdUcXM3M1ZqTU9nd240?oc=5",
       "category": "Technology"
-    },
-    {
-      "date": "2026-06-17",
-      "headline": "Bafna Pharmaceuticals Ltd Locks at Lower Circuit With 5.0% Loss — Sellers Queue, No Buyers in Sight - MarketsMojo",
-      "source": "MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ZyUWlrVXI2QVRBbTVuN2ZKM0xmN1V3cEFfNUgwLV9raU54dmpGa3o3WEtyN2JuWmxWUWJsN3pwbFFud0dTbXNiLVJJS2dkMThLN2pqQVF1eVdmNWFHemJsNWZESUltNTlLQUtybDZ4ZnRZOEtXZmlHR2xFcEpCLS16RjhHOXdEUVlJRkNjYlhvRFFYMWlPU3V3UHlIOWpjWDZiQzNFeGwya0xvYzhZQzJfSG1GNk5NTEd5VTlTZThOUUZ6QWJRR3V3?oc=5",
-      "category": "News"
     },
     {
       "date": "2026-06-17",
@@ -35,6 +28,13 @@
       "source": "Bangkok Post",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2JRREI5c2VCRVJEeXpkVFdlaXNBcl82VmgwUjQ0OURVdHpST0hzTUNHWnRYTTJnb0hibENOZ1FIVzNIWmd3WnJ5ajZjYTBhdktEeTA1THB6cXBRcFM3NlI3WEItei1oUEhCMHF6c2plaWgwTWE0bTVRd0l1Q21zNk5LN1hwOFFlbzRPTUd3a2Ziak5JVW9pVDVrUGM5S0g3d09NSnNMVXBWM2JQbEdhTTd5NEk0T2VHcU1yZ3RRUQ?oc=5",
       "category": "Technology"
+    },
+    {
+      "date": "2026-06-15",
+      "headline": "Bafna Pharmaceuticals Ltd Locks at Lower Circuit With 5.0% Loss — Sellers Queue, No Buyers in Sight - MarketsMojo",
+      "source": "MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ZyUWlrVXI2QVRBbTVuN2ZKM0xmN1V3cEFfNUgwLV9raU54dmpGa3o3WEtyN2JuWmxWUWJsN3pwbFFud0dTbXNiLVJJS2dkMThLN2pqQVF1eVdmNWFHemJsNWZESUltNTlLQUtybDZ4ZnRZOEtXZmlHR2xFcEpCLS16RjhHOXdEUVlJRkNjYlhvRFFYMWlPU3V3UHlIOWpjWDZiQzNFeGwya0xvYzhZQzJfSG1GNk5NTEd5VTlTZThOUUZ6QWJRR3V3?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-06-12",
@@ -262,8 +262,8 @@
     },
     {
       "date": "2026-03-24",
-      "headline": "Pharma 4.0 in India: Why Operational Intelligence Will Define the Next Decade - Indiatimes",
-      "source": "Indiatimes",
+      "headline": "Pharma 4.0 in India: Why Operational Intelligence Will Define the Next Decade - ET CIO",
+      "source": "ET CIO",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOd2RQZzJ5RGV5Y004ZUJPVkYyYjlDejF5cU02NGxCbXdySWx2MFhIWm9uUlM1QmFOaGhpeDNtMFNCam01MFVRd0pxR1FHUGRYVVBWOFA3Y3M0M2dHeTItYW4wZVdiMUlwNHpKWHZkazdUOWc4UGtxd1IxLWE1bE9aQ2pVTjdHSi1xR3ZDUFliMXN3MW9HcDZNX1hneG15a3R2M0xFaG9qZkd4cm15cEJDWUduZ2hDdWFvSmxjVktzUzJwOERyY2I5UndnZl9pazByVTJmbk5qMmxEVXRlYXpWWldnUm9aTk9kY2REckFkQ2Zub09qaG53ajRlNWJac3c?oc=5",
       "category": "Perspective"
     },
@@ -542,7 +542,7 @@
     },
     {
       "date": "2025-05-28",
-      "headline": "Implementing Supply Chain Management 4.0: Potential Driving Forces and Strategies From an Empirical Study of Pharmaceutical Industries - Wiley Online Library",
+      "headline": "Implementing Supply Chain Management 4.0: Potential Driving Forces and Strategies From an Empirical Study of Pharmaceutical Industries - Taifa - 2025 - Engineering Reports - Wiley Online Library",
       "source": "Wiley Online Library",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GS01HOUJRQXpUVE5HMVQxV0U4NXRKd1d1dTFObGNucFk5TjNBTUtWcS1Tc2E4bC14YzMwTFQ5dXJoOTVWTUJTQ0s5TEFFdDJWYVd5OVJNUHV5ZnplamNIakdnTHAyd0JQaHBv?oc=5",
       "category": "Research"
@@ -640,8 +640,8 @@
     },
     {
       "date": "2024-11-27",
-      "headline": "A Guide to Pharma 4.0: Embracing Transformation in the Pharmaceutical Industry - G2 Learn Hub",
-      "source": "G2 Learn Hub",
+      "headline": "A Guide to Pharma 4.0: Embracing Transformation in the Pharmaceutical Industry - G2 Learning Hub",
+      "source": "G2 Learning Hub",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9UWDFLbk5YbXBYQWp3S1RKellETUhEWThEdldJeFdXRHRZRjJ1a2ppZ29hQ250ZFlHeG5WTC1PN2Ezb3FyYVE?oc=5",
       "category": "News"
     },
@@ -882,6 +882,13 @@
       "source": "Manufacturing Chemist",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWxDXzNzT3ZIWFVGSVFTX2tfOVRMWV90ZjRkU0RDNkI3cXdkM3U1MjJyZnhsb1FEc29UblBISksxR19nWnVxX3ktalprSWM0dENLSjZGTUMwYi1ESzhyM3c3RnBLU25FeGJfOS1DMjhyN1VQUTZEWFRrcnhIUW94LVhnU1NJNWp1d3pqU1FwZXByZVptLTN2eE9sMA?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2022-12-08",
+      "headline": "How smart manufacturing is optimising processes and reducing costs in the pharma supply chain - Pharmaceutical Technology",
+      "source": "Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcjdUZnUtcG13OXE2QzdYUnVINEhWS0s0NGpSSlltVEFTWFVFeHFFLTh0R1hHbzBlcEVEQ3FsSi1DazY3SVhUQUQ1NVFhMTlvNzZaZ0tpWG5mNm05c1hZZ3dqVkFFejg4WnU1Z2ZWYU9fNHBPWHIydTFYWVlEZk1ERVU5QUxaX0loZDAzMGEzemJ1Qk9fS3ZHalNHc3NXR1hIWnlqTzE3ODlacnhJdHE5SlFKMlVzYk5HZXZrZkFpMFVZNUZjd3c1ekZjUGhaRGtHcnYwNzNaY2FCeFRHblZN?oc=5",
+      "category": "Perspective"
     },
     {
       "date": "2022-08-18",
