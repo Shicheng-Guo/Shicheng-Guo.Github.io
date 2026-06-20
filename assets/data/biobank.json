@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T11:55:12+00:00",
+  "generated": "2026-06-20T10:22:11+00:00",
   "items": [
     {
       "date": "2026-06-18",
@@ -437,8 +437,8 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHVSdXBxcUdzNmhndkN4djFGRUYtQVFQYm92eFFkMDJtdVZEUnBqRU9SN0cyU0pQRXhXbDJ4TWZQd1d4UURIV3ROVVdxeklXNjBjaGpib1dNTXJpWjk4Q3VyTU1oSm40Rl90TFBpQjdLLTdrdzR6bXBKN2JYdFo1cDY1T2xQWlk4OXdNZWtKcDBMUTVLeFk4eWJXWGlsLVRQTWo1aDdXYXd6ck9WdkFhWWd0SU5RZUs2TGh0RV9vRQ?oc=5",
       "category": "News"
     },
@@ -899,8 +899,8 @@
     },
     {
       "date": "2026-04-06",
-      "headline": "Federated learning for biobank data at the CMU-NVIDIA Hackathon - Amazon Web Services",
-      "source": "Amazon Web Services",
+      "headline": "Federated learning for biobank data at the CMU-NVIDIA Hackathon - Amazon Web Services (AWS)",
+      "source": "Amazon Web Services (AWS)",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY1hDQy1wSTBUUUdtQldQemZzLVRvd2RWSWRkVHRLb3VNNGxjOHRKOEhia1N0T0Y4aExWeXBhLTRJTlBkcmlCekZQRFhEaW9QcXpfOE1OdUZrMmpKa04xZGpkZEE5R2JRVmdDYlUyY1YxQW1hckZBQVcxTWJlR3lYaGpaOGtnckhHMVE0THdLeVNHNTZyazZwNXoxczdMZXRVTXJWY01EaFg5dw?oc=5",
       "category": "News"
     },
@@ -1150,6 +1150,13 @@
       "category": "Partnership"
     },
     {
+      "date": "2026-02-10",
+      "headline": "Structural phenotypes of osteoarthritis are clinically and genetically distinct: findings from 59,539 UK Biobank participants - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44UlJpdWZLWjlJbjdkQ3NUaU5oNnFzQXZzYkNtZS1mbmZGMjNNS2VQaGw1ZU53RHR0Qy15bTA5Nm9ubnAycUcwclBxeHk5ZlB4bHNTbXR0NDlCNXU2QldaUEtvQTJZTkJxX2pxekIxb1BvT0tTTXkySnh6RUw?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-02-09",
       "headline": "Could a common virus have lifelong health effects? UK Biobank study finds new links - Open Access Government",
       "source": "Open Access Government",
@@ -1316,6 +1323,13 @@
       "source": "The Ehlers Danlos Society",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdU0yRExfTVM1RkdycGdKM2l5MGk3R3JxM1RaVEtSQ1hvWnFtN1Vma2pPaWxXcTFMUGJ0VkRyLWJNU1BoWnc1a0YwR19KZVZVOUtkS1J4OA?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2025-12-15",
+      "headline": "Sex disparities in bladder cancer diagnosis: evidence from the UK Biobank | World Journal of Urology - Springer Nature Link",
+      "source": "Springer Nature Link",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUE5Ja0xjYUFoSW1iTXJRTlJoZnpaQWNPcVhFMFNPWndKdy1LWFV2eWxPQjRCOEpmWllYQVljRjdJT3Q5N0w3UThJejhkMC11ZzhVRFNkYU5tU2pjNTBXempZTkJGRU15cnU2SQ?oc=5",
+      "category": "Research"
     },
     {
       "date": "2025-12-14",
@@ -2085,20 +2099,6 @@
       "headline": "Scientific and Clinical Impacts of UK Biobank in Cardiovascular Medicine | Circulation - American Heart Association Journals",
       "source": "American Heart Association Journals",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hUHlkd0o3TzhPOE5Ta2R0ME5LTWkwQ1dGWHVacFYwd3pFWHZJMldaRFFRSUFSdXZOYk9oU2tHb2ZSOXA5cDlvV1RkY0I5UU1BeFBid3FCNXh6X18xTmZtWjFCRXRxeHRfbVBoaUpMNlFXaUk?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2024-11-21",
-      "headline": "Metabolomic and genomic prediction of common diseases in 700,217 participants in three national biobanks - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Nb05pRFA3bkVHZFdLbFd3a3dJdEZpNVc3UTREb1dYRUxoNldOREI3WmpsM3JtM0VoTkpndzBNOFlfMjNoX2pUU3pEaG5GU2I2c3FleW95UXl0SFoway1F?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2024-11-18",
-      "headline": "biobank.cy: the Biobank of Cyprus past, present and future - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mWGVPX3N1SFV0cGZJc3J4c0lmY0c2UnIwaGdQY0gtMnZvLVdPLVdKQkxaTVNxLWtBa0ZSb1E0QXhmZU9CcWxlNUpReGFaSU1JOE5JX0JkekdYTFJaQjRr?oc=5",
       "category": "News"
     }
   ]
