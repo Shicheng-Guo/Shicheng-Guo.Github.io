@@ -1,6 +1,17 @@
 {
-  "generated": "2026-06-20T09:37:03+00:00",
+  "generated": "2026-06-21T10:04:21+00:00",
   "deals": [
+    {
+      "date": "2026-06-20",
+      "headline": "Drugmaker acquisition: Shocking $28.7M Deal in 2026? - Brussels Morning Newspaper",
+      "source": "Brussels Morning Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xRUF4czE1UkZvd2hHV09NM2tJVnpBckVnV3hKZ0Z2dW0yY0huaXBXMGZhMDljeElBQmhoMzdBRUQ5SnZ1RC00UFRSWEJFalZuMjVSeXdOWlBFWk54S3R6dm13X1pkRnVyOWhmQnNB?oc=5",
+      "type": "M&A",
+      "value": "$28.7M",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-06-19",
       "headline": "Aurobindo Pharma stock gains over 1.5% after FTC clears Lannett acquisition - TradingView",
@@ -77,6 +88,28 @@
       "area": "",
       "modality": "",
       "stage": "Approved"
+    },
+    {
+      "date": "2026-06-19",
+      "headline": "What Does Servier's $2.5 Billion Acquisition Mean for Day One Biopharmaceuticals - Kavout",
+      "source": "Kavout",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTUxRkxBbW9xaHg3SlN2MVByUW0tcmtpTmRFdTViampReVljYTNSSnNMOVZFSllPTE91MGZVZ0lraEhWR2FOV2RiMm1TRTQ1YVFJeHFWSU9BWkVTMEFRRG9oTlQ2R1pMWmREaUlfdXdFR0lGNVN4TGI5NW5hUmVHak5Vb3hvc3pISHdrTGxJRDc2RW1zNDZtMmRMYi1RM2h5dXdfdE1OaktPVUM2VTl4VjNBelo?oc=5",
+      "type": "M&A",
+      "value": "$2.5 Billion",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-19",
+      "headline": "Aurobindo Pharma stock gains over 1.5% after FTC clears Lannett acquisition - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY0drU2V0RWlxYWRZZE1UTTZNVlMwbzJqd1hTUHp1aWwzMEpKT2Nya3J2Sm44N3RvbU5lZlBrcWlSeEV3eXZ1M1RRc0VwMlIwc3hPR3RMUUxHdGE1Umphdnl4b250bk5FM0RtSGhyYkRJMGNYbTA3ZG5rb1psZEgwS3pYZjhDdnJTRm1LNUNwbXZJZDRBaVZTWFZOb19FdzJDNHJra1FuWFVLcWlrQXZNLTlaUGktakRTZmtLZ1kzNHg1blBkYkdwOVJ4WTI4TVgtQWdtRE9R0gHbAUFVX3lxTE5oU2JabVNIUTJOMm5kZ0NEdV91NUhFaGUwSXl0cTdzN2Fzb2JrXzdkanlLVzFCejJESWRzVlRJZmxTeE5scDhkbXBra3hrd3pRcnF6cDVHWDR5WXdKT2xsaTFtMkItY0c1OG5FT1Q1UmRhUUlxeGVCOGYwSjU4Wk1ESTlwbmNmaHNGTENjekpFd0hJRnBueTMxLWJFd21RdjdxU09UQ05OYWprVDJLNWh3VUpJQnY3dEhPYVZ4dHlTanNjcDlyQmo0bTI1S0gzX0kyUWp0UFZTbGpxSQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
     },
     {
       "date": "2026-06-18",
@@ -267,12 +300,12 @@
     },
     {
       "date": "2026-06-17",
-      "headline": "What Does Servier's $2.5 Billion Acquisition Mean for Day One Biopharmaceuticals - Kavout",
-      "source": "Kavout",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTUxRkxBbW9xaHg3SlN2MVByUW0tcmtpTmRFdTViampReVljYTNSSnNMOVZFSllPTE91MGZVZ0lraEhWR2FOV2RiMm1TRTQ1YVFJeHFWSU9BWkVTMEFRRG9oTlQ2R1pMWmREaUlfdXdFR0lGNVN4TGI5NW5hUmVHak5Vb3hvc3pISHdrTGxJRDc2RW1zNDZtMmRMYi1RM2h5dXdfdE1OaktPVUM2VTl4VjNBelo?oc=5",
+      "headline": "Biogen Expands Immunology Pipeline with $1 Billion RayThera Acquisition to Advance Next-Generation Therapies - bio-itworld.com",
+      "source": "bio-itworld.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc2tQc25JOUdyTl9RZldTbV9HQ0NCQW5DRVBsSVhjTFpvZzFxV1V2R3JXYTBZZlRLNXdkZWRIZ0c1Y2ZZT3h5NFktcEF5bVVXQ1ZRekNtdmZRam11UGN6T19FZlVWdlUxYkp0RmdPbTJCMXRsMkdWSUtvOER0Q3d5S0JoLVVwVWxYeUgzVmhGekQ2Ujlrc2h1djhyT3VXWjJsSW9uMGt4QkFHb0Naa0RacVlKekhqVWptbld3Znh4OUw3M094Y0FPZ3VJb1I4VlpFTHYtUzVsSlo4Yml0d2sxdllLeVB6ay1WRFRQREh3dXNaTjQ?oc=5",
       "type": "M&A",
-      "value": "$2.5 Billion",
-      "area": "Neurology",
+      "value": "$1 Billion",
+      "area": "Immunology",
       "modality": "",
       "stage": ""
     },
@@ -1410,6 +1443,17 @@
       "stage": ""
     },
     {
+      "date": "2026-05-26",
+      "headline": "Recce Pharmaceuticals Signs Distribution Agreement for R327 Diabetic Foot Gel across MENA - smallcaps.com.au",
+      "source": "smallcaps.com.au",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZkItODZqM0phQUZrVUktbmVjcGtqeE5MQXdjRUQ1M0Z0bWx4eC0zWHpKVEN4dnZmS2N5MHAxSTJpYzRmblVXQ0JsYmlSZ2xfeFZkVkt0RGVScFQ2UVJEWm5iQVJsYlR5YUxQYm9ocHJua0IzX2NUVFU1d1ZWSUFRT2xBSUhIVTk5bkZKYUpHdVRQTXVmVDF0enpFTHppRDdXLUw3UUJoQmVrWmo1RkNYMmZwYnZKN29GX0RyRklaVQ?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-05-25",
       "headline": "Telomir Pharmaceuticals Completes Acquisition of TELI Pharmaceuticals, Securing Global Rights to Telomir-1 (Telomir-Zn) - ACCESS Newswire",
       "source": "ACCESS Newswire",
@@ -1483,6 +1527,17 @@
       "type": "M&A",
       "value": "$202M",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-05-20",
+      "headline": "PharmAla Biotech Signs Term Sheet to License Exclusive U.S. Rights to ALA-002, Its Next-Generation MDMA Therapeutic, to Jupiter Neurosciences, Inc. (NASDAQ: JUNS) in a Transaction Valued at Over $100 Million - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPR2p6cDdYVEpVY2x0TVliY0NPNHowd1VBT0ZaYWo4bTdUaGJHUzFXeEQxUEs5aU4yMFFKVlUwcXFXeUZIZF9TQ0tIV2lRekxCcS04NHN6cW9wMDNWb2xYMnRwc29NVFA4RFRPUnB3R3NvWjhfNnFVMG9sYW1XVFhvcjlVTy1Rclk3T0pyS3MySWVzdjRfcVNBdTdtWVlSRWJHdFNyR0FvemE1Nk9RM2xjWE9JZU5hQTZsRUJHbm1JU2hnajY2Q0pVbXBOWmJkem15UnNJRHE3U25PWjd3UDEya2VTRmN5R0N0XzZWeFlncjFwcVBJc3FYSFBjc21fV0FsYnRMNl9wMXZJLTdSVjV5SFhyVW5kZUlQMjZGU1ZIOXk1cGFTaHJYUExhRmhOYmY4a0luMVZBbzMxV05Za0kwQ0lEQ2RpbU5WdzBiZFphMXNfaG1VZHlTSXdreWt5eGhZMUljU2Z6SkhaWmdm?oc=5",
+      "type": "Licensing",
+      "value": "$100 Million",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -1780,6 +1835,17 @@
       "type": "M&A",
       "value": "$4B",
       "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-05-06",
+      "headline": "Ipsen scuttles liver disease candidates from $952M Albireo acquisition - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2dpNDc2NGM1ZVhJcUNZSldkSm8tdGZya25oYk5xNHZ0Y0o0Rzk2VUtSU3dFUlFYeTFZVHU1bGNnOGIxd2FDenhhNnI3OFNEM1o4LTh5NlF6NHBSaGhZYUlzMG42M001TjVLUzNVMm53MDBBNWlMbXJOak9uM3RNZk8tdkVkbEI3R2hzN1pNdjI4V2s0QVo1anRUQlZIX2RDOWlocA?oc=5",
+      "type": "M&A",
+      "value": "$952M",
+      "area": "Hepatology",
       "modality": "",
       "stage": ""
     },
@@ -2312,6 +2378,17 @@
       "stage": ""
     },
     {
+      "date": "2026-04-16",
+      "headline": "More than 90 million live with HBV in Greater China; Aligos signs deal - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRkRhVDNmbHlRT3pHTUdLTUxVcUEzTXlBUEZSdFhDWnc3eC0wOTc0VEdXa3RmaFh1YXo1NGFhZnNaTmxBTTRvS2h3S2VheUtjUEZIUlJxalBQVWs5cHNfTjNnOHdqZG5iWi1FNDJFOEJvM1QwN01kNHFzb2R2UkxySVQ5Z25LOW9aNzVDYVZhVXVvQ1VJdF8zTjNrZFkzaFFoLTVKY3h1alZEZDZ0WTA1RHFCVmtYc0pncURVak1R?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-04-14",
       "headline": "Lilly makes preclinical ADC specialist CrossBridge its latest acquisition in vague $300M deal - Fierce Biotech",
       "source": "Fierce Biotech",
@@ -2429,6 +2506,17 @@
       "type": "M&A",
       "value": "",
       "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-04-08",
+      "headline": "Anthropic Inks US$400 Million Deal for AI Biotech Startup Coefficient Bio - Investing News Network",
+      "source": "Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDVnVkV1NfVkl6SjFMWkU1cTRoc0JrUHE0WmszNjNYOVdJUXdFUHpqVTdxMFhaSEJSTDZKMHdDdFFNQTcyM1c3NW1adzY5MjZFWUt1QjdPLTVfVlRKWXZudlNvSmQxSDhGTWpGTVZVS2xoODQ?oc=5",
+      "type": "Deal",
+      "value": "$400 Million",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -2660,94 +2748,6 @@
       "type": "M&A",
       "value": "$6.7B",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-25",
-      "headline": "Biogen pays $20M upfront to tap into Alteogen's subQ delivery tech - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSE1PRkF6eWtRVUxfTGN5U1F1RmFyQnFmZXBlOTNjU1llYUdDWEN6UHJRSVVVUGEzVFBZNFF2T0QwLUR1clFxbEZLbzEtaDcwckhUWGs1N1E1UE9mQkJJVnpsNmU2T1RFeFVvWXNnSVVTS0pmMlZnU1hkVUtDYUY5ZkxqNGlXZWpmaDdfTFduWVNIVm1uNERJ?oc=5",
-      "type": "Deal",
-      "value": "$20M",
-      "area": "Hepatology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-25",
-      "headline": "Celltrion signs microbiome drug licensing deal with KoBioLabs worth up to ₩205.2 billion - koreabiomed.com",
-      "source": "koreabiomed.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4ejZmWV9wbjV4RW9lLTRyMVRmSVBLUmtKODlyTkZmeGxsNUloMFlHNU12ODBTd3ZXSkVJVUNyNGRxTUFrVU5XdlZXWWNiZlVrRmxTcF9nSHdNOVNKWUpOY09aS1p2MXI4V0loRXhR0gFyQVVfeXFMTldwSm9NaS1vRndpbmNobnVNUGdHYXJxUHJlcEFJSmhkZ0E1SDJzdFo1VnpZaE1QczJrc2RkVmh0NG4wek91U2l5SFFvWllmaXJKbE9GLVVYRGpWLWNxT0tNd2txVDFpd1duWmxTZ3NFMktR?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-25",
-      "headline": "Johnson & Johnson Exits 3 Biotechs but Keeps Stakes in These Rumored Acquisition Targets - Barron's",
-      "source": "Barron's",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zVzc1T3o2NHpnU0dTd3hmMmNTbWh5aEYwVzZzMEplN2dTZl9Fa2JWVWh4R2ZNWjdTTUdNZ2RvU0JHRTJ3eHlyUDBDakJyM05sR2Z3YmQzMFdrYlV3M2V0V3FnUXdIYmpYc0tlNGVBSllXMFN2Y1dsRVhGbUhTdw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-25",
-      "headline": "Merck to buy Terns Pharmaceuticals for $6.7 billion to boost cancer pipeline - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWZpb2hJZ3VQM0doY08taFRFNTM3TDN2OXRrSWFiTVlFUU03OHNKbEloOUhIcTh0SXp5LWtwS09sQnRCbE5vSE85WElJTUlIeWZrU3ZoWjRsbWQ5RUNTMzRzcUMyWldjdnVJVkU1Z093Z05PdUtFZkU1YUlwdlVxX1BTS0pOWUwxTUlRMUd4WEhDZ2ZUY1Z1VnhpMGIzQ2dud1HSAacBQVVfeXFMTTA3VndQZWRkSHB4elRHVldoUDFiLW9FdWxPejBHZExOaFZ5ZWZXeDhpX1pqSmR0dlhiSFQ4N19vOVVmVXl6eURLelNfVkJEaERHUlRicnQ4LWF6Nm43ZUlOU0N6Y3VqV0EzaGlOS21MdEE5UTd1aWVucUxkRnpxZndWZHNWVGFiQUM2c29XMkk0WlV3OENQcHZSN3FpV2I4bGlZNlBKckU?oc=5",
-      "type": "M&A",
-      "value": "$6.7 billion",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-25",
-      "headline": "Merck’s $6.7B Terns Acquisition Positions It to Challenge a Blockbuster Novartis Cancer Drug - MedCity News",
-      "source": "MedCity News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnY0WmNyaWQxUWoyY1JIUUNfNS1mUF9CenFERGU4SWJZUWlldjY2UGpGeW1tbFhnVXpodnNYUVNfNlJfTU5KclQ0X1JMSWZtYWJZSHVDN1NKZG01MUE2Yjc5dHMzd0s4dVNtQWlxSWkzdU9xeFhTc25GN29DN2ctbDhRcFlfRXRRZWFyVURoYm91UWFKanZLbFN3ZkN6akhuQ3pnZ0JPdnB3Ni03?oc=5",
-      "type": "M&A",
-      "value": "$6.7B",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-24",
-      "headline": "Merck nears $6 billion acquisition of Terns Pharma to boost cancer portfolio, FT reports - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHNPQVNLbVlNTWdRcF9KZWx5eW5MLVdra3Q4NGZFY2xGUWN1T3h5UFFOMXd5WTFsY2FOVVFYbnNXdzlDWUFfSHRYcVh0Y0Z2MnUwUzJxd19zaXl5ejlERzQ4ektPeEN0dFRlTjBtNDRTb0lVLWZLYzZJRk9PaHNPTHVGeXNPRkdfR0pjam02NGhQUkNqclBDRW0tY2RVN183dlpzcWVtTVBxZkUxMV9lalVOaVNoQ2JxcmlWdXRSVmE0aEI0djNwdlMzM2hWZVRV?oc=5",
-      "type": "M&A",
-      "value": "$6 billion",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-24",
-      "headline": "Gilead's $2.2B Ouro buyout delivers autoimmune T-cell engager, new purpose for Galapagos - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2hDWnkybkVwbVFDbUhQMzU3YW9WSmpCdkMwN3VPeDNVOHQwTVZDVm1OcTBBN3JYdXBLeE93RFgyenJPa1JFM1pONlgzV2RpeTNnOFYwS25wbGRyWVp5VEh5Uk04RUphUWtYVmJ1OVBZUEh5Wm9HaFZoakstUlZHNlphSzh2SW9URjdMSEMzWUpyLURvZFlfWFltTzczcVRRODJ6TlctakFkeE0?oc=5",
-      "type": "M&A",
-      "value": "$2.2B",
-      "area": "Immunology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-03-24",
-      "headline": "Gilead boosts immunology pipeline with over $2 billion buyout of Ouro Medicines - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ0dhMFBhSU5ULWJyak9ZcWY1MG1UV1hUdGlNX1ZEbjZyTGVGUWRja29zS1R4RWNYWjVFak1kaENMLWJVSWsyNnBvTWRFQ1pWeVdIZEZXUi1ueUt5VWk3WUxRTmFidGFUbHhPTUZtY2tSV2pzT0t5NlZyX0RmWFY3SmdSajNKeWRBdk8wSUZRNW9NYmNOOU1pQnJBSnZoWldDRUJrN2s3Nkk4Q3EtWjY4Rk1qalBJREZEbnJQdTBqMndpeGlmbjZleWFmYmduU0laTmVONEtEcw?oc=5",
-      "type": "M&A",
-      "value": "$2 billion",
-      "area": "Immunology",
       "modality": "",
       "stage": ""
     }
