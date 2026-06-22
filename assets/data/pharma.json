@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-21T11:26:26+00:00",
+  "generated": "2026-06-22T13:45:31+00:00",
   "items": [
     {
       "date": "2026-06-18",
@@ -16,13 +16,6 @@
       "category": "News"
     },
     {
-      "date": "2026-06-17",
-      "headline": "Bafna Pharmaceuticals Ltd Locks at Lower Circuit With 5.0% Loss — Sellers Queue, No Buyers in Sight - MarketsMojo",
-      "source": "MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ZyUWlrVXI2QVRBbTVuN2ZKM0xmN1V3cEFfNUgwLV9raU54dmpGa3o3WEtyN2JuWmxWUWJsN3pwbFFud0dTbXNiLVJJS2dkMThLN2pqQVF1eVdmNWFHemJsNWZESUltNTlLQUtybDZ4ZnRZOEtXZmlHR2xFcEpCLS16RjhHOXdEUVlJRkNjYlhvRFFYMWlPU3V3UHlIOWpjWDZiQzNFeGwya0xvYzhZQzJfSG1GNk5NTEd5VTlTZThOUUZ6QWJRR3V3?oc=5",
-      "category": "News"
-    },
-    {
       "date": "2026-06-16",
       "headline": "Adapt Fast. Release Sooner. Accelerating Pharma with Smart Manufacturing - A3 Association for Advancing Automation",
       "source": "A3 Association for Advancing Automation",
@@ -35,6 +28,13 @@
       "source": "Bangkok Post",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2JRREI5c2VCRVJEeXpkVFdlaXNBcl82VmgwUjQ0OURVdHpST0hzTUNHWnRYTTJnb0hibENOZ1FIVzNIWmd3WnJ5ajZjYTBhdktEeTA1THB6cXBRcFM3NlI3WEItei1oUEhCMHF6c2plaWgwTWE0bTVRd0l1Q21zNk5LN1hwOFFlbzRPTUd3a2Ziak5JVW9pVDVrUGM5S0g3d09NSnNMVXBWM2JQbEdhTTd5NEk0T2VHcU1yZ3RRUQ?oc=5",
       "category": "Technology"
+    },
+    {
+      "date": "2026-06-15",
+      "headline": "Bafna Pharmaceuticals Ltd Locks at Lower Circuit With 5.0% Loss — Sellers Queue, No Buyers in Sight - MarketsMojo",
+      "source": "MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ZyUWlrVXI2QVRBbTVuN2ZKM0xmN1V3cEFfNUgwLV9raU54dmpGa3o3WEtyN2JuWmxWUWJsN3pwbFFud0dTbXNiLVJJS2dkMThLN2pqQVF1eVdmNWFHemJsNWZESUltNTlLQUtybDZ4ZnRZOEtXZmlHR2xFcEpCLS16RjhHOXdEUVlJRkNjYlhvRFFYMWlPU3V3UHlIOWpjWDZiQzNFeGwya0xvYzhZQzJfSG1GNk5NTEd5VTlTZThOUUZ6QWJRR3V3?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-06-12",
@@ -77,6 +77,13 @@
       "source": "MSN",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaXd5M0dVMlpVYVlTWmV5VFdJQTUtZk9nYm80cVgyeXRpNGd6eEZ5TnFmZlBuVU85LW1kTGRFZ3l3RDZyaGlOYjJRaXlTT1diZEhZZU5mRjBMTFBQbzhNaWp2VkVyNHFsMEJoOElRdElVVThiNzYtWlFaRTFIYU9ZeXVsVEVfbkdWbmZ1NFkxSmhkd2xtbG5sOThSaWw5RUZXSkRNUE9pUjhadmVrQ0NwdVQ3WENDY25YMGhqOUxmWU9qaGVQV292aU5LR09Cb2MwdERaeXg4dWdWYk1kN1pfSHhTVHBQOFU?oc=5",
       "category": "Perspective"
+    },
+    {
+      "date": "2026-06-11",
+      "headline": "Digital Transformation in Pharma: Exploring Its Significant Impact - appinventiv.com",
+      "source": "appinventiv.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5icnNOeHJPelB2Um1Qa3JVYmZFNVVVc1IwZzBSdTJXWGZ2UUExQXBMSWtGd0U2SmYwNS1nbHlSVE9JaEx5dHNsV2VINk1lNEM5Wm1WV3pOcVlVelRoRXR2eGVFR0FoZFIxYjdVcmZWSQ?oc=5",
+      "category": "Technology"
     },
     {
       "date": "2026-06-08",
@@ -338,7 +345,7 @@
       "category": "Perspective"
     },
     {
-      "date": "2026-01-05",
+      "date": "2026-01-06",
       "headline": "Arrowhead Pharmaceuticals (ARWR) Is Down 5.0% After First-in-Class FCS siRNA Approval in Canada - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc05YaEtocTJLUTBnOXJLVUo4cHZkVFFQQzVUZUFld19IX2ZVbmhVUThxZ0lBX1hwNThCbFdrcUJRdEthRV8yQ2hyc0FmRFAwSFEzUTlpWUw2cUhrZWxiSEQ4VXNSWS1ab3FmZmxqX2FoMWJHQXNWUjhPanJaNXhqVDV2VE15OXNWQk9v?oc=5",
@@ -350,13 +357,6 @@
       "source": "Insightace Analytic",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oVDFBWGp5X2l1eU94ZEFJWmhsVktjTi1GRVV5c2ZWYmd1Ny1DcjFvR0I0S05QQk1DMXAwaEt1MV9nZGJINWtQMGhCbG1BOEUtbko2NjFDMFdtQXFqSmdFTmcwNS1MVmw4X3dRQUxfWVc?oc=5",
       "category": "Research"
-    },
-    {
-      "date": "2025-12-11",
-      "headline": "Digital Transformation in Pharma: Exploring Its Significant Impact - appinventiv.com",
-      "source": "appinventiv.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5icnNOeHJPelB2Um1Qa3JVYmZFNVVVc1IwZzBSdTJXWGZ2UUExQXBMSWtGd0U2SmYwNS1nbHlSVE9JaEx5dHNsV2VINk1lNEM5Wm1WV3pOcVlVelRoRXR2eGVFR0FoZFIxYjdVcmZWSQ?oc=5",
-      "category": "Technology"
     },
     {
       "date": "2025-12-05",
@@ -769,6 +769,13 @@
       "headline": "eschbach showcases Industry 5.0 software Shiftconnector at ACHEMA - Manufacturing Chemist",
       "source": "Manufacturing Chemist",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3NqSGZHd0dQLXBaMUgzU29sZk0wTUQ0cjZ3UVU4R2k3SUpxRFlWcDY0TEMybnVLMnZVaUdJeFhYUzdqWHdVZXBpeFFQWmVMUFVNUjFwSUZHYlQ0eUpEckJGV1Q3UXFLOVlmYXlIOEx0TFVCQUpMZ1A5ZF9pRnhkRXRCaW5fSEd4bUpHMk9R?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2024-05-16",
+      "headline": "Sheffield joins CMAC’s New EPSRC MediForge Hub to build industry 5.0 solutions to transform the sustainable development and manufacturing of medicines - University of Sheffield",
+      "source": "University of Sheffield",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGt6VkRPOF9YY1AwdURDSzBCNC01bms1dmJLeEpGbktsSnctclM1ZlZ6cWNpTU9RMjZESEp6QTVCa0FkMWFWSGhLcGljU2c4aHFCNE45UkdyT1doTUI1ZmVVcE5WS2ZvVGtaQXVlSWlTYU4ySGk0ZG93VllMRkp6MWJYaHVPdUZtVV9rdWNLYTdKRnhaWnJQQmVkaE43dFdFR3l4ajlmcHpMRGY2czE5X1A3alVibUVURGtuMGtZVU1qOHN5bXhOQQ?oc=5",
       "category": "News"
     },
     {
