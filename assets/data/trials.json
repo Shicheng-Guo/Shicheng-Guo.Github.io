@@ -1,6 +1,50 @@
 {
-  "generated": "2026-06-23T10:24:04+00:00",
+  "generated": "2026-06-24T10:01:53+00:00",
   "trials": [
+    {
+      "date": "2026-06-23",
+      "headline": "Emerge Phase 3: DT120 Shows Rapid, Durable Relief in MDD - HCPLive",
+      "source": "HCPLive",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZajdsalBSOVlNcUEzMUlERWMzakNVQ1RYemxfT19OUUotMWo4QVlmODgyWnNjTXF1SjhrMHVwM0U4QnpENlFWX1hwVUFFN25WTGRZWEtlNDdseDJMNDhHVDhjNnJVYWlTU2IySU55eGxSSHJGamJ4OHJpa3NFQ0E?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-23",
+      "headline": "Pfizer Announces Topline Phase 3 Results For Sigvotatug Vedotin In Previously Treated Metastatic Lung Cancer - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGY0a1hzd0ctN0NGZUQwVGNwbWxrWGxscXN0aXBpbWEyc3FYS19DbU02ZWNBQ0wxVWwyZmlGZEc4WWY0OXlvaDItN1NjaHkyM21XOGt0VDdDei1kMkJNS0VwejRwTUVDNjJmczRWdkhwZjQ1eWRfRTMwckJLZ3N1cnJaQWdLNVNNc18yVHlBOGNrMnZkOFVVSFl5LVlVNjNMU3ZlZUJ0UkJYYmwyQUZGbFZUTEdtQVNRMU00RTIyU0s4QTBpX1Vv0gHMAUFVX3lxTE9SOXh5NC1GQjlQOGxJTHpGWE1KV1FEajlwOEZqdlRRdWNQYXhNcDJfT0FJSmNnNEtqZFdaM1hzVG9CenJrcWpFTTA4RWxCYXN4X1N5enUxOWRBYUV2c0ZZYXM2c3Q2d3pwZU1tMmxveVdYSUFtNGFFemszRE9EbzVtRGo5eUVTM3drdXl2UEl1T1lOTzVNUlViYnRBTzRDbG1mZTdUc1p1Y040YTJEMG9tSi1OS01iLXVUOTNaS2w0Qi1IMmxqZW1TeF84Yw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-23",
+      "headline": "Corxel gears up for global pivotal push after oral GLP-1 posts ‘competitive’ ph. 2 results - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWJpMkJDWG1MQVVpbXJCYmRRclZDMThDRkcxNjRaeUhrVDBkWEFscF9ncTZ6Z3YxRWdvMXVVWUZFYTVwQllKZ1RtMl9TZ041R25vZGdPeXpaUTVjdjJxekhOWVQxLW9zWW55ci1YOEVwV0NBcERyaWNZMWw1cUlaakNSaWpLelJQR0toV3FVR1pJdU0zcWFMaFBNQnl2cjkwMW0yd0x3dGl5TFJPd0I5cG5ZZzljTzlaLUE?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "GLP-1",
+      "moa": "GLP-1 agonist"
+    },
+    {
+      "date": "2026-06-23",
+      "headline": "Pfizer’s first new ADC from Seagen acquisition fails phase 3 NSCLC trial - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0JfdnZ0UGY5SWVaalFGaG5JYlZsOWdPbXFDdW5Ra1NPWDJBRFZGRC1kWGhkOUU1NlFkZ3c4bWFXcHhKRGtWUUxsMFBhUmNkeWp2UGQ0bl92aEd3UDBkX3pob0lDVjducTVYaUNuR2p4RmI4cVBUOWR3aGNVNUJEUFVzTnJRTVg1bkJYQkhFMXhqMl9SMTNhU2JYMkp3cUdJRkdpenlR?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": "ADC"
+    },
     {
       "date": "2026-06-22",
       "headline": "Merck’s Tulisokibart Met Primary and Key Secondary Endpoints in the Phase 3 ATLAS-UC Induction-only Study in Patients With Moderately to Severely Active Ulcerative Colitis (UC) - Yahoo Finance",
@@ -244,6 +288,17 @@
       "moa": ""
     },
     {
+      "date": "2026-06-22",
+      "headline": "Definium Therapeutics shares surge on positive late-stage trial results for LSD-based depression therapy - Proactive financial news",
+      "source": "Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZExjRG84eXpvR1U0cUhpdGJIYWpvakRNdkJpTkZmX2RaTGdfS1JkaTB1ZzBzaWw5VG5LY2J1MWhpTW51Qi1LaUlMTkI2aDV4eGczcnJzZzlSSGtHQXNPS0NoVEtLLWZVVm90TkFaSUJHMW1XRWV1N2wxSEVDX2NYeEUzVEVhNXVtcG45VXpqbGF1STNGRkFSazhZa0ZzRndicERKRWNjOHRtSEk2WjVia0hHNURyVmQ4LVVXNEEwaG5HN09hNW1paGdZM1FOajFSS1NiREdGQWJKMjMzUkg3Wmh6ZkQxSWFwNVUzVUMxYy1mUzFlZEVtOHAzclF5NENtUDBBMFZ3?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-06-21",
       "headline": "Definium Therapeutics to Discuss Topline Results from Phase 3 Emerge Study in Major Depressive Disorder on June 22, 2026 - Business Wire",
       "source": "Business Wire",
@@ -262,6 +317,17 @@
       "outcome": "Readout",
       "phase": "",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-20",
+      "headline": "Abivax’s obefazimod met primary endpoint in Phase III ABTECT trial - MSN",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVTd4cXdSeU5RN09ZdW5oVEFzaVFrZmNJTV8xY0p6X3hjOURfbHZLMEJ6Uy1DS2RJRmhxSnY4bDhOZzh2TUg3MmR2cGNYR1ZKUk4xTXZLRWpJRmx1b0tydTJIcXpkUWxsUk5KWlVac1RPLXRyOURtT0tOb1FXX3Y0NU8tY0JtUUI2cWZtaDhFbllrcFR3Tm10X09OTUdvVzd5YThQSWVYS3JtT0JjQ1BPUDkxaGc3YUg0?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
       "target": "",
       "moa": ""
     },
@@ -1054,17 +1120,6 @@
       "outcome": "Failed",
       "phase": "Phase 3",
       "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-12",
-      "headline": "Abivax’s obefazimod met primary endpoint in Phase III ABTECT trial - MSN",
-      "source": "MSN",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVTd4cXdSeU5RN09ZdW5oVEFzaVFrZmNJTV8xY0p6X3hjOURfbHZLMEJ6Uy1DS2RJRmhxSnY4bDhOZzh2TUg3MmR2cGNYR1ZKUk4xTXZLRWpJRmx1b0tydTJIcXpkUWxsUk5KWlVac1RPLXRyOURtT0tOb1FXX3Y0NU8tY0JtUUI2cWZtaDhFbllrcFR3Tm10X09OTUdvVzd5YThQSWVYS3JtT0JjQ1BPUDkxaGc3YUg0?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
       "target": "",
       "moa": ""
     },
@@ -1960,7 +2015,7 @@
       "moa": ""
     },
     {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "headline": "Eli Lilly announces Phase 3 Libretto-432 trial of Retevmo met primary endpoint - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUkVJdFFVT3hCWUUtaE5yRW9mWUR6V2o2YkQwZzRrdGtnaV9EamRaMVZSbXozR3FxZ3puUVViM0dRSEt2dkdTZXUyT055bzlDVDZiOEptLVJUZk0teXpmUHZyYlhHdEpxcHVhdW8tTmV2NjhzR3haYl91ckhZZVZCMjAxNS03TDJDSXIxRVI5aFBGenhpQklPOGtmN3Y?oc=5",
@@ -2694,61 +2749,6 @@
       "phase": "Phase 3",
       "significance": "Missed primary",
       "target": "LAG-3",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Aribio targets fall phase 3 readout, inks ₩7t Fosun deal and eyes KOSPI listing - CHOSUNBIZ - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSmxpLUVhVDRTeHhpeGxtbEhyaDBMY0czVXYySDhFdEN6T1dXSVc1STNEbkM0R0d0SXlTb202cTZ6N0NqZkFGZEtGYnNrektTZ1FvZDlfeFI1SmRkMC1lSlBCYWNHQk9yaS1HU2hGWXh4VlRIbDJhRTB3RHhMMmNOa9IBlAFBVV95cUxNNDNQdUJpOTZpZnh2NnhmZFA5TlFCbDlwM1U0cGJFT25DR2JyelEzd0NKOC1QYkNnMWJ4dGNDU2xKLVNhNVhuTk5HWDdSWEZ0OXR2bE9LakwycVI5aE9TdmtIbUhfdXJaYmU1dkNCeEpVSVQ1WlBaMEVVMEFpUkQxYW9KQml1NUh2VVVOZ1E5bFNEMkgx?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Merck Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGswR2NPRGtLX1ZJcHRKM3ZqTm54Z3N4X1hRTjJGNFFDeFVfbWsxRUlaYnFINkwtM2Z6S3pWV3B5aDc1THRPOWZSQ1BCXzVVTVpYSnlxME94QjhGSl83djBKSGlSclRsdmlsa1pzdkNGaE0zM1ktQVlNWXhxUE04eGRldm55bFJ6anlReDRJRC1BamF5RzA4QUNOd3diYlluODlsVw?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Merck Announces TroFuse-005 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoints of Overall Survival (OS) and Progression-Free Survival (PFS) in Certain Patients With Advanced or Recurrent Endometrial Cancer - ChartMill",
-      "source": "ChartMill",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNS0g3RklyZ2Noa1hlZE9zRjh4WTZMSFpvZV85REFOUUZVeEdXSHNlajJRMzR2b2pxRi1vYTBrbVNxTWdoZ0Y1bzFrZzFxc1NwVTdqU2pLTEZBU3hWS3dCWWlYcFl1SDBtZ3VoVnF4Q3NOS1hSRlFuQU5jMnl4NU0zbFZtX0VLTnI2Vl9jZE0wMFBsa0M1Mkt3RVlEeHZSY3RuTlVwWi1nU0RseEdYaTdFUDlna3ZFQWhrQ1VrUnJ3R0o2LXMxODlkTHE4d1V2c05HR2dqa3F1ejBrWEV5b1hIVW1kOWE3ZndmbEtlVGl4aUtHVV9NdXcwR3d3QndzZnhlazBWcUdXbDVJQUhGQkxnSXduMkFjeGkxOHBPNnk3TzRxenZvSGtLZTFSbjhLR3Jidzl1ZnY5SFV0WFJGQm5JOTB5Tl9vaXNCdXhPbG9rSE8wUlVnQnNOU2ZMTHNPbE5odW9GUURrRTI3VHFiUVFNcmttVU9Ldl9YSWhXaEVnUUYyTjJ3SHJCaExB?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "MSD's Sac-TMT delivers in first phase 3 readout - pharmaphorum",
-      "source": "pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84YS1PWWw2QVNDWDFFZElIQ1QtZ2VSU1VIbXpVMnl0NUlVaGtPdFJkUmVCMVM0cVBra0hrS0M5dmR2ckE1UnFMdFpIMW1GcF9uUmZUMm51RWMxY3VYM2RZSXFRcGZReVVWbHlNNnpPSWZVLWc5V2tZY1ZCd1lHZw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Race intensifies to lead next wave of obesity drugs as trial results loom - Pharma Voice",
-      "source": "Pharma Voice",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGhYeC1mbVd0akxkWV8xa1BoVEFrUUF0Mjc0ak41Y0ZZeTB4VWdLWEh3N24yZzF2UmF3a3NUeUFscng3NUNBSlRYVFRzUTdab21ETVNQdXl0RDI2UW5MZF9aRUJCel8yTlFVSnpYbkd1ZVdZeXRTS0oxNmN4cWFWdFM1Nkl3NnNwcGtTVlVhVDZTWUpuRzRDUnZ2TjVLWFdM?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
       "moa": ""
     }
   ]
