@@ -1,6 +1,28 @@
 {
-  "generated": "2026-06-24T10:01:53+00:00",
+  "generated": "2026-06-25T09:58:48+00:00",
   "trials": [
+    {
+      "date": "2026-06-25",
+      "headline": "Oral GLP-1 Drug Shows Promising Weight Loss Results in Phase 2 Trial - Technology Networks",
+      "source": "Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDF0M0FPREhHUDRJR2RRWTlybXdaQmFvWEEwSVJNUy1nbm8xWWpJVDM1ODZ3bGJFSkdQQkZvaW5aWjZZXzdSNExvLWdJdEsyNnhlVUZPRTdKeTRSYUhGUDlTdndjMm02S003ZWs1R2RNdFo0U2VZY0VSNHFPa21Eb2d3YzcwYjVsMEtpblNnNnNpMVppbDFBM3BONG03TGhzTDBHUmgzOVNBN1R1eUpjYXZjTGxSOEpwWWc?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "GLP-1",
+      "moa": "GLP-1 agonist"
+    },
+    {
+      "date": "2026-06-25",
+      "headline": "Onconic accelerates global phase 2 for Nesuparib, targets FDA IND this year - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTFKOHpvQmJ4b0EzSjBtLWhYV0doclk3RktIWl80UXpBYzd0amVTdm1tc3Y3OWtBNi1CSFh6WjJKTDJTbnQ1aE9wbzJyc0VOQl84VmwzZzdKOEpabndnTmp4MS10aE96NDRpNzBpOW1QUGxkUkYtd1VWNlNSNDZlV9IBlAFBVV95cUxPRzZTWmhlbWJMRGlXd20zVW81VEhEVTF6WnY5MDVNT2sxQWtGdUkzZlZVRV84X19xQVVYNklDeHlHNWpSQzNQaU56U1hhN2VZc1F4LUNRVTlXdC0wQ3VJSDJBNkxJeGN3R0lwX1JKR0RtclRaQXBlaGNwU0xrcVNWS0RtN0o1YU9LUDFjRGI3WmxsR1Rv?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-06-23",
       "headline": "Emerge Phase 3: DT120 Shows Rapid, Durable Relief in MDD - HCPLive",
@@ -44,6 +66,17 @@
       "significance": "Missed primary",
       "target": "",
       "moa": "ADC"
+    },
+    {
+      "date": "2026-06-23",
+      "headline": "Pfizer's experimental drug misses main goal of lung cancer trial - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYjhaR2JUWVBWVi1YODRGN0luVlpsQUI4UXNtSzNJcTRSMDllNzdDN0EyUHZMVmV2YXRadjloLW9Pb3Mxc1FYQUxmamFQN2VEM1dBM1BpQ1ZGUmpRTmp0a2J2YjRXcVJETFBFYWIzSTNFV0QzR2U1UlZHTHRPbERKOXAwV29WRHhIcGp6R3YtZkZjb2xqdzVIWDM3TlBvbWRRTHVUXzBzTWZ4SXVPN1R3OUNNY0VJVVBKNEpBUWtRNUpSY0VYVTlYZTlmaDQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
     },
     {
       "date": "2026-06-22",
@@ -256,17 +289,6 @@
     },
     {
       "date": "2026-06-22",
-      "headline": "Pfizer's experimental drug misses main goal of lung cancer trial - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYjhaR2JUWVBWVi1YODRGN0luVlpsQUI4UXNtSzNJcTRSMDllNzdDN0EyUHZMVmV2YXRadjloLW9Pb3Mxc1FYQUxmamFQN2VEM1dBM1BpQ1ZGUmpRTmp0a2J2YjRXcVJETFBFYWIzSTNFV0QzR2U1UlZHTHRPbERKOXAwV29WRHhIcGp6R3YtZkZjb2xqdzVIWDM3TlBvbWRRTHVUXzBzTWZ4SXVPN1R3OUNNY0VJVVBKNEpBUWtRNUpSY0VYVTlYZTlmaDQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
       "headline": "Definium’s LSD formula produces ‘best data ever seen’ in a pivotal depression trial, CEO says - Fierce Biotech",
       "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZnRQakRQbWg1TkZvazJycHBETUNIZEU2X3Z1VWZ1MDh1QUZuckZ1VEpiMG9Vd2F1VEFCV1pVS3NKWS1GWm9WWWJUYmdzVFl6OW9qa3ZHY2JOM0h6WUh1dWp3SnE4eVlqN0ZaeThLLVhIYlhHY1hkdjdEbk9UbHpJYmoycDNGVzFQTWFMOFBDZ2RiRURTemFwd2gzWHd1VndpOWFlOVRQcGstQzkyWi1HVm9nLXpEb0Roc2NvMGRZWQ?oc=5",
@@ -294,6 +316,17 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZExjRG84eXpvR1U0cUhpdGJIYWpvakRNdkJpTkZmX2RaTGdfS1JkaTB1ZzBzaWw5VG5LY2J1MWhpTW51Qi1LaUlMTkI2aDV4eGczcnJzZzlSSGtHQXNPS0NoVEtLLWZVVm90TkFaSUJHMW1XRWV1N2wxSEVDX2NYeEUzVEVhNXVtcG45VXpqbGF1STNGRkFSazhZa0ZzRndicERKRWNjOHRtSEk2WjVia0hHNURyVmQ4LVVXNEEwaG5HN09hNW1paGdZM1FOajFSS1NiREdGQWJKMjMzUkg3Wmh6ZkQxSWFwNVUzVUMxYy1mUzFlZEVtOHAzclF5NENtUDBBMFZ3?oc=5",
       "outcome": "Readout",
       "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-22",
+      "headline": "Pfizer Announces Topline Phase 3 Results for Sigvotatug Vedotin in Previously Treated Metastatic Non-Squamous Non-Small Cell Lung Cancer - Yahoo Finance Australia",
+      "source": "Yahoo Finance Australia",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEprS1BRajUycXpBSmdrMmtFZWFLVEVYRWl5YjdwNzNHSllvMjRvS0RIWVhkdW1NYXA3b0hJVlBmekxYQ21Pb2Z1a045SlVFUDgwUHhNcEVkdDVEamZxbnhLYmJNX2pyY3NjbGZ0NDIzWHlHQTl1Y2xfSDE2YklOekJoNUd6LVBV?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -534,6 +567,17 @@
       "headline": "Novocure Fails to Meet Endpoint in Trident Trial - Medical Device and Diagnostic industry",
       "source": "Medical Device and Diagnostic industry",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTdaVDJrLS1yOWlVdVVoQ0I1YThkNWo1YVJaN0ZMWk1zR21TS2YzRjRQb1VMbjJfZXoyMzVsYmlVS0Jva3UxQkhUcngwcEt1OUFKdzFSMlJUSU10R3VDT2JyUXdYMzdDSUFPRk9Ud2haM0ROSlFvdzB2cWphQmhDWDM5bGp0b2kweEdDWFFzRnpjdw?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-18",
+      "headline": "Novocure’s glioblastoma trial fails primary endpoint By Investing.com - Investing.com Australia",
+      "source": "Investing.com Australia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSTZNa0Y2TzhaTTZyc3N4WnV3aEMyenNhSk9MVDFWSUtNeHBQY0hydkNtblllakMyY011Q2NwU082Ull3TkJoQ0V5RDZXUTlZRENaYno3VTJkNU1EUkcwXy1oOU1mYnFjeTQwSXZSOU1PZERtQnd4M21MejlPZjhMY1gwSzIwcUthRGNlMDZSTDFiUTVvOVlNQWVuaXlGWHYyMndUNXZ3a1FnZ1ZuOHgzcF9R?oc=5",
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
@@ -1345,17 +1389,6 @@
     },
     {
       "date": "2026-06-08",
-      "headline": "Dayspring Pharma Announces Positive Topline Results from Phase II Clinical Trial of CG2001 for the Treatment of Androgenetic Alopecia (AGA) - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQS0tucFJHbTNna2VoM1ZnNUlHZTdXRGFleWZjcjIyLTRob0E0cTVUX29xc2xmR1F5dTRybE5peEJZcWVFc1NZdm03N3djMjlYck85aDktNkhOZUV6WHRnMXR0cGY1TWdUMUFQT2haUTdwYWNXZ0U3cWtreFlsZUdzaEdEN3lFZEF6RTVkRk93MHBkODh6R3c1dThXalBnVTNRVGhQalljT092VzVUeEVWNjNESUVmdGh3RGc3Y3FoWUxlWUwxcUtjUlZ6NXdvQzFpcTFZaVZwVGdxcDh3eXRmTFJ4a1NzNy0tbWpGMEhtMFlSTy1SeTdHenhTS0ZQb2pPOUZCR0RtUnVhRHJFNTl1SWs3ZTcxREdZeUN1WXR3?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-08",
       "headline": "Gilead and Merck Announce Positive Topline Results From Two Phase 3 Studies Evaluating Islatravir/Lenacapavir, an Oral Once-Weekly HIV Treatment - Business Wire",
       "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeXVPdjJoRThlZ0E2bGY0dUtKUGhuZnVVVEQ2MTJOYUE3OUEyOERUTFJySGZrWHJwdko2YVBvN3BGMlJQYzVlUEg1MXdFbk1JQVJEVGdoSzA0RnR5UWZVazd1SHFfbFk2azNpLTV2Q2hpbkZPOC1kMHVrT095YmpBdHpFUWg0eDhPTGFfVDJxU0xFS1EwT2tacC10MTNlcXBsbFdvX18zRVBtS2lHVVdFY3NxZ2xES0hteExIM3VETDNKSkIxbHlzM0pvR0M1b014UGoyNFFReTFMSFIyak5KYU55eTdJQ3R3aTNId0trNmE5QmRJQ0pKOUYyRmRDLU11UERaUlNtNEZKSkY1bGNsMVdIUWxGLUFLNmp0UXFfQ3FLVm0yVFE?oc=5",
@@ -1513,6 +1546,17 @@
       "headline": "Dayspring Pharma Announces Positive Topline Results from Phase II Clinical Trial of CG2001 for the Treatment of Androgenetic Alopecia (AGA) - Plataforma Media",
       "source": "Plataforma Media",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbmlYbnFlVXRYY0VBUXYwNHRtX3N1NGRjcGZqa0d3RV9mQzBDZEhKYzZHS3NhbUJpOU53cURlYzcyUzFzZ2pTSlpsaXhuUXpWUDgtYUQ4YXlwaUMzdEJxaHQtQ1pBWmVxZFZDSy1qOGdHWXB6ZEJlLTk1UF9IMmp3VlRyU2RuSmVkckpHQUdSMlF2dkFpY0hlUmhCLVhhZWZmMmRWY29tQjZrRkozbnhvOVhXZkVUbzkwOWJ4eEFTbEd0TUpKQm1zdjFLYWNKSnpYMjRnS3pkUEVIR2IyaGd6X3loSldqd1JvcnRMakJDS2JjZEpSanl2TFFQb2tKemppMHFCWVJiMVJHTERVbGZGR2VB?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 2",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-07",
+      "headline": "Dayspring Pharma Announces Positive Topline Results from Phase II Clinical Trial of CG2001 for the Treatment of Androgenetic Alopecia (AGA) - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQS0tucFJHbTNna2VoM1ZnNUlHZTdXRGFleWZjcjIyLTRob0E0cTVUX29xc2xmR1F5dTRybE5peEJZcWVFc1NZdm03N3djMjlYck85aDktNkhOZUV6WHRnMXR0cGY1TWdUMUFQT2haUTdwYWNXZ0U3cWtreFlsZUdzaEdEN3lFZEF6RTVkRk93MHBkODh6R3c1dThXalBnVTNRVGhQalljT092VzVUeEVWNjNESUVmdGh3RGc3Y3FoWUxlWUwxcUtjUlZ6NXdvQzFpcTFZaVZwVGdxcDh3eXRmTFJ4a1NzNy0tbWpGMEhtMFlSTy1SeTdHenhTS0ZQb2pPOUZCR0RtUnVhRHJFNTl1SWs3ZTcxREdZeUN1WXR3?oc=5",
       "outcome": "Success",
       "phase": "Phase 2",
       "significance": "Met primary",
@@ -2576,6 +2620,17 @@
       "moa": ""
     },
     {
+      "date": "2026-05-21",
+      "headline": "Phase 2 bezisterim trial for Parkinson’s completes final patient visit - Parkinson's News Today",
+      "source": "Parkinson's News Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXVzSTJJeWRlRlhvb08wemdSdkNLd3dKaFBqRnBjbnEtdFpBdzVicndLRnZkcHQ4dkNXd2kzYXdlVnlYRDl0Z3JhdVZjSlNXT2hGM2ZoTjdoMTZaMTFSSC1hdFFwTWFPTHIwNkpldElqeHY4UVctXzljS3J1XzV1WTdBSUxQc19kRk9wcFlQVUw2QnJtMHVMNFY4d0JGUUR5TnMzdEhOZHRHakk?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-05-20",
       "headline": "BioMarin’s ENERGY 3 trial of BMN 401 meets one co-primary endpoint - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
@@ -2694,61 +2749,6 @@
       "phase": "Phase 3",
       "significance": "Missed primary",
       "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Mixed Topline Results for Anti-Tau Agent in Phase 2 Trial of Early AD - Medscape",
-      "source": "Medscape",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnM4cVdFanRFeFZFWndDV0liNXAxZ1RKV3NGRzBCckh3TERqclpaZmozdUtiSkNnTnJBb2E2WC11NVdTQVdUbHhvY09DVDdmMTctN0FYb2dtWmhPTjNHQUFyMlVRWUd1VmFEeGtvOVNsM1B3cFNubWFfcXRnWnNKMlRtcjF1S2FnUFo3WmtQVEpGNWNveUVUVXZZZVdDOU5SQThGYVQ3WldxYmlkM1E?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "tau",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Regeneron’s trial fails to reach statistical significance for primary endpoint - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGpZcDFBaFgzWWFSQ3lDcmN4STF6N0tBRmhsanhZQ0R2eGhqR1gyM3ZtX1JUODFHR1hyeEpUNXdsV1FHYVlQbl9qaFBxeERScXpiSklfSXUtZlJDT2tjV0FGOXc5aFEtdHpuLTlfcHhPM3ZHRWZXc2JnR3R5NllqY1JZVGM4QlppV0dUMmVVMURVUzRIZkh4ci1ydTROLW8?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Merck, Kelun score with sac-TMT in endometrial cancer trial - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUpMd2g0Qi1fOXpsN1o3c1hOTmE4ZVFrZTA4ek5BOGZ0a19POWQ3TkQwbldzX3ZyV2gzcmh5WUpvUHRMN1RrR2w4VTVoZi0yczlaX012ZGdQMFBPTU5FMDdBcVZLTXNMWU4tdWcyNlhJSTR4VnhEaVV0QmQzZWJla19wV2U2Tl9tTGRFZVZTaw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Regeneron Stock Sinks as Key Melanoma Drug Trial Fails to Beat Merck’s Keytruda - Barron's",
-      "source": "Barron's",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaEI4b1dKbDRzN3lKWWdKZTlLUG5YLTNJdFMzcmVTbkZtaS0xMFJJTUZ0VkFwc3l2eVFsb1g5TDFWcHBGYnRJTXV2NmdfLVZMb2piWDFKcW1NY0dEaGg2d01IQzhKdVMtcG1NSExVakF3NWUybnJVR05MMUEyVGdmNy1fUUcwWk4yc08wTHdwUndwdzVxWDJN?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-18",
-      "headline": "Another LAG-3 setback as Regeneron drug fails phase 3 trial - pharmaphorum",
-      "source": "pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1VSTlp0R3YwU3dwd2kzUUIyZXRLRnVuZ3RBbld4NVhaaHZWdW40akV6YnlDMGFLMGpROG1fN01TYVI3dWxnTkRObGFSRjNNWnVRUDl1eUR0UjhRRmZQVW5XODcyanMyQ3pHYWRwcF91cHZtYXZwd2R4bWFjLXN3NDZBWUhqMXFITjdueXZxWQ?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "LAG-3",
       "moa": ""
     }
   ]
