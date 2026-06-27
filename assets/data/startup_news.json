@@ -1,6 +1,13 @@
 {
-  "generated": "2026-06-26T11:12:46+00:00",
+  "generated": "2026-06-27T10:18:50+00:00",
   "items": [
+    {
+      "date": "2026-06-26",
+      "headline": "UK BioTech Thalia Therapeutics raises €3.1 million and acquires Sanmirna Therapeutics - EU-Startups",
+      "source": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFMzOGRSZEJmUWMxMTdhSVhvcGdmSXY3N1M5ZXZrc19MYi1mRk5oU3NwUmdNWWZZYTVBMGlmWWdjNE9WUE16NHc3X0pvMWNNSmNTYV9iNmNNb09kcUdRUjlLbS1nQmhJNUg0ZS1PSzlmNTY3MGpVUmJ0ZzFOMFA0LUR3dGJoUEJSOFZTalJTTTgzQUVKcXJlMTNuQjFIR0dzeEI3d0RGNmRjY2s1bzQ0X2M5Znk5RG4zUmVyNlBDYw?oc=5",
+      "category": "Funding"
+    },
     {
       "date": "2026-06-23",
       "headline": "Homegrown biotech firm launches new R&D lab space in Vancouver - Business in Vancouver",
@@ -157,8 +164,8 @@
     },
     {
       "date": "2026-06-08",
-      "headline": "Scottish biotech Bead BioPharma emerges from stealth with ADC platform - The Pharmaletter",
-      "source": "The Pharmaletter",
+      "headline": "Scottish biotech Bead BioPharma emerges from stealth with ADC platform - The Pharma Letter",
+      "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnFVd0s4cUh3QlNSRUlpUXlqOFBWZTg0UHhYUTF0RW5HZEtFZnQ1U3pyVm1LUUVDOUJENTJFbVU3UzZEeUhHOGk3SVJGMld0d1ltUE1qQ2J4QjlONFZkMWFsX3BkRElsbDk0d3lYN1JTWFQtaTlVU0pJN0UzUU5jdjZ1ZnJxcTYtNFBpY1NhM0MxVWdJT0pVSG5mSVo2RC1KQUV4V2tPYS1qZ0JqWWFxc2FUTXE1OHM?oc=5",
       "category": "Launch"
     },
@@ -947,13 +954,6 @@
       "category": "News"
     },
     {
-      "date": "2026-04-05",
-      "headline": "JBS Opens $37M Biotech Hub for Cultivated, Microbial & Functional Proteins - Green Queen Media",
-      "source": "Green Queen Media",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkFlazBNUUVucUJHZkRYQWE5Y1BPbnUyQkRQSlVKbF9ZZDJnZllfVlA5MFRxMzBRdGNrQUFUaUpOSEVKOURHbzNlZFV3M1I2N1Q2bnBLTFQtdnhUVXhoYXBjbk02WVZjU2tDTnR1M3BERmt5UmxVVC0xLVV6cUtFZldIbXBKS2hHZERBSEthU0pEZEVMSk93cXdXMA?oc=5",
-      "category": "News"
-    },
-    {
       "date": "2026-04-03",
       "headline": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports - TechCrunch",
       "source": "TechCrunch",
@@ -994,6 +994,13 @@
       "source": "CryptoRank",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFVwT1RfM3Q3SWxDQ3c2bHBBY1RrckIwMmh2NF9hY0p0TmROdVlULU1wY1BJMXhXNDk5d0RwRmM3cGplek1qX21pMXVhYklmTnptVDRlTENMc2F5QlZSSXN3d2s4VGhJaHZiWWlrdlh4RnhMZ2YtRFFKcW1jVlpHMC1MN3A2MzhtNlFZ?oc=5",
       "category": "Partnership"
+    },
+    {
+      "date": "2026-04-02",
+      "headline": "JBS Opens $37M Biotech Hub for Cultivated, Microbial & Functional Proteins - Green Queen Media",
+      "source": "Green Queen Media",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkFlazBNUUVucUJHZkRYQWE5Y1BPbnUyQkRQSlVKbF9ZZDJnZllfVlA5MFRxMzBRdGNrQUFUaUpOSEVKOURHbzNlZFV3M1I2N1Q2bnBLTFQtdnhUVXhoYXBjbk02WVZjU2tDTnR1M3BERmt5UmxVVC0xLVV6cUtFZldIbXBKS2hHZERBSEthU0pEZEVMSk93cXdXMA?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-04-02",
@@ -1179,8 +1186,8 @@
     },
     {
       "date": "2026-03-12",
-      "headline": "AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "AI Drug Discovery Startup Earendil Is Said to Consider Hong Kong IPO - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUY4NDVXaVN1SUpMRDFFYkpEcGN2alI1ZGR1ekpZTVdsTmh4RmRUdUo4VmRoek1oQzhDcEJmUkRBUl9fT0dLMDdzSXpzVWstTUtCX3d0TkFoRVh6RjdDcnhwcWZUZ3hkSHlvS0tFSFVLajQ1MEQzZUdaMEFzc3pTRGg3UHlHRmIzWnBEM1JRTV8weVYxbmdRMEVnazV2WWt6WUwyNFBveXFLUjVXRVRtNl9oSW85NnBjVW5R?oc=5",
       "category": "Breakthrough"
     },
@@ -1676,8 +1683,8 @@
     },
     {
       "date": "2026-01-13",
-      "headline": "Proxima Raises $80 Million for AI Drug Discovery From DCVC, Nvidia - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Proxima Raises $80 Million for AI Drug Discovery From DCVC, Nvidia - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzFrNU1JU1ZqVlg5aWRXemJKV1kzQWlkaGNvbHFlWm5GNEl0TE9jRkhNQVNseENvWERkZW5RTG0zaW5pUFRfWW92MEpqbmhTbW9rdGN1MGZfbTlyNzQ5ak1TeWNTa0RfQ2t2SjNKbWNhM3dRczhxd1B2UWZzdDdTemVnQjFSWVJZV3dQckV1THR2TUxELTlvSDhXZU1TQmEzSmJsOE5WY2QzSFNiV3hERWIzX1JJZw?oc=5",
       "category": "Funding"
     },
@@ -1742,13 +1749,6 @@
       "headline": "Spain's HealthTech startup Tucuvi raises €17 million to scale LOLA voice AI, reporting up to 80% automation in nursing follow-up - EU-Startups",
       "source": "EU-Startups",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVGNIc0pZR0VvUWRRT3NlaTd3bE1YSXdkTmR4N2c4cEsxYm42MlNQY3NQelZIcUtPaWN2eWt3WHdGUkpIVU5PYVFwTVdKbjF0Yk9yemR2OThUQzg0RkxIUWlQTkN0N2R5bGNLZTNiNm9QdW9EQkJaZDZ0WkdCb1c4TEpGczhxV3ZOYVVJS2Niak1aNV9jM290TUxSSkpKd0xkbXY2Tm9kWTFIZ2Y1ZGVnQ253NDdIZmVZYklyM3dyT2EwWG0xcUYzTVNXUWZOTmhpY2JPQS1lbDJmTGlQRGRhVEphVHVoLS0wVHlUSXJ1WkNKbUxw?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-01-08",
-      "headline": "French BioTech Spore.Bio secures multi-million-euro Google.org funding and launches AI-native research unit - EU-Startups",
-      "source": "EU-Startups",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVHdLNGRKS3ZMMUZlRTVJYnRmby1OZS1aTFBiN0M1NmJpUngyQ1hrczA2Y2liZEtLNFNUWW04ajNqZEdrX0VqTlZQXzRxaUZGdnNQSXdIbDB6ZXlfY2p1aFB4VVg2VVF6Q21pdUt0QWtBX01CUmZhVW80cFdma1BJaG1JMWY4Wm1NSGh0XzRfeDAtWFRJR2E4RHUtMzIyakdKTktUTnFic1U3VEJaNjJGYU1oNXBLVFVPdW5aN3Y1eUhZWndxV1FOUWlqdE5fQnVmVVJ2blRDM1dFa3FCQ19j?oc=5",
       "category": "Funding"
     }
   ]
