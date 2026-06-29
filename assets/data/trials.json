@@ -1,6 +1,17 @@
 {
-  "generated": "2026-06-28T09:48:24+00:00",
+  "generated": "2026-06-29T11:49:08+00:00",
   "trials": [
+    {
+      "date": "2026-06-29",
+      "headline": "AriBio completes main phase 3 dosing for oral Alzheimer's drug AR1001, topline data due this fall - koreabiomed.com",
+      "source": "koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HME91dFBnUkt2dUZkcng0Rkgtam81UC0tS0txUkk2Nl9JclFqdk90WWtsTGZxU29ETDRGMklldjNCcnI1NGtjT0ppUENKM0hUeEVDTGh0OVNjRTVnSmJWR243ZFc0Tm9WcVZMSUFR0gFyQVVfeXFMT09vZUJ5bGdkdkJ6NHFzWnQ1enRHSjQzdUs3OU05MmIwMzZlcFVkMS1lR1ZBcWlJZmVrMTRhbWZOTENReHZiNW9qZGd6LTNKb3Z4S3lINmpiRW1GMVUyamZwRDFNVnVnRUI2bzh6NEY2a3B3?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-06-27",
       "headline": "Eli Lilly (LLY) Announces Positive Phase 3 Results for Jaypirca Combination in Relapsed CLL/SLL - Yahoo Finance",
@@ -541,10 +552,65 @@
       "moa": ""
     },
     {
+      "date": "2026-06-22",
+      "headline": "MapLight’s autism drug trial misses primary endpoint By Investing.com - Investing.com South Africa",
+      "source": "Investing.com South Africa",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWVEaXl3dU0zYUxscGNEd0xIWmJ5em83NTlIQnFDdXA0QmxHQlhndTZ0U1dXMVRqNEVsZ25zRmhHdVc4VDFCaXlBS0ZDVVVPQWNPR1dWS2dUNGtUNTlnQ1FSMy1hME04dmVrcy1hUDBTbmkyVEVSQzhaem12R0J1ZjF2LXJyU3JWMVBFM1VBcVVaRjQ1aHJSVlJvczlkaU9wWXpsMktLWTNWNENxcTdnU2h3?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-22",
+      "headline": "MapLight’s autism drug trial misses primary endpoint By Investing.com - Investing.com India",
+      "source": "Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ0pROGhWRW5zR1NhTkFPaWxmUjNBTS1CY0xEcDY1OVZBZEdFeFNaczJ5dGd3VzJqMkFfS1JveEdHMTNnTmJybExkdnctUGVFRmx6MGtWT19FTjVSN09TRE1aQzFFN1g3Zm81UjJDQlhxT1lvdWc3OUJGbGtYbDdZb3JUQ2dHT3JhbW5uS25ZNHJtQ2pObXRDZmpORmpKVFEtRHRDRTRpTEFOeTU4VkRyeGNR?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-22",
+      "headline": "MapLight’s autism drug trial misses primary endpoint By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlpMd04tMy1BZ0RzeDRiZDVrVE1EdzBBcE91akQxZ0dHdUJyLV9HYlhDNWJCQmNUVHJkMGhKMk9jUFNuamtna2ppWE5Yc05kVnF4SFhNMWRxWk0yT2k5R2dGa0h5MUFJWlU2bm5OU0t4MTB2Y2F1a0xKV3k3Z21SRFJOajhfTjBRamRkM1U5MWp1SnVFSXZBODBiQ3ZSOTB5Y1NfNThZX2xpanU2TTBZeXFR?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-06-21",
       "headline": "Definium Therapeutics to Discuss Topline Results from Phase 3 Emerge Study in Major Depressive Disorder on June 22, 2026 - Business Wire",
       "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQV2VyeWY1WkJMYlg3WVUxME9OeHhCdXBiWDlzOWhrY1pIR3hIZmlUNGlnWjJJRDV6UmpJUkdmT2w2WV9ENUdlbTdQSHMtLXZlZW5SNk9tcF9mckx1SnlNUWR4WjlfazNJbTRQaEhYVFRhNGlfcGJkVUpnQk1ZY3Y2aU1kTjk1Qmp5cFhpM3NpMWxqdkI4ZWsyRXRod1BUZ2VWZWJMdkpQV245ZWdIMWxiVllJVE5jM3BmMC1DNHhMMUx2NzA3M0NnQ09lZ1BleV80WkZ1VW5vV2ltMENhY1NVdTlnOGMwWUMycGZsY3JoYnFuZm9uM1FmZS1ZWUlFWTExRndtY2lHVQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-21",
+      "headline": "Definium Therapeutics to Discuss Topline Results from Phase 3 Emerge Study in Major Depressive Disorder on June 22, 2026 - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTExGWFpVSThUVWFvUkNiNGFGTWliUFM3OUJmOHlKRjI1bGdUb1ZDRHowMU1tNEtvYnFlWWdpWlVkRVE5RjBaSm9DT0tNQ3BXRnV5M08xS2pWMmZjSW1mWWJWaENBUFZPdGJNa1pIeExpengzRklud1k1bUNiWjdHZGc3d2xoY3pySVJLSzJWSS10c21DdkQ1WVFmS29mNGd6ODRqVmo0UnE1Zw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-21",
+      "headline": "Definium Therapeutics to Discuss Topline Results from Phase 3 Emerge Study in Major Depressive Disorder on June 22, 2026 - Caledonian Record",
+      "source": "Caledonian Record",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWWN0YjBzb25yVzhjWjVnNnotaWlJd2VIbldXWUxhbWs5bW1TdWJuOVN3dmtsNXlDc1h2RWFvc2N6N1BZOGQ0cF9nR3hHNGNwRldKZm5YZW5lTFNSWTFYdFhWeHkybDBvdnlhYkVrTzM4cXN5Nm5sVlZmcDhiamhPbTc4bFZ1ejRqYzU3Y2djWjdHUEcwSnAzWFNpMVptV3pxUlNuazFTeGFJaWI2R05wNVN3Y1hPM0FfNXYtNGVFOWt5TmhiM242dTRIZ2tVVWM3V28wdUdiblNUMFJ0YTNpV20tTGlHd2xEdFpFcjg0ZTI2N0dDb3pTMkFSUWlualZ2WTMtNWMtSjh6cVFkU0hQZ3JYMUQ?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
@@ -1384,6 +1450,17 @@
       "outcome": "Failed",
       "phase": "Phase 3",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-12",
+      "headline": "Gan & Lee Pharmaceuticals Achieves Significant Progress in Its Dual Pipeline for Metabolic Diseases -- Weekly Insulin Ludefen (GZR4) Meets Primary Endpoint in Phase III Clinical Trial in China; Bofanglutide Meets Primary Endpoints in Phase III Weight Loss - The Manila Times",
+      "source": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxOQk42dXBPLXptS3JCbUpLb0pLTE1EUnVZZ1c4TGZUVVdaSDdDeWtDRFZZRTgyZkRIMU1SZjU0anN2NU8yaTU0YUphMnJrRzgyNTFmRHdjLXJhd0E1VGFkZ2xQVTZFYkR3eDk3dk1YTHpDanRtRUNLaEEtcEJ2Q0VFSkZQZGNYT08tbDVqV0U4c3FTcFZxMEthbm1kWWRfZ0xfZmhoSDZCd1lJZ3BTSDVLaTdLQXF3Y0xMMm52VHBhSTlEd2NWUkhXTWRGM1ROOVg1ZjFKUzM2VGxwYVIyTUxGT2c2WVZXUV9DVEs0TEg5NG5yRV9rTkJ1ZGpkcnhkV3hmemFzZ1ZyQ1VSQ1A4NmJJeEU4Nk9mYjJ2aWxPdEpOOXh6eDRSbnpCYXVaWm5VNldXcFZTR2t4Rm5ZelhFLW9wMVdWT203b3hVZWhoTUpQdmkyWTlnQVdxR3BtOVFYVjUxbE16bFJfX0dYVVRWcWFRc3NoLUk1STFCTVVXRHRVSmplVDdGTVp5VUN3U09xSjc5Ni1zQXlUUWJxMFlKLU5Nbk9tSW0yUmYxYWxJZTBVdG1sSWhPdm5fMTRjUmQ5WWpwLXo2VHl0UXdESFI0QTdxV1lnWGNuQUItRklFSkVCU2xFVUgwNTlyeTA4NWd1b1haZm5abVFsT3RoaGtmZUd0TNIBhgRBVV95cUxOeUF4SXJvNjZHVnM2OVlTUi1zLWtjX2JndGQ5VTdYSThZYzd5S2ZMY3NoWHpsVjFyajhzcTBoekZybVBuYWxjdGVkOUE0cGZnN3JWSUhCN0x0eEJpaktxdzNJLTREQV9BUEM5RlB3WVMyVG1zZWdIdUFZYXpONkNaYlk2N3Z3bEV1azJKYU5kTjZ3RVprYWNEOTJRZ0pRZUVJbGpYd1FFa3E5dWwyU2JOMmdGTjhqQ3dMZ2xPd244bmpuVXNlb3dNMTZHN1ZvRzVLUWZ4RHhsQWE4MEEyMTFid2FfUTRSWUZ1NnZsM1NrZ0FwYTZRazBXODZ5dEp3VTczNDRNNFVmR19QMFUzNF9GQmEwRk9KZHFqVTBSRFNfalBpVUJ2NUdPakdCWXRkM196c096dlVTYThYcGdxZXZoWEFmTXlHd011WDlUcXhQWWFIdG9ZYnJoVjhYYkdvUjYwSEl6OUFBZGhjTDE3RVdycVI4VWZwM0VkTHJHSi1IaU9IaWFVaEphM2hWWEpCS0dfTUlHbUpDVDd5bzlETTl6QlBHWFFfbDlTQjFkRWpubVZOd2wyOEZIWVloalRmMHI5blFxcXJNS3ZaMHBrU3JrQTNGZWRCM1NKdUo0VFU4d2l2a3FTV2dNRTNmU01GcG43dy1DRTB5aThGS2NRWkk5X0t2M3NMdw?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
       "target": "",
       "moa": ""
     },
@@ -2671,83 +2748,6 @@
       "outcome": "Readout",
       "phase": "",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-23",
-      "headline": "Tedopi Plus Pembrolizumab Met Primary Endpoint in TEDOVA Ovarian Cancer Trial - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3g3STZHNHhDMFB2MXIzM2k1WU4xTjl3dWQzTVpCSTMyREREY1QxcVk0MEJZVHhDcTFjWmVMRVI5aXZ3Mmw2THpEU0FwcjhBTDV1bGdWOFR6VEEtV3dpdjlkOXo5Mjl0aFJKSTRPcThXVG9EUngtNGRZQnJxQkZNTmRZdmJGdWdteHBtbUhQcWJ4c2tkQXZOcS1TdGhCRUl1SVZXZFl6aEItMnpDVmNXb0YyS2NDMUFwUnN6dy13?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-22",
-      "headline": "OSE Immunotherapeutics Reports Positive Topline Results of - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPYnZmQjkzWnlrbG1rVHBYelRDdERXUVNtVWNRS3VpTUphMDYtalRURlVVaTZKQkZuV0xVMzU4b0M3U2wwVlU2WkNiRk5fdldxbUVZcWZUMFhhbjRJcThNZUk1Unp4c21WbmtsMHF4M3NzSk9xUzZMNkQ4NXkwbXVFWHdCeWxjMXVmLWt0UWU1cFRfaXZmcUc2S2JqMzhsZ1p5S19uMkw1djN2T3VlV1NCbzFQTkhORmV6Tm9IMWx5dGpibnU5V3FPZVhuWmVxVVg1cWxScU1oSHVqN0twZURKMmsyQlNLbHU5aF9wX2RiR1JNN25uNFFDTTdHYnptRkhyUDNuUXdxczVXa2lWbFJHV1lIa1I3V0U5WEZV?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-22",
-      "headline": "Biogen axes Denali-partnered Parkinson’s prospect after phase 2 flop - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejVKeVNTZi1GdnJiWG51a0JEMzZVQzR1RlY4UnNxZXJtLXBrZGRTdlg3cWdTSkxiWVMzcGlhZ3ZtbmlEZjdhY3pTUEdyRy1abnBqU0VaZnNQYlpXNUdrdFM0LWs2UTEwcEhJSHd2QV96bFlnajNwU1JzSlMyaU1VUnVJcVZaLUlVRG1Ra1hzcF9iMUxYMUhxdXBzYzcxWlVzMHdRY1JIWjE?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-22",
-      "headline": "Biogen and Denali Parkinson’s Therapy Fails to Meet Primary Endpoint in Clinical Trial - geneonline.com",
-      "source": "geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXdLR0FrM2FoVmIyWTZaQ2tZZXlEUHN1VU56dHI1b3RlYktwTjZwTHhIVmYyRUkySlNQOWFBN3BNYVE0eHpuTWw0TjdvUll6Z05NVjNFQTV6TjRwbElVMEEteW1RVVptcWhPZ01UWjlROEtQREZlWVJhclFIa2tTSjRMY2dBbU9UWlVlNzl3cWpaQzlDaGdxNldraTJ6N2R1Xy1ZVE1na3dWNzIxSGtTYThaOA?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-22",
-      "headline": "Astegolimab’s Split Verdict: What ALIENTO’s Win and ARNASA’s Miss Reveal About COPD Trial Design - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZnFHb3pqOUNEcTE1TVZSZW1LMmJpSXZadXljYzByZUoxUWZmN2FnV2otWFVfQjRySTBoNjdQZFlLeXJwdzB2THRGRzR6UTdLTUtvcmN1Zl9WSTNpX1lTdkR5M2cwdUgtX0s4NG5mUG5tQUtVZ045OW5JZGRaZlIzbnJmUXkxb2dIRVp4NGhmcEcydXlZLVI4SU5aUUNSNXNyTVA1TmJjZFFzeXlwSVBCcVgxZThxNUVOR1FnelpLUE9nVEtHZG5EYnhQMFpicGJvdExndGdCYTFKdWdRdjYxTXU3VmwyZw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-21",
-      "headline": "Kelun-Biotech Announces Phase III Trial of Sacituzumab Tirumotecan (sac-TMT) versus Chemotherapy as First‑line Treatment for Advanced TNBC Met Primary Endpoint of PFS - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQOFY1aHJoZ1hHSW5PTC01eklCZ0Y1VmxHaUNiNEdHLVlGRTI2Y2hZVmhMazR5bmJnUzdNVXZoRFp0cV9yTUdGTnIxT1NIRlppTUgtVnB6dUl0YjBlaXVzU09KTzZOWFVUdTRyb3JaUmZrMDg3dXJ1cGEzUXFQZGhzakJLRlp0YXFGZkc1OHNISUJGaUlGa29uTW40cjcwN1ZsNldwbk5KeDV2dm4tMzNGeHFUZHFNajBYVmlMeVBDOVdLeVJ6SXJZaVJ0Z1JXU3dCQTNvcXhWR2ZwQ0dMcHBRTzBpMkNHMVNfYjdtb0g5YVFGUWlQd0s3NHZXTXR5MlYtTmdMWXExMS10RjBHWkhXN2ZHb2lQRjlRdzU0M2RIRVBvOGRNNF9HTm45X0I2NC0tcFBMTVZFRFkzQXIwZE1OXw?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-05-21",
-      "headline": "Positive Topline Results from a Phase 3 Trial for VGX-3100 in Cervical Dysplasia Patients Announced by ApolloBio, INOVIO's Partner in China - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNN2R2VGlfTXV1aS1hN1FrZ3Q4V1FIdmg4WktQbWJpX0J3ZzRLclVJb1B4VVRXdkpUNG9wUk01QVBQYWRRSU1zYWxBR3hTaHdBNUVaT3FlNDlURG5ZZnZzcGNIWndHN1ZQT05CSU11aXJ0WGNvVEJ6U19MQWpRZkpXVXE5a3gzYXpkaHZTcVdDZ0k3Qmg5Yk4zcC1zSmdZUTJlVVhUcHQ5VkRzU1pYRllTN1FlT3otb0tBU1FfN2dwU1JVUHU3NkNqd24xa1U4a1dJM3NKZzl6UTdIU2pfRzZVaFhZWG83RmI5RjJfdXNMb2R1bzc1Q3ltVTRvUzhocVA4OGgtNU5CMGphMzkzOEoxeUlwaVp2Ym8tRV9pUnBn?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
       "target": "",
       "moa": ""
     }
