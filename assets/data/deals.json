@@ -1,6 +1,28 @@
 {
-  "generated": "2026-07-01T10:10:59+00:00",
+  "generated": "2026-07-02T09:30:23+00:00",
   "deals": [
+    {
+      "date": "2026-07-02",
+      "headline": "GNI Group Completes Acquisition of AYUMI Pharmaceutical - Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM1l4WFV1Y2pka0RjeXNNQWp0RVFFcEx5czdzYUpTODVQWnRhQlRxd1dET21YTmF1ZVJNRDVnamQ5dnBhR0M5cU5LY3NaUWxWWEJXdHdMb2h2UWxZOThoSjc5Tm9uMllucmdfUWtjYXgzVy16VHhRV0ZLSVA0YlJITlpGYzBzNjFpQ3pTN0dnOA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-02",
+      "headline": "Dongkook Pharm signs $25 mil. licensing deal with Spain's FAES FARMA for BPH drug in Latin America - koreabiomed.com",
+      "source": "koreabiomed.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUcTBwcWVhdks3d1VEVUtwei0zdkd1empFUXNydHZLY0lCdnhvR0tRZ3BwdkxWMnZvSFRBVGNRZHlPX1JlTjMtNEZ4cXRMWXR3UGVhN3dYODhFZld5a1lzOHhJRmpZaWtkUFJCaEtn0gFyQVVfeXFMT1J1elZSMmlEYjZMYzF0cUdxdk1oZlNrV3Zld1VISnhweVIwdk5LZVd2Q2dZOFlaY0hLbUxvLUJISUIxVjlaQ25oWGJTTHB2Si1WUGxaWm81WHBuZzR2SXJTdno0SEFMYjZJYUw3T2VzWjFR?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-07-01",
       "headline": "Ipsen strikes second buyout in a week with €700M Memo acquisition - FirstWord Pharma",
@@ -46,9 +68,64 @@
       "stage": ""
     },
     {
+      "date": "2026-07-01",
+      "headline": "Exclusive | Peak Rock Capital Bets on Specialty Drug Boom With Asembia Acquisition - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTkzYWVmZkNvUXo1NV96N2R0Nmk4cXB1TWhlNGpCeDM4VUFFc1AyZ1NRQ0tWTUpObk9FQ3REeWJVT0dwYkJ6RG5VZHV6NEZTVG1DMjA1bUdLaEdNUlBHYUNmb2Iwck5OamRzR2xyRFZPMGVNTUQtSjltUHVZTUhjS242S3k4dHYyZlQ3NEM2WE5fMXBHRUxtcUwxUHpmNU90UkFXa3hJdjZnQVFiaU5yNDhnTElSSjJyVXc?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "SERB Pharmaceuticals Completes Acquisition of European and MENA Rights to Idefirix® (imlifidase) from Hansa Biopharma - NTB Kommunikasjon",
+      "source": "NTB Kommunikasjon",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPbXNJd29iZ2RTemQwT3BwN3k1dFFmZmhvU21Ob25ETmxyUHpmSlhjVjdpRUNqTnRGYTl4bHJKcTRPVGp0OHY0UlZENVM5SVBETHVNaGlINEd1al9jakpPa0VOUUFLWGdFZjFOWms3SXRYTnZ3eFpKcGxDaUtmOGR5NTR2VmFVdWc2SHh2YXVrT3U0aFhIMUVhX2xYTUFYX1pYT3VQQ3N6d2YwOVdlY3JObExWZXN0Qms1WDJSXy1GemhaVU5KblBZcmRXTzJ5NXM5QmZIRHJvdzdOWDA5d2NwclFTalE3NlJNdXBya05EMWlJRmJrZkNwUGFERWJOOUR4MF9NWGtISFJETTQteGdVdXZGaS1mcnRFczBuRElqdFk?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "M c Dermott Will & Schulte advises Sobi in $1.5 billion cross-border, biotech acquisition to advance gout treatments - McDermott Will & Schulte",
+      "source": "McDermott Will & Schulte",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONURJSzBzTWZYdUlLc21fRXY5M3ZrNDBkMGI2VGJKR3E4QUtaMGkySEplYm1FWTRFTm44ZUdXZ1oycE5rTzFjQ2hxeGZZVC1GTGJGa25jS3RMNDAxNzh1SXVhSldmYk1DMmlseHJRRld0UlBaMTFheTl4bzV5ZEZaaW9kY2Vkak9xaFN0VXQ0Y19kS2pzdWpUeG95TWxYVVhZMmg3WHZhZHJmcTd6dExtb1hIR1RiOGs0M01KcXVGb0hURk54NHc3U2NaR0pPUldOOFROUzFDdTU0UEE4T3c?oc=5",
+      "type": "M&A",
+      "value": "$1.5 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "Ipsen to buy Swiss biotech Memo Therapeutics in potential $800M deal",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
+      "type": "M&A",
+      "value": "$800M",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "Merck scraps a Phase 2 Alzheimer's asset from partner Neuphoria",
+      "source": "",
+      "link": "https://endpoints.news/merck-scraps-a-phase-2-alzheimers-asset-from-partner-neuphoria/",
+      "type": "Partnership",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": "Phase 2"
+    },
+    {
       "date": "2026-06-30",
-      "headline": "Aurobindo Pharma Completes $250M Lannett Acquisition To Boost US Capacity By 4B Doses - sahi.com",
-      "source": "sahi.com",
+      "headline": "Aurobindo Pharma Completes $250M Lannett Acquisition To Boost US Capacity By 4B Doses - Sahi",
+      "source": "Sahi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTZ5dUZmR0FPX0xnUzBIZHZwZm54clRqY2pIZVhGdm1MY1ZPeTR6SVpJa0RBOWdEbVVleVYzcERIVFpPdGQtMmNyMlAwSVNjNmJmVXdaR2RBT0loWVBxMm53anVmbFNza1M5R1VDMkFQWWtqYWQ0UjBzUmExNWVyRk5lM2JtRTd3SjBieUk4NkotUU0wSThOVFVwNktfNDlDYVZRLWhMeE9yNUxYUndXT3FCX1c0d1g1Z1dYSE5XNW0?oc=5",
       "type": "M&A",
       "value": "$250M",
@@ -1554,8 +1631,8 @@
     },
     {
       "date": "2026-06-09",
-      "headline": "GSK to buy US cancer biotech Nuvalent for $10.6bn - Financial Times",
-      "source": "Financial Times",
+      "headline": "GSK to buy US cancer biotech Nuvalent for $10.6bn - ft.com",
+      "source": "ft.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTBJVG10ZzQzZ2hxRFRaUVhzcllDRFZwZ0JiMExXdmpiOWo2M0hRZC1HLVZfRGxHMk5Xd29ubUdORjd1OTFkb3p5WWNqWFRneUdNRGh3ZWZSWVNiYnRQcElkdTFrRVAtbW1qd2xDOFFYendidVQzWFgtLS1LM2UzSjRudjI?oc=5",
       "type": "M&A",
       "value": "$10.6bn",
@@ -2511,8 +2588,8 @@
     },
     {
       "date": "2026-05-13",
-      "headline": "The Other Side of Arcellx’s $7.8 Billion Exit: What the Gilead Buyout Means for Maryland’s Biotech Workforce - biobuzz.io",
-      "source": "biobuzz.io",
+      "headline": "The Other Side of Arcellx’s $7.8 Billion Exit: What the Gilead Buyout Means for Maryland’s Biotech Workforce - BioBuzz",
+      "source": "BioBuzz",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYUpBSHlUbFAwdHlLenBNUHZVc1VucGtOSkhzN3R1dDl4engxeVd4VGljeGU2U0Z3aDgxUUQyWERqOUc0UkZjUkZzNmtRTnd4X0FsZjIzc2VzU2NyclM2LWNqTVNueWtuZjNfYjNiSlE3STVlbFpJeUpOY0k2ZGRsUVFINGhLYVE0WHE0cExRUm1VVGttWmU4TE5hVHBYZXNqOTdLWkVsOEFsbTVmakROblljbmlxUGR3Wm1lRUFDb0htSTM5RXd2ZQ?oc=5",
       "type": "M&A",
       "value": "$7.8 Billion",
@@ -2671,83 +2748,6 @@
       "type": "M&A",
       "value": "$4.1 billion",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-07",
-      "headline": "Angelini finds Catalyst for its US growth ambitions with $4.1B buyout - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmUzTHMzeXpKRTF2c0VTLTFnaUh6T0JBbUhlNEtDaUVvUV9MWVVoanYxazlYR190YkFiX3d6ZlowZ2xJZ090cHdYUmNpeW04MkRxdUk5Rl9MODVJQUN3bVQtUWpZbDlFd1JuU1pYYzdNOXI2eFFDSkZwbTBlY3FoSHJqN1JsaVFMSHRtOXg0R1l3d250T25oTGV3?oc=5",
-      "type": "M&A",
-      "value": "$4.1B",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-07",
-      "headline": "Merck & Co Completes $5.3-Bn Acquisition of Terns Pharmaceuticals - DCAT Value Chain Insights",
-      "source": "DCAT Value Chain Insights",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUmlvSmhwcEtuX21tazlvSlBidjhsMXFOYkRMbjB4aHk5RXZKUnNNeU1qQ1JLZVRpam9FNEZJS2pMWlZUV29qYlJwMTZ4WlI1d1FESXo1V25zU0MtaGwtVDc2OGx0dzNOR0hSMk53U1BtZWFWRXhrZm1namVPNUJCQ29tanR6aG1KdVJodjQxMlI3QXNwSV9xUXNOdVlTNTN6RDZnak9pTzg?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-07",
-      "headline": "Angelini to buy Catalyst in $4B play for rare neuro drugs - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVFjS3Bvb051X0F2bnNEcHFBV0VPYnFCZ2lndGdmdlp4cjZZRnZKVjBCN2dRRTVSeWthS3drb0Z6WE9WcGliY0dmdG10UGhob0JwY21UZUFpcVhoUHNZSTEzSDhkQm44aXhqYzB2TzV6VHNQalYzQUx1OF9ueG5GWUNFMFVQcU1fSkE?oc=5",
-      "type": "M&A",
-      "value": "$4B",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-06",
-      "headline": "Ipsen scuttles liver disease candidates from $952M Albireo acquisition - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2dpNDc2NGM1ZVhJcUNZSldkSm8tdGZya25oYk5xNHZ0Y0o0Rzk2VUtSU3dFUlFYeTFZVHU1bGNnOGIxd2FDenhhNnI3OFNEM1o4LTh5NlF6NHBSaGhZYUlzMG42M001TjVLUzNVMm53MDBBNWlMbXJOak9uM3RNZk8tdkVkbEI3R2hzN1pNdjI4V2s0QVo1anRUQlZIX2RDOWlocA?oc=5",
-      "type": "M&A",
-      "value": "$952M",
-      "area": "Hepatology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-05",
-      "headline": "Merck completes $6.7B Terns acquisition - NJBIZ",
-      "source": "NJBIZ",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VQUJTekU4WTlaMnppc0hIdk5WLUV6N0FhYTFFRkM1ZEJzYmFPQ2R1d0NRdWE0TkhDc0RGTDZMWVFZNVhuSkFWVGtQa3RKT1ktUkNOX2pkTzNXSGY2bDhleURtU05FbjBuN2k2SEY3MHA?oc=5",
-      "type": "M&A",
-      "value": "$6.7B",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-05",
-      "headline": "UPDATED: After Arcellx buyout close, Gilead trims 192 jobs at CAR-T biotech's Redwood City and Rockville outposts - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2kydzBwZXd6Y2JGYTRwZWlWenJBUmlfUnJUV1dTRGhucEthWGRPV2VLRWxJd1lFdDhJQThPS1o3bGRGWHZ3Yk5ISWV2SGlfd0tURzRkRnRVbGZWTDRfMHYzSkNwZDlTUE1Na0dkSkpxTjh1LWcyZnM1OGwwZUdHcURRelA2dGNiWUhHZGRGZzZEOFZuUFBPdDhzWm0zU0w1bFRobmZsMEEzTlJQcnQwY242aGwwbmNMbEVwT2V2aw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "Cell therapy",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-05",
-      "headline": "Merck Completes Acquisition of Terns Pharmaceuticals, Inc. - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORVh0OUpnaG5wTV9aUG9ILUVrWTFWTnhHYmFidW0yc3RzYkFweHA5U2RiTjNSMXRzRFZoS1pSYi1odlBPRUVrTko4LTNFejAyX21Wc2dyMG81S01DcUF1YW16LTdCNGNiLUh2clo0dU8xZk1CVldoNVBGWFhIS25OSF9vNWJramFMTUU1bFZubHZjRG85QVNvNVdZR0Jva1dmQm9ISHg2QnhTTVB3bXJsU2JKOTZoNk9Lanc?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
