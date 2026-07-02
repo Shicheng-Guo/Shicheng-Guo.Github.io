@@ -1,6 +1,39 @@
 {
-  "generated": "2026-07-01T10:34:06+00:00",
+  "generated": "2026-07-02T09:48:43+00:00",
   "trials": [
+    {
+      "date": "2026-07-02",
+      "headline": "Dana-Farber Researchers Unveil Promising Phase 2 Results for Targeted Therapy in Rare Bile Duct Cancer - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlBlbFBZQk1RbkpMQUc3RHpuaF8xLWtlbllrODRJcFRuMXBMNGtkWnVUaW5SOUo0ZmlmRTZRbDIzc0w4S2hlekhCWEtKVlJRT0NNdXBBVVdzNDV4UDRNQmZiTHBTR3g3bVZnTXlfeC1lTU1vdGRxNlJRRmpDcTNBYmtSWjZVcTctd0J3cXg3VjN1THktOUdmaExsUFhxUEdhNVd6d3NGcGVBZUpCQ3BLMHBpRHdmMy1oQi0td3d3Ry1HdWpIRlE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "Merck halts ph. 2 Alzheimer’s trial after Neuphoria small molecule underwhelms - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDhXVy1Sa2dtMUh5U3NpS1RXZDVhVnRMbW1iMzFJTEJYVlFTU29QYjM4Y2hvejFWaUxkZS1Kc1FyN0NVbFVseDFoZ2xQSjhXOFp5cXVLM0tQMFp3YXZfaFJmUUxCdWFjcGZlYjlLRDNQRzdhSzY5WjJieGZ6bmRIXzdmcEtSUkZTUklRSUpRVjZTOU9lSTlBMjIwYXBpVE5pRktyM2VPU0tLQkUxbXFLM2FfQkw?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": "Small molecule"
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "Investigators report promising results from Phase II trial of targeted therapy for rare bile duct cancer - Medical Xpress",
+      "source": "Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYnl4ekQ2SW5GSGhxLVpWRlVyMl9PUTJ5YU1Tb2lNaGF5S0pjNFBQb3ptMHl4THlmeDgzWWlmX2hVdTRXcmZtMnV6Z1Q0U19SQWMzTHRNa2J2VlM5YmJYNDF2Y3MwMDl0ZXoxdlc5bE9CY0VudTQta1o4bDN6cEU?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-06-30",
       "headline": "Press Release: Sanofi’s Nexviazyme met all primary and secondary endpoints in infantile-onset Pompe disease phase 3 study - Yahoo Finance",
@@ -182,6 +215,28 @@
       "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - Asianet Newsable",
       "source": "Asianet Newsable",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1ZtTU5IcENFelBldWtnZTlhZFRCM05VTjFmWVlrV01qbm1XRVdYbExYOG10amtBZEUzakwwUTdyOHFYVkpEMGlWZG9ra2VYZlA5YmRVSTR5cHZ0QTZ6ZWc3eXBueWZ4T0NZbmJMcUJJRFBPZWpIeDAyNmh4NTZzVFdyX1NvQ2ZLb19GRTd5dTUwR0dCbVlnVXZlOEQtelRlNUtkaHRoLUt4SWxlTk9sTm1GZGdJNDQzQVlSWGNKT2NVR2tDTEE3RV9SYlphYlk2amNrSlJNT3U0VENvV2xSZEhPOFFwalZDMkVuZlRn0gHzAUFVX3lxTE9pTEFqekw1SG80STdLdWNnOENvQWR3dGtHSlJDWC1Tb05XUEVvY3FqcWNwNm1VVWg5ZWxkZGJ0elNfNU1rWU1GTzNLdTlRUWhoVGFsMG11cDlMUFZoNjZUbGQ4RTdyMHVfRENBelByQW9GRmIwZ0tubEkzUXcxcVhfUTBSUGFYQmxtdkpLTE5mM2RaYllENUlJN2VQZG1hMjN5ejZ0VUI5dmk5MEJGbVJkU2JRRWlibVVpQ0hQbkNQbkJLaHZhN0RGbjkwYUxsYmh3bFcxbFd4SVZUUzEwbzlYSnhQRXlPcjd4eXc1ZDNkYVQ3bw?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-30",
+      "headline": "BeOne Medicines Announces Positive Phase 3 Results for BRUKINSA in Frontline Mantle Cell Lymphoma - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNTNQbk45cnprWm1LbXJKb3pfZ3JuM3o5QVNtai1FOFNGRDRhLVZNT05sZ3NmRVZLLUxDelMzR1Q5QnJJdVFjTFNldEF1R0FUZGVYa1NTU2FwQ284bzQ0X3V0R3FVeGZTcEVCeXBCMUdJYjNZdnR6bVA5dDAxemJ3T3JldFNsT214cXVhLWdDRm8xTEM0Z3ZzY3A0SnJXd0pScjlRY0RTWjYzakVXOFM5M3hZTUNxMHl5MHcwdEoxTFVlVVh1Z0p6RnZYWnhIbnFkZWRR?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-30",
+      "headline": "Annamycin boosts remission in Moleculin (MBRX) pivotal AML MIRACLE trial interim - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWFGdDFhNVdvMURUdTBZQ0tRTXlnMTZfekFUS0VGZUpUYlMtQUZRTlJHTWstdjI4ZEdEVjh6YWlaMXhqRF9va0ZKdFBWMEJ2VWppamZzOFc5RUR2VFBSTjVCWjZTRUxtVE9LaFo4cDZmSnhETXluNXM5c2V0WGVJV3M5VlZCaVBlcDAzQllnNTVmRU1WeVBMczFsNHMtOXNaWWdZbk1fTUsycmJmSXB3?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
@@ -2478,8 +2533,8 @@
     },
     {
       "date": "2026-06-04",
-      "headline": "Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story - statnews.com",
-      "source": "statnews.com",
+      "headline": "Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story - STAT",
+      "source": "STAT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPelllbENuLUh6bGdTZDNUVVRNeW9jTHV4S09kYS1UX0k5T0RYNmlyYUhIbXgtM01JVmttZ0R4U0FwbUxFNEpoZVdkemxOUXNnLVNOMzc4U3JqV0l0Wllhbl96TWpmTUVmb0dqNXlxM2RfVW9Cck4zQUhkRFFJMVNORDZOQTY2Q0ZpTEpVV0d2eG16UW9z?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -2690,61 +2745,6 @@
       "headline": "Cardiff Oncology Announces Presentation of Positive Results from its Randomized, Controlled Phase 2 Trial of Onvansertib in First-Line RAS-Mutated mCRC at the 2026 ASCO Annual Meeting - The Manila Times",
       "source": "The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNWRaYm01MjZFUWlvcnd6ekN4eHM1ckR6aTFfSmRGa0l0bENxWVBDblljdjBOdTlBUmg3bHR1V2REZHNlMW5TNGhWakJleU0wODVQa0VRaDZDWEZPWXN3RHpERWdTN1g0NlJmTlJBcTRGUHdNQlNra2Z4cEI3b045dWRUbEFRVmxkTFYzMkE2UmZDQm04dnFBaVNNTmV1Y3lMLXZxS24zQ0lUdE1LdUxNXzBMcVdzQ2RvSi1IbG83MWNZVElSY1owbE9ldkpoem5EUXlXUUdGNmpJellRbi1xSVZOMkhoRlg0RFh2T2Q3THRUa2dJa3RwVzRFOGNaeE5nQ1ZyVnpwTjNacHVTWGhmcE5OMlNiczZJY1h5cTRGQ19FSDlyWUlidVowM2R1dVUwZ0NPSGZwbWI1Yy1ZR2JoRFRKQzR6cWlBOWstZXRuWG1QYTQ2VmUyV1ZpazBpMkU3S1RJRGlrTFpqZTc5cUY3aERn0gH3AkFVX3lxTE5nVVMwbVYwZWhybnF2RGlxTmdPWDRtOEJhVXFUT3JHbEhRbFo5eVNWUjQzUjFabm4tZnV6ZkctbVVOT2RpVXRVdkdCUmJLblJDSUdndVFJRE5xZHVBUzhhQmxEV0hXZ2Vrd3p6VG83TFpfa0F0V0NDT3djeF9pQTd0MWtBRkpPTmhoVUdRUmZkNFZ6N3ZKQUVFVlB3X3JLVzFDQldkQzV2Z0kwbV91anBuOFFJeDU5Wld3ZFZoR3VvcW1jS0xDVjIyR282TllXdmV6dHkyS0ZVbUNvZWJUbWdqYW03eTNGMGtEcHRMZVc5NUFlM04xbDlTaUJBUGhKZHVLc1oyVTJlSUdyNTQ5bVAySlZ4R0FrRG1YLXI0MEk2Y210eWg1bnBveUVtdFVXcHRyb3YxUS11ZG1zVWhGYTZ0SXJfMi1NUGpZWGxFeXVzLXI1MWVSckc3VE1uZ0ZXbnI0bDZqb2pjUnp1NDJ6ZWpOdzAzOFNxaw?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Annual Galleri Screening Reduced Stage IV Cancer Diagnoses but Missed Primary Endpoint in First Randomized MCED Trial - The ASCO Post",
-      "source": "The ASCO Post",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2c5NEtXaVd5REVuUDNxWGl4QVF1ejdJREkxM0ROWFJmUjB2d1M2TkxqbF9CQTZDdXVJbDJMOVZRQjBfUnNZQ1F2MEpaajFwY29yRi04ZjVMN3Y5OUFlNEM1ZUxPSkdfdFB5b0dIS25jdDE3TWNmT0x4WkhDcFhSc1lncmxpNU1fVDdtWU16RENXc3o0SFl4WmwtZkF4c0xBQlBrVVh6Wnl6MDdITnNXUzFuWE9iS29DMGJUWWVhNmRGWEpMbGo4SUhsZ0lXbjBLdW9sdjNQZEM2ekNxU05KYWkxSEY4Umg2Y0E?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Abivax’s obefazimod met primary endpoint in Phase III ABTECT trial - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3ltajlJSTBXZGRtbEgzVkZ4b1hfMkoxVzdfdlc1VXh6NHdKWi1tMnFROVd3Mk1RblV2azVTWDZVeDFmbjQ3LUVnNmFncWI2cXNNUVlSZjFRRFYwalVqVWt3ZEpLQ1NPTUVVbmVsTlhyc0N2RnpCLUw5eU5lY2NfLTBBMGF1YWNV?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Diabetic macular edema eye drop from Oculis fails to meet primary endpoint - Healio",
-      "source": "Healio",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRm1sLUNHYThaaHA0bl96dXNFU1g5dWJHT3FKWFRaTUlvYU93dEdlampaZE8xS08zaEw1OC1za3hZUkFmTUVsa0x4N0N2MGxyUnZfM2ZWbmFvdVF6UmZjVm00akhPSGN6WTFMaHJuQ0g5NzNXR0dubmpoN283NUluRnJLREI1UjlaSmxiXy1iMkoyZlh3SllDME1GUmlldEd5VS1vamxuN3lJYjV6YVdsSFpfTG54LWJFM0pRSFdxMTExWTA?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Oculis phase 3 DIAMOND trials miss vision endpoints in diabetic macular edema - Ophthalmology Times",
-      "source": "Ophthalmology Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamp5VTktR3N5ZXBrRGY3aEFIRVI2SG1kOTg1N2ZRbkpIdzNRcHV3emY3YVFoQXRWQnNzSTk4cnVDSmpuUkVfamRRTXdwaEtVYV9RWTQxSVJkUDlpTU5nTklJTmRRRFk0MEFFOEJJOEZPcjVKYTY5VDZ5Zl9uYi0wUFVjckpZdllSLTZUdEtMNXFOeV9XMUY1aGVwZnN1ZWVXOXdxU0N0LWJneTRad0diSS1wR3VSdnpE?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Cardiff Oncology Announces Presentation of Positive Results from its Randomized, Controlled Phase 2 Trial of Onvansertib in First-Line RAS-Mutated mCRC at the 2026 ASCO Annual Meeting - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFV4X3FpY0FMeUxQR21PNWtGV2hfMDNIVmNNUjVmVzQ3M1pmV0RLc0JGbVAzdVhqMWFvMVBoQm9mcE1XZzVLdVJlWVJ6RXhILTdON1h3b2VHN2xfckpkbC1oNjBGdHE2QWlKOUh2SzQyVHlNdjlBcVVLTk5EamoyMlU3TG5qNWlsNjBLZ296azR2ZkhFLWx2cXZGOFdtT05HNXREMWxBN09jWmI3ZWVBRWJkak1WTWJj?oc=5",
       "outcome": "Success",
       "phase": "Phase 2",
       "significance": "Met primary",
