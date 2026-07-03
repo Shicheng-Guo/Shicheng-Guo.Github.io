@@ -1,6 +1,17 @@
 {
-  "generated": "2026-07-02T09:48:43+00:00",
+  "generated": "2026-07-03T09:46:47+00:00",
   "trials": [
+    {
+      "date": "2026-07-03",
+      "headline": "MBRX stock drops 25% as Moleculin Biotech's interim cancer trial data falls short of significance - MSN",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMDZpb1FETlE0OGthZDBNZTBVWVdFWktVS3JmdHFmMW5xSTJOSGg0S3l4anB4TWZ6RVVnd3ZLUVR6Q0xEVlVjVThKalE5emNNc1Y5ZTdlWnV2eU85Z1FSUkJ5a0VlcEtJRV9TZUM1X2ViVzE4dFFPODhpdk9OZi1CdlVEMFk2SG83bEV4QXplNk9mOWZ4alM2eWFUNGFBVHV4d2tDZDNfOWd2NVhpejdNaUdFWWVWQ1NKY0FaSjRoLVVyVld4WDA4V0RLUGVFTl94VF9XQzI5Z20tVXI2anlB?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-07-02",
       "headline": "Dana-Farber Researchers Unveil Promising Phase 2 Results for Targeted Therapy in Rare Bile Duct Cancer - Bioengineer.org",
@@ -8,6 +19,28 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlBlbFBZQk1RbkpMQUc3RHpuaF8xLWtlbllrODRJcFRuMXBMNGtkWnVUaW5SOUo0ZmlmRTZRbDIzc0w4S2hlekhCWEtKVlJRT0NNdXBBVVdzNDV4UDRNQmZiTHBTR3g3bVZnTXlfeC1lTU1vdGRxNlJRRmpDcTNBYmtSWjZVcTctd0J3cXg3VjN1THktOUdmaExsUFhxUEdhNVd6d3NGcGVBZUpCQ3BLMHBpRHdmMy1oQi0td3d3Ry1HdWpIRlE?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-02",
+      "headline": "Late-breaking ESC 2026 spot for Tenax (TENX) Phase 3 LEVEL trial data - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0JxeDZmZml4TXRjaWhYdGFLSEN4M2FfMkNCLXNMZHZVaTZjNE9yNEF4bDZSUUZQci1LRTZTWlBsdXlCMFdURlRpN3FJWjJhUktUZjNId2VScGRIbkVQRXBjNVhfUFdOWm1iQW5fRnJUNlhCZ1E2Vm50NjgwZTFXVGw0NDJVSG9RU1ZPVjd2LVdmclkwcnQ4R1lDWlF6amgyRXdmYzZKUFY2bkFYNDNGUA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-02",
+      "headline": "Otsuka reports VOYXACT Phase 3 kidney benefit over 24 months - International Business Times",
+      "source": "International Business Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW01cDZTX3lma3R4ZzhDdGJlSWN0NUQ3V2t4am5EbGQ0ekJ4YkpVdzFUdm5fZWctVURHTWpvTXdjYzZJTkQyRS1neHg4elNQajR6YWlCZmkwVzdiOTN5Y2VEOHB5bkpfeEJPSDNDdzZmN29TY3ZBNEVpc3ZQNUNMdF9rNXZiQ1JzYzQ4M3NOcGVldzRp?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -237,6 +270,39 @@
       "headline": "Annamycin boosts remission in Moleculin (MBRX) pivotal AML MIRACLE trial interim - Stock Titan",
       "source": "Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWFGdDFhNVdvMURUdTBZQ0tRTXlnMTZfekFUS0VGZUpUYlMtQUZRTlJHTWstdjI4ZEdEVjh6YWlaMXhqRF9va0ZKdFBWMEJ2VWppamZzOFc5RUR2VFBSTjVCWjZTRUxtVE9LaFo4cDZmSnhETXluNXM5c2V0WGVJV3M5VlZCaVBlcDAzQllnNTVmRU1WeVBMczFsNHMtOXNaWWdZbk1fTUsycmJmSXB3?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-30",
+      "headline": "Stoke Therapeutics Announces Completion of Enrollment of 162 Patients Into the Phase 3 EMPEROR Study of Zorevunersen, an Investigational Medicine for the Treatment of Dravet Syndrome - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOWE0yd2stdDBoVVZnMEJiQkloQVZRdGVoNkdRMWw1SFpack4xMzNqQmI0OS1EcExsdXdoaGRPMmI1OWgxaHlRbVM4VERMR3JGTVhxVnE3cl9lQjRyUjNFd1hISE5LNFZqZnY3YTEwMlQ5WElmUzF3VXIzbzNxOWEyTXJuMUg3ZzN5VkFYek5EbTJSU0VyVjVDelk3Y1d5Q1pXYlZSMDJOWGVibUVYNmVucnBGTnhaUnVaVHFoVDhJd251aWFPZ0ZnZ1ZVQWdqUHBYd0o2a1h1MFZkQTdsaDFYbjdTSTJlX3VxZzRWYURiTHdpZFBva21nSlVSMTM5c3NrMGNlX2FTLVZhSVFaMDZIQXFPcnNpdUVnWWNNRnJmNi0tYXY3UWZxTmhVeXFUWDZ1NG9yVkRQNks2V2gxX2NwVkRBMVl0Z3NTbUl2OXQyZ1B4akdoc0xERmp3?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-30",
+      "headline": "Stoke completes phase 3 enrollment for Dravet syndrome drug - Investing.com",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFES0Roa2lQVWpoZDRXeXVzMHNXWGVfQ2V0cmJTakp0NlN1bXp5cmthTkxOTzB3ZEEtNmNGbFNhdmx3bWthZ3ZkdDFXTmpEM0xJampJMWlPelRZaGx5aXEyaXlDNUlyamhKanFzR0lhb1ppTWhrbm9XdVBLRnh6R1dsNXlsTjhwYmFWdWhNS3JYcVp6UVZqNk1YekpSMDhBQjcxQVViM3VzWWRHdkdtcU1HY3FfWjg?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-30",
+      "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkpoRVh6M1gxcTRyeHdSc3JqalpROHA0aUZBR1hwZEZ3TmlDVThZcFdXdnhDSllNSUQ0cl91UlQ3SHZJLTFjd1UzOTlpbE9ETVBjZ3BiaDVzT1ZNcDVsU0FBWVJUeU1QLU1YNHhsdUduc0FUYmF6UXktYTF1dmc5MzBRTWJMWGs0d0pQSnBwUFVBN0V6?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
@@ -2136,6 +2202,17 @@
       "moa": "GLP-1 agonist"
     },
     {
+      "date": "2026-06-09",
+      "headline": "Bial Reports Topline Results From ACTIVATE Phase 2b Study in GBA‑Associated Parkinson’s - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLU4wUjJrVE1xd2NJRWVfTUhwb2pScU14dVk3WU9sLXpXZ0w5M0pKQlFkcWx1aGxaTWZEMFVoMjJ0QlRLUC1fdEhld2VGR0laMDA1anVzdjRGT0FjOVhfUkNGUkpXR0x2QXdHUmhyOXVIX0lJX3o2ODMxbW9LbElGTFRrVmxUM1VSQXJMWmtuTUpxbzQzMTZPZHdmS2JVWWYyUGRFdGUtbWk1VXNYVFZRU0c0SzBxaVpHSUNtek4xVFdqWVQy?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-06-08",
       "headline": "Encouraging trial results for AstraZeneca's new weight-loss pill - Yahoo",
       "source": "Yahoo",
@@ -2671,83 +2748,6 @@
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Results of trial drug for pancreatic cancer 'astounding' - RTE.ie",
-      "source": "RTE.ie",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFgtaG4zVDNUVEg4alo0TUFlRXZ3bDJ3TVdyclNLQVdxZl9TQWR1RmNaUU9RSUdwemNfVEZUMzJZU21tNmlVY1pXbjJUdEI3ZDJiRDNiVVd1cG4yYmZTSHVKTzFvOEg5azdkb0lrVXgyZEh3dVgzaU9ONElpR1AwYWI0aw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Early trial hints at drug to cut risk of cancer returning after treatment - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzlOdHh0R1FiREhBRG9Vd2JSRFpkcVVfWGJnSDVZbkxFZUE5c0V6TnRjd1VUR0tiS3hIRkg2bVlweENyYk1XZFdSWmxnSjM5U25OVEFSWFo0Z3UyV3VHaENMV2J5ZXo5TWhTX3J1SlUxRDliS0JyN0VIVW5EUGR4TUgzcWxKcG11ckNJQVpHM29sWmlEZVVoNFZCRklDbXN4emdMbUJKbS0tWUJzcEpJNXB4U3NGMVBmR1otX1VWbw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Abivax delivers Phase 3 ulcerative colitis win, but safety concerns trigger market sell-off - European Biotechnology Magazine",
-      "source": "European Biotechnology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY0Z0RmhhaXotRmkya3pzTzBUVDJKTVEtb2RYS3E3MnR4UVlWZ0Y1b3ZocDBzWUp4QXhrMEhSck9HRFRHY2szc0h3aThxOHR6QUxzUHpHZ2piQjNYQW5kVGo3dUpaNzVYUERYVFZYZktFOFFVeG5BekU0dE9JOG00YWNvRjhPMENEVVpiWlRld3RPSFo5NzJ6NmIwMGpDUk14QmQzMmZLcFFBZmtRWkJXRkFQUm9IaWhWM0pUa2pKTE91R2E2bTg1SXN6bkxJSkNmamx1aw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Praxis pauses one of its seizure programs after phase 2 fail - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWFDZENuNG94Rnp6aTdfTlpQWDY3MzhtWUNfOE5KWVVJX1RkenN2QnZ2TFJVejkzLWs5ZFJJYmIwTDBrMkRUNnJiVkVybDJCQTZyVER4N1NYRWItckZrZXFiVmh2RFg2R3RxT25HakY2VmRLTU5WaW9iZnlFVUtxeGl3MUg1cm1jSjVqNk1aRWRJZXB1dlMtaGtNaw?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 2",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Oculis's phase 3 DME eye drop trial fails primary goals - Eyes On Eyecare",
-      "source": "Eyes On Eyecare",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3VvM2VFRmRlUENXeGNrdFF2QVhOZFkyRzUxWGU0dml0RjBObmpnQVhIZzB2a2JsVlZ5cmxHMEpWaGlDZC1KbHpmZkFoZi1wYmt4WWFIVWxvUlJsTlpDY0RBdVRXa1V2b25FYVFoZjRkWXllU1pQYW0yVi0yTlNvV25yMS12Q3RzWFFiMzJTaUEtd1lzMDBzNi1hQkUyOVZHVXZCcWhISzAwbFB5?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "New colorectal cancer drug combo shows 72% response in trial - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblhWNWYzMFA0Ykk2RzRvT0ZkelVDT29wd2FBTFliSlQ0dDRZVDJMQkxLTk9qU2ZMVjhudng3RFhWM05vb0ljVWNlajY0SnRhUlUxSWVmQkFDQnVCMFItYVNOVkY0anYzYXFacDc3WGd4TXFSblVnSG9Zc3loYkt5RzdyTV9ReHVtSVdubDRJLVJTSFptQzN6dnJucjR1Y25TMDhjRzNrSVZqZ2cxUHh2NFBleFRzTnNUWnlnbjFya3Y?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Cardiff Oncology Announces Presentation of Positive Results from its Randomized, Controlled Phase 2 Trial of Onvansertib in First-Line RAS-Mutated mCRC at the 2026 ASCO Annual Meeting - The Manila Times",
-      "source": "The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNNWRaYm01MjZFUWlvcnd6ekN4eHM1ckR6aTFfSmRGa0l0bENxWVBDblljdjBOdTlBUmg3bHR1V2REZHNlMW5TNGhWakJleU0wODVQa0VRaDZDWEZPWXN3RHpERWdTN1g0NlJmTlJBcTRGUHdNQlNra2Z4cEI3b045dWRUbEFRVmxkTFYzMkE2UmZDQm04dnFBaVNNTmV1Y3lMLXZxS24zQ0lUdE1LdUxNXzBMcVdzQ2RvSi1IbG83MWNZVElSY1owbE9ldkpoem5EUXlXUUdGNmpJellRbi1xSVZOMkhoRlg0RFh2T2Q3THRUa2dJa3RwVzRFOGNaeE5nQ1ZyVnpwTjNacHVTWGhmcE5OMlNiczZJY1h5cTRGQ19FSDlyWUlidVowM2R1dVUwZ0NPSGZwbWI1Yy1ZR2JoRFRKQzR6cWlBOWstZXRuWG1QYTQ2VmUyV1ZpazBpMkU3S1RJRGlrTFpqZTc5cUY3aERn0gH3AkFVX3lxTE5nVVMwbVYwZWhybnF2RGlxTmdPWDRtOEJhVXFUT3JHbEhRbFo5eVNWUjQzUjFabm4tZnV6ZkctbVVOT2RpVXRVdkdCUmJLblJDSUdndVFJRE5xZHVBUzhhQmxEV0hXZ2Vrd3p6VG83TFpfa0F0V0NDT3djeF9pQTd0MWtBRkpPTmhoVUdRUmZkNFZ6N3ZKQUVFVlB3X3JLVzFDQldkQzV2Z0kwbV91anBuOFFJeDU5Wld3ZFZoR3VvcW1jS0xDVjIyR282TllXdmV6dHkyS0ZVbUNvZWJUbWdqYW03eTNGMGtEcHRMZVc5NUFlM04xbDlTaUJBUGhKZHVLc1oyVTJlSUdyNTQ5bVAySlZ4R0FrRG1YLXI0MEk2Y210eWg1bnBveUVtdFVXcHRyb3YxUS11ZG1zVWhGYTZ0SXJfMi1NUGpZWGxFeXVzLXI1MWVSckc3VE1uZ0ZXbnI0bDZqb2pjUnp1NDJ6ZWpOdzAzOFNxaw?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
       "target": "",
       "moa": ""
     }
