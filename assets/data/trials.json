@@ -1,6 +1,17 @@
 {
-  "generated": "2026-07-03T09:46:47+00:00",
+  "generated": "2026-07-04T09:09:22+00:00",
   "trials": [
+    {
+      "date": "2026-07-04",
+      "headline": "Is NHS-Galleri Trial Miss and New Lawsuits Altering The Investment Case For GRAIL (GRAL)? - simplywall.st",
+      "source": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmdMeDBZWGxTTTJWd3NzRU0xaF81cW9yWjBxWDFuNzRPcXV3cDBMcWtqWUN0Sl9wa3RBa1pHRkptUW1QeEl3MTVCRUZNLTJZYndBUGx2VEtKRnpZek5SOHZ5T0I2UVpMOVBac2xsM2NaaE03NWhGRGlYT0xMN182bmcyT0hLVW5fTjAxSUpCVTg2Z20wNk5XMzNjeUl6MGVod0F4cHBUNkozQ09ua3M0QzJFanZSVFBmUmF5VHNidldHZ1c4SC05TldMYWx2ZGRlbWJGNmtB0gHbAUFVX3lxTE9FWktBUHE3Q1RmaDNJeTZJZlpkajMtVWQ4c0lvQ29hOF94QjluNmJoenZXZWZTeXQ1akUwd1EzM00xdWtSTjlCN3Y1ZFV4Y0ItZE5pWXFkWllRMnJrVHFPWjNscTJjY0N2QVZnbXN2T25WdTlCYVRQUjZPY1VjRG1ESVNQdVFVNmlFdm5wNnNCN1dWcnNVMWlBZVZWdXFtakk3Zmk0Wm1fQWVSTjg1Wjl4VGNsQlREZk04Sk1qWEMwRXFkQXBuQ2JYMVhqdmhndTJVZWVocVFyWVY2TQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-07-03",
       "headline": "MBRX stock drops 25% as Moleculin Biotech's interim cancer trial data falls short of significance - MSN",
@@ -310,6 +321,17 @@
       "moa": ""
     },
     {
+      "date": "2026-06-30",
+      "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - Stocktwits",
+      "source": "Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTVZRaTVpcmhGLTJHTnNlZ3ZHcXp3LXhkQjY4NGVMb2RnWEEzQThRal9yY01lbVI4UUk5LWx5NF9yblBsT3k2U0pJUy1yNHdGUmp4T01CTEVOSnhIRWV5WkMzckpYNE9fM3BYNW5PMWJJdjBuM1V2b3Q2RG9WNVJVd3c0MWxtTk9waXo3aXhvWEhTM2FidVpBT2Y3dURYNWZRMFZIRWpzd1ljYU54eWdwb092ZmVnRzFSMVZHd2NqR21xd3lieWNTa2w4NW5lei1qOVRVYnNIa2VTWVdEZTVHZkhvLXZWZlRiVFJz?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-06-29",
       "headline": "AriBio completes main phase 3 dosing for oral Alzheimer's drug AR1001, topline data due this fall - koreabiomed.com",
       "source": "koreabiomed.com",
@@ -344,12 +366,12 @@
     },
     {
       "date": "2026-06-29",
-      "headline": "Genmab Announces Positive Phase 3 Results for Epcoritamab - GlobeNewswire",
+      "headline": "Genmab Announces Positive Phase 3 Results for Epcoritamab Plus Lenalidomide in Patients with Relapsed/Refractory Diffuse Large B-Cell Lymphoma, Demonstrating Statistically Significant Improvement in Progression-Free Survival - GlobeNewswire",
       "source": "GlobeNewswire",
       "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNbmtaR2wtcG9QWmNmUFcyX0JyUmJ4bWlCYXBQQlM3NnFBRDFmMks0elctajdXc2tiSXRXMkEwZEdyQnY1NXlNby1PS0RsM3FBMmh5ZkNhWDVrYTNuRUNOeHM4V0FfbkNLWW90YkFKZ1QtOVIyanp6Yl9JaExDWkxfQmpXRFVKdVFxVl9CQVlqMTgzTWNTb0RyYmViei1rU2VqZ3Fqc3dUclZWYUNEVGhzcE9HT2JYU1dWYTVBVTBDT01RSlNYTEptY0tYbERVZllqVUVCNlc3RU5DM2EzenBRZGdOejdaUGZ1YncyZDJsNnhkZlozTS1VLWl2cS1mck5QZDdEeU9PSno0RndPZ3ZaanNGOS1WRzNPOVZlaGFOUFRNMDFKSi1tV1Z6SDJ0clR0bkVwSGN1eE1sWWlPMy03NXEydWlDQnJJOWR1a2NxcnducWczZEV2akRhZ0tQenMtci1HaVJ3cHBoV01u?oc=5",
-      "outcome": "Readout",
+      "outcome": "Success",
       "phase": "Phase 3",
-      "significance": "",
+      "significance": "Statistically significant",
       "target": "",
       "moa": ""
     },
@@ -427,6 +449,28 @@
       "outcome": "Failed",
       "phase": "Phase 2",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-29",
+      "headline": "NeuroSense Achieves Primary Endpoint in Phase 2b ALS Study with Statistically Significant Reduction of TDP-43, the Defining Pathological Hallmark of ALS - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPU1Nvb25ENGNvUUtud1RDckxUUFdnQ2dPTXZqeXhSLW5zM050SnhzcGEwbEhKeVFuUl9oYzQ0Rm5ZVmVqU0JqNXFHUnZRX21hcHdTX29scEQ2OXNKX2x1RUxNeDBKcy1EbDZ4Y3NrcWhMNkNSWkxCV3BNM3dmak1FTXlweFJnaHRnZTA2U21BMkFib19CSmY0dXRPSWhWZFhzX09TdEpuVmduTWFEUDdKMEl1Sl9tNGE2QV9BR1RFRF9wdy1oSUJDc29pMDJORlFjQ08tMlZSTHAxMHRPeF9XamtkUEtWTUpMUGg3RGx5XzlxWXEwM05oakZ6anlIOGZwR2lZVUdZeGtyUlRCT1NhZEJ1WHBjRjBCX0N0eFdFVFF4TXNSUTExZzEtTTJfNk8wWjlzUg?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 2",
+      "significance": "Statistically significant",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-29",
+      "headline": "AbbVie Announces Positive Phase 3 Results for Epcoritamab Plus Lenalidomide in Patients with Relapsed or Refractory Diffuse Large B-Cell Lymphoma - Investing News Network",
+      "source": "Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRlBaaFVtT2ZiTk9FRWQxMXB4Q1BVRUl0Q1FqRDB0c3J3Q0FZMjRLZFYzekszVVNmQ3JUVWQwWkRrbjQ0dTRqLVRrMS1hRGRiemNtdy1JTGZpM1I3cXRfeHdDT2k4NWREOUdsUHlGVWVMVS1hNThpOS14aWs0UVpTS0d3MWlucmx6ZVB1TUVaRXlzeGptaHQ0MUZJLUVrOUxyZXBKa2ZDbEZFQ3ZCODd1ZVRTdHpiWUJ0ZG9HM2RBVGQxOUhKeEZJV1NHWHllLTlkLWd0OXJqTzJ5YW9kaTlWWXlTM1JGTkdxQ2pabHBialBwcFA0bDhxRFhMWUdnYWlHY3c?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -2701,50 +2745,6 @@
       "headline": "TG Therapeutics Announces Positive Phase 1 Results for Subcutaneous BRIUMVI, Supporting Ongoing Phase 3 Trial Dosing Regimen - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSTZvcEhIVFRSSmdfNjJmTVdjOGs5MnNtRnhNMnVTSEMwMUh4YVpIRGctRk12RmpPQWhYekdPLWFVelptQkF5d3FSNF8yem02c1otdU9SQW1ZQjRoQk94bkVOT2J3Mkh6RFU0TktSWHV2dEVMeVg1RXZLekhYZ1E4RFVPUDk5WVJQZVpkd1FfeXE5YTUzb3l4SjVXYnFWbzN6N3BjeEtGcTA4Q0V4MkJJZzExQTVLa0daQ1IyaWpKTWIyMDNVWkhlSzl2NEY2cjdraGZfMXpuX1RocDd2Q3gyanRVMDFSSXYzWVl5WDVaV0k?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "Phase 2 JASMINE Study Shows Nipocalimab Reduces Disease Activity in Adults with Systemic Lupus Erythematosus - Lupus Foundation of America",
-      "source": "Lupus Foundation of America",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlBVWEtCejNBNDBRY3h2ai15S0hfaUVMakZCdzk4SERyalZsS21jcV9OOXV4alEycTItR2wzdFVwRlFfZDk3Rk5LVGh4LXFEWmRQZWRlb1V2YmQyUWZNM2FvVTBPQlJBOHNUd0pERkJORldrTV81LTZlWGlwdnczcEFJajhxQlkxQUpUSzVFbmZuZThBYWlYTE9XU3VQdFdTYnM5ZDl6bUpfZ3RpekVDUmlJcU1HektUM3RBbjd3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "TG Therapeutics Announces Positive Results from Phase 1 Trial Evaluating Subcutaneous BRIUMVI® (ublituximab-xiiy) - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbElTRTUxcHhvZGJON2llMkJpOXZZYjR2TVZUVVJ2RGtwUGRvZU5na2Rad0UycUhYQWVUMkE0ZlVjZkNCOVl2M3cxai04MlRDUjFWajRXYy1HeW5EdmR6aXQ5Y00tWkFENzI3aVVfdzd0cHFlVFFONGJYdDFidkZfSjJSbTVZZWx1MzlmZTlZMW1DSi1JS2V0SVVjZkM4TFhCZ3I5bS1Cdy1SdHd0ajBXSVhrdHlDQWptUGV0VUZyeDlHMEM3a0I0a0JyVmRadFNQekJGcFVlYjNXODBudnllRU0yeGNWc2gydTl0V1FhWDBDRUVPYktXSmM2d1dZelNTMUhmbGRuRTNsbEV6d3d2cA?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 1",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Abivax’s obefazimod met primary endpoint in Phase III ABTECT trial - Yahoo",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXpWRGo0N25hM1dWOXl5RTA0M1g3Z0twc0F6ZlhLQjlhMkxyTk5DbElOZHJUMzZydlJrS1lIQUVjeDZ4bU1KRXc0eUlDZWUwOXdiNlpORV9TOGgzTkxZdEhGY2c4cm5vV1NvcG5DMkY1eU5fRlVZeGs0YlI3bGNoRUhpSExGQmwxdUp6eVd5UC1BLVltUGduTU1QclJqZw?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Eight Phase 3 Trials, 29 Phase 2 Readouts, and a Diversifying Pipeline: Eyes on Alzheimer's in 2026 - geneonline.com",
-      "source": "geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDk4aF9wdTZFOGtCQ3BkdTFkdXZnMURsNnBBMm5vOERBYms2b2VoaTNKWE1JNk9Jb2Y2bEktUDVmd21QZnJFTTdLVVFzbENLb25kTm9PRXBmQzctMTJBdWhSTUs3Y0NFMWtkTC1zSmYxVTlxWTA1aDJjU0pLUkgwb2tTcFhWVEk2SHBOMWJ1SUdZTGxkb1l5Z3owb0VHckdEYl8wSHBQWERnSHJCazBmRGdUdnV0M2FQUFBjUXBFckM?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
