@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-03T10:19:10+00:00",
+  "generated": "2026-07-04T09:53:10+00:00",
   "items": [
+    {
+      "date": "2026-07-03",
+      "headline": "NIH Expands All of Us Dataset to Advance Precision Medicine Across Diverse Population - Pharmacy Times – Pharmacy Practice News and Expert Insights",
+      "source": "Pharmacy Times – Pharmacy Practice News and Expert Insights",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0p6dVgwclVvRk9kSnB0Sm9uUHBfSmN0WTRjQ2xGNDVmeXQxSWduY0J2UW1yUzdNR0xYRzBqdWs4QW1sbWljNWJWdVdmVWpzYVpQUERueUE0a3l1bGFjclZqSUc2dXZ2ZkFydUNsLUVUdFk5ako0T3JzNlVVQlRvQm1KU2pDVlRqX21EaVAtUElyTWlqSkRhSVdfdUs5T0Vld3dlcy1oZ3g2UzhlVUN6TlFRLUdSRnJXUkV3Uw?oc=5",
+      "category": "Data/Cohort"
+    },
     {
       "date": "2026-07-02",
       "headline": "ZAWYA: Abu Dhabi Biobank and Bascom Palmer Eye Institute partner to establish the Middle East's first Eye Bank in Abu Dhabi - TradingView",
@@ -35,13 +42,6 @@
       "source": "Big News Network.com",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYUhWNlNKQTZMZ2F6ZnlnQ2RKQmEwVS1BNnpPNzRCRUhPS2NocWpOXzlGYmxqejZ5c0hld2g2UkxNRXh0STg5YjJGalQ4V0hoeTByWFdmblpJSmF2Rm5CV3ZtUnBqQ2JpY1d1V3ZZRjltMWxMTnJmYU1VYXRFcXU4XzUwLURLbkJ5NWlMTFlJcmxydGlFbkhvVkMtRFVQM2xJa1RIcUFnSmZIQzJHMlRqZDN4RUZ4TUJNdllobEozQ1BWVnRiOTBUUnJBNjNpbTVhWVlTY2UtXzZKWTVkUFk0cURVRTgtbE0?oc=5",
       "category": "Partnership"
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
-      "source": "The Cyber Express",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
-      "category": "Funding/Deal"
     },
     {
       "date": "2026-07-02",
@@ -478,6 +478,13 @@
       "category": "Opinion"
     },
     {
+      "date": "2026-05-12",
+      "headline": "Abu Dhabi Biobank’s Paul Downey on why biobanking is becoming critical healthcare infrastructure - Gulf Business",
+      "source": "Gulf Business",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXZYUDhMNHVQb3JvdXk4MVAwbEZMd25VaXhSOXlMNjRIVjA5N2Z5SnpkSFF1NmNGVFpnODYwR2kyMmdjSmVyYmpFZGlWU09sQ2hrQl8xVlJYMVBiTkthODg0VTVmNFVEd1lzYnlOdWJVdm85NHVad1ZfZ2dTV0tkNFhoaGN3YlJQV1VBQzlBcEM?oc=5",
+      "category": "Opinion"
+    },
+    {
       "date": "2026-05-09",
       "headline": "Multi-Omics Predicts 17 UK Biobank Diseases - Bioengineer.org",
       "source": "Bioengineer.org",
@@ -693,6 +700,13 @@
       "source": "The Observer",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVR6b1Z0b0toVnZXOERvZDRwdFQ1b1ZKb3p5bnNpc0hPck4zbTVVTEVoZE9Ia0NTODZTVHd5V25BQzV3X1I4ZmRuNENvU0FaeWZ6QzZ2Z1plZlozaXlkMlc0UlBBcWRzYktrYXl5NjdkMUEtT2F2YnFNd3JidHY3NmtHSHBYQUVDQzc1bEQwREdMZWVoQ1h5X0xnVVVkejRCUS1HcG5qNmJzelR1ckpZ?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-04-24",
+      "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
+      "source": "The Cyber Express",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
+      "category": "Funding/Deal"
     },
     {
       "date": "2026-04-24",
@@ -1451,6 +1465,13 @@
       "category": "Research"
     },
     {
+      "date": "2026-02-01",
+      "headline": "Interpretable Lifestyle-Based Machine Learning Models for Ten-Year Cardiovascular Risk Prediction using data from the UK Biobank - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05RmNDdmZLZHhLNVJWVUFUbTJKMTBlWmhCTHRfbkxHOVh5a2RPYmNxY2Vkc0ZRbTZ3Ulg1UXlpSlRoemVVSDdFUS1acFotVDJVY2xlSjdaV3ZaYmFPNF9VMG1XbVNCNmJzeGxxQXhYZ090ajdmeTJpdHdFUm4?oc=5",
+      "category": "Technology"
+    },
+    {
       "date": "2026-01-30",
       "headline": "Cheese consumption and lower cholelithiasis risk a prospective UK biobank study with HDL-C mediation - Nature",
       "source": "Nature",
@@ -2078,27 +2099,6 @@
       "headline": "From Biobank to Bio-Intelligence: The Rise of the Human Phenotype Project - Inside Precision Medicine",
       "source": "Inside Precision Medicine",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa1dTaVA0WEhIMDhDdGFCd0tjUnp0eUQ1bmQ0cDhQSWlVMzg5YVVLTnB2R1E2SzU1Z1ZBNC1rUEFGVlM3LXZMU2pSYkU3ZXhCaU9oMXBHejkxX0Y1aGMwN3dTdnFsWm5scGRfckJUSWdPbFRwMUFnZEFfdVB4UXk4MWdzdXdmck9xd2UxNVhLQWVCTnRnUjk0X05CS19QblNaeF9KbEpuaWxpWEMtc1VmdEJCSVBBazNBR0dhU2ZackFzNW9OMTNYbERwS0tud0lLWnJZcExn?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-07-18",
-      "headline": "Comprehensive interaction modeling with machine learning improves prediction of disease risk in the UK Biobank - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuMF9sbkhjVm9EQmxKZlIwUk1PZUNXRGNBc1JONHY2dklFLUZ3a1dGU1FPZjAzOXRObS1JVWVQNjZwVUhCV1lYZ0V4bHRqTmJFQWZ1cThHOTEtZ29SR040?oc=5",
-      "category": "Technology"
-    },
-    {
-      "date": "2025-07-18",
-      "headline": "A pattern-learning algorithm associates copy number variations with brain structure and behavioural variables in an adolescent population cohort - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DUkRzYjJsUU9mOUpFaDJ0NkpJcHdTcXo5VzI4RDhFOEV6WmV5Y05oY09FWkkwRW5DRnNRUG5wWG5EVkpHV0F3U2dod2lHMDZKNllFWFNCSzVoblhLQzc0?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2025-07-16",
-      "headline": "Phenome India National Biobank: Towards Data-Driven and Personalized Healthcare - ClearIAS",
-      "source": "ClearIAS",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZRFZSRVZzZ3RxbVJxQ2VPcm1tVUdtMW5LbDl2eVB4X1hhaklhZUVzVHJvbXAyelhqMk52V25MNjBXdURRZTlZdUdIQVBqZTZpUnlESnk2ZWt3a1g3M3Y1S1d0Y25xQ0U?oc=5",
       "category": "News"
     }
   ]
