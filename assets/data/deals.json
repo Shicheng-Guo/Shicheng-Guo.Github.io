@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T09:34:02+00:00",
+  "generated": "2026-07-04T08:49:35+00:00",
   "deals": [
     {
       "date": "2026-07-03",
@@ -32,6 +32,17 @@
       "value": "",
       "area": "",
       "modality": "Radiopharma",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-03",
+      "headline": "LEO Pharma bolsters rare skin disease focus by acquisition of Replay - European Medical Journal",
+      "source": "European Medical Journal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzRxVFhTRUtNRkRpOVY5MjhhZFcyclczOFpKT1Zla2h4Y0l1dDBDWWtFazM5Y3djVlg2SzYxMUgySVNoREUzQlZ1emxnM2tlS091MXJpc1JmSWhiUC1objcydmZkMnlkVUZtSmlQRXdzVTE3M3RtNHYzLVoxTnROeGxNT3g1N1dQU0tlTlFvSklXRmFVREFZaVlMVUpIZ2lhRGw0?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Dermatology",
+      "modality": "",
       "stage": ""
     },
     {
@@ -91,7 +102,7 @@
     },
     {
       "date": "2026-07-02",
-      "headline": "Pfizer's CEO Says His Company Has a \"Very Big Balance Sheet\" to Do Deals. Here's the Perfect Next Acquisition Target for the Pharma Giant - Yahoo Finance",
+      "headline": "Pfizer's CEO Says His Company Has a \"Very Big Balance Sheet\" to Do Deals. Here's the Perfect Next Acquisition Target for the Pharma Giant. - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmFsaDgzZFl6bE5kNGVCcXo3aHQ2NWg3RUg2RnBCY1lqRWlvZFRCRDZsQUNxUURzdGtHNHBXUXgwaXN1VjhsMkVUNjdFbllTT2hMUDBlZXBsek1ieTJUTVJ5TUJtUW15Z2djV2dLYjhueHp6WGlCZHZFaXlsWURCSDdBZVdiT2hkQW5TdTZwMURrZDBY?oc=5",
       "type": "M&A",
@@ -272,6 +283,17 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnJXcGRpNFZhUml0d01CbHJya2h3RWNUdnRldDVjUW05SlNNTlFlSGllQlQ3Q1hhSkU4d3o5aFB2VXlSNFh6UHBsTnpmZWNFZnVZcHI1Y0hjbmtPWm5lSHhpQVI0d1N5cUpNYkE0UzlTMTJqWjZJNVU5TFZlSGRVa1ptdHdBVGp0aTZfakdPZFZuZlZzR0R3cHc2Qm11ekxvUmo5VWJkV3FQbHd1akE?oc=5",
       "type": "M&A",
       "value": "$800 Million",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "AlzeCure signs out-licensing, collaboration deal worth over $2.2 billion - 1470 & 100.3 WMBD",
+      "source": "1470 & 100.3 WMBD",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUFo0Wkx2UXk5MVNDTWhCVENiSXJmOWVuVDRvZWR5Z1pyUDBzYlp3R0ZZa240d1VuT2Nnd2poR1kyTXhHeXMwa2VqZFFSd29fRVlHZm1ORXBmSkdvVmV1WkpXMGNWRFBZS2V2TFlZbkp2WVQyRDVKXzk5T0plNHZvZzFja2JPR2tqVTRkTl9ROXplZHBKaDVKbmYxS0JZMmsxM252VTdndw?oc=5",
+      "type": "Licensing",
+      "value": "$2.2 billion",
       "area": "",
       "modality": "",
       "stage": ""
@@ -1080,6 +1102,17 @@
       "stage": ""
     },
     {
+      "date": "2026-06-19",
+      "headline": "ASX: DXB — Dimerix Lands Asian Licensing Deal Worth Up to $480m as Kidney Drug Story Expands - Kalkine",
+      "source": "Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1Myc0t5OWVEQTllcW04UFJyVmxrX0VzUmNSV2JNLS1GTU1GeS1tT1JnUm04U1FRYUdhQWwxSDlNZF9IeElZSEEzOFZkVFF5MWp5YnFtX1NYQzJEeGVIOFJCVXVsSk14OTEwYi01MmhBUUs2ZGdTZ19aM0tJc2EtOWhhclVKdjVCak5VM0poOVl0T3plN05tZkgtRndaVG9nOTZnMUltbm1qbFhqT2g1STZVOEhjTm85WUtuNTJpWllVam5FbnU3Xw?oc=5",
+      "type": "Licensing",
+      "value": "$480m",
+      "area": "Renal",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-06-18",
       "headline": "Laprophan Completes the Acquisition of Rivopharm, Accelerating Its International Expansion Strategy - BioSpace",
       "source": "BioSpace",
@@ -1153,17 +1186,6 @@
       "type": "M&A",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "ASX: DXB — Dimerix Lands Asian Licensing Deal Worth Up to $480m as Kidney Drug Story Expands - Kalkine",
-      "source": "Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1Myc0t5OWVEQTllcW04UFJyVmxrX0VzUmNSV2JNLS1GTU1GeS1tT1JnUm04U1FRYUdhQWwxSDlNZF9IeElZSEEzOFZkVFF5MWp5YnFtX1NYQzJEeGVIOFJCVXVsSk14OTEwYi01MmhBUUs2ZGdTZ19aM0tJc2EtOWhhclVKdjVCak5VM0poOVl0T3plN05tZkgtRndaVG9nOTZnMUltbm1qbFhqT2g1STZVOEhjTm85WUtuNTJpWllVam5FbnU3Xw?oc=5",
-      "type": "Licensing",
-      "value": "$480m",
-      "area": "Renal",
       "modality": "",
       "stage": ""
     },
@@ -2720,33 +2742,11 @@
     },
     {
       "date": "2026-05-14",
-      "headline": "Biogen Completes Acquisition of Apellis Pharmaceuticals - Investor Relations | Biogen",
-      "source": "Investor Relations | Biogen",
+      "headline": "Biogen Completes Acquisition of Apellis Pharmaceuticals - Biogen",
+      "source": "Biogen",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ256enZtNjcySFlVRFVBdlVmVlIxLVFUYVZGVVJCMWJyaEVwaG1XSFdrOWxZU3ZDWGtiZmVUNkRtSmtKeTIyaldoQ2xuQ3JzaXdQeUNteGZOM3hZYzI5UUJ0MXVYNDBjVGZrSldQQUFSaF9MUUphR1lyX3daMl9pODJkdGU1NWRLM0NLRDlvelJmOEkzYV92VkY1TE1qWEFXV3dyWW1FeGJObnowT0VfUlRISFR0YXc?oc=5",
       "type": "M&A",
       "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-14",
-      "headline": "AriBio signs up to $4.7 billion global licensing deal with Fosun Pharma for Alzheimer’s drug - koreabiomed.com",
-      "source": "koreabiomed.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MR1BUQ1doR3lacU9jN3UwUm5rOXpuc2E2amtlWnBqX3BOVGk2ZnZWWFpiaW5fUlFsWU80ZnhNQTA4VnJRcGxpejZuclc2cWJvS3Iybm5WMXRTVE9LSHZSMVp2enY0M0x6S1FTWUpB0gFyQVVfeXFMUG4yLThRbWpwOVZma2xZbzZySzJ5bW5xUXk3a3ViVFd4LWJSR1J4V2cwT0hHeWVXRWh4aEJZbzd0cGdCUW95ZC04eWJ0a3Y3R21vQmZvbUtTUTA3VDYwSHQ5NE1iYlFsYnhNSDRiYXRrREpn?oc=5",
-      "type": "Licensing",
-      "value": "$4.7 billion",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-14",
-      "headline": "AriBio Signs $4.7 Billion Alzheimer's Drug Licensing Deal with Fosun Pharma - Seoul Economic Daily",
-      "source": "Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGFGX0tZUS1RZm5rbFhNYUQ2SWFCRlNoTVlaMlVHZEluUldOYW5WblJyUUNJTlFaTUtjeG40NXlLYWRNVUNPS0NEUE1NWGpLamVFck1rTHE1d1NxTi1ZT0VTNE5SMGV4TjJITVZvY2FCd0pidDZvNzRrS1MySko4V1NIVnFrNXBnR09uakZhUl9PNWFvYW9HNXhfcC11bzB3THFR?oc=5",
-      "type": "Licensing",
-      "value": "$4.7 Billion",
       "area": "Neurology",
       "modality": "",
       "stage": ""
