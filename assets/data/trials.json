@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T09:09:22+00:00",
+  "generated": "2026-07-05T09:31:43+00:00",
   "trials": [
     {
       "date": "2026-07-04",
@@ -471,6 +471,17 @@
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-29",
+      "headline": "Ersodetug Shows Target Engagement but Misses Primary Endpoints in Phase 3 cHI Study - HCPLive",
+      "source": "HCPLive",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1MzUHZNSml5cENGRjZ0TmFIbnVGYTZ6X0JMelo4M0V4TDE1alRpMDFSSk03eTVOUk43aVI3Wk03SWVVUHdvWUppZG1sVURjbktERmt2SjJmdm5uaGhRTEhlOFFDMlMxUm1Da2YyYUZmQmdUdTNqeUJ2dFNxR1NaRWhCaUR3a2NVWHdLRWNZaw?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
       "target": "",
       "moa": ""
     },
@@ -1098,6 +1109,39 @@
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-22",
+      "headline": "PFE Stock Reacts To Mixed Topline Results For Seagen-Origin Cancer Drug - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQkE1T3pDZDYxN2g5UWNrRUFSUjVRdGotak9YMTF4VVZhQ3NFMFctREUyZTB6cG5GclVIWW5mWVAzaVVJZE1KTWhPMkluOUp6dlI5ckhXeWVJS2h2S1NITVp6eWxjMGRuQ3A1WnZRNmZpUHEyYjJfUkdIVE5JRlVabVVPUU0wVGRzNzhSZEUtSUJKQmRRVGc?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-22",
+      "headline": "Pfizer lung cancer drug trial fails primary endpoint By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWC1Ia2dPcnMtbFh5YzdfVGs3a0NWRTNoU1lueGxmb3lUUkoweEhNX1NnaG05TW9uY2JGQ1ljZnRyOEhBOEN3S002eUVhcXRMUlZEY3NzUmtNNE91bEczUzlRbXhYX3lEU1l5Vm5oeW1PRUVBX01ER2dHRVF0RFozR213YnNjaWIyNU9tV2RXUUVPVnNhOFNGcG5ZcDNKUFFwY3Npb0JxU1ljaWpUeWJ3cGh5UQ?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-22",
+      "headline": "Merck’s IBD drug from $10.8B Prometheus deal claims its first Phase 3 win - Endpoints News",
+      "source": "Endpoints News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHJjekgwSWpnOTRjV3JIQnY5S2VLTVFVbnctS0dRZEdMQ2ZGbUl1WWpBS1g4ekFBNUowQmJwVlNwcWJaQnFtcEhwdk5QNGJHMHBWdzB0QjdkZWZKMmZENXdrdEdIeHloM0R4eWlaMHc4VnkxTHlmb1VSWm9uZE9yY2ZkN0d3TnJpdjRhT2NTaWZTUTc3MEpQRXlpNA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -2703,50 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0NOblZiMzdyWXo3ZHcwZVd3RTBSY3VWNThaampLNWRZbjJnMDY1TnlaTk8tc25vYzNDdGNUd1FsUzJublZyTWFaMjQ3YmVpOUZ1dEprczVGVkxOSWtkQ3k2RVRuZklVTnA2V1A5SjVQTXpzdXctaVV6MDhLWTk3MmFTeEZ4R2lHelRObUxTTF9YM3FRblFTMTd0NXoyc05kN1VZMS1YWEdPYWpseUN4N01RelZhSVFaaWFicHdHQQ?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "TransCode Therapeutics Successfully Completes Phase 1a Clinical Trial, Reports Safety and Stabilization Data for TTX-MC138 in Metastatic Cancer - The AI Journal",
-      "source": "The AI Journal",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVU1Tcm42ZW1pVUNuZWgwRlN3TVZxeV9aNUx6LUk5eXIyck56d3QwUV9pR0J6aGhxMm9BMUFHZEVjM2wyYkVyXzczSWdOUzhNeHV3YVdWY082RlVhVk1COUQ4TklzZ1JTWV9CRkZoQWtrZzFXc2lqRzg3WXgwZmZDeThFczZDZHl6ZWF0UklJajd5cnN4OUVmQUxiWEZidm5OTVJGdXZEbVphNHRVM1NxdExhQlU4LW5vSHpnMGp0S0owakdDTEhUd1RfVm5HOFRjZnJlUC1CU3I4RVUyVTVYaFd4YmlSOGktNlJ5anRHLXE5eEQyYkE?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 1",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "ADC Therapeutics Announces Topline Results From LOTIS-5 Phase 3 Confirmatory Trial Of ZYNLONTA In Combination with Rituximab In Relapsed or Refractory Diffuse Large B-Cell Lymphoma - marketscreener.com",
-      "source": "marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXFQbTRMUHd3cjFFYXpmaHZzcHhDUWFYWUcyWXZpMmxybFNzRzhUOGtBRmhPOVNFY2QtTW50ZFV1YzgzNTI5U3dmUnhxV3hkWUIxeGZITFI2Q2gtT3d3S0p4bFpCU3NfSjFJVk16QlRVRGU3aDNmUHVTMnRRNGJoM2Itb2FIRTNlQURoemgyc0tabnI5ZFVtZ1VsWUo5OUNWcmVXeTlNMmQyYmJPRkNIMTdqWVZPSGVWRWpYdFAweW5aT1RlODZ1WThwYjZubUlDWC1PTGx2RDR1YVlYYmVwV1k3dFRMUE1x?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": "ADC"
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "Dexamethasone Eye Drop OCS-01 Falls Short in Phase 3 DME Trials - Optometry Advisor",
-      "source": "Optometry Advisor",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOGhaRU96X09hMzE4MENkS2swRUFNZEp2VUUzem9fZV9RZ3I4eHBRVThsVjlJMVFwQ1pockhodGVkOGxzMmdtQVBhTzB3NUxhVjVPUVRYS1RJNHNiSHZUOXp6S21nbFBtRDM3TG1kUEFYWTAyZ2xqTVZHa1ozZmpUTVlUS0RmQmdfWkRWdllpTVpvRG8?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "TG Therapeutics Announces Positive Phase 1 Results for Subcutaneous BRIUMVI, Supporting Ongoing Phase 3 Trial Dosing Regimen - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSTZvcEhIVFRSSmdfNjJmTVdjOGs5MnNtRnhNMnVTSEMwMUh4YVpIRGctRk12RmpPQWhYekdPLWFVelptQkF5d3FSNF8yem02c1otdU9SQW1ZQjRoQk94bkVOT2J3Mkh6RFU0TktSWHV2dEVMeVg1RXZLekhYZ1E4RFVPUDk5WVJQZVpkd1FfeXE5YTUzb3l4SjVXYnFWbzN6N3BjeEtGcTA4Q0V4MkJJZzExQTVLa0daQ1IyaWpKTWIyMDNVWkhlSzl2NEY2cjdraGZfMXpuX1RocDd2Q3gyanRVMDFSSXYzWVl5WDVaV0k?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
