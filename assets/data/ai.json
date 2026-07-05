@@ -1,6 +1,20 @@
 {
-  "generated": "2026-07-04T09:28:57+00:00",
+  "generated": "2026-07-05T09:45:53+00:00",
   "items": [
+    {
+      "date": "2026-07-05",
+      "headline": "Capgemini: How AI is Transforming Pharma Drug Discovery - AI Magazine",
+      "source": "AI Magazine",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEtqWjZva1FxWnEwd3d1VDVNbDFpZ25nQ1ZxTHhoN0djR2ktLUItMEJFVVRpVWgxeGhrMDVSZDBfQ29GSURYVXF5ZTVPRThlX0FNQ0JaV3hCSzdEMFJON0NSbkNKZ3UtdEVvNnVXVEdsZkRXZW5kSThkdFp2azBySFpMZ0FlaFVLY1NINw?oc=5",
+      "category": "Opinion"
+    },
+    {
+      "date": "2026-07-05",
+      "headline": "Costa Rica Courts ‘Silent Giant’ India For Everything From AI To Pharma - StratNews Global",
+      "source": "StratNews Global",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2ZwTFBtd0ZyMlAzTklQVkM0Z2FrQ3FRMEJaU2tleEVYQWY0UXZoU2JWdW05Umd2dS1temh6OWtZeWk5UkdwcHEyRHJrR0RjdDhGRHA1SE8yaTExcTV6QkZxOTZLNFNXMFNLWG1zS2pvTG9oV0JfSnZwZktwb2JZLVFhcGs1SDFmcUZSUnl1VEVRV1pXY24zdE51bHRzd3Y3UXRCQjRHd3hiMnh2?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-07-04",
       "headline": "WCG Report: Only 11% of Pharma Firms Fully Implemented AI in Clinical Trials - The Clinical Trial Vanguard",
@@ -21,6 +35,27 @@
       "source": "The Clinical Trial Vanguard",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUxwUTN0WVN4MnpKR3VGMGt1M01QNzc1ajhRc2RRbjVZcUEzMmRRY1dxcnAyaXdBSmNPenQtVlhRSTQ5azh1UEVVdnZPT2Fmc3JxTEwyMEtkNmM4REFtNkRxbS11Zkx2V1k4a3Y4T0tZVzJWQ21hZks3YndTLUpXeUY5ZHpYVllhOFk1bm5IcXBvQm1WZnBUdHBoMWZOZU50UkxGQklKb1VGbERveWlxUmtiQ3VfLVhZZW45NQ?oc=5",
       "category": "Product"
+    },
+    {
+      "date": "2026-07-04",
+      "headline": "Anthropic launches AI drug discovery project: neglected diseases first - en.softonic.com",
+      "source": "en.softonic.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmJWM3pudDlaQkpPeWxvVVFZelg2SUZ4TEFuZHI0M3VyVy15ZjM5VGlTQnVia2U2WWhybkxrOXA0M0VqT3dUamZWZWE0OGJMUEFhckhjNnJfNEpvZHJrMHczLXdPRVZBSDFtM0VUZ09hel9QVFE5aWYtMjhfdmVqUVI5NnFhNmxfLTZ0enZrVzhUVUNOTHd4UGc5TExNNzJCRl8yYg?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-07-04",
+      "headline": "Pfizer licenses Chai Discovery AI platform for drug discovery - qz.com",
+      "source": "qz.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwaWJzSE81ejltR0dIY0lmTmUzN09leGxIRW9GLWRPUE5fMm5FRFBPT1FnVmMybjloMktqbDBCakQ3ZUhaZzhQS2ZBY3pOSC0yNkpDS1RoOHVUMVk1Zkk3TjZQRGl2dl9ZYng2Sm9PWGVoVFpuZ1RqNQ?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-07-04",
+      "headline": "Anthropic Launches Internal Drug Discovery Programs for Neglected Diseases Alongside Claude Science - MLQ.ai",
+      "source": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVmRRdzJMX2N4VG5IQmEyeWlOMUw3TVBZaGlUdk5yUndiSWxWN0V3Nk5nQkZFQmtScS1KM1RsT0R5VWpVdDBRdEt5ejhSUDFjLUYwS3RDRVhmVE1TSDZDTDJucGJ0MjVfNEVQLWlseThWcHUzUTB3WFBsZi1FYjVEeWMzODAyRm1QeFFlTk04SlAxaDd5TnhvVE9yaE4tWG04Z283NmtaNXB3ZjBWXzAwNkFORDFPZ0tVNm1NVA?oc=5",
+      "category": "Research"
     },
     {
       "date": "2026-07-03",
@@ -161,6 +196,27 @@
       "source": "The AI Journal",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzBEYWRPcDI4RUtLLUhGdF9oanNUdlJpT2JnMlNLZktYMXpETDZka1Q2ckxzYXc3ZkpjcFNKbEFDOUhndDdoNVJVMWh1cDFxMllIS3haeHVIWmlKcy1RdC1YdHVFQ3R3aVhQczU0OGRjbGtWbDlSdldJUHVUa25aNWVhVEs1QUp6clFQSm5n?oc=5",
       "category": "Funding/Deal"
+    },
+    {
+      "date": "2026-07-03",
+      "headline": "AI Tool Improves Prediction of Who Will Respond to Cancer Immunotherapy Drugs - Harvard Medical School",
+      "source": "Harvard Medical School",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUNrUkFsaU04UlFOY2FmX3VaVGQ2OXpYY3E0a0otVjA1c1ZzZFlKUzZ2OVJ6MzlaWnhPbFEtdlR4Wk1vYWRlcFA5SGQ0U1JJVVZwa2t1VDMteEJ1OURPNGZBMW9RUlRJN3pUZDZONkJsSl8zM2lGZElEajZTQy12NFlxR1ZIcU0zTEJGLXpVT2c0VUQ4YUd1SnZ4UFVXQlZ2aVE?oc=5",
+      "category": "Product"
+    },
+    {
+      "date": "2026-07-03",
+      "headline": "AI tool improves prediction of who will respond to cancer immunotherapy drugs - Medical Xpress",
+      "source": "Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzJZOXQ0SGduVmVCTTBIbnVsM1lFTnFRUE5iTGxXdGRRQ2U2c1QtOUlueVlGZS1KVWk4MXI0TGJsRVFGNmp4VFNfQThjclVGdHNtQ2tPdW1ReUtpbVRBUUlMakNUS1ZNaUJGTzZ2ektJVzNOUTFzUFNHRUhnQWhPZ3JCR1M?oc=5",
+      "category": "Product"
+    },
+    {
+      "date": "2026-07-03",
+      "headline": "Global AI and Omics Sector Fueled by Precision Medicine and Deep Learning Innovations - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbFFaTThiNzB3RjVQb0w3SFhrREtWbEQ5THJvTHFaWkhCN096RVRGVkQtWFdkbzBQN09iR181V2pqdGQyc2NGWDJ1M21IZk9ScEMwQjZHbGVoNkhFc2xBQzVUSzVwNGRpOEY2ZFpYd0NIeDJOTDRiNW13RlN1N25oR0xEb1BXSlRaQkZobDRXbi1KcGxhbC16RHFsc1Zmb0owZXFtU0ZnNGY4UGlQQ1NHMjRKWHRyS2ZxMExrbnNwZGxXWjctOGQ3dWpXRjVONUZsV3NkUHlwZmwtazBub3VaaUJESExpQVJoa1I0Vy1R?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-07-02",
@@ -448,6 +504,13 @@
       "source": "BankInfoSecurity",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDZoV01WX1RncktOcUNFRmRsU1BSMlZ3STVFU18wX3VaS3M3NU1zZHI2RHljOHdmWm9DUk00TmJKM28wWmNzak5UejA1S3lnNy1weHA2enlWandZY0dtSEpKREFKMGpEazhDRHNHTGJ1RHlvM1l5dXh2MkZYWFIwd254ZnRVaXoxYnkzdUZucUx4dXUzY0M0?oc=5",
       "category": "Product"
+    },
+    {
+      "date": "2026-07-02",
+      "headline": "Physics-Based AI Drug Discovery - Trend Hunter",
+      "source": "Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSUjlLQ01EQjJyYzM2STRCdk9MUnA3UUlnc0FPSEkwa1kxa1ZOYlh0czhRbGlRMkZvd1ZuZmlkZThzbjNCS1h5S0FxdGRPSC0xbGxLLUh4bDJjUDIyVE1wcWtUWkFlTTFkaDdMa0I3WHV2Ni1q0gF6QVVfeXFMT1JBV285TmlnckF6ZFBrVm55bUZSUWM4NFoyYjRySUs1UHk3MFJEdVBDSXRRZDR2ellmcHdxMTd3YmEwYWdGa1VFWWlLbEcxMm9iR3BzY0lhSWo1UmJtUWFlLTF5a05Nd2xpV2tUa1FTUVY1SjZzN0ZYdFE?oc=5",
+      "category": "Research"
     },
     {
       "date": "2026-07-01",
@@ -773,8 +836,8 @@
     },
     {
       "date": "2026-06-30",
-      "headline": "AI Tracker: OpenLoop acquires Hey Revia - Modern Healthcare News",
-      "source": "Modern Healthcare News",
+      "headline": "AI Tracker: OpenLoop acquires Hey Revia - Modern Healthcare",
+      "source": "Modern Healthcare",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEJfOGFQa0d4TW9ONGVxSWx1NkRVQm5WUThYdkZmRWJ4cG5GNGtDMXlSUVh5dlo5YWoyeDJSdEo2SVg4M19GTk5XcEttbE8zV1FEMS11V1BJTU1OdWFEOGpMZThPVVBRXzRxZGdlbTVaQ29zR0JtQzZiRDBOQld6Um9mTlRzdTVwZW4wSWJEOA?oc=5",
       "category": "Funding/Deal"
     },
@@ -2036,69 +2099,6 @@
       "headline": "AI uncovers antimicrobial peptides hidden within prion proteins - Drug Target Review",
       "source": "Drug Target Review",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0Z3OUFvTDBMeUNZb1Q3SzRPNzF4cmdFMWUtb0NsdVZ4VG9LdTRxaUlROU1nclNzR2FjVjBaeS00Wk0tNEQ5ZjNrT0wxTTYwZ2cxb2RpY2paaW5hOWgyck5sRTE1WGhOXzRhZXBCa1d0VHB2dWJ1dXVjVVJ0d0xaWG9ueXBPY0RTODk5NkxXTGJ1dTFvaGdTVWlwc2p6UGV5aGtjQ0NPYUI0NUZIeXh5YXBn?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Biotech ETFs soar as AI drug discovery and M&A boost sector growth in 2026 - Pluang",
-      "source": "Pluang",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHJjQUdsWnJwMWVmdEFpQ2QxWGd0bWFtQmZiZEp1WC0wZVdseW85cndEczZnejlxeUdmaEFuZVpKbkFGSmM0WTREdlN1YVp4RVJ2SlZQU2o1V29EOTZyQVdQOFpsTTVJc0o0Qko1eDFjYWhPY3hIMGdaMU1yenZnc2xQWG1DdUs4eFc5QVk1WUMwYk42?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Pharma.AI Summer Update Preview: Drive the future of pharmaceutical intelligence - Insilico Medicine",
-      "source": "Insilico Medicine",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTBoQzdJWXhYMjFZWWhsVmxwekpNdHpRdEZmU2MyZ2xlTGxUWnNFRlgydlNjcFV2STRLSTNWdF9xcDJuTGRvTkZRenMtbEZiNGI3UU9MQ05zVjF5em9FM215bC1NWW90MEZRMC16WF8yaXY3ZmlYZFV6R1U2ZTFpUk44NA?oc=5",
-      "category": "Opinion"
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Eli Lilly dives into hair loss treatments with investment in AI startup Absci - statnews.com",
-      "source": "statnews.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tX29TTTQ5X1E1ZDExSVpHLTFuMGtaV1o5NXlod0d6Zk5QNjZFN2U4Z3JJYnJvWVpuZnFnT1loTUVnV3lZTHBGdFZFTFhHSGZWOXdQUF83Wm9TVUFjWjk4LWZiRzBKUWZJSmVwMU5OQi1Tc2xra0RMc3V2NzJhQQ?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Insilico Medicine, SK Biopharmaceuticals Sign Up to $2.5B AI Drug Discovery Pact for Neuroimmune Disorders - Digital Health News",
-      "source": "Digital Health News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNblN2SGJTby1kTHppQlVfWWs5ajFJX3RIRktqSzdmQkNxVl8yQ2NZY0VRVUlOaXppQ3Z2UUpaLWhJc1dGaEZSLWVyR2Fjc0ZZVE84T3VZcFRCT3pZak1HWGl3ODJHRUxuLWsyWXVOOUZ2WWF6a3RNSUllblVyN3FKRWNrWkJnY1ZvQXQ0RnhQNTBmVjU5WFkxYmVWN1lzYlZuR2dvdDBsdG5XbWdYSnRhREpOdWRJTFlsYTBUbi1HaUNvamJXZ2tiUEV3dEUxbnRzSzUwemRn?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Reid Hoffman: SpaceX ‘isn’t an AI company,’ xAI is a ‘train wreck’—and there’s room for OpenAI, Anthropic - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXlNQWNfMzV5UDlIb3FFa19PaXM2VmJmYlNhQ2U4MTFBOWtCOE9iSzNOdjFoTXFTQjltTkNKeHYtWTQycEFEOVNVbXZHOWhfWENOV1kxLTh4NFhlNnA0UjdxRk5nRHJmcjg0R25JOFVTS0prME10Z2hpazZEMnJMZ3g3eUZlN1BGWGUzWVNETHo?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "IMU Biosciences Selects Waters to Advance Breakthrough AI Immune Mapping Platform to Transform Early Diagnosis, Monitoring, and Precision Medicine - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVlByZ005SlpzUXNvM0NRc3lIVkdGQnNIRG80NmpNNE52OWdVOXRNeTljNVlDSGVMTWtpRlgwNFE3aXMxX3pxRW96a1k1Z09pQWt5czhTZEZEa2JDcHJZNlJETnEwZUdvZmd1aVpFd3pEa0tacklJTGk0LWRCQ2U0RkFQUEJxUXBOMkcxamt2WlgxT2E4bTJlNDRrLUNtdC1SOU9OWWFDVW1rZWJCSkdXd1l3QWFON1Y0OW5jT00xdjg3cWlCc3JUczZMRWlHOVROQTZmNThpeE9iQmdubjB6R01mdTVQQjZmb2Zuc051TkpGTWFUWjRodzN4XzNqeWtsOV9XcjQyVXJHaDBrSEctU01KdkoxVW03RUdsMXVHZTUzNHVLTTZhODd1QlVZQQ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "Insilico Medicine Targets Neuroimmune Therapies in $2.5 Billion AI Drug Discovery Deal - TipRanks",
-      "source": "TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdTlsRkxTX2dTWUFCWXRkNmE5eGJqazNHdUFVMEdEUElyS1BIUzdwZklIdGxaVkJndURJUDhxT24xX3dIQUVrZjdkZ2MyOHNzU0dIQTFDSmpVY2s0c0tnNlNheFNfcTE0TGpLaUhUY0VqVUNBVTIyZHV6ckFXQXBtbEQtV21FMUozTUxIWUUzT05EeWJjdDcwanQ1ZWJXN1M0OTJxZ25YRVEtbTZWZUhuX3lWZHBtNlFhS2hWenVFMnlRSTdPMnFCNERGNUhEZw?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "Insilico and SK Biopharmaceuticals partner to develop AI-driven neuroimmune therapies - News-Medical",
-      "source": "News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSEZLREo3ZWg5ZHR0YVp4WXdwYnhLcFpteFlvQV9aUXAzdjBNdjVVSUxMUTFnelZKbDNNM0hacHZaYUZaLVJtM2I5X1hncDdFSm12aHlPcnVkZWw5WXB2VVJTYndFZlRsMG9CdGs5c0NpdFpXRng3Nk1XZzNOOFU0cE53dXRteTk2a1pRZXA2dUwwUEVLN0pVVWVQclBscjJTVGpHaDdOcjh6UThvNEF4UE5jbm1TcjEydjRTSVpndlVEQ0tUSTNWU2FlTUFmQQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "[Photo News] From CDMO to AI, Korean biotechs make their case at BIO USA 2026 - koreabiomed.com",
-      "source": "koreabiomed.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IcDdnZGI2ajVxandwS1pJaHlwUF9yMk1LRHEyMVBQa2dmZ1Z1NGRHandOT3FoS09fSDF3VzJhN1hiUnNRX3VldzRJbXZiSG1BQ19JQ1cxQmVZZVBrVXVrcDBoU1BBanp1Y0t5dEdR0gFyQVVfeXFMTmNJdlAxUzYxbTRlTTlxTFFJVFJ1N2NDUDN6NkNnOWIwUkw1MHhpVmVVQndZemRMUW5oQXByN3JYdk5uUmZuZFVOYjRGVFJ1Yzl1dG5mT3BTZHhyV1prOXZlUVJZUUtmYjFyeVNuNWY3aDlR?oc=5",
       "category": "News"
     }
   ]
