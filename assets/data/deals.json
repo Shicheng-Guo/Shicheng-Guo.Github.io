@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-04T08:49:35+00:00",
+  "generated": "2026-07-05T09:21:08+00:00",
   "deals": [
     {
       "date": "2026-07-03",
@@ -295,6 +295,17 @@
       "type": "Licensing",
       "value": "$2.2 billion",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "SERB Pharmaceuticals Completes Acquisition of European and MENA Rights to Idefirix® (imlifidase) from Hansa Biopharma - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWNNd2QwLU1BREtBU2VQMTNvVUExMXBoSG9lYU1TVnRuOEVjY0JIcW1GV0VaLXYxZkhBZURCSmc2X055UFZaclNqQ3puSDJPWUhuTGJWZVZ0N3FjV0h1RHMydFFoQ1FIUkNNa1Nnb05qRzZndWJaWWVkYXkxd2FQSV9sODltWjRGd0JFMDdvUnNPTzhqR3RCRm1JN3BDa3VvVU5vVVcwX2xheFZsT09DUGxB?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -2738,17 +2749,6 @@
       "value": "",
       "area": "",
       "modality": "Gene therapy",
-      "stage": ""
-    },
-    {
-      "date": "2026-05-14",
-      "headline": "Biogen Completes Acquisition of Apellis Pharmaceuticals - Biogen",
-      "source": "Biogen",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ256enZtNjcySFlVRFVBdlVmVlIxLVFUYVZGVVJCMWJyaEVwaG1XSFdrOWxZU3ZDWGtiZmVUNkRtSmtKeTIyaldoQ2xuQ3JzaXdQeUNteGZOM3hZYzI5UUJ0MXVYNDBjVGZrSldQQUFSaF9MUUphR1lyX3daMl9pODJkdGU1NWRLM0NLRDlvelJmOEkzYV92VkY1TE1qWEFXV3dyWW1FeGJObnowT0VfUlRISFR0YXc?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
       "stage": ""
     }
   ]
