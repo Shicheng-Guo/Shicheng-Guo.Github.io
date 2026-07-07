@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T11:16:58+00:00",
+  "generated": "2026-07-07T10:14:57+00:00",
   "trials": [
     {
       "date": "2026-07-06",
@@ -35,7 +35,7 @@
       "moa": ""
     },
     {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "headline": "MBRX stock drops 25% as Moleculin Biotech's interim cancer trial data falls short of significance - MSN",
       "source": "MSN",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMDZpb1FETlE0OGthZDBNZTBVWVdFWktVS3JmdHFmMW5xSTJOSGg0S3l4anB4TWZ6RVVnd3ZLUVR6Q0xEVlVjVThKalE5emNNc1Y5ZTdlWnV2eU85Z1FSUkJ5a0VlcEtJRV9TZUM1X2ViVzE4dFFPODhpdk9OZi1CdlVEMFk2SG83bEV4QXplNk9mOWZ4alM2eWFUNGFBVHV4d2tDZDNfOWd2NVhpejdNaUdFWWVWQ1NKY0FaSjRoLVVyVld4WDA4V0RLUGVFTl94VF9XQzI5Z20tVXI2anlB?oc=5",
@@ -380,6 +380,17 @@
       "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - Menafn",
       "source": "Menafn",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzk1V0E2VWMzaXZFaGpqXzhIb3cyVHAwS2FWdDN6NTV5eHRVY2o4eWhQUXF3bUloOGZGNXdhUFEtWlo4M29fNlNFczZlQWtYQ2VYV2dqbWdfeUpWdFBnUlNmS3NOU25JdHljQXdLLWpXc0pGQ0hubERmZzhsQVhzU3RSdDRpYTlIZjE2N1pGRkJTejYxMkQ1ZXBFeERqQi0xeUtqQnBEYWFWQndUN0ozaEl6VEswWEV4Ync0Rk1weE5kSjA?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-30",
+      "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYTNxc18yeTNKQVRHNnpQWkxCdXhMZjZGQVdCRThWRWdTUEtUQ1dDOGlLVDNEUE5aaUpMNFg4WTNaNzVkdEh1XzBWUzR5QXQtWWczUGNDTG9HMVl5NjlRWmhkQXllY1dqMmZPaGtiVnBsajNNR3MzWDFiWV94YnhRVnd2SzZ6REwwbDczTUdNUzRVUHlxS0Vhb1gwUllCS2tOWTRNeW1felRaX1J5Z0dVUV9WWG5SZUF2ZHlGZVJtY3lXUlRjVUVjTG55b2tUeVByTktDdWN1QXp5dV9QN0VxaEJGNUp3cUkzUjQtbTNR?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
@@ -2737,17 +2748,6 @@
       "outcome": "Readout",
       "phase": "",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-04",
-      "headline": "J&J’s nipocalimab meets primary endpoint in Phase II JASMINE study - Yahoo",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOUtDNG5jVUFWN2lyU21yQ1lFcUFBNHNkMl84WFZyTzlOejBzUXk2X2VjVi1ZQkFnR0tpVm1paExGLWZfWkRJeC1GYXlhVWJJeUZhSDRFTXYyR2d4cG90QWI1UWM5WTM0ZDZpNFo2UWFBb3ZSN0YzdmhsNVh6S2djTjhxM1hnVjI5VFNWQnNULV9pZw?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
       "target": "",
       "moa": ""
     }
