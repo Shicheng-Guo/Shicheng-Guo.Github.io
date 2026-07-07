@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T11:50:23+00:00",
+  "generated": "2026-07-07T10:40:22+00:00",
   "items": [
     {
       "date": "2026-07-05",
@@ -16,18 +16,18 @@
       "category": "News"
     },
     {
+      "date": "2026-07-04",
+      "headline": "UK Biobank health data listed for sale in China, government confirms - AOL.com",
+      "source": "AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVlJTV2djVldTZ3dtbnNJb1NJdVhKMldLSVVaN0lzTGo2UloxelhlQXRoakpxR0w5VUhQNW5kbjdBRm1BUnRZRkk4VzBZMl92SndpcjJGLW85Q0dYWi1SSndHWU9UUkpHMGIybDlYUjYzdV9takhXQkZRY08tUQ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-07-03",
       "headline": "NIH Expands All of Us Dataset to Advance Precision Medicine Across Diverse Population - Pharmacy Times – Pharmacy Practice News and Expert Insights",
       "source": "Pharmacy Times – Pharmacy Practice News and Expert Insights",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0p6dVgwclVvRk9kSnB0Sm9uUHBfSmN0WTRjQ2xGNDVmeXQxSWduY0J2UW1yUzdNR0xYRzBqdWs4QW1sbWljNWJWdVdmVWpzYVpQUERueUE0a3l1bGFjclZqSUc2dXZ2ZkFydUNsLUVUdFk5ako0T3JzNlVVQlRvQm1KU2pDVlRqX21EaVAtUElyTWlqSkRhSVdfdUs5T0Vld3dlcy1oZ3g2UzhlVUN6TlFRLUdSRnJXUkV3Uw?oc=5",
       "category": "Data/Cohort"
-    },
-    {
-      "date": "2026-07-03",
-      "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
-      "source": "The Cyber Express",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
-      "category": "Funding/Deal"
     },
     {
       "date": "2026-07-02",
@@ -167,13 +167,6 @@
       "headline": "KI Biobank, Comparative Medicine and several other core facilities are now a part of RIKI - Karolinska Institutet",
       "source": "Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3BhNUNZTnlsRDZmcnJWcDI2VWtWRGhQb2xnV28tVVNMS1RtZUt0TUNrYzZmUklJaF92UWxSeldSaHIxQ1JxUGl1cE1TdHlINm1wT0ctelFreTNQajFYNXRiM09EWmNVZlFMOEFHdUhZTkQyQU1iU1pxZ1A2VHZBbnAyT3FKY004VHJzS2dzLXd5U01rbVpia25nZm9MRlZuQ0YxYWcxS0JENUU?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "UK Biobank health data listed for sale in China, government confirms - AOL.com",
-      "source": "AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVlJTV2djVldTZ3dtbnNJb1NJdVhKMldLSVVaN0lzTGo2UloxelhlQXRoakpxR0w5VUhQNW5kbjdBRm1BUnRZRkk4VzBZMl92SndpcjJGLW85Q0dYWi1SSndHWU9UUkpHMGIybDlYUjYzdV9takhXQkZRY08tUQ?oc=5",
       "category": "News"
     },
     {
@@ -724,6 +717,13 @@
     },
     {
       "date": "2026-04-24",
+      "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
+      "source": "The Cyber Express",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
+      "category": "Funding/Deal"
+    },
+    {
+      "date": "2026-04-24",
       "headline": "UK Biobank faces questions about data security after latest breach - Science | AAAS",
       "source": "Science | AAAS",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlF6VThQN3hYSm1uR1pkMWIzZzAtUTJLcW5qUFZHdmI2WENzWndhRjR5N2s2dmlqUlVqZVF3QWVZM0IxVkRUOWFERFdxLTBJbzRXUnVBRC1rV1hlbVJkeGFidngtRm9EUDRLVnBfbXJDaDhfcHh2QzExcFlQRnpYb1NRSEpTSXpEZHZKb05sV2VuYjEwN2NlV2hTa3RwVTAxcV9ocDdaOUxfQQ?oc=5",
@@ -1070,6 +1070,13 @@
       "headline": "Serum lipid profiles and risk of depression: a UK Biobank prospective cohort study - Frontiers",
       "source": "Frontiers",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU29YVWRHZmZLSzh2ZFdLRUp3ZEkzeHBlV05DMUt0UE5FUWVFUFBIVEpjb09ocGxQNFpMc2l0bXp1RzZNYUJaRENvMnptR1BvRTJ4UW9UOU5ZOFRqUjl4czFfekFoaEdNdVdxdVB2Nm5RRmtTa1BBM0tyV3h0Um1kVUtNMEhWYXg3cmhIQ29HMA?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-04-21",
+      "headline": "Uncovering core diseases in temporal trajectories of cardiovascular-kidney-metabolic (CKM) syndrome in UK Biobank: network-based study - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LX2M1NVdfYVl0dUNLSVZHYVJscHk4a1YzRHUzb1ZyMndnaXZvY056UU5OZkZ4ZGsxQ3g5Q0NPUGxPRnhhYWlVbVdRN2F0cFpXVFRiVERXak5zUlRiQ0VF?oc=5",
       "category": "Research"
     },
     {
@@ -1640,6 +1647,13 @@
       "category": "Research"
     },
     {
+      "date": "2025-12-29",
+      "headline": "Associations of asthma with cardiometabolic diseases and multimorbidity: A cohort study in the UK Biobank - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1REluQTd0NS1uRjNraUlNMzVWZTEwa0FSS2lCbmR5RFJZLW9MSlZXQzhtbXl6a2FncjRoVVgwd2cxbmdaRE5HLU9DblhtT3dJMDBCTFhIV0gtWGZoZFI0?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2025-12-26",
       "headline": "Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study - Nature",
       "source": "Nature",
@@ -2086,20 +2100,6 @@
       "source": "medRxiv",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56bEd1ZW80WnVQbzRLY19WMGdMaUptVUh0d09TbHI1ZkQ4OThmU202M2p1THp1TFNZZG1wb1lwdXJlSXZ3X3oxVmZPMnhxSldEM0VXYkg3SmJRVTZIdEJvSFJIeEp2NDZsNFI4Um1WQUxBZ3FIQWpSTnRHYw?oc=5",
       "category": "Research"
-    },
-    {
-      "date": "2025-08-06",
-      "headline": "Whole-genome sequencing of 490,640 UK Biobank participants - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xUEhiQnZHTVpPUVpGX3lOZFc5eFZ0VnBvb3VQZlZjM0xONUtGU1FwV2tybVVaQVZUUmJXdkZFOTF2UkJUam92S3c2dkNEMDRKUWxONEpJaHN5Q015Ympn?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2025-08-06",
-      "headline": "Noncoding rare variant associations with blood traits in 166,740 UK Biobank genomes - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kRkRqNkIwWC0zb2tLSVBLNS1ESzQ3cDFSUTk3SzYtOWlUbnc4a0RqWTFaNjJ3bVRIYlJqNGpWblJoZHlYbmlIZWJ1N0ZiZFlvdl9YNGVuWmttTFlwZ3dB?oc=5",
-      "category": "News"
     }
   ]
 }
