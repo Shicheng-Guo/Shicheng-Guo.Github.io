@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T10:14:57+00:00",
+  "generated": "2026-07-08T09:15:20+00:00",
   "trials": [
     {
       "date": "2026-07-06",
@@ -1971,6 +1971,17 @@
       "moa": ""
     },
     {
+      "date": "2026-06-15",
+      "headline": "Context Therapeutics Announces Positive Interim Efficacy and Safety Results from Ongoing Phase 1 Clinical Trial for CTIM-76 - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPalBnUWowcERlc1hFR2xKQ1NJc1RhN1VxMXBLa1plUVVpYzBEejVXZ3FTWmNEMWh4a1VkTHphaVhobE9UdnpnSWVfMV9VM2Q4N1IxaGZwZVVHSGZLTmJyMTdqbTl2cUltQUJWNEFTTW4zY3dCcmgzZWFnSF9xLWFreHMzd05PX3pEUDQxRUNvd3Y1LVdNdHVvTDBsdGVmQW9NSjRmNkp4akFrNGNmV2RKbTFYd0hta2pZYWVzZnVpb2pQYUQ2am5GV29TUzVwWlc0T0pfVER5d2NEaDRhVVY2czZiVTNrOGU0ejZ4a2lFSnlHMjQzdUlLclNwYU12QVE5bFJWSTNfV2x4WGdpdTdfUnJucVFqamozamlTSnptTjc?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 1",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-06-14",
       "headline": "Upstream Bio Reports Positive Phase 2 Results for Verekitug in Chronic Rhinosinusitis with Nasal Polyps, Achieving Clinically Meaningful Improvements in Key Symptoms - Quiver Quantitative",
       "source": "Quiver Quantitative",
@@ -2739,17 +2750,6 @@
       "significance": "Missed primary",
       "target": "PD-1",
       "moa": "Checkpoint inhibitor"
-    },
-    {
-      "date": "2026-06-04",
-      "headline": "Cloudbreak completes primary endpoint for pterygium drug trial By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2Z5bnY2QXZ4VGlNejJjSHRFemJyN1pwb0VKX3VzTGQxeEpJSVBlRHpnSmUtdWxSOEQ4UDctc09YSkNDSkRETTRfTjV3OGEzVnlOREZqaFJIQ3NLLXhCV2VzdnlFRkxDSmUxVGJfY2xZUzZsMThZRmdFcHotT2ZhVS04dDFoYk81OV9mODhHRFJZSFhtbWpMOURYNEVqOEpyWnZOcmtiR3JLUmNuNDYxSlFrR2VhRGxXakJydmoyQko?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
     }
   ]
 }
