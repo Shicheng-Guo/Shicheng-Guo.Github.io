@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T09:55:47+00:00",
+  "generated": "2026-07-10T09:51:20+00:00",
   "deals": [
     {
       "date": "2026-07-09",
@@ -20,6 +20,50 @@
       "type": "M&A",
       "value": "$10 Billion",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "AstraZeneca licenses Sino Biopharma respiratory drug in $200 million upfront deal - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajVzdmo2ZFIzU044dnB4Q0F4SjlMZFQyTDRWY0lnUDVraE9kVUd3V3hDT013RVJvNWkxdHo4Mk1peDU5S0FtX3NJSzk0eGpZaXBmbDM0ckg0MDAzMkZzX1lZU0duUUJDaE0yRHp6N19LWWNaNFJFR0JuRWZMek1adlJzbG1rVlFOUWVsbjc1RjJ0dnpZT1R4ZDRzNHROTHFTNXlwaEVDclFSSW94T2dPeWJrY0ZHWHg5aGNPY1c5Q0E4NVU?oc=5",
+      "type": "Licensing",
+      "value": "$200 million",
+      "area": "Respiratory",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "GSK cuts losses on $700M upfront Alzheimer’s collab with Alector following 2 clinical failures - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnFnX19JN2ZWTFp1akFBOEtiRVBMWWxnbGhIY0NGalUwSDhncjNQTFpub1lXeVFtOS05Nk5NVmtNRFJkZW1wbmZ5V0dROThiaHpEdlV3eEpVSlViVmdpOVN6V1BEV1VrNXgxREI4OVJLNzFHMC1YRXNDVnlEY2dFYVRRbGJlTEROWncwNGtXbHl3SVhKLXM2bEdQMGMtSXVla0xoZ0RMUmoyWjU3bENzYWZRdU1RU0FReF9XRTFEVklyQQ?oc=5",
+      "type": "Deal",
+      "value": "$700M",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "GSK ends brain drug alliance with Alector",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
+      "type": "Partnership",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "Ipsen succeeds in migraine trials; Tarsus buys iRenix for $75M upfront",
+      "source": "",
+      "link": "https://endpoints.news/ipsen-succeeds-in-migraine-trials-tarsus-buys-irenix-for-75m-upfront/",
+      "type": "Deal",
+      "value": "$75M",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -75,6 +119,17 @@
       "type": "Licensing",
       "value": "",
       "area": "Infectious",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-08",
+      "headline": "14 Takeover Target Stocks to Buy as M&A Boom Hits Wall Street - Barron's",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaUpXYkxBSDU4UzNWRDRrTWozbmYxTXBaZml1X1ljT2Fud3c3aDFLRXR5a1EyVm5lUnFuNFAxQm15ckdXMW9BdGZwTDJfaTBOVDRpdDhEbURjdFBDUXRUS1drZGhqaHprOTRjaDcxT2Q5YWVzRjJFeU4tV0IzQ1FRbw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -278,8 +333,8 @@
     },
     {
       "date": "2026-07-06",
-      "headline": "AlzeCure signs out-licensing, collaboration deal worth over $2.2 billion - ET Pharma",
-      "source": "ET Pharma",
+      "headline": "AlzeCure signs out-licensing, collaboration deal worth over $2.2 billion - ETPharma.com",
+      "source": "ETPharma.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNFJTWU5RYkJta296QmZzOWpoNll5c3NGbnFtVUs4TmNOMlN4enFzLVF2eUNFTS12VDZHYTh2LWhiZHkwektnTWFpTG9GdmNiQWFCUE1KMGZpQzFLaUxaZWZUZXl1bklrcDdGVVptcGowcDlZci1ITENmQm9FR0hGQ25qNDZoMW51Y0hicnRiLVFQYTE3bHFzaDRPbmNFT0hNenEyMVRWSHlSNS1ucDRwXzNLUHJrR1JZZUk4Skc0TkxLZmhYRTY5N25EOWVpRnVKUmV0bHJJMHh0b1RXWGfSAeMBQVVfeXFMTlR3aVllM2tGR3VobFA2SlI4bUxyOVdaRFJ5NF94eFVoaExOdnNGRHlBSkNHQldhaW1OU3ZoY3lvVTM2a3NmYlFaOWdCY2prd0g4UlFCaG5KYkFwOXRZZUdEWTFiQ1dvMF9lWnlpOUh1aVlFVkM5VmNMWTY1VzRCc2MtTHhuRDNGVzV1OTZHZEo3NjBNdWxSN19RWGFZNklzNXJtX2QwcUItZDl4T0lsWnBzU1hpVFJoT2htTmlJbHRtTDVkRDBxaGxnRnBnUlZjc1pkZHZGR3I0WFkyd3BTdERoc0k?oc=5",
       "type": "Licensing",
       "value": "$2.2 billion",
@@ -1796,7 +1851,7 @@
     },
     {
       "date": "2026-06-16",
-      "headline": "Merck inks $510M biobucks data partnership with Protillion - Fierce Biotech",
+      "headline": "Merck inks $510M biobucks data generation partnership with Protillion - Fierce Biotech",
       "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlBnYXpuaXBEOXUwWGF0UU5nZnU3b3FTRmxjb01xY2JlQkVYZmU0OW4zb05fZ04zM0x1ZnFBT0FpUUhnMGFyQmR6Rk5seDlkazd1VC1oUjNnUl8wSzY3OWhZMS04UEJCOWVLbFhreWRiekduUjl6c283U2tjTGowclB6WTNvcFlZV2gxQXVSbFhSRVpta2k1R0ZlbVZZbXd0MVdr?oc=5",
       "type": "Deal",
@@ -2521,6 +2576,17 @@
       "stage": ""
     },
     {
+      "date": "2026-06-05",
+      "headline": "Pfizer signs licence agreement with Chai for AI drug discovery - Pharmaceutical Technology",
+      "source": "Pharmaceutical Technology",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHY3QWJFanctR3FmU2FZWXJRZk1EVFFibVFxRkpib1liSnl3VnoxQWM1UDBNWndWTTk4VUo2emh4WkYtVS11SVlKYkxHUDlFUmk4dDNQaGZRX0l5WVlKeGlyVDc5Z09aWmtnS2Z1UW5kLTNKcW55T3hzMFptd2JnMEFmZw?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-06-04",
       "headline": "Assessing Gerresheimer (XTRA:GXI) Valuation After Volatile Share Moves And The Bormioli Pharma Acquisition - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -2682,72 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Ten-year-old Cambridge biotech in market for merger, acquisition - The Business Journals",
-      "source": "The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnNVSDNlbEFoZmpHbWVUVThRV3pPWE82LVdSV2xwMHFBUGF3M2R4ZGxOdEtiejYxaUFBcXBHSXBXenRWN1BKRndNVjNVRWlMVVVJZ3h5cTdxVkZBbjFuR2NRSXZqZDlpcXZxMkRySnJya3RSZ2pRWU1iWFVNbGk3T0ZXa2QyOGhFa0FoXzd4dE9wSjA?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Agios inks global licensing agreement with Oscotec - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaDdQeFVPOGhETThZWkxtODQ0bC1zTzA0NkxOZWxPUHI1Sld5aEZ1NHlqLUNTVUpMSkdrbTg2a3dBV1JaQTBwQjNOQUFjSkp0eTFSQmthYVpRZUJWMjBXcU5pMW54cWxFSzdKMmg4bkkweXRrUHJJRUJ5QnJZT2RpbGM2X3RHalVRYXVFc0NoZ2M1elluRkVYQWRB?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Travere pays Everest $112M upfront to grow rare kidney disease pipeline",
-      "source": "",
-      "link": "https://endpoints.news/travere-pays-everest-112m-upfront-to-grow-rare-kidney-disease-pipeline/",
-      "type": "Deal",
-      "value": "$112M",
-      "area": "Renal",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Five years after its acquisition by senior management, Duchesnay Pharmaceutical Group continues to grow as one of Canada's few full-range pharma businesses - Newswire Canada",
-      "source": "Newswire Canada",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZ00teFBLZXNjTDhzYXpzdEFhS2NoWm1TZ3g0LWRaSEh5U051WndTNzlIckpPZkUzalY1YVBIeVJlWjZPdUdZa0dkVVBqNDhVOEhadVZIQTRFX3Z5UzAtS2JONFRxQUxTWU9pSGh0c09WZm9tdzkxdk5VZFZXZ25lajN6SXA3RTh1bFpCSGlyejhFb0s4R2VtSU44VWR6UXJFS0dSa3o0QXNVOVp2SVZObFNpUTQ1MVA4VnNUczVrc3hsQUhud0w2Q1B1Ylo1WnpuY2tQVFIyU2dOdUJNXzhFcmtsS0NNNE1PRy1NaUF4dVpUYTZ2RW8zeEpreG1NaWgxQTRfYjB6WG84TWVpQ2MzQVl5YnJkWjlqVEptVzBoTENubnJWZmVVTmtDUnhQdFU2?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Five years after its acquisition by senior management, Duchesnay Pharmaceutical Group continues to grow as one of Canada's few full-range pharma businesses - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVy14QXgyOG5WSVpZWkU3REViQk5Zc2IwWnhfZmFkWDZpd00zbi1FdkR4RlJfZmUweElWRkJUYVR0cVpOZjh2cjRkajhQZjF4RXJyTURrM3paT1NWekpESjhGV3owMC13cWh3aFpHR0hXMFZSRjVYcl9sT2dIRllvMnMxQVpoalVlbXNyejJyZnJaWTZaR2UxVEd6QjJ0YzJORHhJZHlRaVV3MXc5MEE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-01",
-      "headline": "Marksans Pharma strengthens European presence with €7.5 million QliniQ acquisition - CNBC TV18",
-      "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcjdzZWpQOHVwQWFLQ19XanB4ZHhDMDgwUjNHX1JHdU15MnFhUWNpYTJhdmVpSWlEVXcxR1R6ZVNERlhqZEpicTc1eWNSc1Ayek9qLVdueUQ2LVBtWVotN2JsTjZ5MmNVc0EtYkUyM29RRFJUTmlUU0JTbGFCaS1IQmNPMVJqTEhadnVQTG5MU1VzZ3BzQ0U3cVp2REFYZllUeVdaVFhYTy15WUU2QzdqcnF4OXBwc1RiZXVmZXpnSGJTRDdpZTBQeVl0ZUc3X3h6TXFNbNIB2gFBVV95cUxNQ1g5RExiUjhmSkZ3QkI4SHFZZTFOd2llVk1ENk5aU0tLVWlUTUxvY1JKU1hUNEJ6QjJZXzlpQ0NNaG5hWlRieXp6d09oLVNwTjhpcGRMSFV4UVB5b3I3MUl1Y3hJN3hOYVlqZW12di1jVnNsZnIxWTljU1doSVd5blZSa2VOdFF5UGQxQ1F5bmdxT1V3dm5mU3dMcGRJUVlIczBKeVJtYkFudE1OWVNQSzR4di1fY0hIZ2wyWTNsS1VkWWc1TkpOWjY0cHB4S3ZwRzBvYlFYNm42QQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
