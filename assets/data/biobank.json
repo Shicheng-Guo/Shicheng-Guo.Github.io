@@ -1,12 +1,26 @@
 {
-  "generated": "2026-07-09T10:40:39+00:00",
+  "generated": "2026-07-10T10:38:35+00:00",
   "items": [
+    {
+      "date": "2026-07-09",
+      "headline": "The choroid plexus, cognitive decline, and incident dementia: insights from the UK Biobank - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CaldwMlduOTBkUFYtR0hUUUdiNVk3alZkdDl5X1o2bUNEVDBKaGRZenlkLTdxWDBSSjYydDc5VTNaQzFhUU1sd05ZbFhESmdwU0dHSlo1YWxJZHhORFpN?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-07-08",
       "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
       "source": "The Cyber Express",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
       "category": "Funding/Deal"
+    },
+    {
+      "date": "2026-07-08",
+      "headline": "[Medical & Bio Briefs] Symposium Held on Operating a Human Biobank for Oral Diseases, and More - 동아사이언스",
+      "source": "동아사이언스",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KNmtWQ0VVQ3ZLYmhOUXA0c19IYlk5VF9aX3JzSHR3QVNzekY1SGhJQlhybWxXeWxCVV93dF9wSkt5R0lpdmszOFhRa2ZaYm8?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-07-07",
@@ -34,13 +48,6 @@
       "headline": "NIH’s All of Us Research Program is now the largest integrated genomics and health database in the world - Florida Hospital News and Healthcare Report",
       "source": "Florida Hospital News and Healthcare Report",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm1lOXNZbnprQ0JLT29KQW41NzVhWW1jUmsyakZFQ1JIVFBDUHB0UE1fX3NzSEF2dFgtM2NTT0d4NUxuMDdFcHhPa1p1SFhUSmZNSnRKSTZ1dTRFQ24tbHVzeHptTXVBODdqQXEtQmZuOEQwZ0hRbUZoNmxKbnBuYzE4TkRRTW9pVU5VM2JPbU9pYTgyM0VsMnBnOVRxelRxZktsWElwQVdiUTVuc010TmxRY3RZcEpGa1ZOTVJhYWJJUTZ4YkVzRWF1RlVvRVRzYkNmUkRUbks?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-07-04",
-      "headline": "UK Biobank health data listed for sale in China, government confirms - AOL.com",
-      "source": "AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVlJTV2djVldTZ3dtbnNJb1NJdVhKMldLSVVaN0lzTGo2UloxelhlQXRoakpxR0w5VUhQNW5kbjdBRm1BUnRZRkk4VzBZMl92SndpcjJGLW85Q0dYWi1SSndHWU9UUkpHMGIybDlYUjYzdV9takhXQkZRY08tUQ?oc=5",
       "category": "News"
     },
     {
@@ -115,8 +122,8 @@
     },
     {
       "date": "2026-06-29",
-      "headline": "Reproductive History Is Encoded in Your Genome: FinnGen Links Partner's DNA to Pregnancy Risk - techtimes.com",
-      "source": "techtimes.com",
+      "headline": "Reproductive History Is Encoded in Your Genome: FinnGen Links Partner's DNA to Pregnancy Risk - Tech Times",
+      "source": "Tech Times",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQkR4Y09heF9wS19NMmlvTTI4NXRqclVIVmxxLU0xM2hobGdYVm0zekVycjFyazhMcVJJVTQ4R2pVQWktNE5MLXQzeWdxMGZEOTQwa0tYQkVKd2xSZU9YaU5yYUVGaXVuM1JWVjBPWUsxU3I2MHoxcnlZSGJKdElIQVdIU3lKRlpKeFUxeFRGZTRMUDJzSXFDOVBhY1F3dDdiUVJNOEdNX2x1VjVFVXZfZUJCMmMyQlJ6LUpENS15cmYzak9LaFBMRWFnd0ZXbGo5SnRn?oc=5",
       "category": "Partnership"
     },
@@ -874,6 +881,13 @@
       "headline": "News - UK Biobank data breach exposes health records of 500,000 volunteers online - teiss",
       "source": "teiss",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWdJdVNQRzRTX3dTNFN4WmNka01zX1htWWU5SUlxQjhFRW1ZNTB1RG9ITHlwS0hWRFVHcWV3OWNmZUllNnBkdUs4NldRaGpzbW5WcEZoSFZ3LU94REt6elZ4dUFWeE1JaFdmWkFsQzRVSFVHQmVETlJIYjE1bnlkbFVaMURqZy1RSkN2ZGJ1dmE1TnJ0ZTNUOWwxSkVSYW5WQW5sSEhaa28xbmVi?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-04-23",
+      "headline": "UK Biobank health data listed for sale in China, government confirms - AOL.com",
+      "source": "AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVlJTV2djVldTZ3dtbnNJb1NJdVhKMldLSVVaN0lzTGo2UloxelhlQXRoakpxR0w5VUhQNW5kbjdBRm1BUnRZRkk4VzBZMl92SndpcjJGLW85Q0dYWi1SSndHWU9UUkpHMGIybDlYUjYzdV9takhXQkZRY08tUQ?oc=5",
       "category": "News"
     },
     {
@@ -2085,20 +2099,6 @@
       "headline": "Small round cell sarcoma tumoroid biobank reveals CIC::DUX4 sarcoma vulnerability to MCL-1 inhibition - Nature",
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pV05VS0x5bGVaWV9oZUtVNVZQZWxZdDgtMHVUWGhHSXhyNkphMmg5RldNRDd4N0ZpYjgwUlZwS0tLTnNEN29oUlJDU2RUV25uaG1sRldUM0dFM2VSQ1E4?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-08-18",
-      "headline": "FastUKB transforms UK Biobank research with seamless data extraction and analysis - News-Medical",
-      "source": "News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXUtUUI2OVRxXy16Ui1fZUg2b1RVTFhhdUpsU2QySFVOM2FyN0pXcERvcUtVeTVrVWItOURid2NDWUhBcV9tRDJNOVdzXzdVSnYxUEpYUGlqdzRabU1vaXBMZ2RzcUZZdFhmZWIwanhwYWVmRmFVZUtTRFBPZXZzeTZtZWVUcGtkbW9CcUdfcEwyV05scE43bnFRU2RVenkyY0hPN21QN0VNeHEtRWdwOEFoaHpwMTBrb01FX0xBVGY2cjloaGJ3Zg?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-08-14",
-      "headline": "Biobank-scale genetic characterization of Alzheimer’s disease and related dementias across diverse ancestries - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16SmQ2dE42UFZ2ZkNLU3ZJSkNqbkZqT1pVXy13bDFDSnJFbXBseFZwT2hSc3RhTExlZm5DZ0dZd0lsOE1EUzFFbEhBY1I1RzBGZTFfR094UnlablBVSlM4?oc=5",
       "category": "News"
     }
   ]
