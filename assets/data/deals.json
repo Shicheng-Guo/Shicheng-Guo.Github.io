@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T09:51:20+00:00",
+  "generated": "2026-07-11T08:13:23+00:00",
   "deals": [
     {
       "date": "2026-07-09",
@@ -217,6 +217,17 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMWRvQndmT1ZwNTZaYVNvaHlBc1lzNFNXcnM4UUpCeS01UWRvZHBxd2xWb3FkNGUxaXdlTzBjcFpyZFNDVUtoLVJhdERSeWFaV2ExeTRUTkRISlpEc0hoLUFfVWx6RFRuQ3lCV2VkT1A4eFlWSDc1Qy1oZzR5UnA2c0t2NGduSlVaR3FqMDJHVHlVdGdwQ3BMYkdJNTRtVWFHR0VGYXBvUUwxZTBmd25nZTFJSkJjdnRpaHJyZVE1eVFUSFlNdVhhNm5tSVh0OEZKVXhHalhIX3VlSkZPSUdoV0ZTTUpoSkNFd21YWVFWSTdHUjg3a2c?oc=5",
       "type": "Licensing",
       "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-07",
+      "headline": "Vertex to buy Crinetics for $10 billion in rare-diseases push - ETPharma.com",
+      "source": "ETPharma.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUnVNOVRWeHZJSEE1eVMtQTNoTmNCMGJXR093aTJkMVRyVE5XdGtwMk1RVXlqS2FiZmgtVjdfcHRSYVlsb3p5LXg4eXV4VUhnbnlreDBaUW53dG9yTjhlbjZBX191YVdLOTVqS2QtREY5THk5WndvTmtfeTVRSWVOS2g3RHpyQVNFcXRRQmNJR3ZXZk9mS01kVDBFc1lvWFFqQThUcWh5UlN1Mnh3OE1TaTV6ZUxHbVNYR2ZPSzE2TkJUTnlwNV9kbTlIUmx4aVdQNjhGYmVRcy1oT1RO0gHiAUFVX3lxTE9zMXBSNktyMy0zTnhzS1RzaDR1YTZUaXI2elQ2OThZblpWa0ZfWkxZbzVPcHRYYzNOOGlLQlpfU2xYZ2Y3REF6ODNwUjhGNW1EM3Z0RDRNaDEwYW1rTmdGb19FRUpqVmRjTS1CODhRcFFJVWE2OU9tNF9lX3FqMUw3TVc3dHoxdzNnQXllSFFMM0V0UUplV3gta3d0S0t3bVllNXNCM1pSbjlHbWI4SnF6aVRXTUVVWGNIUkQ5RlRnT292TEV6RUd4TkJidEh5MHJSTjhXVU12cldGOHBtbTRHbHc?oc=5",
+      "type": "M&A",
+      "value": "$10 billion",
       "area": "",
       "modality": "",
       "stage": ""
@@ -945,6 +956,17 @@
       "value": "$929M",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-29",
+      "headline": "Talawar Therapeutics and JATT II Acquisition Corp. Announce Definitive Business Combination Agreement to Create Publicly Listed Biotechnology Company Developing Potentially Best-in-Class Bispecifics for I&I Diseases - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPNWlRQk5Bc19EQ0xFc0hadGl4dHlZNjgwRzVxSVNXZkt2UjNibm0zQVF0UGVKQnpWOVdGemNpM2JMdUIyelNGQ1dDWnZxeHY0cXdiSllQcWEydnBNeTBuaUJOZVhYX2FHY3piWVlVMmkzMDVqLVlxbFZETVR1LWp4ZFJxR0RvQU54aktVVjJ3QWlPWHgwWkpyV1UwUTVjclIybUhLcW1TSTJzVUtVb2p0R3JtdG9WOWxSa2sydndEdnMzYUlldC1wWlYxanE3cDNFVktIODNHbDM0cW02cndfc1RSOFd0UXg4YkpnMy11LW1QU0UxelBZS1BUbXNGdnRCVC0yUUQybzJYdEFnS1JDZFlXQkFNWHFlX3d4VmpjSW43TWhRdGJYalp6RVFTQjJfWXF2YmdNVThUQnM5N2ZPVmswV3daVDdvanFNWGc2QmR4U192U0lEZFlFV1FQODBRYnFucmxyWG1sWFVwY3Vz?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "Bispecific",
       "stage": ""
     },
     {
@@ -1707,6 +1729,17 @@
       "stage": ""
     },
     {
+      "date": "2026-06-18",
+      "headline": "Jazz Pharmaceuticals inks $4bn cancer collab with Peter Thiel’s biotech project AbCellera - European Biotechnology Magazine",
+      "source": "European Biotechnology Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOXNwQ0twQk9TTmFaTzk2NUtTX3UwWnYzRUlqSzhBbDhIS3hLUThOMzhQeEx6clhrLVBkRF9nQTdBSTBXRGFjZmJhdmdnZGZpUFFzOTdaZjVsU29VWWNoLV9yQ0o3SDlhQ0xZSTRpeGFzTC1FQnFwSzhYR2VGVmQyTGV1UWlSN0YwOTJTZ0xsaE5tdkVSVWJPMGVISkpnRmk2QUNremlBS09kU1c2djY5eXNkR3JKb2JYdUNIRUdzTEk5OF9lUVJZM204cmkzSU9L?oc=5",
+      "type": "Deal",
+      "value": "$4bn",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-06-17",
       "headline": "Bayer Completes Acquisition of Perfuse Therapeutics - Carroll County Mirror-Democrat",
       "source": "Carroll County Mirror-Democrat",
@@ -2444,6 +2477,17 @@
       "stage": ""
     },
     {
+      "date": "2026-06-09",
+      "headline": "GSK inks $10.6B Nuvalent buyout to challenge Roche and Pfizer in lung cancer - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObU5PcldrUFhjMzJFVHZ2WTdaMlo1aVU3QVY0WW9mWm1qZTlCbXJxOHE3c01jeUxyWHhvU3FlX2FBLXZ1dlBYc0EteXd3a1dNNURZTlJLcW1GRkIwNjhYN3FaZnBCLWVqM1NWN25PT01LZXZ2Vm5vMjc1VGVJcElvQi1VREJGVE9mM05PNWtOcFd5cEQ5Q0dBZ21mOFVzbW1CZWpGRTdMOU9YZw?oc=5",
+      "type": "M&A",
+      "value": "$10.6B",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-06-08",
       "headline": "BRIEF—Incyte eyeing acquisition of Star Therapeutics - The Pharma Letter",
       "source": "The Pharma Letter",
@@ -2704,50 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Boryung Finalizes Taxotere Acquisition Agreement... Official Launch of Global Sales - 아시아경제",
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sRl9UZDA0YnpibmpvTXVHdXhpTUZ2MlFHVFlZRkotQVl3cEw5R1p6am1tbklPbkItWjJxNHhSTE82N1ZBYk14cUQ2bG5MdVVvSGRNWkVzMmlJZkhkUmdRd0gwVkpxY1hONDFnVmN5Tl9YZUE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Hanmi signs licensing deal with Lilly for sonefpeglutide - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeUVaaWtiWVdpZVVTNVo0dzNsVU9zSG93ZURIV3E2OF9hZFg3VEt5TjJQRXBQSWxRbUotNUppc2h5THQ4V0FQbHJyMkxoeDlHQVl3dDFFc0ZGMkdudE4ySm9wNGRLX1dxN0lydWI2dTctMGpOU05HOXA4TmVIelNCSXlCVnBiMjk4TFFVYnNjTGp4eHJORTNlRVBvQktPS0Rfb2c?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Five years after its acquisition by senior management, Duchesnay Pharmaceutical Group continues to grow as one of Canada's few full-range pharma businesses - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNOU9GVzZJVFBRODlTVjFoVlpmNlBESzhyX3hzcF8xNUtUUzh1cXQ5cTVPSzMxRzhhR2tuUnhYMmMxTjNjbXpleUdlNU8zbzNOMXB0X3otWUxaWll0bUNvNlRYcU1FVElWdzhoSG5NTGtiWTM0LXZIeXBxLUNIX3c2Y2UxZFpueVNraDZhME5BMVFYd1MtMTZPRExYWkNLS0hFaVFGTGh1eUJPVDVYc1BkTjNvelpzQi1wYk1QVWEyZDdxZ2swd0JFTGdWRmhpSHAxcmFHZXREMGxKcjZvU3FhNnNPeDNISEJFbHRYbmpRTmZCUXNKaHdmQ1Nabnlabm43QkpjLUdRdFByWGJuaUxsZ1VLYXY2MC1zV0Q5RmRWdVJzaXJMNVJXQzlQRjRnVzZSVzBZ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Belgium: UCB completes acquisition of Neurona Therapeutics - Investors in Healthcare",
-      "source": "Investors in Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzZ0RUpTYmpITm56Tm9hNl9rYTA0alE3QjVoMk1IOEY3aVNoWTEwZ1NCUi1oSmZxSFVsVVlrTDZDOEZ0LXByZXYtMFFKc0ExMHBQYVlNSXlDREUtRFFoczRpWVJvbWxsOTFpcGl0MExJMnl4NGEtOWQxT0VpRG84bGlrdTZvOWJvNEhyWUtRdHhiQjFQbzU4elVyaE1tdVlPRVMycDZubUdoMW42M0lOTXZkZ0h5WXBVdHQw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
