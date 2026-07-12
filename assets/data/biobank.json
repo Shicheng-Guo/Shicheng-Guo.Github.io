@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-11T09:10:33+00:00",
+  "generated": "2026-07-12T09:29:39+00:00",
   "items": [
+    {
+      "date": "2026-07-11",
+      "headline": "Anthropometric traits, metabolic biomarkers, and pancreatic cancer risk: a causal mediation analysis in UK Biobank - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uRUlEcFZsckdNbnl1ZEM3NHhFdEF5NEotS0JuRTFMQ3cxbmE3RWNvcGZNZFNQd3Vva1J6TXh3UVN4TFhjb3ZreXNONzZLWExQUGtvRGM0TndLUmRiRGNB?oc=5",
+      "category": "Research"
+    },
     {
       "date": "2026-07-10",
       "headline": "UK Biobank health data listed for sale in China, government confirms - AOL.com",
@@ -28,13 +35,6 @@
       "source": "Sierra Sun Times",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOFZEUnFYTUJsOG5sZkpyQ3I1U21idkwxdHpEanVZcmMxd0s5WElKNTVlaG5ELUV2cHNjSnBfLVRLcEY0Nmw4QlFHVldnYU5KWXhzRTFSekdpTDlWMWRSc2xwYS02M1pNU2dzS3U5M053dXREUWh2YjFZMTVSTmNyOEhnYVNvcUlVdEEyUmdDbFFxeEV3NV9sYUNFUExFZ1JRWEV3Z1dpakNCRHVWVy13MVNnT1hIcUdBQlJGQm8tdHczQWJjRkoxc0VaSkhSNFhGazVUbUJHa3VsNnE3b0hxdjJvNmVuS2YzMXM3TEdhQlh1eW4yMG1GSmRkZEVobHUzd185X05R?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-07-08",
-      "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
-      "source": "The Cyber Express",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
-      "category": "Funding/Deal"
     },
     {
       "date": "2026-07-08",
@@ -395,8 +395,8 @@
     },
     {
       "date": "2026-06-04",
-      "headline": "CU Anschutz Biobank Partners with Tech Company to Advance Gut Research and Patient Care - CU Anschutz newsroom",
-      "source": "CU Anschutz newsroom",
+      "headline": "CU Anschutz Biobank Partners with Tech Company to Advance Gut Research and Patient Care - University of Colorado Anschutz",
+      "source": "University of Colorado Anschutz",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbDhUVVVwNnd6TUMtTEZ0cmpNOFc2dGNaRDNvd2tlbUNqYnJTdHQwUGFrenFkTkc3SlhhZWpkbVE3YzFiRlhiWi1vakFrY2R2aTdoTGVoSGoxYWdHSmM1YXMtU0RNMjNaWGtkSVFCTjMzV1V2SWVkU1lvUU5ac2p2d3Vua2d1OHBFTW8xZURSejPSAaABQVVfeXFMT3Y1Y3VjWC1PVFp2Z2RTTlJhUmtGQUVjUDVsMk94M3ZMaHRuWnF5anp4ak43LTY2MjhjOGRrS01MdWZieHJQanBpdmlXUHRHREFGMlIyWUk0LXBJX0dJSDM4QzEwdDhxYkFUdlpfR1lXVHRxYURDYXFsX1M5Nk1Camk1RzhQOFRGQW1xdnBkVENQTmpyOU8xNDRlS0tYRkk1VA?oc=5",
       "category": "Partnership"
     },
@@ -647,8 +647,8 @@
     },
     {
       "date": "2026-04-29",
-      "headline": "UK Biobank Health Data Listed for Sale on Alibaba - Bank Info Security",
-      "source": "Bank Info Security",
+      "headline": "UK Biobank Health Data Listed for Sale on Alibaba - BankInfoSecurity",
+      "source": "BankInfoSecurity",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbG1GSlVDbk1zczhkbW1iYkRrLTVNSC05YTduSDJ2amZlQnF5MVBSRlNzcTVNUnR2M1ZCNDYyNzlIaXVQVFJBUWw5U2hBLTFHWjFsRllwdmU0dDBWelFLaHIydVJ1QVRZc2YxTWMtTkNkRS1MdThqZmVvTjliUlZsTGRJRmt3ZjhNZDBhOXo3NHQxd3Ji?oc=5",
       "category": "News"
     },
@@ -758,6 +758,13 @@
       "category": "News"
     },
     {
+      "date": "2026-04-26",
+      "headline": "UK Biobank breach is part of a growing threat to medical research - The Observer",
+      "source": "The Observer",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVR6b1Z0b0toVnZXOERvZDRwdFQ1b1ZKb3p5bnNpc0hPck4zbTVVTEVoZE9Ia0NTODZTVHd5V25BQzV3X1I4ZmRuNENvU0FaeWZ6QzZ2Z1plZlozaXlkMlc0UlBBcWRzYktrYXl5NjdkMUEtT2F2YnFNd3JidHY3NmtHSHBYQUVDQzc1bEQwREdMZWVoQ1h5X0xnVVVkejRCUS1HcG5qNmJzelR1ckpZ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-04-25",
       "headline": "Weekend reads: What paper mills charge for author slots; UK Biobank data breached; what researchers think of the future of science - Retraction Watch",
       "source": "Retraction Watch",
@@ -772,11 +779,11 @@
       "category": "News"
     },
     {
-      "date": "2026-04-25",
-      "headline": "UK Biobank breach is part of a growing threat to medical research - The Observer",
-      "source": "The Observer",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVR6b1Z0b0toVnZXOERvZDRwdFQ1b1ZKb3p5bnNpc0hPck4zbTVVTEVoZE9Ia0NTODZTVHd5V25BQzV3X1I4ZmRuNENvU0FaeWZ6QzZ2Z1plZlozaXlkMlc0UlBBcWRzYktrYXl5NjdkMUEtT2F2YnFNd3JidHY3NmtHSHBYQUVDQzc1bEQwREdMZWVoQ1h5X0xnVVVkejRCUS1HcG5qNmJzelR1ckpZ?oc=5",
-      "category": "News"
+      "date": "2026-04-24",
+      "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
+      "source": "The Cyber Express",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
+      "category": "Funding/Deal"
     },
     {
       "date": "2026-04-24",
@@ -1353,6 +1360,13 @@
       "category": "Technology"
     },
     {
+      "date": "2026-03-18",
+      "headline": "UK Biobank Data Exposure Raises Concerns Over Research Security and Patient Privacy - distilledpost.com",
+      "source": "distilledpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREIxTDNaQVQwM2prV3pXeTZRUV8tNVRfR0ZScXpnQlkxLTJWOVZudmlFRUdxTG04U1d0YU9FVmZMTXgwTFZiS09rT0ZHOE1vaUFvbE9UUW5XeFRXMGhyY250M3pxNXREWHJhY2JqcVpERkZrR3hNR29hTjNWS19qLW91Yy1LUFJfa3BXWlI2R205ZkF4UUhrNjV0bkVCRlZjMzctS2RyU0VwVUQ1V2RnTnhiRVRCUnZzeVE?oc=5",
+      "category": "Funding/Deal"
+    },
+    {
       "date": "2026-03-17",
       "headline": "De-identified UK Biobank health data accidentally published online - Home | Digital Health",
       "source": "Home | Digital Health",
@@ -1711,7 +1725,7 @@
     },
     {
       "date": "2025-12-26",
-      "headline": "Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study - Nature",
+      "headline": "Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study | npj Aging - Nature",
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXZklfQ0trSTJkR3dqM0lBS215b2RaMC1hRWNUQ3QzWXdpSW5rLUZTQ3M2NWF5Q1REVHRVdW1iUWtCQmczZHBTamdEbWUwbUxrdWU3OFpja21ZNXctMnhZ?oc=5",
       "category": "Research"
@@ -1794,6 +1808,13 @@
       "category": "News"
     },
     {
+      "date": "2025-12-06",
+      "headline": "Exploring the genetic architecture of multiple long-term conditions using a genome-wide association study in the UK Biobank population | Scientific Reports - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwcnNaenNPQ2xycFNiajA3NjNZQjlDV2lFdGRJbFdoVmViSW1fc2tsaW1nSjFjU0FVMVJLR0swQmVxYTJBOW1JTDF6cEFZbTYtR0Jxc3dhVmNxdUozcERV?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2025-12-02",
       "headline": "Long-term impact of newly-proposed clinical obesity on autoimmune disease incidence: insights from the UK Biobank - Nature",
       "source": "Nature",
@@ -1869,6 +1890,13 @@
       "source": "PIB",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGeG9pMXl3OHdDNFJwODg5QThpV2htSVl0VWNIVE0weTgwelpZSmoybmJCanFyeTNEZFItODlrS01NcXFRY29sTEI0MHAwRDd4ZHE1ZFRvcTF6enJwRkJQTHBsZGNEUDMt?oc=5",
       "category": "Data/Cohort"
+    },
+    {
+      "date": "2025-11-13",
+      "headline": "Pan-cancer prevalence, risk, and clinical and demographic characteristics of Lynch Syndrome-associated variants in BioBank Japan - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSNElBM1NSS2xzWllDeEkzcEM3eV9ZcGlNRzFGOTloRzlEajhHQWNLMy1rRkdaTS1BNXUyVEhYMzlYaTlqSGE4cEJUSkY4SzhCSV9NVXJWRFVJcnIzNHlj?oc=5",
+      "category": "News"
     },
     {
       "date": "2025-11-11",
@@ -2071,34 +2099,6 @@
       "headline": "Realizing the full potential of Our Future Health through data linkage and trans-biobank efforts - Nature",
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2cmFHQ01DQWdmT1RyQ1FKS0ZIOFVZb3VXUk03aExDYmphOVJzLVNKaXZJM3NDc2lnSlVOQ2pFWVpTNnpxNmUyWUhMLXQ0Qm92eUZwY2FMTkdMaHI5Wldn?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-09-11",
-      "headline": "Estimated Glucose Disposal Rate and Risk of Stroke and Dementia in Nondiabetics: A UK Biobank Prospective Cohort Study - American Heart Association Journals",
-      "source": "American Heart Association Journals",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWVpsWWkzVWoyVVlEbGEtUXZnRDJQSUs1Z2VZTGtTYWpxcm5zMVg5QnRBQTdTZnJPTVRGZ2NFTXkyeGhmMVV2aWNOYUx4VlhsazdOTmw4UUNFdm9vcmF4aGxJYUxDSy03TGc?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-09-08",
-      "headline": "Biobank at the Colorado Center for Personalized Medicine uncovers 1 million genetic insights to improve patient care - UCHealth",
-      "source": "UCHealth",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb3pmZUJTal9LNDR6RjJvOUY5Nnh2TkRZaXFELW9kXzdPdUctV0dGbGJtSUlIRVlKMVBjcDJhZWgzUS1ya1lOSUh5Sk5FZWdDRV8tN05Gai13YzZYZ1hHTGc0MWp0RnUzZmxVU2Y5QzJOM0toZlhpOVR2bEdFNjlDbmhQaTZwazl1UkJSRG9XOWhJLXE0QXZoRzVfX051Y1VLZEVuMGlqZnJVeUhSUEhqZXZidW5ybFFJeXFjdVhZYjMyRVo1dmJJYUFBbTZ3R2RjVVp1MjBfMUJheGdxc1RQaWw4VWtPUQ?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2025-09-03",
-      "headline": "UK Biobank: changing the game for health researchers - Research Professional News",
-      "source": "Research Professional News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQmhkTHRMTUlkclNFMmExWVVjU1JNSmJhOWNaQVNJOWZaNkI1REZWd2lZTVJMdkFFQ0d6TElETkNkdFRBUUVGUDM5blQzbko1dEZZdDZ3bjNLS1hPZ2lqR2FCUEpTSWFsNS16dVpBVXY4MTlUZnppWWlQNlZhWUotMXpmbTI1TnhHejBsZkp2elFDUTl3eDhGMXlVY1FWYXVhS0xQWGhIUGQyZnFPZk54eXNTZkU?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-09-02",
-      "headline": "Plasma Proteomics Linking Primary and Secondary diseases: Insights into Molecular Mediation from UK Biobank Data - medRxiv",
-      "source": "medRxiv",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iYzEzZWRmYktOaHUtRkxheHN6VzZnMWFrWmlrUjdnZk1fSUhpLUVnNkFxNDV1WlZrWW44Nzl6Wk5wVTNleXBwSXRPdjlSVV9KRmk2bFZJNGx6c21Mb1JQeF9maEhtUlhnZTFqcWFyOExTUno2XzVseGYxcw?oc=5",
       "category": "News"
     }
   ]
