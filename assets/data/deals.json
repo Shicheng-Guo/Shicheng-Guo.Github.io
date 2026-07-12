@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T08:13:23+00:00",
+  "generated": "2026-07-12T08:30:06+00:00",
   "deals": [
     {
       "date": "2026-07-09",
@@ -64,6 +64,28 @@
       "type": "Deal",
       "value": "$75M",
       "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "AstraZeneca Signs USD 2.1 Billion COPD Drug Licensing Deal with Sino Biopharm Unit - Medical Dialogues",
+      "source": "Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFZBcWQ1NzVkajJJR1lvYU1NVUZvZW5wZzVhRkdWNTNKVDc2WFRuRnlNZlh4X1ZYLW0yanhjY2hmekc3VHVtTzlhbWhqeDBIUmh3WjFIUDRYamZCUTY5aHB1QUtiZFlFYjYzdnRkRUtVaGg3dEt2RGhhZWtYcTJOMERhQldCNElZSVNkdXEyZkxuT05XYktMYmtRcGxpcnZHblFmQndnNFhhZHlVYS1qYmdyWHVzSjNHc3pJZVNHMG14emVFSUowTFR4X3VVY3NHbnFv0gHYAUFVX3lxTE5CZW55d3ZpN3NkcGVNdDh6ZUdpYkRlRXZKX015cFFBOE9EYzBqUkhERW9pMlFSVVYxQ2NSNldUV05MbEpsY1ZITWk3c3RZMXVYN1R2bjdHbW41VkRkZHZyTjVwWVRMbTdSbW5jNXVXdFJBUjBPZ2VqeURWNGt1VG1LT01YeEE1QjZ6WU11c2lCWnY2QktZcHF3bTl3ZXVfOU03M19qa3hzTVNNRXNvVGhwamVpQmczaEpXbnRTVUhFLWppRTJEanFDTFBKOXNmMXJzOGRGY18wWA?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Respiratory",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "AstraZeneca licenses Sino Biopharma respiratory drug in $200 million upfront deal - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2NHVFBsV2EzbnBWX3ZYMFFvNkFCLUprN3AxYW9iY1ZaSXdRbnRmNnJ5WXZJUHNaTzRPSllOeG4wdU03Mk9JMFNKaTJiVW5tTzlCa1FwY3k3czYtNlcxVndzdC1mdlJ6ZmZhSVlscWYwbHVtLU5SMEZoRThXZ2czdml6blQ4dUhhcURQV2hFY2V1V3NXcFc1WDA0cHJORTI4RVF1X0YzcmR5TVBtamZrMl91TGd1ZmxueTc4LUFGZ2Q5QQ?oc=5",
+      "type": "Licensing",
+      "value": "$200 million",
+      "area": "Respiratory",
       "modality": "",
       "stage": ""
     },
@@ -1862,8 +1884,8 @@
     },
     {
       "date": "2026-06-16",
-      "headline": "A Framingham biotech just became a $1.9B Italian acquisition. Here’s the drug behind it - MassLive",
-      "source": "MassLive",
+      "headline": "A Framingham biotech just became a $1.9B Italian acquisition. Here’s the drug behind it - MassLive.com",
+      "source": "MassLive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkxQb2E5RzRHVEEtMVA4NnU5SVJLbVVGeDFCdENVMkczbURFczJSTlJKVDNqdlNab2tNbjVoaHJaQ1JBZURmVFg1OVRsbVkyd0NVZ1JYVE01cUpEVGgzb1N2TmNqNUpoNEtVQjNselpZUkF5UF92TGhLeWRyaWdxM2JRUk1kazNreVZKOVNWaEhwbkx1bk5MQW41ZWpvcllaY1BRQlkwSzhVM2J2S0V1MWpCQ2xrcV9wX1lUZDBzSThjV0RM0gHYAUFVX3lxTFAyMU5GSFJTa0xHc2lHaFJiWldGa1BBNUZBNWNGd2g3ZXhnVjNvZ1BWVDJlb0c3X2hQQmVISzlScXdXX3lXVk5KTERTbTRMc2VGb2lVNU1VNFZqYU9ucXg3RHMwbERJX1pJNk9XMHVPUXhZVWhwRldBemx3MWVSZTJNN09RaWRHNnBodEotamxTeExuVzlkQl9MVXB3TU5Fb295WFJkOGlGekRIQkhhS2NTVmNHSy01dUNyR19zTDZJX2g5bVlxZDI4NC03OHhvVG41OTA2UENLTA?oc=5",
       "type": "M&A",
       "value": "$1.9B",
@@ -2725,28 +2747,6 @@
       "link": "https://endpoints.news/alnylam-to-pay-30m-upfront-to-ai-startup-inceptive-in-rna-rd-deal/",
       "type": "Deal",
       "value": "$30M",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Boryung Completes Acquisition of Sanofi's Cancer Drug Taxotere, Begins Global Sales - Seoul Economic Daily",
-      "source": "Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORHR1RWoyN0h6Z0dYVm00SVF2U2FTLTMzbjlFZ0ZJQVg2dW9yTm5zN0s2Q25PdVFvQzNPWHVUSE4xeTR4eW1sWkM0SXhsUmlra2tHODlYbFp1RWZSV0JuclRKWTlsWVJFOXlDc3c2cDMxY0lsWmFQblR6bGx3aEpHR0lleThBTXZEQTl2ek9Rd1RQNHBRaVItWVhZWQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "Marksans Pharma Expands European Reach with Acquisition of Netherlands-Based QliniQ B.V. - Digital Health News",
-      "source": "Digital Health News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUxDRm1taEV0MnJ1cnVmYjRwSUpzM2NWWmtOQXA3QmthMlhHS1c5bUhYTzBURVdoRkhuMUFQZFN3c184R0toaGRrcjAwZEdmU0hPOWsyd0cydGlLRW1kZWo1VnVpT09ncU1pU012dWdPdlZfcER1M1EwYzREUnpmRDlzOGdLZXJCbmRXSktidE95bjFoaDItU1RwZWFOYUEzUXdyX3hmQklXdlRrcDltZExkNlI3aWlmS1lQdWxMZw?oc=5",
-      "type": "M&A",
-      "value": "",
       "area": "",
       "modality": "",
       "stage": ""
