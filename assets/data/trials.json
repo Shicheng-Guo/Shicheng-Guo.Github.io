@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-11T08:29:45+00:00",
+  "generated": "2026-07-12T08:55:05+00:00",
   "trials": [
     {
       "date": "2026-07-10",
@@ -365,6 +365,39 @@
       "moa": ""
     },
     {
+      "date": "2026-07-09",
+      "headline": "FDA clears Phase II trial for rare skin disorder drug - MSN",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOGVGZVVSYml6REZuNlB1Y2xWdjdvZzlQRHRhUEk3ZmJud3U0aXI1WWdRRGtTcEY5Ni1Bc3RraWJmVWNJdnE2dElkUzJOMjREV2oyY05vLWpLWDlIcEdVMTNOZnM2V1h5M1I3dGFDd1VoVmJGQmI4TWpjcTFfdm5WNXVMWlNMUHZlUDR4QUVYSFZDbnk1UUx3UW93YU1TQ2hvN0JWVmpTV0xsNWktdEx5ZWxVR2xRVl9LdUhXbDAtSE0tQzRjSElULURXcGxCRGRjSE8xNEJmUTFLSFNqYjJNUkFNTXE5d1UzNU9R?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "Due to a drug developed in collaboration with AstraZeneca failing to achieve its primary endpoint in a late-stage clinical trial for heart disease, shares of Ionis Pharmaceuticals, Inc. plummeted 13.8% in pre-market trading. - Bitget",
+      "source": "Bitget",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IWG10OGpTN1BjcnpicGR2SVVxcEwwLW9IRmNORFNlM29JTGxqTWpYd0lpRlpxRUFoNUV2WjV4c1hsY3h0X2QxOFVNNC1aYUNVNk11TkxwMU5QRUgxeXfSAWNBVV95cUxQNG5jVWk0cmI5MFpVQko5bFliT1pVVDBlazE2S1J6dUo3bGIwYnBzQURIaVBxZC1aa0U2X1lDb2F0MmdBVW5GUGNlUUxXaUFFb1J3bWtiaUtGZkttd3NwVjc5MHc?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "Wainua heart trial misses primary endpoint for AstraZeneca (NYSE: AZN) - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2c3Y2dBSEliajNfMzJmbkRMbU5JZm5rMmJMaTV3cXlaMFNJekJKei0wVWtiaVJaQTIyRjRjSHlkWUlFMlYzb3kyY3hUUDB1NVVDSFg5YU5uS1FOcnN0bmNYa3FMNGhHLVZja1kwNkVGUlNtdFR3UFJSUzhtd2tPTU9IQjJtU2NBRXVvZXdkNkYzc3NoZ1F2WlJmT3ZvQjZJZDBWWXNTelg3RHJwcjBz?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-07-08",
       "headline": "Keenova's XIAFLEX met Phase 3 goals in foot disorder trial - Stock Titan",
       "source": "Stock Titan",
@@ -415,6 +448,17 @@
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNMmpfWS1wREFfamN3VDFNTnRSaTFhZEpaTmlteUI1MnpDaElMdmRIbWlRZFVILWNIbWdIeDRWVjRySHl5Z0E1a3RmQk54QWJxV1NpU2x0YW16U1F4cHFBX1BkV3UteldyLXZjam9LMHdKZVk1MFNHVXJSM1FHS29Za25BaE05YWM5Qnl4TkthNjFsUm8xODFDYUJwSmlVa2FJZkpNbERGc3YwcFREYjNSQVhZdzRsTlBJQU1xVHJwSXhqaS00M1NuVWVYZkxnemZqLXR0V0l2ZUphcGJYRlFoRHI4ZXAyT0ZJSUlUU0I1X3NMVWFYeXkwbEQyeHpMRjBob2l4VVNneTVhWS1ZZkVSVjd1VkJBY1doeFg4TkhfWXJzR3JV?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-08",
+      "headline": "Chemomab, Scipher tie merger to AI-guided rheumatoid arthritis trial - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFRoR3o1UzVNVjQzakkxOTNrSzRzWGIyandNMFhMV0VZelV3TURTbEllTjAtZkcwSW9ZMXd1ZDhIZms3N25XbDVfVGtaeVhJbExINmxFczNpTWhZdjkxdThGc3JIS2o2SzdsbHBjbDVOOTZtdWpLV0w0VEVXaWlDdnJLYmRScWNWUXFuOWhDckxtbzFVM04tMFM1eF8zbVJaV2RwT09lQUw2TklTVHJGUkk2ZDZyQQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
       "significance": "",
       "target": "",
       "moa": ""
@@ -1707,6 +1751,17 @@
       "moa": ""
     },
     {
+      "date": "2026-06-22",
+      "headline": "Definium LSD therapy helped patients with major depression in late-stage trial - STAT",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcks2bmRsNlVMTFJzR1h5YkxQSV9SYzEtbHd3bXpManFkQTlnSmh0TUh6elQ0T2ZjdmFIUk1iLWNJRjk2Um8xME4wMkc2YjBlZVFYWkdZTHNWckg4SEM2QU41QnN6b1V4VGVDNDNhSDBPQUtiVXR3U1ZrNC1Fd1UtOFhuSW1sN0Z2cVhxdU1B?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-06-21",
       "headline": "Definium Therapeutics to Discuss Topline Results from Phase 3 Emerge Study in Major Depressive Disorder on June 22, 2026 - Business Wire",
       "source": "Business Wire",
@@ -1821,17 +1876,6 @@
       "headline": "F2G and Shionogi Announce Positive Topline Results From Global Phase 3 OASIS Study Evaluating Oral Olorofim Versus AmBisome® Followed by Standard of Care in Patients With Invasive Aspergillosis - GlobeNewswire",
       "source": "GlobeNewswire",
       "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQeVQyYVY2b3I2dlExRlNuakRKbjhaWEdja2ZjWmMySGVtYkxBWDVjVE1GTmlJNGpWd1VWb0puOVRsUkh0OElDdXpIWGtuU2RrMEQ5T0tBZ1JTZVdLX1FTU0VncjNzUjRSZURrTGd1UVNsdGpFVWlXcWZwR2o4Ti03MTVXOXotWTdQYzZYRWFVSEcyYlJUQk9hNjAtcVdHMno2V3ZQbmhVc2RMb2J4RWpNRGo2TWVSd3FidjljZC1KdmZKNEdoRnJLdEZfalhISkxWQXBUbUJpNGFrRFVHOGpBRzR2VHZnbURPTjN0OFFYckM2WGtHUkJyYUVpOTRRbi1IaEVpWkEzeVlkUlJsREY2OEVYcTlrSGlYeHB5VTM5UDg4TkZDX2JkSVdUeHJsV1lnbk5RY2IyV0hjMUEySkdRYmI5bGJwZlltTDJTb0NmT3lXa0lmZ0tqdWtiYjkxTU5wVzZxODlIa0g2SFVI?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Shionogi Co Ltd - Positive Topline Results From Phase 3 Oasis Study Evaluating Oral Olorofim Versus Ambisome Followed By Soc In Patients With Invasive Aspergillosis - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRFFMbldXWnhZSDdlRDhERHdab1BCTFhiSU9kQVUxd0xmS2xMQldpZzBRejd2dnFpN2ZJamRMV2tOSC10R1BWaDI2a2JHMjhOQkxqemJyQ0pVS1ZWdU5fOVMxTnNMTEJnWjB0dDc5aXJOR3lHWExUNThQZ29HU0FfNnJPdXdZZHhEeDBQSGphWjBkSFp0a214Vi1NeTBad25ocFBiZFZSYm1OZ0ZEejJmNkczRHlXSDlnZzc1allQUUVERzFJQXRyVjE4ck5Od1hMVXEwcVoyMnJVLUJrSHYzS25JRWQzdGhmdlU2OXlWMVFNNjFseXE1Ujg2VDNaSDJfRFQ4SWVZUFFqOWhxNEswRkxPckFSZ1I0U2tVRzlVOThDdTQ5MWk0aVhESjNmUUZLWlNyeEdlajRWSlR0dTVqNVFkdHRzaWNza2dwU1VyYUIwQQ?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
       "significance": "Met primary",
@@ -2011,6 +2055,17 @@
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-06-17",
+      "headline": "Shionogi Co Ltd - Positive Topline Results From Phase 3 Oasis Study Evaluating Oral Olorofim Versus Ambisome Followed By Soc In Patients With Invasive Aspergillosis - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRFFMbldXWnhZSDdlRDhERHdab1BCTFhiSU9kQVUxd0xmS2xMQldpZzBRejd2dnFpN2ZJamRMV2tOSC10R1BWaDI2a2JHMjhOQkxqemJyQ0pVS1ZWdU5fOVMxTnNMTEJnWjB0dDc5aXJOR3lHWExUNThQZ29HU0FfNnJPdXdZZHhEeDBQSGphWjBkSFp0a214Vi1NeTBad25ocFBiZFZSYm1OZ0ZEejJmNkczRHlXSDlnZzc1allQUUVERzFJQXRyVjE4ck5Od1hMVXEwcVoyMnJVLUJrSHYzS25JRWQzdGhmdlU2OXlWMVFNNjFseXE1Ujg2VDNaSDJfRFQ4SWVZUFFqOWhxNEswRkxPckFSZ1I0U2tVRzlVOThDdTQ5MWk0aVhESjNmUUZLWlNyeEdlajRWSlR0dTVqNVFkdHRzaWNza2dwU1VyYUIwQQ?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
       "target": "",
       "moa": ""
     },
@@ -2693,61 +2748,6 @@
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-11",
-      "headline": "Takeda’s Zasocitinib Significantly Outperforms Deucravacitinib in Head-to-Head Phase 3 Psoriasis Study, Promising to Redefine Oral Treatment Expectations - Via TT",
-      "source": "Via TT",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNejFOVGlJeXBXWnFxdGVHbmwwTW5icWpWWldNSVIzSzFLUnFfemZPekJGdW1mOE9rN05IRVAzMjdncDhlZkZDTUxhQ2hrOEhYRENSTlpvVGs4OTVEazZjeEtKeWdRWmRlVEdZYlZiSjJ3REQtZzU2YUpQTWNnNjlscWd1Z05XLU5YOXgzOURtRUx4QlhTaVRFbjdfMjZWSWF1Q0ljLUNsd0hFT0NBMjVuQy1lV09jQWQ5cEpLZHdEczN4UHlQX2hCLVFxTEJTQkpDSHoyd1U1ZmJXX1Y4czZSaWc0STd3b0dodkEtTDBtQmJKbkNJV0ItY05KNU0yaWxEYURzX1E3OWV5amZGN3l3UEJaYVRpdDB4OW5iZDU4YXV5YXc2R1hDZmFzMHo3dmhYamE4TzBIZU1OTFZGRTB4YS1R?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-11",
-      "headline": "J&J’s Imaavy shows positive results in wAIHA trial By Investing.com - Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVThGeERVVHMwemlnWkNDMW9qMkFncUUyOU9aZERkNFZyNmYtYU1YbV9LMGtKUV9SWWhYZGU1NlRET2tzeThGbVVPdmVxX1lTeXVqYm5uMHhOdWIyU0NVRXNjVTBETVU2ZEViR0JSSGhUaTdJUVpET2pfdFZCSnFWOHZ2alhSSWN4M0FmR3VUVGZwNHhsRlhjZVUteEhfSm5Edm85dG5GWnVJTHBwdGc?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-11",
-      "headline": "Takeda’s Zasocitinib Significantly Outperforms Deucravacitinib in Head-to-Head Phase 3 Psoriasis Study, Promising to Redefine Oral Treatment Expectations - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPdmowOTkxZHRwUGJLWGN3UHE3ZHplUFU4aDJMb0dDT0R6c2V0ZXp3dE9KajdNSGp1S0VESkxNd0lFbDh4QmJmaXVhM2tBWEJMaU94dDhZaUtTT2VXeFVsUWVVT1FHSXc2ZzdCb2lKLVJuTEhEN3RYMDFvQ2x4eC0xUVlmeWF5MjBNTHBUczBMZklHVkNucFAtZFp2aDlIVzB4NkRzOUNpZXVaR0VVU0otSEtmbFpDcjQxanZLZFVwclhqTXcwTWJXSy1GSi1haDhvVDI5OVE1ckQtMXBOTnJKNUVRVHFMcGZ2RmhMVTRrNzFIczFJclZ3WUNJazF3MU5DdkZvbXo2c0tMMXEwbTJPdkFNSmV5YmJvakhBWEJFNkVBUVFteWphWlJfNmpsc21uUGc?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-11",
-      "headline": "Enliven Therapeutics Announces Updated Positive Phase 1 Clinical Data and Alignment with FDA on Key Phase 3 Trial Design Components - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQ3pyUEpka1lzTzhjOUVoZ0hGYUZMRDI1VDl5SVFDRTl0MkFXRUtkZDlYZXpQZUo4c3ktVGRVY1FHc1UwVE5lYVh4aFZGdkdELWdhTzhZam1hTjlPLVdtZU10bVhLNGU4eU9WblRBbnJzZjlwMmxZcW5TX0E4SWJXdXUtam1NLXFwMjRET2FDTTFiQ0c0ZUNpSHhqR2k0Z21KRkhNYkt1SXFNaXpTMllnNGpmZmc2UTY1eE0yRXk1d2N3ekVYanM3dXJYV2JKRXFIVm9wMkVoRGVZY1ZaanFEMm9ud0RDaDEtV0cyMF9qUHVMbmtjRDQ3TThMVlVZekpubXNJXzhoNUhpU3o3cldYSWlOaDZFQQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-10",
-      "headline": "GlycoNex Announces Positive Topline Results for Phase III Clinical Trial of Denosumab Biosimilar SPD8 - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaFJ2ZWdycVZYbXFlZjVDNWxXZWY3NEtOdjhUcGJ2X0s2cXNuSlRyMm1jT1BvazU0MmFSMk1IMjVEcEUtOWFFSDMyTFp1cm9uTzI2aFl2VGlzMmFjaXhBdTk5dWVhZkVKTGd2c3J2OU50Mm9STllid1hSZFVYVE56RHo3ZEZwUE9iR0NsQnZLOXRRbUp2OXVFcVdOcGpLbmtNVzRjQTBzV3gxMkhqMDFzQ1pn?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
       "target": "",
       "moa": ""
     }
