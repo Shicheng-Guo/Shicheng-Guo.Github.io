@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T09:29:39+00:00",
+  "generated": "2026-07-13T10:43:27+00:00",
   "items": [
     {
       "date": "2026-07-11",
@@ -10,17 +10,17 @@
     },
     {
       "date": "2026-07-10",
-      "headline": "UK Biobank health data listed for sale in China, government confirms - AOL.com",
-      "source": "AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVlJTV2djVldTZ3dtbnNJb1NJdVhKMldLSVVaN0lzTGo2UloxelhlQXRoakpxR0w5VUhQNW5kbjdBRm1BUnRZRkk4VzBZMl92SndpcjJGLW85Q0dYWi1SSndHWU9UUkpHMGIybDlYUjYzdV9takhXQkZRY08tUQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-07-10",
       "headline": "UK Biobank Breach Sparks Data Security Debate - Medscape",
       "source": "Medscape",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEc1eHNBckVYN2JtYzlkOXFCTlgzbmNta3dvUVZKa25aTFJxUnJfWkJRZEdKbjdRMkpzY3hrTUVtbDZCbERuWDV6RjZZY0J5TF9sSmdwNFRDOUU5SlpVOTVSbzd2N0Fpc1lDUzFfZmxLeDlvMEVfMmFhOVNuNHJBZE5qTnFmM3NDczRsb2NFeU13TkVTVXJmV3JhWQ?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-07-10",
+      "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
+      "source": "The Cyber Express",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
+      "category": "Funding/Deal"
     },
     {
       "date": "2026-07-09",
@@ -66,10 +66,10 @@
     },
     {
       "date": "2026-07-05",
-      "headline": "Gastric Cancer Risk Score Validated in UK Biobank - European Medical Journal",
-      "source": "European Medical Journal",
+      "headline": "Gastric Cancer Risk Score Validated in UK Biobank - EMJ",
+      "source": "EMJ",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGJxNUpEMGoyZmd1YW9xZWZjV29qaU4wOFNHNi1SWHZrWERhclhfTXo0MmY1NXNadVZRcVNycmdlLUdCTlIzeGVaWmJfc3F2UTRjZnMyUGI1STJfN1VwQUkxbFFocl9BLVhMcENSeHE0UHkzUW90U2dsc1RzbFdBemhtUmlvbzRpTFZESUFVOU1SSEZFSUZqalJ0Q3hxZG1x?oc=5",
-      "category": "Research"
+      "category": "News"
     },
     {
       "date": "2026-07-05",
@@ -223,6 +223,13 @@
       "headline": "KI Biobank, Comparative Medicine and several other core facilities are now a part of RIKI - Karolinska Institutet",
       "source": "Karolinska Institutet",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3BhNUNZTnlsRDZmcnJWcDI2VWtWRGhQb2xnV28tVVNMS1RtZUt0TUNrYzZmUklJaF92UWxSeldSaHIxQ1JxUGl1cE1TdHlINm1wT0ctelFreTNQajFYNXRiM09EWmNVZlFMOEFHdUhZTkQyQU1iU1pxZ1A2VHZBbnAyT3FKY004VHJzS2dzLXd5U01rbVpia25nZm9MRlZuQ0YxYWcxS0JENUU?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-06-24",
+      "headline": "UK Biobank health data listed for sale in China, government confirms - AOL.com",
+      "source": "AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzVlJTV2djVldTZ3dtbnNJb1NJdVhKMldLSVVaN0lzTGo2UloxelhlQXRoakpxR0w5VUhQNW5kbjdBRm1BUnRZRkk4VzBZMl92SndpcjJGLW85Q0dYWi1SSndHWU9UUkpHMGIybDlYUjYzdV9takhXQkZRY08tUQ?oc=5",
       "category": "News"
     },
     {
@@ -777,13 +784,6 @@
       "source": "The Observer",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnlyQTdNSVdjMGdGek82VUh4MkVDOVRaMjRDaTFhZEw3Y1k0LXIyTXFXQkxMbDhxUlZXdWtobkVRd0h6dUJ6blVzMWNMenE5X2VvTTItMzN3RmZSLXRSWHQ3UzgzdnhhMXpZM1ZkOFNIMWliODFVZG16QWFfQVp0TmZwUTV1d2xENzJFMWhrSV9aMnplOEU4NUZNVzR0Mkp1dGZpekk1c24?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-04-24",
-      "headline": "UK Biobank Data Breach Raises Health Data Privacy Concerns - The Cyber Express",
-      "source": "The Cyber Express",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkc9IBb0FVX3lxTE5ERnFIcDNuY2dWNVRERW4tcGhSTlFoMWVXVTBoNVJTUjI2cE5JQ2RkcWhlUENTR0g0cFdheXVTVGhtTkdDM0t6WFNFbzRQQmxJbDNXZjJKZzN5ZWxSRUhvQnluVFVtbDFNTUo5bGVkcw?oc=5",
-      "category": "Funding/Deal"
     },
     {
       "date": "2026-04-24",
