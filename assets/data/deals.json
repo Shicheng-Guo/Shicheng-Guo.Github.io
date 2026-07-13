@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T08:30:06+00:00",
+  "generated": "2026-07-13T09:46:07+00:00",
   "deals": [
     {
       "date": "2026-07-09",
@@ -658,17 +658,6 @@
       "type": "M&A",
       "value": "",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "M c Dermott Will & Schulte advises Sobi in $1.5 billion cross-border, biotech acquisition to advance gout treatments - McDermott Will & Schulte",
-      "source": "McDermott Will & Schulte",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONURJSzBzTWZYdUlLc21fRXY5M3ZrNDBkMGI2VGJKR3E4QUtaMGkySEplYm1FWTRFTm44ZUdXZ1oycE5rTzFjQ2hxeGZZVC1GTGJGa25jS3RMNDAxNzh1SXVhSldmYk1DMmlseHJRRld0UlBaMTFheTl4bzV5ZEZaaW9kY2Vkak9xaFN0VXQ0Y19kS2pzdWpUeG95TWxYVVhZMmg3WHZhZHJmcTd6dExtb1hIR1RiOGs0M01KcXVGb0hURk54NHc3U2NaR0pPUldOOFROUzFDdTU0UEE4T3c?oc=5",
-      "type": "M&A",
-      "value": "$1.5 billion",
-      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -1884,8 +1873,8 @@
     },
     {
       "date": "2026-06-16",
-      "headline": "A Framingham biotech just became a $1.9B Italian acquisition. Here’s the drug behind it - MassLive.com",
-      "source": "MassLive.com",
+      "headline": "A Framingham biotech just became a $1.9B Italian acquisition. Here’s the drug behind it - MassLive",
+      "source": "MassLive",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkxQb2E5RzRHVEEtMVA4NnU5SVJLbVVGeDFCdENVMkczbURFczJSTlJKVDNqdlNab2tNbjVoaHJaQ1JBZURmVFg1OVRsbVkyd0NVZ1JYVE01cUpEVGgzb1N2TmNqNUpoNEtVQjNselpZUkF5UF92TGhLeWRyaWdxM2JRUk1kazNreVZKOVNWaEhwbkx1bk5MQW41ZWpvcllaY1BRQlkwSzhVM2J2S0V1MWpCQ2xrcV9wX1lUZDBzSThjV0RM0gHYAUFVX3lxTFAyMU5GSFJTa0xHc2lHaFJiWldGa1BBNUZBNWNGd2g3ZXhnVjNvZ1BWVDJlb0c3X2hQQmVISzlScXdXX3lXVk5KTERTbTRMc2VGb2lVNU1VNFZqYU9ucXg3RHMwbERJX1pJNk9XMHVPUXhZVWhwRldBemx3MWVSZTJNN09RaWRHNnBodEotamxTeExuVzlkQl9MVXB3TU5Fb295WFJkOGlGekRIQkhhS2NTVmNHSy01dUNyR19zTDZJX2g5bVlxZDI4NC03OHhvVG41OTA2UENLTA?oc=5",
       "type": "M&A",
       "value": "$1.9B",
@@ -2748,6 +2737,17 @@
       "type": "Deal",
       "value": "$30M",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-02",
+      "headline": "Ten-year-old Cambridge biotech in market for merger, acquisition - The Business Journals",
+      "source": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnNVSDNlbEFoZmpHbWVUVThRV3pPWE82LVdSV2xwMHFBUGF3M2R4ZGxOdEtiejYxaUFBcXBHSXBXenRWN1BKRndNVjNVRWlMVVVJZ3h5cTdxVkZBbjFuR2NRSXZqZDlpcXZxMkRySnJya3RSZ2pRWU1iWFVNbGk3T0ZXa2QyOGhFa0FoXzd4dE9wSjA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
