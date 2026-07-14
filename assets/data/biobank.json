@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-13T10:43:27+00:00",
+  "generated": "2026-07-14T09:29:50+00:00",
   "items": [
+    {
+      "date": "2026-07-13",
+      "headline": "UK Biobank study identifies absence of genetic risk for chronic venous disease progression - Venous News",
+      "source": "Venous News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWc5TkpGcTg1VmpqdFUtbk9FY1BvcmN4UC1HRk1RRjEtXzFxZkI0MVJMaXptVUJmV0M1ZWNEYXZzcE83b0NIZXBQREEwWFJEY0xqWUM0OGV3ZGpBQW96MW5lejFsMWc5M25xMVQxa0xINWtocllJeHhDWDNqdFI4VDU4OW5uZFg3OHF5cDVYckg4Z3hTUU8wdVZuekRYVi01NlNWMi1kRm10Qmg1bTdYSWh1Rko?oc=5",
+      "category": "Research"
+    },
     {
       "date": "2026-07-11",
       "headline": "Anthropometric traits, metabolic biomarkers, and pancreatic cancer risk: a causal mediation analysis in UK Biobank - Nature",
@@ -1619,6 +1626,13 @@
       "category": "News"
     },
     {
+      "date": "2026-01-22",
+      "headline": "Dietary sugar exposure in early life and risk of adult mental health disorders: UK Biobank cohort study - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41TXktNVh4ZzhXMmw3TDFPZVQzMDc3bzdPUGpjQkJkWjVpSG1SRkFFcFpaXzVwOVNZOTNTV3hmZ05CZ0VTOVFNLW9Gc2hrMWNNUl9QSGFyWVFPc1NxckVkeHI4MUgyeFpiVFl3ZDdHQ0ttZnpUaHRxRnMwdVo?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-01-21",
       "headline": "Clinical genetic variation across Hispanic populations in the Mexican Biobank - Nature",
       "source": "Nature",
@@ -2086,20 +2100,6 @@
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmQUZqdmZZa2pBMEFOTl9XbzA4WTYyOEFYQTQtWWc2NFAtQjY2eXFxUWNlMjZnMGdreTgzUU1vc2ZPNFAwMjNXb1Y2by1RQUd3SzVWZWk4M01NeURYY3Q4?oc=5",
       "category": "Research"
-    },
-    {
-      "date": "2025-09-17",
-      "headline": "Outdoor physical activity, residential green spaces and the risk of dementia in the UK Biobank cohort - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ETUEtbEtld1RZeFhHc3E3TDBFc3EtaUZVRlVMV3l4T21xVmMtQXBRejVqT3Z2bXp1Q05xcnE0NDdXczhMTWVxOE1EU0xwaEtBR285OUtHdzVIQzRXUklj?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2025-09-15",
-      "headline": "Realizing the full potential of Our Future Health through data linkage and trans-biobank efforts - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2cmFHQ01DQWdmT1RyQ1FKS0ZIOFVZb3VXUk03aExDYmphOVJzLVNKaXZJM3NDc2lnSlVOQ2pFWVpTNnpxNmUyWUhMLXQ0Qm92eUZwY2FMTkdMaHI5Wldn?oc=5",
-      "category": "News"
     }
   ]
 }
