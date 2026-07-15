@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-14T09:29:50+00:00",
+  "generated": "2026-07-15T09:33:41+00:00",
   "items": [
+    {
+      "date": "2026-07-14",
+      "headline": "A genetic window on ‘All of Us’ - Harvard Gazette",
+      "source": "Harvard Gazette",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVZ3VGY0U3Z6MFZROE1nRE5LdHdNaXR2OFZpSGU0eDNLTkMwVnpKNURZYWktMkxqcnRDN2UzbHhLbjBiQXlpX3czZHhiSlN6N1o1Z0NreUFOQVhmRXZOUEU2blBqWXNibVlfR25SQ05HWk41RDRhWGtyZkZIMVIyV3IyZw?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-07-13",
       "headline": "UK Biobank study identifies absence of genetic risk for chronic venous disease progression - Venous News",
@@ -597,6 +604,13 @@
       "category": "News"
     },
     {
+      "date": "2026-05-07",
+      "headline": "Association of a data-driven nutrient risk score with incident rheumatoid arthritis in UK Biobank adults: a prospective cohort study - Frontiers",
+      "source": "Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUTNoR0dBRTlJUHIzMHNndDg2eldJalZqTjZoRnRmaThmY1R4WVdOZUFzWG5fZ3JHYmJpYmstT3p3c0lxc09Wd1hYRzdib3F3VkVPNTFMRFpWajAyWVhwLTl4MDYzUGVuMmM0VXkweTF2d1Q1Zm13T0FpU3JsdklhN1lvcDU0eUxsbVVsY1R1cDc0UQ?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-05-06",
       "headline": "Abu Dhabi Biobank, Human Life CORD Japan to advance umbilical cord–derived therapies in UAE - ZAWYA",
       "source": "ZAWYA",
@@ -1126,6 +1140,13 @@
       "headline": "UK Biobank members health data listed for sale online, government confirms - Holyrood Website",
       "source": "Holyrood Website",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlJ2MWY4ZjJIMmkzOU9LeU1wMHp6LUd5MVFuZ1BNZ3RjbWFWOXR0eDlEczFMcG53VTYxcTN6OEVpNy1lSnhZMUUyZzlIbkRaTllwcU5kQWJmSUF2eFhKVDBSRXJBc3R6a2ZrbTYtc242WXR6U1lIenJpVEFNMTA2cWxKSHJoTDdhcnE3ZHFPbVNVVDdidnI0R1dzUnpsTFVGYXlKV1lmeFJKTzN5bm1yMXQwUWd6SEVWd1NJT3RkTTM?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-04-22",
+      "headline": "Biobank-Scale Plasma Proteomics Identifies Novel Biomarkers in Hypertrophic Cardiomyopathy - American Heart Association Journals",
+      "source": "American Heart Association Journals",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUzdsakpxc1ZIMEJPekxQNGNnU1d2dW1JbWh6VU81NVVxZHNsMTVKYktJUEFOMVJCTktMZXViUk9PNkFxYWo3eGtmQ0lWN0UzVzZWM2pVZ3pNY000R3dNUEMxOFlpbzIzNUE?oc=5",
       "category": "News"
     },
     {
@@ -1935,7 +1956,7 @@
     },
     {
       "date": "2025-10-31",
-      "headline": "Biobank delivers vital genetic info, saving lives and improving patient care - UCHealth",
+      "headline": "For the millionth time, Colorado biobank delivers vital genetic information, saving lives and directly improving patient care - UCHealth",
       "source": "UCHealth",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVpnOFRSLWlpX3lscUhIY2F5M3FaLTljb3VyLVpIY2lDN2stOGxiQnZLSU5KVVllUkNlSk11bzdGcW5pdFlVdTdfRHZ0S3VuRllGZTlUVHBiT1p5ZHlhUFR2WWZxQ0ppdFRCQkk1d0RkSzF6WTU4b0Q2TF9CbkdFc2U5YXM0Nm1ONDVEU2ZpOFFfdUhPZTRveEo4dFFmTmxNaGw3Qzh3?oc=5",
       "category": "News"
@@ -2079,27 +2100,6 @@
       "source": "medRxiv",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XWE9Ub2E4UGpIcFBqYWEzM1NOSjhlRjlwbGRsVmx1UFV6eXRyUXJRYnRFNUw5eU5aanVReXZNcFYxLUV6ZW44SHJldU9OOGdlQTdGWVNuV2JZbllQMzdKcHJlaUlPRnlTNGhyQnZ1SGRhcHBOay1uVmFocw?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2025-09-20",
-      "headline": "\"All of Us\" Research Program a boon to personalized health, biomedicine (Environmental Factor, April 2022) - National Institute of Environmental Health Sciences (.gov)",
-      "source": "National Institute of Environmental Health Sciences (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT3hXV2ZFeWZFVUs2aE1rMWFuVUpPZVRaczNLcEpFWGxuZnVPVHJUZkRxU0EwRXc3NWRncnA5LUNIVTRMM1F4R2RGV2JXZXpKZHVQcTZLd3JqNU1BQ2RIc0tYSm9lbFJMSWZ3VHU3YXNybWVDb3B0TmVxbnVQakxWYTJuUDhaZ29sODU3QjRDejlXZEE?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-09-18",
-      "headline": "Pan-UK Biobank genome-wide association analyses enhance discovery and resolution of ancestry-enriched effects - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xeV9qWTY4Vk1BS1ctV2lNSVNoNFlJZHFDMnFLeWMwbmNBSjkzRFBIS0I3SklVVFZsa29kcFgxQU1lSnZHSFJUT3ZxU2hLdzNpQThRMG0xSVlVdEFSakpz?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-09-17",
-      "headline": "Serum lipid levels and risk of lymphoid malignancies in the UK Biobank study | British Journal of Cancer - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmQUZqdmZZa2pBMEFOTl9XbzA4WTYyOEFYQTQtWWc2NFAtQjY2eXFxUWNlMjZnMGdreTgzUU1vc2ZPNFAwMjNXb1Y2by1RQUd3SzVWZWk4M01NeURYY3Q4?oc=5",
-      "category": "Research"
     }
   ]
 }
