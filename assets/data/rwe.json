@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T09:25:17+00:00",
+  "generated": "2026-07-16T09:32:59+00:00",
   "items": [
     {
       "date": "2026-07-14",
@@ -35,6 +35,13 @@
       "source": "Targeted Oncology",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2t4UnlhYVZaaWlIWXVlcW1WNi1ieG5uY2ExRkUzbGRpSzdrZFlRVkdKYTBEMGZYNEN5ckMyTWVHbzJiOWYtVXZEV1FEZkxrcDZhOGZGMlpqal9OUkNlYWctSWFJWEgtS0NSN05ERkVPUnRBYi0zaUNiYjVLMnlkQVZYT2FjdEtPQWM1dEY5bHNvZnhwMkxTNk1sazNWd0RwOEIzLQ?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-07-13",
+      "headline": "How AI and real-world data are accelerating clinical research - STAT",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHJiUDVIQTdNdTduUWJaci13YkYwWHpILTNYbmJBSjI1N2l2dFVvWlo2Ty1ia1I4MHJMeDlqSzhYckNVY3c4OEFaeUtIeGV2TUF5eU1zcmh0NEQ3SnVtUVMzQUN6dVdLNFpwNFRiRWdWQVNDLVNZV05Oa1RUVmpPcFBLbUpaMzIwbnlQMlZWbXdURVMzMWVOTkM2NXU3ZmRZX2NoQk5fZlJYQQ?oc=5",
+      "category": "Opinion"
     },
     {
       "date": "2026-07-10",
@@ -2093,13 +2100,6 @@
       "source": "Oncology News Central",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2h1blB0R2wzbl9QLV9IQ2o3VG1TUWFzMklkVFp5YWpSRFI4TTdrM3JYVXc0OFMyRmNoU1Njc05Od1RKXzZwRVlYSGlDOS1lYURYdG1WX1Nzc3c5RmdWSGg1LTk0NlNrWHdjbF9sa0JtLVhUa0ZraUJOa2hob2dnMUVBc1pCV1FUR092SWdNN3ZDWlRzTzZEUzRwX2Vtd1pZRTAwbDktNWZWV0NJbURfSXR5SHBiYlNlVE5DQWZR?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2025-12-02",
-      "headline": "Beyond the Trial: How Integrating RWE and PROs is Redefining Treatment Success - Pharmaceutical Executive",
-      "source": "Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVFhSTMxbnNzXzNZYzBNVGUtc2Q0QXJfQUZhaVZZeVZibnVENVZYaXpHbEZ6NXVScGJVdHFVRjYwZVFNNTJMMzBFQWl0S3NlTS01ZHlnQWdDZW9qOW81blU5ODFzR2VUcUlfMnZTN0d4UWZXdHhwdVE5Q1pIOFBGM21SQ2lYNnZlLUozMHp2RWd5elVrVkx6bQ?oc=5",
-      "category": "Opinion"
     }
   ]
 }
