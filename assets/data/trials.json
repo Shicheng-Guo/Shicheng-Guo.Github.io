@@ -1,6 +1,17 @@
 {
-  "generated": "2026-07-15T09:01:02+00:00",
+  "generated": "2026-07-16T09:04:01+00:00",
   "trials": [
+    {
+      "date": "2026-07-16",
+      "headline": "Hagens Berman probes Grail over failed NHS-Galleri trial - scanx.trade",
+      "source": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOekRkMExTbnBHY2lXTGd6Z1Z5Zmc5Y1NsMlplS0tyS29MdnNQMGdteGsyS211dVpXbkZSQXpTcV9vTkJQYU50OF9xNktRYXdheDdwcHdFdHRzeWQwbnItN2E0cFlOc2RJcUVQWlJydUx4Q1h4Vk56eTJzQ0ZMUXdnQnJHeXM5dXJ5cDlqb09GVVF1SDNMS2J1c1Jrbkp4VFFnalZaVDJtcE9HbjJodHV1VlJpalVLYXJlV0Jr?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-07-15",
       "headline": "Kelun-Biotech’s sac-TMT Plus Pembrolizumab Hits Primary Endpoint in PD-L1-Negative NSCLC - The Clinical Trial Vanguard",
@@ -20,6 +31,83 @@
       "outcome": "Success",
       "phase": "Phase 2",
       "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "Soficitinib (ICP-332) Meets Primary Endpoint in Phase 3 Trial for Moderate to Severe AD - Dermatology Times",
+      "source": "Dermatology Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFBYaDN4S1IydjM3MTJsTGVqX2plRW5jMWdxNm5XZzFuTmFRODlMLTc3clJVemp2VXBvR29qSzFrOElKS2YzaTQ3dkRjRWhOemRLZV9BTTZQdFFwd0RmRm1XSDFUaEh1ZUVBYWE3djN6SVRXWFBoZnM4XzlaTlNhU29rUjlmblZhMUxLR3d2NVNJeU8xX1g1eWpKeGVybEUyejVXRUdMTFhQS2V6eTVTOTc2Wi1jeWVNd3NGTkxsOFM?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "New Phase 3 Data Suggest Soficitinib Meets Primary Endpoint for Atopic Dermatitis - HCP Live",
+      "source": "HCP Live",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONkJGUkNPdWNOckRzQm11Vmx2LTFFakNpX0JIMVByVFpNYThDNGwxci12cVJRMzN2cWJqZk5lNkZKdnY5d3FZSWo3VF9FeEEwWnZod3dncG9SY3dNTkt4VGhfMkpqUXhRVnFnaVhDUzNVMTN2c28wcGhIY0FNNHJqNzhSY3FpQ0NRcWt0TUZFX013OVJEWHZN?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "Veradermics reports positive Phase 2 hair loss trial results - grafa.com",
+      "source": "grafa.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFF5cnF5WUNzTjZ6Q1Y0aDVzeDdSbERIUTJxaEdzcGkzMWRfSXl3Z0xYbE45N1pyOVZ2QUlxaGhVOGVWNWstWFRVaWJ3bVZIM0dOc29KeklJMUgyZFlNLWt0bVBha2hyeTlXR09WbHZaQ2Uyakc3YXRYaHJSc2tib05ObEJxLUxrcncwMkJRUG4tdw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "Bausch + Lomb's BL1107 fails primary end point in Phase 2 glaucoma trial - Optometry Times",
+      "source": "Optometry Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2FHVDBzTXR5VWFOY1owWl9ra1pPODBIcmRrZjY1U2FsMjFhTHZMZHg1S1VhRDNOVDVNTHJYeHRyOGtIaHVVWmlOQ2taNmpoMGN3ZlpjcE5ma3hGa0F5dGRIbkJyMmJBR0FWZGJkV05mMFM5RjlMZEtiUF9fc3NiR0xDRTNPVnNuNG9qbGo3aFo4T1YwLWhyY29mSTNjUzFBYlpUYjRleEFwUQ?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "FAST-02 Clinical Trial Shows Pain Relief After Treating Bone Metastases in Chest - Research Horizons",
+      "source": "Research Horizons",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTTdXZXVnMTZ0TTh3R3hVYTlCYlN0eGpTWFBESUJ5WU1VOVlHVy14YUU2aVh2TTVVRi0tRVU3emY4clNwamJMZkVZeXFtaFJySTE1endjVUVpUWtESnhGVGpCVFNicl9HU1BsdEpaa2FXOVREUEpaaG84Qm5GLUx4OURlUGctT01fUHhpLVhMaWhDSFhDQWRVZ2RlNkxSLThGMU1Eck9qRkVxYWxWR0RRVGhQQnJWVV9vbWdsWWV6M3ltM2c?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "Scientists launch global trial of drug to prevent Alzheimer’s disease - TheCable",
+      "source": "TheCable",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDZfLTNLandrVGNjbVp1T2hEMEF4NlZIeUlqRmxOLTBJS19ObGg5cktmM0RrM1pUUm1HRGRUZ2RoQkZZWDNkOFlsdDhlcWs1QWhJT0RMWF9TOTB0RzBTaHNoRzdmdXVNWGJPSVFrVVVvZlBkeEoyd2lNWjI0V2RFbG9GR18zMXk1NFduOWdEc2puRjZVZTk1dA?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "Kelun-Biotech sac-TMT Wins NSCLC Trial - AllSci",
+      "source": "AllSci",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU2dBdERuWi1tRWhkYzBTcUFrVFVsUVpuYkU3dXVFUUZVMlRldDV6X3FSUU9iM0w4NElRcVdiaHhmU2tkTFp6cllCMXFKbDF2aEJlTnFsZW1CbGpIaGViQl9KVGVvZmpvTEpVMGd3SW5hc3lRb3RLa2JNMmRxdHBEdjBoZGw2eGYyTmZIWHNQTGp5QXNmRkUza2dLdjdDYUswZDdOMWlqVk1POUl6akRjSTlONHl1WDYzUVZ6SEdPblU?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -134,6 +222,39 @@
       "moa": ""
     },
     {
+      "date": "2026-07-14",
+      "headline": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSW45Q216RDR0VU1LTmgzRXF2M1BEdVExcGZhVDBDWlQzNHVVLXpNYmRtRHFGZkJPZGJxc3gzQkpQSzE1eldnUE5xdGUyMkE4RkxvdEl6aHBfNFMweUV5RTI5OWNzcHNzQUNWNGJLaTRyZllYblBJQmQtZzUzVzh3YWF5Ry1xSjV5azhfNmhoREdVdk8wRk8zaFZTZTZIRUk2Mm5IeUYyYw?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "tau",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-14",
+      "headline": "Biogen reports phase 2 Alzheimer’s drug trial results - Investing.com",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdlN3WUN6Tm1yOWpFdWY4S0dtbFMzdnpJelZ1aDA2N1pOaWRwdUR3YmRTaUt2NFZpaU5pbDNFUWY5eWI1MWpHb253RHM0OHE1akRTZVlfaDlBV1BDZ3l4SVpiOE1ZaVFfWkZxNHJ5LVQ2eUF3WWFpUEJnVGhYUXJxNGVNYnN1YlJkTzBXLUVUNnV2RnMxaWk4RmJzVnRoRWFrMGRDMWFTNE1tOVZNVlE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-14",
+      "headline": "Kelun-Biotech Announces Phase III Study of Sacituzumab Tirumotecan (sac-TMT) in Combination with Pembrolizumab as First-Line Treatment for PD-L1-Negative Non-Squamous NSCLC Met Primary Endpoint - Brattleboro Reformer",
+      "source": "Brattleboro Reformer",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdUhrbE1aVlh2ZWM4cXFyWk9OMU11R3BEaks3WTVBVDlTRjctektPaC0yOFo0MTRUR3JPX0JLRkdYT2VRV2tHVXRWc1Q4LTNCUmJ2LTcyVS1rV0tXVmRCUE1kcU42OF85MHZEYjlVX191WUxDSGlsY2lPTm1fNkgzSng4c1ZWUXlMdHhCbTYyVEFPdFlYQ29aZ1hVand4UG1ZWm92YlMwX1dscFk5SDFPMmkzallJMFhFMHI5NVhuOTJHdE1keXFsVk1oUTgtOEliTjVIYlZXTmx3SmxNUTVoWlNSSERMYVBUYmZYUmJpS0lja1drWkl3VG91cVBORnJYaEwzQTRnZkhVTWVqTTU5b3d4M3pyYjNQeW9UVTlzQUhjWGJnTnpLMmY3VDh5bHVXLTFwVk5oUjgtQQ?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "PD-L1",
+      "moa": "Checkpoint inhibitor"
+    },
+    {
       "date": "2026-07-13",
       "headline": "Ondine Biomedical Says Topline Results From Lantern Phase 3 Study Expected Within Six Weeks - TradingView",
       "source": "TradingView",
@@ -212,9 +333,9 @@
     },
     {
       "date": "2026-07-13",
-      "headline": "SLS Stock Hits Over 3-Year High As AML Drug Trial Nears Final Readout — Wall Street Sees 30% More Upside - Stocktwits",
-      "source": "Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWMwMW1Xb0N2ZHJXdWg5LUlucjVGNHFFUk1sX0hkeGtEOWIwbnNlQUxIc183VkRfX19GY3M4OXk2VzhQdEMxZ3FiMlBuREJHYTV1VEpuS0lKaFJkTVlYSmpycXhSM0YxNkhUMnN4ZmJZbmJtTWdFZEFBeDlTZFJjYjBTMV8tcHh1OThsclc0RVhxV3FTTTRJU1lWcURWcDN3ZGVyakp1MDFQVjJNeE1MZWpaYldSUS1oZnA0RHhmWTZ4d0lvTzE0VUxsLWxWR19IMFhrX3ppUmhIUQ?oc=5",
+      "headline": "Q32 Bio Announces Positive 36-Week Topline Results from Part B of the SIGNAL-AA Clinical Trial of Bempikibart in Alopecia Areata - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdm5MM0xEbHdaVUo4TDFYSWhlTTBSVW44T3ZmQzNwRDQzYm95dTBaTHRPdnhVRU02N1BjNVBDWnI4bWxPUEVZaU1Ic3M4RGUwd0ZUcDFKa1g1NXlSb3ROdG1wLW5pZFJMUUlfei1CUUFGY0NIdDFLS3QzU3dPcFVEYjlDcERXOWlncFIybnF6dy1Lb0JZ?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
@@ -289,7 +410,7 @@
     },
     {
       "date": "2026-07-10",
-      "headline": "Bausch + Lomb’s glaucoma neuroprotective candidate fails Phase II primary endpoint - AllSci",
+      "headline": "Bausch + Lomb Glaucoma Drug Fails Phase II Trial - AllSci",
       "source": "AllSci",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlNFbEYzaXlZbG5MNlZTZUZDZVpBZnMyWWxDUHJaMmpVNk5KREh6OUpyVFpNS1diMS1INDhUOURNV1JRRE1sX2x0TEFpQ3ROUmxVZWhCZHJvTS1ZTEVmZVkzVDNrV3o1NWxicUhkSWhsTWg4M2laMmZDYXhILVZCZ0s2WE1XTUhRbGdjMUlHRWRuVkRZbkNySUl4Ml9zTFBTcXZ2SlJnU2h0Uy1PaTFsdjQ0Um04X3Y5bi1YRA?oc=5",
       "outcome": "Failed",
@@ -699,6 +820,17 @@
       "headline": "AstraZeneca, Ionis' Heart Disease Treatment Fails to Meet Primary Endpoint in Late-stage Trial - marketscreener.com",
       "source": "marketscreener.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV3ZSTDNMQWM3WXlaNjloYUcydC0zcW56Z3QtdmpDX1E1WVJWZ1RPQzFHN2ZJXzNxay1EeTBqMkdOU1hkT3k0bnRiWGxiSVNZbUg2eXFPWUZtLVNyQ0laUkVqcjAybHdiX0JrcjB6M2haQ0JCTmhJY1dwT25CZUp4cnE3b3BVWG05SE9nVll2X0JpV01iR0FUMVBGVklnaHZXVXl2bEl2T3dUS09LWWVlZlV4MEFEUlBJWkk0VDJBNUwtV3RxYi1lYkJJQ0NobjNhRkU2LTM3bzhzUC1Scnc?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "Ionis’ eplontersen fails primary endpoint in heart disease trial By Investing.com - Investing.com UK",
+      "source": "Investing.com UK",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTnhfb3c0NFN1MWd0bXoxVUZQTjhsOHJXdi1iZGtTTl9zUUhnb0RocmNVZ2Z2WkxIMkphektZSGY4LWYycFV2WUpydGtCR21GSHZKZnpqUVllcUROaEw0Uk9iQXlLcGYwZEMtQ1liT2pyUGgza0wtNXhxclRPVTBuZXhPdlFIbmliSFJ1S2FBSDd0Y0RZN2kxUkVESHRocWhiMmZTVlJydmxzTWFqcmhYejJzQTdDYm5aZ29wdmExdFFiZw?oc=5",
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
@@ -2618,138 +2750,6 @@
       "significance": "",
       "target": "",
       "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "Edgewise reports phase 2 trial results for heart disease drug By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUJRUlA1QS15aklkdUo4RURmSWxmTUx1cjQ2OHpiTk9IYTFTaU81WVBva1lqMkhJVzI0RGZsbmlFY1BKT3htelJNaFU0cjhPR19rZ09VY0oyT2gtYzRDaExwNE9ic2RueDY3R1VTbVYxbkpuaW5raDRoTHpGM0UxMFhoaVd6cmE5TXRucktWcWpkWV9LVnFueW5NVnItQXFkUGNvelN1aXhOQ2ZMakdZVGlLYzdLTTJLVFp6bjRPTQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "HCW Biologics Announces Positive Results for Preliminary Human Data Readout for Phase 1 Clinical Trial Evaluating IL-2 Based Fusion Immunotherapeutic, HCW9302 Monotherapy, in Alopecia Areata - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkU4ek9tNVZPLU5tMzRVVjQ2NE5OMzhneWRhSWJaMnIycXVZaUNwek1EVVVFTS1ETnRtcDZ6R1hxdnR2eDZvbVplRWNqOUpnYmVudEhUQjN4Z3FhZnREaXZpaDBWeERkaHB1WmtyZzRONnJnTTl6clAzc0J6ZlVQcUpUNDAxV2VjNzIyaUlCdXNVMlN3NEE0dVFBbDVFdzBYT2lR?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 1",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "ELI-002 7P Misses Primary End Point in Phase 2 AMPLIFY-7P PDAC Study - CancerNetwork",
-      "source": "CancerNetwork",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWVGUXhVMTFfUzFlT0VqOEhHOWZOSkJsYk1qRWxjcElQVVBBRElldWFoZVpab0Z4dFZVeXhwdkZnMGNjMDJQWFF1Zll3YTduM1J1Ykp1cEhiYVlkSDgxdFpubXBQRnRtZmhxYzJmTUdQWW95bHdRUnZ3SFRnZWc1M1hBN2s4Tzh6VWYxLXgtTWNCbjhWTC1Td2MyQW43OV96OUE?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 2",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "ESSEX BIO-TECH Bevacizumab (HLX04-O) Ophthalmic Indication Phase III Clinical Trial Meets Study Primary Endpoint - AASTOCKS.com",
-      "source": "AASTOCKS.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRmhoVEVJQkxhM2czOTZwZGZnVHF5akwtdnhWZjJpTGlXZXVqOVdfbktuM2VCQUsxTUhSczRzTEk3cXFOc3dUbE9Va0VGal9oUGt4WEZjUndLMm9rRnQ1MVNaRThXYTYxZ1dQWmZFUXRVMmRCZXpLLXZTcXFRenZGd21XWkY1MVE5VW5lRnRRRTU5ZEMtNVE?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "PLEOPHARMA TO PRESENT NEWDATA ON CANNABIS WITHDRAWAL In PATIENTS WITH CANNABIS USE DISORDER AND PHASE 2 PP-01 RESULTS AT THE COLLEGE ON PROBLEMS OF DRUG DEPENDENCE 88TH ANNUAL SCIENTIFIC MEETING - Morningstar",
-      "source": "Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPRWl5cTVWdHM2U1hTb0Zkb0FtZlIyTHZwTUN2LWY5eGJmYTJHRktCYlZndzV1RnRZaHlqRlBKVVNCMDA5T3hKSUR6UXh2MTlBVFViRWtkQzdDYVBXd2xCQzhGeml6MzhqMkhCNHp3dWF5NTBZUkluTGQxcmN4Q25KS0htZWR3ME9nOUxLcmJmQ25reFZ5S3MxT3p6TzZFaWgxQ0tvaWhieGVhTVV5SHRDNUxJV1ZZYTlMVTk0MFdvU1ZmZ09RemttdnlLb0pNdlZZSW92V2U4SEZ6dEE2XzNxbDRKV2xTUWxxU2Fva0FNRC0tZ3VlYVJicEpId0k1VFk5TktEQkh2dlRFOEJMQXVLNXUwSmpZNjhWbllaUlRTMU1aYUpPejM5LVM4dGpCejV4dWRhUU9kd3o4am5oeEVfMnNMSERxQW8tcG5YOXVJbWd5TThYT1hYLWJyUmxNUlVEcXdfbjhzNXZDR2Vwb3FZZA?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "Edgewise Therapeutics Announces Positive Top-Line Data from 12-Week Phase 2 CIRRUS-HCM Trial with EDG-7500 in Obstructive and Nonobstructive Hypertrophic Cardiomyopathy (HCM) - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPcUZwZmJHUVJOd2ZEX3BOVjZCUk9XMmhTZ3R5aE96U3M3TDNjU1FPRThFbTNHd2x0eHF0SnZWSzE4S2ozR3FidFRvSWplSlBRczc5RjBud2F2QTFWRlhvbmNHajFJNWdCUFoxZTY0MTRoTExjS3VpWGRKTU1RTVNRSW43eWk4TFJfQ0UxQ3NJQ3EzX1AtemtjR1Y0SmdBZWo4aVdFbGpseWZmZTRfTi1BOEhfWC15cFljR2ZJQmx6ZXZ5d3FuSHBNNWxGWnRoQjgzcVlJSGllLV9VRXJtM2hSS01VNi1GQzhNNUdQWDJFQ2tLek03Ylo3MXB3bXlGSzFMYi13bUNISzN4dVhzN3prTllOSW4tbFc2Z1l3UWVqTW9KXzJKWk5Fby1pZUxBMko5b3BiTVlBbVhZbFNfV0lSN1VhbmJxMlVWNW9MaQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "HCW Biologics Announces Positive Results for Preliminary Human Data Readout for Phase 1 Clinical Trial Evaluating IL-2 Based Fusion Immunotherapeutic, HCW9302 Monotherapy, in Alopecia Areata - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNVEdOdGlnOElYdzRqVWdreDNRZnZ0SjNZenJXTUhJT0FSNHhDd0d3ODF2bHhrWXVIV0NxN044dWtiX3JJN0ZaRGFDWnZ2U3lpY0NPeVV1SGZLZFYyNklMZ3hxMlZ5SWJFQjNLdnFqT2tQdjBlcDRjeVZOM0xuOGNoRlN1VkZLVlBKbHpyM1RTZjc1RlFYeGE1Q0pwOUJnU1RKN1NUUkM4aHQyS2ZyblM1RlVucFdHZmV3MlpHX0dwcTVFTE1jYjFoNV9ja1RSb3RCNFlxcTlTcjNwenFFMXB0YVh4SUtTTGc5UWZ6TmFMdElYdUlJbHBrYkM2T1ozWGtYQmNuTzctT1RYVDlua3ZaR3JmTW1XX3JQUm1hQU80ZUV0eVZFbEQyX0t4c1hhSkRkMTF6RnF4Mk82cWl2SXg2ZjVpNG5LU1pjU3F0b2dUelRoQUlDeGVOQ3d4eE10T2xtN3ZVcHVRZFdPM1l2?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 1",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "Revolution Medicines (RVMD) Is Up 7.8% After Phase 3 Survival Data Validates RAS(ON) Strategy - Sahm",
-      "source": "Sahm",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOUUxTWZabmptenpFck12ZWMzTkY5djFaU1lyQmw5bi0zX1VnN3A3ZWlJekJtQndzMk9BazBNV1NoaDc1NFI4VHhnbVpjd1hLYnNZNi1HajVvck0za2dVbG5PVjZNb1IxbEJzSHR4b25FX3I5N1kyd3VPQ3NQZGowYlVnMTd1VGZXbjloOGNLMXpyREZkOGh2cFdicHJ2dU1ObTV2NWNLS2ZNaVY0YTZXb2RxQVEtVmhlV1diZVNPNHBsb24xQkFuZVA1aXJ6SGNBNDhyRnRR?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "Edgewise heart drug passes key trial test - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNE0wZzEyQncwVzJ5MXBJZ2VjckN4dFR6TjRvZXFVV0RUR1Izc1pRdGEwclNsc1QxZVUzbkpiTUZ0ZUp1c2UwSXBnY3dnNFhGN0tMUnMtRG9RZ1ktVkdFQ3JydDhiTmNFVlI1SHRYSE50bnRLeWZqR2liS1UzcHdBdmV4eDBLeXdvdHdSUFQ0dw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-15",
-      "headline": "Selinexor Plus Ruxolitinib Meets Primary Endpoint in Myelofibrosis Trial - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3ZKel92Qkp5aWRoRXFNVXI3MHpBbGhKLWRDZHZzVkNxNnBnY0N4d25BYmp2VkVzczVSSTZMWGFrV1l5clh4MmwwLVU5ZEoxSElVR1g2R2tlR0cxaDNwU05YaVBWejFTRW43WWl3Y3hET2ZMTWR6VFZqSFFmYnlUWHBQcjNnbUpCOTFRekV3TnlHX0RuSnVlenNxMnNSU184QmdlY1luM2pKUm02MjBDc0w2enN5NjQ?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-15",
-      "headline": "Spyre reports positive phase 2 trial results for UC drug By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOU4zU2ZkRWRCWXdGOXZMMVRrTmpweGZZSGtCeHpETktUeWNhUS1VZExRaTlfVktBSWF6MzZONlhpWnpJX0RyWDV1Mmd0VkhzeWIwUkZzLURFU0w5UUJXQ2NIM1BnYTlTc3ZVNXFxLTRvRTRPQzhYNFBlcHRJbTU5Z1pIclFoc3c2TDBSYjBUOVQwMEtWbmdzOTdBOFhGeGN5M2c1T2FuSnFmS2c5Vi15WC1MQkE2NEw3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-15",
-      "headline": "Curocell's CAR-T Drug Limcato Publishes Trial Results in Blood Journal - Seoul Economic Daily",
-      "source": "Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMG9sdkk3QUtEOXFCZzQxbGVGc09DMlJuaTUyV1hlUnVOTWhPRm9xMUhiY3V2NmNzQ1ZlcFRvMG50ejg5M0ROeFVsdkZ4eGFIY1RLaU5mLUpTdzZ4MFd3dGNvM21mUnBsOWZTUi1TRzktOGc4NjE1b2NUYjhrVE5mbmhlVEFvenNPYTU4TGMxdl9aTVNwSmN2S2RxY2UtZw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": "CAR-T / cell therapy"
     }
   ]
 }
