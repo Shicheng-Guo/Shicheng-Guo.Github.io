@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T08:32:14+00:00",
+  "generated": "2026-07-17T08:26:33+00:00",
   "deals": [
     {
       "date": "2026-07-16",
@@ -41,6 +41,94 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHpGc3RhTnMtQTA5dzU5eGJuMVFDWHFaeHg2dUZ4S1h5bzR3VUFaMFJWVlZHYTdUS3M0c0xKVkpHODQwaEpfaGhackMtUU40S0NtTTU3OVc3NTVOMnl1X2JBV0phcnhZdGE2bDBNN21YUEk2cS1zSDhWR1d1N2ozRU1ZLVl5Nkw2cHphT0ZZYW5CZXExekw0?oc=5",
       "type": "M&A",
       "value": "$4.1B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "What Does Servier's $2.5 Billion Acquisition Mean for Day One Biopharmaceuticals - Kavout | AI",
+      "source": "Kavout | AI",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTUxRkxBbW9xaHg3SlN2MVByUW0tcmtpTmRFdTViampReVljYTNSSnNMOVZFSllPTE91MGZVZ0lraEhWR2FOV2RiMm1TRTQ1YVFJeHFWSU9BWkVTMEFRRG9oTlQ2R1pMWmREaUlfdXdFR0lGNVN4TGI5NW5hUmVHak5Vb3hvc3pISHdrTGxJRDc2RW1zNDZtMmRMYi1RM2h5dXdfdE1OaktPVUM2VTl4VjNBelo?oc=5",
+      "type": "M&A",
+      "value": "$2.5 Billion",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Italy's Angelini Pharma completes $4.1 billion state-backed takeover of Catalyst - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ29qMzlwa0tfWU4xVHlvOThYSnZYNFhmbk0xcVZiVUZicWl5OXpITm5xaHBRMng2aDZrbmg2U3NMa1lkT0VLUnlJR2FtVVRoX1QybWhJTDRRUlFXblM0QUEzZmhyRnRFLXBnWmxPdzc2aVBhOUpjR2ZtOHo0ZWM0T0FadGhrbDB1eDI2VXdRYXItWDB1VjhzVWdxR21pMTEzQ25MUU11RDRaR0NyOWpZYkFBOFYtWUVLSWxCRlpLMWp1di1Jel9LT1Bn?oc=5",
+      "type": "M&A",
+      "value": "$4.1 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Lilly to buy AtaiBeckley for $2.8B, further validating psychedelics - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzRzb0tpYUpJemxVMGFrd29aclR4R0pNRnptajdUVHU0UGEyenJwczRpMTVLazFCYW5EYThwYVFhTWhmT2plZWZWaWRQdXhIWVBUd3RsWnFRZVFBUERxZzRCdzY4Y25HX1V2UzM2aEdUdDdjNmVXVDRMcVBiVU1aMzJIcmp2c3otZzJpdDllenlFcWc1NnR4OTZiQ3pGWkpsZUxadmVCWTdnYW0zMnhkbzJGbw?oc=5",
+      "type": "M&A",
+      "value": "$2.8B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Eli Lilly to Buy Psychedelic Firm AtaiBeckley for Initial $2.8 Billion - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFWcWFheDA5RFM1NWlLMUZEQVE4YUpWQm1BaGxNOHdUeHVnZy1GZE1zMzF0R1hNVU93UVRTczd5emNDUXBpZ3p4WlMxNXY5LXVuYXRwcGlGZzBCTklnWjNuRWExRjF2blJvSzBtMWNtV0JoTXVDTzZWTFVLcG9rQ2RUMHEzejFtcWdoNkY0cUVlSTdsQVVwRHVKWQ?oc=5",
+      "type": "M&A",
+      "value": "$2.8 Billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Lilly makes up to $3.8B psychedelics play in AtaiBeckley takeover - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnVaTFVZRVAzbW1mRVU2TFdZbWo2SndlRURvZ0JmWDJnUGhfU1Jub2ZlTVNDdTdaTVRnODNEZHRGcEVZRE5ZeDRXam1hUXhjTk9vWmN1ajYtMjdFVmdjSE1KQWpHZkZ6aEk0YjlLa0pfYlluR3owS1RONE1YWVdkQUlBT2IyaXp2QjRFZ0U1SEpGUzd1bXBUX1FEOA?oc=5",
+      "type": "M&A",
+      "value": "$3.8B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Angelini Pharma completes the acquisition of Catalyst - Il Sole 24 ORE",
+      "source": "Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmttanprNlJTVVl0NlJvWnNzdW9ERDZaakVpdjFDb0F2cjRPWHkwR0VhT19JSm1WeDAxckszWXN4aHAzYnNVV0hLYWNwLU5FWGU1NVJDYTBKYWNJLVRXQjlWTnhENm1NbW9yTE96NENqeFRfWFJXa180bjRSVEdUeWxyYzk4SFZSblZ2SmhadDRaejdROXVB?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Lilly to buy AtaiBeckley for $2.8B, further validating psychedelics",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/lilly-ataibeckley-psychedelics-acquisition-deal-mebufotenin-depression/825425/",
+      "type": "M&A",
+      "value": "$2.8B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Lilly bets $2.8B upfront on psychedelics in deal to buy AtaiBeckley",
+      "source": "",
+      "link": "https://endpoints.news/lilly-bets-2-8b-upfront-on-psychedelics-in-deal-to-buy-ataibeckley/",
+      "type": "M&A",
+      "value": "$2.8B",
       "area": "",
       "modality": "",
       "stage": ""
@@ -207,6 +295,17 @@
       "type": "M&A",
       "value": "$31.7B",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-13",
+      "headline": "Does Vertex's Acquisition of Crinetics Pharmaceuticals Make the Stock a No-Brainer Buy? - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa29ZR1p6OEZnVjBHRnNWenZOWEE0MGFOV0Juc2ZkZGhiYkhHakFFdU5RU01EcU0wdm9VeXk5eUltV0p4Zm10eUh4NTY1NG1ZSGxKdTZOSVF6a2c5RWhSYWtmTFNyU3RnNGhqME5nUnk4V2hVZ2l0bTFNSW1jU19rcm1SZDFuTWlnWG1sYzNJdWxzUWJiNlRQVmMtd2cyVHZicjJhSWJ2X0R0UkxsaDRxaA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -1245,6 +1344,17 @@
       "stage": ""
     },
     {
+      "date": "2026-06-26",
+      "headline": "Universe Pharmaceuticals INC Announces Strategic Acquisition to Expand Pharmaceutical Patent Portfolio - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMVM3VmF4T0FJY01QWUpiTkswZkRDbTh2cGxCVXJmdHRPX0prZ21PNEg4WEZvZUhfcENqUVE0WWJsRF9iNmVwY1dHSXdWSlhpRmlkYlU0RjJuZXFfWXJyV3dGYzlLWjI0eW1wclhSbllGYWhYMnMyODJmb0dJbXFWTXRVQ3gzYWQzNktJNV94aVBFT1dkeUQ5cktHT01seXVHc0JnSFRrODFSSGtxQk5tY09HNDhjVUt1R2ViWk5jZDdwR0x3ajZQSGF0OVhFTTVLMlpEWkxzcjN5U2VXc1VkcTdwdW12SGdiekhDb3IxcGNXcFlaZHg1ZThqMl9xOVRaQmZyYQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-06-25",
       "headline": "How GSK’s new CEO lined up a major buyout to start his time at the top - Endpoints News",
       "source": "Endpoints News",
@@ -1339,6 +1449,17 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhZEJrdkh6YlZUWk90bERibXpKdTY2UUlFXzZNZUlKTWFWMHRZcVR1TmRxS3hMT3k1WVFuSUdUb3loaFRldTlUOTI1N3IyLVVHa3ZVNlRwYTRqN0ZEeGRLY21LNUxneTlCTFdRT3hlTQ?oc=5",
       "type": "Deal",
       "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-06-25",
+      "headline": "Germany's Merck to buy Bio-Techne for $11.3 billion - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzVJTGI4eE9fUV83enRwanE5cUhTZmd3VXFqYi1xNnFNZmxzSUJSa19fd1c3U1BrYjNVcmo5WlVYMUozeU8xZmxzdFZJTzdUREc1NG1yalNYUktQUGZ2MlBlSFMwT3dSY09ZbmtFUEJGUDRBMWxCbl9lekNSRFgweG9pbk4?oc=5",
+      "type": "M&A",
+      "value": "$11.3 billion",
       "area": "",
       "modality": "",
       "stage": ""
@@ -1571,17 +1692,6 @@
       "type": "M&A",
       "value": "$50M",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "What Does Servier's $2.5 Billion Acquisition Mean for Day One Biopharmaceuticals - Kavout | AI",
-      "source": "Kavout | AI",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTUxRkxBbW9xaHg3SlN2MVByUW0tcmtpTmRFdTViampReVljYTNSSnNMOVZFSllPTE91MGZVZ0lraEhWR2FOV2RiMm1TRTQ1YVFJeHFWSU9BWkVTMEFRRG9oTlQ2R1pMWmREaUlfdXdFR0lGNVN4TGI5NW5hUmVHak5Vb3hvc3pISHdrTGxJRDc2RW1zNDZtMmRMYi1RM2h5dXdfdE1OaktPVUM2VTl4VjNBelo?oc=5",
-      "type": "M&A",
-      "value": "$2.5 Billion",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -2637,116 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUxBVmVIbGkwSExKMjBxckw0MENsc1BrMWx0d0lNR2VUOVB4TTBLUTlBekZOdGtiUV83XzhLUWJLR05VRlZGVVpRUEFZMEk5V01QYU9CelZnVFcycEkwekRrdkRoNXBLSElGNWlwai02YXN2TUxoVmlrZ3loWVdWWWI2ODBOanM?oc=5",
       "type": "M&A",
       "value": "$10.6bn",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "GSK punts $10.6 billion on Nuvalent acquisition - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUE3akhxREk4REljelN1dzRjVjIzZVpnRjktVkVIRS1ueFVlQW40dlpPZ0pwR0x1cU9TVk9CR0d5a3JXQlVfZHZTTjdJWjctQXVKV1p5NWdrNFFEQmhiMWZ2OU40Uk5QYXhtV3YwX2pCdVF0WHBibmhhYWozT19wMHJodTgzRUllblVJMkFzZnpva255?oc=5",
-      "type": "M&A",
-      "value": "$10.6 billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "SBI May Commit $1 Billion to Support Sun Pharma’s $12 Billion Organon Acquisition - India Infoline",
-      "source": "India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0todDV2U3FXYXVkWXlOTkJTZ3VITndNMzh3MVpuSk02MDRWWjRkMHFpaHN4YlM3aDJNSl9Dc0VWNURWTGNwM3VEVm9xTUJ0dGRwTXBLbkNXaVJnOS1lZ0RfLU96SHZ3b0xOVW12NWhiN0FvOWhBVlpaVGFKNWxlaWpSNDF2UDVvYXFIRFZMcW9SSnVrZlhBQW80MWs4b1FoVVVacG9Nc1dxSlpvSjlrem5VQ3JCdzZSZExHbVByNlQ?oc=5",
-      "type": "M&A",
-      "value": "$1 Billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "SBI Set to Join Global Lenders in Funding Sun Pharma’s $12 Bn Organon Acquisition - outlookbusiness.com",
-      "source": "outlookbusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWpCcUtMTjE3YmdNWVN0QnlJSGF3dkZJVFdraFBpbU51QlY0VDlNM2xzRkN5SXR4XzBFTUVCNlRoSFFOcF9waDhuMXBIWkRhbHA0dkloVndEaU9KcG95bTF3ZzN2TFI5Q0RYZmFYTURMOHhTNE1nVU5Zak5zVWw3cWpiZkQ0a3FRT2NrVUhpSUV5SERQbWhFbkRiY0lDbDhQbFMxUEJjUHFFbnpuSDExX1M3X3U5NE0yMERqNUd30gHLAUFVX3lxTE45aUlCXzZxczNBcEhnOVJmRGVQem1tdk9nWGY1X21oUEN1R0hsS2RseXhFRFllLXZ6WGdkQ1V5bFNISWw4LTRzSG5McnpUdTZXeWN1ak44b25PMm96ZDY3djIzV2tuMTV4bUNmeUVGNzdrY2t2ZnRtb2xpb2ZGeEdxSlRZOUJxNzB1Vm00UDdGXzFKbVNuN0NmTERjZFI2TXIyR0xMaVBIeGUzaFljWjNGY3BsNmxMZXVwQXViLUZJX2t4QTFpUnlQRTlV?oc=5",
-      "type": "M&A",
-      "value": "$12 Bn",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "AlzeCure licenses Alzheimer’s candidate ACD680 to Lilly in deal worth up to $1bn - Manufacturing Chemist",
-      "source": "Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSE9fNDYtZUpmRVRObklhTjVhTXIzZ0czaTBnSVZVYkM0X1labWg4TnNhb2tueDdJOEVRM3JjV1l5T0UwemV0Rk1qdVNsLWYwZ1cxQ1ZIMGdCX0VwN3ZFQzVhSVc4NlkwdFJZbm9JRUIwN0hPOHBudUp0OWZuSmxjUlliMTNxSVQxcHF6bXJETlc?oc=5",
-      "type": "Licensing",
-      "value": "$1bn",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "AlzeCure signs collaboration, out-licensing deal with Lilly for Alzheimer’s drug - whbl.com",
-      "source": "whbl.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTZubDBJekNaaGZFenZPcVd3ZEZLNlhyRTNjdXl1YW9tT1pjYlkxajhUcGFsYndYREJfOVBNMTR4LWpQZ0RiNkRZUldXRWEzWjdxdlg5WENLbW13a0lMQjRkU0ZoQzVMay1jMGlQQkZ1ck55bGduNDJiSUNqTTVUUnBmTWMxbnNQOHRwSGNBVjJZQ01PMXE3bVRFdkpmQzVpZnc1SmtCQUdEVUE?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "Deepening Ties: Why China is Becoming Big Pharma's Most Essential R&D Partner - Pharmaceutical Executive",
-      "source": "Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2t6WnBtVHhjcmZtcVVuMlNocFNGb29tVnlybHlHZGNwV09pNGZfSXhRM3pDVUZnelVTRTZ5UkJmQk95OFEwb0lMZVJWSmlkamhrM0pTMk9iWXlReGJnY01qX1V4V2hHbzI4MW13dF9LWkcwZEM5cUpadTBmeTM1YlRtUUowWFBfOW8zNlhMUklscFRibDdFa3MwUXZjbUZkUjZF?oc=5",
-      "type": "Partnership",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "GSK boosts cancer pipeline with $11B Nuvalent buyout",
-      "source": "",
-      "link": "https://www.biopharmadive.com/news/gsk-nuvalent-11B-dollar-acquisition-alk-ros1/822340/",
-      "type": "M&A",
-      "value": "$11B",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "GSK boosts cancer pipeline with $11B Nuvalent buyout - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSllqeWZRQjFtY1R1RGRGa0V4QVZlM21lMjAxN1lfeG42WHVtNXdreHVSTjF0VHpjR3pYZkx2RktzRU9ISHpackZhVUw2T2dDMU81aGdQUlhOcDEtS0R0RGFfU1pkdHZJcFpKMmNWRWw5QV82Tm50RTNZT3hfSnM0aVB6MjlmQllPeFpqUXVnTmg?oc=5",
-      "type": "M&A",
-      "value": "$11B",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "GSK boosts cancer portfolio with $10.6 billion Nuvalent takeover - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHFPVWp5ckQtdGRRYXFDSU1kMER6VlRhaC1tTkNzd0dBbWY5WmxZbFdQaG5fY3VVSFJtLWFvb3BPckoxbndhcGd6ZlNjbEI4akxBNkt0eVZucm1VVUpDSXlobHB5TUoxcTNUd2MzOHdmUE1KV1gwaEZBd05qMEdONkwxMzdlUWdyR3RJajVWMXNVMzd4bG03WlI4Um43V0NCbzJVb29RUzBrNzNQVWVkTUgxbl9TWWJ3YVRJS3VfUnEyWVMteEJEZDZR?oc=5",
-      "type": "M&A",
-      "value": "$10.6 billion",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-09",
-      "headline": "GSK to Buy Nuvalent for $10.6 Billion in Oncology Push - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFllSlpQSHk2bjZwbGlzQkl6aTdhQkVIQUNSVUZSY2xZQUFwRmdXZ0RxQWVfVWt6LWtVclJ4VFpPWGNQU1ljYk5uODJjQmxfOWVJR0lfMk1nQXFEalNDcWRybk9PMld3WDlueFQ2NnVuMldweFJXY2V1ME9WR1c1X1FRMnY3aGVEaEwzS1o4MFYxTGhCUlFfMFlEZVdxUQ?oc=5",
-      "type": "M&A",
-      "value": "$10.6 Billion",
       "area": "Oncology",
       "modality": "",
       "stage": ""
