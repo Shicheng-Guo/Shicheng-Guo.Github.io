@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T08:27:42+00:00",
+  "generated": "2026-07-19T08:58:19+00:00",
   "trials": [
     {
       "date": "2026-07-17",
@@ -299,6 +299,17 @@
       "moa": ""
     },
     {
+      "date": "2026-07-15",
+      "headline": "Veradermics’ Oral VDPHL01 Delivers Positive Study ‘207’ Phase 2 Clinical Trial Results in Female Pattern Hair Loss Ahead of Upcoming Phase 2/3 Study ‘306’ Readout - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzdDa3NVREFmeHZhY2Y2SlJrUkxKYjBacTBKNGdrdDRibzJqRkRMeW5FRnJHSXhueWJTeEJwYmpQck1WWER5dTRSV195Zmc5YmhnZG9kUUNrcEdoUndfZUlIcFJfWUU0TEdRWmdBQ1NNcFUtNHl4MGZxcG1udk5YNjlkam1FcElpT2c4dThUbGpDNU83NDRtZWZRRzduc3hmSlZpcy13?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2/3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-07-14",
       "headline": "Mesoblast Completes Enrollment of 300 Patients in Rexlemestrocel-L Back Pain Trial - The Clinical Trial Vanguard",
       "source": "The Clinical Trial Vanguard",
@@ -538,6 +549,17 @@
       "phase": "",
       "significance": "",
       "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-13",
+      "headline": "Promising early results from Alzheimer's trial targeting tau - UCL | University College London",
+      "source": "UCL | University College London",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3JDR3BnazgyT3h2M0VaTkNoaFlSZ1M1X0FiNE56eTJTQVhuaWJ4V2JLc3VZcGFBZFJWRUp3OGZLeDc4aGRHcy1JaTFwMTdockFlMFZXemRtYnllbThJRVdIQm1LcXVreUNPMkZYZmx4NDB5bXZGZDNFOWs4N1hMR2l2WHhkdnM5RVV6R0ZVa3pEeEdn?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "tau",
       "moa": ""
     },
     {
@@ -1062,6 +1084,17 @@
       "headline": "Ionis’ eplontersen fails primary endpoint in heart disease trial By Investing.com - Investing.com Canada",
       "source": "Investing.com Canada",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMzJaR2xHWGxhQmFTa2ZlTEdyYTBGeHByOHZPMTBlZjR1MmJlcmwyaW5vbXNoMEFROWtyQ3VKeXU3WTVtX2pTNzROcm5yOWdHdHpyWEQtc0N2RjFPS1B3X1NJSEk2UVp0bmpwbExOUFJfN0ZBSmFSSVMyYzJKenpJYUFBQzhMWF9tWHllYXRKaTZscm9WRlpGeWNCNXRISkd2RjVJYTdsbkU1TXFGZnRSMkVYUkhsN05odlBHdFZkNm9jUQ?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-09",
+      "headline": "Ionis’ eplontersen fails primary endpoint in heart disease trial By Investing.com - Investing.com India",
+      "source": "Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX00wX1pOTGpUMTZQOXA4T2wzUDhMUkVJR3owRFZVYzFINU5sR1NlTEpCU01wRGNGd0tPa290MFd0WnlhVk54NkJMZWdQOW1zQkRVeUhOMXdvZ21ab3BsSmR4WGxwWlhJZE1GTFVpbHpyU3M2bGVrY3JNRzAwazJsVGVrR0lyTGEzRDBlQVJPd3ZMQ3ZVR1JEaTZXNjBKbGpVbk85OWliUjBkZ2dzb25QbFVJVzJwN3F2OS1KWXgwNDl0UQ?oc=5",
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
@@ -2049,14 +2082,25 @@
     },
     {
       "date": "2026-06-23",
-      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - The American Journal of Managed Care® (AJMC®)",
-      "source": "The American Journal of Managed Care® (AJMC®)",
+      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3JpckpzYXJLRWV2aGlrekcxOXlZeW1MN3pXWUhzSk8zR0F1YmdaRV9CSDZ6dF80S2VZTWVGQ1U4aGJHY3NuTURrd3RWOFlNMEFmckotOE9rYkhZTnZfLWxTQUxJM2RRSFlyYlgxaDRSMGR2VEdFcXZveGJJZFRrUG1md2VSMEN5Y2NUTFVVTUp2RDliV0xiNklET1VuNnpEV0Eyc25sNFV5MDUyeWc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": "ADC"
+    },
+    {
+      "date": "2026-06-23",
+      "headline": "GondolaBio reports positive data from Phase IIa trial of PORT-77 - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmxuNzlrV3ViSnZZS1dqSVlORGZrRk5EczZPTS1vOF9XTlBQLTB6dlN0S0JOLXlSOC1PRkRMN0c2cmZ3bFFCZFRyV2ZROC1yMUZvT2xLeXVPV2tDMWRBVFJFV1h1SzA3dHdIN3ZGTGVCT09VLVFjNjN6VzJERy0ydW9mOWpwU0k?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
     },
     {
       "date": "2026-06-22",
@@ -2701,50 +2745,6 @@
       "headline": "Novocure’s glioblastoma trial fails primary endpoint By Investing.com - Investing.com South Africa",
       "source": "Investing.com South Africa",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnpLdU41LTJfRUxNdzgxUHRxc3FfZnVacW1vdWlGMldSbmlhVHlQTEJSS0w0aW9hT2x1YzMwak9QTlQ1LXR0M183cTRhSHlGS3JDaF9UZjQ1Rld2Zzl0bWRQd0k5d3k2QkpfdFlQZVJjZThUdURiNGFOTndaMEdXSTRlTFpLSFAxeUNLd1hBVzhBSTZJWklpbTFLXzRPZDBiLVNKWm1XZnk0UmRLNU5qMFhB?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Novocure Announces Topline Phase 3 TRIDENT Trial Data for TTFields Therapy in Newly Diagnosed Glioblastoma Patients – Minichart - Minichart",
-      "source": "Minichart",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUEhoZ0t6OUNMSkhWOU11OXY2TWFqNzNqcXVYZFlLdkZVcHNmWWowNHF5cmJDRzl1QUF2a1NlQlpvUkxiYTAzUGZsNjFhYzZnUzBpNkpkbmZ5OHZhQ2pua3RVNm42b0lhelNHc3EwU3ZiSjljS3dOVFZBS1dRWWhZVmJxNE43dS05ajNyLXltR1JEVHFSRlo0LVZVSl9COXpIM0dVVGJYOTBfQXdRT3dlbmJVR2NJc1ozbmJSX2tKTTZ2Q1k4YndFNmFRcVV2OXZDNk5tSFgydFZ5WTl2TDJmLVowOTctaF9sTGpUZw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Novocure’s glioblastoma trial fails primary endpoint By Investing.com - Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZF9XMjVqNjlybUJYU0tOclZGRzJ3TUtDb3NlNkFJeXZmaUJGRlFlWHJqTHcwcU1QeGwxYnk0NTdZOENhTDFQdmdoVGhHaUVKZ3lKcUVNYU55ZUZLbWtzM2Rob0k1ZkRMMnJRQ3VEOXZSMWkxZ2l0dkFpS3pZV3o2MTZWcXZZa0xLTnpnSjlvZndpbVVadE1MSTZXVFJrSi1id2VaXy1GaGRQN2l0RElmNmln?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Novocure’s glioblastoma trial fails primary endpoint - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnBvMXVDVWFKajlpSGM0bHV1ZmpGMXpySzZKXzZDRWpmbTJkbl81QTIxUnZhVkh0YW5uN1l2SGpDNVRFUVFuRlBPOVdBVWRodmR0bzBISWFqTGRyQVNRWkhxbkhmcFhJMDR5ZFozV3E3M2ZjT2pGMTh5aE5oeVVlVnlMZFEwQmhJbmxuNjNGQzJ0TXhUWXpfWDRuSEZjWXF1YVRZbVl6bE1VelRa?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Novocure Fails to Meet Endpoint in Trident Trial - Medical Device and Diagnostic industry",
-      "source": "Medical Device and Diagnostic industry",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTdaVDJrLS1yOWlVdVVoQ0I1YThkNWo1YVJaN0ZMWk1zR21TS2YzRjRQb1VMbjJfZXoyMzVsYmlVS0Jva3UxQkhUcngwcEt1OUFKdzFSMlJUSU10R3VDT2JyUXdYMzdDSUFPRk9Ud2haM0ROSlFvdzB2cWphQmhDWDM5bGp0b2kweEdDWFFzRnpjdw?oc=5",
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
