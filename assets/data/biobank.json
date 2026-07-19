@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T09:12:23+00:00",
+  "generated": "2026-07-19T09:31:33+00:00",
   "items": [
     {
       "date": "2026-07-15",
@@ -115,13 +115,6 @@
     },
     {
       "date": "2026-07-02",
-      "headline": "ZAWYA: Abu Dhabi Biobank and Bascom Palmer Eye Institute partner to establish the Middle East's first Eye Bank in Abu Dhabi - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPb1Vld2wwS2pHZmhVT2N1OW8wUWM2cWxXM1BmOWd0VjNiZjdQdFE3MGxOVVd3TUo5eHlNWlFxNFFSeFZyTm4yRFlWbjlaTHA0ejdPUW5tTlFMU2VCNGhKNmhIUkYzNURoQnhtYkt1V0tPaFdFY1pTNHc2TVhneU04dTQwUGp0VmdNZktGcWI3Tlk5bG5iOVYyUXFIbHVyOTRQRUUzbVNpTUJMb0dMM3NtUjRpT0VERmNKV2I0NERlLUZseGMxa1U1bGNRU1h4ZzZQQ3RaaU1tbzNIUkVhUHRsWFM0enZ2M3hMejN2NEI3Qjg0WXZCWDBtU1RhVnpwMXRjUFZ3U1dyTHZ6VFhhZGhYT3RJZm1oSUFLRzY2Sm5raUprNVp5?oc=5",
-      "category": "Partnership"
-    },
-    {
-      "date": "2026-07-02",
       "headline": "Abu Dhabi Biobank, Bascom Palmer Eye Institute partner to establish Middle East's first Eye Bank in Abu Dhabi - TradingView",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdTZjY2NDMVg3eGRTZWNCcjRQWmU1R0dWb2ZsMW9vWXpjb2tHZXIxTVJsSlJiR3RtU1J6blhBSE51Y1UtUW5qV2hYcE0zVGZIeU16VG5QZVFBTW5CMHRyTWF6M19ZU1pDWUxWVDhPVW1NMUl1aUJCazUyYUd4dEo4aEowdU9GWnlDRTVCMmNqWlk4WmNXaW1HSUtMRnplSk9kbW5xNFctUWVtUWxvZ0FUWF9zeUo1Y1hyTjZsbjBOSUV2VDhyY29oYkgzQk9lc1FNS29iaTcxOTloN0Frb0ppWk1CdFdsWEpRaVNTa0JNS1FkNkJzdEJFRzFnNmVPcEZZVGsxUUdnRExVLUNBLUtwWU1n?oc=5",
@@ -161,6 +154,13 @@
       "source": "Healthcare IT News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUVTdDYxeHZCSzVuUXpRTmMtbHR0WU5hclN4bldXdmpkUmdzQTkwT0I1QTVSZW1oeFpyUGV1VGFBMi16VG45bjFHZ3RDWS1rSFBzekg3WlFmSENjaUxzdHZoU1JXYmVPOXlzWWZMR0JCMHc4VTJWQVRrTEJqZDRQSDQwaEd1QTRoVUcxSUo3emJVOFktMjBDZjY5ZWJXd05pY2d3?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-07-01",
+      "headline": "ZAWYA: Abu Dhabi Biobank and Bascom Palmer Eye Institute partner to establish the Middle East's first Eye Bank in Abu Dhabi - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPb1Vld2wwS2pHZmhVT2N1OW8wUWM2cWxXM1BmOWd0VjNiZjdQdFE3MGxOVVd3TUo5eHlNWlFxNFFSeFZyTm4yRFlWbjlaTHA0ejdPUW5tTlFMU2VCNGhKNmhIUkYzNURoQnhtYkt1V0tPaFdFY1pTNHc2TVhneU04dTQwUGp0VmdNZktGcWI3Tlk5bG5iOVYyUXFIbHVyOTRQRUUzbVNpTUJMb0dMM3NtUjRpT0VERmNKV2I0NERlLUZseGMxa1U1bGNRU1h4ZzZQQ3RaaU1tbzNIUkVhUHRsWFM0enZ2M3hMejN2NEI3Qjg0WXZCWDBtU1RhVnpwMXRjUFZ3U1dyTHZ6VFhhZGhYT3RJZm1oSUFLRzY2Sm5raUprNVp5?oc=5",
+      "category": "Partnership"
     },
     {
       "date": "2026-06-30",
@@ -626,8 +626,8 @@
     },
     {
       "date": "2026-05-06",
-      "headline": "Abu Dhabi Biobank, Human Life CORD Japan to advance umbilical cord–derived therapies in UAE - ZAWYA",
-      "source": "ZAWYA",
+      "headline": "Abu Dhabi Biobank, Human Life CORD Japan to advance umbilical cord–derived therapies in UAE - Zawya",
+      "source": "Zawya",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFdNZGdSRVh5VFYyMndfY0M4bkdGQ0U2NTVRY0RfcFBHUnJSSUZYU0tZS05yMlRnclR0MlFEaXhQZXJVb3RDSzJvdUNGREVTN1FHR29sdHJxT0I1NHRldkFzaXBZOGxOVlVZQ251Z3h3WElpYUtObnh6VVR5RUJLa05ORlRuUmpmUjNQRTlUNnNLV3NlRFlKUlk5bEowNDU5ZjZqVmlUOGZqUlphRjVfSlRVUlNwY00xajI1ak5EeEFnd2c3c3VacHNSMUtlT1FGVUprUC1Gclc1bGJ3N05WMlB3MUJaaHExaXE0MF9R?oc=5",
       "category": "News"
     },
