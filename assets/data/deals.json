@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T08:06:10+00:00",
+  "generated": "2026-07-19T08:31:25+00:00",
   "deals": [
     {
       "date": "2026-07-18",
@@ -9,6 +9,17 @@
       "type": "M&A",
       "value": "",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-18",
+      "headline": "What Does Servier's $2.5 Billion Acquisition Mean for Day One Biopharmaceuticals - Kavout | AI",
+      "source": "Kavout | AI",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTUxRkxBbW9xaHg3SlN2MVByUW0tcmtpTmRFdTViampReVljYTNSSnNMOVZFSllPTE91MGZVZ0lraEhWR2FOV2RiMm1TRTQ1YVFJeHFWSU9BWkVTMEFRRG9oTlQ2R1pMWmREaUlfdXdFR0lGNVN4TGI5NW5hUmVHak5Vb3hvc3pISHdrTGxJRDc2RW1zNDZtMmRMYi1RM2h5dXdfdE1OaktPVUM2VTl4VjNBelo?oc=5",
+      "type": "M&A",
+      "value": "$2.5 Billion",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -44,6 +55,17 @@
       "area": "",
       "modality": "",
       "stage": "Phase 3"
+    },
+    {
+      "date": "2026-07-17",
+      "headline": "AtaiBeckley acquisition highlights growing Big Pharma interest in psychedelics - Proactive financial news",
+      "source": "Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObkdtVmRxTGJFRkliM0xCQnhNazdRd0RBRHVEQktZN3k5eWdFbnZES1E5SG5wRjBpQU9XMjF1UW1BUTlUa3p2Z0R3UXBCUk51SDQwVHBLY1Z4WVdsOFBNY1FaUjRWYXVoNWJlWFQ0ZXpfU0w0dGdqekhQNlBXbnhKZnU2U3lUYUxrTnVySEY5SkpmQzlkVW52RzJ6M1hrbW9sRXNENmhkc1Q0X3BqLVZobks3U1FCQm5YNExmRXAwOVBhTGV4QTNvX2tRTDRqV1ZIYjNaNmhNeFg4eG4tN1pfR0JkMA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
     },
     {
       "date": "2026-07-16",
@@ -86,17 +108,6 @@
       "type": "M&A",
       "value": "$4.1B",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-16",
-      "headline": "What Does Servier's $2.5 Billion Acquisition Mean for Day One Biopharmaceuticals - Kavout | AI",
-      "source": "Kavout | AI",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTUxRkxBbW9xaHg3SlN2MVByUW0tcmtpTmRFdTViampReVljYTNSSnNMOVZFSllPTE91MGZVZ0lraEhWR2FOV2RiMm1TRTQ1YVFJeHFWSU9BWkVTMEFRRG9oTlQ2R1pMWmREaUlfdXdFR0lGNVN4TGI5NW5hUmVHak5Vb3hvc3pISHdrTGxJRDc2RW1zNDZtMmRMYi1RM2h5dXdfdE1OaktPVUM2VTl4VjNBelo?oc=5",
-      "type": "M&A",
-      "value": "$2.5 Billion",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -1752,12 +1763,12 @@
     },
     {
       "date": "2026-06-23",
-      "headline": "Merck KGaA pledges $50M to new biotech with eye to acquisition - Fierce Biotech",
+      "headline": "Merck KGaA pledges $50M to build new cardio biotech with eye to later acquisition - Fierce Biotech",
       "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdl95WHVhMWMzamVLbzU4Vng5TnEzY0EwLVNvTlVvZnNPN1hjVWNMdjRUbmJLajU2TE15ZzhpSi1JbVJBWndUT2NIZ1duNnhsZVJvbHZZTTV2SjFYc0pfcWViNlhsQ2tnaTFvZHVMOVFYR0ZHRGQ1a3FRZXhqakFEZ0pYeFlTNjliSHlyZXVxSVBnclR6MzMzWUxIamprYVdBLXRpTEs4am1WMDQ?oc=5",
       "type": "M&A",
       "value": "$50M",
-      "area": "",
+      "area": "Cardiovascular",
       "modality": "",
       "stage": ""
     },
@@ -2738,17 +2749,6 @@
       "value": "$75M",
       "area": "Neurology",
       "modality": "ASO / oligo",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-10",
-      "headline": "Chemist Warehouse owner eyes huge international takeover: 'No certainty' - Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0RrcUZwOURqUEFkOGZUTWlHMFhRbmoxeWgwcWlRRjZvZWRTNm5QMmJqSVlBQWZCR0dsZE1sYnFMdDh0cWFDVjFDWW9SbGFRUnpySnJlZTVITWFxdUhxdldEcEtqaVVCakhmR24xUllocTNCR25mcFcxM1N1YVlDRHRQTHc2YktGTjYtSlZ2elhkQ0hqLV8xcTBMX1FoSEFOMHRNaWRJS05Ra2d4azdBT240WXpMMTB3U2c?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
       "stage": ""
     }
   ]
