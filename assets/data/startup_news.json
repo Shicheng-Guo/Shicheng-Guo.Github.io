@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T09:59:06+00:00",
+  "generated": "2026-07-20T11:09:21+00:00",
   "items": [
     {
       "date": "2026-07-17",
@@ -142,6 +142,13 @@
       "category": "Launch"
     },
     {
+      "date": "2026-07-15",
+      "headline": "OpenAI researcher Miles Wang departs to launch $2B AI drug discovery startup - MSN",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR2FZc3FHN1pqMkMxOFpWMHUzR2k3V3hBX3A4ek1vZ1VoNXJRRmc3eXozUmR6cXVOcERMaEctNXNqbC1aaE1KdXBsdk5McWJuX2Q2dGpydmIyWnlKN1VFZFdvMHg4SmM5cXBiME5CUVVsOEVYTXg4RnIzR2wyT2FmZG81NEhMR3Y0dGZRbkYxUlJkc2htbHdrams1dnN5MFlsMTc5SUhoMDFINXRpSDBNOWFNNEZPWUg4bXdVZHptRnA3QQ?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2026-07-14",
       "headline": "European biotech chases record VC funding - Yahoo! Finance Canada",
       "source": "Yahoo! Finance Canada",
@@ -210,6 +217,13 @@
       "source": "Pluang",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnNmQ3FvdUIxLW1ENEloWkN4c0VQUE5MYXpEZHNCRWI3YlRKeDhleWpreUdfMVN1dUNEVlZhUVpvVVN0cl91UDFmUmdLbzhJUnhqNEdVQWVmZ3F4UUZ0bDlwVU12UnlyRW5XMTdodmVERGRBM1VKQUtJQ1kydURQbmRqM3E1aENSNmRpRzRCR3N2clRycnJxOFlaOF9vdUIwQThCNFFGcw?oc=5",
       "category": "Launch"
+    },
+    {
+      "date": "2026-07-14",
+      "headline": "Biotech companies tout benefits of AI-assisted drug development - BioXconomy",
+      "source": "BioXconomy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUF1S19YMDBNeFQzRkVHTHNZb3BWREJaenFvN1lFZUg0UGdhazV2ekhBWjN3RWlNbHg3c01KSzdzdnJoclVnb3E5aEhyY2hrNlJfRkpKYUE3ckpGSUc4WUQyU3Q0TWw1TDlIRlVwSXJ3OXowb0pfcFdfZjd5QUE0Q2hKNlNwUkZ4dWJ3aXgtMXNpa2dIdG92cjdaY3phQmVVb0pZ?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-07-13",
@@ -399,6 +413,13 @@
       "source": "BioSpace",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGozckdqck1zNzJNTi1pcnRWSW11VWg3S1Zfd0VoWW9JVS1xYVYydnNCcFVveFNhdzZQV0JhZ00wd0doQi1uVG9TNFlvVlZ6M2lQWkZONlJtbHZ1QWJKM1JmTE44ekNKSXNrQ0JJX0ZwWTRCVzdadXpwQzZtaEEya1VuazZDUmZhb2VRV29sYmdYcUJVa0RmT0hIaVhOVkUta3hVNjNUdzgtOFE?oc=5",
       "category": "Partnership"
+    },
+    {
+      "date": "2026-06-22",
+      "headline": "Singapore AI biotech startup ChemT raises $5m - Tech in Asia",
+      "source": "Tech in Asia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1RKNzhBSjFTNC1qQXp1c1MwUGdHZmNoYlpiTURzNjI1eE96ZXgtNk0tU01Qbkc1ZHluMk0tVlY1Vmt3c2phVEI1MDBIVEJSSzVUTkhUOGc1djAwTmhTc1htVm9va00wc1M0Rlp2S2Q0b1B5amc3b3h1dEZ5ZG1ndGtR?oc=5",
+      "category": "Funding"
     },
     {
       "date": "2026-06-19",
@@ -639,6 +660,13 @@
       "category": "Funding"
     },
     {
+      "date": "2026-06-03",
+      "headline": "Ingenix raises €13m to scale AI drug development engine - European Biotechnology Magazine",
+      "source": "European Biotechnology Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0plRmE3WmN4RERPZ21iQzdEVFE2bDhTMnpTQU5rQVYyRGhDM05sWEpTRk0xNjhYQjExVGxrV1U0RlhFT3lLdmQtNFcwSlY4VXRtc0trTnFBN0lHd3lWMTFlX1VXcllXM1ppdUQ0TXF2RjNuQldGMkoxbEJwNkxRMlBEc1hCU01NeDV3Y0hNY05kR2o5cWZ2UW5LSDJnYkRQc3RlQWdB?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-06-02",
       "headline": "New heights for NewLimit as anti-aging biotech nabs $435M to rejuvenate old cells - Fierce Biotech",
       "source": "Fierce Biotech",
@@ -650,6 +678,13 @@
       "headline": "Newly launched St. Louis biotech startup raises $6M, plans to double team - The Business Journals",
       "source": "The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ST1JrLXl6RExpMEhBTTZqM3l4NmNWY01qdUp3NFJaVENMVTQxTnJiSWs5bjBrMERibkNsUWdLcjc3aEJpRGtGX3dOdHFSREs3XzZnU3FRT2x0SjZsZU51cFJTd3RWNUZ5SkMweFhPYzdfdXFid0dMNA?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-06-02",
+      "headline": "Waypoint Bio Raises $20M to Advance AI-Designed Cell Therapies With Clinical Trials in China - citybiz",
+      "source": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUXU0bWFpcWxFMzhZVnhxU0JjZkpnblJsYTFYZ0lRWjFDMno5M3ZETGlQZ3hWRGRldWRNMWMzZ1pWZFVqc2ZrUXE0M2E4MXFJNmlsV2h6R3lpTTV4ajcweUdGSUYzRERLVDdyNWlLNVA1YnBUTk10OEFVNHY2aGR6SU5PcnlDRDNCLVJnVVBnU3NZbWFScDFqb1o2dGZaak1WNXdPeVNUbGV4R1ZTWE1mYUJvTjItcmhvTzhJc1l5N3pYckdUYlRVcFF3?oc=5",
       "category": "Funding"
     },
     {
@@ -1715,41 +1750,6 @@
       "source": "chinadailyhk",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrem9WSnhxUFFxX2RiUlRjcm85c3pkem9fSTYxUWwxLVBjaEpxeXhzbEpSeThsNWFsSlNJLUNMdXVHcDVqRVRpVFdlbVJ5WTR4RnVEbURVZm56UQ?oc=5",
       "category": "Breakthrough"
-    },
-    {
-      "date": "2026-03-11",
-      "headline": "Decoding DNA with AI: Living Models emerges from stealth with $7M - Tech.eu",
-      "source": "Tech.eu",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLW5lWk9GTG9YUHN2VVNyMDQ2cWZCRENqWG1ZbE9VcHpfTko3cHRmdlNpT1J6NUVVazd6eXJRajZVdXdONTd6clJNTW5FZmNoWVRsLThaS0JxcEt4X0xLU29GMnhkS0owMmtfZFBGVHhTQW9MOFg4Y0lhOE9UX0dGMG95X0F4Vk5tWVg2d24yei1DWFE1bFE?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-03-11",
-      "headline": "New nonprofit launches with at least $500 million to modernize scientific process for AI era - STAT",
-      "source": "STAT",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KdWRyT0RRWnBCSERvbTFHOTg3UWxQVVlnRmtJbkdyNTFCQ3VDTzlHT3VDZ0Z3MENYMW9kSjkyOUlhTGlULXlSTTVRR1V1MzQ3NG83VXBHTU9hWHB6M3NRRkxHVmR0WE5fajJ2NVBxSWtTUzdZTGhoenh2dw?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-03-11",
-      "headline": "BioNTech Founding Couple to Step Down to Launch New Biotech Venture - eHealth Magazine",
-      "source": "eHealth Magazine",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblVYTHdPWExMRjFEc2pjRGJ0am5FbW9OM3BsQ3NSSGFOS0VST0kwYWgyc250aklIV1hjTHJhYVl5dkttd2FpeDVKR08tZDRtUlJzS1ZqWk0tckxtdkdQTVk5ZUNyR2FCVnhELUR1OFFWa2JfSlFqVkR3LW1makJMR3l3VGRCeG5sS3M3eG1tUDlXbWtPZ2prcDZkR1FwbFFqMmVyVFpBa25GSFhm?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-03-10",
-      "headline": "AI-Focused Fund Breakout Raises $114M To Support Early-Stage Biotechs - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1dSOFQtT2hVMnFidzlUMnBRcWlsdFVKdGxRenowSER5dHV2Njl5OEpfTjkydmhCRzI2SFBXVGs0TnVFem9MZ3RwMDlRN3UwWGc0bzZFWEZGUmdHTUR4ZzFpZlczTER0SlRRa1pZOVdoWEtNMjlxRk1vMzk0Umt2M01SWEdMQW1YUGVxQXQ3R2xmaEsyR1lkdjZqZHpUUFhqN29KYQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-03-10",
-      "headline": "Linnaeus Therapeutics raises $4.5M to launch melanoma drug trial - Technical.ly",
-      "source": "Technical.ly",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXAycnM1NGpEb0pqNHVtejJKN2NORno0TjJieUUwcXRBbTBKU2RYNGtaQ281aml2bU1rNzk0aTUyR0FCcFh2Wkd0NVBLRkY5azBjeUdKaDJNVFRudEJyQWFXbDVhT1MzY0trbkN0OHk3cmlfbFA4TTlPZ040Y3o1TUcyRUY3WnpYQXhFbVFmNW9aZw?oc=5",
-      "category": "Funding"
     }
   ]
 }
