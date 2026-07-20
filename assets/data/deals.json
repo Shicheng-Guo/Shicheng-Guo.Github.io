@@ -1,6 +1,39 @@
 {
-  "generated": "2026-07-19T08:31:25+00:00",
+  "generated": "2026-07-20T09:32:07+00:00",
   "deals": [
+    {
+      "date": "2026-07-20",
+      "headline": "Samsung Biologics to buy PolyPeptide for $1.9 bn in Korea’s biggest pharma deal - KED Global",
+      "source": "KED Global",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IVUw5aGdOT011Qzk4clF0X0hhR19WeXFoNGtxQVRJY0Yxb182SExFeEYzV0tUZEF4bXZfSFZXVzBCblNxdFdjS3A4UUZnZmhjQjZ0TlZkX091emk5UzV5RU5fdFNnVDR1dFBXLUFmUHMyX1BZRFM1dV9JQQ?oc=5",
+      "type": "M&A",
+      "value": "$1.9 bn",
+      "area": "",
+      "modality": "Peptide",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-20",
+      "headline": "Vertex Pharmaceuticals Just Made a $10 Billion Acquisition Worth Watching - The Motley Fool",
+      "source": "The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2MwQmd0WnhuUGtxX1pCclQ1bUo1NjlHS0V4VmloOFF1SnhpaHI0QURqTDV0eFhsMGQ2QkVnUDludmJlNVJnalF2SHNrT3A4SW5DeFcyOExkaklEd3d6YnlpVzJEdWs5S1NzM1hsSEVrS2pSbGk5c1JXS19tR1JkbFZteU8ydGVNdzVYekdxWE9NTzNQbVowag?oc=5",
+      "type": "M&A",
+      "value": "$10 Billion",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-20",
+      "headline": "Samsung Biologics Shares Slip Early After 2.7 Trillion Won Acquisition - Seoul Economic Daily",
+      "source": "Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd29uUFpTVGJEUFN3Z21FNFdKZ2V4cjNkMFNxcEFaWWI2YUZUVGR3Y1h5b2xMc0xWR1NvQnV3dUNQb1E2a2phQmRlT0JmY01MTFZ6dGJWRXp3UVFPSGdQbFE1X1FTNk03bXkyeGNBZlVyVl81MVFhVU83SWZlS09fSm91WXJ5MjhWVG5ScnBINGhfQ1RqT3JqRXNZWHhuTGdE?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-07-18",
       "headline": "Anupam Rasayan Acquires 100% Stake In Mates Visa As PAC For Bliss GVS Acquisition - Sahi",
@@ -195,6 +228,28 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2Z4dWs4Yms1QzVzLV85MTA4V0oxOXdOUUpZVTRzU3ZYekRYN0RUNmk3VjRKeHJjT1NiNHAzZVV2dUV5VUZjOThRdlMxNDVrNDEwbU1kQUZtZzhEN0N3ZHBjSlN3d01ZWGhTMXpCZ0dzY1FFcW1JTXlkaDh4RWxSWkpobm1DQ1RqS05RNldHUWRNOExFMG8tdGhLYVNNTEFnVjJKUnZFRzBocERFN1VueWp5UXUzNVMtanRVX0JB?oc=5",
       "type": "Deal",
       "value": "$2.8B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Angelini Pharma completes $4.1 billion Catalyst acquisition By Investing.com - Investing.com Australia",
+      "source": "Investing.com Australia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWTg2aHRJNUtMeDVUUTQzRXlBN2xGTDFybjdJWDZMcDEtWENZTjhDS2kzd2JsaG90Q01JM2pRRy1CMVRJck13OXdPOGdIbVpVcDV4dS1ra3A1bHdMdU5sZnR5S1ZkclVsMFhlY2lZTnlZWE1NQ1BBYTBVZGtuaHliZnJaLUNxNFdiaFIxbmxUaXRWSERqdTRJSFMyNVM1NlQ0Z3VGcXBwZ1NhWFJJdU9USHpmQU5aS2pKTlpCNV83RGZGMkl3aE9GczFR?oc=5",
+      "type": "M&A",
+      "value": "$4.1 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Angelini Pharma completes $4.1 billion Catalyst acquisition By Investing.com - Investing.com UK",
+      "source": "Investing.com UK",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWFLdS1FenhqdDlmYlByX1JidFZkanZsZlVCNUZobktNYjAwcWRCU0NFeGg1aFZjUmc4ZEF6SUQydDIwMFJnMF9xUGctYklYR1lVa01yRmkxX0hOZ3JIaWVUelpod1VaNkhubFRXdVY0a0Nia1pHbThYeTVOOUxTUEdKOWM1TmVaMWNmSTFvVXhzWHluVC1aWFpGZHpLVjA4MUEtTHFKR284N3lFSXNGbWx2VUt1QUpCdWc?oc=5",
+      "type": "M&A",
+      "value": "$4.1 billion",
       "area": "",
       "modality": "",
       "stage": ""
@@ -648,6 +703,17 @@
       "value": "$10 billion",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-07",
+      "headline": "VERAXA Biotech (NASDAQ: VRXA) Shareholders Should Watch Novartis Latest $1.5B ADC Acquisition - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUjdqYVNGNVdQZFpBeExjUUx2TnpsN1BDYXFNWE9jX0g0Z2xwOG1NYzA1SDh3VnFBRGw1WmVISGI0b3dJcG9yU05USF9jSmF1MmRsVElGd082N1AyS2pXRHJsZENTNDBQRVV0UjBndnR3LXdRbS1TR0N1YTc3ZUlUNHQyT0VTYUtMU3VVanQzVXQxb19uYm9Nc21ETXJXUHFkLS1MZjFUNnF4QUQ0bkZMdk82STRERjJPVmZ5T2JQSjR4RFNBVTR6WFdqRk9yRXdzVnpaWUZZbng5ZkVLMEVXVkNEYlNxck1OYVQ1LXVFN2dfbU8yNlpPQjNnQjF5bFNKMFVn?oc=5",
+      "type": "M&A",
+      "value": "$1.5B",
+      "area": "",
+      "modality": "ADC",
       "stage": ""
     },
     {
@@ -2683,72 +2749,6 @@
       "value": "$10.6 Billion",
       "area": "Oncology",
       "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-10",
-      "headline": "J&J sets DACs on fire with $1bn acquisition of Firefly Bio - BioXconomy",
-      "source": "BioXconomy",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEVvR3pfNl83RFYxSEp5NEhMdVlyNUxMWGZsN0lrY0d1MzNfVEl3NTJNZWlINXpvNkduU3pZQjJMRi04b0YydHpnNHhWeTFWRS1CWXVoUkR5WUV2dTZ6NmlBOUJ2NDNseEFKaGVQMi1SQXJLUTloUFhLTHRVQVl6WHdtRlJmRGp5MkQ1MUw3Y1J4SmduOGM1VmFjSQ?oc=5",
-      "type": "M&A",
-      "value": "$1bn",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-10",
-      "headline": "Guard Therapeutics has entered into a conditional agreement for a reverse takeover with Disruptive Pharma - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNDNpNzlfbkJUNzhhcEVUUGpZZTI4anJvemtLYVZiNTFSOURUX3AyU1hMMFZWQm1nUll1ZEZRcGJIalVkcjAxRXNxTkd1SXVrclFFWjd6clJQTWhPaktBTE9sOFNSMHFJTzFKNDgtcmdQd3NJMU1iaWpyLVd6dEwzakpPcGlEU0JzZXdLVlByX3lXcHFGR3Q1b2F1WkxXYml6bUJ3dWV6UWlmOGtVSklTMks2ZHpkOFFGb2JfS2lUeXVaR2g1VU0yN05UTTdkXzhiRFJJWXM3NFJ3dUlKbmcteEhiQmdmVmVwSll1LTZCZzZFUXZNc096QUltaUFqNTN5?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-10",
-      "headline": "SBI Set to Join Global Lenders Backing Sun Pharma's USD 12 Billion Organon Acquisition - Medical Dialogues",
-      "source": "Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnVTc1dVdHJ5R3JjY1pqbTJ4ZmZjTkZBUXZrUlNDSE1QOC01OGYxTXJpaDgwY3h0cXI0czlZeWJCMWcxRWhtNmZZSFRZOGlyd1o1WktSbjdaZWVXeXRuM1lHRXB5dG0ydHJPTEZZbEVWZjdfRk83X2kyMEdZdFZYM2JMMllJZUNzTE5QbE0tMHcwOVBKVGhrcnpkRUVTWWM1VDNlTWdWZmFqdW5XLXZNdlN0aFpxLXBUTVNHMUR2RExmdkkxYkRvTDRLMEs2cHVNRDhDaWtNYkjSAd4BQVVfeXFMTnVCRVZqSURfdnFzQ0RJMkVqSXdHbWxKMm1zbXpYSkZtV245dlFWR3d0dkhmREp1RXVjMnVDcUtQUTE0YWlfdnhsYjJoN3NuaUdMTU1iUmd3c3NnZm1uQWFjTHRYQ205UmtRMUJEN3VNcEI4dDdNZW5BWjJRVFBDRHpCYjB0UWp0bjBBbXJYZDNJYjFYVmtWZkFCdVd1UDRCTVBfZFF3Vl9ZZUdIZW5HZnBBNTQ5T1JNX3prUXZ4U3hMRkdBdGQwQm51SmZZX2RfZG1CNnFBUG1MYi1FU3Nn?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-10",
-      "headline": "Aditxt and Ignite announce merger plans with strategic partner - Pharmaceutical Technology",
-      "source": "Pharmaceutical Technology",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPeXJGalpQMXZ6UDJCOGQ0TmdkT2JHMVNXcWZ0Z2lFUUtXTEVMbng1LWtEZGtYOGFNOHFCbndyNlpQY2h4eGY5WkJwQWdCYVNsVnFlUEZKeXY3SWE4dVhzUjZCUm5xaGxUVGVJR0dwY09TSUEtcElXcy1RUjlaVEk?oc=5",
-      "type": "Partnership",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-10",
-      "headline": "Novartis and Orionis strike second molecular glue deal for $40M upfront",
-      "source": "",
-      "link": "https://endpoints.news/novartis-and-orionis-strike-second-molecular-glue-deal-for-40m-upfront/",
-      "type": "Deal",
-      "value": "$40M",
-      "area": "",
-      "modality": "Protein degrader",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-10",
-      "headline": "Shattuck raises $75M; Servier inks neuro ASO pact with n-Lorem Foundation",
-      "source": "",
-      "link": "https://endpoints.news/shattuck-raises-75m-servier-inks-neuro-aso-pact-with-n-lorem-foundation/",
-      "type": "Financing",
-      "value": "$75M",
-      "area": "Neurology",
-      "modality": "ASO / oligo",
       "stage": ""
     }
   ]
