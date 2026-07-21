@@ -1,6 +1,39 @@
 {
-  "generated": "2026-07-20T09:46:21+00:00",
+  "generated": "2026-07-21T09:17:31+00:00",
   "trials": [
+    {
+      "date": "2026-07-21",
+      "headline": "Placebo surge derails Kolon TissueGene trial; FDA fate hinges on next test - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZS1rU3Q3VU04Yy10TmthbG1EdWhYTUpPOV9HdTZ2SU82b25LWGRBWjdJdXdEN0tSMXdvTWx2WTR5c295OG50cnVpd1l0eV9mZlpLVTRpQ0xLaEZUWENfYWI3bWdUbGxxRjBQeEN3N295TF9EenRmcmFmZmNDaWhncNIBlAFBVV95cUxPcWhodjNocGxJQTFwMFc3eUVSSk96b0Myam5pc292bW5JZzVyT2xrQ0ZmY1BOUDZXLXZiLUdEYzllX0ltNFRoMkVtTFZOY1MxUjVZNHZ1T1kyMFZ4UVZaVHBiRlFaMFRMQU9XU1RSRW9wSHFIQnl4UG5Ca3dLSkg2Ty1uQzk2ckczMVMzV2I0SEt0dVhn?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "Kolon TissueGene: \"TG-C U.S. Phase 3 Not a Failure... Investigating Unusually Strong Placebo Response\" (Comprehensive) - 아시아경제",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQRnNyeWZWS041ZGtGVjhvNmtsY2RMb29xMDF2d3BSTGR3WVZQU01Kd2JkX1FKTDlZUkNmM3pBck1HekNiRlR6TURwMnFhd0FDVHhubkdRXzRiYzdjZzJQckNsQUI?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "Kolon Group stocks plunge as TG-C phase 3 fails in US - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUF3TktDMDRvelppVGJRQ05yYVJsYjd6STQxWlhlUVZuVzM5eVhXQWhNTmROa092bEhwRkxPeHdtQnU2eDdKZUdnQXVCVXBSaXFxc3pmREN2NEJRTERzWkZMckV2a0hXcUFNOURzaXkxMTBaVHcxS0xYWHcxdEVTMtIBlAFBVV95cUxNbHh3N084b29ycExOV0hBLXNhVUs2WWJRZWU4ZllNQTRNbC1qcDY3ZlA5U3JHdlZ4X3lVUHZ6VThrRnVNdDBSelZqODRDNk9UZjdveXlrOEFMSTBTRXBLZnV2WndRaGlMOXhtVEFOeGVyM3JoN2VkSV9fdjRmN0JCRVMzc0ZqbEdGRnZUYldCODJsTjRj?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-07-20",
       "headline": "Kolon TissueGene misses efficacy in US phase 3, pursues FDA talks - CHOSUNBIZ - Chosunbiz",
@@ -32,6 +65,17 @@
       "phase": "",
       "significance": "Missed primary",
       "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-19",
+      "headline": "Weekly Rundown: Biogen pushes anti-tau drug into Phase 3 after endpoint miss - Drug Discovery News",
+      "source": "Drug Discovery News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFZLUWM2QUVtUU1vY0ZyZzVEUVZIbkpCVU9aMklzR25IXzhMQzFWb1oyczk3TkdnamVqd2NnZFdLc0kwa0h5R09nUFQxd3Rkc0R1eUI1VEs4MGVIU0lKazNJR0hzUE8yZ3ljZzB4QlYzSEw2QzJIREZ6enJGT3lvYW5NUlBSNlVseVNrb1JHVlRTeE14NGN0V2kzZmFlWmlRNGJYaW5sRzUtMnlOUl9NVUlUcExiZw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "tau",
       "moa": ""
     },
     {
@@ -1894,6 +1938,17 @@
       "moa": ""
     },
     {
+      "date": "2026-06-28",
+      "headline": "Phase 3 RECONNECT Trial: ZYN002 Fails to Meet Primary Endpoint in Fragile X Syndrome Population - Vera Health",
+      "source": "Vera Health",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTkhMdWFSbDdOLWpBRS1KRVZqdFJCanBKbG1tOEZuYjBVUUVLREV1Q0VrQ1hXWEc1OE1qTjJPS1BLWnFWck5TYnM0QQ?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-06-27",
       "headline": "Eli Lilly (LLY) Announces Positive Phase 3 Results for Jaypirca Combination in Relapsed CLL/SLL - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -2148,8 +2203,8 @@
     },
     {
       "date": "2026-06-23",
-      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
+      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - AJMC",
+      "source": "AJMC",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3JpckpzYXJLRWV2aGlrekcxOXlZeW1MN3pXWUhzSk8zR0F1YmdaRV9CSDZ6dF80S2VZTWVGQ1U4aGJHY3NuTURrd3RWOFlNMEFmckotOE9rYkhZTnZfLWxTQUxJM2RRSFlyYlgxaDRSMGR2VEdFcXZveGJJZFRrUG1md2VSMEN5Y2NUTFVVTUp2RDliV0xiNklET1VuNnpEV0Eyc25sNFV5MDUyeWc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2693,61 +2748,6 @@
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-19",
-      "headline": "Novocure Announces Topline Data from the Phase 3 TRIDENT Trial Evaluating Earlier Use of Tumor Treating Fields Therapy in Newly Diagnosed Glioblastoma - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNX092STZna09qSTFRMFlkUEdrWGpTdlM2LUFseWt4RW9KUXpQVEVld19ENldBdTlxRXNVTVlZekpQNFdndTFnSS11d1RnUHdvWXBUal9sTmNRTGZDbWZXZEFhOGM0TEpjSU5Zem5zVUYzMDBwbWVtTG1UM3lwaTVFVlUxTFV3M1pMdTlpUVpvNHJnY0t0ODRTYUlYS0Y4WDFJYVcyUWlybThuVDdMc2M1SVJMeEdlTVN0YllXUTR1NU1pTUN1bFgxb1ZsbEpqNV9CdHVQamJROHJjZUpVTzM3YU5sSUdjbFU2TEtRR2dWd2RjMUNiaVI4SzZVVU96NlhwcUtIbnczREhNQkFyaktSUHBLNmVZMDN1OHc?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-19",
-      "headline": "Elevar Begins Global Phase 2 Lirafugratinib Trial - Businesskorea",
-      "source": "Businesskorea",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ETmVhYnBDTjE4RVR5Z2dCTHVzR2dpbTc1WXZqNlpheFNSaVlpZFQ5eW5lamd4M00xbU1zS1NiYUlKSnhMcU4wWEx0R0JlQVdsYUEzV3ZhZXU1djVEX2dsSmw1OVRaSmVsbTZiQzVHbU5QUXBM?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-19",
-      "headline": "Insulet (PODD) Announces Positive Clinical Trial Results for Next-Generation Omnipod 6 AID System - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTW5MbG92dE9pdHh1QmdxSVNiU0F2RGlfVzVBbWJHenVaLVpXZWwxUUllSXBxSzEybjk2NUk4ekRBNzBfVmdvc3FHTXRXa0VPUDdNSHF5TllCNnhTQVo2RG4tQnJlTUR0WV9GSnJSeEF6Z1ZEdXdQelVDaEd4UnFLSXROZ0dzXzNkOC1Ld0tBbnlxcWxsSV9KNm9GQkNzenpva0NR?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Novocure Announces Topline Data from the Phase 3 TRIDENT Trial Evaluating Earlier Use of Tumor Treating Fields Therapy in Newly Diagnosed Glioblastoma - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdFlsR3gtMXpvVTY4YnlZOUtHYkpKZzJNaDl3Zncta0drNU8weko4cWtJaWxDMXFfczlqdEtHRFk1STBVamZ5WkJaMjUyb0llZDlsbGxteXF0ZXBpT1lpMzdWajdHNlBjZ3VrZGd2eHVGY1E5bFhPWlA3TEJRbHhJQmpKZnBHWmpEcDdMTkJDVVI1Sk1SZnZhczUzQzZ0OXptcUx6M0dYLXN2U3JGaVZCbFc2MHlWdEZ3NmM1dVRFdTdmMlN0U2FiTlRaMlNGNGVWbk5RUG5PTklPMzlFX1c4X2pWelc2bFlHN25zdHg0Z0Z0ck1ybFpuNTNFR2NaZ3p4RHJUbkVWVEJreTdwVmRlTXBQMllvbmFNU09HMmliYTMyUzV6RDcxeU9vNHFTMnBj?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "F2G and Shionogi Announce Positive Topline Results From Global Phase 3 OASIS Study Evaluating Oral Olorofim Versus AmBisome® Followed by Standard of Care in Patients With Invasive Aspergillosis - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQeVQyYVY2b3I2dlExRlNuakRKbjhaWEdja2ZjWmMySGVtYkxBWDVjVE1GTmlJNGpWd1VWb0puOVRsUkh0OElDdXpIWGtuU2RrMEQ5T0tBZ1JTZVdLX1FTU0VncjNzUjRSZURrTGd1UVNsdGpFVWlXcWZwR2o4Ti03MTVXOXotWTdQYzZYRWFVSEcyYlJUQk9hNjAtcVdHMno2V3ZQbmhVc2RMb2J4RWpNRGo2TWVSd3FidjljZC1KdmZKNEdoRnJLdEZfalhISkxWQXBUbUJpNGFrRFVHOGpBRzR2VHZnbURPTjN0OFFYckM2WGtHUkJyYUVpOTRRbi1IaEVpWkEzeVlkUlJsREY2OEVYcTlrSGlYeHB5VTM5UDg4TkZDX2JkSVdUeHJsV1lnbk5RY2IyV0hjMUEySkdRYmI5bGJwZlltTDJTb0NmT3lXa0lmZ0tqdWtiYjkxTU5wVzZxODlIa0g2SFVI?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
       "target": "",
       "moa": ""
     }
