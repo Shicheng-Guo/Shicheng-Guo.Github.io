@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-20T10:31:53+00:00",
+  "generated": "2026-07-21T10:08:22+00:00",
   "items": [
+    {
+      "date": "2026-07-20",
+      "headline": "UK Biobank accepts data security recommendations - Progress Educational Trust",
+      "source": "Progress Educational Trust",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzZyTDNnTTNTRVpnRU04YTdHZHRnOTlGcmxsSkNPemJic19DNXRpYS1EbXg0d19OaEdiUGpKQlEtUnhsX0U2WnFDQzlJbjBmRERSOEdma0lPNGMtN2VsMHFWQ1RLZGpmX1FwSlZKNHkyRXNnRGdLbWV0N0d3VkVIRHhUYw?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-07-15",
       "headline": "Researcher details US biobank's value as global resource in study of roots of disease, health - Phys.org",
@@ -553,6 +560,13 @@
       "source": "Technology Networks",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWG9pN0xSenBHMC02eHhCM1B3OXUwS01jUHUtTlhmQnZ0LUIxSVZESDFnTGZMU0tqRVBtSFpFU2dNNEdhR0g4YnpzMVdjN18xUk1iRVlTb2l0SXdsazNOVzR6ZnJCNDExMXdTdjRaS2VSamZjSW55ZEkyQnlMRmRleXhCZGFFUkM3SkdVSktvVV95Z29UVEZLTjRma0dkNEhYd3daQ21RTWphUWRENlU4NUhsdE03di1vY0I2SHBvU3JCTmFES0dEbnctaGdtS1BjVnNWVUJ3?oc=5",
       "category": "Technology"
+    },
+    {
+      "date": "2026-05-14",
+      "headline": "Association of Dietary Patterns and Genetic Risk With Cardiovascular Disease in UK Biobank Cancer Survivors - American Heart Association Journals",
+      "source": "American Heart Association Journals",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BZTBMZXpOU3lXYWNLVy1RTXpzVklXNzExNGVMOVpSSDNnRlVSY2pCSHYzWFc0TkxSUk4wcHlaeG91czNwNEUyUFBzM3hGTkhLQ3BaOFNhcEp3cE85WDNLdnJGbnJuZw?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-05-12",
@@ -2086,20 +2100,6 @@
       "source": "medRxiv",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53SzJpUlgyWlBTRVhGOGVKcmRzUTAyZXRmNzVOMjhUR21kUUN3YTVzTnFnSHNqRlZvQ3dqQUpuQmcxMzNqQ2lIVkFyaFJVUS05TzE4SXNKcVN5MDVRcXItQmg1dUJwYW9qVDc1UTVsTS1vanFYOFhxWVdobw?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2025-09-24",
-      "headline": "UK Biobank study of the association between circadian syndrome and cardio-kidney events or all-cause mortality - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sd2twMVE4MGlHbkNQc1M2ZkR0UlZuSUVrLVRGdk03azYtRVEtN3pxeVdqWjZYRVppc05vSk85Ui1haHE4RG5nRGdFSEJhaVdJSERVYjM4dXRERy1zUUxn?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-09-23",
-      "headline": "Identifying distinct service use phenotypes across levels of suicidality and self-harm: a UK Biobank study - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByTmZDSURzZGdzcm9JVVlrTkRUNDJQX2ptQTF2alc0c1ZIRV9WaERkYkJoMHBaanpvbnhnc25yemRPMHZRcDVCdEJEeTEyRjNKSlFnWV9uc1o5akM0TGNr?oc=5",
-      "category": "Research"
     }
   ]
 }
