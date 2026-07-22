@@ -1,6 +1,17 @@
 {
-  "generated": "2026-07-21T09:17:31+00:00",
+  "generated": "2026-07-22T09:16:27+00:00",
   "trials": [
+    {
+      "date": "2026-07-22",
+      "headline": "Radiopharm (ASX:RAD) Advances RAD101 and RAD204 with Positive Clinical Trial Updates - Kalkine Media",
+      "source": "Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemJQejdfY24wcEpfbEh6MDg5RWd2ZjMzblRNRHNEMDNzYkZOR25ndEFYUVpNVEMwTk05NEpsMWlqMkd6V3U4VHI0VU9RQ0ZmLXBWQWp3bS0wOVM1TE9XV1ljVXd6U3JKTzA4NXhiRWQ0TUdlZWh1dGtOdlh0VWJrclBqamRZNE1nemRRbXA5UHdSVTBQZXR1c1JjQmtwblR3WFRyS1NfOWVHTnN6MHJGeW0zYjhKeUtRMVIxMkJrTXVlWnRSUWhz?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": "Radiopharmaceutical"
+    },
     {
       "date": "2026-07-21",
       "headline": "Placebo surge derails Kolon TissueGene trial; FDA fate hinges on next test - CHOSUNBIZ - Chosunbiz",
@@ -31,6 +42,39 @@
       "outcome": "Failed",
       "phase": "Phase 3",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "Agios Pharmaceuticals Reports Phase 2 Tebapivat Sickle Cell Disease Results, Discontinues Development of the Candidate - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLUNkQWZ1QWFmVmE4cFQ1Q3NrWjJXdURQbTJhekhudkNiaWQwMklyRUc4OG1vTVl3ZjNVTFNWaVlqNHlZc2gtbF91ZUlvcFNHd1pHdVJJcjRCbTNHakxHZktVSmE0VEdTMW9TcVJBU0hjMnFmMXRXdGVra0IxV2xMck9xc2dCV1BfQ05kR29UcmFqSHpqMVQ4ZFNPZElibUltU2ZnanNBQl92X3ZTSndDeG1BUFlaSmlvSlA1aHpEeE5Vby1NVHNuMXFTWG9qeHZGeGs2NmQxel9lX3JMVmF0Z2lsMFFRaG5M?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "Kolon TissueGene's TG-C Misses Primary Endpoint in U.S. Trial; Stock Hits Limit Down, Approval Timeline Disrupted - finance.biggo.com",
+      "source": "finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kdHR4MDZ2TjUxQ2d2dG9pYkRONGt6UXMwRUl5NjI2RGZHLU5wbklyN0w2amtKS2F6STBtUm42TjBMOXpsSlVJMG1JZUM1OUhONXhGakVaWUJxRWF1Qk1SM2RHUndvb2Z6STNMVnJjVDFmS0FjeEE?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "How to interpret clinical trial results for Long COVID - The Sick Times",
+      "source": "The Sick Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlp3bnJxZ0tBQ29yQjcyV05RQzZEWV9TQWpjSlE4ZW1DS0FmRHh0dEpZV1N1TXZfbW1zalQ1S25EV0dCZEtHWGZENTVTY1RPdzBNdUFlM1lWcUI1akdfTDRNRzNIbDNOMHNtOHJLMFBEMDZBUmVsV2lRSHIxVi1XaTVGcG9fQUJtbnNEVlg3VDVXQUZzSkE?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -405,6 +449,17 @@
       "outcome": "Readout",
       "phase": "Phase 2/3",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "InnoCare Announces Phase III Study Results of TYK2 Inhibitor Soficitinib Meet Primary Endpoint in Patients with Atomic Dermatitis - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUZZc0lycUtFZUMwUmI4dnltZlVFMjk2ZWpyY0VTRkVmSkVnTVFQWmYzRkxfVlNKUHNrcWZGZER5bTJ4NkhuakN1Wmw4TG45RVBnQlNqUXdsV01DbTlfanFOTV9SLTVyVnZzSDJlR1d6cjJZM05qNnVWVUpsWXlxRVF1Z05PYTJkcmJhZGhRLWhiLXRGeWJyemJHSQ?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
       "target": "",
       "moa": ""
     },
@@ -2203,8 +2258,8 @@
     },
     {
       "date": "2026-06-23",
-      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - AJMC",
-      "source": "AJMC",
+      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3JpckpzYXJLRWV2aGlrekcxOXlZeW1MN3pXWUhzSk8zR0F1YmdaRV9CSDZ6dF80S2VZTWVGQ1U4aGJHY3NuTURrd3RWOFlNMEFmckotOE9rYkhZTnZfLWxTQUxJM2RRSFlyYlgxaDRSMGR2VEdFcXZveGJJZFRrUG1md2VSMEN5Y2NUTFVVTUp2RDliV0xiNklET1VuNnpEV0Eyc25sNFV5MDUyeWc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2693,61 +2748,6 @@
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-21",
-      "headline": "Definium Therapeutics to Discuss Topline Results from Phase 3 Emerge Study in Major Depressive Disorder on June 22, 2026 - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTExGWFpVSThUVWFvUkNiNGFGTWliUFM3OUJmOHlKRjI1bGdUb1ZDRHowMU1tNEtvYnFlWWdpWlVkRVE5RjBaSm9DT0tNQ3BXRnV5M08xS2pWMmZjSW1mWWJWaENBUFZPdGJNa1pIeExpengzRklud1k1bUNiWjdHZGc3d2xoY3pySVJLSzJWSS10c21DdkQ1WVFmS29mNGd6ODRqVmo0UnE1Zw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-21",
-      "headline": "Definium Therapeutics to Discuss Topline Results from Phase 3 Emerge Study in Major Depressive Disorder on June 22, 2026 - Caledonian Record",
-      "source": "Caledonian Record",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWWN0YjBzb25yVzhjWjVnNnotaWlJd2VIbldXWUxhbWs5bW1TdWJuOVN3dmtsNXlDc1h2RWFvc2N6N1BZOGQ0cF9nR3hHNGNwRldKZm5YZW5lTFNSWTFYdFhWeHkybDBvdnlhYkVrTzM4cXN5Nm5sVlZmcDhiamhPbTc4bFZ1ejRqYzU3Y2djWjdHUEcwSnAzWFNpMVptV3pxUlNuazFTeGFJaWI2R05wNVN3Y1hPM0FfNXYtNGVFOWt5TmhiM242dTRIZ2tVVWM3V28wdUdiblNUMFJ0YTNpV20tTGlHd2xEdFpFcjg0ZTI2N0dDb3pTMkFSUWlualZ2WTMtNWMtSjh6cVFkU0hQZ3JYMUQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-20",
-      "headline": "Rezolute’s Ersodetug Misses Congenital Hyperinsulinism Primary Endpoint - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbnJjdEozWVV3MTdRaGxhYU5hZHBaN0xIVzRLX3VOYWhHVWlVZDdPVEdRdnJVSUZ4RUs3RmRndEMySTVQdTV0TUh2dXVidkhuN0hSVHhiOVFlV29QSzNob0xXXy1ZekJlZmJUamhGV1FDTVZ1VEthdXBta2N3SmNpUTR2dlB4cmR1M0lVbGtIdEZLY3J2d3Q1UlRaSGh4ZTBPczBaSTJpQUVicFRBVWQ5V3prRFM?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-20",
-      "headline": "Abivax’s obefazimod met primary endpoint in Phase III ABTECT trial - MSN",
-      "source": "MSN",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVTd4cXdSeU5RN09ZdW5oVEFzaVFrZmNJTV8xY0p6X3hjOURfbHZLMEJ6Uy1DS2RJRmhxSnY4bDhOZzh2TUg3MmR2cGNYR1ZKUk4xTXZLRWpJRmx1b0tydTJIcXpkUWxsUk5KWlVac1RPLXRyOURtT0tOb1FXX3Y0NU8tY0JtUUI2cWZtaDhFbllrcFR3Tm10X09OTUdvVzd5YThQSWVYS3JtT0JjQ1BPUDkxaGc3YUg0?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-19",
-      "headline": "Novocure’s glioblastoma trial fails primary endpoint By Investing.com - Investing.com Australia",
-      "source": "Investing.com Australia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWdFWVQ5U1c2YTJuNVc0RlpIR2YybF9DSi1BZUV1TFlRMDRReVc5VklsRHJMTlhNVWhuR2wxQ0llSHRPT3VjT2oyQWNOZWtlVHA4cmM2bWI5ekZNNVJpUWRsOG5hZW9SMUs5cmNPYUdvTEJiOXF3M1dNTEVRbHllREJrakNxYkhnd3JNb2ROMm9Rb1BheXM2M1l2QkktRmNid2hlYlNnbl9aSVlSM09LMlhodEFDNE5qRjZhTWdjUGRtQQ?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
       "target": "",
       "moa": ""
     }
