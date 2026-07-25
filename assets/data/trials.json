@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T09:11:30+00:00",
+  "generated": "2026-07-25T08:52:37+00:00",
   "trials": [
     {
       "date": "2026-07-24",
@@ -101,6 +101,39 @@
       "moa": ""
     },
     {
+      "date": "2026-07-24",
+      "headline": "SLS Stock Hits Over 3-Year High As AML Drug Trial Nears Final Readout — Wall Street Sees 30% More Upside - Stocktwits",
+      "source": "Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWMwMW1Xb0N2ZHJXdWg5LUlucjVGNHFFUk1sX0hkeGtEOWIwbnNlQUxIc183VkRfX19GY3M4OXk2VzhQdEMxZ3FiMlBuREJHYTV1VEpuS0lKaFJkTVlYSmpycXhSM0YxNkhUMnN4ZmJZbmJtTWdFZEFBeDlTZFJjYjBTMV8tcHh1OThsclc0RVhxV3FTTTRJU1lWcURWcDN3ZGVyakp1MDFQVjJNeE1MZWpaYldSUS1oZnA0RHhmWTZ4d0lvTzE0VUxsLWxWR19IMFhrX3ppUmhIUQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-24",
+      "headline": "Retatrutide Achieved Up to 22.6% Weight Loss in 2 Phase 3 Obesity Trials - Patient Care Online",
+      "source": "Patient Care Online",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHAwWkN5bHVSa2xYd0JjUGhDc2pwdTMzZV9EekZISE5EcXJkV0lRc2tJb1JJdWlIaV9UVmhTUk4zMEFFQUxuQWhyWnR3V0FweGRxd29rSnlxanRfNmFkVlpqb3BZLTlaQkVVMUdBWjBGMUxQeDlrWXpieGFFal9DZDNpRzVKZURQeGo1MDhNN0E5Ry0wQ2M4MWVUUlJ4ckFNR0JNN2g2bkExZHdXM1hZ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-24",
+      "headline": "Another setback for Ipsen's Albireo portfolio as Bylvay flunks phase 3 trial - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVJBWWdDbTFtS2RkRnhMTjQ3c3laX2RpM3pKT0FyYTh2NW9fUlBBR2Y0OEZwYzZxdHMzckYxNlBQZl9yS3FoTjNfTmVqbzVXalVnbjRFdXp3bFZjNDhtR3FQTzhRRUJsb2hJWTBBNUdQQURKeDZxZEF4MmRhUHVuU3FpRl9adGwwa1BneU51dG9yb0NrZWJ4ZTNBNENMN3d2THRXNHlPcw?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-07-23",
       "headline": "Zydus receives approval for Phase III trial of Desidustat - scanx.trade",
       "source": "scanx.trade",
@@ -176,6 +209,39 @@
       "significance": "",
       "target": "",
       "moa": ""
+    },
+    {
+      "date": "2026-07-23",
+      "headline": "Lilly’s triple agonist, retatrutide, successful in two additional Phase 3 obesity trials - PharmaLive",
+      "source": "PharmaLive",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2x6ZllKSF84dVV2OEhCRkZ0cWk0UUlxNHBPSkpCb3hiWHRRWWdYdU5SUDVVaDY5bjhYblA5NUVfUElMX1NuaU12VmlPU0dYcUFWT3hTYW5jeG5CTDVuY25HMERMejhpanl2MExDeUNlV20xNWVIQmN0VHMyd2hsUzExSVJhUmZMRTVRTnYxSVU4Y055b2JLMFdfV19wNExnbXprYjRzam1yTTdXWExmWmJWZw?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-23",
+      "headline": "First patient in HER2-positive breast cancer clinical trial defies odds and inspires hope in others - The University of Alabama at Birmingham",
+      "source": "The University of Alabama at Birmingham",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdzB4dEVRYmJ3TnZTOFg4alJ2ZE1OLXVRbW9QcEw0c28zMXNQTkdON3pLWDFFVjdjZFY0STdGX1Itc2RLTk41MEhTZUhQUjF3dFV3N25BWlN4ZlVzQU40Mk5IcEhzenlvQ1VRSjVPT2xFMjhlRXpWZWRyYW9CSU5jMGx4TDl4MXpEYUtMOWNnSGJYZXk0bmZ1b213LXlKbzZTOEhRT29wZ0k3Nlh4ZWVRd3RtNVlhbnIyd1Jvb2lpZF80ZW80TWdvd3R5U1piNGk2RVJqbWFwenBJSVFt?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "HER2",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-23",
+      "headline": "J&J’s bispecific combo slashes myeloma progression risk by 89% in phase 3 trial - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenJrWHkzSTZpLWpMcENYTkh5UXZKMFM0SVE5LTZMNFlKVUkwbW5na2lsajJzWjhyMEMyeUNZMnZCOFpzNGxDQnhSOGZxQnU5YWstUGFKLVBOZS1EUUVUcHNEYlRjVUY2LUZ4UnNET0RhR01BMTlNQXJ6X2hVZEtuTDVBN1d2eHdmbnBhcHJJMmFrTWV3QnVHTXR5c1ZCUV92NTJRU3c3R04?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": "Bispecific antibody"
     },
     {
       "date": "2026-07-22",
@@ -278,17 +344,6 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "SLS Stock Hits Over 3-Year High As AML Drug Trial Nears Final Readout — Wall Street Sees 30% More Upside - Stocktwits",
-      "source": "Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWMwMW1Xb0N2ZHJXdWg5LUlucjVGNHFFUk1sX0hkeGtEOWIwbnNlQUxIc183VkRfX19GY3M4OXk2VzhQdEMxZ3FiMlBuREJHYTV1VEpuS0lKaFJkTVlYSmpycXhSM0YxNkhUMnN4ZmJZbmJtTWdFZEFBeDlTZFJjYjBTMV8tcHh1OThsclc0RVhxV3FTTTRJU1lWcURWcDN3ZGVyakp1MDFQVjJNeE1MZWpaYldSUS1oZnA0RHhmWTZ4d0lvTzE0VUxsLWxWR19IMFhrX3ppUmhIUQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-22",
       "headline": "FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial - Nature",
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9md0l5T1h6ZmJLRWtlVXUwRTRQZVNabmJvTnkzcUh0QXdjLTFpR3dMeHhHU1BMSEM1T0R0NlozcEY3SFpOSkNQdlpncDNxVGIxdEhrTDVXd3RIZ0FRYnZZ?oc=5",
@@ -360,6 +415,17 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlp3bnJxZ0tBQ29yQjcyV05RQzZEWV9TQWpjSlE4ZW1DS0FmRHh0dEpZV1N1TXZfbW1zalQ1S25EV0dCZEtHWGZENTVTY1RPdzBNdUFlM1lWcUI1akdfTDRNRzNIbDNOMHNtOHJLMFBEMDZBUmVsV2lRSHIxVi1XaTVGcG9fQUJtbnNEVlg3VDVXQUZzSkE?oc=5",
       "outcome": "Readout",
       "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "Celldex Reports Results from Phase 2 Study of Barzolvolimab in Prurigo Nodularis - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0FZZll2blJYaHdzeFE1enJkLVRELUt1Mzg4ZlJvM2dhRXRaLWRrMURHeEFlSVBNQl9VZnlPWVFLZ1hvM2hvLXowa0ttMnRFdjRRMF96RmpZcWtkYmJLeXhsM29ZS3lTRGU5Q3JfVlR5Wnh3MWdoWUtSMWd4bVdkTjNkMzgxamFYX05vS2FJYl9HN0M4UHV1Z0JxQ3o1T3hDXzczSXdpVllpYUpJOFRDZlEwQklJYTR3bGMyTnhEQ0JuYkc2Q3h2SlNmRmY0TWIwRHFZSW5QV3pYNHZQVElMaU9oaThrbXNhNC00Wg?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
       "significance": "",
       "target": "",
       "moa": ""
@@ -2268,6 +2334,17 @@
       "moa": ""
     },
     {
+      "date": "2026-06-29",
+      "headline": "Viatris Announces Positive Top-Line Results from Phase 3 Study of VR-205 in Japanese Adults with Primary Immunoglobulin A Nephropathy - Finansavisen",
+      "source": "Finansavisen",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTjBveEItZUlZRVlsdEZsTTNMZkdpcTIzeDd3ZS04VDVhZU9wamVDUWlqSzVIWGJhMTFWTG1tR0tMNTQtREVCTm12MEYwWnFab0pjZFljN3V0SDludXlKQlNpMnZGR2FsbUdGSjNOVkdMZWFHY3dseE04TmhTNUp6TlgyNzJmYW5nZXQtdGljU2R1ZEFtaDhBdmctQi14MDc5UVU2RVI0WFplMlBXQ2VNSkNDTUQwRFdEZXRSWTd3UjN1VG1aQUVTZTFpUXhubGdtQ0l1VkFDbjFaUnpOcldpWXM4THlxMUJWQjZNMG5TVXZCT3p1ZTlDVW9UZG1DQzdYYk03VUhyaDhzTlh2c01MU2RPS1F0Nm16VFpDaVAycS1hWUlDeTJ4M0stU0szMlhmZTNWenZudlZMclNnZ01zQkFjY1ROdw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-06-28",
       "headline": "Phase 3 RECONNECT Trial: ZYN002 Fails to Meet Primary Endpoint in Fragile X Syndrome Population - Vera Health",
       "source": "Vera Health",
@@ -2577,8 +2654,8 @@
     },
     {
       "date": "2026-06-23",
-      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - AJMC",
-      "source": "AJMC",
+      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3JpckpzYXJLRWV2aGlrekcxOXlZeW1MN3pXWUhzSk8zR0F1YmdaRV9CSDZ6dF80S2VZTWVGQ1U4aGJHY3NuTURrd3RWOFlNMEFmckotOE9rYkhZTnZfLWxTQUxJM2RRSFlyYlgxaDRSMGR2VEdFcXZveGJJZFRrUG1md2VSMEN5Y2NUTFVVTUp2RDliV0xiNklET1VuNnpEV0Eyc25sNFV5MDUyeWc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2668,83 +2745,6 @@
       "headline": "Merck reports positive Phase 3 tulisokibart results - grafa.com",
       "source": "grafa.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOHVmTGs4ZFk2bUg4Q0tlcWVHYVJ1el8wZmRyT0VGLTJ2M09xVDB3WUhvdnJtWklNR2M1TW9pZjV4ajhRYXR1ZW51dmVEX185VjVMN3ZJSnZ2cmVjLU5DYjFEbTQ4RHk2YmdWSVpJQTJubFUyYnA2MmxoLUZWQzZ6RDJOMUdmTlgzUXc?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Pfizer Announces Topline Phase 3 Results for Sigvotatug Vedotin in Previously Treated Metastatic Non-Squamous Non-Small Cell Lung Cancer - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMmN3Y3NfSC14SEZQQWFlaWJmY0pIcGJwNVk0TEctRlRRQm00NGpTOVNRX3JVMURKakU3UUk1R09SalM4RHdIT0ZoR2lzUWlKM3V0ak9MbDFsaWRGZGJxQ2ktZGpuLW1fajY4SmdIRFlLcW1PQVdtcmEtamhpVDNSay1oSlgxaV9IdjNCUXIxOWhVcTVPNEhIcFBiSmVick9sTVlpOU0xM0JyYjRVWHgtNzZDdktyXzVhTjNXOEJwUnM1MzBEOWFIM2NjRkpST2FvNnhpVFpLYTdEOEtvQjgyVmhlY2U4NHFmUkZIcXgxWlZrNVNvdVh2bi1jRVY1ZFZNTXZZWEZmekJlSjZwUzQ4bFJmVjdZNGU1NjJuaGhR?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Positive Topline Results From Phase 3 Emerge Study of DT120 ODT in Major Depressive Disorder - Psychiatric Times",
-      "source": "Psychiatric Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVJiRzdvNlpMYWVRcmR6VFA0dk80Y09GZWFkckJFaE1ERFFpRzdWcVZWWXdJc3VfWGhMN0RIQnp4TnpjdF9oTFpqRmxUWFpSS1l3YmhlalZFdlIxcHR4am5XMjBONFVBLXY5aWtSYU9na1ZjWkRHQ2dpU0l4cWxKNDZpRG8wejlaTUlqZVpudTNLcERzZ2EyLVRNdFNrU1FNQjBnWERMWkZndHdaY2xCY09IYkxuN2FJaDVsYmxWbnVxR1ZiQVF4WlNB?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Early Phase 3 Data Show Positive Results with Olorofim in Invasive Aspergillosis - Infectious Disease Special Edition",
-      "source": "Infectious Disease Special Edition",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNck5FSlQzbE9aVzl3cDFyZU5HZ1g3MGNDT01hZm1iemIxWFFsSUFsRWxOeFlQb1Y3OENlMGh0Sm0xbU9CQU5WcmNqSDRxeS10VHdmSDNmQmFDUUpfVE9waG41b0ZuMXF1dGxzb1h2R2tjdTFmcWNGQV91b3pLa0ZvT3NQaXZGc2hMSjdlak5UVU5Dd3dXa3lJdHpKUVI0RmRaX1pmR055dmlvX2VVTGhNTEZyeTM?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Dexamethasone Eye Drop OCS-01 Falls Short in Phase 3 DME Trials - Ophthalmology Advisor",
-      "source": "Ophthalmology Advisor",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTdhYTNxSzBSekRvZlRuWk1XaW5SaTVURWVGVm9QQktlZjBMZDBNSVZmV2tpcDdnaGl6aUJoSmpPLU9TcVJHcF9EcDFrd2l3RFNianNta21OblFnSi0xRUJpNHUweHMycjlwUVlxVGtKdEdRRXFXT1N6eUlTNmsxRHJYTVZTN0Uxd2x6UjdYWVFQamFXRklBNg?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Definium reports positive Phase 3 depression study results - grafa.com",
-      "source": "grafa.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObVBTUmJhdll6VV9VeG9tNzlYalNHcUZreG9SVXE0c19ETUFiMUxrYjNuLTc3ekc2aWQ2QVJnSXlMVHd3Z1RMam83eFBDVVFzV09sLTQ1TmY4UUp5XzVRRUEzWDJyNEFYTHlxa2xxbkJmODhmbS1IalVfSThBOFd5LWJtR2JfS3REOTRMNkRPRzBRWTc0VEZn?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Definium Therapeutics stock surges on Phase 3 trial results - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUG8xTnZkU2JtMUd4VlkwQWhTT1YyWFZVbFlXRVBCT00wM2h2aEVVVjRpejVLMHVsLUVRT1dpclYtQWI0QVVUWmJTRnFOTGFVcTY5SFBPSVpTeHBlaHdfNVZVbzNwWmFyOUZHcVNaa3JmT1NMcVQwZGY5Wm12cWVjaTZYN2FOLUFOcThuNGVtSE9OYzZvNG03OUZEUmZodXQxWmNkVl9FU3FhV3NJSlpCc3hlYzJvS25JU19zajFn?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Definium Shares Soar After Reporting Positive Phase 3 Results For Single-Dose Depression Treatment - Benzinga",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNczV0X191djlsQkZvSHVWMV94cDVpZmdDOFNsUlBiak81VTJaRS01WHkwMGRJc0xpRm1zM19DaU1UdkhzMXlzMVl3NUY5SHlwaDgtTUlrcHp0VHZXTzgyUGRlV05CZW9xSjVtc2N3aXBreFhsb1VTYW9VVTZHUGJIWEJwaUNHWG9CSHM1SXViZk95UDctTWl3U1Z1RERZOGZkRHp2S1hLRDdJYzl2S3ZxRUUzT2xQZnpEblFlVVE0ekpVb0VEOFBZYTFlS3JQTzZDREhPQkNYRnQxX1Vzb2JULTV6Y29wZXVHWXhJbF9XUE8?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
