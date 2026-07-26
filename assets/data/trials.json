@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T08:52:37+00:00",
+  "generated": "2026-07-26T09:02:39+00:00",
   "trials": [
     {
       "date": "2026-07-24",
@@ -355,11 +355,11 @@
     },
     {
       "date": "2026-07-21",
-      "headline": "Placebo surge derails Kolon TissueGene trial; FDA fate hinges on next test - CHOSUNBIZ - Chosunbiz",
+      "headline": "Kolon TissueGene stumbles in US phase 3 as placebo surges, pins FDA hopes on next trial - CHOSUNBIZ - Chosunbiz",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZS1rU3Q3VU04Yy10TmthbG1EdWhYTUpPOV9HdTZ2SU82b25LWGRBWjdJdXdEN0tSMXdvTWx2WTR5c295OG50cnVpd1l0eV9mZlpLVTRpQ0xLaEZUWENfYWI3bWdUbGxxRjBQeEN3N295TF9EenRmcmFmZmNDaWhncNIBlAFBVV95cUxPcWhodjNocGxJQTFwMFc3eUVSSk96b0Myam5pc292bW5JZzVyT2xrQ0ZmY1BOUDZXLXZiLUdEYzllX0ltNFRoMkVtTFZOY1MxUjVZNHZ1T1kyMFZ4UVZaVHBiRlFaMFRMQU9XU1RSRW9wSHFIQnl4UG5Ca3dLSkg2Ty1uQzk2ckczMVMzV2I0SEt0dVhn?oc=5",
       "outcome": "Readout",
-      "phase": "",
+      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -2654,8 +2654,8 @@
     },
     {
       "date": "2026-06-23",
-      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
+      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - AJMC",
+      "source": "AJMC",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3JpckpzYXJLRWV2aGlrekcxOXlZeW1MN3pXWUhzSk8zR0F1YmdaRV9CSDZ6dF80S2VZTWVGQ1U4aGJHY3NuTURrd3RWOFlNMEFmckotOE9rYkhZTnZfLWxTQUxJM2RRSFlyYlgxaDRSMGR2VEdFcXZveGJJZFRrUG1md2VSMEN5Y2NUTFVVTUp2RDliV0xiNklET1VuNnpEV0Eyc25sNFV5MDUyeWc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
