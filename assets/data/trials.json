@@ -1,6 +1,39 @@
 {
-  "generated": "2026-07-26T09:02:39+00:00",
+  "generated": "2026-07-27T10:29:18+00:00",
   "trials": [
+    {
+      "date": "2026-07-27",
+      "headline": "GC Green Cross Submits IND for Phase 2 Clinical Trial of COVID-19 mRNA Vaccine...Selected for Disease Control Agency Support Project - 아시아경제",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8weEluMGtnUU13cTZ5ZHhaREVZTzNnbk13dFAxaF90SF9kOGZSb1RxUVZQX18zMWFTaHEwUTg3MnY2Yy1fUE13ZFZEaGxlUjlHREQ5aFdUN0xtRi1PZ09lNTh2NEduS096MGREZjBSWWpMVkE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": "mRNA"
+    },
+    {
+      "date": "2026-07-26",
+      "headline": "Kolon TissueGene Apologizes for TG-C Clinical Trial Failure... Vows to Regain Honor as World's First Therapy - 아시아경제",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OWjFnUUFwSjJQbkZDVUc5ZkRuUTNFRkZOekRMTnhlQmtkamt4R2tndjJlWS13amY1RVlLNk51Q3FNSWM1TXRtanVZX2dCTGtYemNqTHZQeHktaExJUWJPbmI0UHI?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-26",
+      "headline": "Argenica Therapeutics Advances Neuroprotective Drug Xaranetide Toward Targeted Phase 2b Stroke Trial - Kalkine",
+      "source": "Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUW5EOEloQ0wzNWF4dC1BVm0tVlFuX1YxU1VZbVB4Qi1PU25PYzZXazZGQ1VCLXpvVGk5Z2tRdkNjQlAxVWp4czFMVGR5Rkxwc1ZIek51MlRhTGRBZGhEVUhpWmhYd0swbG9ZV0dpa2VrOE83ODRmclA0TkVhVFotUk9zM3k4Q1dHRG1ZanNOQkdLYnpLZnNYNkVZSTdyNkhfbl9kamVoRlk4X1ZLanVNWjNPRVJOTjU1OHN0a3dVd2pOYjYyRFFnVloxbGpfckRlYjdSeU5mdnJhZw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-07-24",
       "headline": "Radiopharm (ASX:RAD) Raises $16 Million After a Double Clinical-Trial Win - Kalkine",
@@ -352,6 +385,17 @@
       "significance": "",
       "target": "CD3",
       "moa": "Bispecific antibody"
+    },
+    {
+      "date": "2026-07-22",
+      "headline": "Celldex ends skin disease program after failing phase 2 test - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnVWSTRXQ2lONzBlSnBTcFVLMHEwUUE2OWJMMUpaTnNzMGZmM01ZVnNlaFVTcXlIY2dnWlBhYXpkeVpPanZVZW9XN0o5RjlIbUQ0RFF3UDBqd3lRY2w2RXFxelpGdWkzai1LdkppTmcwODJqXzlkLW1vaXA4cVpMUWlrRHZvMThPTy16U1ZsRi1faXZRZkg5NzNxNA?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
     },
     {
       "date": "2026-07-21",
@@ -1630,6 +1674,17 @@
       "moa": ""
     },
     {
+      "date": "2026-07-09",
+      "headline": "AstraZeneca and Ionis’ stocks drop significantly on Wainua ATTR-CM trial failure - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXg0QkJZcG84cDdlZ2x4SUVuZjhHdVpxd20yMTBrODBQOFNWZUcwcmxPVHNIY19ONGNhUUhUbTB2bmV2QWhXaVVPOWhmSDc3ZGpwbUFXVWNxZ2Q3SlkyYmVzMWdjQTluZGYzTTNBLXo4VmluNXAtaFVNcWEyMS1QUnJVMUNqb2J5NlJVaUE3ZzE2eDR5Qk1iRHBfUFlVODlsbHRXclVzcHRoU3A2?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-07-08",
       "headline": "Keenova's XIAFLEX met Phase 3 goals in foot disorder trial - Stock Titan",
       "source": "Stock Titan",
@@ -2654,8 +2709,8 @@
     },
     {
       "date": "2026-06-23",
-      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - AJMC",
-      "source": "AJMC",
+      "headline": "Mixed Phase 3 Results for IB6-Targeting ADC Raise Questions on Optimal Use in NSCLC - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3JpckpzYXJLRWV2aGlrekcxOXlZeW1MN3pXWUhzSk8zR0F1YmdaRV9CSDZ6dF80S2VZTWVGQ1U4aGJHY3NuTURrd3RWOFlNMEFmckotOE9rYkhZTnZfLWxTQUxJM2RRSFlyYlgxaDRSMGR2VEdFcXZveGJJZFRrUG1md2VSMEN5Y2NUTFVVTUp2RDliV0xiNklET1VuNnpEV0Eyc25sNFV5MDUyeWc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2693,61 +2748,6 @@
       "outcome": "Success",
       "phase": "Phase 3",
       "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Definium Therapeutics Announces Positive Topline Results from Phase 3 Emerge Study of DT120 Orally Disintegrating Tablet (ODT) in Major Depressive Disorder - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQSVgwbm9aZ0pDUkpaeHVzUkM3dG5ncDVpSTJyV0lsZV9ZR0xKUEJabXRnbnVyM19GOWxKVVdxdFZZb2poTXJDOFhVUUpsRU1zRk5ISmdWdlN3WEFScGk0MGo5VU1RMm13Nk1SZWJVY25tZDR2UHRQZndvX1hURWEyRGg1aEtLUFNyNVFqZGNuS3J4c2ZPNXRYczBER1dGM0hHN2N3Vk1ZZlZkMXh3cndTaWtHbFVPN2NQZjlET2lLRjk5YW1SZHFQYUZ6MGdERE10R1dHT0k0azhmSzA4VFlPOFQ3bk1Da3NBUG1nNmV0ZlFDZ0FiMlZVVHpqZjlfY3I3cXBDcFI3NGdZWXBGVjRVc0VIdTEyOVFuTzhEajRObl9jcUUtYzBIUkhOdnpGc184SlFveA?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Merck’s Tulisokibart Met Primary and Key Secondary Endpoints in the Phase 3 ATLAS-UC Induction-only Study in Patients With Moderately to Severely Active Ulcerative Colitis (UC) - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQMi00OTFkY0dMWWJiWlJuelVkdVlyVDVzcXllRkJxT2pIM0U1b3JVVV9lWGRHdE1mQzhEbWdseUdObmtyUzNTT3pFSWd6UVQyUG05ZmRaNk5wZ2V4OHJxZW9NN05mbGNhWXM3aURtTHlZWUpqSDJmZFkwRlBFMXVIZl9nbTBhTXZ3X1N3bVFlY0VqNTNmb0ZEZGVmRVNRS0s3NlhjLVFvano4MWV6b2JCTC1YbzBPLWNzYm8yNnZ0bkFUV3V5aU9kSnhoWmNqR21DbWl6VDVaOEx3Q2I3ZVFjZGlDY3podG9vWUQ2M3YtakdfMS1nSWlhdThKdWZ1ek9xWTRPRzVFTjdOcUUwZGVTV0RjTm5JcEpvMHlGaHoxdGJVaXFZaThULTR6UUF4Y01PLUdnOTZXaGZtUEY2ZTZjcWZLZ0k3VEVLclhfWm9FQQ?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Definium reports positive phase 3 trial results for depression drug - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmVoS3NPaldwRXUtbUY0U3hZc3lURzNuU2c3OVY5MWVOcEFuaGRiUGcwU1h3UjliZG9sX1ZqaFlYNzJQaG90cnJFSzBGellTanVzdExuRjNNUXNIMTdiZDNqQWh3TTdPMjVBSE5scldVdnBnc0tUQVlpOHhlWEtFeWUzdWlWWGtqcGEwV3lsZ3VnejFVWGhub0N6VWR4OFZWMldZTW9jek1sbS04T04xajA0UXhFM3ZCUEFDSGFWTXJVZw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "MapLight’s autism drug trial misses primary endpoint - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEdDVmZURVM1ZGhQV25EdFh4NmFBMlV1YzkycUVaVm9FYlp4cXo5bmVpVGtJRE42cFFZOWUzdUYzd0RYTVhraUtrTExLMkdadllZM2ZFaktQVm1iX0NQd0o0SnZQdTN4cWdOdXBScGM1cGhJaVc5eTh5RTVkVFJqRUxvN21qVGo0YUVzLXVrSUNyZXZ1b2FfaFdDVkZzRm5TazE4QTF3NzJDYm9t?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Merck reports positive Phase 3 tulisokibart results - grafa.com",
-      "source": "grafa.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOHVmTGs4ZFk2bUg4Q0tlcWVHYVJ1el8wZmRyT0VGLTJ2M09xVDB3WUhvdnJtWklNR2M1TW9pZjV4ajhRYXR1ZW51dmVEX185VjVMN3ZJSnZ2cmVjLU5DYjFEbTQ4RHk2YmdWSVpJQTJubFUyYnA2MmxoLUZWQzZ6RDJOMUdmTlgzUXc?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
       "target": "",
       "moa": ""
     }
