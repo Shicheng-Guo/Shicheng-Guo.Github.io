@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T08:37:54+00:00",
+  "generated": "2026-07-27T10:06:44+00:00",
   "deals": [
     {
       "date": "2026-07-26",
@@ -10,6 +10,17 @@
       "value": "",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-26",
+      "headline": "Why Samsung Biologics' PolyPeptide Acquisition Was a Surprise - PharmTech.com",
+      "source": "PharmTech.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYW40SS05d0VfeVlCVE1aZl9jaEd3eF9aTUtZd0N5a2hnWkM2V25TLW9IM3RiRXBJWDhtVXNmYVRwR202WFdVSlVNLXlrMDVLaXBGdE5Vc3JOUkc0RGxKVUhVUXVMbnF0dmh1SWVZMU1wcGVuMVdWWTJicjhrSmsyYW03VkprbXJ6UlViNzVab2I0TlJ5aGQwaQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "Peptide",
       "stage": ""
     },
     {
@@ -157,7 +168,7 @@
     },
     {
       "date": "2026-07-24",
-      "headline": "Aurobindo Pharma Signs Royalty-Free Alimtravir License With MSD for 129 LMICs - scanx.trade",
+      "headline": "Aurobindo Pharma signs royalty-free alimtravir license with MSD for 129 LMICs - scanx.trade",
       "source": "scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXBkc3JWZVl5Tkx6UkRIYVRBMVo2cE5ySXBuMXA5clJHaV9BYjdENWQ5ZS1HU1lpRDMydzh6NDBFSVJkLTdNRzVjLWdmSVNneUpaWklHTzdvbmlDWEtxVGJNS3M0c1IzdDNjNkNkRG9rZ1ZqaVBlQ1J3VElsTGltekxNcWo1UVJJWi12eUpNTGx5eUx3ellfRmVMRFo0aVBIT1FvbHdnNXBrUFpjWUJ0S3d1dFp4U05XOW93Tw?oc=5",
       "type": "Licensing",
@@ -218,6 +229,17 @@
       "type": "M&A",
       "value": "",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-23",
+      "headline": "Bothell firm fetches $1.5 billion in acquisition by Massachusetts company - The Business Journals",
+      "source": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2Fway1VT1FwcmlGdUUwWDNWVFRqSVY5OXNvdC1zZTRuWXduZlZjdXdlVVM1YUV3VHpYdGVheFhlSWtjb2lJNVgzVzRzdU5vNTctWkZGUDhtOWhVd083alVmc3dabnhRZEMtX3pCaWZOeHNoWWtRQWVaWV9OU1pHbWZoZVR1LXctSkMwZnhqaWQzUk5NbUUyNVBEYmN5VTRMeG1tWHBR?oc=5",
+      "type": "M&A",
+      "value": "$1.5 billion",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -2727,28 +2749,6 @@
       "value": "",
       "area": "Neurology",
       "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-17",
-      "headline": "Simcere Pharmaceutical (02096.HK) received an acquisition of 100,000 ordinary shares by Peng Suqin, valued at approximately HK$1.015 million. - 富途牛牛",
-      "source": "富途牛牛",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmV0RDlXWU9SY2Z5NDUzbXVLWmstbTRuOVJaTFdjclFRU3hxbkZqR3FCUTdwLVFrUHhQV1BUTndnallUaURaOUVyQmZZYXkzNEhhcmxySGFXRkJYelJKd3kzTHVRbVFkOE1paXdGUWstaFd1VHFnVjMzTUZCZklvT1kzcXhuSmxwLVFWS1JjRlZ2czZLN01rWDdjZUJQRC1oUUg5M0VRbTNySWpSWk1FTGRGOVdVZw?oc=5",
-      "type": "M&A",
-      "value": "$1.015 million",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-17",
-      "headline": "AbCellera (NASDAQ: ABCL) inks Jazz cancer antibody pact with $56M upfront, big milestones - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVFpMXg2VU1sdWhwV0pXbHBfeXppcmtiTFNnZHRTY3d5b2pmYldqY0d4UkkwazdfdjRMbFFtUVFmV2FmNUpheHlQdWVPWjRqQ3JacWZvU2tYVXVRblpFcTExWHNkRTdmeUdmWEVFUVVFdm5LZlVwcWlmbE83a1laU3NDMzFDSWNMMkJWamczS2NZS2pTcEJGVEo2cktBV3lNOU13eWI5NGU3czFCSnZYUDgzNA?oc=5",
-      "type": "Deal",
-      "value": "$56M",
-      "area": "Oncology",
-      "modality": "Antibody",
       "stage": ""
     }
   ]
