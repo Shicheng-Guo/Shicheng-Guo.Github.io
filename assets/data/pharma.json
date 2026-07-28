@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T11:45:13+00:00",
+  "generated": "2026-07-28T10:46:37+00:00",
   "items": [
     {
       "date": "2026-07-23",
@@ -35,6 +35,13 @@
       "source": "Manufacturing Chemist",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2pRb3c0TWZDZ1dkN1Ryd0dCZWpTR3ZLSWV4YlkyMHRKS1FsUVpoT1kxQnJkekRqRmptYVZGU2Z5aGxKdktYdERMajdxakdNMVg3QkY2S2c3Q0o1V2dWejNZaEdKVXg5cndlcXJBVDJKWGpFeTEzZF9FVEVxYnh3X3hYd1h0Mi1pQVpBNTRSOFRleVg4ak83TVYtWWtkN3o0cnRSWEctOGU?oc=5",
       "category": "Regulatory"
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Adapt Fast. Release Sooner. Accelerating Pharma with Smart Manufacturing - A3 Association for Advancing Automation",
+      "source": "A3 Association for Advancing Automation",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVB3WUhQY3Z3STBiUUdjdDR2b1RybzlWbkRHRTRPVDc4UnNzWXJVbml4NnBmSXRQSU90R1FkaVlxdllNUlYwVUNBeVNYaHhadDZXUEhVRUIzQjd0cmtpNDUxQnVTc1hVZ2w5NHdsUWlubWVwX2hiZ2RwXzhLS05wMXlGSDJqMjR4a0NLdVhKd245b0xIdWYwM01aRmRsOVBUd2tYa3lXdzVqMVVXNnVGaHd6Yw?oc=5",
+      "category": "Technology"
     },
     {
       "date": "2026-07-15",
@@ -119,13 +126,6 @@
       "source": "MarketsMojo",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc2V5UXBmN2NxY0c1SGdqRHBkZVQ4NDctdHVMWUxBYjhvR2xsaHU0Y3hCekt5WXNxdm9uWWctSWRNSlhPQmRvM2hOUWp3XzNSZzIwUXRKUnhOUFVmcEpEeW1xQnFENE45dngxUzZLcEMyX2ZMc3A5Smx2NWVSQU93Y3U4N1Z6dm5oVGhLVDhrcUtrSC1IUE5vMG5LTThsdFpvMVFRaHBkRFlTeU00bTkzU0dJTGFYVFVzUWg4clZyNHpBUUFyUGFReE53?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-06-16",
-      "headline": "Adapt Fast. Release Sooner. Accelerating Pharma with Smart Manufacturing - A3 Association for Advancing Automation",
-      "source": "A3 Association for Advancing Automation",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVB3WUhQY3Z3STBiUUdjdDR2b1RybzlWbkRHRTRPVDc4UnNzWXJVbml4NnBmSXRQSU90R1FkaVlxdllNUlYwVUNBeVNYaHhadDZXUEhVRUIzQjd0cmtpNDUxQnVTc1hVZ2w5NHdsUWlubWVwX2hiZ2RwXzhLS05wMXlGSDJqMjR4a0NLdVhKd245b0xIdWYwM01aRmRsOVBUd2tYa3lXdzVqMVVXNnVGaHd6Yw?oc=5",
-      "category": "Technology"
     },
     {
       "date": "2026-06-16",
@@ -352,6 +352,13 @@
       "category": "Technology"
     },
     {
+      "date": "2026-04-14",
+      "headline": "SCW.AI and PharmaPhixx Announce Partnership to Accelerate Digital Transformation in Pharmaceutical Manufacturing - EIN Presswire",
+      "source": "EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSVF1Rmp6Z2hDX0REMTdYdEt1cU9YWllMQXpiVWlCajFfbUpPTzlRYmlXdUVySUF1RkJHVTBBV0JSVTdXck5aSVBtRDQ0V296N2QwWEdjX0tTLWoybHJTRHJTajRrMTdGQzFBSkwxTUJuTnZUMzlGNmpBd1JHVm5VN3dLWVFtb0xRMTFrVGpqWVB6WlprUTdzZTRqd25XX01fZi04bXp4WXA3SnNncnVneURNUFFlbzdlQUJYa0lHV2pkMXk2bmJBQTRtQ1RkN3Z6MlRDaFRmS295dnMwS2M2R2VSYldqS180SEFmUmRoS3Y?oc=5",
+      "category": "Technology"
+    },
+    {
       "date": "2026-04-13",
       "headline": "ICPA to host India Unlimited 4.0 in San Diego to spotlight India’s global biopharma role - Indian Pharma Post",
       "source": "Indian Pharma Post",
@@ -381,8 +388,8 @@
     },
     {
       "date": "2026-03-27",
-      "headline": "From Data Integrity to Predictive Quality: How Pharma 4.0 is Redefining India’s Manufacturing Playbook - ETPharma.com",
-      "source": "ETPharma.com",
+      "headline": "From Data Integrity to Predictive Quality: How Pharma 4.0 is Redefining India’s Manufacturing Playbook - ET Pharma",
+      "source": "ET Pharma",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSlgwdUhQdmUxSm1MYk5FbTdRMmp5T3prZlREQ0paODZVbFNUU0FTNTFhT1BRYTBqNndXakxMM0l4N3BmSFBkWDc3UG10TFFiQjVGeHFpV2JhY3RkOW1iNW5yZ2tNU2FmajFvMDRkUE5tdUlNTFY0RGYxV0NrU2UtNkQ1enBxa0FKbklpM0pCNXc0NUt4NWFvRnpIY3pXQ1RFdzlfa2ZWWWtDa0l5Vm9ZSy1SN2xtcC1FTFlmczZBa0xvR0JoTzUtZVU2QXBoUFB0cUNFRXNwYkZBTjJWZW5wbEl0SzNCZGp0bzF6d0F1a3pfRTV0SThvbHFRbDN4a3A1czRMSXJB0gGLAkFVX3lxTE5iNFRIUTZvN1lCTEstT2xRc1ZkVmE3UnpjZVo4dXVzTVBOeUcteTVxZ3J1UXZHUVJ5eGxNRE43ZThhejU5WFFYTzg0cTdTSUcxRUtROEZoYzRCUlFaa0pVMjBzSmJSd3Q5RXRwZGhzTWdxQldKeVNqOElsMnBsTHBJd0htelhDM2pyRXBDX0JRNW5PeTlKSEw3OGpLV21HTVhxRm01dmFFYTdOdzdya0xNeW0zc0stQV9ockUzN0Z1VWFGVnA4d000OVl2U3A4R3RlOV9OalNTcC1YaFZQeDNXQzRXTVlENzJmd2hXQVd5akNDNXBSWnlsZnFxSWwyUmllMXJNNElYdlFfNA?oc=5",
       "category": "Perspective"
     },
@@ -640,8 +647,8 @@
     },
     {
       "date": "2025-07-28",
-      "headline": "Chemrich Global Expands International Chemical Footprint with AI-Integrated Formulation and Smart Manufacturing - 24-7 Press Release",
-      "source": "24-7 Press Release",
+      "headline": "Chemrich Global Expands International Chemical Footprint with AI-Integrated Formulation and Smart Manufacturing - 24-7 Press Release Newswire",
+      "source": "24-7 Press Release Newswire",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWWo4UzJMTlppQWhuOUdZaVVmU280clhVejMwRDJ4Q0JkbHU2N2hENHdmaC1hT2lpSHE1YTAwRlNzX2NMVUY5NTBUTGVGdU9YSy12VzRJMXN0MEw0Mm1YYTZYN1lka3lBTHpyODNMeFRIQm9ySU5Rck1TTTVlUEdSMmRXSUpFZ0g1QjNuMTZZdjNBUzRheXdUT0tfRjFyaFYtaVBEWE05Zi1iWjF4cWpHUUJhMVRnYVFkbm41RlZ5SmY4YmY0cFlmVXdmR1hkdkVlM0xONXBNZTREdlRpWHlFODJkZEVHZUk4RDNQdnBJUnRlVG9pTHdxUQ?oc=5",
       "category": "Technology"
     },
@@ -668,8 +675,8 @@
     },
     {
       "date": "2025-07-09",
-      "headline": "LeucineOS: India’s Unified Digital Core for Pharma 4.0 - ETPharma.com",
-      "source": "ETPharma.com",
+      "headline": "LeucineOS: India’s Unified Digital Core for Pharma 4.0 - ET Pharma",
+      "source": "ET Pharma",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaXpqTy15ODRWa2syYXJiZUdGVzhRdjRtQ3h5d0dvT3FqUEpKRUl5LWdmWVg5dl9ZNGxfbXFBeVgtQnZ1QklzVmFiYzBPaUQzTVdCQXpGQm1LaURqUzAtNnl6OXFPRXptdWlmNDBFdEw2TkxBam5jNVJ3eE9CRnVFVnNsT1VRLU1YLTMwX1RXcVdkZ3YzSWFMYnlYSWlFVkFlQXhrRktQMnJIdEdJRGt6Z2NnejkxN1Z4d2h5aU9XcGM2d0tPX2JqVFNuVTdhN2lNX3JHNGF4bUY1YkxpcEp2X1NLbXViQk3SAewBQVVfeXFMTVhERTZFSHVlSXBYc1BFOWJOWXphaWZJbnJDcVhKdjlOTGtZQXlIbjRGVDRFTGtpMzBsTGMzVHpKaVFlN3VxRTVDbjNSazNLcXllNmFydkdobldXSGJSaF81eE1TbXUwZFNoNzJUXzhBRGdMMEprWkxYcG4yam9GeUQ1ci1Eblo0TmtfZXJ5ejFwMjZWdFNONFhsUmgtbC11bXJTYUoxTXZaZm52LUgteG9jM2FDbk43Z0NHTUQ4eUIwMWNhYmhLbEpsWTBLM3NRcmh5eThvaGdxcFJ2M2ZWLVVuWmNhOTJVNTBNd1U?oc=5",
       "category": "Technology"
     },
@@ -738,8 +745,8 @@
     },
     {
       "date": "2025-04-03",
-      "headline": "Vertex Pharmaceuticals' Human-Centric Approach to Digital Transformation - ARC Advisory Group",
-      "source": "ARC Advisory Group",
+      "headline": "Vertex Pharmaceuticals' Human-Centric Approach to Digital Transformation - ARC Advisory",
+      "source": "ARC Advisory",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmNycTNKUFRrYVNRQW92bm1GTnNfOHQtR3hzRC1oQWFYeHRLRDgyd3g4QmUxaHdrWDNFZVBkalRnWW5tNkRqOHpTYTNyZ0dpZWc5bmphckQwNTZLNHAtVkJqcFZJYXRlNWdjRHRlaGFYMmRrNU9VeTNab29WcEFuTFRKc24tLXZVUmVuX1ZZT3k3clk0Rm1pRVRMMWw?oc=5",
       "category": "Technology"
     },
