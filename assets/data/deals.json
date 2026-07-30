@@ -1,6 +1,83 @@
 {
-  "generated": "2026-07-29T09:06:31+00:00",
+  "generated": "2026-07-30T08:47:00+00:00",
   "deals": [
+    {
+      "date": "2026-07-30",
+      "headline": "J&J lines up $2.58B option to buy Sail, Flagship's in vivo CAR-T biotech",
+      "source": "",
+      "link": "https://endpoints.news/jj-lines-up-2-58b-option-to-buy-sail-flagships-in-vivo-car-t-biotech/",
+      "type": "M&A",
+      "value": "$2.58B",
+      "area": "",
+      "modality": "Cell therapy",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-29",
+      "headline": "Processa Acquisition Lands Immunology Drug That Could Rival a New Novartis Product - medcitynews.com",
+      "source": "medcitynews.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlF5MFNGX0pTTFhTbUNMMkx5N09KWUVhRlJSUVpnUHFxTC1XemcyVGJzMzRaeWtRazRaaGdZa2xmQmdjSUFmZW9VQ3l3UURyRW5yZ2ZNZ0M4RUMyR0I0UVJFYkd2RTBEcF94SUFBSkNJV3d2Q0I5WXBLb0lSQ0NldkhyZ2o0NUJUdHZLY1JKaFdGblItblRmUXZoX1Bqbldlc3RIM01DVGp1dlhULVI0?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Immunology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-29",
+      "headline": "Biogen shifts M&A strategy as Apellis acquisition pushes revenue above analyst expectations - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQemptTjI5eEV5N0h6MHVzYVRqOE1HZXBjYjdJdXFJZjZEajFtT3lxNDA0OXBESDh6ejJ2RXpVLXc1Q0tUZEljWVduYkN3UVhHQnZGTmpFRXQ1VTlvTHhVV3IwSl9iMm0wSExvOEhOY05uTTBEdHBkTGdBeWJIeV8tSXdicm1BdktaaG5Pa0xLTkNFVE5BTUVpNjRDejBCendGV2VCU05ZTFZMdGpMQXJyVW9TVVppTEZfNzl0cmdDXzVlSjA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-29",
+      "headline": "Dongyangguang Pharma (06887.HK) received an acquisition of 174,000 H-shares by Zhang Yushuai, valued at approximately HK$6.0726 million. - 富途牛牛",
+      "source": "富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXJNQ0ZOam81RU1xZkdMdllPOGMxYkZWajQ5YV80TURKYnlRS2FsdUx0WHM2dWYxdi1UWENNYnRjY2ZVeklHaGJfelozVHpwWFZRRF9TWFBlY3AyaGtqenIyWDlXb0VjMXdubzg3cDdjaFRoUGhwcTZUNURJR0JyUkVYZXRSRXg1bXRnbXFfTGVnLWV5Zjk4Z01faV93ei1LcmowRnVDZkNTZw?oc=5",
+      "type": "M&A",
+      "value": "$6.0726 million",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-29",
+      "headline": "AbCellera, Vertex partner on next-gen T-cell engagers",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/abcellera-vertex-partnership-next-gen-t-cell-engagers/826471/",
+      "type": "Partnership",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-29",
+      "headline": "Atea's hep C pill equal to Gilead's; AbCellera inks second deal in two months",
+      "source": "",
+      "link": "https://endpoints.news/ateas-hep-c-pill-equal-to-gileads-abcellera-inks-second-deal-in-two-months/",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-29",
+      "headline": "Former Recursion CEO Chris Gibson joins Dimension as operating partner",
+      "source": "",
+      "link": "https://endpoints.news/exclusive-former-recursion-ceo-chris-gibson-joins-vc-firm-dimension-as-operating-partner/",
+      "type": "Partnership",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-07-28",
       "headline": "Biotech Growth Trust Notes $2.2 Billion Acquisition Of Forte Biosciences - DirectorsTalk Interviews",
@@ -57,6 +134,17 @@
       "stage": ""
     },
     {
+      "date": "2026-07-27",
+      "headline": "Moody's Ratings says successful acquisition of Organon by Sun Pharma could lead to a multiple-notch upgrade of Organon's ratings - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdWRaNmR3S0cwdHVVdU1rdFVlTWY0ZFEwdlBXOVlMUmVTbjM5Q3F4am1ESmM3b0tLcldVWWZxaWxhenRON254UHZzNVBIZTVVaWhFLVlaOHVhVm45SWNnVWE1Sy1maXJ3Z1BOM2JPakZxY1FTaFBXZV9QcnYyMzhIcjNNNDFOOWpsOWZ1alB4Q2JtdTI1eUUtVDBsT3dldUd0MkkzMU9pQWYxU2pUQzN1ZjBFc2ZHNW1mRklQYk5hVV9UTFQxcE9VSTFaM2lBa0h4R2ZwMnNXZEdjZTcwTVFGOFdJTGlobWlMbExPRy1PSmFRYkNGRkxPZHNVQm9KYWo3UDRJaGdHdmNyeUk2RTcxMkNUUQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-07-26",
       "headline": "Aurobindo Pharma's Apitoria to Acquire 80% Stake in A1 Biochem CRO Business for USD 17 Million - Medical Dialogues",
       "source": "Medical Dialogues",
@@ -102,8 +190,8 @@
     },
     {
       "date": "2026-07-25",
-      "headline": "Aurobindo Pharma Inks Voluntary Licensing Pact with MSD for HIV Prevention Medicine - Medical Dialogues",
-      "source": "Medical Dialogues",
+      "headline": "Aurobindo Pharma Inks Voluntary Licensing Pact with MSD for HIV Prevention Medicine - medicaldialogues.in",
+      "source": "medicaldialogues.in",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSlZZSElSckcwUmREUVYzMjlBVkNEa3BsM3l4SEtlZTNqVkVGbmV0Vjh2NE96TlpSYnlBZFRhek5Jb1pieWRBUDhnN2p5T1oyUFdpbHAxeWNiRkY5SnhpVkVXcVRrRV9IU05jX2N5TUVjV3l4U0hHemttWmczMTN6RHlYQzBhQkRIWTBKVno1eUQ4bHB1N1h5TVo3Z0RWVFhFb0pDdHZ1aUtpWUZMdXYycF9yX1BjNlFEd19WbXg2QTdQTmRYR2FsV1ZnbXQtdnVZblZIczNn0gHbAUFVX3lxTE4xbzk5WEpuVFp1cnAza3Bkb0U4T1lvdkE0S1FqX3RqOG9aaXRqc2h3bkgtdmpYZFFwYnJob2x1UnBkeUN5UXlkMHZjbURMeUlCMkd3bkRvSUhBLVd3Tno2RHg4Sk5HU2Z3RXZTYjZ0QmlKdUdFMDd1eVRjOHU2V1VwcGd2QlZsc0t1Qklpamk2dVEwUnlCcmNKYThoeXh1V0Z1NTZGN2FwVzhWa2dKWWRYakpMQ3g1dDNfZ3J1b2lEdmJocktFUkVIdW9fN204cUlCMU1QOVJQSkJrZw?oc=5",
       "type": "Licensing",
       "value": "",
@@ -1191,8 +1279,8 @@
     },
     {
       "date": "2026-07-07",
-      "headline": "VERAXA Biotech (NASDAQ: VRXA) Shareholders Should Watch Novartis Latest $1.5B ADC Acquisition - The Globe and Mail",
-      "source": "The Globe and Mail",
+      "headline": "VERAXA Biotech (NASDAQ: VRXA) Shareholders Should Watch Novartis Latest $1.5B ADC Acquisition - theglobeandmail.com",
+      "source": "theglobeandmail.com",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUjdqYVNGNVdQZFpBeExjUUx2TnpsN1BDYXFNWE9jX0g0Z2xwOG1NYzA1SDh3VnFBRGw1WmVISGI0b3dJcG9yU05USF9jSmF1MmRsVElGd082N1AyS2pXRHJsZENTNDBQRVV0UjBndnR3LXdRbS1TR0N1YTc3ZUlUNHQyT0VTYUtMU3VVanQzVXQxb19uYm9Nc21ETXJXUHFkLS1MZjFUNnF4QUQ0bkZMdk82STRERjJPVmZ5T2JQSjR4RFNBVTR6WFdqRk9yRXdzVnpaWUZZbng5ZkVLMEVXVkNEYlNxck1OYVQ1LXVFN2dfbU8yNlpPQjNnQjF5bFNKMFVn?oc=5",
       "type": "M&A",
       "value": "$1.5B",
@@ -2660,94 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Switzerland: Laprophan accelerates international expansion with completion of Rivopharm acquisition - Investors in Healthcare",
-      "source": "Investors in Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcmJBNFVJQy16d2FOQVFxOGtobnRpTHgzakM4ck1qSTNlUnRjZnBFREIxRGVTZy1BdllyMzg2SjVXekthZDVmdEZRVlZiYjhyM0VmN3JfRVh5N1JJRW1LcFdmaU52ZUszY3AxbjlFUWhSQW9zTXFyS3ZMUVFoeFZqOUpoc2dnSm1HY1pEREdZeUVtTXZHZUcwYnpGeHFhZ29jOHYtY05jeXRzNHRrS19DTS1Ialo4NlkwaFA0R1BMVWxWVWhYMzNfYTNQbnNzc2J0ZkNlWXJkajVUaDNQeGZqLXc1Skt3NUVoUmNoNzFxaWFkUQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "FTC orders Aurobindo to divest 4 drugs to complete $250M Lannett acquisition - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGIzdzUyWG1Ic2w4dUxDVkZLenBRd1IxOTdSSlVXOU8xLTNLSktaYXBOdHZIOTlXYk8yYzhuQVYteVpGc3hUR05MRnlyYWFwNjFGeTBQOHdRV0VUOU9EWE5RWHBINUpydjNFeHVLcThoWER3TnFFbjNKblRRVFRqM3FubnlQWk1lWlpmcUwyY2s1ekRzRDUtbWV0YkI1S2h4WVJwcmlnRWo5Zw?oc=5",
-      "type": "M&A",
-      "value": "$250M",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "FTC Requires Drug Divestitures Before Aurobindo Can Complete $250 Million Lannett Acquisition - PYMNTS.com",
-      "source": "PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQVVUOVNFS043MHUwa041WFpZcnB3U0tPOXVpWmxxeFl5empSd2MwSFJha0FZZkF2Z0o4UUE1dHdMZkFTaU5RSmtnWEIxYk5tMU9RS2lvT0hMNEVDam1UWlRPYVBnODl6dXpmMkUybjNyRUgzNFV4dkV6UHc3ZjNvQmhiYmNDb0dleU1xc0dTV3ZGSjZTRTJUeWp1dVhkdFdVWlJOU2FUcUd5dHI4T0VlWkNQQ3BBbGtEWDRwdS1TTmpwdnJN?oc=5",
-      "type": "M&A",
-      "value": "$250 Million",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Biogen to Strengthen Immunology Pipeline With $1B RayThera Buyout - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQU5hMXpaOUYzRFU2WWgtajRQYUJTLW41OXQ0SW9KNE1TS1NkVEFBTWk4dFZOalZCWmktS0JwUnNMdS1qQlVEVVdBMFBPUUY2akhBcDhyeVNDWTVtaXkwbFZINjhDb2hmWjBka0JfMU10WVdmaVBFUERmUUpsMXVoS0ZQT2NSU203RmRJLWVIWkRXbHJhMjN3bkVxS0FBdXNTYWtZLUV1QWVFdzQ0Q0I0ellUNGpjbUlaNWR0cWVkSUF6YnVnMEFqTk50MUI4ZmpxWEljejd0LXZJNTZyNHdpdTh3?oc=5",
-      "type": "M&A",
-      "value": "$1B",
-      "area": "Immunology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Morocco’s Laprophan Makes History with First European Acquisition, Taking Control of Swiss Rivopharm - The North Africa Post",
-      "source": "The North Africa Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW1PUkg1WWo1ZlJfMlhXVGhXN1pHb3NJWkdYNHF1THJzTmNvdkxMT2Z1U1BBLXdiZGJFVWttb1pqMVQzU1RqTTlXU05PMzBXWmxaLVZmUmJhZE93TjdvU01tVnFfUUJMUlR0VFNCdFhFdmJnMjBLR2lheHp2dm0wa0M4TXo5OXR5SXlXUDNHNkp5MEdkOWpBUXZXb0FfZGFqb0pLdjJ4T0E5OWRHQ3Jpc1lEMFBHWTh3V1pLa2hONXJZVUFIZVNZRjdXa25melBscF9B?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Morocco’s Laprophan Enters Europe with Swiss Drugmaker Rivopharm Acquisition - Morocco World News",
-      "source": "Morocco World News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcUE3SjE1RFhLT1Y2cklxVjAwOU1qTHdDLU01WVl4LW1oR1RwUV9xVGlrVFhVM0NmOGpSNklhX0FfWnFtM3ZDVzZKcEppTmJCQzY5X01QOEFIYUR0OHIxd09pNkF4VGd2OXNKMGdNT0NtWVE1R3RJekx3ZmJ6TFBIQzRoOFA4UV9WN0xKRURjZF9iRDN6aGFJYXozT1N4ajl5Q0xqc192bjlhWERPOExoQk44TVpscGVYbzl0dGhmOVBRUQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Biogen to Strengthen Immunology Pipeline With $1B RayThera Buyout - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQW9nVl83NnJtSUJUemZNZzY0aGZ4Q0x1ZEtyVGxrUVBfZGdaeTdoUnpFdTczV28yX3FmMmJIWkRzYXQwekV3bFpuQzdzV1lESGFjdG9LajVHbmJVdC1jenRDRVpJaUJ4c21tQlBFYmNueE8xNWZDUTNMUW82Nms2NkhKZElqbXFVNjA2SWZkMlVJNFJQa0diVGxRc01KN0ltOHZr?oc=5",
-      "type": "M&A",
-      "value": "$1B",
-      "area": "Immunology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-18",
-      "headline": "Biogen adds more immune drugs in $1B buyout of secretive startup RayThera",
-      "source": "",
-      "link": "https://www.biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/",
-      "type": "M&A",
-      "value": "$1B",
-      "area": "Immunology",
       "modality": "",
       "stage": ""
     }
