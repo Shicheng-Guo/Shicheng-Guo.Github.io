@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T10:32:04+00:00",
+  "generated": "2026-07-31T10:48:18+00:00",
   "items": [
     {
       "date": "2026-07-29",
@@ -87,13 +87,6 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "Shapiro administration launches $125M fund for biotech startups - Audacy",
-      "source": "Audacy",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDFPbHR2Xzl0eDhZS1NUVjhTWHFhUEZUSE1yWVZtZl92eXEzQlpOc2d2MzZZc1dEU1E5bFB6RlJrbnFka0VzQmVqQllsdUpoYmV5VndTVmJJLUFYVldmSnZRMXNfM2NycU5tUzBRUW9BT1lDQWhacUp0dm1IdFJXY1R3SFFaQm45M2JSeQ?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-07-22",
       "headline": "Singapore-based biotech startup Tikva Allocell closes $8 M Series A funding round - BioSpectrum Asia",
       "source": "BioSpectrum Asia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRi1GREVuczNhcGJfeG9sS0p6RkZ5NENKN3pFaVNGcnZBQ3BMX0M2QkRfaVFPZlZiVWZIYmVtUWxxemdnX0cyUEJmdm5zYjh5VEhNRlNsUE5KT09hcnluQUpEcjA2dC1wbVptQVp5SUtYNExBRER2dGRfOHVGVXdrWEJOOFJBWnBjUEhJNzVBM004MWFWUVZtTEtUQnZraFdFVUNVX09lRmxFaEZOWFdYRVYzZG1XOElJOC1EcHQtWlQyNmsxM0ZDdy0wZw?oc=5",
@@ -108,8 +101,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "First Biotech Startups Receive Funding Under India's Rs 1 Trillion R&D Fund - rediff.com",
-      "source": "rediff.com",
+      "headline": "First Biotech Startups Receive Funding Under India's Rs 1 Trillion R&D Fund - Rediff",
+      "source": "Rediff",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcTJUN19oUlRzX0FONEgyVTN6bS1NLU9fZktKcjkwVzNyN1VEdkVLZnhzZFAtRm41dTJ6a3FFLVB6QVFsaTRieTFPd0t2TS1FdkdEY0hENDdrY1JZdmVtTURNSjN0OFBLbDlDU0FvQlAyOEg3WndwVmFoRkota29PWlNva2VvX1djUnppTFRTWktHVUdON0cwUE4tQzZNcU0wWkl0TUdMVW4wQzF2NnM4VE9uUkdWRVdZZFVKYk1R0gHAAUFVX3lxTE1pdExxOGEzRlU5Q0F2SlhSUC1yR2E5c1BRaHJheFdpRkY3MXFwc1lFNEtodmtsVXA2UGhkSUJLdm1UT3Eya01mN1Y5Qk9TVjhlblhacE5Dd2hubGsyS3UtOE5uUzdMNkZFUWlHQ21xcmNmZW1fR0tTUDctZVV5QVY3X0ZDRXdZa3hNb2FVMzJNZWIyVFR5Rk1VemZnQkpCeG9qZWxmeV9pNXhDaDh6NXlNTzFWM05KR3ZMNDliRGZEbQ?oc=5",
       "category": "Funding"
     },
@@ -129,8 +122,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "NSG Bio and Chiesi Launch Initiative to Accelerate Respiratory and Neonatal Biotech Startups - BioPharma APAC",
-      "source": "BioPharma APAC",
+      "headline": "NSG Bio and Chiesi Launch Initiative to Accelerate Respiratory and Neonatal Biotech Startups - biopharmaapac.com",
+      "source": "biopharmaapac.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZkVzX2NuQTBJNXFFaUttS2tMcDZqZ1htazNKRHJPRnk4TjNlZGNxeTFwQUdpWFdRUW90MldmeUdqb2lJeUNBb0I2SVZNWGxlcEF5ZkhMVkp2WXdtbVlmbUhMMXVvSTUwSjZvNG01MDdFY2NXVEFONl92V3VZOVJ2dEVodDhPNm1KUW54bGF1c29yZUlVanpwcjd0dDMtMVptNnlrX2V4NGVlMnEycmVBd0w4SnFka0V3VmxrMlRkOFAyZVVIQzA0RHB1M0J2SEVTcnc?oc=5",
       "category": "Launch"
     },
@@ -147,6 +140,13 @@
       "source": "BioSpectrum Asia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTR3d2RXc1dWbHVDZVAwZDdZRnZGcXpOUmxhbUdTOFlMY1RJeUlheWREQkg1dE1mTmdFLUx4WXlWZTJXTzNLSWRNWWplWTQzY2dCZ3BWNWZaaGh2S0dlNmswTU5vUGNVOENtX2JyOHVxdFhNWmxYM0JkeVVwa1Vyb3g1RmZydWNqYVNfV0c2QkplbFpfbDlHUDFsMGNsT2k0dHYtR1NDaEdnazBqbFg3V0hFcjJmempzYjlybjFtakpDZzhBb2N6NnZ6WQ?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "Shapiro administration launches $125M fund for biotech startups - Audacy",
+      "source": "Audacy",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDFPbHR2Xzl0eDhZS1NUVjhTWHFhUEZUSE1yWVZtZl92eXEzQlpOc2d2MzZZc1dEU1E5bFB6RlJrbnFka0VzQmVqQllsdUpoYmV5VndTVmJJLUFYVldmSnZRMXNfM2NycU5tUzBRUW9BT1lDQWhacUp0dm1IdFJXY1R3SFFaQm45M2JSeQ?oc=5",
+      "category": "Launch"
     },
     {
       "date": "2026-07-21",
@@ -199,8 +199,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "Biotech Company ProTransit Introduces Free Radical-Fighting Skincare Brand Échelon - Beauty Independent",
-      "source": "Beauty Independent",
+      "headline": "Biotech Company ProTransit Introduces Free Radical-Fighting Skincare Brand Échelon - beautyindependent.com",
+      "source": "beautyindependent.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1psSnRIZlBydFB3eVB5TVUya0ZCd2czNVlPa05OaUM4UkJadHJCSEtHWmNtUW82RVdMVGE0TXI3SWR5dVFodUpSdVJsQ0M1QjNKSDFJWWo3OHBnMVp2QzE5cUlpczBmVzZoZG1EOGV2cGdIQzVEZHpMZ0JmT2hjWkRIdENrTUYxdU1oME00eVlYbGNJeHBEYURzSVdzRUdJY0tJY1NQdXIwZw?oc=5",
       "category": "Launch"
     },
@@ -399,6 +399,13 @@
       "source": "BioXconomy",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUF1S19YMDBNeFQzRkVHTHNZb3BWREJaenFvN1lFZUg0UGdhazV2ekhBWjN3RWlNbHg3c01KSzdzdnJoclVnb3E5aEhyY2hrNlJfRkpKYUE3ckpGSUc4WUQyU3Q0TWw1TDlIRlVwSXJ3OXowb0pfcFdfZjd5QUE0Q2hKNlNwUkZ4dWJ3aXgtMXNpa2dIdG92cjdaY3phQmVVb0pZ?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-07-14",
+      "headline": "European biotech chases record VC funding - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLWR5dkpQUVNwUHc0UzNvVTJRTlBVOElHOWIzdWVWdFhXb2VKeGsxcTZEMG1iWlFlTTVMaXdnSDhDYjVUT3N1VjdoZEZkMHJnclI0dXBfODVmOTY1eHBkZEhJMmpPZEJfcXlxTlUwdkJOSEhoUFdWVHFrV0lxeVpObmZVQlhCd3IzWnJCTmZOaXpWWG16alBTY053?oc=5",
+      "category": "Funding"
     },
     {
       "date": "2026-07-13",
@@ -710,8 +717,8 @@
     },
     {
       "date": "2026-06-08",
-      "headline": "India: Cancer-focused biotech startup Immuneel Therapeutics raises funding - dealstreetasia.com",
-      "source": "dealstreetasia.com",
+      "headline": "India: Cancer-focused biotech startup Immuneel Therapeutics raises funding - DealStreetAsia",
+      "source": "DealStreetAsia",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlRQTDZLSVZkT2tmMVBfaTgxVTdTVlY0b0lIOGJiNlY5X0FrVEUwaHZNZjNWTFJhNE9scTR5V1dteHZPbkZyOTVUSDVpVTROMlQ0T0NHSUJDejEyWXBYLUpORmZyRTIxQWdUZVZCRUcySzZsdlgyOFJwWDVUcThaYg?oc=5",
       "category": "Funding"
     },
@@ -885,8 +892,8 @@
     },
     {
       "date": "2026-06-02",
-      "headline": "Waypoint Bio Raises $20M to Advance AI-Designed Cell Therapies With Clinical Trials in China - citybiz",
-      "source": "citybiz",
+      "headline": "Waypoint Bio Raises $20M to Advance AI-Designed Cell Therapies With Clinical Trials in China - citybiz.co",
+      "source": "citybiz.co",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUXU0bWFpcWxFMzhZVnhxU0JjZkpnblJsYTFYZ0lRWjFDMno5M3ZETGlQZ3hWRGRldWRNMWMzZ1pWZFVqc2ZrUXE0M2E4MXFJNmlsV2h6R3lpTTV4ajcweUdGSUYzRERLVDdyNWlLNVA1YnBUTk10OEFVNHY2aGR6SU5PcnlDRDNCLVJnVVBnU3NZbWFScDFqb1o2dGZaak1WNXdPeVNUbGV4R1ZTWE1mYUJvTjItcmhvTzhJc1l5N3pYckdUYlRVcFF3?oc=5",
       "category": "Funding"
     },
@@ -1137,8 +1144,8 @@
     },
     {
       "date": "2026-05-14",
-      "headline": "CREATE Medicines, a biotech company developing CAR-T therapies, raises $122 million - statnews.com",
-      "source": "statnews.com",
+      "headline": "CREATE Medicines, a biotech company developing CAR-T therapies, raises $122 million - STAT",
+      "source": "STAT",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HUWJHcGczT2wyLXl2bFZsTEJEX2N2RC1OZkZ0UGJHQzM0QVgyQXVvemlMQWotZzRuOEFHVDVmblBRanZLLXNwcFlBQ2FsV3l6VV9NRzc2Z0NXeWRlbmFzYTN0MkFKay1SWHJvS3B5UmhzSjFfLThrZW9iYkN0RVE?oc=5",
       "category": "Funding"
     },
@@ -1270,8 +1277,8 @@
     },
     {
       "date": "2026-05-07",
-      "headline": "McMaster spin-out biotech company gets $2.5M in seed funding to develop critical medicines - McMaster News",
-      "source": "McMaster News",
+      "headline": "McMaster spin-out biotech company gets $2.5M in seed funding to develop critical medicines - news.mcmaster.ca",
+      "source": "news.mcmaster.ca",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0lDdjVEcVFWd0EydGZ1Y2h0WkM4QmJwZ2l3VkJpM0FELTlxYjhpaDdFUXVHck9NU2sxWlFNeDhrYVlvX2pqNVl1U3lJZHJtR2ZfYjg2bDNqZk1VWEhsbW9BeXlUZm5RQWdlbU5sclUtTmIwNEhvZWcybmlVYWV3eGU0TnpQSnJ6U2VpUlZyOTBsUQ?oc=5",
       "category": "Funding"
     },
@@ -1333,8 +1340,8 @@
     },
     {
       "date": "2026-04-29",
-      "headline": "New 'living pharmacy' biotech company launches out of Rice venture studio - InnovationMap",
-      "source": "InnovationMap",
+      "headline": "New 'living pharmacy' biotech company launches out of Rice venture studio - houston.innovationmap.com",
+      "source": "houston.innovationmap.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDBuZkJiaTJqTjhWRm5Xc2d2cHRUeDQtZXp3NzJHRXh4X1pfZEZqSTVINVZXY1FST3dHa1JkRG0xSXMxc1ppVzdrQTN3TGh3OHRjY2hEaUJjUFBFUF9YNGRxdE4xcThqN1RzWE9UeWNSbGh3Vm5fTlJXNURjT040Q0k5M3dqTTFfWlE?oc=5",
       "category": "Launch"
     },
@@ -1382,8 +1389,8 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "AI startup founded by U of T alumni to revive failed drug candidates: The Globe and Mail - University of Toronto",
-      "source": "University of Toronto",
+      "headline": "AI startup founded by U of T alumni to revive failed drug candidates: The Globe and Mail - utoronto.ca",
+      "source": "utoronto.ca",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYm1Xd1U5aGRQNDhkTWE1U3pPSDNVWWNiXzBsN1lvRjNVRkZXMVBMUUEwdnlSRFhrdVBvdUxHRmlpT3VPaVJVa2xldjJTZ2dsM0FjVW9BcGtyUnc2cjJ6VWUzc0lYQ0t4N1NmXzEwNng2RW9SallHSWtrOEpOUkI1UWxVMGxrNkdkbDhZQUxvM3ViX2ZOS2hraUhpanh1bEJ0N25GUzhR?oc=5",
       "category": "News"
     },
@@ -1571,8 +1578,8 @@
     },
     {
       "date": "2026-04-14",
-      "headline": "Mapping AI startup investment and innovation in healthcare using a five-tier AI systems complexity framework - nature.com",
-      "source": "nature.com",
+      "headline": "Mapping AI startup investment and innovation in healthcare using a five-tier AI systems complexity framework - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uNjBDaF8yY1pBY3JCTHlXQXZ0SmVrTmFGQkozLTlMajBtdGJpR3l2Sk52UDFwQ2tJbmZ3Q1dPN25laC0yM0x0aTJGMVJ3MXJoOEprUWdnV0JaWFJlb2kw?oc=5",
       "category": "Funding"
     },
@@ -1742,13 +1749,6 @@
       "headline": "South Africa’s OneBio Secures Funding to Build Africa’s ‘Biotech Factory’ Amid a Deep Tech Reality Check - Launch Base Africa",
       "source": "Launch Base Africa",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdjljUmtIWlBYazJsRXJJdWl0cWx5azZTazYyUnZlMll1WDh6RlV0X2lhcjBPckhzQmZWTFh1YlVCMkg0MjR6QU9wemtFckoxNm01WWFLR09GcTI3dk9SOVpwZm9xVkJLeFhXb1phcGduSUxzajVVUXY1eTg5T215YzNaYUE4ZndlY29PNlJsaVR6RmJuZmZGRmFieXU1ek11VlpnZHBGd0NUSTVvc0JyaVNhaGNWOXdhc3pZUUwyUnU1djRDQm5lbGdoU2hJYm5mUXJnX0lVQ3I?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-03-31",
-      "headline": "Scala Biodesign raises $16 million Series A to accelerate AI-driven drug development - calcalistech.com",
-      "source": "calcalistech.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZEZtWTBrdEtzNmFpQ3d2Zl9QbENmMlpra2oyOUpIYWpwODdEMElhRGFPenNQTjRtRU43OE9GcHZOWkhpY1ZZM2Z0VjhEMVBvRVN1cVlWQzZsSFUyWmdEcDhGNVd1clNlYVE?oc=5",
       "category": "Funding"
     }
   ]
