@@ -1,6 +1,17 @@
 {
-  "generated": "2026-07-31T09:33:23+00:00",
+  "generated": "2026-08-01T08:57:08+00:00",
   "trials": [
+    {
+      "date": "2026-08-01",
+      "headline": "Karyopharm’s selinexor misses primary endpoint in Phase 3 endometrial cancer trial - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1hrWnEyQVI3VnJIVC1idVFwd3NRNEI4WEJVT2k1dklrZVFrU3ZZeGZhQWNjOWVlT01XR0FfbGI5SV8wdzVDVloyYURMbzBWRnEzQnJLZktzdGd2azhCbnhTNEwtMThZX1BEem1rRENNVVpVT3laSGk2ZWxkMnFXZ3RROXMyNGxsaks1S29LaDg0WjFiM1UzSGFnQlBHTzRlNzlJUWRjX3Exc1ZUbEV0YlZ3NnVPeVk3cVo3NmU1ZFotbzQ?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-07-31",
       "headline": "Radiopharm's RAD 101 Hits Primary Endpoint With 93% Concordance, Phase 3 Trial Planned for Q4 2026 - Kalkine",
@@ -31,6 +42,50 @@
       "outcome": "Readout",
       "phase": "Phase 2",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-31",
+      "headline": "Tenax Therapeutics reports Q2 net loss $17.8M, cash $118.0M; LEVEL Phase 3 topline due Aug 2026 - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQTAyMTlmblR2cm9qaU5DdjBLeW5JdDZvSHNFaG42Z1J5N3dORGtseFhrbE1qMDdXMjFlcFRzYUkyWVYtV25SOGVKZkhRa0QzTU1Jbm51cmNqczl3X1pvMzFoQ2RFQk9ZRDNfN3JDd01ZZzhhR2lQdHdTTnppS1NySkhCa2ZKYlZTaG51U3A4RlZPZEZyZzZwdDZlM20zc3FzaC1oSVlNN1Bpc25BcGVPUzRrMkQ2ZzRMWmw0SUpPa2VaYTFVQW5rcUdVbVk3TmxaSkpBdVZTVVZxRlZFUWlSdHlaRFkxc19H?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-31",
+      "headline": "Karyopharm’s XPORT-EC-042 study fails to meet primary endpoint - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGpaVFdiR1p4alYtU2MzVTBrdDJkcENpTWZUQjNOak45akhCdVdWUHFmd1RSU0JsOE03YUVnQVZMb1ZHRnk1MG1PS1VtNzFRM3RzMjFJM0h5Y2xBNjRQYjI3MEdlU3JUeTFQY2xJd1BSTUpVVk5wc0RGRWhLeUlvSGNOZFU?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-31",
+      "headline": "Novo Nordisk left praying to Artemis and Hermes to salvage CKD program after phase 3 fail - fiercebiotech.com",
+      "source": "fiercebiotech.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaFRuNE5zdE5Wa0ZfcHhvdkJmOWppREVvOTdUTjVBYXRJbndURGZyN09ZTjl5dkIwU2JPeVFldVd2SUIzZV9VYjV3eHZ5U21FZTNvUzloSHY5bXlXb24yY0NnRGUwdG9lSk5udXNRSV83TERSdVBwc0hrOTV4djJ4bVliVGVoOTRzejUzWG1XYlZ6dFRvRE5CNzNuRFo2dV9SRmU1Mk1HOWx4QTFMVERCeTNfalJtODhwZFJfT2ZCZDNzLUczdElJ?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-31",
+      "headline": "Novo Nordisk Falls Over 10% in Largest Single-Day Drop in Nearly Five Months After Announcing Heart Drug Trial Failure - TradingKey",
+      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd1MxWFFnNVExUy10S1lTZ01Pa1ROazdPTHFpYks4TnpoOW5XSkdQclllQ1hMUTRpVEx0YTh2ZVNoRFZhM0tBbzNqcGpHclU2ZTJMVjc5Q1hJMUd3ZkNEZjJSRDYtMlZ3R1R6cGpFZlRoZmVLMFdJTWllYXVGZUU3QmN2eFktc05vRHV5aFV5SEx0Nlo0VkFGazBCSU1DT3MxVVNrbVhJUDI1RkJJRzhZaHU1Qkpadl82MWZPSDl0WktPaUVQcjNvZGsyM3c1NU9Oa2Y2Y0ZQcUpyc3A0NXhVdGFB?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
       "target": "",
       "moa": ""
     },
@@ -91,8 +146,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Pfizer Announces Positive Topline Phase 3 Results for LITFULO in Patients with Nonsegmental Vitiligo - businesswire.com",
-      "source": "businesswire.com",
+      "headline": "Pfizer Announces Positive Topline Phase 3 Results for LITFULO in Patients with Nonsegmental Vitiligo - Business Wire",
+      "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdTJmR0pHNjRpNU94OUhSX3VPeUN0R3VGT0xDNVVpNHUxblJiRVFmZjRMZ29lSS1zeGFwSjI1LXotR3ZsM0xzR2Z1M29hUEthd0VFMXh0Ti1QWlpoVXc1YlVEcDdNNkpaOFZHdHoxeUEwXzVPRlNVX3ROOURrODF4ei0xUllyVXd6a1NDV2tiNFAwRk9yYkhoN0RyMjVNV3lBMm9qeE9ONUJHVjd3b01XY1o4dXJkelB5akVteEdqVW42WEZTcGNGX25WSU5Xa3F6Qk4zLVA0aHptZ1VNNWxlZm8tYlZGRUM5Sk0zQlpR?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -102,8 +157,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Ritlecitinib Meets Co-Primary End Points in Phase 3 Nonsegmental Vitiligo Trials - Dermatology Times",
-      "source": "Dermatology Times",
+      "headline": "Ritlecitinib Meets Co-Primary End Points in Phase 3 Nonsegmental Vitiligo Trials - dermatologytimes.com",
+      "source": "dermatologytimes.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDBwdml5c0hLUjExOTNJaUdUVUdWX1FtX2Q3U2diMmdKeExkRTJoRG8tYlVhUWd3OWQ3LU5xU0FCcy1FSDZ4djJTemlFcldwcjJITG5iRnFnaHJWcUJvREJJbVl2Yy1NVVRKbS0zMU84SlFkMnVaSXd2X19yRUJjMjc0bTRhQVJGOHZwQ0w5ZmhXNVJmVEYzWkFBNVNUSHlpeWRiNnlJVU85ME5SUHRrYW1qRzFfTEpSMUE?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -113,14 +168,25 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Pfizer announces phase 3 results for nonsegmental vitiligo treatment - pmlive.com",
-      "source": "pmlive.com",
+      "headline": "Pfizer announces phase 3 results for nonsegmental vitiligo treatment - PMLiVE",
+      "source": "PMLiVE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRhYkMySHhWT2pVRWlCc0thY0hLNklISUlydjVKMkRQT2FLU0xwUmM4bV9FQ3NqODA2d2x5Y2g3RHlnYVlCOU1OYTVWd1Q4dXlVazByVE9wRDRrQW0zSG1sLUZNUC02SkRxVTVBNU4xdFJtQ2hZc0xrTmZ5alVsYmFuRlFVd290Y1gzOExkZi1VazBXZTdWb1J2MFl6R0RjRmc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
+    },
+    {
+      "date": "2026-07-30",
+      "headline": "VA to run trial of GLP-1 drug to treat alcohol abuse - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdTgzdWtHWkhlR3F5d1p1NXN2WlV6NHNSTDM1VmwzemRwMEJaT20wQ1cxaTlfamU0dG0yWEtNTFJYbUhFQmpDai1yd3pyc3AzeGZ1QVlLeHlnWnNEYnM3c1BET2NER0h5cnFHellDb2luSU1LWUR0NmxnUVpRT1lBdE1ZMTBFdWpkcldxUmxn0gGTAUFVX3lxTFBQYkdfUW8ySWJGSTZCMHZPMXFicHJUc1I2c0tDNHZUcWp4VU5ibkxwV0lxWlZCc1g0dTdINWlCVmpBcmI5UEROYmxiaEQtMk1DTnY3UmhUcjJvaEVkQjV0eG9nUUZUZ1pWR1FnN19INUJZaWkzeW82dEg3bVRsZ0FkSmlEV3hHLS16RXpkZjMxYkhlOA?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "GLP-1",
+      "moa": "GLP-1 agonist"
     },
     {
       "date": "2026-07-29",
@@ -167,6 +233,17 @@
       "moa": ""
     },
     {
+      "date": "2026-07-29",
+      "headline": "Atea reports positive topline results in Phase III hepatitis C study - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEJ4TXBQSm56dXI1eTJ3N2Y5QmxRS2VPV3pzYWpkdjFxdklJQVhMbDktZWgtV2wzUndVZmFfLS1zNm5LNFJ5MEtWTUVHNXYxamhHSEI5dkdJak4ySUJsZWZLdjZ1YnVKY25DWUE0VzZEb1NKZFZOYXQ4MXowSE91RVFUcXFuTXc?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-07-28",
       "headline": "AriBio wraps up global phase 3 trial of AR1001, sets stage for topline results - koreabiomed.com",
       "source": "koreabiomed.com",
@@ -179,8 +256,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "Aribio completes global phase 3 Alzheimer trial, readies topline results - CHOSUNBIZ - biz.chosun.com",
-      "source": "biz.chosun.com",
+      "headline": "Aribio completes global phase 3 Alzheimer trial, readies topline results - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVFnUlpLUFVMN0xtMXlXeHB6Wm5NOG00WmFaU21JaE5aRjZoNzdkWTdCakUwdUk2SXVvSmR4RmdhTzFjZHRwV2JrNDhlNmJrMU1mQ1JXVFcwZC05bk1UNzFaRVRNZXNFWVQ2WFhCOG00U1RUaTh2TGY5MkEwWEtHddIBlAFBVV95cUxPazZPWFF2Nm9xNmIyd21JejF2REoyT3pTXzBhZ0t5WFNfTnpZSDJUMzZKY21hcW5JY25lWVNuQjY5TXp0QVhxV0lUNHhiVnVQTE1Yel9OY0F5blZPS242WlNSTUlBdWpGdkdaRTNsd2VYaW14LWx1Y0doWXc1d2pQVHJ5a1Z4V1A0NHRxb0JsZlF4MTFI?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -300,8 +377,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZko5bzJOdHNUR1A4blB2MmluRm5LNm5keFVtelM0dzRESkFGVnU3REFWdWNSaW9lY2N5eUZXX1d5YnZpU291UGVmeURfN0JheXA3TmN5N1JoU2JyQ0pHb1psaW5RRFZ0M093aGw0elRwTFQwTU9tMlE1c3pkVFU4RzdIMENnN2tNV0swNmI0R25UWHFITXMta201dW5VWTg1?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -366,8 +443,8 @@
     },
     {
       "date": "2026-07-27",
-      "headline": "MapLight shares sink on mixed ph. 2 schizophrenia readout - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "MapLight shares sink on mixed ph. 2 schizophrenia readout - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGRCajhpNlhOdEFyNlFsdWN6T1Y0YzZaQUZseXE2c0dyVzdmR05sbVRSTHRKYjQ1WHdNYWtHaUpIMFJrX24yaVp2VTVhV3N5N1dwLVBqQUlYVFpQOEQ4UUFzSkt4dzhaWkx6bGN2a2xONmdaMmMxanQxRGpESWkwQ1lBZ0haWUxJT0lEMXFNWU1LM0ZXeVE?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -443,11 +520,22 @@
     },
     {
       "date": "2026-07-27",
-      "headline": "Placebo effect forces Korea biotechs to rethink late-stage trial design - CHOSUNBIZ - biz.chosun.com",
-      "source": "biz.chosun.com",
+      "headline": "Placebo effect forces Korea biotechs to rethink late-stage trial design - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUJqUHBPZDJqUWwtVHNac01UbzIzVElJNzRNOGxPWXhNN3FZbkE3aWpTbFJtSmROZHVSUTBWa21TemVlX0VURENhdHBSRXRZMEtmZkFFSmNCMEsyQ3B1UTFTYXZucmV4RFZGcmhDNkFmYmNDVUM0X3BpOTNmRTQ3NtIBlAFBVV95cUxNb0VrM0R5Q2pXS2Z6cGliNWF3blBqVXdhcG5mWlNjZlBmZEJOSUJ4dGlmU196RlNFeHdtR1FvRnlhUGFCWTY3ejVBdl9md3JEUnN1aGJVLU9TVWt0V1REUy1qSld3VDlaTWs4WlRQU0JMUXY3SnVXNEJDN0JEaTM5a2J5VTlCdTZMb3BnTkVsSFRHdjNp?oc=5",
       "outcome": "Readout",
       "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-27",
+      "headline": "Update on Phase III trial of Ultomiris in adults and adolescents with thrombotic microangiopathy after haematopoietic stem cell transplant - astrazeneca.com",
+      "source": "astrazeneca.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUF9aUU5DQUZuMVhNZHl6VnF0eGJqa2pEU3R1NEY5RUg1UERxZmNaeS1Xa0g1LWROQXIydEE4QXI3VmlyVDNMc0gwNUpyNXQtMHhhbTB0V2tIQ1I5SW5Qc3haZUFaSmpFZFpLck15RkYzYW04el9xaGxZOF9yMnNKemRwTEF3RGJtd2pnTkxqUjlRT2VtNE82d1VoX0p0SEhkSFhzUXJ1bFBOOUNudWs0aHhWbw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -751,8 +839,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "Arrowhead Pharmaceuticals Reports Topline Results from Phase 3 SHASTA-3 and SHASTA-4 Studies of Plozasiran in Patients with Severe Hypertriglyceridemia - businesswire.com",
-      "source": "businesswire.com",
+      "headline": "Arrowhead Pharmaceuticals Reports Topline Results from Phase 3 SHASTA-3 and SHASTA-4 Studies of Plozasiran in Patients with Severe Hypertriglyceridemia - Business Wire",
+      "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOZHpEUDM3ejV0LTh5dXgxVS1EVDhCVklNaVhqWkVKWU52SzdOUDh3WThLTk02ejlOV0NCVDgtYkQ5ZjFXeVFtYVZjZVN4OWJfQVlNdnc2VnRfT0VqdjdCY3FpRWJpY1N5YmJQemRuaEpSTzJrZHFRdEhscEN0MTctYlBzOUljMUpPUXpZbEdFZS14YXlmTkFMbmgtNzFlUXBZb2xjdUp0YjdVTWo2ZWJmcTJ3ci1oVjJVbWRqWW1rZVVpd3NROTk3a3l3QVdfUnZxOE1zTTF0bnQ2ZHQxVlVfMGJlTDRrc05fWkNPWEgzSG5EQktmSUE2LS00c3ExbGdmczhhUTI1NkFoNVdCSE1Nc0Iyd2Q4WHhyM3pnbm5JNVA3MHlZdkJzWUFQQjNyQXFVR0E?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -823,6 +911,17 @@
       "outcome": "Failed",
       "phase": "Phase 2",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-22",
+      "headline": "LB Pharmaceuticals Announces Accelerated Timing of Topline Results from the Phase 3 NOVA-2 Trial of LB-102 in Schizophrenia - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2ZONElCOTVxQk1VbWp4ZDFySVVTTzIta29ET1o0a1lGNVB4cndxQ1R1Mkdaei05VmlFZmpkMGZuTXktX1lHTWNodTl2b214eHpnSFI1VkhoRzE3ZXNkeXowZ2pTRy0wSTBaMXpOZkdUdDVmZ0xDRmo3dDFSdzV0VWl1TkxIVTJYNVdPSUVTRUcyNlZwMnRUTHBlOEw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -937,7 +1036,7 @@
       "moa": ""
     },
     {
-      "date": "2026-07-19",
+      "date": "2026-07-17",
       "headline": "Weekly Rundown: Biogen pushes anti-tau drug into Phase 3 after endpoint miss - Drug Discovery News",
       "source": "Drug Discovery News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFZLUWM2QUVtUU1vY0ZyZzVEUVZIbkpCVU9aMklzR25IXzhMQzFWb1oyczk3TkdnamVqd2NnZFdLc0kwa0h5R09nUFQxd3Rkc0R1eUI1VEs4MGVIU0lKazNJR0hzUE8yZ3ljZzB4QlYzSEw2QzJIREZ6enJGT3lvYW5NUlBSNlVseVNrb1JHVlRTeE14NGN0V2kzZmFlWmlRNGJYaW5sRzUtMnlOUl9NVUlUcExiZw?oc=5",
@@ -1422,8 +1521,8 @@
     },
     {
       "date": "2026-07-14",
-      "headline": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSW45Q216RDR0VU1LTmgzRXF2M1BEdVExcGZhVDBDWlQzNHVVLXpNYmRtRHFGZkJPZGJxc3gzQkpQSzE1eldnUE5xdGUyMkE4RkxvdEl6aHBfNFMweUV5RTI5OWNzcHNzQUNWNGJLaTRyZllYblBJQmQtZzUzVzh3YWF5Ry1xSjV5azhfNmhoREdVdk8wRk8zaFZTZTZIRUk2Mm5IeUYyYw?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -2126,8 +2225,8 @@
     },
     {
       "date": "2026-07-09",
-      "headline": "Update on CARDIO-TTRansform Phase III trial for Wainua (eplontersen) in adults with transthyretin-mediated amyloid cardiomyopathy - AstraZeneca",
-      "source": "AstraZeneca",
+      "headline": "Update on CARDIO-TTRansform Phase III trial for Wainua (eplontersen) in adults with transthyretin-mediated amyloid cardiomyopathy - astrazeneca.com",
+      "source": "astrazeneca.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm5ITHRYXzd6bWlQQkdoTzRQVE9obG5abWEtUG9PWGpjbkNqXzJTTHIyRU5zVGQxZk9IaE9VNXd1bjV3QjY1R0psMWt2SG9MQ2haSG1yb2YwTWRIZHNSWXRzT0RXTFBnNTZFSGl2MTNMQldPV2JkUzltaVV2TzhYZzNfRXFDS2pyMVBxWFlMWWZYM2ZOVjhmZXYzSTFtX3UzMHVqUFNBYVhEQQ?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2412,8 +2511,8 @@
     },
     {
       "date": "2026-06-30",
-      "headline": "Vistagen Announces Topline and Post-Hoc Data from PALISADE-4 Phase 3 Public Speaking Challenge Trial of Fasedienol for the Acute Treatment of Social Anxiety Disorder - businesswire.com",
-      "source": "businesswire.com",
+      "headline": "Vistagen Announces Topline and Post-Hoc Data from PALISADE-4 Phase 3 Public Speaking Challenge Trial of Fasedienol for the Acute Treatment of Social Anxiety Disorder - Business Wire",
+      "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNOUFNUHkxWHBYWjB2UU5ta2V3QzVCU0hCQm5iN3lwVDNzbW9HVXYzMk9IckNYZDVqSDY4bmlQRDV4ZFp6dGVOZFVWU0YyNUIxWWVOVk1vVHF5eHNaLW1SNU1jVzVXRVBIN1pkbTUtbXBhMlNDOURMOS03OUg1ZXlhTk81dTFJMHVWeHMtOTUtMklUZm1ZN2pyZl9IUGNDQ2NtbHQ3aktqODJabi1kM0xRR2tEb2NERlpiUWVuN19xc1JjT0RhUlZmd0stOHZsU0JlN2JiNDNYeFh3TnlaclVEekl2a1YxQ2tQbWx4bkpybk9NcllFUktFZzE3NjNyOU8xMU4wRGY2Q01WeGlRemoyTndNcnpndEtMaDBicDJZTTV6WXBBYlJTZGw3Q1BvUDBQN2ZTcGpxanhqTm82OFFiSktPZmE?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2489,8 +2588,8 @@
     },
     {
       "date": "2026-06-30",
-      "headline": "Vistagen fails another phase 3 social anxiety trial but spies path to market - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Vistagen fails another phase 3 social anxiety trial but spies path to market - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHZlQUc0U0pPSWtYai1oNkI1bmctOGVTOE5mY291VEl1eFdtRU1PUUw4Uk9XYk1lVXFvYno2amJkM0dmd3RXZlN2b190Z1BiTlJxTGhXczNXeHl5blBZanBpby1sVjNYSjNMd0hUTlNZWUQ4anBPX3B5OGhhRno1NDVMdG9KMGNFUkE0ZXNKbURtOGhMaUpzZENMZ2hzMnFzM0ZROWYzdHN0eUE?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -2588,8 +2687,8 @@
     },
     {
       "date": "2026-06-30",
-      "headline": "Stoke Therapeutics Announces Completion of Enrollment of 162 Patients Into the Phase 3 EMPEROR Study of Zorevunersen, an Investigational Medicine for the Treatment of Dravet Syndrome - businesswire.com",
-      "source": "businesswire.com",
+      "headline": "Stoke Therapeutics Announces Completion of Enrollment of 162 Patients Into the Phase 3 EMPEROR Study of Zorevunersen, an Investigational Medicine for the Treatment of Dravet Syndrome - Business Wire",
+      "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOWE0yd2stdDBoVVZnMEJiQkloQVZRdGVoNkdRMWw1SFpack4xMzNqQmI0OS1EcExsdXdoaGRPMmI1OWgxaHlRbVM4VERMR3JGTVhxVnE3cl9lQjRyUjNFd1hISE5LNFZqZnY3YTEwMlQ5WElmUzF3VXIzbzNxOWEyTXJuMUg3ZzN5VkFYek5EbTJSU0VyVjVDelk3Y1d5Q1pXYlZSMDJOWGVibUVYNmVucnBGTnhaUnVaVHFoVDhJd251aWFPZ0ZnZ1ZVQWdqUHBYd0o2a1h1MFZkQTdsaDFYbjdTSTJlX3VxZzRWYURiTHdpZFBva21nSlVSMTM5c3NrMGNlX2FTLVZhSVFaMDZIQXFPcnNpdUVnWWNNRnJmNi0tYXY3UWZxTmhVeXFUWDZ1NG9yVkRQNks2V2gxX2NwVkRBMVl0Z3NTbUl2OXQyZ1B4akdoc0xERmp3?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2648,105 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYTNxc18yeTNKQVRHNnpQWkxCdXhMZjZGQVdCRThWRWdTUEtUQ1dDOGlLVDNEUE5aaUpMNFg4WTNaNzVkdEh1XzBWUzR5QXQtWWczUGNDTG9HMVl5NjlRWmhkQXllY1dqMmZPaGtiVnBsajNNR3MzWDFiWV94YnhRVnd2SzZ6REwwbDczTUdNUzRVUHlxS0Vhb1gwUllCS2tOWTRNeW1felRaX1J5Z0dVUV9WWG5SZUF2ZHlGZVJtY3lXUlRjVUVjTG55b2tUeVByTktDdWN1QXp5dV9QN0VxaEJGNUp3cUkzUjQtbTNR?oc=5",
       "outcome": "Readout",
       "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "Vistagen Announces Topline and Post-Hoc Data from PALISADE-4 Phase 3 Public Speaking Challenge Trial of Fasedienol for the Acute Treatment of Social Anxiety Disorder - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzQzRVg3bVRveTh3MFpNak1mbmozeXhBbU9kazZzZTMtZGhERFcxRE1mSjVVbW51WDJhUVg5b1U2VlBUYllld0tlT3FadlFSdUUySGc0WFc1bUc2U1VyYWl6RVkwd2twRDNmRkxkZi1ONUhHX0FVdXl2QkpnUmdRWkw5b3g4WXBPSDNGWFF1Y3p0dVZ5SEFCSzZJUng?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-29",
-      "headline": "AriBio completes main phase 3 dosing for oral Alzheimer's drug AR1001, topline data due this fall - koreabiomed.com",
-      "source": "koreabiomed.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HME91dFBnUkt2dUZkcng0Rkgtam81UC0tS0txUkk2Nl9JclFqdk90WWtsTGZxU29ETDRGMklldjNCcnI1NGtjT0ppUENKM0hUeEVDTGh0OVNjRTVnSmJWR243ZFc0Tm9WcVZMSUFR0gFyQVVfeXFMT09vZUJ5bGdkdkJ6NHFzWnQ1enRHSjQzdUs3OU05MmIwMzZlcFVkMS1lR1ZBcWlJZmVrMTRhbWZOTENReHZiNW9qZGd6LTNKb3Z4S3lINmpiRW1GMVUyamZwRDFNVnVnRUI2bzh6NEY2a3B3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-29",
-      "headline": "NeuroSense Achieves Primary Endpoint in Phase 2b ALS Study with Statistically Significant Reduction of TDP-43, the Defining Pathological Hallmark of ALS - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPWm8za2VCd285alBYSnltWmNnMF9sUlZ3NXEzUXd6THF1ZzRhUW5zd3VsaDA3TDVOY1BaRC02emVaOFVtam9GWE1pVHZBN3lzbFFBWWE3cHRuREtNaGdTU29tMzZ4SEpnQXNZSkZCUC1GWlZhZEstVWY4LXdWVTNDOGY4NDZ2LUZpNVRseF9xdkNYalZzQlhCb2hfWVpkUE5vemRnLUpnZVhGYVdTbmx0V3pBYURrWFkteEFsVjk0bHBvRzRPLTk4MldmZ1c2SGdVSUt3blpkWTVRY1Q1NXR0ZDQ0anhiZnczZEJRVVFaUjk1RW9pWUVKcC1abUlYQXVvRGxoODZxOUFfcHdVcjNmWDFLOTZKeUl3bUNsMGx1Nzl1V0xEZUJJU3V4b0ZxN040?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Statistically significant",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-29",
-      "headline": "Pediatric clinical trial update: Q2 2026 - Contemporary Pediatrics",
-      "source": "Contemporary Pediatrics",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0RKU1VQRVlkeUNlcXhGVElmTFduTkJCcG1MSzJsZTFZdnZzNVlqbXk0Yjl3TVRNTlBINFRURzRyZHJ3WGMzN08ya0s3b2l5RWpmc2JJblpnN3djbDZyOUtmejAzd3NPLWpBM0x3ZFdERjRBcm9MU0tIX25YSkdMX293LWh6SjMtXzRJWQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-29",
-      "headline": "Genmab Announces Positive Phase 3 Results for Epcoritamab Plus Lenalidomide in Patients with Relapsed/Refractory Diffuse Large B-Cell Lymphoma, Demonstrating Statistically Significant Improvement in Progression-Free Survival - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNbmtaR2wtcG9QWmNmUFcyX0JyUmJ4bWlCYXBQQlM3NnFBRDFmMks0elctajdXc2tiSXRXMkEwZEdyQnY1NXlNby1PS0RsM3FBMmh5ZkNhWDVrYTNuRUNOeHM4V0FfbkNLWW90YkFKZ1QtOVIyanp6Yl9JaExDWkxfQmpXRFVKdVFxVl9CQVlqMTgzTWNTb0RyYmViei1rU2VqZ3Fqc3dUclZWYUNEVGhzcE9HT2JYU1dWYTVBVTBDT01RSlNYTEptY0tYbERVZllqVUVCNlc3RU5DM2EzenBRZGdOejdaUGZ1YncyZDJsNnhkZlozTS1VLWl2cS1mck5QZDdEeU9PSno0RndPZ3ZaanNGOS1WRzNPOVZlaGFOUFRNMDFKSi1tV1Z6SDJ0clR0bkVwSGN1eE1sWWlPMy03NXEydWlDQnJJOWR1a2NxcnducWczZEV2akRhZ0tQenMtci1HaVJ3cHBoV01u?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Statistically significant",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-29",
-      "headline": "AbbVie lymphoma trial cuts progression risk 60% in Phase 3 test - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNckNUQ1o3SDNkaC1TMHgyUmJhVEJ5QlZURXhERGtSYlJSQUlKMm5fdlEyME41TllzNU5IME9PUkFYRDNCQzBBLVFYanNCM1JCQ1VYN285ZE5UM2dGWHYwSFhRZWNaMTUwOFMwUWx5T3ZwNHU3ekloVEt2RmZpYWlMTGJvb1B2akhVTW9wTlJwODBaOU9qZFFFUXhZRUVqNWZ3M1lmNmpNYURTNkNlMkdfa1FOVUgzZkV5d1E?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-29",
-      "headline": "Single-Dose LSD Formulation Hits Primary Endpoint in Phase 3 MDD Trial - HMP Global Learning Network",
-      "source": "HMP Global Learning Network",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVZ5eFBwMlVnRXFIRUtjc1Zra0F4em1GM0ZhamNMYl9xRzczbHFHWXNSSTVNdjF5azBuVXgtTUktLXNyWEp1emJrWUpRMnV4dEJEVmE5aVdZa3kxOFJ3dy0takZxcF9md3h5aUxmbmlWQTFxTWhFbkFZUEQyQ3gzQUJzUVNOTlVxaXFOQ1FiNEJRWm42WnpidW1hQzItbDV0MzJWWTJfOFpZWWNpQ0RQU0V4cDhCUzlCanE1VnNrRQ?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-29",
-      "headline": "Genmab announces topline results from EPCORE DLBCL-4 trial - TipRanks",
-      "source": "TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY1d2ZWJlNFowTERVQ1lGZVNqMHJTLVNtS3ZZSmZKNTJtMjZMWEdlS1J6cEp0WlVLRU5DZ0pfWWFIMUw1VU5aV01SX1R3amI3SE9OR3c1b19jSDNqWmhodlZPeWJyZVFwSEhQS0hDWmhjZW5ZX1BtbFNVSUhDQ25qbkhJZ2JraDAycktJSE5OeHJqcFR4c1JZUUIyMk5qaklRT1l3NkpkZERiS1RE?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-29",
-      "headline": "Obefazimod Phase 3 UC data boost Abivax (ABVX) ahead planned 2026 NDA - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnktVFNZR1MzUVR5UUsya3hraFV1dVYwRmloWkZ3VE91amtkVUpMY1Z3X1laUW1zMlpwQllWb0MwOU1nZXltTlBxcXFyZkN0VUg3T1ZkYmQyb3ZtTENSVFo0bHRPckV4MGtiS2lyRkNXOUhSRGRWYldua2d6aU5HdklKZmFYSGJYTFd1ZTh3NFBPVVV3ZWk3cC1Oekx3Zkx6WkZoc3dWWHhVdw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
