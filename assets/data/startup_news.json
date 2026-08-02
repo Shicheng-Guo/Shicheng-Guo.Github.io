@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T10:06:48+00:00",
+  "generated": "2026-08-02T10:05:00+00:00",
   "items": [
     {
       "date": "2026-07-31",
@@ -94,13 +94,6 @@
     },
     {
       "date": "2026-07-23",
-      "headline": "SK Networks-Backed AI Drug Discovery Startup Phoenix Lab Raises $8 Million in Seed Funding - finance.biggo.com",
-      "source": "finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NU1FHTVpEaTB2UGlSOW45bW1mVVcxZEJGYkFIM0dkYlJkWG9UTTU4N0RLWGFHMlhHeVNDeVlYUGdUMno0YnZGM0hxaWViQXV4SUFSSzdIWlltVFE4bkFPOVVwb3VNWXJDalhFYnhUOTlGemltTVE?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-23",
       "headline": "AI biotech startup Cheiron launches $8 million seed round - The Korea News Plus",
       "source": "The Korea News Plus",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRGNKSXhYNVBKa2ZKZnEzVjd3X2UxM2hVaGhaeW0zbXZ1WV9BZmlUSG9uaDVqLXNPUXdOajg1QjZEcWV0RDJwQ09QaW1rYlJVb3dfSVhnMkpjLXhBM01xZHBlTVpkYnVGSEcxa2FQYVJfVUlmU0Q4?oc=5",
@@ -111,6 +104,13 @@
       "headline": "Cheiron Raises $8M Seed Round to Advance AI-Native Drug Development Platform - Wowtale",
       "source": "Wowtale",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cc3JlMHptQXZIRmcxcDBFRWx6R0dmYXBldUpXRDFkMDREbnc0ZEJNSVBuenZfYmY5X1JNb0YzZzR0aWJnZzhhVzd3ZVZFMWxCVnJ3?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-07-22",
+      "headline": "SK Networks-Backed AI Drug Discovery Startup Phoenix Lab Raises $8 Million in Seed Funding - finance.biggo.com",
+      "source": "finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NU1FHTVpEaTB2UGlSOW45bW1mVVcxZEJGYkFIM0dkYlJkWG9UTTU4N0RLWGFHMlhHeVNDeVlYUGdUMno0YnZGM0hxaWViQXV4SUFSSzdIWlltVFE4bkFPOVVwb3VNWXJDalhFYnhUOTlGemltTVE?oc=5",
       "category": "Funding"
     },
     {
@@ -374,7 +374,7 @@
     },
     {
       "date": "2026-07-14",
-      "headline": "Chai brews up $400M series C to fuel AI used by Lilly and Pfizer - Fierce Biotech",
+      "headline": "Chai brews up $400M series C to fuel AI molecule models used by Lilly, Novartis and Pfizer - Fierce Biotech",
       "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFBhTzQ2ZGM4RE92ZGl2bmpmNlFMU1p6cGxIQS15SmR3amFaUlNJd01nVkVMSHp5X0pxNm00RDZEYVFTeUFPNUY3cWRhaVQtUFRnWm84LXVHRWVPOFRzN2FMUElMUE1pQWwxWWlMejVZOXJMLUZMbS1xbG1wTkI1NGxKazRNeTJWTnRQRUw1a2gzaHMwSTBxNGdVYm1rbWh6QUxV?oc=5",
       "category": "Funding"
@@ -451,8 +451,8 @@
     },
     {
       "date": "2026-07-13",
-      "headline": "Indian Biotech's Global First Strategy: Why Startups Are Launching Overseas Before India - businessworld.in",
-      "source": "businessworld.in",
+      "headline": "Indian Biotech's Global First Strategy: Why Startups Are Launching Overseas Before India - BW Businessworld",
+      "source": "BW Businessworld",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGVpcHJJQU1QTjhpSUFrSTgwUWdDcTBDaW9EdDRYYjBFS1lMeUV1by1yclJzNEVlbXNfcHdPSVZhd2hvZW43UWNqT0xpNi1uRVZvYTRqRWJCVHRfbkFoTTM1SFAyRnRHSnZEZlFxU2ZaWFcwNGpZZHhsZUlPVVllNjJxM1Y5Y3BOWFJjZ00zNDQ0V0Jtam1tOXNRVjMyVTc3WUNqak9YenpNSHZGTFBGaUYxdU1tRnV1M0dOZi1wTkR2MEtCTjRLY0VaNA?oc=5",
       "category": "Launch"
     },
@@ -584,8 +584,8 @@
     },
     {
       "date": "2026-06-25",
-      "headline": "Israeli-founded AI biotech Immunai launches drug-discovery collaboration with Boehringer Ingelheim - jpost.com",
-      "source": "jpost.com",
+      "headline": "Israeli-founded AI biotech Immunai launches drug-discovery collaboration with Boehringer Ingelheim - The Jerusalem Post",
+      "source": "The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2WXEwWkUxd3VsUjBNdzZQaUFWcVFlYTNZd2t3WV9maDJaMnBZSjh3TnJtWjNVcHdpTjZmRVA3NEZZbXFFd0d2bWV3MkdYMzdOZWpJdUFkVEVwaUZpNjJfX0JSWnFsd3JkV2R0eg?oc=5",
       "category": "Launch"
     },
@@ -640,8 +640,8 @@
     },
     {
       "date": "2026-06-22",
-      "headline": "Singapore AI biotech startup ChemT raises $5m - techinasia.com",
-      "source": "techinasia.com",
+      "headline": "Singapore AI biotech startup ChemT raises $5m - Tech in Asia",
+      "source": "Tech in Asia",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1RKNzhBSjFTNC1qQXp1c1MwUGdHZmNoYlpiTURzNjI1eE96ZXgtNk0tU01Qbkc1ZHluMk0tVlY1Vmt3c2phVEI1MDBIVEJSSzVUTkhUOGc1djAwTmhTc1htVm9va00wc1M0Rlp2S2Q0b1B5amc3b3h1dEZ5ZG1ndGtR?oc=5",
       "category": "Funding"
     },
@@ -870,6 +870,13 @@
       "category": "Breakthrough"
     },
     {
+      "date": "2026-06-04",
+      "headline": "Pfizer and Eli Lilly Bet on AI Drug Discovery Startup Chai Discovery’s $400 Million Funding Round - Tax Rate Impact - po-news-eg.net",
+      "source": "po-news-eg.net",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbXNPN3d1cWFXNlFqNVdOdTY3U3JLUEZBMmF3MXNLek5PdGQ4Y2lycGxKZDI2OVI4d0RtUE5zZUZJd2dyRUFpRVVnOWZIVUJGYlhkcU0xTzRnQ3NudDhQQ2dlQXpMQ3BvSGQzLTc5bTdmSkVjUTlHVzc3OFJUWW5WeW1PeXJpSGc1YUNqejdkR25lLVZGeWpVSFhTOG9YdTdVVnRKZ1NOc2I2VktGZWk2NlZVREJKZzhEdEFPTmlBMTlvVVNMaHhBUV84MTlzUjBwM3c?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-06-03",
       "headline": "No VCs allowed: This biotech startup is funded solely by retail investors - Morning Brew",
       "source": "Morning Brew",
@@ -948,8 +955,8 @@
     },
     {
       "date": "2026-06-01",
-      "headline": "Waypoint Bio Raises $20M Series A Led by Amplify Partners to Advance AI-Designed Cell Therapies Toward the Clinic - businesswire.com",
-      "source": "businesswire.com",
+      "headline": "Waypoint Bio Raises $20M Series A Led by Amplify Partners to Advance AI-Designed Cell Therapies Toward the Clinic - Business Wire",
+      "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUHUzRUljQzlrQl9YLXNwNUllZkY3WUlLLVJZNm9CbmN5c3p2Ty1qbzk5UzNXcnpZZC1RZlhPM2JCV2pibGMzNDNwNmFUZGhscGJKUlBEWUJPVDA4blRkSldOZVBJeG5OZEJZSEFwM3RtS1h6Z3FLTjliZ0IzQUo5V19UVDEtdDdMTmN4ZFlNZTlReUJ1akF1SnhiY0ZGejNLQTBETnJuZjZFSFY4YjVXd1hIQ0dDZFZTZ3NBT3BGbjFHNzVLdk9TZTV5a2U3Wlg3VUpYOGlJbGxaeHJjQUpMR19EYWZ2dS1mNG1kakNteGJKa05TVTlpeEM3dVMtNm5rTHc?oc=5",
       "category": "Funding"
     },
@@ -1064,6 +1071,13 @@
       "source": "dars.gov.et",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX1lpMWpURDQydm9LTHpvZGhZOTFSbUwxUXJoZVVVYmVUdjNEOXkyTFRnZzl1R19KZXljX2NyUThpMUY1am05VElUZjRSQ1ZFcmt1dEJYem1FQXFJWWpySVRDNmhsczIyOXhBQk8waGFHa3lFNG9UT3JSMFYzLVlpUHhFaHZrLU5COW9xZkZPZUw0MTJ5RXJIS1JMQkRGN25fZnhfdVF4MW95bGY5blZCdDhtMWxtN3BSd2V5QXFJdjdNSktacUwtYW1OUGpDNnRkRHV0a2dGQnVUTlFyVUdUT3ZOWG5JdjA?oc=5",
       "category": "Breakthrough"
+    },
+    {
+      "date": "2026-05-23",
+      "headline": "UK Biotech Startup BioOrbit Launches Drug-Crystallisation Technology to International Space Station - Cash Flow Report - dars.gov.et",
+      "source": "dars.gov.et",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ21RNF9Sd0VJNzBJVm1zM2xiTFpGSzFiWW9tQWV2Yy1vOWIzNURKX1dqZWdIY2pmZnNKcEpNSm8xWmVQQ1dSSENRVkRXWGxZZk1CTnFQcjFVTXhoYmEzZEVGQ0RZeG1sMjlNSk1nSUF6enZtYi1ib3N1UFU4WXhHSjZ3VWZ4MklwdzJjMFRlTmdBUlEteHQtVW5tV0lBWExnamlfakp5UGQxczRud1IxT0x0aEdmTE81MVdOb3kwZWJfNElXc3FxaDBrM3ZkMlpaNFlZNEJQOA?oc=5",
+      "category": "Launch"
     },
     {
       "date": "2026-05-22",
@@ -1193,8 +1207,8 @@
     },
     {
       "date": "2026-05-13",
-      "headline": "Chinese AI drug design startup Metis TechBio raises $270m in HK IPO - techinasia.com",
-      "source": "techinasia.com",
+      "headline": "Chinese AI drug design startup Metis TechBio raises $270m in HK IPO - Tech in Asia",
+      "source": "Tech in Asia",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjhOeFVGY3kxS3BVVVdtMVp3Z1o5RlFlOUhtUWlFOGhLZEhRVWZFRHdSWDdZUnFaTnVrMVQ2V1lZV0puLW5wc0ZOSWFqbkFnNHo1QTFGYk40Zlp5NlRhRlZiSF94WmFqM21MRS1ST09CU0V4RkZpbzJuSXI3OTZ6ME5OaTdhRFlGd2hPMA?oc=5",
       "category": "Funding"
     },
@@ -1459,8 +1473,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "TARCOG-backed loan helps launch Madison biotech startup with research focus - 256today.com",
-      "source": "256today.com",
+      "headline": "TARCOG-backed loan helps launch Madison biotech startup with research focus - 256 Today",
+      "source": "256 Today",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWVh1S0llNFRSYUlQWHVxcC1UZ3E5Y1BXdllRM3lsVGw1a0RJN1JuMmYwWGlyaldsVnBCUnY5MUFSTmRWRnN3LWprSnIzSmtGVFhuZG1tWTNyV3I5VExtLTFESkRrNGxMOHNrNE1PbjEzNEVEb3laZWlXak1NczNYcHJKY1p4U0VOVWpYcFo3MVJ0SklyVGxibkR5SXptdw?oc=5",
       "category": "Launch"
     },
@@ -1735,20 +1749,6 @@
       "headline": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports - TechCrunch",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPak5tYmtqUkMzZWM3ZWNUQzhRNVItMTl4aFQzc21XSXlMdnZaZGdUd1VRRUlSTG4wbU90bk5xN2M5ODJKUUZuaHlYMTBVNER2bk9tYl9ZQkJXM3pDOWlGeWh1aF80RlpNbHVFbGMxZDlqMXU5TUxxOHYxakdxd1ZpQnJseDF6RnVUZVpUT0xwQ240VmNJVURRZjh1UWlOTmd0bUZhNg?oc=5",
-      "category": "Partnership"
-    },
-    {
-      "date": "2026-04-03",
-      "headline": "Anthropic reportedly acquires medical AI startup Coefficient Bio for $400M+ - SiliconANGLE",
-      "source": "SiliconANGLE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLTc4UTdvaWxqZkFxUjl2dndlQ0lmN2hmaVNJTXBpbV9YclprOEh3dkRRQ2FEa2Y3d3RLNU5GMUIzNHQ1eUs5aFVSRjFQRG1yMVFYWEZOWHhMNkpQMkRMWWlvR0JDaFVyQTBjazN4UktiWE5WWVJTT2Z5b3drdWFGcEtudWZBTkRDNmM5aG1VM2ZXVEtheV90UVJKOW42bWRtUGRnMFJhc0tXdw?oc=5",
-      "category": "Partnership"
-    },
-    {
-      "date": "2026-04-03",
-      "headline": "Anthropic Reportedly Acquires Stealth Biotech AI Startup for $400M in Stock - CTOL Digital Solutions",
-      "source": "CTOL Digital Solutions",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94ZWE0R3NXMTNqMUt4ZFJBeHVzSm4xRHpMMDhYZDRjSmtybzBlV1JHRmdzdjRDUGozTmU0bVJEajNZWE9SZmZQd3Baa2JlUXZCRHdlenJtRzVZdk9YQ3BVQTNzVWFhaHZZa3ZzQzJMZW4zbmdnVFBxYWVB?oc=5",
       "category": "Partnership"
     }
   ]
