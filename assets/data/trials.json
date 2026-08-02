@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T08:57:08+00:00",
+  "generated": "2026-08-02T09:00:40+00:00",
   "trials": [
     {
       "date": "2026-08-01",
@@ -8,6 +8,28 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1hrWnEyQVI3VnJIVC1idVFwd3NRNEI4WEJVT2k1dklrZVFrU3ZZeGZhQWNjOWVlT01XR0FfbGI5SV8wdzVDVloyYURMbzBWRnEzQnJLZktzdGd2azhCbnhTNEwtMThZX1BEem1rRENNVVpVT3laSGk2ZWxkMnFXZ3RROXMyNGxsaks1S29LaDg0WjFiM1UzSGFnQlBHTzRlNzlJUWRjX3Exc1ZUbEV0YlZ3NnVPeVk3cVo3NmU1ZFotbzQ?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-01",
+      "headline": "Novo Nordisk's Failed Heart Drug Trial Wipes Out $20.5 Billion in Market Value - ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVUNsbTJMTmFHYjhDOThBcWJ6SzNSaHlnWWYwdlNiZFBGSzdyUFlZeVVySUt0SUNWeXJvWHFUN2ZKbjV2b2tZWkkyM2tHaDE5bFdONnlzLXYwekU2VVlRQVFnVmxfN0VFN2djb0xoWHpsV01HSWw5ME9yTEJjYkFxX1hSUnBtR2pwY3lnNTIzYlNpNExibTUxUjRqUWx6WF8xLW1leW9IcnZHQVhGLTJhcG9EUnFRS2dyUWZCdTNPc0JGQkhGbWpycXdhek5BZFZXOVpjRlE1YlVRUlU?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-01",
+      "headline": "Novo Nordisk's Failed Heart Drug Trial Deepens a Season of Setbacks - ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkluSlFQVWtvTkZLdm5sYy1TVklRa201eXIwZGZkeEFtVGpUZzQ0NGhRU2hlLVJwVm1hR3oteENyNkdKYXhsNHZNZnNZYm5MUldKNGNnSmszZnpNQktqM2ZWRDdINElvYWlVeFhpUG5kdFI0YzJTY2E0alVKN0RKTzhMcVhuLVpZTlJSU1gwcW45dnJzV05EbnRIbXFRMm5tRDlXNTBaNXdOaXJ6aTYxLXQ2Y0dpY1lrYmotR2hhYzEzVGYtOHZsdUpZS1htWkN3b0x5ZGxn?oc=5",
+      "outcome": "Failed",
+      "phase": "",
       "significance": "Missed primary",
       "target": "",
       "moa": ""
@@ -69,8 +91,8 @@
     },
     {
       "date": "2026-07-31",
-      "headline": "Novo Nordisk left praying to Artemis and Hermes to salvage CKD program after phase 3 fail - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "Novo Nordisk left praying to Artemis and Hermes to salvage CKD program after phase 3 fail - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaFRuNE5zdE5Wa0ZfcHhvdkJmOWppREVvOTdUTjVBYXRJbndURGZyN09ZTjl5dkIwU2JPeVFldVd2SUIzZV9VYjV3eHZ5U21FZTNvUzloSHY5bXlXb24yY0NnRGUwdG9lSk5udXNRSV83TERSdVBwc0hrOTV4djJ4bVliVGVoOTRzejUzWG1XYlZ6dFRvRE5CNzNuRFo2dV9SRmU1Mk1HOWx4QTFMVERCeTNfalJtODhwZFJfT2ZCZDNzLUczdElJ?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -91,8 +113,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Actinogen Medical keeps pivotal Alzheimer’s trial on track for November readout - Proactive Investors",
-      "source": "Proactive Investors",
+      "headline": "Actinogen Medical keeps pivotal Alzheimer’s trial on track for November readout - proactiveinvestors.co.uk",
+      "source": "proactiveinvestors.co.uk",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeDRHcFNBeXBoM3gyYlFkVmkwS2RvUGRqOVZVbEd1TDNsN1RJdm1XNUZGcE1sRGpEa0JpbWJwTVV3ZWVvX1VGamNaNVZLbUpoQ3JDOFNKZWM3NG94STJlQmxwSnlsaWJpRl85MVF2Nm4wTGJNbnpVTnhuVXVxYXI1dE1mRldobFoyTl9PVmtXeVAtQUFfWU9UU0RVbnNIZjZfZXM0YTBaSkI2NGFkVlROTUExRS1iampZRHRJOUZOMFFEeVVxeGtpcTN5Wml3SE45NWVfMzd5SlhpRW5xTjR3dURIaHRmYU0?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -102,7 +124,7 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Jeil Pharmaceutical reports phase 2 gains for diabetes drug in Korea - CHOSUNBIZ - Chosunbiz",
+      "headline": "Jeil Pharmaceutical touts phase 2 gains for JP-2266 in South Korea - CHOSUNBIZ - Chosunbiz",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakdMVHp0cTFQSmVPVDQ0cjZCR0w1bFlBTTl3T0ZCQkh3b0lOdjRhdkVpTWdsQ2k4MUxka2k3U2h1RDFQX2hvbXI4Nzc1a19pNXIxTlk4cFVYODhNNTBQQTJJR1VjejBqRXE4U1ZJMndDcXlHMmlwUzVDUTI2V0c1RdIBlAFBVV95cUxPT2phZzdQaE9ITDhubW9Fdm9FRW9NUnRXNVJKR0tvaDY3QUh4OUZJYkt3QWpkbDRDYkxzU1o2YzlMMWNwbm43VVRsdUxndFotQ2s0NmNqeWcwVHBpVWRDMmRRV0pVOU01T2x5b2trbEVwejAyM3Y1em5fdXZMZlhzdldPV1FKMFlfRElCVjNENWN4eDBR?oc=5",
       "outcome": "Readout",
@@ -157,8 +179,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Ritlecitinib Meets Co-Primary End Points in Phase 3 Nonsegmental Vitiligo Trials - dermatologytimes.com",
-      "source": "dermatologytimes.com",
+      "headline": "Ritlecitinib Meets Co-Primary End Points in Phase 3 Nonsegmental Vitiligo Trials - Dermatology Times",
+      "source": "Dermatology Times",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDBwdml5c0hLUjExOTNJaUdUVUdWX1FtX2Q3U2diMmdKeExkRTJoRG8tYlVhUWd3OWQ3LU5xU0FCcy1FSDZ4djJTemlFcldwcjJITG5iRnFnaHJWcUJvREJJbVl2Yy1NVVRKbS0zMU84SlFkMnVaSXd2X19yRUJjMjc0bTRhQVJGOHZwQ0w5ZmhXNVJmVEYzWkFBNVNUSHlpeWRiNnlJVU85ME5SUHRrYW1qRzFfTEpSMUE?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -187,6 +209,28 @@
       "significance": "",
       "target": "GLP-1",
       "moa": "GLP-1 agonist"
+    },
+    {
+      "date": "2026-07-30",
+      "headline": "Karyopharm Announces Topline Results from Phase 3 XPORT-EC-042 Trial in Endometrial Cancer - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQU9DRTVpT2RoMVA5bF9DUS1VOHpReVZ4WGllTnEzUVBObTZwSVgwVlRyVS1lTkU2aklJZFdSaTExdlBBMHhYNl9jNEdodXQ1S1YtY0hMOXdfaUU4OGNGQ0MtVkUwVGdnakdZNU9WS3Frc2NrUVpoNWs4ZkRJTG0wa0ktNU14b2pOeWc5VW1rRmpQYm0yejEzc3gybi1nTnZoNWNuUFBJS29BQ0FxN3duTi0xOGFiZWxkRWdZS3dfdExHai0zdXpRSXF6RTkwMmF2eC03YWJNVl9tWTB2SlVN?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-30",
+      "headline": "Clearmind's CMND-100 trial reaches 160 mg with no serious adverse events - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3BSdnZWYXZKV1hXZXd2aU1LUlc1OVdfM3JObS1jLTdMcUVIQUFUczdOaDN6NzVOblRhMHNwM3M5dVZsaGVPUXF6bVJvcnJGaHBNZ1FISmltTms2bDY4dTIzYkEzX2xGaU5EdVVCRXdQMlNFX0xiYWM2N185NHFaeW5tbndPbUhTWExZaVRDODFabENpVy1EM2Vlb2xIRHBxcjI3aFoxcDItWWJ0amVqbDVn?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
     },
     {
       "date": "2026-07-29",
@@ -377,8 +421,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZko5bzJOdHNUR1A4blB2MmluRm5LNm5keFVtelM0dzRESkFGVnU3REFWdWNSaW9lY2N5eUZXX1d5YnZpU291UGVmeURfN0JheXA3TmN5N1JoU2JyQ0pHb1psaW5RRFZ0M093aGw0elRwTFQwTU9tMlE1c3pkVFU4RzdIMENnN2tNV0swNmI0R25UWHFITXMta201dW5VWTg1?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -410,8 +454,8 @@
     },
     {
       "date": "2026-07-27",
-      "headline": "Phase 2 Topline Results From ZEPHYR Trial: ML-007C-MA for the Treatment of Schizophrenia - Psychiatric Times",
-      "source": "Psychiatric Times",
+      "headline": "Phase 2 Topline Results From ZEPHYR Trial: ML-007C-MA for the Treatment of Schizophrenia - psychiatrictimes.com",
+      "source": "psychiatrictimes.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaURoamR5VU5nbW5CM0VrVFYyUW85MzhRVjBzRHRTeldRbGRTX292MS1kZFJlWmlRaWQwZ3d3Vm85MlFBM2dnZ3BLLWZabTBkR2hVNnh1RVhPY1R5b2tuTlJzUlJBeThJVlRBMWdDclNGSFNDcG55S1VVVUFwUi1Oai0xUmZFeUk4M3VpOGgzTzRSTzg3STZDVU56c2FVZWRMUTZzclRPb3lQQzRtaDNUUXdkNEUydEdFd25RVWVLY0VDeUk?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
@@ -443,8 +487,8 @@
     },
     {
       "date": "2026-07-27",
-      "headline": "MapLight shares sink on mixed ph. 2 schizophrenia readout - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "MapLight shares sink on mixed ph. 2 schizophrenia readout - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGRCajhpNlhOdEFyNlFsdWN6T1Y0YzZaQUZseXE2c0dyVzdmR05sbVRSTHRKYjQ1WHdNYWtHaUpIMFJrX24yaVp2VTVhV3N5N1dwLVBqQUlYVFpQOEQ4UUFzSkt4dzhaWkx6bGN2a2xONmdaMmMxanQxRGpESWkwQ1lBZ0haWUxJT0lEMXFNWU1LM0ZXeVE?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -531,8 +575,8 @@
     },
     {
       "date": "2026-07-27",
-      "headline": "Update on Phase III trial of Ultomiris in adults and adolescents with thrombotic microangiopathy after haematopoietic stem cell transplant - astrazeneca.com",
-      "source": "astrazeneca.com",
+      "headline": "Update on Phase III trial of Ultomiris in adults and adolescents with thrombotic microangiopathy after haematopoietic stem cell transplant - AstraZeneca",
+      "source": "AstraZeneca",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUF9aUU5DQUZuMVhNZHl6VnF0eGJqa2pEU3R1NEY5RUg1UERxZmNaeS1Xa0g1LWROQXIydEE4QXI3VmlyVDNMc0gwNUpyNXQtMHhhbTB0V2tIQ1I5SW5Qc3haZUFaSmpFZFpLck15RkYzYW04el9xaGxZOF9yMnNKemRwTEF3RGJtd2pnTkxqUjlRT2VtNE82d1VoX0p0SEhkSFhzUXJ1bFBOOUNudWs0aHhWbw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -794,6 +838,17 @@
       "moa": "Bispecific antibody"
     },
     {
+      "date": "2026-07-23",
+      "headline": "Cell Therapy TG-C Misses Primary Endpoints in Phase 3 Knee Osteoarthritis Trial - CGTLive®",
+      "source": "CGTLive®",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0ptbmhScmo4TWpCTnpXTi1qWW1OVl9MMVdzVlBvNXlVUFAydnhhV0xETXRtV1NNZlNnS0ZhR2s1RGNTLUc1cXkzZW55bGpUcjVtTkpKX1RScmw1UXdoU0hpMlBVaGx5OUNfZWVwMHNvaWkwZTFLajV4XzYxSDRXdUw3Z2pFUENWMXNGWmNKQi1McDhkS1BQTHlNR2V2RGJRdGpBNDZ1M1c?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": "CAR-T / cell therapy"
+    },
+    {
       "date": "2026-07-22",
       "headline": "Radiopharm (ASX:RAD) Advances RAD101 and RAD204 with Positive Clinical Trial Updates - Kalkine Media",
       "source": "Kalkine Media",
@@ -1037,8 +1092,8 @@
     },
     {
       "date": "2026-07-17",
-      "headline": "Weekly Rundown: Biogen pushes anti-tau drug into Phase 3 after endpoint miss - Drug Discovery News",
-      "source": "Drug Discovery News",
+      "headline": "Weekly Rundown: Biogen pushes anti-tau drug into Phase 3 after endpoint miss - drugdiscoverynews.com",
+      "source": "drugdiscoverynews.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFZLUWM2QUVtUU1vY0ZyZzVEUVZIbkpCVU9aMklzR25IXzhMQzFWb1oyczk3TkdnamVqd2NnZFdLc0kwa0h5R09nUFQxd3Rkc0R1eUI1VEs4MGVIU0lKazNJR0hzUE8yZ3ljZzB4QlYzSEw2QzJIREZ6enJGT3lvYW5NUlBSNlVseVNrb1JHVlRTeE14NGN0V2kzZmFlWmlRNGJYaW5sRzUtMnlOUl9NVUlUcExiZw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -1521,8 +1576,8 @@
     },
     {
       "date": "2026-07-14",
-      "headline": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSW45Q216RDR0VU1LTmgzRXF2M1BEdVExcGZhVDBDWlQzNHVVLXpNYmRtRHFGZkJPZGJxc3gzQkpQSzE1eldnUE5xdGUyMkE4RkxvdEl6aHBfNFMweUV5RTI5OWNzcHNzQUNWNGJLaTRyZllYblBJQmQtZzUzVzh3YWF5Ry1xSjV5azhfNmhoREdVdk8wRk8zaFZTZTZIRUk2Mm5IeUYyYw?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -1840,8 +1895,8 @@
     },
     {
       "date": "2026-07-09",
-      "headline": "AstraZeneca, Ionis Shares Slide After Wainua Misses Target in Heart Disease Trial - WSJ",
-      "source": "WSJ",
+      "headline": "AstraZeneca, Ionis Shares Slide After Wainua Misses Target in Heart Disease Trial - wsj.com",
+      "source": "wsj.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0dSaVRkN2pmY3lURW10RzVwYlRRNFFfcW90Vmg3SVRiUXFpTG1ON25fdWNsR1ZJdXNJS3NSQ1gwYVdNaDhfRzlZTnRyTGY0M1l6UGxQS1BrZnQxZTN4bE1rak1zNGJtMzRMcUVCbVlzWVlmTHBWeXdxb01iVFJtZWFGbTJkeGczVk12Y2NHbTVvd25VZ01mQnhtM0l6OF81VUE?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -2588,8 +2643,8 @@
     },
     {
       "date": "2026-06-30",
-      "headline": "Vistagen fails another phase 3 social anxiety trial but spies path to market - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "Vistagen fails another phase 3 social anxiety trial but spies path to market - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHZlQUc0U0pPSWtYai1oNkI1bmctOGVTOE5mY291VEl1eFdtRU1PUUw4Uk9XYk1lVXFvYno2amJkM0dmd3RXZlN2b190Z1BiTlJxTGhXczNXeHl5blBZanBpby1sVjNYSjNMd0hUTlNZWUQ4anBPX3B5OGhhRno1NDVMdG9KMGNFUkE0ZXNKbURtOGhMaUpzZENMZ2hzMnFzM0ZROWYzdHN0eUE?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -2692,61 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOWE0yd2stdDBoVVZnMEJiQkloQVZRdGVoNkdRMWw1SFpack4xMzNqQmI0OS1EcExsdXdoaGRPMmI1OWgxaHlRbVM4VERMR3JGTVhxVnE3cl9lQjRyUjNFd1hISE5LNFZqZnY3YTEwMlQ5WElmUzF3VXIzbzNxOWEyTXJuMUg3ZzN5VkFYek5EbTJSU0VyVjVDelk3Y1d5Q1pXYlZSMDJOWGVibUVYNmVucnBGTnhaUnVaVHFoVDhJd251aWFPZ0ZnZ1ZVQWdqUHBYd0o2a1h1MFZkQTdsaDFYbjdTSTJlX3VxZzRWYURiTHdpZFBva21nSlVSMTM5c3NrMGNlX2FTLVZhSVFaMDZIQXFPcnNpdUVnWWNNRnJmNi0tYXY3UWZxTmhVeXFUWDZ1NG9yVkRQNks2V2gxX2NwVkRBMVl0Z3NTbUl2OXQyZ1B4akdoc0xERmp3?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "Stoke completes phase 3 enrollment for Dravet syndrome drug - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFES0Roa2lQVWpoZDRXeXVzMHNXWGVfQ2V0cmJTakp0NlN1bXp5cmthTkxOTzB3ZEEtNmNGbFNhdmx3bWthZ3ZkdDFXTmpEM0xJampJMWlPelRZaGx5aXEyaXlDNUlyamhKanFzR0lhb1ppTWhrbm9XdVBLRnh6R1dsNXlsTjhwYmFWdWhNS3JYcVp6UVZqNk1YekpSMDhBQjcxQVViM3VzWWRHdkdtcU1HY3FfWjg?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkpoRVh6M1gxcTRyeHdSc3JqalpROHA0aUZBR1hwZEZ3TmlDVThZcFdXdnhDSllNSUQ0cl91UlQ3SHZJLTFjd1UzOTlpbE9ETVBjZ3BiaDVzT1ZNcDVsU0FBWVJUeU1QLU1YNHhsdUduc0FUYmF6UXktYTF1dmc5MzBRTWJMWGs0d0pQSnBwUFVBN0V6?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - Stocktwits",
-      "source": "Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTVZRaTVpcmhGLTJHTnNlZ3ZHcXp3LXhkQjY4NGVMb2RnWEEzQThRal9yY01lbVI4UUk5LWx5NF9yblBsT3k2U0pJUy1yNHdGUmp4T01CTEVOSnhIRWV5WkMzckpYNE9fM3BYNW5PMWJJdjBuM1V2b3Q2RG9WNVJVd3c0MWxtTk9waXo3aXhvWEhTM2FidVpBT2Y3dURYNWZRMFZIRWpzd1ljYU54eWdwb092ZmVnRzFSMVZHd2NqR21xd3lieWNTa2w4NW5lei1qOVRVYnNIa2VTWVdEZTVHZkhvLXZWZlRiVFJz?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - Menafn",
-      "source": "Menafn",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdzk1V0E2VWMzaXZFaGpqXzhIb3cyVHAwS2FWdDN6NTV5eHRVY2o4eWhQUXF3bUloOGZGNXdhUFEtWlo4M29fNlNFczZlQWtYQ2VYV2dqbWdfeUpWdFBnUlNmS3NOU25JdHljQXdLLWpXc0pGQ0hubERmZzhsQVhzU3RSdDRpYTlIZjE2N1pGRkJTejYxMkQ1ZXBFeERqQi0xeUtqQnBEYWFWQndUN0ozaEl6VEswWEV4Ync0Rk1weE5kSjA?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "MBRX Stock Drops 25% As Moleculin Biotech's Interim Cancer Trial Data Falls Short Of Significance - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYTNxc18yeTNKQVRHNnpQWkxCdXhMZjZGQVdCRThWRWdTUEtUQ1dDOGlLVDNEUE5aaUpMNFg4WTNaNzVkdEh1XzBWUzR5QXQtWWczUGNDTG9HMVl5NjlRWmhkQXllY1dqMmZPaGtiVnBsajNNR3MzWDFiWV94YnhRVnd2SzZ6REwwbDczTUdNUzRVUHlxS0Vhb1gwUllCS2tOWTRNeW1felRaX1J5Z0dVUV9WWG5SZUF2ZHlGZVJtY3lXUlRjVUVjTG55b2tUeVByTktDdWN1QXp5dV9QN0VxaEJGNUp3cUkzUjQtbTNR?oc=5",
-      "outcome": "Readout",
-      "phase": "",
       "significance": "",
       "target": "",
       "moa": ""
