@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T08:35:31+00:00",
+  "generated": "2026-08-03T10:03:24+00:00",
   "deals": [
     {
       "date": "2026-07-31",
@@ -146,8 +146,8 @@
     },
     {
       "date": "2026-07-29",
-      "headline": "Biogen shifts M&A strategy as Apellis acquisition pushes revenue above analyst expectations - biospace.com",
-      "source": "biospace.com",
+      "headline": "Biogen shifts M&A strategy as Apellis acquisition pushes revenue above analyst expectations - BioSpace",
+      "source": "BioSpace",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQemptTjI5eEV5N0h6MHVzYVRqOE1HZXBjYjdJdXFJZjZEajFtT3lxNDA0OXBESDh6ejJ2RXpVLXc1Q0tUZEljWVduYkN3UVhHQnZGTmpFRXQ1VTlvTHhVV3IwSl9iMm0wSExvOEhOY05uTTBEdHBkTGdBeWJIeV8tSXdicm1BdktaaG5Pa0xLTkNFVE5BTUVpNjRDejBCendGV2VCU05ZTFZMdGpMQXJyVW9TVVppTEZfNzl0cmdDXzVlSjA?oc=5",
       "type": "M&A",
       "value": "",
@@ -586,8 +586,8 @@
     },
     {
       "date": "2026-07-20",
-      "headline": "Samsung Biologics to buy PolyPeptide for $1.9 bn in Korea’s biggest pharma deal - kedglobal.com",
-      "source": "kedglobal.com",
+      "headline": "Samsung Biologics to buy PolyPeptide for $1.9 bn in Korea’s biggest pharma deal - KED Global",
+      "source": "KED Global",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IVUw5aGdOT011Qzk4clF0X0hhR19WeXFoNGtxQVRJY0Yxb182SExFeEYzV0tUZEF4bXZfSFZXVzBCblNxdFdjS3A4UUZnZmhjQjZ0TlZkX091emk5UzV5RU5fdFNnVDR1dFBXLUFmUHMyX1BZRFM1dV9JQQ?oc=5",
       "type": "M&A",
       "value": "$1.9 bn",
@@ -608,8 +608,8 @@
     },
     {
       "date": "2026-07-20",
-      "headline": "Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide - fiercepharma.com",
-      "source": "fiercepharma.com",
+      "headline": "Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide - Fierce Pharma",
+      "source": "Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3h6YndhR215T1FJVlZnczFMc3BINmFXN3dFZGtXcWJZY1Z5ZzFOR2pGYzRuYVp4WFk3WkgzZkRhLU5lMjA5YVNIWEt5Z2REMzRUOTJvQ0F3YjZSWDVmTWNPR3NtZ3MxN2xDWm11OFBKN1g2dmZCTndONmZqbUFsai1kNTc5WVU1MEJvMXhZMTc0Rmp3b2piNWtRV0pMZmlnRVZQYURpcksyZldiOXBEMmlHQkN1ejdEMkdibF9zYw?oc=5",
       "type": "M&A",
       "value": "$1.8B",
@@ -933,6 +933,17 @@
       "type": "M&A",
       "value": "$4.1 billion",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "Angelini Pharma Completes Acquisition of Catalyst Pharmaceuticals - Macau Business",
+      "source": "Macau Business",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRlUzbWZtbVVXOU93MmNjMEk3cWw4WGF5bkdxM1pmOTZ3NmpURng4STBKQ0JLalFwUEFqcndYMWlLdTRYd3k4dE1vQVFfcl94dF9FTUpHa3lzREVXcVpuMm5jMHZUQkJFWjNlSU9qNVJOZm9mMHdhYTdzVVh2bE9nWWw1YU1hUlM5T3RCX1AwSTBzX0NLa2Vz?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -1521,8 +1532,8 @@
     },
     {
       "date": "2026-07-06",
-      "headline": "AlzeCure signs out-licensing, collaboration deal worth over $2.2 billion - pharma.economictimes.indiatimes.com",
-      "source": "pharma.economictimes.indiatimes.com",
+      "headline": "AlzeCure signs out-licensing, collaboration deal worth over $2.2 billion - ET Pharma",
+      "source": "ET Pharma",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNFJTWU5RYkJta296QmZzOWpoNll5c3NGbnFtVUs4TmNOMlN4enFzLVF2eUNFTS12VDZHYTh2LWhiZHkwektnTWFpTG9GdmNiQWFCUE1KMGZpQzFLaUxaZWZUZXl1bklrcDdGVVptcGowcDlZci1ITENmQm9FR0hGQ25qNDZoMW51Y0hicnRiLVFQYTE3bHFzaDRPbmNFT0hNenEyMVRWSHlSNS1ucDRwXzNLUHJrR1JZZUk4Skc0TkxLZmhYRTY5N25EOWVpRnVKUmV0bHJJMHh0b1RXWGfSAeMBQVVfeXFMTlR3aVllM2tGR3VobFA2SlI4bUxyOVdaRFJ5NF94eFVoaExOdnNGRHlBSkNHQldhaW1OU3ZoY3lvVTM2a3NmYlFaOWdCY2prd0g4UlFCaG5KYkFwOXRZZUdEWTFiQ1dvMF9lWnlpOUh1aVlFVkM5VmNMWTY1VzRCc2MtTHhuRDNGVzV1OTZHZEo3NjBNdWxSN19RWGFZNklzNXJtX2QwcUItZDl4T0lsWnBzU1hpVFJoT2htTmlJbHRtTDVkRDBxaGxnRnBnUlZjc1pkZHZGR3I0WFkyd3BTdERoc0k?oc=5",
       "type": "Licensing",
       "value": "$2.2 billion",
@@ -2093,8 +2104,8 @@
     },
     {
       "date": "2026-06-29",
-      "headline": "French biotech company Ipsen to buy Kartos Therapeutics for $450 million - reuters.com",
-      "source": "reuters.com",
+      "headline": "French biotech company Ipsen to buy Kartos Therapeutics for $450 million - Reuters",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2IxaFRzWXJfQ2hrMVVVY2puS2VZX3A4UXFJNWJmNjhTYVNKODB4RzZXNXV3RmdPRGtEbWlfcHptUk80d2kyNEJvQ1k3NkVub05fUmVZVkk5WmE4OXVUYjVSVG5RUmFyTkFPQkpILVVrTUtaX3p5aWpPRXdBNjN4bWQtUlpKMjViSm5Ld0Jwa2xlLTRQV0tXQllCN3RQYWExWW92UDZ6eklOeE9WV1E?oc=5",
       "type": "M&A",
       "value": "$450 million",
@@ -2739,17 +2750,6 @@
       "area": "",
       "modality": "",
       "stage": "Approved"
-    },
-    {
-      "date": "2026-06-20",
-      "headline": "Drugmaker acquisition: Shocking $28.7M Deal in 2026? - Brussels Morning Newspaper",
-      "source": "Brussels Morning Newspaper",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xRUF4czE1UkZvd2hHV09NM2tJVnpBckVnV3hKZ0Z2dW0yY0huaXBXMGZhMDljeElBQmhoMzdBRUQ5SnZ1RC00UFRSWEJFalZuMjVSeXdOWlBFWk54S3R6dm13X1pkRnVyOWhmQnNB?oc=5",
-      "type": "M&A",
-      "value": "$28.7M",
-      "area": "",
-      "modality": "",
-      "stage": ""
     }
   ]
 }
