@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T10:27:49+00:00",
+  "generated": "2026-08-04T09:30:10+00:00",
   "trials": [
     {
       "date": "2026-08-03",
@@ -20,6 +20,28 @@
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-03",
+      "headline": "Bemnifosbuvir/Ruzasvir Meets Primary Endpoint in Phase 3 HCV Trial - contagionlive.com",
+      "source": "contagionlive.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZi1ySUFNUWhIQVhHUVk2d0dEOVhUcDdRck1NYm9WdWNTYVd0dkVfLVFGWUxHWFg2WDdYMGJEUDNvSEhxWk01bk5Ma2ZQaHBRLVdVNmtja0VpOUtKakN0THhmWFM3VWluLS1fV2lGNkQwY241YjE4dzdXU0VaS3g5UmpPQzQtS1hsdU11TUx5WExYVGVTVUhZ?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-03",
+      "headline": "Maritide Weight Loss: What the Latest Phase 2 Data Means for Long-Term Management *K3K37KO9J* - FC Bayern",
+      "source": "FC Bayern",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTmhCSkRXSFVyNUhNUkxveXR5dFlWLWNybm1mb2JPZUJZb0Z2NTVqTnc4TFFYcFZiNUFjcVBuVEgxNWtrdXJVT0dVQ2dfZVlVdnRDOUZNSmRQQ0ZlZUVlbEUwUTNlSTVSblNDZ0VGckhFeG5VNFBNVF8xNEFuYkxxMW5yTTJ1NlFLSHhFbUwwX3Izd2tNTGtwSVNZajcwQXQ1QzJ0LTE0SVdvMzRPM0Z5R1JDREpxS1ZJcDRHRW9VdUt4OHNjQXhnSW5SVTFMQmg4YWE4djE5QnlObkFWU3lKVw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -46,20 +68,9 @@
       "moa": ""
     },
     {
-      "date": "2026-08-02",
-      "headline": "SLS Stock Hits Over 3-Year High As AML Drug Trial Nears Final Readout — Wall Street Sees 30% More Upside - Stocktwits",
-      "source": "Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWMwMW1Xb0N2ZHJXdWg5LUlucjVGNHFFUk1sX0hkeGtEOWIwbnNlQUxIc183VkRfX19GY3M4OXk2VzhQdEMxZ3FiMlBuREJHYTV1VEpuS0lKaFJkTVlYSmpycXhSM0YxNkhUMnN4ZmJZbmJtTWdFZEFBeDlTZFJjYjBTMV8tcHh1OThsclc0RVhxV3FTTTRJU1lWcURWcDN3ZGVyakp1MDFQVjJNeE1MZWpaYldSUS1oZnA0RHhmWTZ4d0lvTzE0VUxsLWxWR19IMFhrX3ppUmhIUQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
       "date": "2026-08-01",
-      "headline": "Karyopharm’s selinexor misses primary endpoint in Phase 3 endometrial cancer trial - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
+      "headline": "Karyopharm’s selinexor misses primary endpoint in Phase 3 endometrial cancer trial - clinicaltrialvanguard.com",
+      "source": "clinicaltrialvanguard.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1hrWnEyQVI3VnJIVC1idVFwd3NRNEI4WEJVT2k1dklrZVFrU3ZZeGZhQWNjOWVlT01XR0FfbGI5SV8wdzVDVloyYURMbzBWRnEzQnJLZktzdGd2azhCbnhTNEwtMThZX1BEem1rRENNVVpVT3laSGk2ZWxkMnFXZ3RROXMyNGxsaks1S29LaDg0WjFiM1UzSGFnQlBHTzRlNzlJUWRjX3Exc1ZUbEV0YlZ3NnVPeVk3cVo3NmU1ZFotbzQ?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -102,8 +113,8 @@
     },
     {
       "date": "2026-07-31",
-      "headline": "Selinexor Phase 3 Trial Misses Primary Endpoint in Endometrial Cancer - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
+      "headline": "Selinexor Phase 3 Trial Misses Primary Endpoint in Endometrial Cancer - clinicaltrialvanguard.com",
+      "source": "clinicaltrialvanguard.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjM5NlU2TGE0R2VCZ0RtdFBsQ2JLNnJwWmRlN2dxUGZpcE9nZGx5czgxUGVXMUdCZ3BBaUFLV2Z3dlFla3RoT3l3cTdEZ29Qb1A1c19oOUVTV2VJNzYwX05oTnBhcFd4blFDQlptZVJUZi1fY3VzNG9pMkhSdF82bDh0ZlBSbGpDbFB1cDJxYmF3VmJYaTRrZHpNbVR0ejlWcTZ0MkdDYUc3MnNEOS16Y0h0bw?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -135,8 +146,8 @@
     },
     {
       "date": "2026-07-31",
-      "headline": "Karyopharm’s XPORT-EC-042 study fails to meet primary endpoint - clinicaltrialsarena.com",
-      "source": "clinicaltrialsarena.com",
+      "headline": "Karyopharm’s XPORT-EC-042 study fails to meet primary endpoint - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGpaVFdiR1p4alYtU2MzVTBrdDJkcENpTWZUQjNOak45akhCdVdWUHFmd1RSU0JsOE03YUVnQVZMb1ZHRnk1MG1PS1VtNzFRM3RzMjFJM0h5Y2xBNjRQYjI3MEdlU3JUeTFQY2xJd1BSTUpVVk5wc0RGRWhLeUlvSGNOZFU?oc=5",
       "outcome": "Failed",
       "phase": "",
@@ -146,8 +157,8 @@
     },
     {
       "date": "2026-07-31",
-      "headline": "Novo Nordisk left praying to Artemis and Hermes to salvage CKD program after phase 3 fail - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Novo Nordisk left praying to Artemis and Hermes to salvage CKD program after phase 3 fail - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaFRuNE5zdE5Wa0ZfcHhvdkJmOWppREVvOTdUTjVBYXRJbndURGZyN09ZTjl5dkIwU2JPeVFldVd2SUIzZV9VYjV3eHZ5U21FZTNvUzloSHY5bXlXb24yY0NnRGUwdG9lSk5udXNRSV83TERSdVBwc0hrOTV4djJ4bVliVGVoOTRzejUzWG1XYlZ6dFRvRE5CNzNuRFo2dV9SRmU1Mk1HOWx4QTFMVERCeTNfalJtODhwZFJfT2ZCZDNzLUczdElJ?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -201,8 +212,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Capricor’s Deramiocel HOPE-3 Trial Misses Primary Endpoint at p=0.09 - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
+      "headline": "Capricor’s Deramiocel HOPE-3 Trial Misses Primary Endpoint at p=0.09 - clinicaltrialvanguard.com",
+      "source": "clinicaltrialvanguard.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVZ3ZXZTcGlQQUtmelBGbUZYeEhSUTg4TEFyUGJLcXB2cGF3ZjZXRFhqdTZyNV9HNmJwRVpZUHIzdnF1N2lENHI0S0kwV3gyMTM3aVozcUtSTDFVWXkyWVI1MG0wVW4tSFN0bE5ERmg0aXc4UjRHRUJ0YmhZNUE0d1NqejBQU2lZNXNtZXdSOUtLVEJMaWRTUGswVUtQaGw2NkRhYS1zSXBQMGhsNEln?oc=5",
       "outcome": "Failed",
       "phase": "",
@@ -212,8 +223,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Karyopharm Announces Topline Results from Phase 3 XPORT-EC-042 Trial in Endometrial Cancer - Karyopharm",
-      "source": "Karyopharm",
+      "headline": "Karyopharm Announces Topline Results from Phase 3 XPORT-EC-042 Trial in Endometrial Cancer - investors.karyopharm.com",
+      "source": "investors.karyopharm.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaDU5aDBfYlJTazNQcVZQalNkWDBhV3RsM1lYUzlVNWFoS0dVSnN5SUU3d2hFS044ZWlMdDExM0laRTR0QWUyU096Z2NFdVlxemxJNnRiX1lLZER6dFRXVDdnOVBtdzVFUExBcVg2VTV3UUttY2pCc0hMNjhWcTJMbWxGLVpOdmhyOHpjSTBYeUN1R2RrVXAyZUdPbVVYUC0zdk5SbWlPY2ZIOVI3U05hRnp4Tnd1RnlrQVNzMlNnbkxzNmNENWcxNk1qQkRxODQ?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -245,8 +256,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Pfizer announces phase 3 results for nonsegmental vitiligo treatment - pmlive.com",
-      "source": "pmlive.com",
+      "headline": "Pfizer announces phase 3 results for nonsegmental vitiligo treatment - PMLiVE",
+      "source": "PMLiVE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRhYkMySHhWT2pVRWlCc0thY0hLNklISUlydjVKMkRQT2FLU0xwUmM4bV9FQ3NqODA2d2x5Y2g3RHlnYVlCOU1OYTVWd1Q4dXlVazByVE9wRDRrQW0zSG1sLUZNUC02SkRxVTVBNU4xdFJtQ2hZc0xrTmZ5alVsYmFuRlFVd290Y1gzOExkZi1VazBXZTdWb1J2MFl6R0RjRmc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -333,8 +344,8 @@
     },
     {
       "date": "2026-07-29",
-      "headline": "Atea reports positive topline results in Phase III hepatitis C study - clinicaltrialsarena.com",
-      "source": "clinicaltrialsarena.com",
+      "headline": "Atea reports positive topline results in Phase III hepatitis C study - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEJ4TXBQSm56dXI1eTJ3N2Y5QmxRS2VPV3pzYWpkdjFxdklJQVhMbDktZWgtV2wzUndVZmFfLS1zNm5LNFJ5MEtWTUVHNXYxamhHSEI5dkdJak4ySUJsZWZLdjZ1YnVKY25DWUE0VzZEb1NKZFZOYXQ4MXowSE91RVFUcXFuTXc?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -355,8 +366,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "Aribio completes global phase 3 Alzheimer trial, readies topline results - CHOSUNBIZ - biz.chosun.com",
-      "source": "biz.chosun.com",
+      "headline": "Aribio completes global phase 3 Alzheimer trial, readies topline results - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVFnUlpLUFVMN0xtMXlXeHB6Wm5NOG00WmFaU21JaE5aRjZoNzdkWTdCakUwdUk2SXVvSmR4RmdhTzFjZHRwV2JrNDhlNmJrMU1mQ1JXVFcwZC05bk1UNzFaRVRNZXNFWVQ2WFhCOG00U1RUaTh2TGY5MkEwWEtHddIBlAFBVV95cUxPazZPWFF2Nm9xNmIyd21JejF2REoyT3pTXzBhZ0t5WFNfTnpZSDJUMzZKY21hcW5JY25lWVNuQjY5TXp0QVhxV0lUNHhiVnVQTE1Yel9OY0F5blZPS242WlNSTUlBdWpGdkdaRTNsd2VYaW14LWx1Y0doWXc1d2pQVHJ5a1Z4V1A0NHRxb0JsZlF4MTFI?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -366,8 +377,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "MapLight’s ML-007C-MA Meets Primary Endpoint in Phase 2 Schizophrenia Trial - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
+      "headline": "MapLight’s ML-007C-MA Meets Primary Endpoint in Phase 2 Schizophrenia Trial - clinicaltrialvanguard.com",
+      "source": "clinicaltrialvanguard.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFB6WE56Wk1IbXdzZnRfN1lzbVJrY2JxcFlQR195WEJnbW5VNnRKUXYtNkE1ZXZjXzBzencyWEp4RWlKOUNTX3MtTXJiNjBQTFhUVFR4TFA3TUVwS2Z5d21RYVpUcUdybTBLSlhic29leENaUzRwYmh0MG9SaXU1WFdZdjF5N3lWUHhkM3lDZjBjRXBMRWpnUnZBSWs3eEhab01wdDQ2VElEUUJ0UEd0MHJuOEhpd3RjQmc?oc=5",
       "outcome": "Success",
       "phase": "Phase 2",
@@ -476,8 +487,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZko5bzJOdHNUR1A4blB2MmluRm5LNm5keFVtelM0dzRESkFGVnU3REFWdWNSaW9lY2N5eUZXX1d5YnZpU291UGVmeURfN0JheXA3TmN5N1JoU2JyQ0pHb1psaW5RRFZ0M093aGw0elRwTFQwTU9tMlE1c3pkVFU4RzdIMENnN2tNV0swNmI0R25UWHFITXMta201dW5VWTg1?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -674,8 +685,8 @@
     },
     {
       "date": "2026-07-24",
-      "headline": "Genmab, AbbVie Clarify Epcoritamab Phase 3 Trial Missed Primary Endpoint - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
+      "headline": "Genmab, AbbVie Clarify Epcoritamab Phase 3 Trial Missed Primary Endpoint - clinicaltrialvanguard.com",
+      "source": "clinicaltrialvanguard.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSm5fV2pXOHlkbXNlclQtdFFFbS1STC1ySzRzeGcwc1JvODZwUnBReU45cGhVTlg4c1U2V0pCUUIyTVFCMkpuSUlLTVlTOUZ1TVY4Y0xUU3B3WGZvLWpwRlp2ekZwd21qR3ZFT0dnb1F4WWUyMnNWU0liQ2w1eGQzLXZZOFNUZGhMUnVobEhxOF9yem0yb3RoNG1QbFpEcnRiWUUzVmdHZGdJWk56V1V2N0E3YW9aUQ?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -902,6 +913,17 @@
       "significance": "Missed primary",
       "target": "",
       "moa": "CAR-T / cell therapy"
+    },
+    {
+      "date": "2026-07-23",
+      "headline": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C - Eli Lilly and Company",
+      "source": "Eli Lilly and Company",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUllrSmxTN1JPMlRDcjh5Z1BldWM0Y1lqVFFPeklfcmpBUUlJaE5yRk91bjJpZG1hZW1KYUxzeUMyX0h6M1ZZU1RfSFYyekJtaWxNVk1iT3VYWnZVSlJUNXBvY1dKYVhFRVNlTmdlM0dxaFV1MWk4SS1wVXV6NVJCVklqSWdSVGowLU5MQXlGY3lYZXR0UmRGeXNKT2R2akJUSkhJUUFSLTEtbzVtWW5OX01BUmYxRjNLVmtDeHpB?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
     },
     {
       "date": "2026-07-22",
@@ -1202,8 +1224,8 @@
     },
     {
       "date": "2026-07-17",
-      "headline": "GSK axes key cough drug candidate after phase 3 data end blockbuster hopes - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "GSK axes key cough drug candidate after phase 3 data end blockbuster hopes - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2VkQXI0Z0p3eXV1N3hpdjFhUUtsMHNuX3oxX0tZQXZFcjRUeFh6N3doRmNWY2Q0OGRISm0tOWdfRFNnLXRvZ2hUMEVreXQ3c3lPcW00Wnhhb01ETmlicVh6djYyaTdUVlVpdTRoR0lxQ3o0SXo1TmQxS3JZbHpoVU1NX1hvdXpxc1BMQ0MyQlhJVldoQWx3c1luS2lUdFVzRllB?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -1631,8 +1653,8 @@
     },
     {
       "date": "2026-07-14",
-      "headline": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Biogen defends anti-tau drug after stock slides on Alzheimer’s readout - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSW45Q216RDR0VU1LTmgzRXF2M1BEdVExcGZhVDBDWlQzNHVVLXpNYmRtRHFGZkJPZGJxc3gzQkpQSzE1eldnUE5xdGUyMkE4RkxvdEl6aHBfNFMweUV5RTI5OWNzcHNzQUNWNGJLaTRyZllYblBJQmQtZzUzVzh3YWF5Ry1xSjV5azhfNmhoREdVdk8wRk8zaFZTZTZIRUk2Mm5IeUYyYw?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -1829,8 +1851,8 @@
     },
     {
       "date": "2026-07-10",
-      "headline": "Bausch + Lomb Glaucoma Drug Fails Phase II Trial - AllSci",
-      "source": "AllSci",
+      "headline": "Bausch + Lomb Glaucoma Drug Fails Phase II Trial - allsci.com",
+      "source": "allsci.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlNFbEYzaXlZbG5MNlZTZUZDZVpBZnMyWWxDUHJaMmpVNk5KREh6OUpyVFpNS1diMS1INDhUOURNV1JRRE1sX2x0TEFpQ3ROUmxVZWhCZHJvTS1ZTEVmZVkzVDNrV3o1NWxicUhkSWhsTWg4M2laMmZDYXhILVZCZ0s2WE1XTUhRbGdjMUlHRWRuVkRZbkNySUl4Ml9zTFBTcXZ2SlJnU2h0Uy1PaTFsdjQ0Um04X3Y5bi1YRA?oc=5",
       "outcome": "Failed",
       "phase": "Phase 2",
@@ -2698,8 +2720,8 @@
     },
     {
       "date": "2026-06-30",
-      "headline": "Vistagen fails another phase 3 social anxiety trial but spies path to market - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Vistagen fails another phase 3 social anxiety trial but spies path to market - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHZlQUc0U0pPSWtYai1oNkI1bmctOGVTOE5mY291VEl1eFdtRU1PUUw4Uk9XYk1lVXFvYno2amJkM0dmd3RXZlN2b190Z1BiTlJxTGhXczNXeHl5blBZanBpby1sVjNYSjNMd0hUTlNZWUQ4anBPX3B5OGhhRno1NDVMdG9KMGNFUkE0ZXNKbURtOGhMaUpzZENMZ2hzMnFzM0ZROWYzdHN0eUE?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -2726,28 +2748,6 @@
       "outcome": "Success",
       "phase": "Phase 2",
       "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "Stoke Therapeutics Announces Completion of Enrollment of 162 Patients Into the Phase 3 EMPEROR Study of Zorevunersen, an Investigational Medicine for the Treatment of Dravet Syndrome - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONTMxSFIwS0tvcWRhQTF0WEN4ZFhpdndtMGFmTmk2TkxYUTZXaEdReGFUNW55Wk1YR3hYTUQzUlJCd0k2dlMyc2pkS2J1ZEhZeTJSekNpQmtVUmtYTmNWOFU3TFhyLVM2b19XWGdlYVR6MXNRQkstMjRXZExoSkVid2tuRy02bUFZMkxTNlpfd1FVbHlIaE9ETUhmMTA1LWdzMXI4Wk5vMGRzY2RGM2w4SW5kdVlQN1h1WGlXTjRFWDdxbGdBY2NxNUdRRkhOeGI1NjctdEdmV0NFTUJOZzZ2SWZyMXlGRGI4V2wtV3NYdVFyWDZPRGExRktWQ3FyRHZZRjBMZkhMSUh4TzdiZ3NodGN2aUNHaFVqbmo2bUJYOTN0TXRwSmFSa0h4X1FNaDh6ZkF4eDFTYW5rRzlxMFg2WWxjRQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "Stoke completes phase 3 enrollment for Dravet syndrome drug By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjlDdFIzcERNVnozQk5LdTI3MTRZMVZaTGhsSHFkNXR5ekVJTE9tYTViR2l0NWREY1NZMDlNX1d2Y1VrZ1VDR085V1JROVJOSU5iVVd3aXJaMTk1aUNmaGs2VW5seFljeGlKeE43MVM2c0pTMTNCMTVSN1dDbWVQNmc4ZXE2VHVCVjV0d0FtQ3ZUeUlDRTk3dE1veDg4OUxrNWhjLVdWdjNmM19wRWl1NHBVWFVrNndYVUlBRA?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
       "target": "",
       "moa": ""
     }
