@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-04T10:05:05+00:00",
+  "generated": "2026-08-05T10:02:18+00:00",
   "items": [
+    {
+      "date": "2026-08-05",
+      "headline": "Applying risk-based oversight to ensure real-world data integrity - PharmaLive",
+      "source": "PharmaLive",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDdIWUF2Y0hweTZaZk9GeVRQT05jV0lJYlhKUWFxYkg0RWp5WDNtQmUxMnBuR0RrSEYyRW1Ob2ZMOVBzZ0NpX29jdnM4OTFnaG1aMldMdmFFS25wcVR2RGFHRUJHLXY0TXNGZXpZYXlBei1Ld2FJdENWUThUR2c4QUpRUGZ0RzdIM3JJN1QtSFBjZlBLRTRMaQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-04",
+      "headline": "Bridging Clinical Care and Research Through Real-World Data - BioPharm International",
+      "source": "BioPharm International",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnlqVnBWOXFxMEFIdmJVSXV1S1pOalpXUWo4LVUzU3lJblRVdldGQThfaF9DTGk0OTRvbElRcVFCeU1LMzFKQlhwZlFoUXZqQjRCSVNoZDFlc01tWUhmNktVckVLR0l2MUpydU91VlFSQlduVjJjMGdGTHgtTV9ibDFZekJOWHZqOEthVE1TMzZmVy1KdVRKUFIyUkdtdldPcHlJSw?oc=5",
+      "category": "Research"
+    },
     {
       "date": "2026-08-03",
       "headline": "Bridging Data Gaps: Curating Real-World Data for Oncology Research - Applied Clinical Trials Online",
@@ -31,10 +45,10 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Beyond the Trial: Real-World Evidence for Bispecific Antibodies Across a Broad RRFL Population - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
+      "headline": "Beyond the Trial: Real-World Evidence for Bispecific Antibodies Across a Broad RRFL Population - AJMC",
+      "source": "AJMC",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZDFwT2t2V3lhWlFMNmZyWEJ4R01PQkZxWlVOZlNNODVjZWZDZzBMblBOZzEwaEEzRmYxM1Fkc2RvZDF4T0VlWXRQYW9aUjB2c2ZIX0RjaHJlX1J1TGxBNGlqUXhLeEtQVWRBUjU1WW4wU0s0bHBlU0xpU2l4Y1Rfend0Nkg3UjAwR3pPM2pqYlNCa3J5ei1yVWdyY041SXB4a2Nfa1NmSFRwcnhodFN3Q0FsVjBZWFZrWTA0?oc=5",
-      "category": "Research"
+      "category": "News"
     },
     {
       "date": "2026-07-30",
@@ -108,8 +122,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "Real-world evidence and AI: How EHR data is reshaping drug development decisions - drugdiscoverynews.com",
-      "source": "drugdiscoverynews.com",
+      "headline": "Real-world evidence and AI: How EHR data is reshaping drug development decisions - Drug Discovery News",
+      "source": "Drug Discovery News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOekUyaG9kOTFLSGpsdEtTcjJLMFlzdXh4Q0dMS0tLY1N1Y3VnbkxMREoxV2QwMW5zNFlQLWN0NlVFQWpnRVdDREJ5WDlPeXVSMXgtQ2NvRE5VSDh6VWVoUmh6ZEUtYXotMGZJQ0E0MEMyRFdETmdfWk9YZWRDbmNBTXBuZ2ZXTEZ4MHJISXpBRzRwZU52VEY2al9fN3RTTGlpdnF5Q0hiUWU4QXdTMkFIZ241TlpvSXRoWTNV?oc=5",
       "category": "Opinion"
     },
@@ -1074,8 +1088,8 @@
     },
     {
       "date": "2026-05-14",
-      "headline": "FDA guidance opens the door to de-identified real-world evidence in regulatory submissions - drugdiscoverynews.com",
-      "source": "drugdiscoverynews.com",
+      "headline": "FDA guidance opens the door to de-identified real-world evidence in regulatory submissions - Drug Discovery News",
+      "source": "Drug Discovery News",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmxsZVUzSGtMSlZKVjFERDVZV1VKNmVQRmlfV0VoTzVLbnRQam42QzFkcXZhZGMzUVpHdVAwenE1bmpLRWZBVGg1ZjVWLVpSM3FHcXMwVWYwREREX21YQUl6YzNfVGZQdEM4aExRUGI5WlpUbzUzem9QSTlOZzNUWXJ5b1hYSXkxTEF1MDBselB6RlhwVnhsaWVfVTdQWHlSMHRhZGZPZWZDNF9ZdkdjRXd0LV8tbWZyQW9PdmE3a0d3Sk5hblZadjVn?oc=5",
       "category": "Regulatory"
     },
@@ -1291,8 +1305,8 @@
     },
     {
       "date": "2026-04-19",
-      "headline": "AACR 2026: Real-World Data Show Targeted Therapy Extends Survival in Aggressive Form of Colorectal Cancer - Roswell Park Comprehensive Cancer Center",
-      "source": "Roswell Park Comprehensive Cancer Center",
+      "headline": "AACR 2026: Real-World Data Show Targeted Therapy Extends Survival in Aggressive Form of Colorectal Cancer - roswellpark.org",
+      "source": "roswellpark.org",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTBEQzV3a3oxWXRYaDJGTVdNd1R5MHFGNzNDS05pWUxWVzdvVWRaY1JBMnIycTRjdDA3U1Zab3BQYXd1SmhFOTB6SldHYklabTBFZ3BmekViOXY3b2pvTEN4TlJzNmdNREdjUWQzOXlrUy1GdTZSa1hkRkVvNjRWb3VqWGo3V2hzS1p1ejJHT0kwUnB0TVRWVVZvQlB6cmhOT1BRRkhqVDlrc2dBWFJaSWc2R1BxVUhaMHIzdzhsSEtTQQ?oc=5",
       "category": "News"
     },
@@ -1452,8 +1466,8 @@
     },
     {
       "date": "2026-04-06",
-      "headline": "Clinical Trial Pools Are Often Homogenous. These Researchers Prefer Real-World Data - Medscape",
-      "source": "Medscape",
+      "headline": "Clinical Trial Pools Are Often Homogenous. These Researchers Prefer Real-World Data - medscape.com",
+      "source": "medscape.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEVhYXNsaHFRdkhVQTJHWkhYWENCcXhLbTFyS0ZXeVJjeThDMzRNWFlqTXZJVzNpXzdZWmI4YjJTT3VINkgzQmVNdnRJTFRPcWtPYWlXZW9aT1YtNlBDNmdjaHJVamtQMGthbklqcHVPSENyV3Z6WDQ3b3VxVi1rTkNHVVIwLURwX2VtMUt3QXFnaUpibDVfejBjUS1ZQUdobFQyMjZ6LWNULWVmb0E?oc=5",
       "category": "News"
     },
@@ -1515,10 +1529,10 @@
     },
     {
       "date": "2026-03-31",
-      "headline": "The Role of Real-World Evidence in Psoriasis Treatment Decisions - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
+      "headline": "The Role of Real-World Evidence in Psoriasis Treatment Decisions - AJMC",
+      "source": "AJMC",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDRFTHdmb3h3TDNIXzNDeWZXMFRKZlBwYnlzaXBtQXFYWGJnMGxqQ0dJejkxQkszb1BIZWN5dklGR2Y0NXBrM1ZRQlBaZjIwS2c1bk95LVZZRS1ENThkbDB0aHZvb003Q0J0ZjlWSjhINlE4N0pjM3VBQmlhYk5XRWRRaWJIcko2Ujd2cGI3NllBSHFf?oc=5",
-      "category": "Research"
+      "category": "News"
     },
     {
       "date": "2026-03-30",
@@ -1893,10 +1907,10 @@
     },
     {
       "date": "2026-02-12",
-      "headline": "Real-World Evidence Supports Switch to Next-Generation BTK Inhibitor for CLL: A Q&A With Margaret Krackeler, MD - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
+      "headline": "Real-World Evidence Supports Switch to Next-Generation BTK Inhibitor for CLL: A Q&A With Margaret Krackeler, MD - AJMC",
+      "source": "AJMC",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRXczbzNLTFM5QlJwZlJOa2JWdEVVc3E3alZOblNjSmVoVW84YnZySkpBMUdMWGZZLVUyT0tBSWVNNnM2R3RydV9RRUZxdC1ZUFpPZHpzNFFSQzFlZVJvNVc4VlhlSjk5eDBwZHRQTktWMHl2YmdJV1JWaDlabGVBcFR2c2FCUDVXS3h1aV9ucTlQS3R4Y2Nodm9rTjRRQnVYTlFZRXZENXFwekpiTjhJOXJSaVZwelpFVGU5MG9na3piSUkybDRqa2J2QThjYWJ1?oc=5",
-      "category": "Research"
+      "category": "News"
     },
     {
       "date": "2026-02-11",
@@ -2086,20 +2100,6 @@
       "source": "Cure Today",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnhTS2NZOXdYZ3o2SlMxZTVuT1NSZU9LQW5NNndRM3JxWmU1d056UUdFVFo2UTFMUnM4VkFuNUdWNnhSQnFKM0xlU1kyNzZ1QjdFa05ubTdJclRsZGhidExFVDFfc1pkeklqMTBydlFrdGI5UmJzQ200b1hlZ2tJTlBDN2RJS0tqQTNNdWEyMzVJQTQtZnRXei1MLWY2dW9qM0dYQUxVQmZTVlU?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-01-19",
-      "headline": "Zhaohui Su: The Power of Real-World Data in Advancing Cancer Care - Oncodaily",
-      "source": "Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySkVjYXRkSllUdFdDTzN5VUhwS0VTRk5VWk54WVhaNzQ4SVVXOHUxWU1WUWdWV0NfanM1bVlTOUF4ZGlEcTJSNGZwc2xFZkY0LVRORm1Xc3lZQ2xYRWdobg?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-01-18",
-      "headline": "Massoud Toussi: Five RWE Trends Reshaping Drug Development, Regulation, and Market Access in 2025–2026 - Oncodaily",
-      "source": "Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwaXhpLUotOS1lSHUtYU9xVjMxNEduRkNkNEh0Yy1wQkVjcERWVUpVRVpnWllLVlJQY0Q1WGhPWVYxY2EzRkVud2tjclN6OVFzeXhpR0hacEFJaFhnQkRV?oc=5",
-      "category": "Regulatory"
     }
   ]
 }
