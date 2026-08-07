@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-06T10:47:05+00:00",
+  "generated": "2026-08-07T09:12:05+00:00",
   "items": [
+    {
+      "date": "2026-08-06",
+      "headline": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVU9yYjlfblVaaGpQMnZvcGh5VGdObmxTTk1LZlQ4ZlZOMWVvRmJuU210alRKOUZPeWZyNXlJZDdSSl9MdUdCQTU3NFg1NzhnVVVFWGdqSlhUUDFrSkxVNUV6bVFodTRiZFNSb0EzLWJ6ZXJ2OWNobW05eXpEV0FRQU1XRlh2dFdBRU1VRFluNXdNeG5mdnhaVQ?oc=5",
+      "category": "Partnership"
+    },
     {
       "date": "2026-08-05",
       "headline": "4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup - WIRED",
@@ -10,8 +17,8 @@
     },
     {
       "date": "2026-08-05",
-      "headline": "Google's Jeff Dean -- chief scientist for 27 years -- leaving during AI leadership overhaul for startup - New York Post",
-      "source": "New York Post",
+      "headline": "Google's Jeff Dean -- chief scientist for 27 years -- leaving during AI leadership overhaul for startup - nypost.com",
+      "source": "nypost.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0R2LVJwM2lzcHN0NVBzaTE5VDFad0tSZmNLdTA1RG5aYU9EVkpIempQQWl4Wi1aMmI3U2Zqa1l1WjZTX2xVRmV4d3AxN2FxTjFObFQ4Z1FnTGV5U0pXSFRZejJ2TEdmME40UzhzS3NTRjdQYndXTExzU2Q3M1lpamI2eFpxZllZaktNUmMyemp4QjdhcFZKcGMzUkxjaHFwekd5N3JNUWU2d2c5OElqOFB4YXFMT1RpMjNoVUhDTWdpLWhMeDVoS2o1eHc?oc=5",
       "category": "News"
     },
@@ -27,6 +34,13 @@
       "headline": "Four Top Google AI Researchers Leave to Launch Discovery Loop Startup - Firstpost",
       "source": "Firstpost",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXhCZU9iZ3dkOXNKS1dMczg0Z0czQU52bFFiLXFDVHkzNW1aRzNWNzdhLVZ0WmJMMV9kSC1kU3c5RElSMWJrTGZtMEZnT3ZTSm85U2xSZ0MzSUpGcTlud0hSV0g5YUlhRGs1VkQ2X0NxeEtGSkNiNGNubzc1LTNfNXg0QTA3ZHJpS1NoMlNYb2NNcnF3dlFvdjRZdU1aVlF2NHRxbi0tcWdnbFVHTlBGR1drM03SAboBQVVfeXFMUFBqYld1a3R0WWZtUVpKeUpOMnZXLWNBV3piQk5remtqdUJNRURna1JLcEQyWmdLZGRLOWx0b25jZHdXcGRiUzg3aW5FUzdEWS0ta3l0WHp4aGc2UVFwY29tOTBqVnA3aHBtOEh3czJWWGtEVnJIVlNMMUxQRTB5bjc4ZmZGME5LVk9udGVYR1JVd19fUm04dWJSZjI3X2VORmdfc2VoSFltUnByMGkydE94TnRNRDh0Tkdn?oc=5",
+      "category": "Launch"
+    },
+    {
+      "date": "2026-08-05",
+      "headline": "What is Discovery Loop, AI startup launched by Google DeepMind’s top researchers? - The Indian Express",
+      "source": "The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcU5WeTBHWkdPU3M1bVFsVC16cV92UHU5MWZLQ2JaYjNRRUdOMGpRYkZCeDc3NUFMVGpQYUE4dmRZbjI1WUczcFJwMFFIMEVFNmlSWmhHa2xtRlFVaFdLMEtKeW5kbmVibzNHVkVJdElEZ3lPbUVhSkVHYUZpSnBYVTlvM1hMMXpaNmpkdU16LXd0ZVdvVVFqeW1TdklxM01LWWcwenpHMnAxTTNzTllWMnJOcTg1Mi1uXzdTWVhDSXkzQ1hGY2M5b1Q0UVUwVkw30gHXAUFVX3lxTE95MVZ5SlFuckJKZzVFd3hfYXptN0dqQ2dWYThsa09OdVYyX0djMVpNYWFpYkJiakdYQzdQQUM1RmEwdzIzeUFQanFlaW1QUE1JT0N2LTZEWjIyeWxNbEV6MWs4UW5BbDAzam1helhENXZaSThMR0lJVDNZWTUwdjExeVRQeVVDUjJHLWF0RlNlY1R6OTNhOWhqbEpyVHpfcWkxOURnZW9NdU5zS2tGdUplU082X19mdjY4N1JUVDY4a29tT2swclFJVmRTaUVIWThRUmlrQ3VR?oc=5",
       "category": "Launch"
     },
     {
@@ -52,15 +66,15 @@
     },
     {
       "date": "2026-07-31",
-      "headline": "Startup to Acquisition in 2 Years: Grove AI’s Journey to Transform Clinical Trials - medcitynews.com",
-      "source": "medcitynews.com",
+      "headline": "Startup to Acquisition in 2 Years: Grove AI’s Journey to Transform Clinical Trials - MedCity News",
+      "source": "MedCity News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEZHUWZETmVuMVNMQjNCeTJBNDRmRmRoY2lhT1M5NHRDUFh3MTdfWHZITUZWYnR2OUVMOWk3NW9XMVNaYkpDUnpnZlNkdGlRazYzMVg4ME9UQlZLSmtmVUZ5cm9TdDJzSS02akpzby1IOGIwRVBFalRBeldXUWJHTnE0dGdpUDBzcVlEMWxfT3Jad2JjRkNWOVdxS2VWOVZmdVE?oc=5",
       "category": "Partnership"
     },
     {
       "date": "2026-07-31",
-      "headline": "Plectonic Biotech receives Sprind funding - Munich Startup",
-      "source": "Munich Startup",
+      "headline": "Plectonic Biotech receives Sprind funding - munich-startup.de",
+      "source": "munich-startup.de",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2lUaHl4dWhCcU1uem14T2tVbzdBOERMb1ltdFFLSTU5MFVPSmV3dmxibjVUb3pYdjZMSVp3YzlzZDhhOUw2bEh1SFJmYXlqbTRxeGRmMGs4V3dnUTZmVXZzNkVfNnptam5CY2VKZmlHOWNYOGdsT2JIejEwMl8ta0VhbDNUdw?oc=5",
       "category": "Funding"
     },
@@ -129,8 +143,8 @@
     },
     {
       "date": "2026-07-24",
-      "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M - techcrunch.com",
-      "source": "techcrunch.com",
+      "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M - TechCrunch",
+      "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONnByREhEbzM2dFl6aHIzRWQ2QnFWdHJFdEJxalRYUFJzMTN1ZEhHa1ZmUExva3JkcTNIbFU2THJ2N1FkYUtONG9UODd3X1c0dktoYnJCaURFTlVMeE9YMU5wY3FuQjRWRlBkcHpDZjRBcWt5TENFbmc1Zk1GVGNqWk1WQ1ZXanZFNmJmeEt1bEg5eV9sdmdJekRZT19rWVJBUlNNTW5wWUhUNmpfOXNtSWxvMXAtQQ?oc=5",
       "category": "Funding"
     },
@@ -212,9 +226,16 @@
       "category": "Funding"
     },
     {
+      "date": "2026-07-22",
+      "headline": "Cheiron Raises $8M Seed Led by Menlo Ventures to Build the Operating System for Drug Programs - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGNwMzhkQ2N5YTJRa3JveDhtcFVzdHBteDZxNVZ1VW1DUF9ka2xkdGpuVVRQTk1mUnB3S19FbkZtX3hTVkNLQW81T0RsNWFSNGMxN0FjUmxXbXdkNXRlckctbzQ2YkNwT0tLbmlqOXFKdldITUUzdVVPTm1qVHRVdVZ6YmM3Rjh0aDdxaEZjUTM?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-07-21",
-      "headline": "Shapiro administration launches $125M fund for biotech startups - audacy.com",
-      "source": "audacy.com",
+      "headline": "Shapiro administration launches $125M fund for biotech startups - Audacy",
+      "source": "Audacy",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDFPbHR2Xzl0eDhZS1NUVjhTWHFhUEZUSE1yWVZtZl92eXEzQlpOc2d2MzZZc1dEU1E5bFB6RlJrbnFka0VzQmVqQllsdUpoYmV5VndTVmJJLUFYVldmSnZRMXNfM2NycU5tUzBRUW9BT1lDQWhacUp0dm1IdFJXY1R3SFFaQm45M2JSeQ?oc=5",
       "category": "Launch"
     },
@@ -276,8 +297,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "Biotech Venture Funding Roars Back - WSJ",
-      "source": "WSJ",
+      "headline": "Biotech Venture Funding Roars Back - wsj.com",
+      "source": "wsj.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHFjZWxibDdURXVFU2ltRzVmamFyWDFMOVVOLXdtOV9QamVZdXJHYVpyVFc4cVlJSWsxaGZjUlhEWlpuNjJNVUU0d2xkSmhaNGxjdkpMQ0ExU0p6N2JiQjVHWl93T1dkWThrcFJXMU4ySzdZVE8wdTV4d2xNQVlFcGR4OVpaVW9EeS1R?oc=5",
       "category": "Funding"
     },
@@ -395,8 +416,8 @@
     },
     {
       "date": "2026-07-14",
-      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - techcrunch.com",
-      "source": "techcrunch.com",
+      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch",
+      "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWJnZnZDeWFpVmRkSmpBZkxodDVPT3BiaXV0SmM0NHNnSDJMSjh4cm42bVBETFhfMFFBWE1vZEQzVVJWbVBJNEhiY01qNm0taGY4MXRnQ1FIejk0a3hvbFFUN29wM09LYVd0QjN1RV9na19kT092bURjQzdCTU5oRnh1VW9GcmV1Um5uTDlrLTFRcHhoUno2TGtLRkR3NEg1UlRyTHFBYjRTOTM2TC1kYjZEemNaQ05rdWJTTVR3?oc=5",
       "category": "Launch"
     },
@@ -500,8 +521,8 @@
     },
     {
       "date": "2026-07-13",
-      "headline": "Indian Biotech's Global First Strategy: Why Startups Are Launching Overseas Before India - businessworld.in",
-      "source": "businessworld.in",
+      "headline": "Indian Biotech's Global First Strategy: Why Startups Are Launching Overseas Before India - BW Businessworld",
+      "source": "BW Businessworld",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGVpcHJJQU1QTjhpSUFrSTgwUWdDcTBDaW9EdDRYYjBFS1lMeUV1by1yclJzNEVlbXNfcHdPSVZhd2hvZW43UWNqT0xpNi1uRVZvYTRqRWJCVHRfbkFoTTM1SFAyRnRHSnZEZlFxU2ZaWFcwNGpZZHhsZUlPVVllNjJxM1Y5Y3BOWFJjZ00zNDQ0V0Jtam1tOXNRVjMyVTc3WUNqak9YenpNSHZGTFBGaUYxdU1tRnV1M0dOZi1wTkR2MEtCTjRLY0VaNA?oc=5",
       "category": "Launch"
     },
@@ -514,8 +535,8 @@
     },
     {
       "date": "2026-07-10",
-      "headline": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork - Crunchbase News",
-      "source": "Crunchbase News",
+      "headline": "5 Interesting Startup Deals You May Have Missed: AI That Dispatches The Plumber, Underground Warfare And Cutting Down Private-Market Paperwork - news.crunchbase.com",
+      "source": "news.crunchbase.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmdwYklTbEZJODVWYTcxUnBiVWVKZkc2dGlzb2NCMnVubDJySDZlS0ppUXJJN0NqZVFVU0VkT3Y1NXZGRVlUSlY3bFFXLTZrNGxDUVF1RGlaWlRWMU5wVnZXTmIxWEZxS2VrMUFOS0pNMmZXbUNvamtZNUQyclM4RzVIUUFlQlpBdkt0OEZ5dlR6NlE?oc=5",
       "category": "News"
     },
@@ -528,8 +549,8 @@
     },
     {
       "date": "2026-07-07",
-      "headline": "North American Startup Funding Shattered Records In First Half Of 2026, Driven By AI - Crunchbase News",
-      "source": "Crunchbase News",
+      "headline": "North American Startup Funding Shattered Records In First Half Of 2026, Driven By AI - news.crunchbase.com",
+      "source": "news.crunchbase.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLVI1ZmZlajhQQWVWY2VZNXNMNXFlS3Q1amFDUk5VVjJMS05LRngzTENiaHdhdFFHdnh0bkJNai0yenNmLUhQd0dmX3MydXRQejVzTmdfQXdOeFMwdmYtWTBLZklHeDRwamg4bU5zLVA4NFRRVERBMkE2ZVRiTlhKTFJsLVl5WGh4SVBkUXYwbmU?oc=5",
       "category": "Funding"
     },
@@ -738,8 +759,8 @@
     },
     {
       "date": "2026-06-12",
-      "headline": "The Week’s 10 Biggest Funding Rounds: NinjaOne Leads With $400M As Large Deals Also Go To Blockchain, Cloud Infrastructure, Biotech And Robotics - Crunchbase News",
-      "source": "Crunchbase News",
+      "headline": "The Week’s 10 Biggest Funding Rounds: NinjaOne Leads With $400M As Large Deals Also Go To Blockchain, Cloud Infrastructure, Biotech And Robotics - news.crunchbase.com",
+      "source": "news.crunchbase.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1RnUDdjbFFwbHZyQkRNeHF5cDhWZXUyY3hDQVUtOXJlaTJQZzlmYUVxaDlaOUd3RlNvVVYyNm52eXV0MjhRSzF4QkFXSkN6UmFLZlNBZ3A3c2RxSWRBODVzbzd2bWRCeTltQTl3cW91MlhvVlBhRzlXLTU2a3IweTlkSGpjS0dHcUplNUhBN0VHRlFtQnByQll6cWI?oc=5",
       "category": "Funding"
     },
@@ -815,8 +836,8 @@
     },
     {
       "date": "2026-06-08",
-      "headline": "Scottish biotech Bead BioPharma emerges from stealth with ADC platform - thepharmaletter.com",
-      "source": "thepharmaletter.com",
+      "headline": "Scottish biotech Bead BioPharma emerges from stealth with ADC platform - The Pharma Letter",
+      "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnFVd0s4cUh3QlNSRUlpUXlqOFBWZTg0UHhYUTF0RW5HZEtFZnQ1U3pyVm1LUUVDOUJENTJFbVU3UzZEeUhHOGk3SVJGMld0d1ltUE1qQ2J4QjlONFZkMWFsX3BkRElsbDk0d3lYN1JTWFQtaTlVU0pJN0UzUU5jdjZ1ZnJxcTYtNFBpY1NhM0MxVWdJT0pVSG5mSVo2RC1KQUV4V2tPYS1qZ0JqWWFxc2FUTXE1OHM?oc=5",
       "category": "Launch"
     },
@@ -1067,8 +1088,8 @@
     },
     {
       "date": "2026-05-26",
-      "headline": "CMU Startup Accelerates Cancer Drug Discovery - cmu.edu",
-      "source": "cmu.edu",
+      "headline": "CMU Startup Accelerates Cancer Drug Discovery - Carnegie Mellon University",
+      "source": "Carnegie Mellon University",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVdFo5dWVMSkU0ZUg3M01veFM3cUR4Nzl5YnRXUEpGc3dQd1BpWmp2NkxTYVpja3RjazZaWWNhVlVaV0VTWm81azh1M3VseVI5RVZtd2lmOWZiQkFScm9oV0w1SDc4T2hPc3pvdE1GY0paRTlt?oc=5",
       "category": "Breakthrough"
     },
@@ -1200,8 +1221,8 @@
     },
     {
       "date": "2026-05-17",
-      "headline": "The Jerusalem Startup Developing a Breakthrough Therapy for Liver Cancer - Haaretz",
-      "source": "Haaretz",
+      "headline": "The Jerusalem Startup Developing a Breakthrough Therapy for Liver Cancer - haaretz.com",
+      "source": "haaretz.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX0RSYi1RZHdhRy1JSDE2OGJaUzVrVHNzaC1zVVRjQ1pUc2hzTWYyNllBTU9wdGRqbzdmNXRxX1VEbndFdjcxczQ4dktNdDFXWXdVaUM0am9xcEdtbDZLYUttRksxcVFtMmMwYmlCbEtGZ1IzV3Q0S2p4SDgwNTdNQUhBa3VVNUY0Q2RJZk5WdGRfZlg3UFRBdEhLOFYxQURmUWF3cDUyaHZRNEtIVXlmekdnTF9ScW40SjVKYV9tajc1c0VEQmlJeENNdnRMaGpqNGlCOUpTLTNIS2xWTTVpak96SXJaUlVXM2R6Zmt0LUYyd3ZYLXdNcVh4QjEwTmh6Z3AyN1dxSUw?oc=5",
       "category": "Breakthrough"
     },
@@ -1228,8 +1249,8 @@
     },
     {
       "date": "2026-05-14",
-      "headline": "Beauty Biotech Startup Ruka Lands $4.5 Million in Funding - beautymatter.com",
-      "source": "beautymatter.com",
+      "headline": "Beauty Biotech Startup Ruka Lands $4.5 Million in Funding - BeautyMatter",
+      "source": "BeautyMatter",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTR2ZDNLSFE5SEdWb1dhRnlNVU1VSkpDR0dvcDgxVmlkUl9mSFJVZXJDdGVESW1jY1ZqQUNWWFJNVUZJZmVqWXV6RnRMVkhMY002cjJ3ZkRGYnhCRVNSSzRhUUhhMDZLemkzMXAtRi0yUWtTNk1YWWlRLTJiVkM4WndsdHZqOHMtb0ZGeGQ4YmJlSFVPN3c?oc=5",
       "category": "Funding"
     },
@@ -1319,8 +1340,8 @@
     },
     {
       "date": "2026-05-12",
-      "headline": "VC Delos Capital Teams Up With Taiwanese Drugmaker to Launch Biotech Startups - WSJ",
-      "source": "WSJ",
+      "headline": "VC Delos Capital Teams Up With Taiwanese Drugmaker to Launch Biotech Startups - wsj.com",
+      "source": "wsj.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUViV19acTlueXNiVjRWRFhyM2xobnI3eXM0VVIxMUVZT3RhTGRvaXBQbDV3MlhGUHJIbDJHMXlVSGlDcTNGQkNsR1FLMTMtMkpQbmJIcXJjQWZWU3kwdG9oeFZ0MTBUc3JfZnQ1WkQ0N3pJWlVVNkNlMks4OU5Ma1JfejBld1gxOGFRQVR2dWFDWFFyeEhFMjM5SFFLLUJ6YVk3bkdSbUZMWDRLRGlTMlp3ZUlTN2RZcE9Hcmt4Qml0RG1w?oc=5",
       "category": "Launch"
     },
@@ -1375,8 +1396,8 @@
     },
     {
       "date": "2026-05-08",
-      "headline": "The Week’s 10 Biggest Funding Rounds: Enterprise AI, Space Tech And Biotech Top The Ranks - Crunchbase News",
-      "source": "Crunchbase News",
+      "headline": "The Week’s 10 Biggest Funding Rounds: Enterprise AI, Space Tech And Biotech Top The Ranks - news.crunchbase.com",
+      "source": "news.crunchbase.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVHBZNVRNcDRhay1zV2J4QzRodEVJVHBrU0o1S0tYZVdLTVpLNDYxckNsRUZfVmZBcUZNa29iUkJIcGZXVC1xT0VHWkZ1eHdoQ2lQV0tTNXJDSFJLeHVXdDZhM3RqMEEwSmZPS0NxSkdKRHhfMFo2TXp3NnlDaXlGWmNLYVN5a3d3OEZZa2JsOG92Nm9tWHE0SU56Zw?oc=5",
       "category": "Funding"
     },
@@ -1452,8 +1473,8 @@
     },
     {
       "date": "2026-04-29",
-      "headline": "New 'living pharmacy' biotech company launches out of Rice venture studio - InnovationMap",
-      "source": "InnovationMap",
+      "headline": "New 'living pharmacy' biotech company launches out of Rice venture studio - houston.innovationmap.com",
+      "source": "houston.innovationmap.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDBuZkJiaTJqTjhWRm5Xc2d2cHRUeDQtZXp3NzJHRXh4X1pfZEZqSTVINVZXY1FST3dHa1JkRG0xSXMxc1ppVzdrQTN3TGh3OHRjY2hEaUJjUFBFUF9YNGRxdE4xcThqN1RzWE9UeWNSbGh3Vm5fTlJXNURjT040Q0k5M3dqTTFfWlE?oc=5",
       "category": "Launch"
     },
@@ -1613,15 +1634,15 @@
     },
     {
       "date": "2026-04-20",
-      "headline": "Lilly Acquiring Kelonia In Largest Funded Biotech Startup Purchase In Years - Crunchbase News",
-      "source": "Crunchbase News",
+      "headline": "Lilly Acquiring Kelonia In Largest Funded Biotech Startup Purchase In Years - news.crunchbase.com",
+      "source": "news.crunchbase.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdXhMc2tOQ2xNeWdhdzdnYUlTdi1rVWxFbEpTRFJqckR3SWpEU2RSVkNnUDhfeHJIbjRqTVVzb0tPb05oUmV4a1hGNlROdm1reWlfLTItd0dkVHFoN3ZvREkwYmZKN2R5RGFxV3ZTM2Z5b0VvREhFV2p0MnJ2aTU2blRqZDFvR0VMbjBqWl92Ymw5QQ?oc=5",
       "category": "Partnership"
     },
     {
       "date": "2026-04-17",
-      "headline": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead - Crunchbase News",
-      "source": "Crunchbase News",
+      "headline": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead - news.crunchbase.com",
+      "source": "news.crunchbase.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlUwbEtCcWFIbHpZc1dpcDBaM0RVZlpHeW9raV9QUXgwandlMkhMVHJjaU1fdHhqamtwMnRvc3gxcUdhOTFHRWVnbmhSeTlLZ3lQQnZCaUhHZEdUZXNTTUY5bXZSS0h0cm9ULU9HRlR5eVZMWnM2SDlyOVhQNkItUFhoX3Joel9WOGVUZ1FKeEZFWWYxYVE?oc=5",
       "category": "Funding"
     },
@@ -1729,27 +1750,6 @@
       "source": "BioPharma Dive",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWExamFuSTBHWUJ3eVpVWmZPSzJrRDRKS2JrMGxzSDhQOVEybEwtT0F3TlllWWVPbkhxMlNsZDFNLW02bEh1SnhiQk1oZUVoNnlOLXdhNkdmUEJCR2NuUUc4ZTI0Y0FZWDZYbm9zeDdpQzRvcjBGUHluRTFUcVV3MjNucjNkZUlzTUg3cjVsVy0?oc=5",
       "category": "Funding"
-    },
-    {
-      "date": "2026-04-08",
-      "headline": "Anthropic Inks US$400 Million Deal for AI Biotech Startup Coefficient Bio - Investing News Network",
-      "source": "Investing News Network",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDVnVkV1NfVkl6SjFMWkU1cTRoc0JrUHE0WmszNjNYOVdJUXdFUHpqVTdxMFhaSEJSTDZKMHdDdFFNQTcyM1c3NW1adzY5MjZFWUt1QjdPLTVfVlRKWXZudlNvSmQxSDhGTWpGTVZVS2xoODQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-04-08",
-      "headline": "The Next Breakthrough in Chronic Pain May Come From AI–and This Startup Wants to Lead It - International Business Times UK",
-      "source": "International Business Times UK",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUZKQUNvYS1CMmRjamxIdHRPTHJ2di1hNE9hbW9HaW1LQWJoUEs0MUpvQ081U2ZwSG9uQzlLMmlKajF5YmhtaENYMEZNbWprZzBhZXZULXVkbnhoLVdSTWlnVExhUzBsT0ExUHowTHFxM2QzU1NlQm9ieXhCWEVveGRubDE5MUVuUEs2SDVYQm10aEUtNXBjODFTLW1XelJUWmNiQk9n?oc=5",
-      "category": "Breakthrough"
-    },
-    {
-      "date": "2026-04-07",
-      "headline": "17 UK biotech startups you’ll want on your radar in 2026 - Labiotech.eu",
-      "source": "Labiotech.eu",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUnJraHppdEdOZUJPalBrRnNtQy1IbmlLLWhCU2xvMC1VeENNcnRldVdMdkV0UmhQM08zc1BpYWQ3dEFsZ21iaFFuN3ZSR2Q3cnc2TWFXSW1JazVLd1lydTBsUkRwanhqVEZz?oc=5",
-      "category": "News"
     }
   ]
 }
