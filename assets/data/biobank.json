@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T08:40:05+00:00",
+  "generated": "2026-08-08T08:21:59+00:00",
   "items": [
     {
       "date": "2026-08-06",
@@ -73,13 +73,6 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "Human tissue collected for biobank in fight against bowel cancer in young people - ABC News & Headlines – Australian Broadcasting Corporation",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcy1vNHZSR21LOC1fUGNYdzR6bUFma1RpTEMxQW9wTWs4N2c5MndBSTdEdDRiMXpWLXNneHlPcjhleFZ3THNPNTN6Y3dwYkNESFM0cndSNXowUUhMNFdTc0hFWXg1WnBMS002TzRuSDV4MWVXZmVtOVQ4UjBlNmYwY3BmYzBUNnRFWG5La25wbDJEVTRJVjJwNDNIQQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-07-30",
       "headline": "Could this human tissue biobank find the cause of a bowel cancer surge? - Lab + Life Scientist",
       "source": "Lab + Life Scientist",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0YyUGFDM196NFc5LVdNSDBGVzYxUlF3OXd0alNrRzAwLWF1RkhaT2RvaGNFRGpCcThjWjNaX1RydWZQOGtvT0VvbWxfZUlPRzJLazkzZjhORmQ5RmtkdW5PVl9hR01LYTFRUmM2WGVJbnh0WElsLUx3WS0zWXUwd1RBYVdpWEZNVHFFZDJyRFdnOUZyOFFOTlBHaTU5bVFmU3RJLVExRXFTOVlteDhaM0FKY1E3VUZBM0s4Sm1BOFRHUF9xOXBnUmFSSFc5Tno0YXJWU2tlYmVHYVVCV0s2MjBybkY?oc=5",
@@ -90,6 +83,13 @@
       "headline": "Age- and sex-dependent associations of metabolic syndrome with colorectal cancer in the UK Biobank - bioengineer.org",
       "source": "bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdE1ScWtucXlKWDNlcExZYzlDdVpVcTFZaThDVFB2emtJQUo0cFp4alFhelk1UkQ1SFR5QzhGRnBQWFg0ZjMyTG1iT0ptbnF5YTRSTlJnUGNXUHh4Vjd2Mjk4RWppaS05MktRdUdCanVjUTZha3oyVUl6OFh5MzBrYWJxTXd5RE5LVUpwcWRNZkdXdU9XYnhVQmVSYkstZmNEbFZ2THRMUzZIWFEwRWlKaFl1UEpSYTViSERRU0hCbw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-07-29",
+      "headline": "Human tissue collected for biobank in fight against bowel cancer in young people - ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcy1vNHZSR21LOC1fUGNYdzR6bUFma1RpTEMxQW9wTWs4N2c5MndBSTdEdDRiMXpWLXNneHlPcjhleFZ3THNPNTN6Y3dwYkNESFM0cndSNXowUUhMNFdTc0hFWXg1WnBMS002TzRuSDV4MWVXZmVtOVQ4UjBlNmYwY3BmYzBUNnRFWG5La25wbDJEVTRJVjJwNDNIQQ?oc=5",
       "category": "News"
     },
     {
@@ -255,15 +255,15 @@
     },
     {
       "date": "2026-07-06",
-      "headline": "How the Expanded All of Us Dataset Supports Precision Medicine Research - Lab Manager",
+      "headline": "Leveraging the Expanded All of Us Health Dataset for Precision Medicine Research - Lab Manager",
       "source": "Lab Manager",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLW1TXzNvVEtNOVV1MFh6T3hEVWN1VFBIejBIYXdhMmo5emdMUTl1ZkRQSDZDMXZwV1AyREVpRGkwd0hTTHV6YUxNUUhMX1dOU3RaLW9peVphTWFSU3hsYTYzczFxWWZsMTNxM1hFbGU3RjB5MlhaajIyZDJIZmlROGptRUtiWFdEaUxaRVdjMm52S2Fwb291Mk5zNl80b1VpekY4VTZHaw?oc=5",
-      "category": "Opinion"
+      "category": "News"
     },
     {
       "date": "2026-07-05",
-      "headline": "Gastric Cancer Risk Score Validated in UK Biobank - EMJ",
-      "source": "EMJ",
+      "headline": "Gastric Cancer Risk Score Validated in UK Biobank - emjreviews.com",
+      "source": "emjreviews.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGJxNUpEMGoyZmd1YW9xZWZjV29qaU4wOFNHNi1SWHZrWERhclhfTXo0MmY1NXNadVZRcVNycmdlLUdCTlIzeGVaWmJfc3F2UTRjZnMyUGI1STJfN1VwQUkxbFFocl9BLVhMcENSeHE0UHkzUW90U2dsc1RzbFdBemhtUmlvbzRpTFZESUFVOU1SSEZFSUZqalJ0Q3hxZG1x?oc=5",
       "category": "News"
     },
@@ -500,8 +500,8 @@
     },
     {
       "date": "2026-06-18",
-      "headline": "From Microbial Dark Matter To Living Library: New Biobank Decodes Survival Secrets Of Extreme Acid Mine Drainage Microbes - Astrobiology Web",
-      "source": "Astrobiology Web",
+      "headline": "From Microbial Dark Matter To Living Library: New Biobank Decodes Survival Secrets Of Extreme Acid Mine Drainage Microbes - astrobiology.com",
+      "source": "astrobiology.com",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUVFpanh6b1FyeEdiN1BHSmpGUVMtSncwTVB3MmhQWmN6anVsOGxDYy0wcDFqUHJkRy1ONWhLOThmMW1FRHd3NWhSTEVkNmRBTGVyWUdMWFF0dENDMnp2ZkZCZV9SZ01kR09zdDYzTGxFd1M1bVlfVFRJbGRmMU14QlhHa3dEZW1Vanl6Y2RpZFU1STgyeXpWYXhpMHgzbVk3Z250Qzc2eG9IVlRkSGpBMUhmd3FXd2lTY1lhZWVRUlRjU0xPMFJTR1hLLUYyTVZvbWYxU1V5TGE1VHkxa2drWlBhTjVmeWIxVUVuSzFR?oc=5",
       "category": "News"
     },
@@ -759,8 +759,8 @@
     },
     {
       "date": "2026-05-12",
-      "headline": "What the UK Biobank data exposure should mean for the Health Data Research Service - phgfoundation.org",
-      "source": "phgfoundation.org",
+      "headline": "What the UK Biobank data exposure should mean for the Health Data Research Service - PHG Foundation",
+      "source": "PHG Foundation",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVRqX0xINjFmYkg0OHBFak05cHMtZUplSl9ZVjZZeTJzVGV1dl9XMHpmbnJyUjVTbU90QkpyT1NvQXN0eFRwck9Qd01oaUNLeUUwd3dOangzcHUtR1h2cUEzRmhuSWVZaVpKejhoWm1za1pIZW9FX1YxV3lteWlpNU9ER2tseXBkUXBaZVpkZW02X0RPLUI3RDhKekNhZnIwVmRzR2c0b2huZGkxWkY5NEVaSUl6THFRUGc?oc=5",
       "category": "News"
     },
@@ -794,8 +794,8 @@
     },
     {
       "date": "2026-05-12",
-      "headline": "Abu Dhabi Biobank’s Paul Downey on why biobanking is becoming critical healthcare infrastructure - gulfbusiness.com",
-      "source": "gulfbusiness.com",
+      "headline": "Abu Dhabi Biobank’s Paul Downey on why biobanking is becoming critical healthcare infrastructure - Gulf Business",
+      "source": "Gulf Business",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXZYUDhMNHVQb3JvdXk4MVAwbEZMd25VaXhSOXlMNjRIVjA5N2Z5SnpkSFF1NmNGVFpnODYwR2kyMmdjSmVyYmpFZGlWU09sQ2hrQl8xVlJYMVBiTkthODg0VTVmNFVEd1lzYnlOdWJVdm85NHVad1ZfZ2dTV0tkNFhoaGN3YlJQV1VBQzlBcEM?oc=5",
       "category": "Opinion"
     },
@@ -983,8 +983,8 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - bloomberg.com",
-      "source": "bloomberg.com",
+      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHVSdXBxcUdzNmhndkN4djFGRUYtQVFQYm92eFFkMDJtdVZEUnBqRU9SN0cyU0pQRXhXbDJ4TWZQd1d4UURIV3ROVVdxeklXNjBjaGpib1dNTXJpWjk4Q3VyTU1oSm40Rl90TFBpQjdLLTdrdzR6bXBKN2JYdFo1cDY1T2xQWlk4OXdNZWtKcDBMUTVLeFk4eWJXWGlsLVRQTWo1aDdXYXd6ck9WdkFhWWd0SU5RZUs2TGh0RV9vRQ?oc=5",
       "category": "News"
     },
@@ -1025,8 +1025,8 @@
     },
     {
       "date": "2026-04-25",
-      "headline": "Weekend reads: What paper mills charge for author slots; UK Biobank data breached; what researchers think of the future of science - Retraction Watch",
-      "source": "Retraction Watch",
+      "headline": "Weekend reads: What paper mills charge for author slots; UK Biobank data breached; what researchers think of the future of science - retractionwatch.com",
+      "source": "retractionwatch.com",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQ19MMUdVOEE0YngteFdYS2dNUFZpWEJtd1E3djBUSTZwYTlZYndCSkFYczVzMUE4WVd0UHROVDdTTnF2bThMTTBVeWszU0ViZ1BpVmZzOUhfRTI3dlMzTGNwaFY0dFRvcmJBU0R1aEFMOGZXSFhlZFNKNHFHakhLRzNTcHZtd3BlUjJCRGl6WHZ5SzVKSW4tam13a2FpVDAxTjRKSUZ2d2tXVnlZdndUcUlvLUV5WnZSQ241Qm9WNVppQTh6U0k2TnJHQWNzM0hxamxSMFpwWFIzeWhuekdtd09DaTl5SHhQVFAzbWgtLU9nNE1EOE5yV05Zbw?oc=5",
       "category": "Research"
     },
@@ -1221,8 +1221,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "UK Biobank suspends access after massive data breach - researchprofessionalnews.com",
-      "source": "researchprofessionalnews.com",
+      "headline": "UK Biobank suspends access after massive data breach - Research Professional News",
+      "source": "Research Professional News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2V3X2F2SEhUQVpONFM3ZUlLTHJHdW5lTV8wN0FFaVhXR2pPaVpQLWpDRnNqTHZkQ1pld3hfbnl5WUM4UFJ4TXNMTW1BLWNVU3RkMGRDUWhpWTJDS19sbGN5Ui1tbVUzd1NfNjlabDUySURRdWZKa1RpYzBNa0ZodXVwLVNpNE44eVB4Z0VWZGZ3RXdQUV9RaW9PamVmUmx2U0xhODFKZVYtM2VhX3RQTDRWRVpLdGpuZlVLSDdR?oc=5",
       "category": "News"
     },
@@ -1487,15 +1487,15 @@
     },
     {
       "date": "2026-04-09",
-      "headline": "Seer to Apply Deep Proteomics Tech to Singapore Population Cohort Study - Genetic Engineering and Biotechnology News",
-      "source": "Genetic Engineering and Biotechnology News",
+      "headline": "Seer to Apply Deep Proteomics Tech to Singapore Population Cohort Study - genengnews.com",
+      "source": "genengnews.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWs3Q1JIbHJGMlRNMzY5YXpEd1ZhOHplc0hySDZvbUF3dFNUcmpJRDMteHpvalhaRVFlVTB0M3JUcENGUWtId3BycEp1aVhMRTJob210QXlUem5NaUVwdmRmZ2t5Wm1yQlJJN1lZTUdleFNxaG0tcGNJQlAxWFhxRnN6TkxJUlJGcXN2STRjZ25UQ0VISFhrUjJ2aUl0RUF5NTVES1VDNE5uT1drR1AtN2ZR?oc=5",
       "category": "Research"
     },
     {
       "date": "2026-04-09",
-      "headline": "Thermo Fisher, Singapore’s PRECISE Partner on Population-Scale Proteomics Biobank - contractpharma.com",
-      "source": "contractpharma.com",
+      "headline": "Thermo Fisher, Singapore’s PRECISE Partner on Population-Scale Proteomics Biobank - Contract Pharma",
+      "source": "Contract Pharma",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWFNvaGNaLTd5V2VDV0xxcVpPNEJDY2FjeHJvSlhVbDBlZ2pmT1FTcWd1Mk1rd2hET3E5UlpIVG9jaUJxbFRzUnMzSmxpbDJ2SHdOVk05aUp2eU02MVFVQUlMNGhWZHhZZlhqLWFjS1Q0R21EZVk4dDRYLWZSQTFEbVEzMmhhNWo3R01jTnQ3NFgtWkxTaVp2amRWc3hCNE1sRFBuNEZhMk9wYVZjdkduM2lOcEREZzZWQ0xfbGlkaDNyTnc?oc=5",
       "category": "Partnership"
     },
@@ -1781,8 +1781,8 @@
     },
     {
       "date": "2026-02-18",
-      "headline": "Zifo Partners With Maze Therapeutics on Managing Biobank Data - contractpharma.com",
-      "source": "contractpharma.com",
+      "headline": "Zifo Partners With Maze Therapeutics on Managing Biobank Data - Contract Pharma",
+      "source": "Contract Pharma",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTW1XWUFnRF96a0RVaUtJS0hYWjhHN29Rdmp0aGduRXZYZW8tejdZSmhtY1BRdHlxZWExWGxfdWZFcUdvRGVVc2tJQl90cmZ4VnBtZGQxSlJsYWFYVllUR0tHaWhhSFA1X3hJakZXOExKb3pDcHduR2JKelMzSDVCWmpEWndhMjVZRVBqUW1waW9rNlA1cTMxYk50QUZzRnVUUTlHQ2FkS3NQMHc?oc=5",
       "category": "Partnership"
     },
@@ -2040,8 +2040,8 @@
     },
     {
       "date": "2025-12-19",
-      "headline": "The Global Biobank event was a touching and memorable experience - ehlers-danlos.com",
-      "source": "ehlers-danlos.com",
+      "headline": "The Global Biobank event was a touching and memorable experience - The Ehlers Danlos Society",
+      "source": "The Ehlers Danlos Society",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdU0yRExfTVM1RkdycGdKM2l5MGk3R3JxM1RaVEtSQ1hvWnFtN1Vma2pPaWxXcTFMUGJ0VkRyLWJNU1BoWnc1a0YwR19KZVZVOUtkS1J4OA?oc=5",
       "category": "News"
     },
