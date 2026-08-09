@@ -1,6 +1,28 @@
 {
-  "generated": "2026-08-08T07:13:24+00:00",
+  "generated": "2026-08-09T07:13:55+00:00",
   "deals": [
+    {
+      "date": "2026-08-07",
+      "headline": "Biogen Completes RayThera Acquisition - Contract Pharma",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVktVeFlxM2dXc3BoZ2RzcVc2M3dnZ1o2a05KT3hPb25WQXZ4NG5KSDdna1hUYXJjSnJBc3l4VE5fUlJ4ZmJzdkZQanZScTdnUzJMeUZ5a1hnTnhVdWRTY3JlVFZLamJ6aE1UUGJVLW1HVXdJU3dVWmZrT2VXakkwQllXeC1ocTdENVF3?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-07",
+      "headline": "BioMarin bins rare disease asset from Inozyme acquisition - FirstWord PHARMA",
+      "source": "FirstWord PHARMA",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5waWNSMHdFbVRCR09PZnlhNF94ZEVOM3F1V3BjR2JqeEdkc0R6S3l0cFlDMlRPMHJvOUpnVkhnM05nZWEzOW9Sa3BickR3VWs3akx3?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Rare disease",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-08-06",
       "headline": "Tarsus to expand eye disease pipeline with up to $800 million Alkeus acquisition - Reuters",
@@ -25,8 +47,8 @@
     },
     {
       "date": "2026-08-06",
-      "headline": "Alteogen signs $365m Hybrozyme licensing deal with pharma company - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Alteogen signs $365m Hybrozyme licensing deal with pharma company - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcnBjTEp3ZWtId2xpMy0wekUtSkZOREJuRlFEdUlFaVNPQWVzUmpPNjBlYlM3QmZjU3U5bmVxWlRkREF3bUhMSEx6R2ZuSlJVNV9hcGYtVG9nQS1ZRW5BV05MVUNtdUlKRERSMkl3cjVJbnRqUjVCWFd0a1hKcHRxWHo4NWhLYkt4T2NkRzVhSzE2N3ZuWGNqSk10RlNjNUJuZGc?oc=5",
       "type": "Licensing",
       "value": "$365m",
@@ -42,6 +64,28 @@
       "type": "Deal",
       "value": "$35M",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-06",
+      "headline": "Biogen Completes Acquisition of RayThera Inc. - Biogen",
+      "source": "Biogen",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3F0NmVxZmRiQ21CSFlCU0ZiQWxtdEtSd1lwQXVQR2ZnQms5VmNmaWF3YnNkek1ULXhGZ0dqR2RfQ2dtVnd6Zy03ZEt4LVFQLTdsZVZfQTlmUkItMFhDSzhJWUhZQlZGOFNNZGU4ZHFsdm5yR0p5Q2FNNnUwOTJXQ3JTcFlXRWdnUGZwRmdnN3hsTTRTOHIxZ2wwTU8xS3pLRHMxT0praHk?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-06",
+      "headline": "Alteogen signs up to $365 million licensing deal for Hybrozyme drug delivery technology - Indian Pharma Post",
+      "source": "Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEhuNlAxSWRJQno4Y0xFLXpJYnZYdTQzU19nUWJ0Q0Z2a3RyMWxpdUtHNDhlOXpQSmo4SGN3eUw5aGhzMVBTOFdQb0puanFOOF9uVlBkR2ZxVTJ2Mi1jV3d0Z1Vial94aGpsa2dCTF94cUdGemFQcGcxNzE5aVNMSFJQZDNKV3M1NDFKcFkzWDY0eE9LOHRodnkzQzdSOVpzUm0wRHFSTFU4S2VRZ2RRUm5Yak5ya1lPc1ZVOGlGYTFiQTVCODUzNUF3MmM3dld0RzB5bEdGNNIB1wFBVV95cUxQNEhuNlAxSWRJQno4Y0xFLXpJYnZYdTQzU19nUWJ0Q0Z2a3RyMWxpdUtHNDhlOXpQSmo4SGN3eUw5aGhzMVBTOFdQb0puanFOOF9uVlBkR2ZxVTJ2Mi1jV3d0Z1Vial94aGpsa2dCTF94cUdGemFQcGcxNzE5aVNMSFJQZDNKV3M1NDFKcFkzWDY0eE9LOHRodnkzQzdSOVpzUm0wRHFSTFU4S2VRZ2RRUm5Yak5ya1lPc1ZVOGlGYTFiQTVCODUzNUF3MmM3dld0RzB5bEdGNA?oc=5",
+      "type": "Licensing",
+      "value": "$365 million",
+      "area": "Hepatology",
       "modality": "",
       "stage": ""
     },
@@ -91,8 +135,8 @@
     },
     {
       "date": "2026-08-05",
-      "headline": "Alteogen Inks Licensing Pact with Global Pharma Company to Develop, Commercialize Subcutaneous Biologic - contractpharma.com",
-      "source": "contractpharma.com",
+      "headline": "Alteogen Inks Licensing Pact with Global Pharma Company to Develop, Commercialize Subcutaneous Biologic - Contract Pharma",
+      "source": "Contract Pharma",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLTFIdHg1WWtYbFkyQ1lEZlh0TnJwYXBKOVdXcVBXTkxoU1Jhc2d5MWZOV0wwUU9Pc3Vqa0pFeGhUVUFyc0ZNcW5hTl9vNW5XZHhBT0dOejhaQWNPaXZSdDJJV21ib1Z2b2g3c25Ga2FWOHdnUUhILTVYWDBWUDNiQU8wYWFxRGxkRkpHNnB3dDVLeURIYVpkUlJpdEFfTmg3bl9ZeGc2SGtpNFFuakpoRFhoQkJBWWJsN3RoSVdQTjZaczBxWGtUdXVnUjJiZThIZmVlYVpFOTR1OVJHVXRmU0VB?oc=5",
       "type": "Licensing",
       "value": "",
@@ -189,9 +233,20 @@
       "stage": ""
     },
     {
+      "date": "2026-08-04",
+      "headline": "Icon inks Anthropic deal to deploy Claude into clinical trials - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaDN6QWoyTU5GZ3E3bUQ2Y3VXNHVqMEdWMno4WDJDbnpNTEhJeEJXM0tRaTl5ZHVPcHVYRUl0N3FvQWs4OUdJUU1iR18ydVo2Smh0OTl3MnBmTURqdWxNZXpodjlVNGV0LU92R3JOblh0ZXF1OUQ2NGtxTklGZUQtSkQwZnZ6RnU5SDhpb2RsT0FnX3JDVW50SXh2TQ?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-08-03",
-      "headline": "Codis Completes Acquisition of Catalent’s Nottingham, UK Facility - contractpharma.com",
-      "source": "contractpharma.com",
+      "headline": "Codis Completes Acquisition of Catalent’s Nottingham, UK Facility - Contract Pharma",
+      "source": "Contract Pharma",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnpaWVpJUHVnOFlTNTRzWXFWTVNvQVpXb1VhYm5CZnNfQVNCTFNWZjhENVlyS01XM0ZjR241djB3SDNLWU1xUndQdkhzYlVoajVnY1VxcWJpelJDWE9CbnpMRmtsY3VmX2wtNGtlblRORG1LczVGb1pfcUI2TkN1c05tVGhGa0l4UkxjcHR6Mkl6UUVvUEhTc3FFbWpLZlJSdV9wbkxTcmJnNThVNnc?oc=5",
       "type": "M&A",
       "value": "",
@@ -586,8 +641,8 @@
     },
     {
       "date": "2026-07-24",
-      "headline": "Fierce Pharma Asia—Trump’s generic drug tariffs; Samsung Bio’s $1.8B acquisition; An unusual IPO - fiercepharma.com",
-      "source": "fiercepharma.com",
+      "headline": "Fierce Pharma Asia—Trump’s generic drug tariffs; Samsung Bio’s $1.8B acquisition; An unusual IPO - Fierce Pharma",
+      "source": "Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHNYLXJzNnV4YWpyb2kzMWhQZ2czUmVmYzJvYS02VWZkcU91cm91SmVmUUNtbGhjNE9WbmRnUThoTFR6SUFuTllwTzB5cjRMak9Mb2MxNGQ2a2JFdlVnTGdOcGhpNnpjaWtTVXlvblQ0RnAyajl0b2xkNXZCYjFQR0VyRkY0STJEVURZNktKVVVhS1pjcEd6SXVfc0lyTDJ2bWdKag?oc=5",
       "type": "M&A",
       "value": "$1.8B",
@@ -739,6 +794,17 @@
       "stage": ""
     },
     {
+      "date": "2026-07-23",
+      "headline": "Jupiter Neurosciences licenses MDMA drug in deal worth up to $100M - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMGw4M0V5ai1tcmFWQ2pheWhrSUkzOFBHQjhobjF0eVhQbDEyS1lOTnU1ZnFlU014QjZ2TVNjSWRtZ1JEbkxjcWtVcjhFMDZJcHp2NFBZaWlmVzMtSTA0RFI2UWxPenhiM3I1S0wzWHlJbGdBUE9aUU4ybTFsSXNJaTNBNnNPa0diUDB2bGUzQ21VUk5FTXhIMm51Y2YzeHFx?oc=5",
+      "type": "Licensing",
+      "value": "$100M",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-07-22",
       "headline": "Vertex was sole bidder in high-premium Crinetics acquisition - BioPharma Dive",
       "source": "BioPharma Dive",
@@ -828,8 +894,8 @@
     },
     {
       "date": "2026-07-20",
-      "headline": "Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide - fiercepharma.com",
-      "source": "fiercepharma.com",
+      "headline": "Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide - Fierce Pharma",
+      "source": "Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3h6YndhR215T1FJVlZnczFMc3BINmFXN3dFZGtXcWJZY1Z5ZzFOR2pGYzRuYVp4WFk3WkgzZkRhLU5lMjA5YVNIWEt5Z2REMzRUOTJvQ0F3YjZSWDVmTWNPR3NtZ3MxN2xDWm11OFBKN1g2dmZCTndONmZqbUFsai1kNTc5WVU1MEJvMXhZMTc0Rmp3b2piNWtRV0pMZmlnRVZQYURpcksyZldiOXBEMmlHQkN1ejdEMkdibF9zYw?oc=5",
       "type": "M&A",
       "value": "$1.8B",
@@ -1169,8 +1235,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "Angelini Pharma Completes Acquisition of Catalyst Pharmaceuticals - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Angelini Pharma Completes Acquisition of Catalyst Pharmaceuticals - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTk9mdUJiM2REMkxid0dtUkd4OFlTS0hnZWxUbU4xZ0hxU2hlVGlFZTBpZE1OMlg5ODFndV9sa2JRNmU4SFhHQUk2bkdTY0pldDB4XzNzTXNrZTRuVzQxeTEyU085c21RN3NONEpZalVqUW5wQVhBejg4YW1PM2IzU3NVNzZNemo1M3d0S2x3RjFldXVxNXNDNmZXTjBnaUprckdLUW5VcHVKNjg?oc=5",
       "type": "M&A",
       "value": "",
@@ -1543,8 +1609,8 @@
     },
     {
       "date": "2026-07-08",
-      "headline": "14 Takeover Target Stocks to Buy as M&A Boom Hits Wall Street - barrons.com",
-      "source": "barrons.com",
+      "headline": "14 Takeover Target Stocks to Buy as M&A Boom Hits Wall Street - Barron's",
+      "source": "Barron's",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaUpXYkxBSDU4UzNWRDRrTWozbmYxTXBaZml1X1ljT2Fud3c3aDFLRXR5a1EyVm5lUnFuNFAxQm15ckdXMW9BdGZwTDJfaTBOVDRpdDhEbURjdFBDUXRUS1drZGhqaHprOTRjaDcxT2Q5YWVzRjJFeU4tV0IzQ1FRbw?oc=5",
       "type": "M&A",
       "value": "",
@@ -2456,8 +2522,8 @@
     },
     {
       "date": "2026-06-25",
-      "headline": "Agilent Completes Acquisition of Biocare Medical - contractpharma.com",
-      "source": "contractpharma.com",
+      "headline": "Agilent Completes Acquisition of Biocare Medical - Contract Pharma",
+      "source": "Contract Pharma",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORmJ6RE9GZkQ2Q3JjNWdrMEhOa0VqQjhIRlc3cE44U09PeDZ5eG43TEZ5ZlB0Z2JXd29hNW95dkpiMFhhaFhISzNXWmJQcGNCdDFHZldjT2lVMlFmSmMyNHpONG5Yb2Y1UUNQYnNkWHZEMGtwVEYxa1hnQ1FQdkl1aFhWbnl3dERmZDIzLXptWFhIZHFKWG1PZmxB?oc=5",
       "type": "M&A",
       "value": "",
@@ -2682,72 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Lilly completes acquisition of Centessa Pharmaceuticals to advance treatments for sleep-wake disorders - Eli Lilly and Company",
-      "source": "Eli Lilly and Company",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQnV2eE9Remx1MElrdkhOZVpLcl85NmlXVC1DWEFVOG1Gb0VFUjNRLTFyNUFnMXdzbnkxNlFaRWJnelM1cnB6aENHT09BY3FFek9PZExsNkd4ckhQa21UcXlEeG9pZk1qSC1YeFJPRGxwUFNtUExpRElyaWpTUFlfNUE4S1RwRFMwUk5KSXhkaW5rd3ZrSC00M1BBU2dCUGU2NERFc1hGOElaVXFCcmVlLUFObzMxWDNUVXFuSFFPcw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Eli Lilly Completes Acquisition of Centessa Pharmaceuticals to Advance Narcolepsy Treatments - Sleep Review",
-      "source": "Sleep Review",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbVQ1ejc3dmNRSUxRVUxEdHJuZ0dnQXNUZ0dSU3Q1OXAzeUlCTzdrVFFOYXR4eEZyVE9GaUZCR3B0dldkX3VqS2Q3bUNjaW9RdFBycnNhRzhRUWVfSUxoZG9vemtKNHhOd3BGZW5ybmJNb2lVbG96cHNLQjBMRGRZNEVVOVVYbkpNeFVBalhFd3VQSFRCU1AtTXF5Wi1zamo2cHhpckJIUHRQMEZwV2R4TXFmUnFrVXlhTWg1Y01rNHpZRklWcE1DVFRaWUw2QTRFS1E?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Biotech M&A heats up with Legend Biotech as top takeover target due to strong revenue and strategic fit. - Pluang",
-      "source": "Pluang",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0RFY1FoaFEyYTU4dk9aRnJGZUpCVXJHclBmR3ZkbDVqM0VRRHhUM2pQTWluNFVGcDJGVnFLUFM5LWhpbC1Pajh5bjNRd1FfbDdfR2dmazlObDc3TmdNMUVvUzhjTktZckw4aFVweGRuUmlDZXZfNU5zYzA3WXZXM25NOEJkdnQ4ekRSNzMwX2hVQTMwNkUzOQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "Aurobindo Pharma USA Receives FTC Approval for $250 Million Lannett Acquisition - Machine Maker",
-      "source": "Machine Maker",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSy1Tc3RleGY5dE1jZTh5RUVmbk1aOG1Ick93Z0lNeTVNb1Z1ekdLMkEzWWxXTmx4NmVBUHlSeWF1dDdvOHJSZ2pWZnZPT2NxTjJMQ2RnWlVoTVoxNWYydnNjVTVmOHVOZ1V1M01YUmF3d1VoTHJON3YtZE9JZ3RZbnhaa1ByajlJNk9KeVNMN0tzR29FX2tUMDhCLXljdmxldVV0NWE3bU5aVWxBQXZBTnFn?oc=5",
-      "type": "M&A",
-      "value": "$250 Million",
-      "area": "",
-      "modality": "",
-      "stage": "Approved"
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "Pfizer’s first new ADC from Seagen acquisition fails phase 3 NSCLC trial - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0JfdnZ0UGY5SWVaalFGaG5JYlZsOWdPbXFDdW5Ra1NPWDJBRFZGRC1kWGhkOUU1NlFkZ3c4bWFXcHhKRGtWUUxsMFBhUmNkeWp2UGQ0bl92aEd3UDBkX3pob0lDVjducTVYaUNuR2p4RmI4cVBUOWR3aGNVNUJEUFVzTnJRTVg1bkJYQkhFMXhqMl9SMTNhU2JYMkp3cUdJRkdpenlR?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "ADC",
-      "stage": "Phase 3"
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "James Hall Joins Envision Pharma Group as Senior Director, Global Talent Acquisition - hrtoday.in",
-      "source": "hrtoday.in",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWRjaEpQT2c5bDdoendDRzFsOGU2ekZTdUplb2R0eVZ1WThId1ZiUi1lLW92TUNfS2lqV1BxQTdaN3Ixa0s4RGVRaWtQV2dGYnhmZUFueU1HU1FWRUx4OXQ3eUlEZEpRUHVmYnFFeURMQVo1Z1Z3QWJReVhDOGF4THNBczdULVpDZllJX0dSZzM3UlN4d3VMRWpNSW5yV003ak15RTZn?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
