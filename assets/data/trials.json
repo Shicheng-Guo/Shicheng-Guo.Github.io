@@ -1,6 +1,17 @@
 {
-  "generated": "2026-08-09T07:41:48+00:00",
+  "generated": "2026-08-10T08:17:09+00:00",
   "trials": [
+    {
+      "date": "2026-08-08",
+      "headline": "SLS Stock Hits Over 3-Year High As AML Drug Trial Nears Final Readout — Wall Street Sees 30% More Upside - Stocktwits",
+      "source": "Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWMwMW1Xb0N2ZHJXdWg5LUlucjVGNHFFUk1sX0hkeGtEOWIwbnNlQUxIc183VkRfX19GY3M4OXk2VzhQdEMxZ3FiMlBuREJHYTV1VEpuS0lKaFJkTVlYSmpycXhSM0YxNkhUMnN4ZmJZbmJtTWdFZEFBeDlTZFJjYjBTMV8tcHh1OThsclc0RVhxV3FTTTRJU1lWcURWcDN3ZGVyakp1MDFQVjJNeE1MZWpaYldSUS1oZnA0RHhmWTZ4d0lvTzE0VUxsLWxWR19IMFhrX3ppUmhIUQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-08-07",
       "headline": "Oral TYK2 Inhibitor Socrodeucitinib Meets Primary Endpoint in Phase 2 Psoriasis Trial - Dermatology Times",
@@ -53,17 +64,6 @@
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-08-07",
-      "headline": "SLS Stock Hits Over 3-Year High As AML Drug Trial Nears Final Readout — Wall Street Sees 30% More Upside - Stocktwits",
-      "source": "Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWMwMW1Xb0N2ZHJXdWg5LUlucjVGNHFFUk1sX0hkeGtEOWIwbnNlQUxIc183VkRfX19GY3M4OXk2VzhQdEMxZ3FiMlBuREJHYTV1VEpuS0lKaFJkTVlYSmpycXhSM0YxNkhUMnN4ZmJZbmJtTWdFZEFBeDlTZFJjYjBTMV8tcHh1OThsclc0RVhxV3FTTTRJU1lWcURWcDN3ZGVyakp1MDFQVjJNeE1MZWpaYldSUS1oZnA0RHhmWTZ4d0lvTzE0VUxsLWxWR19IMFhrX3ppUmhIUQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -641,8 +641,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "Hansoh Pharma says osteosarcoma treatment drug meets primary endpoint in late stage trial - wixx.com",
-      "source": "wixx.com",
+      "headline": "Hansoh Pharma says osteosarcoma treatment drug meets primary endpoint in late stage trial - 101 WIXX",
+      "source": "101 WIXX",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUJybGFIUUdwWmJXbmM5amd4UzdCY0pOdzgyaW9sbFVDMlpFa29XX2ppTUxKMjZvRUZUTEVMR29nOXNpcEMtcm5pN2lKOWY1cVhmdHk0UkR1N2pqdGwxc3JIRlVEV3FfNUYtb2NTbHE3Tl9fZUJwYjhrd3k0QVM5S3NqQk8xMGVVSEd5UU5ySWo3U041M0x2VTVwYzZ4aTZXWTdZNVZvRzdvcDlxd016dVJGUy02Mm5WTHc?oc=5",
       "outcome": "Success",
       "phase": "",
@@ -761,6 +761,17 @@
       "moa": ""
     },
     {
+      "date": "2026-07-28",
+      "headline": "Aribio Completes Global Phase 3 Trial of AR1001... Topline Results to Be Announced in November - 아시아경제",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MVHdtRWNNT1FPdHNISVY1SmdhcGhpNkNJcXVZQmZwQlJuT3NuRjFFUG11X3JObWg4dFdZbFZfZThiLXNWS1hzbkdHR0Vpd3VwQzZyQWZRVmdrNEh2aVBibEJsYkE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-07-27",
       "headline": "GC Green Cross Submits IND for Phase 2 Clinical Trial of COVID-19 mRNA Vaccine...Selected for Disease Control Agency Support Project - 아시아경제",
       "source": "아시아경제",
@@ -789,17 +800,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaURoamR5VU5nbW5CM0VrVFYyUW85MzhRVjBzRHRTeldRbGRTX292MS1kZFJlWmlRaWQwZ3d3Vm85MlFBM2dnZ3BLLWZabTBkR2hVNnh1RVhPY1R5b2tuTlJzUlJBeThJVlRBMWdDclNGSFNDcG55S1VVVUFwUi1Oai0xUmZFeUk4M3VpOGgzTzRSTzg3STZDVU56c2FVZWRMUTZzclRPb3lQQzRtaDNUUXdkNEUydEdFd25RVWVLY0VDeUk?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-27",
-      "headline": "Aribio Completes Global Phase 3 Trial of AR1001... Topline Results to Be Announced in November - 아시아경제",
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MVHdtRWNNT1FPdHNISVY1SmdhcGhpNkNJcXVZQmZwQlJuT3NuRjFFUG11X3JObWg4dFdZbFZfZThiLXNWS1hzbkdHR0Vpd3VwQzZyQWZRVmdrNEh2aVBibEJsYkE?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -1323,8 +1323,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "LB Pharmaceuticals Announces Accelerated Timing of Topline Results from the Phase 3 NOVA-2 Trial of LB-102 in Schizophrenia - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "LB Pharmaceuticals Announces Accelerated Timing of Topline Results from the Phase 3 NOVA-2 Trial of LB-102 in Schizophrenia - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajhESjFzRFI3Y3JCMlhQRTMyZHZZSVBEbTZ2RGdvVUtoSFdEZkRhcXlqTnVaVWl0ek1xVGhBb1lEME5lc1Q3TTZNVm15d1lqY2YzVl94UnlJQ2pCOHkyZGdLdGRUNmFacG5mS1lEcmYzOXJ1bDJUcDB0bnhNc3liSl9KTG1kakZtR1BJTHJKaUtKelczR2dKazUyeHZOc1oyYnFwRzZUSVpySVNh?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -1334,8 +1334,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "LB Pharmaceuticals Expects Phase-3 Schizophrenia Study's Topline Data in H1 2027 - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "LB Pharmaceuticals Expects Phase-3 Schizophrenia Study's Topline Data in H1 2027 - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1lsbTlPZFFoR1RGeXBfZzVlSlROdG02dTYybHNqc0VpVUtWRHhKZjFxck1uUEh1dWQxbWNqZTBkZGRmekt5UnRxSDRIWF95ekRMVFIxWXcwZy1sb2paNE93ejRQLVJ3Tnl0TGpvcGNSTkxrX254bHBMb3NObWFMaWd6N2Z4MG9RT3k3WjhhUC0wUzlrc1B3elZ1Zw?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -1807,8 +1807,8 @@
     },
     {
       "date": "2026-07-15",
-      "headline": "Veradermics’ Oral VDPHL01 Delivers Positive Study ‘207’ Phase 2 Clinical Trial Results in Female Pattern Hair Loss Ahead of Upcoming Phase 2/3 Study ‘306’ Readout - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Veradermics’ Oral VDPHL01 Delivers Positive Study ‘207’ Phase 2 Clinical Trial Results in Female Pattern Hair Loss Ahead of Upcoming Phase 2/3 Study ‘306’ Readout - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzdDa3NVREFmeHZhY2Y2SlJrUkxKYjBacTBKNGdrdDRibzJqRkRMeW5FRnJHSXhueWJTeEJwYmpQck1WWER5dTRSV195Zmc5YmhnZG9kUUNrcEdoUndfZUlIcFJfWUU0TEdRWmdBQ1NNcFUtNHl4MGZxcG1udk5YNjlkam1FcElpT2c4dThUbGpDNU83NDRtZWZRRzduc3hmSlZpcy13?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2/3",
@@ -1862,8 +1862,8 @@
     },
     {
       "date": "2026-07-14",
-      "headline": "Topline Phase 3 Results: HBI-8000 Plus Nivolumab Wow in Advanced Melanoma - thedermdigest.com",
-      "source": "thedermdigest.com",
+      "headline": "Topline Phase 3 Results: HBI-8000 Plus Nivolumab Wow in Advanced Melanoma - The Dermatology Digest",
+      "source": "The Dermatology Digest",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdEswWHFnSnFKRF9kOTBkWWVUVS1fenhiYjdCbXVxdlZZVVdJT2pnRTM0Rk8tQUw0VlVhaTlieEx4VWl0U0JYcE5pc3ZLMFpUc25TRHo4LVR0N04wZGVhUmVPenljX1dpUmtNMG85OTI4aEpiYmQ0c3VBTGpKQnU5cVVWMDhGcDdsbV9sSFRXVDJaYVVQaWxRVEtwOFVLTDdH?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2060,8 +2060,8 @@
     },
     {
       "date": "2026-07-13",
-      "headline": "Q32 Bio Announces Positive 36-Week Topline Results from Part B of the SIGNAL-AA Clinical Trial of Bempikibart in Alopecia Areata - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Q32 Bio Announces Positive 36-Week Topline Results from Part B of the SIGNAL-AA Clinical Trial of Bempikibart in Alopecia Areata - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdm5MM0xEbHdaVUo4TDFYSWhlTTBSVW44T3ZmQzNwRDQzYm95dTBaTHRPdnhVRU02N1BjNVBDWnI4bWxPUEVZaU1Ic3M4RGUwd0ZUcDFKa1g1NXlSb3ROdG1wLW5pZFJMUUlfei1CUUFGY0NIdDFLS3QzU3dPcFVEYjlDcERXOWlncFIybnF6dy1Lb0JZ?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -2148,8 +2148,8 @@
     },
     {
       "date": "2026-07-10",
-      "headline": "Bausch + Lomb Glaucoma Drug Fails Phase II Trial - allsci.com",
-      "source": "allsci.com",
+      "headline": "Bausch + Lomb Glaucoma Drug Fails Phase II Trial - AllSci",
+      "source": "AllSci",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlNFbEYzaXlZbG5MNlZTZUZDZVpBZnMyWWxDUHJaMmpVNk5KREh6OUpyVFpNS1diMS1INDhUOURNV1JRRE1sX2x0TEFpQ3ROUmxVZWhCZHJvTS1ZTEVmZVkzVDNrV3o1NWxicUhkSWhsTWg4M2laMmZDYXhILVZCZ0s2WE1XTUhRbGdjMUlHRWRuVkRZbkNySUl4Ml9zTFBTcXZ2SlJnU2h0Uy1PaTFsdjQ0Um04X3Y5bi1YRA?oc=5",
       "outcome": "Failed",
       "phase": "Phase 2",
@@ -2665,7 +2665,7 @@
     },
     {
       "date": "2026-07-09",
-      "headline": "AstraZeneca Shares Dip After Late-Stage Heart Drug Trial Misses Primary Endpoint - Earnings Cycle Report - dars.gov.et",
+      "headline": "AstraZeneca Shares Dip After Late-Stage Heart Drug Trial Misses Primary Endpoint - Short-Term Outlook - dars.gov.et",
       "source": "dars.gov.et",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcm5XZDlNV29HcGphYTZRSm9wZVZVR1I2ZDRRaU1UMGFqR1U4d0NxdVlTN0dBMHhCS3pMdUFQSWp1QkQzZm1lXzczWHU3VGhjTEJYejhfUlM0UlJuU05xLXJUQi1pTndoVndfb0JWTEZjTEd2WXBaVXFaRFNiaDYwNGRvN2phMXZ6ZE5PaG1DaVVlc1U2dlV6WUJRUWw0cEY2b0VEam9vdDFSaDE4NUNTdWZKTGtDZVZ5d2JpMGZRal9rQQ?oc=5",
       "outcome": "Failed",
