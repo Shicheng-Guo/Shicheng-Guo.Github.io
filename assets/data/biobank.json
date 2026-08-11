@@ -1,6 +1,34 @@
 {
-  "generated": "2026-08-10T09:01:18+00:00",
+  "generated": "2026-08-11T08:38:42+00:00",
   "items": [
+    {
+      "date": "2026-08-11",
+      "headline": "Taiwan Biobank planning next research phase - Taipei Times",
+      "source": "Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kRnBrT1dIYWNYTmJ3Y0dKRE1CbHRSQkE2WVZvQTFCY3h3SVg0Wjl1aEJVclhYMmcxdGE2NnVySUlLa01oXzBBaFhJeHdVUncxbUN5N01RVzJXR1RiVDBNX204VlpFVlJWamppSEtKUTZMc0hwbXNlYTNn?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Risk of Epilepsy in People with Adult-Onset Hydrocephalus: Insights from the UK Biobank - EMJ",
+      "source": "EMJ",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzVZWV9yT3FBeVBwRmJMajZrUFlHdEE3akhueWRQcWVIRjZhSnRlajJvaFM4QjV2dFdJX29XSWhLUUxXdXZsNGZfdi02X2t4eTYzeGdlSHZEUU4zcEJ4cjQycmVMTndnWDFHQy1tWWNCN0dEeFhtWUNCams2Snd1UXFyeGt4dmFlUDgzR0t1Rm1SbmpwR2tBajM5MzhJaVRhQXdyUDg2WnRfN2Vfc3EzQlAtcF83YVVxS0xrVVdPYVBqeXR1VVA3RFM5cmczaW1QT3BrN0M0OA?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-10",
+      "headline": "Proteome-wide interaction study of fatty acids and mortality in the UK Biobank - cambridge.org",
+      "source": "cambridge.org",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONXBQa0NZUF9yaVd3c1NteHZVMGpkSXJZeS1PejBSa0JhNmYxQ1BJZ0VkN0hMQVVfa1VLZ09icjlpSmVCeEFkNTdPeUI0ZFdhUW04Skl2NEl0XzR4ZUpockF6d0s3emNJU0hMU2pKclVBVjJBaFYwRGlIaXoxamZvRG1wdXdrOFJLSHNycl9fN3FMcjBwTnFYTHVsVGhMZ2pLWTFfbWNldzlXTXdIaEZ5NFpUcEhxaXcxczNWc0RyLU1KSEFBc3lEQlEzdnJiVTFLY1dYRVBuVXQxOEpNOWhkbzMyUXlxSGdiZGJNZGFVa0pWS18tZ3BIN0RjOE8tZmpLOWJDLVM5YWI4c2hoeWJKazh6QXVkZw?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-08-10",
+      "headline": "Tumour organoid biobank maps gene dependencies in multiple cancers - Progress Educational Trust",
+      "source": "Progress Educational Trust",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMW95MGlEVV9ILTU0YXlUMEhYeEFld21uZ0t4Z3gzNHFtSV9aMVZaX19qUk11VFMyY2RuZENyQTZUbG5VZVdJZk9WSFBCWDJfYno3SUlkSDI4V2pPb1N4cWFJY3B4SVdCUDVqbFpjSExOQ2draWJOeFdDWVYyOTBXQlROQ2wzYzVuUGtpWmJCVzdWdUNiek1vdDdWaw?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-08-06",
       "headline": "New tumour-model biobank exposes cancer vulnerabilities - Bioengineer.org",
@@ -48,6 +76,13 @@
       "headline": "A living library: Inside our organoid biobank - Wellcome Sanger Institute Blog",
       "source": "Wellcome Sanger Institute Blog",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXNNZEdLMnZiMlEyczA3ODFWNmVCWFRXMGdvQWVmLVFRUHh6RFVPVFhvWnhLekh5azFrVWI3aDFNT3JjOUVPTW9GYm85Y29NOTRIX3JCSWFodUpoQzBqNDZ1RktmT3Z0Vm83RGVpblhNbXhrNDhRRlRGcmZIdkRPcVJJU2VTdXNXaU5SeE1R?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-05",
+      "headline": "A tumour-derived organoid biobank maps cancer gene dependencies - National Institutes of Health (NIH) | (.gov)",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3UjhidUlyUG5lLVN1ZzlWN0hCQkFUVDNOZ0c4RXMxRnl4dFZMWVloUVpHNFVQYjR1LUNVcEZIX3BMRW03RE8zVWxHWi1ZU2EwbjZN?oc=5",
       "category": "News"
     },
     {
@@ -360,8 +395,8 @@
     },
     {
       "date": "2026-06-29",
-      "headline": "Reproductive History Is Encoded in Your Genome: FinnGen Links Partner's DNA to Pregnancy Risk - techtimes.com",
-      "source": "techtimes.com",
+      "headline": "Reproductive History Is Encoded in Your Genome: FinnGen Links Partner's DNA to Pregnancy Risk - Tech Times",
+      "source": "Tech Times",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQkR4Y09heF9wS19NMmlvTTI4NXRqclVIVmxxLU0xM2hobGdYVm0zekVycjFyazhMcVJJVTQ4R2pVQWktNE5MLXQzeWdxMGZEOTQwa0tYQkVKd2xSZU9YaU5yYUVGaXVuM1JWVjBPWUsxU3I2MHoxcnlZSGJKdElIQVdIU3lKRlpKeFUxeFRGZTRMUDJzSXFDOVBhY1F3dDdiUVJNOEdNX2x1VjVFVXZfZUJCMmMyQlJ6LUpENS15cmYzak9LaFBMRWFnd0ZXbGo5SnRn?oc=5",
       "category": "Partnership"
     },
@@ -500,8 +535,8 @@
     },
     {
       "date": "2026-06-18",
-      "headline": "From Microbial Dark Matter To Living Library: New Biobank Decodes Survival Secrets Of Extreme Acid Mine Drainage Microbes - astrobiology.com",
-      "source": "astrobiology.com",
+      "headline": "From Microbial Dark Matter To Living Library: New Biobank Decodes Survival Secrets Of Extreme Acid Mine Drainage Microbes - Astrobiology Web",
+      "source": "Astrobiology Web",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUVFpanh6b1FyeEdiN1BHSmpGUVMtSncwTVB3MmhQWmN6anVsOGxDYy0wcDFqUHJkRy1ONWhLOThmMW1FRHd3NWhSTEVkNmRBTGVyWUdMWFF0dENDMnp2ZkZCZV9SZ01kR09zdDYzTGxFd1M1bVlfVFRJbGRmMU14QlhHa3dEZW1Vanl6Y2RpZFU1STgyeXpWYXhpMHgzbVk3Z250Qzc2eG9IVlRkSGpBMUhmd3FXd2lTY1lhZWVRUlRjU0xPMFJTR1hLLUYyTVZvbWYxU1V5TGE1VHkxa2drWlBhTjVmeWIxVUVuSzFR?oc=5",
       "category": "News"
     },
@@ -549,8 +584,8 @@
     },
     {
       "date": "2026-06-12",
-      "headline": "UK Biobank epigenetics study gets £16 million backing - thepharmaletter.com",
-      "source": "thepharmaletter.com",
+      "headline": "UK Biobank epigenetics study gets £16 million backing - The Pharma Letter",
+      "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLVpGYXU4azNVbEZWNC1zSDYwMXBXT1BYQXB4dVRqVzI1eWJYRWxyMUlVMThsVzFDcU9IenEzbzE2VjdYODFVRnZHTFRDSkdfNU5CZGFubXl3a0FNeDJvcDF1V0FLN241d0d0dTJPU19NRzFOSFdWN2J2cFZST0I2djdYcVNVaC1Pb2NtRWgxbl80Y2YxbW12Yl9Oam1xdw?oc=5",
       "category": "Funding/Deal"
     },
@@ -654,8 +689,8 @@
     },
     {
       "date": "2026-05-27",
-      "headline": "Vanderbilt Health-led team wins NIH Replication Prize for biobank data quality tool - news.vumc.org",
-      "source": "news.vumc.org",
+      "headline": "Vanderbilt Health-led team wins NIH Replication Prize for biobank data quality tool - Vanderbilt Health News",
+      "source": "Vanderbilt Health News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPajFKMTVtS2drLVNhZ1QyV0lVZzZUQUp4VUhDY0hyVzE1a0h0NzdvQmVlNnlGTE5mWGozWlZZRWkwb3RSVGpWWm00OEN3X3hSa2ZVVEdwajBfWkl5aGdFcmVnOGtIWngwSmZQUTlXNzNqdVpEU2k1MV9pejlSeFJ5U3VyUlhrOFJUUVhUclZqLXJNbjhqQ2hwcVpUNnMtT3lsTkVwRnpUR2Q5V0gtSXRaeGpQQ1F0dUVZ?oc=5",
       "category": "News"
     },
@@ -1060,8 +1095,8 @@
     },
     {
       "date": "2026-04-24",
-      "headline": "UK Biobank says security checks not imposed because of ‘harms’ to research - Financial Times",
-      "source": "Financial Times",
+      "headline": "UK Biobank says security checks not imposed because of ‘harms’ to research - ft.com",
+      "source": "ft.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFVuYkpqYmhtdU8tSm1NTWxyamEwOVo3UlYzZjgzS0gzQlFCalhnUnREM0E4OWpfRnZwOUlTUkpVa0U0RnlvdUJDTlAyTU1rMjZzWGJ0ZERRR3dIRGFxcDZfcDAzWDdZQWVxVEsxbVFmeVc2SDZ0REdfeV9DME5NRWcxeUk?oc=5",
       "category": "News"
     },
@@ -1249,8 +1284,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "What is UK Biobank? Medical database that’s a victim of own success - The Times",
-      "source": "The Times",
+      "headline": "What is UK Biobank? Medical database that’s a victim of own success - thetimes.com",
+      "source": "thetimes.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0NBdHM0QVJTUWlGa1NTWEZxSDBNa0xmVkVSM05rb0dPT0RHM0lHak9tMVlDYk5fTTVwN1FnUzVtd1NrWU90eWJCZkdmd2FaYlVRaVFIR0NGNk1PbGs0dHNGODhBWU53eGIyQXNkc3ZWWXJBV09oZm5wM2x5d2t6b2F1c3pkcmdYR0NvYQ?oc=5",
       "category": "News"
     },
@@ -1270,8 +1305,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "Call to ban sharing of medical data after UK Biobank breach - The Times",
-      "source": "The Times",
+      "headline": "Call to ban sharing of medical data after UK Biobank breach - thetimes.com",
+      "source": "thetimes.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZ6b1JtN1B5WHVmMmMxb3RPdnN4WG1LRUsxYUQ4Tk1uVHpCT1VwNXNKYnU5QktWa0txbGFtREZwZ0l6YUNkT1p4WWhzSkwtNzUxMFl3OUNDLWE5dGZ4QkNWNTRJdVZHMW50MlhGd2VCc19ud3AxWDZhUm1nc1Ztd3hQdGF6UTUwdnVsQmVvNA?oc=5",
       "category": "News"
     },
@@ -1801,6 +1836,13 @@
       "category": "Research"
     },
     {
+      "date": "2026-02-18",
+      "headline": "ISTA scientists develop algorithm to address biobank data retrieval & analysis challenge [IMAGE] - EurekAlert!",
+      "source": "EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vU3pEa1M5U09EUkdoa3psVFZPdDJJbU9HOVl4c2pyOG9VckZMVGF5TXNwMVZBYlJIcVdYRmVSMEU5MTM1Ql9jdldBdXhMeGs1eDRrdkc4MWU?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-02-17",
       "headline": "UK Biobank to get access to GP patient data for research - Home | Digital Health",
       "source": "Home | Digital Health",
@@ -1816,15 +1858,15 @@
     },
     {
       "date": "2026-02-16",
-      "headline": "Decades of medical insight unlocked as UK Biobank gets GP records - The Times",
-      "source": "The Times",
+      "headline": "Decades of medical insight unlocked as UK Biobank gets GP records - thetimes.com",
+      "source": "thetimes.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0xKVzFxSVEzaFZuQWJHRWhack9BbXdQemdvbV94UHlRcGMtUENRTFc0X0lsZFRWdnlPd21Jd1U4MEdmY29ycGNraXJFemtHb1B1cWxFS0RtNnA2bS1ldkJPdDByTVNjTWFIZ1R3SWNTUVBmVENid1RUX0NmQ2lGc2FPYUhTc0h5Y0hPNk9mNVJDVkk?oc=5",
       "category": "News"
     },
     {
       "date": "2026-02-12",
-      "headline": "Global aortic biobank to accelerate life-saving research - news.liverpool.ac.uk",
-      "source": "news.liverpool.ac.uk",
+      "headline": "Global aortic biobank to accelerate life-saving research - University of Liverpool",
+      "source": "University of Liverpool",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRGF2THhJZTRtalJlMl9WMzJ5eFZnMXZyYUZ4MmtpWlR6OWVrek5IMUsxVkFIWllHeEwzNkt5TXJCaG9tLUtWOXBWMWVqaXFCSW44Uzc4cU12cUF5SURWWElFNndWZDdsWEtrcjFvU0k4RVJ0V0JLOG1SVnRTRzU5cmxvVjFtMk13Nktud3RyNEtHMkNUaXoyUkJyb0VnUQ?oc=5",
       "category": "News"
     },
@@ -1858,8 +1900,8 @@
     },
     {
       "date": "2026-02-09",
-      "headline": "Could a common virus have lifelong health effects? UK Biobank study finds new links - openaccessgovernment.org",
-      "source": "openaccessgovernment.org",
+      "headline": "Could a common virus have lifelong health effects? UK Biobank study finds new links - Open Access Government",
+      "source": "Open Access Government",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOck9JNkZSbnlXOEN4YnZfNDcydFZaX1ZqMjlQNjNGbTJQRVJ0ZTNoM2s3TER5OGZGTi16WGhTSzQ0WG82eFhKYUItam82NklUYzBFZTktSS1VLV9tOHVZbjRjN2dSdEk2TmVDaGlpNFhoSnYxdV9JOHpYUnF0MlZBanFiVjVuNzBJa3Y0QVVnWmsxRWlGRTVsN3daWWNlTzJ1eGRyMDNQSzBMaF80ZVdUMzdwTVRZMXlvdEIzRVRJdEFSQmxXS2c?oc=5",
       "category": "Research"
     },
@@ -2058,48 +2100,6 @@
       "source": "Grand View Research",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41Q2xEd0lUV2p3eWNCemFSMjd5bE91NGg5ZmVQUFU0cEotTFkwaWRJclpiQ2JkWlhkSjFDbHNHazZKRlFERG9uRVl3T0RIbk1JN2ZPakxEZnhlX0JSbkpsQzFfYzR6aWpaVk9rXzk1Z1NWMDVHZmc?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2025-12-15",
-      "headline": "Sex disparities in bladder cancer diagnosis: evidence from the UK Biobank | World Journal of Urology - Springer Nature Link",
-      "source": "Springer Nature Link",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUE5Ja0xjYUFoSW1iTXJRTlJoZnpaQWNPcVhFMFNPWndKdy1LWFV2eWxPQjRCOEpmWllYQVljRjdJT3Q5N0w3UThJejhkMC11ZzhVRFNkYU5tU2pjNTBXempZTkJGRU15cnU2SQ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-12-14",
-      "headline": "Complex genetic effects linked to plasma protein abundance in the UK Biobank - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05cDdQMk02dmU1dzVDNUdGUWh5UkFZdHZYcV9lREF4RkM4c0NFdXE0WWtxdy13dEVBSlU1ODQyQWNYOVVRLWdFU1FhX0VLVi1VZnVfVFFMX3VxYTEtMDk4?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-12-13",
-      "headline": "Flexible read-aware genotype imputation from sequence using biobank sized reference panels - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TTjJJaWVrTVlxNEpIX1l1OWZSM01PU1ZqSHY2Q0xoeTk3UG9vZVAzR2M1Mm5DeFJxSl95alJwV1lDdWM3MGIwak9zUVpFNEtGREZ1RW9HY1FNSnh6WUZJ?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2025-12-11",
-      "headline": "Gut Phage Biobank: a collection of bacteriophages targeting human commensal bacteria - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFMTBZSFdoTENsclhyMDY3VkhNcTJIZEVUOGNReGVHRVhxdkJMRHVBYjFhaEJjSE1zOEJkRW9JRVhidGZuWXozRG1FQkJZMkxMNG1RVkQtM0sxNzFpWXE4?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2025-12-11",
-      "headline": "Diabetes duration, glycemic control, and risk of stroke and stroke subtypes: a nationwide prospective cohort study - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05RV9zY0hjZTUyTnZDOGgwTElkaC1RaUlKeXhsVkdSX204aUVvRXJvMzZfWlk5bml3VUVZVkJoZkVtTWJ5b2EtX05ka2hiQlNDeXdzaWQ4RmkzVEZsMXpj?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-12-11",
-      "headline": "Cohort Profile: The COVID-19 Ticino Biobank - EMJ",
-      "source": "EMJ",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHUzUndteGM4VmUteS1LQlVBUDFFdjVTY2FzQlR4UWxIeFFzMkRWREtzNExPRHpNY19xY1gyOGVtNTc3YzBubnd4Z2MtUWFraGlkQ2NXYkxzc1VURnV0Z1BqMi11RU5BcXNnZGlSS0daSExaMFp6OGo4ZE5qRnVkMVFsbEF5dDNTUHVmZzVnd3M0WUdmc1Q5N1VkOGFUT0MzUW5KSUtR?oc=5",
-      "category": "Data/Cohort"
     }
   ]
 }
