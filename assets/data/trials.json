@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T07:57:44+00:00",
+  "generated": "2026-08-12T08:04:28+00:00",
   "trials": [
     {
       "date": "2026-08-11",
@@ -31,6 +31,94 @@
       "outcome": "Failed",
       "phase": "Phase 3",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Divesiran Shows Clinical Responses in Phase 2 Polycythemia Vera Trial - CancerNetwork",
+      "source": "CancerNetwork",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzgtZU15dTJ6ZzlHOVBZeGIwOWJKcmk0THBNQU1Ea1VWTkZoV0p5TWVROVdERlZvazlsWGlLcFNIUk9HUmc0N1p6VzNBeXpwQ19uTmhnSWRCQ3prZS0xd0Y1dXdQUy1CUkdFT3NncVdLRmpyV2FaY1BsR0pqTm5tS3FlRjRpSTBxdTNXNzhqT3BROVZpRXh0SnAyMF9JRG1UakZEQzVfOA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "MoonLake’s Sonelokimab Meets Primary Endpoint in Phase 3 PsA Trial - The Dermatology Digest",
+      "source": "The Dermatology Digest",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTBiY3dKaDRDaEtjNEIyUC11U2J2MHBVQXhLczl2bktWRURFdzE1dExQX3Fzbko2eWd5QUxBdVpkX2d6YkpXSW0wanV0d0FDMWtTN3pqNXJQM0MySnJORGdEd0V3T24zUTdlalB6a1Atc2tqdnFqbEs1UUMwQVhIOWMtOVNoZzVRbno0VC0yd09wcURPQXMxbQ?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Belenos Biosciences Announces Positive Topline Results from a Phase 2 Clinical Trial of BEL512 in Chronic Rhinosinusitis with Nasal Polyps (CRSwNP) - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPRXZNd1VaZVJ1SVlSZDdzVEJSWHpCb3FQVC1CeDRTWGR4c2Jkc21kWllOUkttNjFTLTZFb253NVhOZGFxTWNfa2tlcTVORVZVRThUT2VxS01PNlFaLXRuei1WbTk4XzhkQzRSUE0wWFdqaGpTWGRGSXdrTlpWUVdOS05Fd1dFZVhjdTVMQkNoeklNSzQtc0x4X3ZQVGNlYVBveHZHR29Qa3plQ1oxdzNGbm9mMTZQOFFUbFZuNF9iRjk2YVJiY045bm9aWE56dVoxckx5SlNwd0FVbGFXeDU3UzZhcEQwMHRJZlRPRU1OdHNQMVQ4ZExxVkdoU1I1SWd4UnZndENKTEFqRTZJT2NiSDJvOXpIQjJrNXBoeHhGd2pjQTZRYnM0MVlR?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 2",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Vor Bio Reports Q2 2026 Results and Advances Phase 3 Telitacicept Trials in gMG and Sjögren’s Disease - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTW5XXzNya0FvTkpEQ1YxZFdsNHk2Y2FKcFNCSVVuNkZ3VUtVNzd5LXlrREx6a0cyR0dGQUFDb3FYSG5mQ3lyTzhjdGVTYXJfZy1qOUg1QmhMRHdUNEwyc2oyS1pqamx6eDF6aERDNDh5X3pVM3pDS1gwaV9hN2xQMUVfYzU3d0I0ZnAtQS1yMlBEMXV1OERoTGNSOG5UbGV5Q09hR09mN0VmM3J6WlJKLVdGOGpEanA2WGRmUXlHd0xrUXE5N00za2VXVFpPVFVZYVk0VDhycUZKd0tqUGFQMw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "AbCellera stock surges on ABCL635 menopause Phase 2 trial results - qz.com",
+      "source": "qz.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MOHBRUXE3NXhHcktkVGlhaHJIVUZ1NGd1TlpSd2Z6TmpDekVBaXBCdFFtb3BKWlRrNkVXOW4zUUF0aVVqTjZ6VmZWdkFXMkhDSi1yZmxGb3cyc200aE9tYlYxSHJWNTROOURGN2VLeld6T242Z3FJZQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "AbCellera’s Menopause Drug Cuts Hot Flashes by 83% in Phase 2 Trial - Femtech Insider",
+      "source": "Femtech Insider",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXdta3VCTzYycmtfak81RUNiRDhQc19QSl8zbldrelBINjNQeUROb2xabTdLWXBiT1V4QTlCeDA5OThtZXB3dWxTaldtWHB4UksxQ1JCWjdEWVRQVGpiRHJyVG9zdWF0NmVlbDRWWTJ1U2ZpRG9rUlphS19MajhlcURfS0V6a3pzRTJsQm14RlA2OFBFTFFodg?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "IGC Pharma Strengthens Regulatory Readiness as Phase 2 CALMA Alzheimer's Trial Approaches Enrollment Closure and Q4 Topline Readout - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMGZxMm9aRUNCcXVmX1huZ0Nxd01qY0Z0azdCWXZUSmRQWXdGTnBJMGN1QkladmRJdXc1OEJEZ0NkamdwWVltcXVjRWlqZ1otajh3cFB2eGhGaEdlTXp1ZlBPOEV3VFZOTnJqck9sbDJ1TVlyc01ZVXJlU1dMUW5YTFRtaFBZVFZDYWlxdERqbElIQmNncUdzZ1hKYTRjaUV3WGRYc2Q0blpRVVp5cjJ4by16T3BHRFYyNWZkc1hpR3FYQ2R4SzRnemtoOUc1d3ZDRjlNS1lnVExsRTE2S0JZMFBQUERQS2p1R1FPbGg3UkpuTUxvbk14TWduV3l3Q3c?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Immunic advances MS drug toward key Phase 3 data, expects results by year-end - Proactive financial news",
+      "source": "Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX1ExSUlfcVdzdnFzem91Rnpxa010aUdkdDEtY2hrb21FRzR3aXZ5YmcwREU0aWNnRFVmRkdicjRzbmVXVThaZlc5SGlENlF0U2pyWW1CTU5Ga2I0LXl0TklGSVhrcEwwS1hlZjhNYjl5YlZUVk9IMmtSbkpQUU15VElIR3R1WnREbkxvZlFSNDBzXzNsNWZsdlRrU3lkdXBzTGJHY3A0S3BLTlhmNjFYQzM5WjNBa0ZoZG0zNmViQzF6d1hHVkhYcDc3bGFBbnhqamk3YnVPdW82NFJHOEFJaw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -102,8 +190,8 @@
     },
     {
       "date": "2026-08-10",
-      "headline": "Silence brings the noise to Takeda with phase 2 blood cancer win - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Silence brings the noise to Takeda with phase 2 blood cancer win - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXF5akhhMHFHSUVGQUJPM3RCYVdBcVJOSWtQUkg0a09BVWgzaU1tOXVLY3ZhRlduM2taZHFqNUNFZmRnQmxuS2hsbXZOdlhPVkljQzZESjV2OFpkTW1Cd1FVU0h0SFR6bUczRVBtX2pyOW1fYnBnZHJneGl0bFlaV3Z5Wm9ydWw2VGxiREs5amREUmxV?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
@@ -189,13 +277,35 @@
       "moa": ""
     },
     {
-      "date": "2026-08-08",
-      "headline": "SLS Stock Hits Over 3-Year High As AML Drug Trial Nears Final Readout — Wall Street Sees 30% More Upside - Stocktwits",
-      "source": "Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWMwMW1Xb0N2ZHJXdWg5LUlucjVGNHFFUk1sX0hkeGtEOWIwbnNlQUxIc183VkRfX19GY3M4OXk2VzhQdEMxZ3FiMlBuREJHYTV1VEpuS0lKaFJkTVlYSmpycXhSM0YxNkhUMnN4ZmJZbmJtTWdFZEFBeDlTZFJjYjBTMV8tcHh1OThsclc0RVhxV3FTTTRJU1lWcURWcDN3ZGVyakp1MDFQVjJNeE1MZWpaYldSUS1oZnA0RHhmWTZ4d0lvTzE0VUxsLWxWR19IMFhrX3ppUmhIUQ?oc=5",
+      "date": "2026-08-10",
+      "headline": "Tenax Therapeutics Reports Mixed Topline Results from Phase 3 LEVEL Trial of TNX-103 in PH-HFpEF - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2lnY2FwV0N1Qlk2Qy1ieFVQUWdwbVBTYXBNbjA3QVE0NnJVZVE2RmxsVWxkaXlFZ2s0Wk1INTlpTGJvdEJTSjNnU0RJZWVoSnhkckgzcUM3TzBoeTBKcUw3M3JnN0hkVmN3dTBsT1UtNTFFdDVQUFlDVTFnc0NkZ1F2b3V0V3FnQ1BlX29zWENzQVh5M05LSVVONGdGNVRFYmh2SmQ3UXJ6cnB6QXV5OVVTdG9qR0Ewc0Y4Y3NscDM1ZkpHdmFzeQ?oc=5",
       "outcome": "Readout",
-      "phase": "",
+      "phase": "Phase 3",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-10",
+      "headline": "Press Release: MoonLake Announces Positive Topline Results From the Phase 3 IZAR-1 Trial of Sonelokimab in Psoriatic Arthritis Demonstrating Significant Improvements Across All Clinical Endpoints, and Reports Second Quarter 2026 Financial Results - Moomoo",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU21lYkdNQnlSNjZhN29ueHAyX2F4NGxDQ0FkS0pqVGJQcEJ3R3RiWHBWOVZ6RC1JaHRCVlZGSFU0U0QyZURmZWlYTXJNSklqbDJ0c3RDSS1WTk1BSXdGUVlFNmpxN08ta1FmWTZjV0puTUt1X2ZGbU5hRjZOVms0UndsLWRRTzJXZHp2NXRldEZGVHBNSEMtUmFrSERneGQyeDFHQnp5Tk4tclVxSFpGUURQQ3Q?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-10",
+      "headline": "AbCellera Announces Positive Top-Line Phase 2 Clinical Trial Results for ABCL635, Demonstrating Significant Reduction in Frequency and Severity of Vasomotor Symptoms and a Favorable Tolerability Profile - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUxwdkp2UGx3aDVnNHdaemQwMzMzcEQ2VEQ0emZsLWRPaTMzR1JURUFUNHFaYUlHM2dhcjBKMEFQN1lwZDQweEJpVlN3TzBqSkJTeVZlMnYxQzNtUWo1STU1UGMzWHlZSmx2T3lsUFc2Z0hrR1VZVXoxUXVSYVI2TG1TaEE2RUwtVGNPblA1eTExbmFCRUFmeFpTUVRYM28?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 2",
+      "significance": "Met primary",
       "target": "",
       "moa": ""
     },
@@ -255,6 +365,17 @@
       "moa": ""
     },
     {
+      "date": "2026-08-07",
+      "headline": "BioVie Announces Topline Results of Phase 2 SUNRISE-PD Trial of Bezisterim in Early Parkinson’s Disease - markets.businessinsider.com",
+      "source": "markets.businessinsider.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkVZcGI1a3UtWlRKYlNjeXRIdFl6aHBYU1c5bnRYMjZWZ1RpeG9nbmdNQ2hvT1FlZmxhUjdLN0pYdUdaeXlNZlVnMi00V1VMUnJLVUhQZG5OdnBCS2hjNkUtSGZDM1lTWHpfU19WWG5vdzJ1cFktZzM3cVlIUXlfUW9rSlllSTlCWmgtR1h0aTBocENTWkVIV2ZsNE9IWEFReC01d3pMeE9TX3ktTjZmcVNHSC1VZzRucU51a2JaT2hHSVhTbnMyNS1SYXJCbTFwelJ4RE5xVWY1cWdpUDlSVDF0TXNsOVJYNUVSTDF1c3VKR0ll?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-08-06",
       "headline": "BioVie Announces Topline Results of Phase 2 SUNRISE-PD Trial of Bezisterim in Early Parkinson’s Disease - globenewswire.com",
       "source": "globenewswire.com",
@@ -267,8 +388,8 @@
     },
     {
       "date": "2026-08-06",
-      "headline": "Vistagen Announces Topline Results for Repeat Dose Study of - globenewswire.com",
-      "source": "globenewswire.com",
+      "headline": "Vistagen Announces Topline Results for Repeat Dose Study of - GlobeNewswire",
+      "source": "GlobeNewswire",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUVFPVGlyRGZXdlBxNjFIQjFUV3A4OHRGQlVLcVRoaXhaZWlsMFc4MURCb0dnUzBSdVJ0S2JhSzVEUF9FcG9JSW93RWR3WHA5Ni00dHVRV3dyN0s0eDQ1ZzJROUpFT21nczFkMTg3REYybVlEbUZBcXBFeGJNcmYtaEhvcW1iVkNiRWNvLTA4U2tpTnlXZGR0c1kzaEl3REZmLWtaVjJVUy1aNi1qYzJMLVByWFBEeFVrQTYxWmNuZndaTjRMNUdaN0VxVW5nT3pjQkdjSER2VVpTbTc4SVZoYWhVZm5qaEQ1dC0tci1PNHN3Qy1oVnBJV2hjR25nYVllOUVSck05Tm4xaWhzdmhiYVd4MUhGTUVO?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -586,8 +707,8 @@
     },
     {
       "date": "2026-07-31",
-      "headline": "Karyopharm’s XPORT-EC-042 study fails to meet primary endpoint - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
+      "headline": "Karyopharm’s XPORT-EC-042 study fails to meet primary endpoint - clinicaltrialsarena.com",
+      "source": "clinicaltrialsarena.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGpaVFdiR1p4alYtU2MzVTBrdDJkcENpTWZUQjNOak45akhCdVdWUHFmd1RSU0JsOE03YUVnQVZMb1ZHRnk1MG1PS1VtNzFRM3RzMjFJM0h5Y2xBNjRQYjI3MEdlU3JUeTFQY2xJd1BSTUpVVk5wc0RGRWhLeUlvSGNOZFU?oc=5",
       "outcome": "Failed",
       "phase": "",
@@ -795,8 +916,8 @@
     },
     {
       "date": "2026-07-29",
-      "headline": "Atea reports positive topline results in Phase III hepatitis C study - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
+      "headline": "Atea reports positive topline results in Phase III hepatitis C study - clinicaltrialsarena.com",
+      "source": "clinicaltrialsarena.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEJ4TXBQSm56dXI1eTJ3N2Y5QmxRS2VPV3pzYWpkdjFxdklJQVhMbDktZWgtV2wzUndVZmFfLS1zNm5LNFJ5MEtWTUVHNXYxamhHSEI5dkdJak4ySUJsZWZLdjZ1YnVKY25DWUE0VzZEb1NKZFZOYXQ4MXowSE91RVFUcXFuTXc?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -938,8 +1059,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Atea’s hepatitis C asset matches Gilead’s Epclusa in phase 3 trial - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZko5bzJOdHNUR1A4blB2MmluRm5LNm5keFVtelM0dzRESkFGVnU3REFWdWNSaW9lY2N5eUZXX1d5YnZpU291UGVmeURfN0JheXA3TmN5N1JoU2JyQ0pHb1psaW5RRFZ0M093aGw0elRwTFQwTU9tMlE1c3pkVFU4RzdIMENnN2tNV0swNmI0R25UWHFITXMta201dW5VWTg1?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -1378,8 +1499,8 @@
     },
     {
       "date": "2026-07-23",
-      "headline": "Cell Therapy TG-C Misses Primary Endpoints in Phase 3 Knee Osteoarthritis Trial - cgtlive.com",
-      "source": "cgtlive.com",
+      "headline": "Cell Therapy TG-C Misses Primary Endpoints in Phase 3 Knee Osteoarthritis Trial - CGTLive®",
+      "source": "CGTLive®",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0ptbmhScmo4TWpCTnpXTi1qWW1OVl9MMVdzVlBvNXlVUFAydnhhV0xETXRtV1NNZlNnS0ZhR2s1RGNTLUc1cXkzZW55bGpUcjVtTkpKX1RScmw1UXdoU0hpMlBVaGx5OUNfZWVwMHNvaWkwZTFLajV4XzYxSDRXdUw3Z2pFUENWMXNGWmNKQi1McDhkS1BQTHlNR2V2RGJRdGpBNDZ1M1c?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -1719,8 +1840,8 @@
     },
     {
       "date": "2026-07-17",
-      "headline": "GSK axes key cough drug candidate after phase 3 data end blockbuster hopes - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "GSK axes key cough drug candidate after phase 3 data end blockbuster hopes - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2VkQXI0Z0p3eXV1N3hpdjFhUUtsMHNuX3oxX0tZQXZFcjRUeFh6N3doRmNWY2Q0OGRISm0tOWdfRFNnLXRvZ2hUMEVreXQ3c3lPcW00Wnhhb01ETmlicVh6djYyaTdUVlVpdTRoR0lxQ3o0SXo1TmQxS3JZbHpoVU1NX1hvdXpxc1BMQ0MyQlhJVldoQWx3c1luS2lUdFVzRllB?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2627,127 +2748,6 @@
       "outcome": "Failed",
       "phase": "Phase 3",
       "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "AstraZeneca Shares Sink After Heart Drug Trial Miss. Rare Clinical Setback Tests Investor Confidence - International Business Times",
-      "source": "International Business Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWxXOHJCYjRIaUxTY3ZMZXFpalJhZFdFSnMtb05GWUJiUl80VEE0VW9VdGk4Z0g5bFdBLTFlUm5hZXh1N09BMEloU2xkekoxNWdzUjVaRVIzSi1CZVRFcTdKemNUNTJDVE00T0hMLTJlRnE0UFdiVEVLQzZ5UlJlSWZGWktyYW9ZbWhnTjI4UFBvR25HOW15UldkYmVJVWIyNldtM1l2eW1HT0FDMW85YXhMeFU1V2ROQ3ZxeTltNk1rdlN5RUdOenlTQQ?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "AstraZeneca and Ionis miss in key ATTR-CM trial - European Biotechnology Magazine",
-      "source": "European Biotechnology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY1d6bXFGY0ZNVHRtMDVKYWprZkhLZ1JwWFVSNzRWemVGQU4xT1hrVVM1TFV5N29QUlNMclpob2p3ZUpOZlZCWUY2NEo4R0duV1BlbUhHS01yLTF6WFF6UUpFbm5SUVlrdVdMbUJzUk9UMllWNlFzb1hqODRJVFZDb2w2cTFkLTR2bjA5U1VwN2x4TE51M2tKOUtaVQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "Ionis Pharmaceuticals (IONS) Phase 3 eplontersen trial in ATTR-CM fails primary goal - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnUxcXRPTFZoc0RJNGFubEt2cG12SWRRZXkzYkg0Rlk1bWp0RGdtcjJSVUpMUlZ0X0ZOLWxOdHVJb0xnZXMxY3ZzeWZjblRFckFhSi1hSTV5anR4V2xEenB3Tko3b2ExVS1RUmFSM05yY1NWTlNsNDNEMWFveUE1YkMyZWRvcG84Y0p3NkdUWXdVUzBmdXJjWHdXOEhHV0V4QlNiUklCYnN1aURpRkRwbFVlT0k?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "AstraZeneca's £19bn blow as Wainua heart drug fails key late-stage trial - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUNRS0NMb3JOTEw2dy1IdHRjR1JSZHA2YkVUaUlYSG03cmg4dVlzX09WeXg2QmF4N2VtaWxoaVBZTEVfVHNpc2s0enZYTUdEVVFUWXBsNUM4UHVHc2hKb1FMWHVRS0RuWUtfQkpLZ1B6MF9pOXkzY0RnM3RCMEZKLU9QS1RBdGRGWUdnbg?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "Kailera weight loss pill trial results: Nausea sinks stock - qz.com",
-      "source": "qz.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jcFBxUExXWEdUSWR5c0l5ZXhqNjFmWTkxeGdKQkg0R3ZyRWRoQ3R0LTg4ZEtKdi1nT3lxcHdSWENPREt5X1Viall5OEMwOUlBTzBCeVVLZFpZeFFRby1lZzRnS1JYZkNZVy1hcW1xclotMFU?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "Human embryonic stem cell-derived dopaminergic cells for Parkinson’s disease: a phase 1/2 open-label trial - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTNFhQeVBCNnJOVWNuSjdzN1gxZFpSTTBnT0wyMUVoQkNjN181S0lWcTZVeHdMdW1lSGdsUklac24wTTRuckk4S1FSaXlGS2p4Y0FQZ3FBQTlHMXFRNmhJ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 1/2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "AstraZeneca's key phase 3 trial falls short - medwatch.com",
-      "source": "medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5eWlWZjZQcG1rRnZnMS1SMjRkXzJtUUtPbVdzUEpocFdITHRZUU9YbTlnOW1lVHhCNXZraGdRQW1fX1EwekRXN3JOY0QtRGpJUi1DaXNCMEZTcm90NjhFRTN2MVlWaVEtWFV2Z3ZvSQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "Due to a drug developed in collaboration with AstraZeneca failing to achieve its primary endpoint in a late-stage clinical trial for heart disease, shares of Ionis Pharmaceuticals, Inc. plummeted 13.8% in pre-market trading. - Bitget",
-      "source": "Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IWG10OGpTN1BjcnpicGR2SVVxcEwwLW9IRmNORFNlM29JTGxqTWpYd0lpRlpxRUFoNUV2WjV4c1hsY3h0X2QxOFVNNC1aYUNVNk11TkxwMU5QRUgxeXfSAWNBVV95cUxQNG5jVWk0cmI5MFpVQko5bFliT1pVVDBlazE2S1J6dUo3bGIwYnBzQURIaVBxZC1aa0U2X1lDb2F0MmdBVW5GUGNlUUxXaUFFb1J3bWtiaUtGZkttd3NwVjc5MHc?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "Wainua heart trial misses primary endpoint for AstraZeneca (NYSE: AZN) - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2c3Y2dBSEliajNfMzJmbkRMbU5JZm5rMmJMaTV3cXlaMFNJekJKei0wVWtiaVJaQTIyRjRjSHlkWUlFMlYzb3kyY3hUUDB1NVVDSFg5YU5uS1FOcnN0bmNYa3FMNGhHLVZja1kwNkVGUlNtdFR3UFJSUzhtd2tPTU9IQjJtU2NBRXVvZXdkNkYzc3NoZ1F2WlJmT3ZvQjZJZDBWWXNTelg3RHJwcjBz?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "AstraZeneca and Ionis’ stocks drop significantly on Wainua ATTR-CM trial failure - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmhSbmRKVVJQbVRmMmxRd2cteDZoeHdabjEwR0FMdDVtaVVtdXdsQmlJVS1jSG1VMGFSbHBGRnBLcEpuX0lhN3ljZU9ILTZxX09KT2RyTlFKTklkWnMtX2ZiRk1ZbmxfUlN6clR6QlMyYzduandhQ09CWmtTbE52R3d0dFNnVS03YXc5blA1WEpvc3otNUszbHprclV2T3IxOEZwVUJ2VkcyRG1xeFB0bDVYMGRRMUp2UmZ0bHJn?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "AZ, Ionis shares tumble on ATTR-CM trial flop, but analyst flags over-reaction - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnIxNnFVb29FWjVvTHBlT2Njd0Jjb29ZUEtxVXlfck8yOGJTcG4zcFVqaDlKX3BMMFlDcG9uUVBvUWctWnFoT0Y3OGJCYlFQQkxDRVJ3dlJtWFc0cGMyTVRfLWVJckc4VjA1OTRvcnV2UkFlNTZtX0Z0OW1hdUxmcFhtMjdENWdXT2gzWjVLbWJScHZ6SWNGMWY3bHoyQQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
       "target": "",
       "moa": ""
     }
