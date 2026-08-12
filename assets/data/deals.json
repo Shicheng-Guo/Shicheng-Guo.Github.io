@@ -1,6 +1,61 @@
 {
-  "generated": "2026-08-11T07:34:04+00:00",
+  "generated": "2026-08-12T07:49:36+00:00",
   "deals": [
+    {
+      "date": "2026-08-12",
+      "headline": "Amneal Pharma completes $1.1 Bn Kashiv BioSciences buyout - pharma.economictimes.indiatimes.com",
+      "source": "pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0tyNGJLbjJOOUxLejR6U09kTHlXSm1kc3dyT3c3cHZRcW03dTE3ZWpab3ktUFhMVHp3R0VOV0ZfNElTNFhhX0MycHlaZ28ydTI1N0tzREFjLUo0eUlxV1B3MFM2STZMU3QxTFlwVExTVUFNRXFRMkp1bmlDWnFxYnVqV1l2ODY1TDQtYjhGNEdValh1Y3M1bHFkYnNVUGxBT3IwSkJtRFZKTEN5eFprWE5MN05kU1BwZzBvdWxQOVozOFJwYmhhbG9sODdlUdIB0wFBVV95cUxOR0drcUI4YjlFVEFXdDJtOEhrMmxCTWptNUIyeXAtZEIwc294dGctXzY4a3FzVXBzdE1SQzhkWTJjT0d2SXZqdVZuVkViLWtnZ2N6M1RCcTNQbnpLY2VTbEdSWi1BRDNLcUhHSWppOEFOVVd0dUl1U0JEWFJIM2dyejdfMVcxdktRSWZDbE9Nclo3cEdscy1HYU0zMTNINi1CVmtKTjRQTE5xdDlwXzNROGdnd1JtalhxbmZHbWU4OTNrazZtN2RkWGZPTlhlWmVYdGVz?oc=5",
+      "type": "M&A",
+      "value": "$1.1 Bn",
+      "area": "Infectious",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Amneal Pharma completes acquisition of Kashiv BioSciences - Pharmabiz.com",
+      "source": "Pharmabiz.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1abl95V21BYUE2amRaa1NEcWd5cGJTUDV1MkRSZHB2ZEhHTk5vNVpOUHlhZ21kTERnLUhHM01Dazk2V19KVnM2REF1aWdpSVByTnNkdTZybFNKbEZoYzVzTTZVVFdjeWZkTlZV?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Infectious",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Indegene eyes clinical-research acquisition to widen pharma services play - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnNtQjA4bG5aZkp2eE8yMHo4cDlya2E0aTdEcVdtR2pya21DMkpnWUR0c1UtOE5QajF0SlY5SjF3Q1dScU43V1gtZm9OQ1ctN3FSbl80NV93WmdGM2c1dUFjSldnU2hHcC1yOU5yeldjeEh5OU5MNDVfUFBVS3ZpWks3WlBPdFQ5LWR5VVRzazlHbkRGS2JkVk9Tc1cyVTN4SmJJX0RPQ0FOd21BS1ZfaW9SV3R0TGk3TndYc0tkMHNiTjNIc1ZqX0EwUGljZjZ1WmFKb9IB2gFBVV95cUxORldXSWI2c3ZuNURsNXFCOHlWZVpSUEVSRk50Ri1GbnBVUTRrYVZMVExySEd1TjFVQkZobFZKZ2FLUFRhNGdBRlhuamdVbEwwdVRTV01CZC1GU1N0MWpwS1JBbllVMlR6MHRZMDJwNUJQUmhIekdSb0lYTGFaQzV5ak5vc3RiNzdKU1p3eHVDRzhReTdidmRFSHc3b2xCdlRXcjZ4aVhPLWktYldteFZLYl9DUlFWRjFOYS1MdUoxUTVka1FWMXRsWFdSdDhUejVQX1ZXbUhCRGprZw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Trump signs order seeking to upend childhood vaccine schedule",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/trump-executive-order-childhood-vaccine-schedule-autism/827510/",
+      "type": "Deal",
+      "value": "",
+      "area": "Infectious",
+      "modality": "Vaccine",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-11",
+      "headline": "Lilly paid $2B upfront for vaccine biotechs; Infinimmune raises $75M",
+      "source": "",
+      "link": "https://endpoints.news/lilly-paid-2b-upfront-for-vaccine-biotechs-infinimmune-raises-75m/",
+      "type": "Financing",
+      "value": "$2B",
+      "area": "Immunology",
+      "modality": "Vaccine",
+      "stage": ""
+    },
     {
       "date": "2026-08-10",
       "headline": "Jazz pays $820M to buy Actio, adding clinical-stage asset to orchestra of epilepsy therapies - Fierce Biotech",
@@ -90,6 +145,17 @@
       "stage": ""
     },
     {
+      "date": "2026-08-07",
+      "headline": "Alteogen signs up to $365 million licensing deal for Hybrozyme drug delivery technology - Indian Pharma Post",
+      "source": "Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUlWSTJHRlk4MlNqYVAtemdNbV9mOTQ3ZHpINk9ONVJ3ajdmSkJHV0oteWZWTDVIUDFXQk9GcDdzSlBCOVkxRVEyMi1kWFRDbDBWbEFVcDhNWHNRWHVLX0g3eDRTS0RxRW4tZW1RaHlYT2JnOXRrMjMzd0JJQWs5NHZCQnNjM195VkU5ejRVeUdWdlhtMlUxd2VvNXZ3V2N4RUpELWJUQU9MUnpCdFJhbzIxNXI5TWhKZWxZcVp1Tm5SY0hfdmpNdmthekp4b05w0gHXAUFVX3lxTFA0SG42UDFJZElCejhjTEUteklidlh1NDNTX2dRYnRDRnZrdHIxbGl1S0c0OGU5elBKajhIY3d5TDloaHMxUFM4V1BvSm5qcU44X25WUGRHZnFVMnYyLWNXd3RnVWJqX3hoamxrZ0JMX3hxR0Z6YVBwZzE3MTlpU0xIUlBkM0pXczU0MUpwWTNYNjR4T0s4dGh2eTNDN1I5WnNSbTBEcVJMVThLZVFnZFFSblhqTnJrWU9zVlU4aUZhMWJBNUI4NTM1QXcyYzd2V3RHMHlsR0Y0?oc=5",
+      "type": "Licensing",
+      "value": "$365 million",
+      "area": "Hepatology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-08-06",
       "headline": "Tarsus to expand eye disease pipeline with up to $800 million Alkeus acquisition - Reuters",
       "source": "Reuters",
@@ -102,8 +168,8 @@
     },
     {
       "date": "2026-08-06",
-      "headline": "Alteogen signs $365m Hybrozyme licensing deal with pharma company - pharmaceutical-technology.com",
-      "source": "pharmaceutical-technology.com",
+      "headline": "Alteogen signs $365m Hybrozyme licensing deal with pharma company - Pharmaceutical Technology",
+      "source": "Pharmaceutical Technology",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVktuVG0yMi0yUkN0VzhXLTJVdGFJX0syZmNBRUlZS2p4SVFFWDNyRllvYnJKSzg4OXhLNzd0OTdiSnVhdkFJVDFRZFFnM2dkd1AtOWVSRVlWek5Hdk9KMTcyR3RrcnctOVpFT05ka0hHUGVlSVV1RnB0cWVYX0s1X09CV0JzNElnTVNsNUxpMA?oc=5",
       "type": "Licensing",
       "value": "$365m",
@@ -629,6 +695,17 @@
       "stage": ""
     },
     {
+      "date": "2026-07-26",
+      "headline": "Aurobindo Pharma signs royalty-free alimtravir license with MSD for 129 LMICs - scanx.trade",
+      "source": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXBkc3JWZVl5Tkx6UkRIYVRBMVo2cE5ySXBuMXA5clJHaV9BYjdENWQ5ZS1HU1lpRDMydzh6NDBFSVJkLTdNRzVjLWdmSVNneUpaWklHTzdvbmlDWEtxVGJNS3M0c1IzdDNjNkNkRG9rZ1ZqaVBlQ1J3VElsTGltekxNcWo1UVJJWi12eUpNTGx5eUx3ellfRmVMRFo0aVBIT1FvbHdnNXBrUFpjWUJ0S3d1dFp4U05XOW93Tw?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-07-25",
       "headline": "Organon shareholders approve Sun Pharma acquisition proposal - indianpharmapost.com",
       "source": "indianpharmapost.com",
@@ -671,17 +748,6 @@
       "area": "",
       "modality": "",
       "stage": "Approved"
-    },
-    {
-      "date": "2026-07-25",
-      "headline": "Aurobindo Pharma signs royalty-free alimtravir license with MSD for 129 LMICs - scanx.trade",
-      "source": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXBkc3JWZVl5Tkx6UkRIYVRBMVo2cE5ySXBuMXA5clJHaV9BYjdENWQ5ZS1HU1lpRDMydzh6NDBFSVJkLTdNRzVjLWdmSVNneUpaWklHTzdvbmlDWEtxVGJNS3M0c1IzdDNjNkNkRG9rZ1ZqaVBlQ1J3VElsTGltekxNcWo1UVJJWi12eUpNTGx5eUx3ellfRmVMRFo0aVBIT1FvbHdnNXBrUFpjWUJ0S3d1dFp4U05XOW93Tw?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
     },
     {
       "date": "2026-07-24",
@@ -872,8 +938,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "Vertex was sole bidder in high-premium Crinetics acquisition - BioPharma Dive",
-      "source": "BioPharma Dive",
+      "headline": "Vertex was sole bidder in high-premium Crinetics acquisition - biopharmadive.com",
+      "source": "biopharmadive.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3E2N1Q3X1lvaWpJcnZxV01Mc29qamxBdmZrTzB2d2I4eGotU2NwOEl1NDhXTnNzanZKaDUxdFE5QzVIVFBsZ3RYNGJrOXpIeGhvakd0aGxpcFVpaXBiME9WRWkxd1B5dGpQQ0NDc0JOQzRxd0dBOHlzazdIamloNTdMU251MjlfQS1hM0ZDa0RZdlU4aWc?oc=5",
       "type": "M&A",
       "value": "",
@@ -2489,8 +2555,8 @@
     },
     {
       "date": "2026-06-29",
-      "headline": "UK-based Scancell bids to buy Nasdaq-listed Neuphoria to ‘increase profile’ with US investors - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "UK-based Scancell bids to buy Nasdaq-listed Neuphoria to ‘increase profile’ with US investors - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWpCa1lIdjVrNjN3cWo2Q2FqWGhHellwWm1ONVplYVhFVU9SY01EeGc1Mk9ZNlZIc3ZEMS1ZcTJISVU5bHlnRXZiV0pvSklWSzJUbnQtRlV6eHRYQVFtV01uTFlFWEVaWVRBODJWemktakR0WFdqNS1TQjdKYkNyOW8yQUdpd0pHVFFaZXI1TDh6a0NOdUVsdTNSMG1MbF9nYm9OX3hyNkdFYTNNS0xLc1F3cFA?oc=5",
       "type": "M&A",
       "value": "",
@@ -2682,72 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Honasa Consumer buys 58% stake in Fluence Pharma to expand into nutraceuticals - bestmediainfo.com",
-      "source": "bestmediainfo.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGI0T3lPbzhQVU4xalpGQTBfTThuRUlrMEs0UFppa0FEYXlxRFdTZzVncGtlRW56amQyM3VnVGdkN2VUU1FULVVVaUttRjdGTDd0WU5PRGU3NGhKd08tWUxsZVFDTHFRa3RDNWtxWUpEV25YcjYxY3VsWkQ1UXhTd0NtdDJhbE9hUTJsWTZZWjFTSVd1Vjh0MDJYeFl6VWhwS0VLZDUtbklaazJTRmdUdlVZZzJxamJkdUFZMndPMzdfY2lsMTg0WWFPUHFmSFl2SGI1Z3hxclpRZ9IB2gFBVV95cUxOVGI0T3lPbzhQVU4xalpGQTBfTThuRUlrMEs0UFppa0FEYXlxRFdTZzVncGtlRW56amQyM3VnVGdkN2VUU1FULVVVaUttRjdGTDd0WU5PRGU3NGhKd08tWUxsZVFDTHFRa3RDNWtxWUpEV25YcjYxY3VsWkQ1UXhTd0NtdDJhbE9hUTJsWTZZWjFTSVd1Vjh0MDJYeFl6VWhwS0VLZDUtbklaazJTRmdUdlVZZzJxamJkdUFZMndPMzdfY2lsMTg0WWFPUHFmSFl2SGI1Z3hxclpRZw?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Honasa shares slip 3% after it announces acquisition of nutraceuticals maker Fluence Pharma - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYjY4UkdRQWwxLXQ4MjNUVTVNRzFNQjJjc0RFb1dMU1J5Wm5teTJzZ3JGZDhqZ3AzWVJpc0FPOWE4OUZGMTRHNjE4LXYtc2F5aGhmenp3MFlKaTZpMEJRZUhvVFNwRmQ0U0lobXMzMEh6UjZlWmFuMXpxZmdsVzJOUGlud0REaHRqQWpHRGFDZnlydjViU3dIZ1FGRWxIeG5GcHVBaDFNbHBaaDJaOFNKM2hpX0pRcXFpY0R0MXIxb0x3MjZ3OVhRelVHRG1TN0dvT2J6VG5SZ2xWZTBuR2tXa2sycktGS3FsbFQxYncyaXEzRVdJSlFZYVFwalJpQdIBhAJBVV95cUxNT0lDRFpZTmFXRFI4ekxXRzR1a0o2aVVoWXpwejFiSjVkT0xCa1JUWUxaMXlHYlJWS3pLSkJxYjNSd0ZhY3o4LTdWV3hHb3JxUmhfdDgwM2RMczY5R1V6SzgxdzhINGpfR1UzZzZpTTYxbURRcGh6b0NraGhLNW1rLXFNdnlaOHJIa3N2OHBpRW1NcXZpMkd3SFlnLXBMbTlHZmxGODA4a2ZjOF9KRWdjTl8xX0Q3WGtsekg5YjF3ckV2MUt0dXNBcEEwMk1xVlpVQ3R1MmJ6S0htakxzOWJqdWdzZnEwRTY5VjNocXdXNG9hX2pfV25xd3R2WmNEOEEzT083ZA?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Honasa Consumer enters nutraceuticals space with 58% stake acquisition in Fluence Pharma - PitchOnnet",
-      "source": "PitchOnnet",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeW5LeVA3b3Y3eGdhYlNNRzRacDVpZFBXYUhsdTBTQjlIVVBkUDNxeWJmdmJrYWtTaUw3TUNYOHBHbTVPWjRBOEZ1TTgyVXh5Wm93eHVtOUZTblFMV0k1bGgtY3ItdnQtU2pKRXpzN2RzSzdvMzBRclZRd0RLNVpyNlprUVEwZU1DbzhDT3pFclFvWXRCTnRaNWQxY1Eza0prVTZ5NEo5bU04bHI4RGVKWHhxaGN4RTlqZGxyTE5ZbF92cWdqUXFwTmY3ZU5VVVVONGdzOVFn?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Honasa Consumer falls 4% after nutraceutical foray via Fluence Pharma acquisition - all you need to know - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQWs5YkdneGRnczY5dXFPTDdZbmZSZGtlOVBwclZFVkJ0ZHdQWFhVSVhadDFBX3RnbUM0d1BCekJpemJrRF9nbGdWY19fb3FhamRWeUdvSkFrZUlTa29HNkVQenBNdXEtSzZac0lKbGJiNmtWYThWbTA0Q2NFS29jN0NYZlNiNFdTV3U4Q0Zpb1RvNWZfbUt3NjZTaGtPcS1FYTl3M2FReTVETDFrTklwMVJFclJWNUU3MUlFMUx1S3E4TXA4bmpOMjJudGhIaUVrRDBYNFlrbnVqbHE0Y1ZDMzdmeHM3OUxmbFJNNFFZUFFiNTlSZ2NRT3lJTEFEclU?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "After Apogee, 3 More Biotech Buyout Targets Wall Street Can’t Stop Watching - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdDZRYUNkZlY0YkFRNDI4WmtFYmd3X3diMzA4Mm9qNmJ2aGZHaDllWVRDWnFPcDhUUkNJVll5Wkhkdl95RjJHbEdkMWozY0lZdlNlWjdVMVZhQmhsczliTE5zTVZUc0tYWjZJX0lRSng2d09GY1l0MGV5eUFNbXBPYzliVVpILUhFYWJIYVJ1TEFIcTI3TnFjSEVjRkZOVmJBSFEzSklLdEI0TUNOMVhjNDZhNm9helI1?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Honasa acquires 58 stake in fluence pharma for 15 18 million - Indiatimes",
-      "source": "Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORU9GRUhVNU5tQWw5ZkRrSnV1VzY0YXdZeF9JY1FoOUhjeE43T29rckJMRmxZVnM1bGxDRV96VDBWUDgtbmt0dkFSeWhSWEVEZ0syWU9hamR5U3VDX0RETHliUjJaS3JLOFRCY3RTVExIdF9kdGpTVDVzVEl0OG1vWWN5cHZGQzczdXJkOTVZMVJTRURoVDd4ck5WdXVHN29vVXFJM0Jfem9MaEFJeC0zbnZ1UG5BNnBxcmRWd1llUk5pMURDV1hQZXowNTA2b2FhaXc?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
