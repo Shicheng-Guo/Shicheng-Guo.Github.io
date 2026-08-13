@@ -1,6 +1,27 @@
 {
-  "generated": "2026-08-12T08:52:30+00:00",
+  "generated": "2026-08-13T08:55:22+00:00",
   "items": [
+    {
+      "date": "2026-08-13",
+      "headline": "Large-scale admixture mapping in All of Us reveals cross-population trait differences - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkhHM0podG1hNkJMVnBIRmNvSUFDMHJiQ2ozOHNfRUszZjJpVFJhRkk4V1ZsbFVRd295MG4wQ0tBdW1NZ0hWS3AwSWpVWlBVeHhnSFJ4Nmt2NS1zY3hEdWhmaEZnWkNFOGtqeGo0eDVGdmlieGlzZUtXUHpTY3djaUs2d2k5QVZVMUltTlNpVWt2eERFRzN5NWxUaEVyOFhWVW5reG5JQnZWMXB5NXgw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-12",
+      "headline": "From Biobank to Breakthrough: Advancing Vascular Research with the Baszucki Family Vascular Surgery Biobank - Stanford Medicine",
+      "source": "Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzQmVWWkNEdlU4Q2dxVWlHUGhMS3Y5YVJDZEVKSTlGbXY1OEJBZE0yVHlQUTlGVzBJRGE4bm9SMW1WU3BHclN3WWo3T09NaUg0LVpERzlYRXdqbnNlb09TVnd5TXhkTWtzMW1NbEp5dWI?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-12",
+      "headline": "Dimethylarginine Dimethylaminohydrolase 1 (DDAH1)-Arginine Metabolic Axis Is Independently Associated With Alzheimer’s Disease Risk in the UK Biobank - Cureus",
+      "source": "Cureus",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOalN1T3I4MDFBR1lFUlZnRE93RHkxalduRTVXemN2dVoyMTFRenRpRmpUZ0ZjNE5kWi1GdlVURmVsc1ZoU1NtNEtUXzB6ZmhyLWNIaEY1QTlBWFlacU1vRzRQTGdIZXhZWFVPV1VDZENqM2NVcDVZV3U2V1h6ZmVON09UdFpUUmMzcWpGeGxlRW9YMVpBRVUtX1kxZVBmSDNhWjZHa1hITzUwV0VGVVpnVEo2ZUdQeHViR09TRmJ1dDVnZ0paY2RwTEwxOWNUS0N1VHhCLTFuc25zZzc2YjJIaUZLUlIyQVVucXprZFJmdTVaYVY4bV9TcEhsbmdZNkJMR1JtZjNOTjZVX1dIenRaUGJGbw?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-08-11",
       "headline": "Risk of Epilepsy in People with Adult-Onset Hydrocephalus: Insights from the UK Biobank - EMJ",
@@ -52,15 +73,15 @@
     },
     {
       "date": "2026-08-05",
-      "headline": "A tumour-derived organoid biobank maps cancer gene dependencies - nature.com",
-      "source": "nature.com",
+      "headline": "A tumour-derived organoid biobank maps cancer gene dependencies - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKd3lSb1ZUdXY2NXF4S1lIb0FTSERqV25qX0ptTG5GMnZSQVNTUGRVYXI0ckpseElzZllqQ3RmWEJabk1oemZiQ3VTalpzc3cxaVVCTUNrcDN3cE9zejVV?oc=5",
       "category": "News"
     },
     {
       "date": "2026-08-05",
-      "headline": "Largest Patient-Derived Organoid Biobank Maps Cancer Gene Dependencies - Inside Precision Medicine",
-      "source": "Inside Precision Medicine",
+      "headline": "Largest Patient-Derived Organoid Biobank Maps Cancer Gene Dependencies - insideprecisionmedicine.com",
+      "source": "insideprecisionmedicine.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkpoQm1lTENMekZtS3lWaXpBeUpLMXRWVnRfeEU3TmFTMC1hUDBleG5UR2xtNG1mVUNyUEhfX3NvWDBYUkNLWFRfckp2RjdCZGhUZVRzYzRWakxSRXpBZ1c4UnpqaVBublJCS0paZEc3OTJrNVcyamVIWUFrSmZ5U0JRQ21Gdnk1V2gzaTV4dTNKSXdFRUZuOExtQlVoTnh2cDFYX0podlk4RU5RSHJUbUNpbDRWbGNPU21yYlF5djlieUtORGc?oc=5",
       "category": "News"
     },
@@ -73,8 +94,8 @@
     },
     {
       "date": "2026-08-05",
-      "headline": "A living library: Inside our organoid biobank - sangerinstitute.blog",
-      "source": "sangerinstitute.blog",
+      "headline": "A living library: Inside our organoid biobank - Wellcome Sanger Institute Blog",
+      "source": "Wellcome Sanger Institute Blog",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXNNZEdLMnZiMlEyczA3ODFWNmVCWFRXMGdvQWVmLVFRUHh6RFVPVFhvWnhLekh5azFrVWI3aDFNT3JjOUVPTW9GYm85Y29NOTRIX3JCSWFodUpoQzBqNDZ1RktmT3Z0Vm83RGVpblhNbXhrNDhRRlRGcmZIdkRPcVJJU2VTdXNXaU5SeE1R?oc=5",
       "category": "News"
     },
@@ -220,8 +241,8 @@
     },
     {
       "date": "2026-07-13",
-      "headline": "UK Biobank study identifies absence of genetic risk for chronic venous disease progression - venousnews.com",
-      "source": "venousnews.com",
+      "headline": "UK Biobank study identifies absence of genetic risk for chronic venous disease progression - Venous News",
+      "source": "Venous News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWc5TkpGcTg1VmpqdFUtbk9FY1BvcmN4UC1HRk1RRjEtXzFxZkI0MVJMaXptVUJmV0M1ZWNEYXZzcE83b0NIZXBQREEwWFJEY0xqWUM0OGV3ZGpBQW96MW5lejFsMWc5M25xMVQxa0xINWtocllJeHhDWDNqdFI4VDU4OW5uZFg3OHF5cDVYckg4Z3hTUU8wdVZuekRYVi01NlNWMi1kRm10Qmg1bTdYSWh1Rko?oc=5",
       "category": "Research"
     },
@@ -304,8 +325,8 @@
     },
     {
       "date": "2026-07-05",
-      "headline": "NIH’s All of Us Research Program is now the largest integrated genomics and health database in the world - Florida Hospital News and Healthcare Report",
-      "source": "Florida Hospital News and Healthcare Report",
+      "headline": "NIH’s All of Us Research Program is now the largest integrated genomics and health database in the world - southfloridahospitalnews.com",
+      "source": "southfloridahospitalnews.com",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm1lOXNZbnprQ0JLT29KQW41NzVhWW1jUmsyakZFQ1JIVFBDUHB0UE1fX3NzSEF2dFgtM2NTT0d4NUxuMDdFcHhPa1p1SFhUSmZNSnRKSTZ1dTRFQ24tbHVzeHptTXVBODdqQXEtQmZuOEQwZ0hRbUZoNmxKbnBuYzE4TkRRTW9pVU5VM2JPbU9pYTgyM0VsMnBnOVRxelRxZktsWElwQVdiUTVuc010TmxRY3RZcEpGa1ZOTVJhYWJJUTZ4YkVzRWF1RlVvRVRzYkNmUkRUbks?oc=5",
       "category": "News"
     },
@@ -395,8 +416,8 @@
     },
     {
       "date": "2026-06-29",
-      "headline": "Reproductive History Is Encoded in Your Genome: FinnGen Links Partner's DNA to Pregnancy Risk - techtimes.com",
-      "source": "techtimes.com",
+      "headline": "Reproductive History Is Encoded in Your Genome: FinnGen Links Partner's DNA to Pregnancy Risk - Tech Times",
+      "source": "Tech Times",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQkR4Y09heF9wS19NMmlvTTI4NXRqclVIVmxxLU0xM2hobGdYVm0zekVycjFyazhMcVJJVTQ4R2pVQWktNE5MLXQzeWdxMGZEOTQwa0tYQkVKd2xSZU9YaU5yYUVGaXVuM1JWVjBPWUsxU3I2MHoxcnlZSGJKdElIQVdIU3lKRlpKeFUxeFRGZTRMUDJzSXFDOVBhY1F3dDdiUVJNOEdNX2x1VjVFVXZfZUJCMmMyQlJ6LUpENS15cmYzak9LaFBMRWFnd0ZXbGo5SnRn?oc=5",
       "category": "Partnership"
     },
@@ -535,8 +556,8 @@
     },
     {
       "date": "2026-06-18",
-      "headline": "From Microbial Dark Matter To Living Library: New Biobank Decodes Survival Secrets Of Extreme Acid Mine Drainage Microbes - astrobiology.com",
-      "source": "astrobiology.com",
+      "headline": "From Microbial Dark Matter To Living Library: New Biobank Decodes Survival Secrets Of Extreme Acid Mine Drainage Microbes - Astrobiology Web",
+      "source": "Astrobiology Web",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUVFpanh6b1FyeEdiN1BHSmpGUVMtSncwTVB3MmhQWmN6anVsOGxDYy0wcDFqUHJkRy1ONWhLOThmMW1FRHd3NWhSTEVkNmRBTGVyWUdMWFF0dENDMnp2ZkZCZV9SZ01kR09zdDYzTGxFd1M1bVlfVFRJbGRmMU14QlhHa3dEZW1Vanl6Y2RpZFU1STgyeXpWYXhpMHgzbVk3Z250Qzc2eG9IVlRkSGpBMUhmd3FXd2lTY1lhZWVRUlRjU0xPMFJTR1hLLUYyTVZvbWYxU1V5TGE1VHkxa2drWlBhTjVmeWIxVUVuSzFR?oc=5",
       "category": "News"
     },
@@ -577,8 +598,8 @@
     },
     {
       "date": "2026-06-12",
-      "headline": "Biobank-based genetic characterization of neurodegenerative diseases and idiopathic normal pressure hydrocephalus: insights and lessons learned from FinnGen - nature.com",
-      "source": "nature.com",
+      "headline": "Biobank-based genetic characterization of neurodegenerative diseases and idiopathic normal pressure hydrocephalus: insights and lessons learned from FinnGen - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ydHR4ZXdLaFp2c3ZPWlpWa0lzcFFqZ1d2NkpEdUpoajFJWU1sWWFLcmtLWHlaMEtZVUxOUnVlVG5SUmcxcWFqWExEazZkYzhOaTFENHJ3eDFYSzVMNm5z?oc=5",
       "category": "News"
     },
@@ -668,8 +689,8 @@
     },
     {
       "date": "2026-06-03",
-      "headline": "MetaSTAARlite: an all-in-one tool for biobank-scale whole-genome sequencing meta-analysis - nature.com",
-      "source": "nature.com",
+      "headline": "MetaSTAARlite: an all-in-one tool for biobank-scale whole-genome sequencing meta-analysis - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUXVjck9DMTFLRVVxRElycXZYNnVINFJ5MUwwREJrV2pzTkUwcmJOODFMZlEtTXY0UHpFM0lhc0tmUXNjUmw2QTE5YTFJNFJZYjlyNGJhTU5GYTNVZVQ4?oc=5",
       "category": "Research"
     },
@@ -703,8 +724,8 @@
     },
     {
       "date": "2026-05-27",
-      "headline": "Biobank analysis reveals more than 88,000 genetic associations with metabolic traits - nature.com",
-      "source": "nature.com",
+      "headline": "Biobank analysis reveals more than 88,000 genetic associations with metabolic traits - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQkJpeFJWcTZlWFVGVFBjd0dGSlJzcjQyT19DY1BMUmdFOXd1M01pSHVXYkpnZTNMMG81cFBPUGRHS2dzUkF6ZGxiRlhuOW1pMVRjc0VhQVN5WHVKRWJN?oc=5",
       "category": "Research"
     },
@@ -906,8 +927,8 @@
     },
     {
       "date": "2026-05-05",
-      "headline": "Relationship between socioeconomic inequality and multimorbidity progression in UK Biobank data - nature.com",
-      "source": "nature.com",
+      "headline": "Relationship between socioeconomic inequality and multimorbidity progression in UK Biobank data - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzd3dXaWVXNHdLZi12TFZNaE1HQ2k2WjlWM1M3SzFXSlJQRmpDVHFxRFdzM0VUQXlhUHRLNFUxVm14cnh1LUh2YjdmUFFyTFBnUTB4YVBhdGdmVlZrWEpB?oc=5",
       "category": "News"
     },
@@ -1032,15 +1053,15 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHVSdXBxcUdzNmhndkN4djFGRUYtQVFQYm92eFFkMDJtdVZEUnBqRU9SN0cyU0pQRXhXbDJ4TWZQd1d4UURIV3ROVVdxeklXNjBjaGpib1dNTXJpWjk4Q3VyTU1oSm40Rl90TFBpQjdLLTdrdzR6bXBKN2JYdFo1cDY1T2xQWlk4OXdNZWtKcDBMUTVLeFk4eWJXWGlsLVRQTWo1aDdXYXd6ck9WdkFhWWd0SU5RZUs2TGh0RV9vRQ?oc=5",
       "category": "News"
     },
     {
       "date": "2026-04-27",
-      "headline": "The All of Us Research Program’s wearables dataset - nature.com",
-      "source": "nature.com",
+      "headline": "The All of Us Research Program’s wearables dataset - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BTkdZc3ZCcjFvaF9pQm1rbXBQUWxmU3h0V1FrbS1YTG5zWUFnU2ZOeXV0VFM3cGhsSkRwaTZrUDBoQmVzWUFKWmdkNk1xeGJ4TnhCcUxqQ3NKMzBfcEo4?oc=5",
       "category": "News"
     },
@@ -1109,15 +1130,15 @@
     },
     {
       "date": "2026-04-24",
-      "headline": "Health Records of 500,000 UK Biobank Volunteers Listed Online in China - TechRepublic",
-      "source": "TechRepublic",
+      "headline": "Health Records of 500,000 UK Biobank Volunteers Listed Online in China - techrepublic.com",
+      "source": "techrepublic.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iU3JPTFFZVXlVZ056X2ZkbnBoUnhoWm9OTzBGbnR6VExYSi10cjhSVTBqdHJQVHphelNRTE5MSnA2WU45Z3VBZVFlb2dTSklVeFNENVR4aU5iY0Fva1ExTlFkb3U1QW1HNWxUNDNIa3Q0VW1qaWg0Yw?oc=5",
       "category": "News"
     },
     {
       "date": "2026-04-24",
-      "headline": "Health data from UK Biobank spotted for sale in China – Government confirms medical info from 500,000 participants involved - TechRadar",
-      "source": "TechRadar",
+      "headline": "Health data from UK Biobank spotted for sale in China – Government confirms medical info from 500,000 participants involved - techradar.com",
+      "source": "techradar.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc0JMVlFBZUQ1ZjU0M3pXSlFnREFfaTExRGE1ZE9CQ0VlanIyYW1xLVZaa3BmeUQwNVVVOHBCd0dpUWN5bVdnOHotOXBwbnNRLW93VHg2bGZiSWhGX05OTDlIcmRMTkw1dGk4aC04d09ZMUtOV3h3WmlYVEk4dnh2NmxuU2ZJQkxmRjRwaW5UeXR2bnFhSllmV3QtSC1NQUR2UTR4ZHZqYk1uZ1F5UkgtaEJmZjgtekx3SXB2ZFlfSTNhWDZHdWZPSjZ3bmN4MGtFcWViMkVBQkJ6YVI3eG16THhDZjBXbGV3Zl9GN01WUUFCZw?oc=5",
       "category": "Data/Cohort"
     },
@@ -1207,15 +1228,15 @@
     },
     {
       "date": "2026-04-24",
-      "headline": "UK Biobank Data Breach: 500,000 Health Records Found Listed On Alibaba China - WION",
-      "source": "WION",
+      "headline": "UK Biobank Data Breach: 500,000 Health Records Found Listed On Alibaba China - wionews.com",
+      "source": "wionews.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORENFdEltNzBSYWVPdzc0UTEtR3R1UTRJbFJBQVZ6dUNBREkwbkMyZWxMd3k5dnl4VkVRS0xzUEVnR2NIcVVsRGRtbVZXVmtQSEdNZkYySmZYams3eFBkc0F3eGFSWDNxWFVFMzhEeFoxUDdnR1p1WUtITGR0VlVCenlveWVpZzdEZENiSmM3TnNzb19ybXdCeEZBT05xazhsc2RSNjIwYlNFWjJvTVpuaS1EQjg0d2tTdVBaQdIBwgFBVV95cUxPY2RoaDd3QXl0ZVMtZ1N0V2ozYTdUc0Rmd3BpaUZPbFlPaFpnVnVRWTc2YTlmcFpEMWpuTVVjV09EYUVSOURVZWdvNWdqMk1ZX29WYlBjTUljTVJuTTVkV1ZlLVc0Y01DU2JCb2RVYmRSZ3o0dDBMaldKWlRiNi1GSzl6OFZTa3dmM0duWE5pVVg1RG1SWnZJSDN5c2pRWW9henk5dklqVzc5c01SaHhGVmg0SHFYWGRSUzNYQVFnNUEyUQ?oc=5",
       "category": "News"
     },
     {
       "date": "2026-04-24",
-      "headline": "News - UK Biobank data breach exposes health records of 500,000 volunteers online - teiss.co.uk",
-      "source": "teiss.co.uk",
+      "headline": "News - UK Biobank data breach exposes health records of 500,000 volunteers online - teiss",
+      "source": "teiss",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWdJdVNQRzRTX3dTNFN4WmNka01zX1htWWU5SUlxQjhFRW1ZNTB1RG9ITHlwS0hWRFVHcWV3OWNmZUllNnBkdUs4NldRaGpzbW5WcEZoSFZ3LU94REt6elZ4dUFWeE1JaFdmWkFsQzRVSFVHQmVETlJIYjE1bnlkbFVaMURqZy1RSkN2ZGJ1dmE1TnJ0ZTNUOWwxSkVSYW5WQW5sSEhaa28xbmVi?oc=5",
       "category": "News"
     },
@@ -1473,15 +1494,15 @@
     },
     {
       "date": "2026-04-17",
-      "headline": "UK BioCoin: swift trait-specific summary statistics regression for UK Biobank - nature.com",
-      "source": "nature.com",
+      "headline": "UK BioCoin: swift trait-specific summary statistics regression for UK Biobank - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWaENKbHRQamFQRlVEM2VrRjdxYVVMZW9UNmtlYkFJaF9PZG1rejNRMWp4c2NnQy03dUpPRmJGZDFNU1lVZEJXTWNtWGowY0dJamsxUHRULV9wZExRR2FZ?oc=5",
       "category": "News"
     },
     {
       "date": "2026-04-14",
-      "headline": "UK Biobank at 20 — a growing, global resource for dementia research - nature.com",
-      "source": "nature.com",
+      "headline": "UK Biobank at 20 — a growing, global resource for dementia research - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RNjFzQ0Y5NWFUQ2UyYzh1SFhzZFNvNGZzVVpZUnNwYjdSVHJyNjdqQXFzbkVmZzdodk1GRk5qY1pncDY1Qk9MWG9QVkZhbkZndkhiQUI2YjBDakJIYWl3?oc=5",
       "category": "News"
     },
@@ -1599,8 +1620,8 @@
     },
     {
       "date": "2026-04-01",
-      "headline": "Data from the UK Biobank demonstrates that increased brief, sporadic moderate-to-vigorous physical activity reduces mortality - nature.com",
-      "source": "nature.com",
+      "headline": "Data from the UK Biobank demonstrates that increased brief, sporadic moderate-to-vigorous physical activity reduces mortality - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVXV2bUR0X2xIMjRKd3RCM0wzRmJiMTk5ZXlwaVl4aWIzcXVsZ0s0SVJQcmRYdlJoQWpsdEt1TlAxcEJOdWotaVhIcFZ1ZWJSeC1BbTRLM3ZUTmZDbUFj?oc=5",
       "category": "News"
     },
@@ -1627,8 +1648,8 @@
     },
     {
       "date": "2026-03-28",
-      "headline": "Determinants of chromosome-specific telomere lengths among 2573 All of Us participants - nature.com",
-      "source": "nature.com",
+      "headline": "Determinants of chromosome-specific telomere lengths among 2573 All of Us participants - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0LTFFbjRlOExiOVRiN1RkTzRBdWJBTFJTWFN6WUFmRDh2Qy1qOW0wYThza09TbFg1V05FZl9YZWNqblJYcFVzVTl3eEhLQWRGb2VVQlh3c2tYQXVLLUJN?oc=5",
       "category": "Data/Cohort"
     },
@@ -1641,8 +1662,8 @@
     },
     {
       "date": "2026-03-26",
-      "headline": "Blood donor biobank pipeline to collect genome-based samples for research - nature.com",
-      "source": "nature.com",
+      "headline": "Blood donor biobank pipeline to collect genome-based samples for research - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Pem0tWGNuaHJWV3hVcVRGcEl5cjZzOTVqcC0wMW0tLXN0OThnbUFxSmo5XzlXblFMWEJwWDBYeWxFR0tCeXhIYXMyVDc2YmdsVlBBZFo0MnRhTmpPdzVv?oc=5",
       "category": "Data/Cohort"
     },
@@ -1697,8 +1718,8 @@
     },
     {
       "date": "2026-03-17",
-      "headline": "Multi-ancestry genome-wide association study in all of Us for primary open-angle glaucoma - nature.com",
-      "source": "nature.com",
+      "headline": "Multi-ancestry genome-wide association study in all of Us for primary open-angle glaucoma - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrVGlEOFIzbGNGajhmZFNrSDlWamJIZkVoeXJPSWxEb1BLWkVLNmZGNkNkNFY5aUtDYzFQWElZUTFhYjk4UHBhMEhObDgyejdOZldZNkZ1NXhSVXlDa29J?oc=5",
       "category": "Research"
     },
@@ -1815,6 +1836,13 @@
       "category": "Research"
     },
     {
+      "date": "2026-02-24",
+      "headline": "Population-Wide Assessment of Heart Rhythm and Physical Activity from 14-Day Recordings: The UK Biobank Cardiac Monitoring Study - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80dDdzUDF5aXNHYng0RWJTVXlCWjlmVmhtanRJVnhkZWhqSWtDcFZLN2ZSMVk5MFNOR2dodUpFWUxGU3FMbjF5eGI1V1d0ZGpJSU9YbXVORVFrLTNOVVZrb21OS1dLRjdaQ25HeXNuamVFeTg4dU5JOUZFSTM?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-02-23",
       "headline": "Move to share primary care data will double research opportunity, says UK Biobank - Healthcare Leader",
       "source": "Healthcare Leader",
@@ -1914,8 +1942,8 @@
     },
     {
       "date": "2026-02-04",
-      "headline": "Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes - nature.com",
-      "source": "nature.com",
+      "headline": "Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wT0RwWUZyWU9PUXJjYUtTeUQxcjhQWXdRcnlXcXpvY0RkcUhZQlpxeDJMOTh5OXljNkFSY0FhdWxrazB5Ykhub2I1SVRDQW5ZVHlCaUltNFlTZlpEcFJz?oc=5",
       "category": "Research"
     },
@@ -1928,8 +1956,8 @@
     },
     {
       "date": "2026-01-30",
-      "headline": "Cheese consumption and lower cholelithiasis risk a prospective UK biobank study with HDL-C mediation - nature.com",
-      "source": "nature.com",
+      "headline": "Cheese consumption and lower cholelithiasis risk a prospective UK biobank study with HDL-C mediation - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nWUhTRHFBQlU5UjlOcDZnZmlSRjJVdkNTU1VPQlUzOTAxZjM4aFBZMTRaZXB5VTd0ZE9CbWNMWHZqbEh2cHRvMkxiOWF6cG9ZQTBfOUoxbzFONDAtSERV?oc=5",
       "category": "Research"
     },
@@ -1970,23 +1998,30 @@
     },
     {
       "date": "2026-01-21",
-      "headline": "Clinical genetic variation across Hispanic populations in the Mexican Biobank - nature.com",
-      "source": "nature.com",
+      "headline": "Clinical genetic variation across Hispanic populations in the Mexican Biobank - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WTWlpZUlVQzUxdExqMXdlbWxGR29hNmJVU1JVZGFLdGFua0R2RE4wc0h1b2xVVnlXa1hSSy1FdDBJZ1A3N0pvSXBTcnF1U2p2SXRySlphX0kzSEJIYXdz?oc=5",
       "category": "News"
     },
     {
       "date": "2026-01-21",
-      "headline": "Biological aging predicts mortality in Parkinson’s patients: evidence from UK Biobank - nature.com",
-      "source": "nature.com",
+      "headline": "Biological aging predicts mortality in Parkinson’s patients: evidence from UK Biobank - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sckMycmM4R3AtRjR2QmUzLTNuUktfa21GNWRWU2tEWm8wOVVWWUFvcjJudGxDVTNLa0JubDVpUHF3bnViLUNjNlNFNDVfMFhaM3k2Sk1wVUt1aDM0N0d3?oc=5",
       "category": "News"
     },
     {
       "date": "2026-01-21",
-      "headline": "Clinically relevant variants from the Mexican biobank show striking diversity across Hispanic people - nature.com",
-      "source": "nature.com",
+      "headline": "Clinically relevant variants from the Mexican biobank show striking diversity across Hispanic people - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ycm93NkNEOXBIeHNCWDNJWWM4VFRHbzFxT3dDYWpnS3ZuZTBJeHRZaWYta3BnaTFiVWpPQ3FrdzJBN3N0d1RUMEkyUEQtQ0dna0Z6RG5xQ19NZEJsTzc0?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-01-20",
+      "headline": "Extending BEHRT to UK Biobank: assessing transformer model performance in clinical prediction - Frontiers",
+      "source": "Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDRmZjdtVUlmaWZtRVpuRVdoczg3VzVnZDZiM1Zqb3BhV1pjYlNnWFd0YnZBY2NwMkQ0WTMxbFdiRzlDRWJpUzZHdWxPZHVfRnlncE44dTJyTWE4RDI3T1J1dXVpN2xGM0NDMFFBYThwNHlIQWFmY2taR0E2UURnSUp2QVV3bWVGWW1uSzdBMnpSWWlvbnVr?oc=5",
       "category": "News"
     },
     {
@@ -2025,7 +2060,7 @@
       "category": "Data/Cohort"
     },
     {
-      "date": "2026-01-08",
+      "date": "2026-01-09",
       "headline": "Exploring rare coding variants in UK biobank: preliminary associations with motor neuron disease - Frontiers",
       "source": "Frontiers",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTBfU21kMDlfb3IwTVRqQTFmWUp2dWR1VzZuMHp3TlhScVlJNlVXMjk0dlBObGlnYndzRFJzTE1oMlVOdlVvTEVEM1BabEdYOVNKZjNkSldVYTQ5ZFd6SVFMYUhfbkFTd19mdWFqVllEQXZvRnh6bmhFUlZlOFIzTjZLUzF6eHE1VkdfSDcxOHotUXJEN2YwYjN2RjQ?oc=5",
@@ -2040,8 +2075,8 @@
     },
     {
       "date": "2026-01-07",
-      "headline": "Insights into DNA repeat expansions among 900,000 biobank participants - nature.com",
-      "source": "nature.com",
+      "headline": "Insights into DNA repeat expansions among 900,000 biobank participants - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHa0cxeGExcmJfbGlXM0h6NS1HQjRkWGxuY3NWaUtOYTJVS3VvMUpXb1p4VUQwQ3JoYXE2Z1lfdGFmTEhqdWNEU1JURXltazRNYTlGNjV5SUx2eFo1MHZV?oc=5",
       "category": "Data/Cohort"
     },
@@ -2054,8 +2089,8 @@
     },
     {
       "date": "2026-01-05",
-      "headline": "Intersectional inequality in general and central obesity: cross-sectional UK Biobank study - nature.com",
-      "source": "nature.com",
+      "headline": "Intersectional inequality in general and central obesity: cross-sectional UK Biobank study - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yYmRnYzRmcDNESF80bmZCQ1NTRlBHLU4tVzQ2VS1RT0hlc1lNQXBWUmtwSDZwcXUwTnBQWTRBOVQxX2xJNk9YeTlBQU95aEl0N29lM1JveDBQOXpybkZF?oc=5",
       "category": "Research"
     },
@@ -2065,41 +2100,6 @@
       "source": "National Institutes of Health (NIH) | (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxZzRBakMwNzd4c2pMaXAxdHBNdkxxZk42bUJ1VTd4NEhiSDY2NThFOUw2VHkwWnY1cW40ZXFCR3AxMmRjT0pQWExROGNaM1dkU1VN?oc=5",
       "category": "Research"
-    },
-    {
-      "date": "2025-12-30",
-      "headline": "Risk of Cardiovascular Disease Mortality in Patients With Diagnosed Cancer and Associated Genetic and Proteomic Mechanisms: A UK Biobank‐Based Cohort Study - American Heart Association Journals",
-      "source": "American Heart Association Journals",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NU2ZrbFJDQ2xnOWJXUXpWWUVERVdnWXhVd0g5dzZCX3prOXdEZ2t4aThiMDJmVWNwWTJZVEJmeFdtc2ZOZ2t5OGNMSVAzdmRNZ2MtMjVXUXFLajlaNGhEZVZMOER0MzhiYkpvLQ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-12-29",
-      "headline": "Ten Years of Scientific Discovery with the UK Biobank CMR Imaging Study - medRxiv",
-      "source": "medRxiv",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yVkYzSTMxbC1FTG5oU2tqVmNnRjdMUk0ybG9JblppRDlRVXBCZ3hkdk4xQS1iMFZUcV9POVAxOHdQbTVOTTd2d3NQelphdlVQRm9ab1JnWkxQYzlINjM2RXdWU1Flbms4dTRlS2pvbU43d2dBdEo5aDlQcFM?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-12-29",
-      "headline": "Associations of asthma with cardiometabolic diseases and multimorbidity: A cohort study in the UK Biobank - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1REluQTd0NS1uRjNraUlNMzVWZTEwa0FSS2lCbmR5RFJZLW9MSlZXQzhtbXl6a2FncjRoVVgwd2cxbmdaRE5HLU9DblhtT3dJMDBCTFhIV0gtWGZoZFI0?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-12-26",
-      "headline": "Reversal of proteomic aging with exercise—results from the UK biobank and a 12-week intervention study | npj Aging - nature.com",
-      "source": "nature.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXZklfQ0trSTJkR3dqM0lBS215b2RaMC1hRWNUQ3QzWXdpSW5rLUZTQ3M2NWF5Q1REVHRVdW1iUWtCQmczZHBTamdEbWUwbUxrdWU3OFpja21ZNXctMnhZ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2025-12-22",
-      "headline": "A Common Ancestry-Specific Sodium Channel Variant Increases Susceptibility to Drug-Induced QTc Prolongation: Evidence From a Large Biobank - American Heart Association Journals",
-      "source": "American Heart Association Journals",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uRXdCZ3QyNlpKMXU3RFJ5aExlWTJHNUdXNThzTEV3dHd1WjQyNGV1S3BTdmpBSFVXemlLeFRuS0lha1FnZTZCNjhwNXMwcE01WHdVaUJvNzVjQTB3TXZrVV9iYVFnT1FZZU82RElTMnlyTzQ?oc=5",
-      "category": "News"
     }
   ]
 }
