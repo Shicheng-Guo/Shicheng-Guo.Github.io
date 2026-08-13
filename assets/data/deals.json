@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T07:49:36+00:00",
+  "generated": "2026-08-13T07:50:47+00:00",
   "deals": [
     {
       "date": "2026-08-12",
@@ -9,6 +9,39 @@
       "type": "M&A",
       "value": "$1.1 Bn",
       "area": "Infectious",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-12",
+      "headline": "Alfasigma Expands Presence in Europe with Acquisition of Nordic Pharma, Maker of Lacrifill Canalicular Gel - eyewire.news",
+      "source": "eyewire.news",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeHR2SThBVk9MTkd3emtzcUp2enJRakZjQWpibjlPMVNCNDFWNEFRUnlmdlppUnB3d0gxaVVfbFBnb2k0MHdfNzBuNXJCZ1RzXzlZcmVfU1hoWlBVTHpnd0xSbFd4TnF3eXRJX2FMSUFyOFd3M0g4blM2azg3RUxkN25DX3YwTFpmNnBRdnhOWk9FT2thQk5pMXJjYmYtQmp0azJmdFdiSlhJWHRIbDhUZmw2c1hFRVBBV3lobXVtM2FXNWxYSEFjWE1kNA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-12",
+      "headline": "The Netherlands: Alfasigma expanding specialty care portfolio and presence in Europe with acquisition of Nordic Group BV - Investors in Healthcare",
+      "source": "Investors in Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNR0hid0JsaHhkOWRiSDdCR0xlTjQzYXBrSlk3ekdPcjNJVFpPRFB3ZmZsVmFzZzZTWHFoZU9uSzhhV0cwY0tfRmJhMHgtemVvdkFWWFB1LThtUUFmbk9WZTNPMmNLdHVfR3R2QkpTeFBjT2RJS0RvOUtNN3M4Q3RwWHdGOU5RdDNkU3oxSjFLUlJ0UkhUMXUyUnpvVG5JbUg3ZXRUQ2RZWXlrbm10THJVUUhzVUx0a1hHWVFac0F3Q2lYRUgtWEVxYnFSV2NxZjJrTHZ5ajZLUnhsSkNaS2RscW5VR01TNTM1Q2lQbG5fZHBKaWtNRFE3WV9Td0FHTWNHeXh2TTBoV2lZNDJVV2c?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-12",
+      "headline": "Zydus' subsidiary inks optional licensing agreement with Mereo BioPharma for rare respiratory drug - pharma.economictimes.indiatimes.com",
+      "source": "pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVnQ0YWxwWHl1MDBWa1FKYUhSQ1I0d1lQNUx1c2xCOWlUaGFmNENMNlZ4YTBrUENFaFJCdmczVEFaUDlzdWQxWS1UZjNDVllENlctS1VxY3JrZm42VFJGTFJVMDVuczhMczNMdzJjMlFtUnJrSnZEWlF3b3VLalhBNkhLbXgtRmxJNmRKVHUyUDJablMyUWltdU1wcXFTQzlfM2g3QU4tcmRSLXFWVjZDcFVxZjJhTGRHTWZEdlhKS1VucG00QmYtR2lpSmkxN19xZHAyM0lwZUJObGZPRl95ZXZSMmlFYmlpaWNEVF9LbmFGVW5RRWZrLWJtdmFSbVRpVUHSAYcCQVVfeXFMTWh3Rm5OODVNVzBweHczbGNldV9SdG5nZ3M5ZVR3eV9nN0J2UjZxQzl5aUZsTlhUSVBldWRBYXd0T1djUlUzLVI0dU9YYXdBLWRvNFRzNUFHdzRCVFFDa1VsWWhIM2dJcl9rSWViUlA0MzQtOE9ycWdKRjZuOGlqVXNfVUNabmJ3SGRXc0R1NXR3WTJfbVpuQURWNDRwaFpOYlNXblJEVWJLVFEyMGttWE5BWG5mX1VuRnR2Y0ZmeW9aRUw0SHRCT1pWblZORkkxajBXbGcxNGdESXQxWFc3T1dIOU16M2JtUHItdlZyMmVIc01lSEl4RmFtbUpNdTlVWG1heUR1bUk?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Respiratory",
       "modality": "",
       "stage": ""
     },
@@ -1224,8 +1257,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "Italy's Angelini Pharma completes $4.1 billion state-backed takeover of Catalyst - Reuters",
-      "source": "Reuters",
+      "headline": "Italy's Angelini Pharma completes $4.1 billion state-backed takeover of Catalyst - reuters.com",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ29qMzlwa0tfWU4xVHlvOThYSnZYNFhmbk0xcVZiVUZicWl5OXpITm5xaHBRMng2aDZrbmg2U3NMa1lkT0VLUnlJR2FtVVRoX1QybWhJTDRRUlFXblM0QUEzZmhyRnRFLXBnWmxPdzc2aVBhOUpjR2ZtOHo0ZWM0T0FadGhrbDB1eDI2VXdRYXItWDB1VjhzVWdxR21pMTEzQ25MUU11RDRaR0NyOWpZYkFBOFYtWUVLSWxCRlpLMWp1di1Jel9LT1Bn?oc=5",
       "type": "M&A",
       "value": "$4.1 billion",
@@ -1741,8 +1774,8 @@
     },
     {
       "date": "2026-07-08",
-      "headline": "14 Takeover Target Stocks to Buy as M&A Boom Hits Wall Street - Barron's",
-      "source": "Barron's",
+      "headline": "14 Takeover Target Stocks to Buy as M&A Boom Hits Wall Street - barrons.com",
+      "source": "barrons.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaUpXYkxBSDU4UzNWRDRrTWozbmYxTXBaZml1X1ljT2Fud3c3aDFLRXR5a1EyVm5lUnFuNFAxQm15ckdXMW9BdGZwTDJfaTBOVDRpdDhEbURjdFBDUXRUS1drZGhqaHprOTRjaDcxT2Q5YWVzRjJFeU4tV0IzQ1FRbw?oc=5",
       "type": "M&A",
       "value": "",
@@ -2544,8 +2577,8 @@
     },
     {
       "date": "2026-06-29",
-      "headline": "French biotech company Ipsen to buy Kartos Therapeutics for $450 million - Reuters",
-      "source": "Reuters",
+      "headline": "French biotech company Ipsen to buy Kartos Therapeutics for $450 million - reuters.com",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2IxaFRzWXJfQ2hrMVVVY2puS2VZX3A4UXFJNWJmNjhTYVNKODB4RzZXNXV3RmdPRGtEbWlfcHptUk80d2kyNEJvQ1k3NkVub05fUmVZVkk5WmE4OXVUYjVSVG5RUmFyTkFPQkpILVVrTUtaX3p5aWpPRXdBNjN4bWQtUlpKMjViSm5Ld0Jwa2xlLTRQV0tXQllCN3RQYWExWW92UDZ6eklOeE9WV1E?oc=5",
       "type": "M&A",
       "value": "$450 million",
@@ -2555,8 +2588,8 @@
     },
     {
       "date": "2026-06-29",
-      "headline": "UK-based Scancell bids to buy Nasdaq-listed Neuphoria to ‘increase profile’ with US investors - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "UK-based Scancell bids to buy Nasdaq-listed Neuphoria to ‘increase profile’ with US investors - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWpCa1lIdjVrNjN3cWo2Q2FqWGhHellwWm1ONVplYVhFVU9SY01EeGc1Mk9ZNlZIc3ZEMS1ZcTJISVU5bHlnRXZiV0pvSklWSzJUbnQtRlV6eHRYQVFtV01uTFlFWEVaWVRBODJWemktakR0WFdqNS1TQjdKYkNyOW8yQUdpd0pHVFFaZXI1TDh6a0NOdUVsdTNSMG1MbF9nYm9OX3hyNkdFYTNNS0xLc1F3cFA?oc=5",
       "type": "M&A",
       "value": "",
@@ -2715,39 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-25",
-      "headline": "Eli Lilly signs new partnership deal with China's Abbisko - medwatch.com",
-      "source": "medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhZEJrdkh6YlZUWk90bERibXpKdTY2UUlFXzZNZUlKTWFWMHRZcVR1TmRxS3hMT3k1WVFuSUdUb3loaFRldTlUOTI1N3IyLVVHa3ZVNlRwYTRqN0ZEeGRLY21LNUxneTlCTFdRT3hlTQ?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-25",
-      "headline": "Germany's Merck to buy Bio-Techne for $11.3 billion - Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzVJTGI4eE9fUV83enRwanE5cUhTZmd3VXFqYi1xNnFNZmxzSUJSa19fd1c3U1BrYjNVcmo5WlVYMUozeU8xZmxzdFZJTzdUREc1NG1yalNYUktQUGZ2MlBlSFMwT3dSY09ZbmtFUEJGUDRBMWxCbl9lekNSRFgweG9pbk4?oc=5",
-      "type": "M&A",
-      "value": "$11.3 billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-24",
-      "headline": "Honasa Consumer expands into nutraceuticals with 58% acquisition of Fluence Pharma - Exchange4Media",
-      "source": "Exchange4Media",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTjN6eG01MGc2Sml2WF93dG9uVVFubkZacU5JcjQwa05yMWVrek1CUkZMVTkwWHR3Zjk1UC1aZlFXQ3FsdU1KdFNUd2xwWmEway1YdGFpLV8yYUdPUXhad19URFVpSnBBOFU2RmQxZFBWbDUycThOcjRnSlk0bGhjY2lMdUZNT094YjN3NExHNTYyZlZOUjZMTG5HcmpRSWNkNUVrcXVhZFh1YXo0RVpiT19Jd1c2NEcyYmo5U09sQkJsbXFPcHpSRGdob0t4RnFaZ0xVcXdB?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
