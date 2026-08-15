@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T08:02:37+00:00",
+  "generated": "2026-08-15T07:17:23+00:00",
   "trials": [
     {
       "date": "2026-08-14",
@@ -8,6 +8,61 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1pKZjY0LVRiYjBiVVhZLUxaSURkTmV2NHlwMWhfanEtVFBqakZ3SjlXM21hYWVNc3U1bGJQWlRMSHYtTUg5aXAxQjFsVHA4VEpmRHpBaDdCc04zS1lORjFCU0F2N3lBcDZrVWZTX00xSHpybXIyRnVWZW05bFhGVWlGOTdNNmtiNkVRaFVVWWJSWW9sb2xZbGJuYXRjWjUxU2FpRG1qWVA5RkNrbUF3U0paSnRLdFVRRHc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-14",
+      "headline": "BioVie Phase 2b Parkinson’s Trial Meets Primary Endpoint - Minichart",
+      "source": "Minichart",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTnRyQzQwU0V2Sk5fcmtfVG1KVkpIZDh4TEtTdGpDWWxBVzdXd3VfSFhrd2FUSU1zVy1DNHIzYlBLWjEzS2hhenpuUk90T3ZWOGNTT1hNUnd0eDN0QUNKRVhxZlFqeUpEOEpVSWRJNUZBT2ZreFllSWNfazc2YUZtMWRIdGswcXIyVXIyUTNLTmN6QWM1RHZkQ3VFTWI?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 2",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-14",
+      "headline": "MapLight dims preclinical programs to make phase 3-ready schizophrenia drug shine brighter - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVnYzUG9DNEVhQ1pmV002ZFkzTHpRanFRQUZQTG52YnFCUDVJYXZnQlh1b0hBR19qS2sycnlMQUxEczZxREp0VG5mUnhXaW04b3IwZ1JVMmQ5U3VXSmdOQWtra3RfU3BNLWpTMjEyVkRpSE1UN25yTDhESFJ1alZxV0puZGZ4LVphejVqVHdiUkJZSkh2SlJDcTBOVTAxeE1xcGtPVHphclhhX1JvSTJyV2FHcDV2SGZHMFZB?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-14",
+      "headline": "Definium Therapeutics' Voyage Trial Success Reshapes Valuation Debate for Anxiety Drug - finance.biggo.com",
+      "source": "finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pS3U1MFlJSGlNZ3VhOWxtN05MVUYxanQ5dXZLTVp6am05bEhZY19nNXlaYzhqNi1UWWJqVENBcG5YMHVKaEZFUUhLVXl4dk1VQkdON0NrSnBsWXlfWDlhVjVtaGc4STNxR3hMZ242QzFzRnNSLXc?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-14",
+      "headline": "ArkBio’s RSV Antiviral Drug Ziresovir Receives FDA Approval for Phase II Clinical Trial - The AI Journal",
+      "source": "The AI Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWC1hZnNXQnFkR1Z2WHNwRW5TRE1RNXF0OW9WajBseXhERVBESjdZQ3BGU0R5QUlia29UT0llY2hPX3RPVDA4UG9ZMVo0V1JNMlJhLVpRUVRtajZUSVRyM2t2dzJ6cF9tazU5UnplQXRGczV4VW5XZDQ3YmtQdzdMbjdfdS1VbGFRVFBDeC1zcUItU3R2X0lfcE40b040RHNiOVR6NjZUWnRaMVk?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-14",
+      "headline": "ArkBio's RSV Antiviral Drug Ziresovir Receives FDA Approval for Phase II Clinical Trial - The Manila Times",
+      "source": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlRON1J3WGJTYmZrakJmLVhFOXkxbHAtMC1ZRnA3eU45bjAyZE4tMFhUaWI1Vk1lV0JTR1hoaWt1ZlotRWpnU0NhUDJtMDc3SkxFSU1maGRVS19sWG9URUhJd2U4MW5YSnVQeWUta2k2WXdZNWkzOVhQQThVTDJCY0c5dm1seU9RcUdQa0xTZVVHS2dmdzBXRWVHSEtXeEgxRVVZdVVVLWZRM3p2RldZYm9GWHF6SWhCZVJlNG1BMFliTU9xaG4zbHFmWEdYNnNyNG9FeEswbUVCZXhzNDB2U25DTnYweHR4T0JwYmZFd9IB9AFBVV95cUxOZjJRMlJJMHVBbUItaFhVelVQUFoyUXQ0cEp3VnZfZlo1WGdJMWh3SXdmUUVxWUp1YkxoS2V5VUx2dlRnamFBR2Z2TFNVNUhSUkVvSDk2LWprcUpiendzRmNRdHNMbHQtMWhNVUMxTXViYXF4b0FzX0tIWnlyVm4xeU1HM0xONXpiVDNYM0RxWWFuUlg4TnBfRnZTX214Vk5wMzZ4MGJCQ3lLR0F3SkhPbHVaWU1CdWp2WmRid255MjRSM1lxSFJtUTFxbXM2QXNPSmN6WTVqVmFWSU1MZ0JKdnFrV0FOeEUyajlteUU4NUdOQVdx?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
       "significance": "",
       "target": "",
       "moa": ""
@@ -91,8 +146,8 @@
     },
     {
       "date": "2026-08-12",
-      "headline": "Definium Therapeutics Announces Positive Topline Results from Phase 3 Voyage Study of DT120 ODT in Generalized Anxiety Disorder - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Definium Therapeutics Announces Positive Topline Results from Phase 3 Voyage Study of DT120 ODT in Generalized Anxiety Disorder - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnBQeTVscjI3bG9DdFlvT2p0anRJVkl2Q1JZVzFGUTcxUHl0N2psdWhTdXk4a21kSE80c3lvM3A5Y0I1THNMVlFTZUpFclBKbXg1X2tpNG5JYV9lM1A2bW1EcW5oVGt1WjA4ajV3Z1Jodmc5QkplVzBsZHFCeXg0WmtHMzM1d29PSnN3ZEp1LVp6VlRXY2plUThkMkNNc2xscG50NjhWSDlOOTVPNkE?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -146,8 +201,8 @@
     },
     {
       "date": "2026-08-12",
-      "headline": "Definium Therapeutics shares surge after positive Phase 3 anxiety trial results - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Definium Therapeutics shares surge after positive Phase 3 anxiety trial results - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmpYSEFEOE5lLTk1X3JJV29xQmtkem5sVUIyM3cxMlQteXA4UWV5LUFqREVtM0xXcTIydFczSVUtS1kxaEFaLUozNHVkNTNDM2hjUU9laFhRUU5YQzJ1aTlpNkJVLUFUb3BOc25tcHE5Ykp0YWk3YjFkc2o2cmVtSktYVTNrNUNRbENjbElWR3NuVGM2RUNSOHRUaGw4NFIxZWxJODU2bw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -465,8 +520,8 @@
     },
     {
       "date": "2026-08-10",
-      "headline": "Chapel Hill drug developer's stock plunges 90% after trial setback - The Business Journals",
-      "source": "The Business Journals",
+      "headline": "Chapel Hill drug developer's stock plunges 90% after trial setback - bizjournals.com",
+      "source": "bizjournals.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQakNrMEtfanFwSmVuWmh5MU9aREFfUGIxVjMxRDVvMWRHZ1lOQVJ1VEl0V1J5QngxVE0zY0MtQ3FmOFdFRUFnaTA0dGJRdnEzdVZUY2JPRldWd29rR1BiWFVqZzVYZENKUTUxblpCYVY0LTZzNUdnMUh4S1NqWXp3X2RpNFdVeHpuREoyVlp1bkRxcUd4OHZ4d3JWNFBUT19scWIyNE5WNE0?oc=5",
       "outcome": "Failed",
       "phase": "",
@@ -553,8 +608,8 @@
     },
     {
       "date": "2026-08-10",
-      "headline": "AbCellera Announces Positive Top-Line Phase 2 Clinical Trial Results for ABCL635, Demonstrating Significant Reduction in Frequency and Severity of Vasomotor Symptoms and a Favorable Tolerability Profile - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "AbCellera Announces Positive Top-Line Phase 2 Clinical Trial Results for ABCL635, Demonstrating Significant Reduction in Frequency and Severity of Vasomotor Symptoms and a Favorable Tolerability Profile - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUxwdkp2UGx3aDVnNHdaemQwMzMzcEQ2VEQ0emZsLWRPaTMzR1JURUFUNHFaYUlHM2dhcjBKMEFQN1lwZDQweEJpVlN3TzBqSkJTeVZlMnYxQzNtUWo1STU1UGMzWHlZSmx2T3lsUFc2Z0hrR1VZVXoxUXVSYVI2TG1TaEE2RUwtVGNPblA1eTExbmFCRUFmeFpTUVRYM28?oc=5",
       "outcome": "Success",
       "phase": "Phase 2",
@@ -938,8 +993,8 @@
     },
     {
       "date": "2026-08-01",
-      "headline": "Novo Nordisk's Failed Heart Drug Trial Deepens a Season of Setbacks - AD HOC NEWS",
-      "source": "AD HOC NEWS",
+      "headline": "Novo Nordisk's Failed Heart Drug Trial Deepens a Season of Setbacks - ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkluSlFQVWtvTkZLdm5sYy1TVklRa201eXIwZGZkeEFtVGpUZzQ0NGhRU2hlLVJwVm1hR3oteENyNkdKYXhsNHZNZnNZYm5MUldKNGNnSmszZnpNQktqM2ZWRDdINElvYWlVeFhpUG5kdFI0YzJTY2E0alVKN0RKTzhMcVhuLVpZTlJSU1gwcW45dnJzV05EbnRIbXFRMm5tRDlXNTBaNXdOaXJ6aTYxLXQ2Y0dpY1lrYmotR2hhYzEzVGYtOHZsdUpZS1htWkN3b0x5ZGxn?oc=5",
       "outcome": "Failed",
       "phase": "",
@@ -1455,8 +1510,8 @@
     },
     {
       "date": "2026-07-27",
-      "headline": "MapLight’s schizophrenia pill remains in Cobenfy’s shadow after mixed Phase 2 readout - biospace.com",
-      "source": "biospace.com",
+      "headline": "MapLight’s schizophrenia pill remains in Cobenfy’s shadow after mixed Phase 2 readout - BioSpace",
+      "source": "BioSpace",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWmdzbnlOX3ZJQU05Nm5xWHBZS0RHVklxU1Jid1FyM3JQVlBZR2ZNR0FhRFVXbFRJenBWMnRXOFRZdl90bDJOd1RXNzFzNnZhV1VZUG9ReTJKSUxya285NDhOQ3VEUGN1S1AwZXR5S1dFbm9fWUdSQ0c5TnlROGt1MEVIMk9Uc25ON1E5ZmlaeDJLOHYyZV9iNEtPNGs0c29KUXB0WFNnc2ZhVXlBZk5nZVBEaThYTmtfMlEzRWJFTmZoWmM?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
@@ -1950,8 +2005,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "LB Pharmaceuticals Announces Accelerated Timing of Topline Results from the Phase 3 NOVA-2 Trial of LB-102 in Schizophrenia - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "LB Pharmaceuticals Announces Accelerated Timing of Topline Results from the Phase 3 NOVA-2 Trial of LB-102 in Schizophrenia - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajhESjFzRFI3Y3JCMlhQRTMyZHZZSVBEbTZ2RGdvVUtoSFdEZkRhcXlqTnVaVWl0ek1xVGhBb1lEME5lc1Q3TTZNVm15d1lqY2YzVl94UnlJQ2pCOHkyZGdLdGRUNmFacG5mS1lEcmYzOXJ1bDJUcDB0bnhNc3liSl9KTG1kakZtR1BJTHJKaUtKelczR2dKazUyeHZOc1oyYnFwRzZUSVpySVNh?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2434,8 +2489,8 @@
     },
     {
       "date": "2026-07-15",
-      "headline": "Veradermics’ Oral VDPHL01 Delivers Positive Study ‘207’ Phase 2 Clinical Trial Results in Female Pattern Hair Loss Ahead of Upcoming Phase 2/3 Study ‘306’ Readout - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "Veradermics’ Oral VDPHL01 Delivers Positive Study ‘207’ Phase 2 Clinical Trial Results in Female Pattern Hair Loss Ahead of Upcoming Phase 2/3 Study ‘306’ Readout - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzdDa3NVREFmeHZhY2Y2SlJrUkxKYjBacTBKNGdrdDRibzJqRkRMeW5FRnJHSXhueWJTeEJwYmpQck1WWER5dTRSV195Zmc5YmhnZG9kUUNrcEdoUndfZUlIcFJfWUU0TEdRWmdBQ1NNcFUtNHl4MGZxcG1udk5YNjlkam1FcElpT2c4dThUbGpDNU83NDRtZWZRRzduc3hmSlZpcy13?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2/3",
@@ -2693,61 +2748,6 @@
       "outcome": "Readout",
       "phase": "",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-13",
-      "headline": "Promising early results from Alzheimer's trial targeting tau - UCL | University College London",
-      "source": "UCL | University College London",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3JDR3BnazgyT3h2M0VaTkNoaFlSZ1M1X0FiNE56eTJTQVhuaWJ4V2JLc3VZcGFBZFJWRUp3OGZLeDc4aGRHcy1JaTFwMTdockFlMFZXemRtYnllbThJRVdIQm1LcXVreUNPMkZYZmx4NDB5bXZGZDNFOWs4N1hMR2l2WHhkdnM5RVV6R0ZVa3pEeEdn?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "tau",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-12",
-      "headline": "Ondine Biomedical Says Topline Results From Lantern Phase 3 Study Expected Within Six Weeks - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeEU1QmdxdlVoZXphSlRvemdQT0x1dk9EQWItdHlfTTNURDdZVWY0bTFHM0hySmxSMHIxVnAyVW5VZ3IzUGtOU1ExemwtVER0NVQ3RllobE9taVQzZ1VGMjZFbEdvR3FRcXRQN0U0TWRSRjhfYk12dzZHNVUxRUhEeWs4LUFQdl9xdDlhTmEzUTlPVzl4OUFRalpfT1lQMTN1XzVHdDk4d1NpcEI1dVh0ajVxZFBxUWdTa09aT2JlUUdDRWpJZDdsVmJ1S2FpbE55MkhSd2pNcEtHQjdqSFlpOGFRVWd0VkRxY21kbW9odUY4S0E?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-12",
-      "headline": "Helus Pharma rated speculative Buy ahead of key Phase 3 trial results in 2026 for depression drug HLP003. - Pluang",
-      "source": "Pluang",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcjZ2ODZrdGttREJYTy0xZ1BnbXk2SmZUdUdraVZOQ2JBbE4tT1Bfd2Z5N0dJU29uSDFaY19UZXJzaHZZOVN4eUdOVWpjaHhkMGNuamR1M0xsNmc4R0p3UGtrcElvSkotRkh2ZWRaNDlod0k0UHZnLWN4MjhLdkNiTjNyLXo3LVZjTThpU0dqdU5zdw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-11",
-      "headline": "Novo Nordisk's denecimig (Mim8) demonstrated positive results in long term safety and efficacy in phase 3 hemophilia A FRONTIER extension study at ISTH 2026 - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPVVBRX253RGdBZW9FRXN5TEZnR1UyM09PSXF5ejRvZGZoRGl2azQxVHp5N0lZbWFTRF9HQ0RCeVVWTnRyQmVJR2M1M2kwdkJHQWhqdERLekN3R3UzTW1JdWNWS1hBM3F0UmluT2s3cWcwZ0REcm9TdHNIMGJsNk9pT3haeGhnemo1ZjM1SldmdlF3VmQwaXJxMXkyTWg1Y1pIS3RCMjg2Szc4VmtLOFJiZGtlQUJqR3ZsajAwN0NSNDZmVzFlZktnUlg5QU9CcTZjajNEYnJlYkVMNnpqZkFkQkZIV05WQXlMalRwLWdiSDdfMHBaOFJsRVljSEpxcDJfQU83dlJSYWxFWVdacE5ISEFpbm5kQWFIT21UdnBTanhHZVI4d2RfelN4b2JmQUlTN0Zj?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-10",
-      "headline": "AbobotulinumtoxinA Meets Primary End Points in Phase 3 Program for Both Episodic and Chronic Migraine - NeurologyLive",
-      "source": "NeurologyLive",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjlhN2g2OVREb1Vwa2I5Mm5MV0s2Z1BiU3BYdHhmVFhWTnl2eEk0MG1JY2NkU2F1WHFucVE0VmgzLWkyTzB5eVZxZkllRUFCZGc4REdwTTA4czZBRktrcnA5dVZYcG1wV24tNk1PcHk4YkY1ZVBJU0h3T1Y2YTk3YjZlMUpCNGJ5VEZzMXJXVExSTEZMN2MtUE9WTGJyM296c3NmaUMzbUtJaW5vcUVKNFFQVzVVeDY1aDN6cmU1bmtBcjQ?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
       "target": "",
       "moa": ""
     }
