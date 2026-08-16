@@ -1,6 +1,17 @@
 {
-  "generated": "2026-08-15T07:17:23+00:00",
+  "generated": "2026-08-16T07:18:55+00:00",
   "trials": [
+    {
+      "date": "2026-08-15",
+      "headline": "SLS Stock Hits Over 3-Year High As AML Drug Trial Nears Final Readout — Wall Street Sees 30% More Upside - Stocktwits",
+      "source": "Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVWMwMW1Xb0N2ZHJXdWg5LUlucjVGNHFFUk1sX0hkeGtEOWIwbnNlQUxIc183VkRfX19GY3M4OXk2VzhQdEMxZ3FiMlBuREJHYTV1VEpuS0lKaFJkTVlYSmpycXhSM0YxNkhUMnN4ZmJZbmJtTWdFZEFBeDlTZFJjYjBTMV8tcHh1OThsclc0RVhxV3FTTTRJU1lWcURWcDN3ZGVyakp1MDFQVjJNeE1MZWpaYldSUS1oZnA0RHhmWTZ4d0lvTzE0VUxsLWxWR19IMFhrX3ppUmhIUQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-08-14",
       "headline": "Definium’s Psychedelic Anxiety Drug DT120 Moves Closer to the Mainstream With a Phase 3 Win - geneonline.com",
@@ -61,6 +72,17 @@
       "headline": "ArkBio's RSV Antiviral Drug Ziresovir Receives FDA Approval for Phase II Clinical Trial - The Manila Times",
       "source": "The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZlRON1J3WGJTYmZrakJmLVhFOXkxbHAtMC1ZRnA3eU45bjAyZE4tMFhUaWI1Vk1lV0JTR1hoaWt1ZlotRWpnU0NhUDJtMDc3SkxFSU1maGRVS19sWG9URUhJd2U4MW5YSnVQeWUta2k2WXdZNWkzOVhQQThVTDJCY0c5dm1seU9RcUdQa0xTZVVHS2dmdzBXRWVHSEtXeEgxRVVZdVVVLWZRM3p2RldZYm9GWHF6SWhCZVJlNG1BMFliTU9xaG4zbHFmWEdYNnNyNG9FeEswbUVCZXhzNDB2U25DTnYweHR4T0JwYmZFd9IB9AFBVV95cUxOZjJRMlJJMHVBbUItaFhVelVQUFoyUXQ0cEp3VnZfZlo1WGdJMWh3SXdmUUVxWUp1YkxoS2V5VUx2dlRnamFBR2Z2TFNVNUhSUkVvSDk2LWprcUpiendzRmNRdHNMbHQtMWhNVUMxTXViYXF4b0FzX0tIWnlyVm4xeU1HM0xONXpiVDNYM0RxWWFuUlg4TnBfRnZTX214Vk5wMzZ4MGJCQ3lLR0F3SkhPbHVaWU1CdWp2WmRid255MjRSM1lxSFJtUTFxbXM2QXNPSmN6WTVqVmFWSU1MZ0JKdnFrV0FOeEUyajlteUU4NUdOQVdx?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-14",
+      "headline": "ArkBio's RSV Antiviral Drug Ziresovir Receives FDA Approval for Phase II Clinical Trial - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV3h1T2U0MURNdy1QckhqSzZEcC1iNDF6ZWNsNTVONUhpczlsdlk3X1hUYWhNdzkwUTBhWm1JV1dkZ0pzTGxBUDRseDRVSlhiS0p0RXpYX0lVRFhRalNIQmRCdkhCS0ZaYWowR0M2d2xoOWlMOHhLLWl2T09nRHdhNnRWR05fRlNMWERZazdxQ0c4X2xUZkh2Q0Z0WlUzdWE5MmJxQ21odkxlYXgxMENSRmVJNGE3R0VqOW1uQThoWTBDZUlkT055YUpZdWcycllIQUlkTG1DMW5WZw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
       "significance": "",
@@ -157,8 +179,8 @@
     },
     {
       "date": "2026-08-12",
-      "headline": "DT120 (Lysergide) Shows Rapid, Lasting Relief for Generalized Anxiety in Phase 3 Trial - Psychiatric Times",
-      "source": "Psychiatric Times",
+      "headline": "DT120 (Lysergide) Shows Rapid, Lasting Relief for Generalized Anxiety in Phase 3 Trial - psychiatrictimes.com",
+      "source": "psychiatrictimes.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbTNmTkJFNWNYTjI5eEU5RE1rdTY2WVF0dXoyOXVLa0p1Vk9rRE1jbFJFQ1VObVRTSFNwaXpSc2hPbWhmSkdndXhrb3QxYV9VbjJvcExlSlhkclFQckdTZHlaUW9WV3c0MlA0QjlhS0pEZFJseUEwYXZySkdZNl95a1RSaWlvMlZuMXZRaGRNTGFKSE9TaHE0ektiVFMwV3lJWlVnMTZPRUVsQmljT3l1VG51UlJ5S1h3Wk1ZYnFR?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -278,8 +300,8 @@
     },
     {
       "date": "2026-08-12",
-      "headline": "Definium’s LSD asset beats analyst expectations in Phase 3 anxiety readout - BioSpace",
-      "source": "BioSpace",
+      "headline": "Definium’s LSD asset beats analyst expectations in Phase 3 anxiety readout - biospace.com",
+      "source": "biospace.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3ZpdXVNMFhoT2pOcFpERklpcEd0SktKYnJvRWZSTUkwdGQ0a1dsLVBTbnF2SUtsdk1uekpwUlNnS0Joa1pxQWZoSUp0ak42VUlHNWhFWktDVmNiSklxTHV6dGx4Yl8wbE5KRDFpRkZ4NkxnODQ4YUU4TVJCVjQzUENNMk5HaDQ0MmFfblJWcHlhZmxRU0FjNFlvcUZGMFREcFhidXJEUGxkUkN6ZEdZRDhySmRDUQ?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -520,8 +542,8 @@
     },
     {
       "date": "2026-08-10",
-      "headline": "Chapel Hill drug developer's stock plunges 90% after trial setback - bizjournals.com",
-      "source": "bizjournals.com",
+      "headline": "Chapel Hill drug developer's stock plunges 90% after trial setback - The Business Journals",
+      "source": "The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQakNrMEtfanFwSmVuWmh5MU9aREFfUGIxVjMxRDVvMWRHZ1lOQVJ1VEl0V1J5QngxVE0zY0MtQ3FmOFdFRUFnaTA0dGJRdnEzdVZUY2JPRldWd29rR1BiWFVqZzVYZENKUTUxblpCYVY0LTZzNUdnMUh4S1NqWXp3X2RpNFdVeHpuREoyVlp1bkRxcUd4OHZ4d3JWNFBUT19scWIyNE5WNE0?oc=5",
       "outcome": "Failed",
       "phase": "",
@@ -1477,8 +1499,8 @@
     },
     {
       "date": "2026-07-27",
-      "headline": "Phase 2 Topline Results From ZEPHYR Trial: ML-007C-MA for the Treatment of Schizophrenia - Psychiatric Times",
-      "source": "Psychiatric Times",
+      "headline": "Phase 2 Topline Results From ZEPHYR Trial: ML-007C-MA for the Treatment of Schizophrenia - psychiatrictimes.com",
+      "source": "psychiatrictimes.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaURoamR5VU5nbW5CM0VrVFYyUW85MzhRVjBzRHRTeldRbGRTX292MS1kZFJlWmlRaWQwZ3d3Vm85MlFBM2dnZ3BLLWZabTBkR2hVNnh1RVhPY1R5b2tuTlJzUlJBeThJVlRBMWdDclNGSFNDcG55S1VVVUFwUi1Oai0xUmZFeUk4M3VpOGgzTzRSTzg3STZDVU56c2FVZWRMUTZzclRPb3lQQzRtaDNUUXdkNEUydEdFd25RVWVLY0VDeUk?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
@@ -1807,8 +1829,8 @@
     },
     {
       "date": "2026-07-23",
-      "headline": "Lilly preps FDA run for ‘triple-G’ weight loss drug with Phase 3 data - BioSpace",
-      "source": "BioSpace",
+      "headline": "Lilly preps FDA run for ‘triple-G’ weight loss drug with Phase 3 data - biospace.com",
+      "source": "biospace.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXNIMkFWQ0xoTG5oOWpMbU5BaWIxRFZySEdwajE5dzI4emNkRnRCQjhHTHNibE9mRUVLNzQ4NWhYbmhocld4M3c5aHBLSWZiMUZ4OHdfZmFWYTlqdWE1cl9kalkxWC1neWlzLWNyQjlTVjRlVGRrTFNkTU1tWnczcmNXdU1JXzVJVHNKcEhJMllscFhTVkJ1dkFBOVc5bXJtaDJGQUxnT2g0bHhPbVE?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -2723,28 +2745,6 @@
       "headline": "Q32 Bio Announces Positive 36-Week Topline Results from Part B of the SIGNAL-AA Clinical Trial of Bempikibart in Alopecia Areata - PR Newswire",
       "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ0pPcTM1eGFJbURnaGEtNGQ4S3RNSDVFdU1yYkRxUzAwREpyci1CWmdZbmNaRzdwM0VWempmUVhmQVRxTHpoUG4wV1djOFdfQVl6QzUwaC1XYVM4Vm1CWTZNdC02QnZFTEJERDBmak50NFVucUktM2NrU2dqZ0FWSHZZRWgyWVZXeFpEVHNlVzVER1RaQm9xT2xrMnV5SUVKblNSNzZSMGFIeDNrbjdCTUNSZlRZODJUbFZPODBoQlR6ZHNpOFdwWExlOF9vZ25ydkNsX2ctZHBkMFZudGZIbGNHeFhSMkJNcmlUd3JsRFZwLTlGZHZLNDNhNTFNNGs2RzFoS0tDT2J2cjM3cDNIaWVR?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-13",
-      "headline": "Bempikibart in AA Phase 2a Part B Trial Achieves Positive 36-Week Topline Results - The Dermatology Digest",
-      "source": "The Dermatology Digest",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclpHWExsVzUtZUJJUVQzU3Fnbnd3UlI5SElIZE1ib2QyZVgtT1BLdHhYMDhIeVlTcWlrSHdBS2M4YTc4TFkxblhrbnRKTVFnUXJMRVExNlQ5bDV3OGc3WFg1WXh0WTBZSTJtMkhEMTR6elRvVzkyT3JqTE9kQ3ppMFphbjdlVW04VVprbmNacUdHb0YzMV92dmFvYkNhdFhqUFVENWVoeFAzOTcw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-13",
-      "headline": "Q32 Bio Announces Positive 36-Week Topline Results from Part B of the SIGNAL-AA Clinical Trial of Bempikibart in Alopecia Areata - finance.yahoo.com",
-      "source": "finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdm5MM0xEbHdaVUo4TDFYSWhlTTBSVW44T3ZmQzNwRDQzYm95dTBaTHRPdnhVRU02N1BjNVBDWnI4bWxPUEVZaU1Ic3M4RGUwd0ZUcDFKa1g1NXlSb3ROdG1wLW5pZFJMUUlfei1CUUFGY0NIdDFLS3QzU3dPcFVEYjlDcERXOWlncFIybnF6dy1Lb0JZ?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
