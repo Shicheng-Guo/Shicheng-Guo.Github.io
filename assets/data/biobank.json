@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T08:01:44+00:00",
+  "generated": "2026-08-16T08:02:13+00:00",
   "items": [
     {
       "date": "2026-08-14",
@@ -17,8 +17,8 @@
     },
     {
       "date": "2026-08-14",
-      "headline": "Accelerating Precision Medicine with the \"Innovative Biobank\" - 아시아경제",
-      "source": "아시아경제",
+      "headline": "Accelerating Precision Medicine with the \"Innovative Biobank\" - asiae.co.kr",
+      "source": "asiae.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0dFk0Z0tWYWxJdTlkQTJVZ3c0MDFXTF9BamtIVC1yUExURGlwQmpyNEh2b3dnZG9VbzJZdVlKX1h6al9kQVE2eFVzcHJvRXozckRrR21Vd0RaQVZJWGo0djlkMmU?oc=5",
       "category": "News"
     },
@@ -28,6 +28,13 @@
       "source": "Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkhHM0podG1hNkJMVnBIRmNvSUFDMHJiQ2ozOHNfRUszZjJpVFJhRkk4V1ZsbFVRd295MG4wQ0tBdW1NZ0hWS3AwSWpVWlBVeHhnSFJ4Nmt2NS1zY3hEdWhmaEZnWkNFOGtqeGo0eDVGdmlieGlzZUtXUHpTY3djaUs2d2k5QVZVMUltTlNpVWt2eERFRzN5NWxUaEVyOFhWVW5reG5JQnZWMXB5NXgw?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-08-13",
+      "headline": "Adherence to the Eatwell Guide and associations with markers of adiposity: a prospective analysis within the UK Biobank cohort - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzY3BOWV9ULXF3VnpNSnRDSW9FZlh5SlRZVzl4c3M4NUZwS1YtaFZXekdNNHhiZk1LM3RMcVZOeHpOMXE4ZnI3N2paQWFGSmFFQlFXbXlvUnlCSWpvZUw4?oc=5",
+      "category": "Research"
     },
     {
       "date": "2026-08-12",
@@ -101,8 +108,8 @@
     },
     {
       "date": "2026-08-05",
-      "headline": "Largest Patient-Derived Organoid Biobank Maps Cancer Gene Dependencies - insideprecisionmedicine.com",
-      "source": "insideprecisionmedicine.com",
+      "headline": "Largest Patient-Derived Organoid Biobank Maps Cancer Gene Dependencies - Inside Precision Medicine",
+      "source": "Inside Precision Medicine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkpoQm1lTENMekZtS3lWaXpBeUpLMXRWVnRfeEU3TmFTMC1hUDBleG5UR2xtNG1mVUNyUEhfX3NvWDBYUkNLWFRfckp2RjdCZGhUZVRzYzRWakxSRXpBZ1c4UnpqaVBublJCS0paZEc3OTJrNVcyamVIWUFrSmZ5U0JRQ21Gdnk1V2gzaTV4dTNKSXdFRUZuOExtQlVoTnh2cDFYX0podlk4RU5RSHJUbUNpbDRWbGNPU21yYlF5djlieUtORGc?oc=5",
       "category": "News"
     },
@@ -122,9 +129,16 @@
     },
     {
       "date": "2026-08-05",
-      "headline": "A tumour-derived organoid biobank maps cancer gene dependencies - pubmed.ncbi.nlm.nih.gov",
-      "source": "pubmed.ncbi.nlm.nih.gov",
+      "headline": "A tumour-derived organoid biobank maps cancer gene dependencies - National Institutes of Health (NIH) | (.gov)",
+      "source": "National Institutes of Health (NIH) | (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3UjhidUlyUG5lLVN1ZzlWN0hCQkFUVDNOZ0c4RXMxRnl4dFZMWVloUVpHNFVQYjR1LUNVcEZIX3BMRW03RE8zVWxHWi1ZU2EwbjZN?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-05",
+      "headline": "New biobank of tumor models reveals cancers' weak spots - Medical Xpress",
+      "source": "Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3puaXozZmtvQ0xkTWlLdXNxSndoM244Nm9WVktsZ0l0V3p3MUxuNkxEM05oS3RjZUU3VTVwblZyMVNKZnBvcnltT1BrbUsxLUF4R1c0cEpWVWJaQkNmV29PUms0dlZzbVdXX0RsYU9DZDUwNFBZaW9BWVNvWHR3X2ZlbEI?oc=5",
       "category": "News"
     },
     {
@@ -283,8 +297,8 @@
     },
     {
       "date": "2026-07-10",
-      "headline": "UK Biobank Breach Sparks Data Security Debate - medscape.com",
-      "source": "medscape.com",
+      "headline": "UK Biobank Breach Sparks Data Security Debate - Medscape",
+      "source": "Medscape",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEc1eHNBckVYN2JtYzlkOXFCTlgzbmNta3dvUVZKa25aTFJxUnJfWkJRZEdKbjdRMkpzY3hrTUVtbDZCbERuWDV6RjZZY0J5TF9sSmdwNFRDOUU5SlpVOTVSbzd2N0Fpc1lDUzFfZmxLeDlvMEVfMmFhOVNuNHJBZE5qTnFmM3NDczRsb2NFeU13TkVTVXJmV3JhWQ?oc=5",
       "category": "News"
     },
@@ -353,8 +367,8 @@
     },
     {
       "date": "2026-07-05",
-      "headline": "NIH’s All of Us Research Program is now the largest integrated genomics and health database in the world - Florida Hospital News and Healthcare Report",
-      "source": "Florida Hospital News and Healthcare Report",
+      "headline": "NIH’s All of Us Research Program is now the largest integrated genomics and health database in the world - southfloridahospitalnews.com",
+      "source": "southfloridahospitalnews.com",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm1lOXNZbnprQ0JLT29KQW41NzVhWW1jUmsyakZFQ1JIVFBDUHB0UE1fX3NzSEF2dFgtM2NTT0d4NUxuMDdFcHhPa1p1SFhUSmZNSnRKSTZ1dTRFQ24tbHVzeHptTXVBODdqQXEtQmZuOEQwZ0hRbUZoNmxKbnBuYzE4TkRRTW9pVU5VM2JPbU9pYTgyM0VsMnBnOVRxelRxZktsWElwQVdiUTVuc010TmxRY3RZcEpGa1ZOTVJhYWJJUTZ4YkVzRWF1RlVvRVRzYkNmUkRUbks?oc=5",
       "category": "News"
     },
@@ -643,6 +657,13 @@
       "headline": "Landmark UK Biobank epigenetics study will reveal impact of genes and environment on health - University of Exeter News",
       "source": "University of Exeter News",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNam5rWFFCZHlWNFpBT3E4T2FfWm0zSEw0VmFRTjRJQkkwOVEzbEp5RFhJcXVaZDVCLWhtcldGakJwVU5KS3JGVzZLdWNTWlFobGhCdHFMTzNWZnNzeFJGQ1piNXF3eExOQ2twZ2cwSUlEc19kampSLUZoOXhrNFk0UXhNYnBPTTYtUlktX2laUy1hZ3dhZ1BDZHBMbEhRQk8tOU02XzZnZW5fSkhrZ0VnbUQ1RkNFd3JUS0RrQ0FGTDRfM2tsdW15STRqYjVwN3NscmNOcWVVRTF3bEd2bnh5eDhRTGNJaWlpOVE?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-06-10",
+      "headline": "Epilepsy and incident cardiovascular disease: A prospective UK Biobank cohort study - National Institutes of Health (NIH) | (.gov)",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pUnp5UEFldFFreTZqQXQtZGZybm1VZGUzTTRmVnpsLUZMSDFQekZnbDctY2NELVFONVlWZFpwbkZuSXVnY0lBb05BV3hqUjBUbnh3?oc=5",
       "category": "Research"
     },
     {
@@ -1011,8 +1032,8 @@
     },
     {
       "date": "2026-04-29",
-      "headline": "China races to build record biobank to rival U.S. drugs research - The Japan Times",
-      "source": "The Japan Times",
+      "headline": "China races to build record biobank to rival U.S. drugs research - japantimes.co.jp",
+      "source": "japantimes.co.jp",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOHloVlFrRkdRRjgyVWl3U3U4VEJxSzd3d1c5cXNsdUZERmJDVTkzTHZEOVNBYjh3RXR5U0VTSml4QmVVT244Uk5GSUZZVWdoZXAweUhLUVZ5TmVRb2hJc1A5QWxLRDVDbmN6MUNxeDVVVVVPVUMyclhtOUNfUlZnY0xVcy1Xb1g3UlREQzI5SQ?oc=5",
       "category": "News"
     },
@@ -1108,6 +1129,13 @@
       "category": "News"
     },
     {
+      "date": "2026-04-27",
+      "headline": "UK Biobank takes steps after data listed for sale in China - Progress Educational Trust",
+      "source": "Progress Educational Trust",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjRodS1yODF6b0NrY19vbjRleVNOeW9ULTVoaDBxTFZrbmpiQ09ZSlJ1dTBBVmlmNzZjSU5JSzhGaFlPR0FpdFh3bGNTMnN3Q1hGbnQ5N2NEdDBiTFgyVDZvUXc5X2RaYXA2TFFNQjJjSWltU2ZfRmRmUnFudjJHYWxuSE5VRHhVTjMwNUhCazc?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-04-26",
       "headline": "Access suspended to UK Biobank as data found for sale on a Chinese website - thepharmacist.co.uk",
       "source": "thepharmacist.co.uk",
@@ -1151,8 +1179,8 @@
     },
     {
       "date": "2026-04-24",
-      "headline": "UK Biobank says security checks not imposed because of ‘harms’ to research - ft.com",
-      "source": "ft.com",
+      "headline": "UK Biobank says security checks not imposed because of ‘harms’ to research - Financial Times",
+      "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFVuYkpqYmhtdU8tSm1NTWxyamEwOVo3UlYzZjgzS0gzQlFCalhnUnREM0E4OWpfRnZwOUlTUkpVa0U0RnlvdUJDTlAyTU1rMjZzWGJ0ZERRR3dIRGFxcDZfcDAzWDdZQWVxVEsxbVFmeVc2SDZ0REdfeV9DME5NRWcxeUk?oc=5",
       "category": "News"
     },
@@ -1585,8 +1613,8 @@
     },
     {
       "date": "2026-04-09",
-      "headline": "Seer to Apply Deep Proteomics Tech to Singapore Population Cohort Study - genengnews.com",
-      "source": "genengnews.com",
+      "headline": "Seer to Apply Deep Proteomics Tech to Singapore Population Cohort Study - Genetic Engineering and Biotechnology News",
+      "source": "Genetic Engineering and Biotechnology News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWs3Q1JIbHJGMlRNMzY5YXpEd1ZhOHplc0hySDZvbUF3dFNUcmpJRDMteHpvalhaRVFlVTB0M3JUcENGUWtId3BycEp1aVhMRTJob210QXlUem5NaUVwdmRmZ2t5Wm1yQlJJN1lZTUdleFNxaG0tcGNJQlAxWFhxRnN6TkxJUlJGcXN2STRjZ25UQ0VISFhrUjJ2aUl0RUF5NTVES1VDNE5uT1drR1AtN2ZR?oc=5",
       "category": "Research"
     },
@@ -1676,8 +1704,8 @@
     },
     {
       "date": "2026-04-01",
-      "headline": "Traces of Parenthood but Not Pregnancy Loss in UK Biobank Structural Brain MRI Data - pubmed.ncbi.nlm.nih.gov",
-      "source": "pubmed.ncbi.nlm.nih.gov",
+      "headline": "Traces of Parenthood but Not Pregnancy Loss in UK Biobank Structural Brain MRI Data - National Institutes of Health (NIH) | (.gov)",
+      "source": "National Institutes of Health (NIH) | (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZER1WmxqOFB2YUF2M19XQVB2dkkzclFsZW9ONWc0QUJEYjNZa2xncWZzMllpeVVkbUJLTk9rVDh1bnlzV1lUZ3RIOUpJX09TdFpR?oc=5",
       "category": "News"
     },
@@ -1711,8 +1739,8 @@
     },
     {
       "date": "2026-03-25",
-      "headline": "NIH Shifts Funding Strategy; U.K. Biobank Data Exposed; Autism Therapy Racket? - MedPage Today",
-      "source": "MedPage Today",
+      "headline": "NIH Shifts Funding Strategy; U.K. Biobank Data Exposed; Autism Therapy Racket? - medpagetoday.com",
+      "source": "medpagetoday.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMnZramx1WjdfU1BISUVGZzQyZy1LTzdnc2hMZll0MHJjSjB6eVZ3cENtdzM1YWI0dWpTMWVxLWs2LWFyX0h6bWxyM2dxeG5JYVZpdEZBSHV0X1ZBNkJSSjBIMVFLRG5kamVSYQ?oc=5",
       "category": "Funding/Deal"
     },
@@ -1781,8 +1809,8 @@
     },
     {
       "date": "2026-03-16",
-      "headline": "Med Op-Ed: TAVR Safety Signal, Limits of Famed Biobank, & More - medscape.com",
-      "source": "medscape.com",
+      "headline": "Med Op-Ed: TAVR Safety Signal, Limits of Famed Biobank, & More - Medscape",
+      "source": "Medscape",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXRQcGtFQWxKTlZIdEM4LVlmNWFBcFFqMVJRZnNNT09jN1dSTTB2b2VjUG43MlAtU1Z5R2NjWHBnUldlWlNmTTlFQzRrYWtsMGt4ZXVITGdoOWhIX1pDTXlzRjZDbXRkSFJGSzlFVVpuNi03a21vdU5hckpYZ1piYUlaTHEteTJVdHA3aC1xMVNrX0tKNVNjVF84Z244OXpPejIzdWhpcw?oc=5",
       "category": "News"
     },
@@ -1858,8 +1886,8 @@
     },
     {
       "date": "2026-03-04",
-      "headline": "Derry company 'LifeCellsNI' raises £590k to establish Northern Ireland’s first HTA-Licensed Stem Cell Biobank - derryjournal.com",
-      "source": "derryjournal.com",
+      "headline": "Derry company 'LifeCellsNI' raises £590k to establish Northern Ireland’s first HTA-Licensed Stem Cell Biobank - Derry Journal",
+      "source": "Derry Journal",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYWFoXzJBTzRIbTlEQ2IwQ2g2MWJSb2FBcmxuaWNXSnJlRUF5UTk1QUpWa3NhamNxOTBBenhWNHFpd0ZQOVNFeWgzSlhzRXVLbEJXNkhEb2xkcnZMWUlIdFpnUmFXbkczWTR2YjFsV1hILTdUSVRxMnF2Q2JDcGtvbjhtbjVZWHk4QXFkb2tuUDFiaWpFZlBBZWlPSE5rZnBJWWE5a2drcWhfa1pDbkx6OWgyR0FHMEstUlEyblJmSmFjTGR0X0ZuSXlaSDRVLVhBMVVyVkZVSUhnSFpNcmVoalNtZUszcGZqdldIdQ?oc=5",
       "category": "Funding/Deal"
     },
@@ -1914,8 +1942,8 @@
     },
     {
       "date": "2026-02-18",
-      "headline": "ISTA scientists develop algorithm to address biobank data retrieval & analysis challenge [IMAGE] - eurekalert.org",
-      "source": "eurekalert.org",
+      "headline": "ISTA scientists develop algorithm to address biobank data retrieval & analysis challenge [IMAGE] - EurekAlert!",
+      "source": "EurekAlert!",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vU3pEa1M5U09EUkdoa3psVFZPdDJJbU9HOVl4c2pyOG9VckZMVGF5TXNwMVZBYlJIcVdYRmVSMEU5MTM1Ql9jdldBdXhMeGs1eDRrdkc4MWU?oc=5",
       "category": "Research"
     },
@@ -1991,8 +2019,8 @@
     },
     {
       "date": "2026-02-04",
-      "headline": "Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes - pubmed.ncbi.nlm.nih.gov",
-      "source": "pubmed.ncbi.nlm.nih.gov",
+      "headline": "Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes - National Institutes of Health (NIH) | (.gov)",
+      "source": "National Institutes of Health (NIH) | (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qTWdMaE1HWDh5b2Z4UjBsTG5uTWhtdV9aRjJEYkk5T0lBZUJQSER6ajRoUURKWEpnSVlIX3BhMXp1SlNpRnNNREhPQnNTck9OdmxZ?oc=5",
       "category": "Research"
     },
@@ -2072,34 +2100,6 @@
       "source": "Frontiers",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDRmZjdtVUlmaWZtRVpuRVdoczg3VzVnZDZiM1Zqb3BhV1pjYlNnWFd0YnZBY2NwMkQ0WTMxbFdiRzlDRWJpUzZHdWxPZHVfRnlncE44dTJyTWE4RDI3T1J1dXVpN2xGM0NDMFFBYThwNHlIQWFmY2taR0E2UURnSUp2QVV3bWVGWW1uSzdBMnpSWWlvbnVr?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-01-14",
-      "headline": "Associations of Vestibular Disorders With Risk of All-Cause and Cause-Specific Dementia: A Longitudinal Cohort Study in UK Biobank - Wiley Online Library",
-      "source": "Wiley Online Library",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPSlNwZXlqcjR2aTRKMnU0U09UMGtLUllBWC10LTRtWlJiSERSc1lqQjVHNWQ5Q21RbVhKQ3J3bUtiYUUwcUZ2ZHZWVjVHWmZRMExIX0lZR2xfTFJSZ3lVTXlIRWRUMkxYTWRJ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-01-12",
-      "headline": "Biobank, pharmaceutical, vaccine manufacturing part of Life Sciences Park plan - Guyana Chronicle",
-      "source": "Guyana Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTEo5TnphY3BzY0d6VVlvOEpkZEE4MGlUMXBiYmJXeVNJTzlKS04yS1lGcHU3VzJMZkZicElfRmJkNS05MDdXT2hnTkNsX0d3VVhHcmozTkpQVURjOU81X2pCSXJ5UndEYTA5LWliQWlMaFlJZW1QUFdwSU5QaWVQN1U0T2FnYXBaOUdvN0IxQ04xSjJib0lLQVNYZ0VyQlFGemdreGZmRFZYYmZ1SUQxVlhzZGVDc00?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-01-12",
-      "headline": "MeMed Awarded $2 Million Grant to Establish a First-of-Its-Kind Acute Care Digital and Physical Biobank - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVBlek5sWTFIdkNwMkY5SE8teUdrM09xUWRKMkRFU1pRLTN4NnlYd19vSDVWOTl0V3d4QTBFWnlzYlMwYWVhRllPSVd2NmJkeGFZV3NRVm5WTmMwSFlQS29adzI4blZQa050WlNLblRMZy02Yl8wRzdmYTFLamdUSg?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-01-12",
-      "headline": "MeMed Awarded $2 Million Grant to Establish a First-of-Its-Kind Acute Care Digital and Physical Biobank - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR09fcGpsbmFIYVlxSmJNY0E3ejFrODhQUzJtblBnNVRyMHlhc0NweEhBbTI1dk5LY1FLRkllTDJfWnFNNWVvZnV1OWFMdnlKemhXLXBjNTNsUTl4UjFZWnkzWkVfNm1lc2JnZlJVNThOZlA3M1haVHV1WUVvWjFJb0JOM3FQRWtmbWZGVFdpcHFQazRCcHptVU5pekhjY2Y4cjk2VkhiRHFiclRSMDhvM1pOSXVzaE55OFVYUVFuS1gwMTh1bks5dy1XZDhMbHBsTkYwYU8wWHpVMllsSzdQSlh0MFIybmk0cWhVNmpCdw?oc=5",
-      "category": "Funding/Deal"
     }
   ]
 }
