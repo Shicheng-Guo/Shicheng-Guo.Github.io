@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T07:03:33+00:00",
+  "generated": "2026-08-21T07:05:17+00:00",
   "deals": [
     {
       "date": "2026-08-20",
@@ -18,6 +18,50 @@
       "source": "Indian Pharma Post",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXNxTWRuUWp1Qkp6LUwxSWQ4QW5yYWVVc0owZ2xXelpZWGRfQjFFLVBUOWl3QXNUVVppTEx1VHhDajBHdG5UZXFIWDB1WXkxUGVmLWZUQ1dIWEhLNHlIdUVhVE5temoyNmJOa0MwTU5KRkU5UlhiYzZKZkJlOGNFZWZsVzNQa2VBbVhvNVNsVjRFSWdTRGxjMlNMckx4c1Q0V20zMUxQV3RMUWg2ejEtWUFKclpNZ1JILWthWmg2M3JmTENYc3c40gHOAUFVX3lxTE8tclFHVlVCLXN6SER0b3Bsdnd0aDQtMmktdHZsT0FMVzVsdjl1blVyaGN5Y290LTFWV1BCeGl4bDZRTFhPSVhxMnVLcjk2a0xWSU85QU41M1lxOEdRMVhOdkxtVy1ILU83Nm1SenBDZk9jN3FYVjdnREdOdVdwU041Z2c3bVdZNUJCTWNFLThZbUpCc2hRR3ZjNWphdml6MXhBR2UtQWFEOEhPZTMtSWxTSzRaVnZfd3RQMWszeUxRanQwOTBQOFZweEVhV2Zn?oc=5",
       "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-20",
+      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
+      "source": "Generics and Biosimilars Initiative",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFY5d3ptSTZGUGVRRjJkSlVlR25pbXVHQUE1cDUtUGVzREp1NEd3bUNUeG1GOTFXeU54OHA2X3pmRE5vYzFyaHJZRHQyME11SEdtNnlwNXNzWUotYzZNYUJFNmgyRVV1TWYwc04yY01UV1Uya0dIVF85OGZLRWQyNUVtNEpnSktRWWFRZHdMUlBOUjF4LWZnNTMyYkJuM1hlMmN4T1dXS2lmWDltazNGYmlnaw?oc=5",
+      "type": "M&A",
+      "value": "$11.75bn",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-20",
+      "headline": "BioMarin bets big on rare bone disease with $275m Alesta acquisition - BioXconomy",
+      "source": "BioXconomy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQTRXS0xtMGdtdnVqXzlrb1JXeXpOZlpYYk1xWldUV0pVaDVHVnM2YmVmLWg3MTBDTzI5YnlILU41d2pkU1lVRHAtRkgxU0ZTVVI0NUFsZmRkbThwemo2WG91Nm5xQ09tVmxZQkY5VXNnc2c0TVFKVmZ1TGp1Wk9rU1BGQVlnR1hhRnl5d1BBalFqZkdtakdoWk9jZ21PemdLdkJnWFhRbUF3LUJEWExrYg?oc=5",
+      "type": "M&A",
+      "value": "$275m",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-20",
+      "headline": "UroGen Pharma inks licensing deal with IntraGel Therapeutics - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNME1XVzZZTTh3WjJ0SnRXUk9MdmlONU9zWlJXUFZBdjFibl9tQjVqdWxOZnlJUVJmVHdIV1R5YUtNdkJGVHlBOG90MFJ2dFhkWnF3Z0JCRHZBeXVtWk9na3VVbjdTM2M2WnhDUTE0bzF6UDByTWd6cE1hS2NfckYtMkowaFJBcUUzeWhGQUhVcThjQmlWSFZHb2V5LXIwMXQwQklKS3Z5SDA?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-20",
+      "headline": "WuXi Bio to offload chromatography unit; Cabaletta names another CDMO partner",
+      "source": "",
+      "link": "https://endpoints.news/wuxi-bio-to-offload-chromatography-unit-cabaletta-names-another-cdmo-partner/",
+      "type": "Partnership",
       "value": "",
       "area": "",
       "modality": "",
@@ -244,9 +288,31 @@
       "stage": ""
     },
     {
+      "date": "2026-08-18",
+      "headline": "Piramal Pharma Limited Completes Acquisition of Controlling Stake in Yapan Bio Private Limited - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV29XWmFndVp5clQySEtOZ0xVMHNYNmZyOU9VaDB3ZFZ0U1lHeEJOMXJEVkk5R3hqWjR4TXdqM0NsMjhUR1NyQ3BxbkNJeUNqb0tfamN1WWl0bTcxaVAycnpHWU9JUkQ3MHBDUzRrVndpOUs5YnZ4RUtOdUQ5N3RFSmZDcTRPZDkxblp5OVVqMmR5eHcybF9aV2JJNnFXQjAyZ2pxZ3YxLWY2TWZVN2hfM00ydGhQUTRSV3ZvclQxZGpfZlI4blNMMGtiVFFJakxXZzVDWl9uRlhWaWZYQl94UnNrNFM?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-18",
+      "headline": "LEO Pharma Further Strengthens Late-Stage Pipeline With the Acquisition of Dersimelagon - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0pVdnJILThmZTNPN3R6UjVGTzlWVi16eHFmQUIzS2NLTHBkRWFiNFZWNC1DdE9hWldIYm9uZzZGa2RacUx5VU91T20yZ3psZFJCcW1pU25GdFh5NG1YTC1wRXdNUWZXYVJ6TklTamNvQ0liRTJLNFM5Wi00bkJLOTFVQlFELW04dmU4RmtwVktuQzRpTVdyWEh0ZnFnZw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-08-17",
-      "headline": "Sanofi to lay off 229 Blueprint Medicines staffers, close Cambridge offices following acquisition - fiercepharma.com",
-      "source": "fiercepharma.com",
+      "headline": "Sanofi to lay off 229 Blueprint Medicines staffers, close Cambridge offices following acquisition - Fierce Pharma",
+      "source": "Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWpsTVlOcll5U0pVWE1FZ0d1MUp6Ry1NbmxGMzNSWTBnYndORGdFczlrVFN3YUJxNW50TEtGd2pBMExCakQxeWZXSGtSbzExN3RfelNkVHV6Q3lKSmR5am5maXM1MUlmTkwwNUp5MkF6WDBVcGM1UUoyZHJhOHFwd0FLTllXRlZLdUVCeFpad2VMakJjVmRycXNfY2VqOGgtck5QX3FJZ0pMcHEtYWtVay16Y3pOa0xBZ2lMMGdfSQ?oc=5",
       "type": "M&A",
       "value": "",
@@ -261,6 +327,17 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHJIYmZFZUFrOURON01uN1ZTd1hDY0VXMUVZdDFwSGVySzZsTERBX1dwUXFTRTVkWkgyd1JId1kyaUdqVEd0djRSSXM0a2o1RlBrNjl3b1VqaFdDdnpuVXBsbUdSdkJMbmVrc19ucFBYcTF3OXRfRG9XYjF3YmpOXzlBYnlabG05cTdhWHAxUlg?oc=5",
       "type": "M&A",
       "value": "$9.1 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-17",
+      "headline": "Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition - STAT",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWFvZmhnZDhvNG1tVEJVQ0pJM296OVRrNGg1VHBDanlKZVpIM05oT3llR21jUnVUeXlUNi12RDEzVGtIQXhQVlZoRHAwSGd3eDQ5OVNsME5IOW9wTzRwc1lad19nT21QT0lLSmk4MDVJMVpGWGpNRnkxLUtHLXdOSHh3?oc=5",
+      "type": "M&A",
+      "value": "$9.1B",
       "area": "",
       "modality": "",
       "stage": ""
@@ -949,8 +1026,8 @@
     },
     {
       "date": "2026-07-29",
-      "headline": "PROCESSA PHARMACEUTICALS, INC. ANNOUNCES ACQUISITION OF VIDYA THERAPEUTICS, INC. AND APPROXIMATELY $200 MILLION CONCURRENT PRIVATE PLACEMENT TO ADVANCE BTK INHIBITOR, VT-7208, IN MULTIPLE DISEASE AREA - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "PROCESSA PHARMACEUTICALS, INC. ANNOUNCES ACQUISITION OF VIDYA THERAPEUTICS, INC. AND APPROXIMATELY $200 MILLION CONCURRENT PRIVATE PLACEMENT TO ADVANCE BTK INHIBITOR, VT-7208, IN MULTIPLE DISEASE AREA - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVFhNmQyUXByVk03bnZreHYwWVQ1ZnpPNmZJNkxqUVRJalFralVCYmg5NU1CWElrNlpncXh5VGttSm54OFRxNXhKTlFiMFdaQTVYR3RKYVhiX0ZHVGRXd2hlNGdUN0JyYktrNDZVNFBTS3RkRTBKdldMZi00aUdxNGRkT2RGNEJ1eS1VTFVnYURadXJPSjd1RXZNZm1PUE8tbDBZQU9VWlVvU25WUkpIdQ?oc=5",
       "type": "M&A",
       "value": "$200 MILLION",
@@ -1147,8 +1224,8 @@
     },
     {
       "date": "2026-07-24",
-      "headline": "Fierce Pharma Asia—Trump’s generic drug tariffs; Samsung Bio’s $1.8B acquisition; An unusual IPO - fiercepharma.com",
-      "source": "fiercepharma.com",
+      "headline": "Fierce Pharma Asia—Trump’s generic drug tariffs; Samsung Bio’s $1.8B acquisition; An unusual IPO - Fierce Pharma",
+      "source": "Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHNYLXJzNnV4YWpyb2kzMWhQZ2czUmVmYzJvYS02VWZkcU91cm91SmVmUUNtbGhjNE9WbmRnUThoTFR6SUFuTllwTzB5cjRMak9Mb2MxNGQ2a2JFdlVnTGdOcGhpNnpjaWtTVXlvblQ0RnAyajl0b2xkNXZCYjFQR0VyRkY0STJEVURZNktKVVVhS1pjcEd6SXVfc0lyTDJ2bWdKag?oc=5",
       "type": "M&A",
       "value": "$1.8B",
@@ -1389,8 +1466,8 @@
     },
     {
       "date": "2026-07-20",
-      "headline": "Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide - fiercepharma.com",
-      "source": "fiercepharma.com",
+      "headline": "Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide - Fierce Pharma",
+      "source": "Fierce Pharma",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3h6YndhR215T1FJVlZnczFMc3BINmFXN3dFZGtXcWJZY1Z5ZzFOR2pGYzRuYVp4WFk3WkgzZkRhLU5lMjA5YVNIWEt5Z2REMzRUOTJvQ0F3YjZSWDVmTWNPR3NtZ3MxN2xDWm11OFBKN1g2dmZCTndONmZqbUFsai1kNTc5WVU1MEJvMXhZMTc0Rmp3b2piNWtRV0pMZmlnRVZQYURpcksyZldiOXBEMmlHQkN1ejdEMkdibF9zYw?oc=5",
       "type": "M&A",
       "value": "$1.8B",
@@ -2565,6 +2642,17 @@
       "stage": ""
     },
     {
+      "date": "2026-07-02",
+      "headline": "Dongkook Pharm signs $25 mil. licensing deal with Spain's FAES FARMA for BPH drug in Latin America - Korea Biomedical Review",
+      "source": "Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUcTBwcWVhdks3d1VEVUtwei0zdkd1empFUXNydHZLY0lCdnhvR0tRZ3BwdkxWMnZvSFRBVGNRZHlPX1JlTjMtNEZ4cXRMWXR3UGVhN3dYODhFZld5a1lzOHhJRmpZaWtkUFJCaEtn?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-07-01",
       "headline": "Ipsen strikes second buyout in a week with €700M Memo acquisition - FirstWord Pharma",
       "source": "FirstWord Pharma",
@@ -2660,94 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "AUROBINDO PHARMA COMPLETES ACQUISITION OF LANNETT, BOOSTING US GENERICS PLATFORM - ICICI Direct",
-      "source": "ICICI Direct",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNczVab204enhjUVF6VXpvRUg3Z0ROc0JRQkdxZ0VXVTk3aDhMT2FFZGhBMWpQeUpYaHVZSDZjaGZ4SThEOE1zZE8zaGdSWTRfWnVBa05Vb2FJNzU4VE1IQ25nQ0lRZGlZWDJUYkN0S2UyWGRidlFoaVZhQ3JUaUM0STNiMmhxMDhwajlKd001UjVTMkVaYXhxZU1NVlZWZlV2QjI4ZVJaMG1sVGdOSnd6d0dHWEdnSkZaVElkYl96TDluTnh4UWxIc3RYRC1CU250emZ3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "Ipsen to Buy Swiss Biotech Memo in Deal That Could Top $800 Million - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnJXcGRpNFZhUml0d01CbHJya2h3RWNUdnRldDVjUW05SlNNTlFlSGllQlQ3Q1hhSkU4d3o5aFB2VXlSNFh6UHBsTnpmZWNFZnVZcHI1Y0hjbmtPWm5lSHhpQVI0d1N5cUpNYkE0UzlTMTJqWjZJNVU5TFZlSGRVa1ptdHdBVGp0aTZfakdPZFZuZlZzR0R3cHc2Qm11ekxvUmo5VWJkV3FQbHd1akE?oc=5",
-      "type": "M&A",
-      "value": "$800 Million",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "AlzeCure signs out-licensing, collaboration deal worth over $2.2 billion - 1470 & 100.3 WMBD",
-      "source": "1470 & 100.3 WMBD",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUFo0Wkx2UXk5MVNDTWhCVENiSXJmOWVuVDRvZWR5Z1pyUDBzYlp3R0ZZa240d1VuT2Nnd2poR1kyTXhHeXMwa2VqZFFSd29fRVlHZm1ORXBmSkdvVmV1WkpXMGNWRFBZS2V2TFlZbkp2WVQyRDVKXzk5T0plNHZvZzFja2JPR2tqVTRkTl9ROXplZHBKaDVKbmYxS0JZMmsxM252VTdndw?oc=5",
-      "type": "Licensing",
-      "value": "$2.2 billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "SERB Pharmaceuticals Completes Acquisition of European and MENA Rights to Idefirix® (imlifidase) from Hansa Biopharma - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWNNd2QwLU1BREtBU2VQMTNvVUExMXBoSG9lYU1TVnRuOEVjY0JIcW1GV0VaLXYxZkhBZURCSmc2X055UFZaclNqQ3puSDJPWUhuTGJWZVZ0N3FjV0h1RHMydFFoQ1FIUkNNa1Nnb05qRzZndWJaWWVkYXkxd2FQSV9sODltWjRGd0JFMDdvUnNPTzhqR3RCRm1JN3BDa3VvVU5vVVcwX2xheFZsT09DUGxB?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "M c Dermott Will & Schulte advise Pet Being on acquisition of a majority stake in General & Pharma - McDermott Will & Schulte",
-      "source": "McDermott Will & Schulte",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTDZ3UlVKNFNGZXM1czQ1M1QyeHlta3Y5bnE0QW9WZ1lVRTluV1BfOEVPd04xZnQ4N1c4NXQxU0VqOUxjS2RpSE1QWGVncndOZTNncm1fNHlFdTNEWEVyV0NVWllIOENWeFE5cDRNTHR6bE5QdkRPanpJd2lTbnhSVXFfREloMWx4d2lTLUNlR3hrSy1odmFwbFRkd0FDZkRONDl3d1Z3TEJ1Z0VpYWZmNUI1Wi1iZVVyNDRyN19RMXZ5eHdMdUFjYzFR?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "AlzeCure signs out-licensing, collaboration deal worth over $2.2 billion - WTVB",
-      "source": "WTVB",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSWdsT1VlaVVWalJDVVZlWGdoVHNHaEViTFY4N1NpNTAzRC13aGxTSDFZZW9zV0wyUG1lNjZfT3RLV2ZhdUlnVXhXMm9LeTF5aU1LRkFzRjhaTEFFS1MybUZteXhiVFRReVcyRTJ2eU1jOGdMcWd0S3Fob0Nwd1B5eFdGbkJHZlAyUGFFZkhoUjJWZW9lMTk2LUlzcEs4eVFwRTVn?oc=5",
-      "type": "Licensing",
-      "value": "$2.2 billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "GNI Group Completes Acquisition of AYUMI Pharmaceutical - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY3pmMzJEcnpTNWF2Y1E4V08yVVZ1Q1dWb1BDWnRTdEtEMmt6QVRVRGhINHZKS01vQVJEaE83VnYtdEpQZk51aFBpN1U5RGdGNnIyeW1WcU9zV3h3Z2VSaDJXV1VJdlVkc1A1YTd1RDZBd0tJeVBqb1ZTa1JJN0ZQb2NvRll5aFA2V2tCWVpDeExSTHZIMHZSaGVqTTBpV1gyOVlPN0VkMDJmNlpFU3JoQ3VJVmtDOWpvN3k0cmFaaWttRHpyWlE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-06-30",
-      "headline": "Aurobindo Pharma Completes $250M Lannett Acquisition To Boost US Capacity By 4B Doses - Sahi",
-      "source": "Sahi",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVTZ5dUZmR0FPX0xnUzBIZHZwZm54clRqY2pIZVhGdm1MY1ZPeTR6SVpJa0RBOWdEbVVleVYzcERIVFpPdGQtMmNyMlAwSVNjNmJmVXdaR2RBT0loWVBxMm53anVmbFNza1M5R1VDMkFQWWtqYWQ0UjBzUmExNWVyRk5lM2JtRTd3SjBieUk4NkotUU0wSThOVFVwNktfNDlDYVZRLWhMeE9yNUxYUndXT3FCX1c0d1g1Z1dYSE5XNW0?oc=5",
-      "type": "M&A",
-      "value": "$250M",
-      "area": "",
       "modality": "",
       "stage": ""
     }
