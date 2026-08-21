@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-20T08:18:10+00:00",
+  "generated": "2026-08-21T08:20:02+00:00",
   "items": [
+    {
+      "date": "2026-08-21",
+      "headline": "A Biobank of 256 Patient Tumors Was Screened Gene by Gene to Map What Cancers Cannot Survive Without - Medical Daily",
+      "source": "Medical Daily",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVVzU05CSWczVnQzUjVBNGh4SE1KYmJPZkdmblhRTnFaQmtURG10RkpxZlZWVlhBZldqRmVtRk5UcllfcERDWG5rckdxRDZLWmpOLXBnWWtZdWpJQ01tdllyMWVtZjdoRE0tOUd3NGx6cmZvNWdENDdWa0lvVElhclplRGtXSGRPa0h1Sm9Wd0poU2c2b25jSg?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-20",
+      "headline": "ibSLS as a biobank for democratizing access to multi-omics data and biospecimens from spaceflight research - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxNWF6cFBjZzZxb3FLOWJZaU5RMGhLTldhUU9OVWlaVi1DWkNHT09CMFFxODY3VURkV1UtUmxtOGx1a2FoODVwYnZRZUpRa2FPcjllSkY0RlRaM0huSjFz?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-08-17",
       "headline": "Reef Institute Showcases Florida Coral Biobank to Lawmakers Amid Funding Loss - environment coastal & offshore",
@@ -80,8 +94,8 @@
     },
     {
       "date": "2026-08-10",
-      "headline": "Taiwan Biobank planning next research phase - taipeitimes.com",
-      "source": "taipeitimes.com",
+      "headline": "Taiwan Biobank planning next research phase - Taipei Times",
+      "source": "Taipei Times",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kRnBrT1dIYWNYTmJ3Y0dKRE1CbHRSQkE2WVZvQTFCY3h3SVg0Wjl1aEJVclhYMmcxdGE2NnVySUlLa01oXzBBaFhJeHdVUncxbUN5N01RVzJXR1RiVDBNX204VlpFVlJWamppSEtKUTZMc0hwbXNlYTNn?oc=5",
       "category": "News"
     },
@@ -94,8 +108,8 @@
     },
     {
       "date": "2026-08-10",
-      "headline": "Tumour organoid biobank maps gene dependencies in multiple cancers - progress.org.uk",
-      "source": "progress.org.uk",
+      "headline": "Tumour organoid biobank maps gene dependencies in multiple cancers - Progress Educational Trust",
+      "source": "Progress Educational Trust",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMW95MGlEVV9ILTU0YXlUMEhYeEFld21uZ0t4Z3gzNHFtSV9aMVZaX19qUk11VFMyY2RuZENyQTZUbG5VZVdJZk9WSFBCWDJfYno3SUlkSDI4V2pPb1N4cWFJY3B4SVdCUDVqbFpjSExOQ2draWJOeFdDWVYyOTBXQlROQ2wzYzVuUGtpWmJCVzdWdUNiek1vdDdWaw?oc=5",
       "category": "News"
     },
@@ -387,6 +401,13 @@
       "category": "News"
     },
     {
+      "date": "2026-07-06",
+      "headline": "Multimodal classification of mood disorders using structural MRI and polygenic risk scores: a machine learning ablation study in UK Biobank - Frontiers",
+      "source": "Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFBUZC05OGhoXy1ETm15djU5Vjkwc0pGWWtjcmlhbXN6d0ZHU3RKR3cwVHR3TUtmcndSTGI2RkloR2tZelI1YS1BUTMtM1ZBUFpYclVRd3VPOERUZGt4OUo5am1KNFE2clFrb2tmSWh2dTdPSGppRXcxSmo0TzVYTXY2WEtRdktmajNETmp4YkpVUQ?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-07-05",
       "headline": "Gastric Cancer Risk Score Validated in UK Biobank - EMJ",
       "source": "EMJ",
@@ -462,6 +483,13 @@
       "source": "Healthcare IT News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUVTdDYxeHZCSzVuUXpRTmMtbHR0WU5hclN4bldXdmpkUmdzQTkwT0I1QTVSZW1oeFpyUGV1VGFBMi16VG45bjFHZ3RDWS1rSFBzekg3WlFmSENjaUxzdHZoU1JXYmVPOXlzWWZMR0JCMHc4VTJWQVRrTEJqZDRQSDQwaEd1QTRoVUcxSUo3emJVOFktMjBDZjY5ZWJXd05pY2d3?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-07-02",
+      "headline": "NIH’s “All of Us” Milestone: Closing the Data Gap in AI Drug Repurposing - Foley & Lardner LLP",
+      "source": "Foley & Lardner LLP",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnlucEd1ODNDSnUwTFAtZmN0YmlzYzBrRk5GN2NoeWM1dFNYV0VJNkpvNWg3QU92Z3p3TllMVjUzM3N3ZWNzTzJsNjAyZkN2MEhpVHB3U1Z4dW5xYmNfY3FtM21SX2ZSNm9wbS1lUFUwYlJad2ZWYlhpX1V6bWY2VW1ObERjRzNHOC0zRlFlY2ZvLW9kemlBZC03d0Nkd0N1R0lIUTVxY1F5X0ttV0RWLUtTSDlrWExXdzhmQzJB?oc=5",
+      "category": "Technology"
     },
     {
       "date": "2026-07-01",
@@ -819,6 +847,13 @@
       "source": "Wiley & Sons",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIODV6UGhXSWlteVA1TXUyRkdkNV9vYUxWSkxWZGM1Q1FHNXJuQk9DMTZCZGgxRng4WXlmZHd5OV96Rm5jVTNvREY5VExsc3Fzc1FaLVdHMmhZOFhLY3JEQ3JvRUUyREFkSlhDNUN2QVBPOGZr?oc=5",
       "category": "Funding/Deal"
+    },
+    {
+      "date": "2026-05-27",
+      "headline": "Association between frailty and incidence of AMD among middle-aged and older people: evidence from the UK Biobank - Frontiers",
+      "source": "Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHkwV0kybTl1enN0NTFhbFktTXY4cmlCNmxXeUdHTDBudExrdWNMMHJ6VXlVTkZDY182V3hXakczUmNnb1VZcWs0bm9IdVEzXzVRbnRVTWVzVkhZUTFwWkhDaUdNckM3QnRhLVBGdURkRlV0Rnl1UUwyQXlaaDhELUhtQ3RfMGR6RmY4?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-05-25",
@@ -1214,8 +1249,8 @@
     },
     {
       "date": "2026-04-24",
-      "headline": "Health Records of 500,000 UK Biobank Volunteers Listed Online in China - techrepublic.com",
-      "source": "techrepublic.com",
+      "headline": "Health Records of 500,000 UK Biobank Volunteers Listed Online in China - TechRepublic",
+      "source": "TechRepublic",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iU3JPTFFZVXlVZ056X2ZkbnBoUnhoWm9OTzBGbnR6VExYSi10cjhSVTBqdHJQVHphelNRTE5MSnA2WU45Z3VBZVFlb2dTSklVeFNENVR4aU5iY0Fva1ExTlFkb3U1QW1HNWxUNDNIa3Q0VW1qaWg0Yw?oc=5",
       "category": "News"
     },
@@ -1396,8 +1431,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "What is UK Biobank? Medical database that’s a victim of own success - thetimes.com",
-      "source": "thetimes.com",
+      "headline": "What is UK Biobank? Medical database that’s a victim of own success - The Times",
+      "source": "The Times",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0NBdHM0QVJTUWlGa1NTWEZxSDBNa0xmVkVSM05rb0dPT0RHM0lHak9tMVlDYk5fTTVwN1FnUzVtd1NrWU90eWJCZkdmd2FaYlVRaVFIR0NGNk1PbGs0dHNGODhBWU53eGIyQXNkc3ZWWXJBV09oZm5wM2x5d2t6b2F1c3pkcmdYR0NvYQ?oc=5",
       "category": "News"
     },
@@ -1417,8 +1452,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "Call to ban sharing of medical data after UK Biobank breach - thetimes.com",
-      "source": "thetimes.com",
+      "headline": "Call to ban sharing of medical data after UK Biobank breach - The Times",
+      "source": "The Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZ6b1JtN1B5WHVmMmMxb3RPdnN4WG1LRUsxYUQ4Tk1uVHpCT1VwNXNKYnU5QktWa0txbGFtREZwZ0l6YUNkT1p4WWhzSkwtNzUxMFl3OUNDLWE5dGZ4QkNWNTRJdVZHMW50MlhGd2VCc19ud3AxWDZhUm1nc1Ztd3hQdGF6UTUwdnVsQmVvNA?oc=5",
       "category": "News"
     },
@@ -1998,8 +2033,8 @@
     },
     {
       "date": "2026-02-16",
-      "headline": "Decades of medical insight unlocked as UK Biobank gets GP records - thetimes.com",
-      "source": "thetimes.com",
+      "headline": "Decades of medical insight unlocked as UK Biobank gets GP records - The Times",
+      "source": "The Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0xKVzFxSVEzaFZuQWJHRWhack9BbXdQemdvbV94UHlRcGMtUENRTFc0X0lsZFRWdnlPd21Jd1U4MEdmY29ycGNraXJFemtHb1B1cWxFS0RtNnA2bS1ldkJPdDByTVNjTWFIZ1R3SWNTUVBmVENid1RUX0NmQ2lGc2FPYUhTc0h5Y0hPNk9mNVJDVkk?oc=5",
       "category": "News"
     },
@@ -2065,41 +2100,6 @@
       "source": "medRxiv",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05RmNDdmZLZHhLNVJWVUFUbTJKMTBlWmhCTHRfbkxHOVh5a2RPYmNxY2Vkc0ZRbTZ3Ulg1UXlpSlRoemVVSDdFUS1acFotVDJVY2xlSjdaV3ZaYmFPNF9VMG1XbVNCNmJzeGxxQXhYZ090ajdmeTJpdHdFUm4?oc=5",
       "category": "Technology"
-    },
-    {
-      "date": "2026-01-30",
-      "headline": "Cheese consumption and lower cholelithiasis risk a prospective UK biobank study with HDL-C mediation - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nWUhTRHFBQlU5UjlOcDZnZmlSRjJVdkNTU1VPQlUzOTAxZjM4aFBZMTRaZXB5VTd0ZE9CbWNMWHZqbEh2cHRvMkxiOWF6cG9ZQTBfOUoxbzFONDAtSERV?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-01-28",
-      "headline": "Scraps of viral DNA in biobank samples reveal secrets of Epstein–Barr virus - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByWk41bUd4MktNUWdSUzRBQ2RmSkJMUFpNbGhaaUpZcjN3dl93b3QxM3RZMmpoTk9qejU1bXFDY2ZFOGdLQ1h0YzZtak1pZFdWNXV5WFdxcHNuTTczQlAw?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2026-01-28",
-      "headline": "UK Biobank research suggests omega-3 linked to mood disorders - NutraIngredients.com",
-      "source": "NutraIngredients.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXy1xU3lCVUpnMzZLb1FUMEVsai1RcUVIc1RNR1pWZ21oX0ZGSndyRmQ4VnQ4UUMyOENmcFNVek5sNlh2WlNZc0NvNkdJTEZfZFgtbTUwcVhmTHNIUUlYXzBGZEI5cjZ3X3BPMDc4d1lDamFLc0piWlRYWHNxMFJCS25sdXMyaVJmRWZOMkxhZXBzcXVpXzR2Mi1WM2puUkNsdzVnWEZ3XzA3NEVGQmlLX0txc0M?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-01-26",
-      "headline": "Associations of serum lipid traits with DLBCL: a prospective cohort study from the UK Biobank - Frontiers",
-      "source": "Frontiers",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0R4eXNXN3IxbjRqTHJxY2d5T0JSZUFkMHI4dGdYeHRhTjlKUmo2a3pRdUJBalB3QkVJaUxKR1c3VDJhSkZ4SXlxQklSQVhIcXVtZkN2NzZOVmR0ZW5LVFJFQV9VT2JCRkZNenVsN3RSOEVOSEY3czJWYjdQR2k5RGVVZk5idU5ZUEdSeWp1QQ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-01-24",
-      "headline": "Genetic versus Modifiable Risk: Predicting Dementia, Cognition, and Brain Structure in the UK Biobank - medRxiv",
-      "source": "medRxiv",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91TkRLWEJhYWZjam1GTnRmYTFDSkNJYnZHaGNweHdIS3FjRE1DeVlYLThILUg1c1owVndSMzFNT3dOTG9pTk9jWlowcFBCZjVGSnl0b3dZck1QbWZHX1dNd2R6S1ZjRjB4WkRVLUJvZzBCR1MwSXRjTFdCT2s?oc=5",
-      "category": "News"
     }
   ]
 }
