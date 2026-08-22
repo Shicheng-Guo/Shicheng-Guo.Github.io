@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T08:51:42+00:00",
+  "generated": "2026-08-22T08:40:12+00:00",
   "items": [
     {
       "date": "2026-08-19",
@@ -455,6 +455,13 @@
       "source": "ArcticStartup",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aQnoxV2s2TWVHYXI0U2pQZHg5WVNkRzgtV1RqOW5ObkdUUHFkc091c05Sb3NQMTBDbkNYbC0yRDZERVhoSkR1S0JNZEtkcl9oMUdfVDM2Y1RpSTdFSGlRcmVuZ0Jkd9IBZkFVX3lxTE1aQnoxV2s2TWVHYXI0U2pQZHg5WVNkRzgtV1RqOW5ObkdUUHFkc091c05Sb3NQMTBDbkNYbC0yRDZERVhoSkR1S0JNZEtkcl9oMUdfVDM2Y1RpSTdFSGlRcmVuZ0Jkdw?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-07-16",
+      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - Pharma Voice",
+      "source": "Pharma Voice",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYkN1UTF6ODBQNG1McTBaUS1LQllJUUxFbGxCSWhCOHVBanhzSlBGVmJuQkJXRnJKdm02alFLQ0RiZ0hGNERxVER0WnQ3QnMwN1c4NXdBRXZlWHBEeFdiV3JFdTN3WUJzNXF3RWdicm1jd1M0SzdPdEdWcUdELV95aw?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-07-15",
@@ -1185,6 +1192,13 @@
       "category": "Funding"
     },
     {
+      "date": "2026-06-03",
+      "headline": "Still facing copyright lawsuits, AI music generator Suno raises another $400M - TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnF1eDRJMG54ZnI3Tm4yajNDblJxY3dDTGZhRzdqTlFwaFlCVmVuTDVlU1J5emhSdjREcVVVYTk3a19xYlVVNFhLd25lSF8yRk5vb0lPeGVjNkRRbWxGR3J2X3YwV2RTcVpwNTdaN2VFX2JDbEl6OXQzNV9TbDktck5vSERmWFZVMS1iRHd5UjRRUlZfbGxweEdqUzVZbTFXanZEcXlJM0k3anl4RWhF?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-06-02",
       "headline": "New heights for NewLimit as anti-aging biotech nabs $435M to rejuvenate old cells - Fierce Biotech",
       "source": "Fierce Biotech",
@@ -1736,20 +1750,6 @@
       "source": "University of Toronto",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYm1Xd1U5aGRQNDhkTWE1U3pPSDNVWWNiXzBsN1lvRjNVRkZXMVBMUUEwdnlSRFhrdVBvdUxHRmlpT3VPaVJVa2xldjJTZ2dsM0FjVW9BcGtyUnc2cjJ6VWUzc0lYQ0t4N1NmXzEwNng2RW9SallHSWtrOEpOUkI1UWxVMGxrNkdkbDhZQUxvM3ViX2ZOS2hraUhpanh1bEJ0N25GUzhR?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-04-25",
-      "headline": "Isomorphic Labs is putting AI-designed drugs into humans and the results will define a decade - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzByUWR6dEE0S3p2bmxWX2F6TjB4TnJBRlF4eEF4WExrMk1yX3Y3OE9weGk5WTF1WmdYd2R2b2diSDhsS1lOMGtOczdveHpsRE5YMTVJNU5rT2Y3eFV3dVJ1Q2xLQm9SdXZOWS00YWt4ZDJiWk1ETkpYNlBPbV93ODI1UklZOEI0XzRBLXlTLXRjcVRfNTUwUEhJb0VTdEtnSWFhTkFBaEZfWDdORklIekd5TUNQSWxqSFRtcVN3?oc=5",
-      "category": "Breakthrough"
-    },
-    {
-      "date": "2026-04-24",
-      "headline": "The Week’s 10 Biggest Funding Rounds: AI, Autonomy And Biotech Top The Ranks - Crunchbase News",
-      "source": "Crunchbase News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNXBlV09tVXRCdDVINFRNUHBfaU9tRk9WOGRnQlBmTDJDR2F0Y0R6T0NEeGtKeV9JeWtsU2xxN2RlY0J6VTlQSG9hRmxSX2VYMnEzeWpqcWZ4M19WNGtsZEI1NjBVR2lnUDFBZzNUQ2NkRGxHZkktT1hZUy13U1V6U2NqMFBmT2tkUi1SVUdfb3VGYjg?oc=5",
-      "category": "Funding"
     }
   ]
 }
