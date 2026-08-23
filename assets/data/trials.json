@@ -1,6 +1,17 @@
 {
-  "generated": "2026-08-22T07:19:09+00:00",
+  "generated": "2026-08-23T07:20:49+00:00",
   "trials": [
+    {
+      "date": "2026-08-23",
+      "headline": "AI Helped Build a Personalized Cancer Vaccine. It Just Passed Phase 3 - AIM Media House",
+      "source": "AIM Media House",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWF3aElCc1NVTGhEOWdOU1kzTlNZbzZ4ZVhGX1UtdlFYR3hMWjFUdVJLQWJHbzNSX2VOOXM2VU03Z3lJNWlKeDlZVXZUU2xCZUoydFZsYUgteF9xc3lBZEloR3EyYUdqNUh6c05QMFRkT0xzREd4VGQ0em9EdldMcFFPaUJLTEZEU2J4OTFsbGRfRW1SY0NodFVma3FBa1Jkcjg3ODJSa252WWpCYmQ0?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": "Vaccine"
+    },
     {
       "date": "2026-08-21",
       "headline": "65,000 Patients a Year, Zero Approved Drugs, One Phase 3 Trial - The Globe and Mail",
@@ -154,6 +165,28 @@
       "significance": "",
       "target": "",
       "moa": ""
+    },
+    {
+      "date": "2026-08-20",
+      "headline": "EXPERT REACTION: Moderna announce results of Phase 3 trial of personalized mRNA cancer vaccine - Scimex",
+      "source": "Scimex",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUDdPLUJhZkUwdWJEUUZwX0lOSzd2cFZCQVF6UlNPMkJkRU5tZzVQS3ZIZEU3SWs3QU1kMnVKNGxSVlBraFlRNnFNRm8xX1g0SkdiNnAxMFd4S04yYWU5dVRKV0MzMjFKclhZNkdMd0lLTmlkM0ZYbkRPOXZiQmFzMWw1d2lkWktwSU9ETU5CZzNwcFdzMWRjaW5vRTJ6YnZqUEJUQTJlQnZKdW45MVRGcEtKT2tacDJ6a2g2RXRMV1FITDA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": "mRNA"
+    },
+    {
+      "date": "2026-08-20",
+      "headline": "‘Breakthrough’ mRNA cancer drug curbs melanoma in large trial - Canadian Affairs",
+      "source": "Canadian Affairs",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUc1YUpxUVJZb2J6TUZJUmpQdDRsZTVGclFNVTc3eHB0a2FiMlhoVmM1ak9lMzVQZFlvclNvYWltOWdiOFVYQlFzQXBsWWtLVWRCalI3cW9VNzJZR1BiNEpRWDZmVktyRlFwa2NzOXJnVDRuTVgzNXppelZpQ0Z1YWJxU3pQZlktb21seWgwTTdKUGJ2MWJuYmtpMzM5UUVuTzhRdWd6VQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": "mRNA"
     },
     {
       "date": "2026-08-19",
@@ -1641,6 +1674,17 @@
       "moa": ""
     },
     {
+      "date": "2026-08-10",
+      "headline": "Tenax Therapeutics Announces Topline Results from Phase 3 LEVEL Clinical Trial of TNX-103 in Patients with PH-HFpEF - The Manila Times",
+      "source": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaF9wc3Z3SHpPcC1yeS1SSUhPVV9KQUJPb2VodmV6bHhMUWo2ZlpweEtFSlJwVU9oT04yWnQ1MmhmWHVrczRQWnpzN25GT21fUU5Bdzh1OUpJY2ZDdEhwU0hqSlhtaDI5dlc1SGdjOFJIM1czLWxqWFNTbUdhZ252a1ZNdUt0djF0MEc1VWJhSmRteVZMVE5fMEE4SjRlQ3FQM2VlTWN1Yl9hQzVTR2h0aHBTeUt5bGM3V2hiRkxDQ3QtcXFZT2FYRlBSZnhJbzZxUjk3ZkFOdDFCbnZJREw0LUxLLWFZNk16NkJqU2MxZ0djQU9QaFgxUl9aLUhXRHliWGRZTk1mN3hhSklSN1ZYajZDcnM1TmI20gGeAkFVX3lxTE9LSGgzb1gybzRhUy1DdjFYaTNkQzVJY1o5QlM5VDQ0Y0JOYi1TZ1JzV21XSkcwOTBpV3J0SDdWczcteHp0T2V3V1M4THBxM0JNaXhkUkRpNWp0Vy1HUWJtQVpfN190X0Y4MG9hYkJKUzNGQUFOeS1ZT0V2amJLZ2xhQmVvN0JSNGcwVVlXLWFkMVZXdlJQa1dFWVB6VXVJd2pSNWZ1NU9nSFFscEktaUpJekRzTlpuM2xPY2ZNSkdlUXFYSC02WWdMZ0ZXNlUwbXhaNHppNHVPanZpRGV5a2Z5Zms5NUpTSVI1V0g2WHp2R1FPUnZ1WnBCNmc0RWRKeFRHN2VBMkN4dVQ0T3dMYWp1V1FVZmhTTTZRZXVhYnc?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-08-07",
       "headline": "Oral TYK2 Inhibitor Socrodeucitinib Meets Primary Endpoint in Phase 2 Psoriasis Trial - Dermatology Times",
       "source": "Dermatology Times",
@@ -1829,11 +1873,22 @@
     },
     {
       "date": "2026-08-06",
-      "headline": "BioVie’s 12-Week Parkinson’s Trial Showed Gains Beyond Movement Symptoms - stocktitan.net",
-      "source": "stocktitan.net",
+      "headline": "BioVie’s 12-Week Parkinson’s Trial Showed Gains Beyond Movement Symptoms - Stock Titan",
+      "source": "Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLThIS3BhNHRzZnk1S0hQWlRxTEl0RVJNbWhudDJxTlAwdkdrOGk0dzB5ZWZqc1FaaHlaUHJ4Q2lvd2lXYzlOSUsyTGtPbzN6Nk5OczdlcWg1dUNZVDVhN2h4d3BPQjNOQnFkR3JwTnYyMmtaZ2hlZUJHWGJSRE5pYkNfem9tVDFJMGo3N0Q4OTdXaFhyckhncGo0OW42NFZhSTItR04yYy1VcEtUMl94Q3E4bmVkNTNKWUdF?oc=5",
       "outcome": "Readout",
       "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-06",
+      "headline": "BioVie Announces Topline Results of Phase 2 SUNRISE-PD Trial of Bezisterim in Early Parkinson’s Disease - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHI2WkhFY0xhWFpfbE5leU1jVEdUZGxBY19RWXlFaTZJM0RfSjNFVUxpclZYS3VXSnMydnoxajU5Q3FSdmhsUWI2dTdRTjNMaEtiQ2RnUkNpdkdwRkVzTW4xbjRVckJQc1JhWG9Yb1pZTWlsSE9uR2lJelV1aEtsNDg2b0tPUnNMS0ZGMzVZYWNtWGJ4enQ5SUZhTm9SZEx5?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
       "significance": "",
       "target": "",
       "moa": ""
@@ -2219,6 +2274,17 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3BSdnZWYXZKV1hXZXd2aU1LUlc1OVdfM3JObS1jLTdMcUVIQUFUczdOaDN6NzVOblRhMHNwM3M5dVZsaGVPUXF6bVJvcnJGaHBNZ1FISmltTms2bDY4dTIzYkEzX2xGaU5EdVVCRXdQMlNFX0xiYWM2N185NHFaeW5tbndPbUhTWExZaVRDODFabENpVy1EM2Vlb2xIRHBxcjI3aFoxcDItWWJ0amVqbDVn?oc=5",
       "outcome": "Readout",
       "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-07-30",
+      "headline": "Tumor and Organ Dose Estimates from 177Lu-PSMA-617 Therapy in Patients with Metastatic Castration-Resistant Prostate Cancer: Results from the RESIST-PC Phase 2 Trial - Journal of Nuclear Medicine",
+      "source": "Journal of Nuclear Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15cElKM3pqNXJ4bERoRTdDVXNMZHI4VWdaamRraUJ3TlFzd0FHdkdUcFZzYlJXZ1hQenFLYnllM2FHVDBOVUVVX2ljZXBrZFF3NWhuQjVOU3pFMUMtZ21iLTBxeUYtMHYtbWI1OU8tT0VJZHFVaXhzVWlR?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
       "significance": "",
       "target": "",
       "moa": ""
@@ -2684,72 +2750,6 @@
       "significance": "",
       "target": "",
       "moa": "mRNA"
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Actinogen Medical’s Xanamem shows meaningful antidepressant activity in Phase 2 trial - Proactive financial news",
-      "source": "Proactive financial news",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOd2Z3bUVOVGduR3hNaG5NcHI2a3F1cjgwY3Bsd0NTejRBanNDS2lqRENSbVAxaU1pYmxfQVhUSmQzcFFyNDV4QjVpZFh0eXc3VEtieV9pSTEzVTUtT3hFS0tITFdIZHJWOURtbzRJbTcyeEM4T3dEV3l3dnI4dV9Sb1NrQnZEVVJoNkc1aGI0MnZMRmdSQ29NdDBpWDJfQjNDX2lObl9XMWFIcmY3VF92Z0wtc1VJTzVUZ3djTXoxVEVlTkRPTmJvaXU3dWdSLVRDNWRFM1lTRmd0M2Vtdk1MbTF4MXNoMmJaS1hMLVhGM18?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "South Korea accelerates mRNA vaccine push as GC Biopharma seeks phase 2 - CHOSUNBIZ - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWkFQY1VWVmNLVmYtRTg3MUtRSFlMQUliS2R2dHo3MGdpb2xOLXNVOEdteF81QXVrUjk0bE9VRmoyTmZmX2p5d1o4eWU1T3BYcFNBVWxYSy0yX3ljR1dQMHRRa25QTmVBOWwxUlZBeHNlTlRYUExKbnhaNm92Rl92WdIBlAFBVV95cUxPWWZkdTVscm1QdlZWdnh1RHJzbnNTbkNSaTgwRHMwNG0tZm84NF9rc1pxR1Z4aTRhd1pvY0NlclgtZS0wSVdPcUh5VnA0RWxncktMZXBfb2R1QmFxMmdITllIMUxIYXAxRVBpOGJKQ3RrSDFOamZkZWNrMU1jaGU0VTNfYTlEeUp1TFdHYzhJdnltWFo0?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": "mRNA"
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Atsena Gets EMA Orphan Status for ATSN-101 and ATSN-201 - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjI2WUsxMjU1eWhyckJHX24wX1NEX0dkcjNLbC1NdlhiSnd0OV81Q3BZNWh1MkFYbnAzQzVQNFUxM0dLYzh1dXVqZnBtRmlDd1lVTmp6UHF4WTlkaVZ5RS11SV9LdnhiZ2FMTk5LdFY0Q1JUZGI2aGd0R3R4M1RmakFNX0VLMC1idndlamplZE9JOThYMXFJTjdIZUtMZEwt?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Retatrutide Achieved Up to 22.6% Weight Loss in 2 Phase 3 Obesity Trials - Patient Care Online",
-      "source": "Patient Care Online",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHAwWkN5bHVSa2xYd0JjUGhDc2pwdTMzZV9EekZISE5EcXJkV0lRc2tJb1JJdWlIaV9UVmhTUk4zMEFFQUxuQWhyWnR3V0FweGRxd29rSnlxanRfNmFkVlpqb3BZLTlaQkVVMUdBWjBGMUxQeDlrWXpieGFFal9DZDNpRzVKZURQeGo1MDhNN0E5Ry0wQ2M4MWVUUlJ4ckFNR0JNN2g2bkExZHdXM1hZ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Another setback for Ipsen's Albireo portfolio as Bylvay flunks phase 3 trial - Fierce Pharma",
-      "source": "Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVJBWWdDbTFtS2RkRnhMTjQ3c3laX2RpM3pKT0FyYTh2NW9fUlBBR2Y0OEZwYzZxdHMzckYxNlBQZl9yS3FoTjNfTmVqbzVXalVnbjRFdXp3bFZjNDhtR3FQTzhRRUJsb2hJWTBBNUdQQURKeDZxZEF4MmRhUHVuU3FpRl9adGwwa1BneU51dG9yb0NrZWJ4ZTNBNENMN3d2THRXNHlPcw?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-23",
-      "headline": "Zydus receives approval for Phase III trial of Desidustat - scanx.trade",
-      "source": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOcXpDelR1MVJyRWFxN1dKOE9vcVJNT0hJb2pBQk1qQWd3R1BJYnljNG1Pak0wTXJhcjdzY0lZVEZGU2s0SVl2Rlh0TUJzaFBoUEI0XzI5dHNJYXE4bzFpT3dRZWdSM2pLWGNoNGlwMTNhLU0xaDlCLURKbTlSbF9PdWtXMm9uQWx0Nk02aDJTcDg0RkR4d2MxWF9XUWp0MmFmTHdRaWtvLWNMN2kxQlp4V3RXUHlScExHQVRFT0FEZUlHVzFkX1A3eGhQX1BJSUd5Uk4zZ3kxb3k4WWxELW1GeG9WcHVjTnowYUNCd3EyOVNrRWxCRi02TzNjcUdMeHFOcER4QkVlcU1pempoRnVGeHhDTjk?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
     }
   ]
 }
