@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22T08:02:15+00:00",
+  "generated": "2026-08-23T08:02:57+00:00",
   "items": [
     {
       "date": "2026-08-21",
@@ -611,6 +611,13 @@
       "category": "News"
     },
     {
+      "date": "2026-06-24",
+      "headline": "Blood Service Biobank - Veripalvelu",
+      "source": "Veripalvelu",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kdWtVbHhEU296TXVVcVdYTGFCZHhEbzNib1JxUWFhcGNNU1pTdXVIOEFWZHNLTlkxOGthanI0aVJwbUdYTGF1NHVPbEhYNWs?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-06-23",
       "headline": "A living biobank of sarcoma patient-derived cell cultures reveals multi-omic and functional insights that capture disease heterogeneity - Wiley Online Library",
       "source": "Wiley Online Library",
@@ -1206,7 +1213,7 @@
       "category": "News"
     },
     {
-      "date": "2026-04-26",
+      "date": "2026-04-25",
       "headline": "UK Biobank breach is part of a growing threat to medical research - The Observer",
       "source": "The Observer",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVR6b1Z0b0toVnZXOERvZDRwdFQ1b1ZKb3p5bnNpc0hPck4zbTVVTEVoZE9Ia0NTODZTVHd5V25BQzV3X1I4ZmRuNENvU0FaeWZ6QzZ2Z1plZlozaXlkMlc0UlBBcWRzYktrYXl5NjdkMUEtT2F2YnFNd3JidHY3NmtHSHBYQUVDQzc1bEQwREdMZWVoQ1h5X0xnVVVkejRCUS1HcG5qNmJzelR1ckpZ?oc=5",
@@ -1224,6 +1231,13 @@
       "headline": "Arms race to exploit personal data exposed by Biobank breach - The Observer",
       "source": "The Observer",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnlyQTdNSVdjMGdGek82VUh4MkVDOVRaMjRDaTFhZEw3Y1k0LXIyTXFXQkxMbDhxUlZXdWtobkVRd0h6dUJ6blVzMWNMenE5X2VvTTItMzN3RmZSLXRSWHQ3UzgzdnhhMXpZM1ZkOFNIMWliODFVZG16QWFfQVp0TmZwUTV1d2xENzJFMWhrSV9aMnplOEU4NUZNVzR0Mkp1dGZpekk1c24?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-04-25",
+      "headline": "Menopause in the All of Us Research Program: A Descriptive Summary of Electronic Health Record and Survey Response across Sociodemographic Characteristics - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9td0p6TUlKTkg0TEdSRWxIdVk2WWdxOFBscU1PZmhTX0FIdXpCT2t3aFNmRUQ1NzdxM0FCRXpJel9taEZQc2NKT3FpMTJQajNPOXk0ZWpjSl9zU3FGUEU0MWFzNS1nbnBiZ1h6Rkp0MWRSSlJnN0lpM2tBclM?oc=5",
       "category": "News"
     },
     {
@@ -2086,20 +2100,6 @@
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wT0RwWUZyWU9PUXJjYUtTeUQxcjhQWXdRcnlXcXpvY0RkcUhZQlpxeDJMOTh5OXljNkFSY0FhdWxrazB5Ykhub2I1SVRDQW5ZVHlCaUltNFlTZlpEcFJz?oc=5",
       "category": "Research"
-    },
-    {
-      "date": "2026-02-04",
-      "headline": "Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes - National Institutes of Health (NIH) | (.gov)",
-      "source": "National Institutes of Health (NIH) | (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qTWdMaE1HWDh5b2Z4UjBsTG5uTWhtdV9aRjJEYkk5T0lBZUJQSER6ajRoUURKWEpnSVlIX3BhMXp1SlNpRnNNREhPQnNTck9OdmxZ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-02-01",
-      "headline": "Interpretable Lifestyle-Based Machine Learning Models for Ten-Year Cardiovascular Risk Prediction using data from the UK Biobank - medRxiv",
-      "source": "medRxiv",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05RmNDdmZLZHhLNVJWVUFUbTJKMTBlWmhCTHRfbkxHOVh5a2RPYmNxY2Vkc0ZRbTZ3Ulg1UXlpSlRoemVVSDdFUS1acFotVDJVY2xlSjdaV3ZaYmFPNF9VMG1XbVNCNmJzeGxxQXhYZ090ajdmeTJpdHdFUm4?oc=5",
-      "category": "Technology"
     }
   ]
 }
