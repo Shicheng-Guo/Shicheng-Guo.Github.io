@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T08:02:57+00:00",
+  "generated": "2026-08-24T08:28:59+00:00",
   "items": [
     {
       "date": "2026-08-21",
@@ -93,7 +93,7 @@
       "category": "News"
     },
     {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "headline": "Taiwan Biobank planning next research phase - Taipei Times",
       "source": "Taipei Times",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kRnBrT1dIYWNYTmJ3Y0dKRE1CbHRSQkE2WVZvQTFCY3h3SVg0Wjl1aEJVclhYMmcxdGE2NnVySUlLa01oXzBBaFhJeHdVUncxbUN5N01RVzJXR1RiVDBNX204VlpFVlJWamppSEtKUTZMc0hwbXNlYTNn?oc=5",
@@ -287,6 +287,13 @@
       "source": "Progress Educational Trust",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzZyTDNnTTNTRVpnRU04YTdHZHRnOTlGcmxsSkNPemJic19DNXRpYS1EbXg0d19OaEdiUGpKQlEtUnhsX0U2WnFDQzlJbjBmRERSOEdma0lPNGMtN2VsMHFWQ1RLZGpmX1FwSlZKNHkyRXNnRGdLbWV0N0d3VkVIRHhUYw?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-07-17",
+      "headline": "Sarcopenia and Its Associated Metabolic Profile Predict Incident Heart Failure: A Prospective Cohort Study of 267 335 Adults in the UK Biobank - American Heart Association Journals",
+      "source": "American Heart Association Journals",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KQUJrZ09xX2NFdk1JODNGT3BhTGh5WS1Db0g2MXpicUY4MFNmV19oOGI4OVBjaDhmcXhmclBwUWdQV3lKdXRURkt2YTlMSDBjaU9sVk5tOWhVY0oyOWRfVzBVbWdLV01ZZHR2bg?oc=5",
+      "category": "Research"
     },
     {
       "date": "2026-07-16",
@@ -892,8 +899,8 @@
     },
     {
       "date": "2026-05-20",
-      "headline": "K-Biobank to Release Genetic Data From 170,000 Koreans in H2 2024 - 동아사이언스",
-      "source": "동아사이언스",
+      "headline": "K-Biobank to Release Genetic Data From 170,000 Koreans in H2 2024 - DongA Science",
+      "source": "DongA Science",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FaXBSY1RFNG1xRkFac1p5TUdhaGEwNl83aGtmTklQcmlSM1JTcVdieUlUWTFTWFpsWmU1c2xKalA1NTlBT085eTl3ZFNsSXZzTVM1aQ?oc=5",
       "category": "Data/Cohort"
     },
@@ -1172,8 +1179,8 @@
     },
     {
       "date": "2026-04-27",
-      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "headline": "China Races to Build Record Biobank to Rival US Drugs Research - Bloomberg",
+      "source": "Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHVSdXBxcUdzNmhndkN4djFGRUYtQVFQYm92eFFkMDJtdVZEUnBqRU9SN0cyU0pQRXhXbDJ4TWZQd1d4UURIV3ROVVdxeklXNjBjaGpib1dNTXJpWjk4Q3VyTU1oSm40Rl90TFBpQjdLLTdrdzR6bXBKN2JYdFo1cDY1T2xQWlk4OXdNZWtKcDBMUTVLeFk4eWJXWGlsLVRQTWo1aDdXYXd6ck9WdkFhWWd0SU5RZUs2TGh0RV9vRQ?oc=5",
       "category": "News"
     },
@@ -1371,6 +1378,13 @@
       "headline": "News - UK Biobank data breach exposes health records of 500,000 volunteers online - teiss",
       "source": "teiss",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWdJdVNQRzRTX3dTNFN4WmNka01zX1htWWU5SUlxQjhFRW1ZNTB1RG9ITHlwS0hWRFVHcWV3OWNmZUllNnBkdUs4NldRaGpzbW5WcEZoSFZ3LU94REt6elZ4dUFWeE1JaFdmWkFsQzRVSFVHQmVETlJIYjE1bnlkbFVaMURqZy1RSkN2ZGJ1dmE1TnJ0ZTNUOWwxSkVSYW5WQW5sSEhaa28xbmVi?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-04-24",
+      "headline": "UK Biobank Data Breach: 500,000 Health Records Found Listed On Alibaba China - WION",
+      "source": "WION",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORENFdEltNzBSYWVPdzc0UTEtR3R1UTRJbFJBQVZ6dUNBREkwbkMyZWxMd3k5dnl4VkVRS0xzUEVnR2NIcVVsRGRtbVZXVmtQSEdNZkYySmZYams3eFBkc0F3eGFSWDNxWFVFMzhEeFoxUDdnR1p1WUtITGR0VlVCenlveWVpZzdEZENiSmM3TnNzb19ybXdCeEZBT05xazhsc2RSNjIwYlNFWjJvTVpuaS1EQjg0d2tTdVBaQQ?oc=5",
       "category": "News"
     },
     {
@@ -1815,6 +1829,13 @@
       "category": "Research"
     },
     {
+      "date": "2026-03-27",
+      "headline": "Elevating the Role of Family History in ASCVD Prevention: Insights From China-PAR and UK Biobank - JACC Journals",
+      "source": "JACC Journals",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qMVhycmozYXNDeDZoUTh3SmdFWUxqcGxUcDZZV3Rzd0ppS3NSc0RXMHlKQ1ZxU284SzFIa2NHZWlWOVhxanBfN3RxUjNCLUpHOGk3eXBNMEtSM1A0RmE4SmZCTQ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-03-26",
       "headline": "Blood donor biobank pipeline to collect genome-based samples for research - Nature",
       "source": "Nature",
@@ -2079,27 +2100,6 @@
       "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazA4bDN3QTVxSV9CaHNJS04zdl9LS0liMU9KVHZLRGtpcExFS2pmZ2o4UHJUNU05TmdyU1ZybGE3RnZLTUpHRU95S19HNHRmaXlGT0FiT0toY2J4c1BlMmhtamd6QXFHSzdzTWh5VG9wYWJWNGxWNWlNYnhpTGVRYVdNZnVGVmJHNDNKakU3QlpKdm5VR2QyOEpoM3ZVazZXbzBwdHJfRXUyR0xOdllYMVBZeGhEOWZQU1hxcHNrZ3RVR2NpZ2dMeEVYWDdEWUY3WjNmQUpzMWtVTGZscHFZ?oc=5",
       "category": "Partnership"
-    },
-    {
-      "date": "2026-02-10",
-      "headline": "Structural phenotypes of osteoarthritis are clinically and genetically distinct: findings from 59,539 UK Biobank participants - medRxiv",
-      "source": "medRxiv",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44UlJpdWZLWjlJbjdkQ3NUaU5oNnFzQXZzYkNtZS1mbmZGMjNNS2VQaGw1ZU53RHR0Qy15bTA5Nm9ubnAycUcwclBxeHk5ZlB4bHNTbXR0NDlCNXU2QldaUEtvQTJZTkJxX2pxekIxb1BvT0tTTXkySnh6RUw?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-02-09",
-      "headline": "Could a common virus have lifelong health effects? UK Biobank study finds new links - Open Access Government",
-      "source": "Open Access Government",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOck9JNkZSbnlXOEN4YnZfNDcydFZaX1ZqMjlQNjNGbTJQRVJ0ZTNoM2s3TER5OGZGTi16WGhTSzQ0WG82eFhKYUItam82NklUYzBFZTktSS1VLV9tOHVZbjRjN2dSdEk2TmVDaGlpNFhoSnYxdV9JOHpYUnF0MlZBanFiVjVuNzBJa3Y0QVVnWmsxRWlGRTVsN3daWWNlTzJ1eGRyMDNQSzBMaF80ZVdUMzdwTVRZMXlvdEIzRVRJdEFSQmxXS2c?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-02-04",
-      "headline": "Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wT0RwWUZyWU9PUXJjYUtTeUQxcjhQWXdRcnlXcXpvY0RkcUhZQlpxeDJMOTh5OXljNkFSY0FhdWxrazB5Ykhub2I1SVRDQW5ZVHlCaUltNFlTZlpEcFJz?oc=5",
-      "category": "Research"
     }
   ]
 }
