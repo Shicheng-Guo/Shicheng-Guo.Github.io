@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T07:20:49+00:00",
+  "generated": "2026-08-24T07:44:55+00:00",
   "trials": [
     {
       "date": "2026-08-23",
@@ -64,6 +64,28 @@
       "outcome": "Readout",
       "phase": "",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-21",
+      "headline": "INTerpath-001 Trial of mRNA-Based Individualized Neoantigen Therapy Meets Primary and Key Secondary Endpoints in Patients With High-Risk Resected Melanoma - The ASCO Post",
+      "source": "The ASCO Post",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQYjUwY3ZSaEtKVks5T2V5OUZpYnFHWjYtUF9kOWhCekVDYnA5dmgzUXB6cDNtUWJMekdzUWpkUmEtWmxnM0llRHRjV2FnWVBDS1JTVWZMV0xKMmNkSG1LMmdvMEg4UlhOOHJoNnpONGtBVlpLWUQ5X3NqaEFQM0VDTEI0dUxYWjF1N1ZyR2FqSTNBMS1ac0JmeDVMRVU0ZnB6UWhwdzVhS3hNNWpGZGJXQVEzUW12alU1R2ZBdkZRVDBrd1pRTjhyT3RzWDdtWmFIWjBtajVfN2U1WFozc0NfUk9pc1RCRFlJQ0hqNlRVejl6aWRVMkl1XzNFeVhZWWp4LURHT1IxMzRDU055bFJCdnN1UkdyY2RzZ3l1ZFR3?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": "mRNA"
+    },
+    {
+      "date": "2026-08-21",
+      "headline": "Izalontamab Brengitecan Demonstrates Significant PFS, OS Benefit in Phase III Trial for Pretreated Triple-Negative Breast Cancer - BioPharm International",
+      "source": "BioPharm International",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjZSMENQWnJPNjdFd1pBc3VrM3lrVUtIcHZHeWc0QWtNUkxPR1BENlNzTXk2bG91U0lHejduLTdwYmgtS2ZQZDlEbEJoREFmd095ZS1rb3FJT2VBU29jSzhKaDFSZXpHalJPQS1RVEliZnh2ZnAyZ1VyM3U1SnZ5Qm1Qb2k5cTBQVEx6NHBZVk02YnNkbGRYclV1dFk?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
       "target": "",
       "moa": ""
     },
@@ -442,6 +464,17 @@
       "moa": "Vaccine"
     },
     {
+      "date": "2026-08-19",
+      "headline": "'Breakthrough' mRNA cancer drug curbs melanoma in large trial - Yahoo",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVJudUFfb256eEhsQW1nU2NBUnJJaVhuS01lMGZSQlVnNGNFdkRnMFh0d09jUlVaOW52YVg3dkNOeXdZUTFXc1p0NVdkS3liMGhlZGtOQXN6Y1JsZUhqTUNMQVNvb2hIWW5WcmlmclNjdXJ4NnN0LUthX2NSWVhCTld5YkJRaFBsM29FWnpBYTFLTUY5cWhFUkFB?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": "mRNA"
+    },
+    {
       "date": "2026-08-18",
       "headline": "Efgartigimod Meets Primary Endpoint in Phase 3 ALKIVIA Trial of Autoimmune Myositis - NeurologyLive",
       "source": "NeurologyLive",
@@ -707,8 +740,8 @@
     },
     {
       "date": "2026-08-17",
-      "headline": "argenx (NASDAQ: ARGX) says Phase 3 myositis trial hit its goal - stocktitan.net",
-      "source": "stocktitan.net",
+      "headline": "argenx (NASDAQ: ARGX) says Phase 3 myositis trial hit its goal - Stock Titan",
+      "source": "Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejZHUUw2NEk5ZkZuNHhnbm4wdlExVjdEcmxSQjM2cm92c3B3aHM2aWZzUzNvX243MVUxUTA1R1FGRUF5RmJtN3l5ZGhSeU1GU1FjNWQ1Qi0tN0VmN0xobEE2dm94bDhkY180UDRyU2FLRkdQUkhrczIyLTFjelJvcUt0TGlqTTVwTjFwc3Y2ZUlmdG5TN3psNlhfejZGZER4REFJTG8tcnA?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -933,6 +966,28 @@
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-17",
+      "headline": "Zai Lab and argenx Announce Positive Topline Results from Phase 3 ALKIVIA Trial of Efgartigimod in Autoimmune Myositis - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHJycFZQV0pJSUdLZVU0WlBTQjZUZXpNSGpLWkxuYWRnYVp6d2RJcUZYVlhnaGg0b1hSQTQ5LUVFWC1tQUFhanBMd2NRbHJiUC1aOTRnQmgxZHNLcnVQVDJwcXo5ak9vaXRHUlB2UVFHSTFnWVFTMUNqdEVMTk5nU2V5TUVSMEhDaU9wRmNsaDJmSmdGNEV6WQ?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-17",
+      "headline": "EyePoint Announces Topline Data from LUGANO, the First of - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQX3VLSko0VE0zR1R0aFNJSVBBZ0FoNkplemNaRTBPVUdveVREWnc2ZnFub1lQVDNJWmI1SjN6MVNDRHByV2dUQkdKQ0pmNzRRVEQxNGtUNW9DQUpUQ25mRDY5cm14cGdPcy1teWo3NjZvNVFObmVqM1hzRjdEYm03a0dxYUhmbVJLSUdrZmpKVy1wZS1ITDBVSzFvUGluNGEtM2pxb3hyeFRCUjhNX29FcGc3V2FBN05kc0JZbFdlQXowUmFDR2RQUWd4OUVWY2l4aXo3MUt2VFNiTGMtdjI4TFc2U2RkZXRrU3FCVHdZMGtaOEJBWFFoOXUtNmZtS1YxamJ3Zkdua25tdHBoYmc0cXJNZV9HTlduZU5Na2pB?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -1681,6 +1736,28 @@
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-10",
+      "headline": "MoonLake Announces Positive Topline Results from the Phase - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNTTNqTmhNWlJ5Y3NhdEh2Z0NjUkRxMGdFVTc3WXpQWVFRLUNKU1hUTHMyVUtIOHU4Mmc4VWdBUzVLT3R2UDJiWG5TZkVLeUFCOUpDQkZYUjA1TDBzWHRtMXpmZVJSaW5VT2poN2Z1aE5OOVF6NV95Tm52elFoWk9lVkNUbkdyVGN5bENGLXNnS1FOM0Z0QzdXWlZlQmRZUVFySXNWUzVaM1l0Zld4aXhfUkhHRVluVVBTZE9nR3J4RmZhSV9pWjZOMzFpd0ZEVTE0TWRlU1ZXemdXT2dlTDctQjFDbXBFaG9DQVVpWlhmMUVjU21RQV9WUTRnMEN3V0Z1QVBNTG15TTdHN1hpRFNyMEE3b05OMFV5aWVYVlVvUW9qNEZpdEJGZk5CQ1BscnpvdnFCZjQtbWlobHhpVFJtQWtiZUNyRDl2M0tPT3FTU3h5MHJnSmJWc1lKT1lQWUE0OWhFNUVXc2RwMzZt?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-08-10",
+      "headline": "AbCellera Announces Positive Top-Line Phase 2 Clinical Trial Results for ABCL635, Demonstrating Significant Reduction in Frequency and Severity of Vasomotor Symptoms and a Favorable Tolerability Profile - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNalBUQnd2bWs5ZlZvUVZwQ3hIV1U3SHZHZWYzNFhBWnVwUGZTU3lDQUJqbzRfOTc4ck9BZ091WjEtSHBRQ1pZYUNQTWE5eFB5MV9sc3ZLQUE2NGN0WHRaZUZpNlVMMzhBX2llOEY3VWdzWVBtbFBEZ0oyd24tR1RxUndtSDB0LWJjZE84d1RwUVRGeXFPM25tTHpOM2pZUzNGYlRtNjNid1c4a0FRb0xVQWhCMnFsQVRvOHY5U0ZuTGEyWXlkQVNVZ0NaQUd1N1RIWTRuSmxmRmdxdm84a0NhVWFvalJURFFGVXoxZlhzYm56V1dRMGJ2QktrWFRocm5BSzQ5MHh2aGYxcmFUTldZSnRlSjlubnFWNk9xSXdLT2xPTzZVdlZVTkJRZElvY29KLTVrQlFRN2ZZX3ZWLVhsTlBhRWdqYzFMQ0F3Q2wtOWIyWDByQkxIdFVwMUt6RlVhVFV6N25HamxoSWlhYjFKYk0wcTM?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 2",
+      "significance": "Met primary",
       "target": "",
       "moa": ""
     },
@@ -2673,83 +2750,6 @@
       "significance": "Missed primary",
       "target": "",
       "moa": ""
-    },
-    {
-      "date": "2026-07-26",
-      "headline": "Argenica Therapeutics Advances Neuroprotective Drug Xaranetide Toward Targeted Phase 2b Stroke Trial - Kalkine",
-      "source": "Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUW5EOEloQ0wzNWF4dC1BVm0tVlFuX1YxU1VZbVB4Qi1PU25PYzZXazZGQ1VCLXpvVGk5Z2tRdkNjQlAxVWp4czFMVGR5Rkxwc1ZIek51MlRhTGRBZGhEVUhpWmhYd0swbG9ZV0dpa2VrOE83ODRmclA0TkVhVFotUk9zM3k4Q1dHRG1ZanNOQkdLYnpLZnNYNkVZSTdyNkhfbl9kamVoRlk4X1ZLanVNWjNPRVJOTjU1OHN0a3dVd2pOYjYyRFFnVloxbGpfckRlYjdSeU5mdnJhZw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Radiopharm (ASX:RAD) Raises $16 Million After a Double Clinical-Trial Win - Kalkine",
-      "source": "Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzNkMjVtVTliN282eGtqZWdabnR4LW1yM3Z4NGlUVWI2cS1ab3N3YnVpNzNqTEYyZjFBaHVSZVY5enpwT0VkNk5hSVdBWHFEcDJDeTJ4OVg0VDhWd0dLSHROWEhwWHFvNFc2QTM2aGJmd3ZvVWdxWkQzdDZ6VnpVZ21qT2VIM3gtektOcFpYZWdlVzZJRm9kYTFMUGo2cFJiWHFCbkFSODl4M2Y0?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": "Radiopharmaceutical"
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Genmab, AbbVie Clarify Epcoritamab Phase 3 Trial Missed Primary Endpoint - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSm5fV2pXOHlkbXNlclQtdFFFbS1STC1ySzRzeGcwc1JvODZwUnBReU45cGhVTlg4c1U2V0pCUUIyTVFCMkpuSUlLTVlTOUZ1TVY4Y0xUU3B3WGZvLWpwRlp2ekZwd21qR3ZFT0dnb1F4WWUyMnNWU0liQ2w1eGQzLXZZOFNUZGhMUnVobEhxOF9yem0yb3RoNG1QbFpEcnRiWUUzVmdHZGdJWk56V1V2N0E3YW9aUQ?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Kolon TissueGene plunges as US phase 3 fails; Korea investors brace for fallout - CHOSUNBIZ - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1kzX2Nac2VMV0pWTXZxRDZXNWhvd3R4UW1KN2RHOWNCYVNvNjlDLTkzZ1hNaHRfbE9aOUZGRXlDTFZvcDBQMS16bXJ4azJYR0RLNmRMeUt5YWNyUnh4bDUzRHhPNVRScEpaeGRReXNNRWd3S280Z2kzYWFJcWU1cdIBlAFBVV95cUxPMTdaNm9wdjdPdmV5UC00MGZKd04zaHkyekRMUThnZmhBVnRYMmxBTXBaMkxreDBGN1drdU5kUWJJNXZKcERHRlNITGkxUjhibXlGVXJjSnczZVJ0OHpkWnFIM1EwSmVmT1Q0WFpNekF2WWpzVHozUXdRZkpVNnRBc1FBdGs1S2MwN1E3cDc4VkdYMWk0?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Neurizon Therapeutics (ASX:NUZ) Completes Pivotal ALS Trial Enrolment and Brings Topline Results Forward - Kalkine",
-      "source": "Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVHlqaTR1NFNpekxVMEh1UktpLXBwSmwtVFRnc3UxdnNsOU1JX0pZMWZBTTNkNk5XX3Izd2Q2YTlPbjZRNUs5bUI5anhmODNmTGZhcFZlSnZQVV9RYUlXOHhKNFN2SzVRWjQwTFNYQlh2NWJNM2ZaeUd3Q0hyUDQyVlAyTWVHc1JvTFF4amdpR3dDMnUydzhvUUtrOG1rRC1PTVBBdUtUNkRUWmtpM0dndEtWMkJMaUFLeXhzVlM4UmhXbWRtc0NzT0E5Rno4T1d5UWFKcFpKSQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "GC Biopharma files phase 2 IND for Covid-19 mRNA vaccine candidate - koreabiomed.com",
-      "source": "koreabiomed.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmSjNIUjFIbW9HamVmZEw2MnhpejF5OVZDRG1uT2NseU1aaVMtWEVqTUQzMUp6d00yTWlRVTFPbXY3QUhwSnA2RkVCc3g0Q2VVVnUycHo4Q0VpVWNlQWZhZTZ2Njk0V1U1OFR1a3Rn0gFyQVVfeXFMTThDYWlhdnktTFJRY3BvMGViVnotVXFsME54VzdhQ2wwY25CTU02NUM0ak1fbG04MlJiakNXVVZva2h5NlhyaWdDQ0wwZTVPVXpmdnMyRDFWMi1iOUdYUjF6T3JhQlVTYnE5WGVIMDVJY0Fn?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": "mRNA"
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "GC Biopharma Files for Phase 2 Trial of Korean-Made mRNA COVID-19 Vaccine, Aiming for August Start - finance.biggo.com",
-      "source": "finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PcWE2eGtQdW9xQ2JhMUI3MlZoSHh0cTdjLVBkMVRpMDZqbzNfdTdpbDhGVkZMLXIyT3BSWURxMUtKR2pTdGxid2Rsbjk5dEtRQnNxQjBZTERMLW9DT1hQT1JnZll6dWVvTnhDM1JvSnMyNDFiR0E?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": "mRNA"
     }
   ]
 }
