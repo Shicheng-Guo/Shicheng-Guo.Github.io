@@ -1,6 +1,17 @@
 {
-  "generated": "2026-08-24T07:18:13+00:00",
+  "generated": "2026-08-25T07:06:27+00:00",
   "deals": [
+    {
+      "date": "2026-08-25",
+      "headline": "Piramal Pharma Acquires Controlling Stake in Yapan Bio - Machine Maker",
+      "source": "Machine Maker",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcW8xSUFIU09wZUFXdzh3N2o4M0VGOGV3SzNzUWJUVTdIOERUOHpMa0gxQmlidTh1aEJ1emtacjBZRUg0UEtFek1RcC1PZ1JFcDN1eHp0dGs1YjljMHdvVjhtQl9OcEpzOXRJQ2RmcVM3QWZGT2xUbmZncTBBclZVYXhKbVc3MlZhUUw5Yzhpczg3Zw?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-08-24",
       "headline": "Hanmi Pharm signs massive licensing deal with US biotech firm for obesity drug - Aju Press",
@@ -8,6 +19,83 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTWjNOLUxiXy1jMGtUdDBDOWpOMXpoVThQYkgycDBLaTk0R3o2WW12T0w1S2hfenZwRVZfbE1TNmg0SDJEX1ZXYUZMQkxIUTROUlZLbnptQQ?oc=5",
       "type": "Licensing",
       "value": "",
+      "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "Focusing on Asset Acquisition Over Building a Single Platform Technology - Pharmaceutical Executive",
+      "source": "Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGhTdEZKaXlCeVlUOU1ndWl5U2tRT3hpZHpuVEtzX3RMdTl3aTlTcTVfSFpSdTZIdFYwOXQyVWdqcnVTZlVlXzBwOUFUTUU4VXZ5cDRScTEyQU5vRFpRbV8yTXpnLTh4d3RYLVdUSWpDMGNVRko4dDM0bGkzNmVBaDByeDFhMzBTVVY3NGcxeXpBLTkwczduUDVTRTdEOEE?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "Piramal Pharma completes acquisition of controlling stake in Yapan Bio - Manufacturing Chemist",
+      "source": "Manufacturing Chemist",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONC0yblJmSVd4VmpQTW4xZW9CLTZ4UlM1Y05mZktZQXpFbDlrY3d1RXRMeHRZQ3VoRnpMSUpLOXR5RGtrSzBDSGJSSS1wOFh6Ty1jdFY3aFRadXpEOW9tMFpCNGpaUjQ2NDh0RXRGcFdmUlpodGhTS3JWMVhuNW5TeFZjWVZPVmp5T3lzZ2JCaW5ia3VZUnNDaQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "Roche signs licensing deal for obesity treatment worth up to USD 2.3bn - medwatch.com",
+      "source": "medwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtSlhIOGl5SVMzWVRhSVJ4djNUclQxUmZhU1hsQmFXa1RkOTN0akpiOXhwS2VPOXdhY0NQR1lqeHl0ZUE5VF9xZkIyV1ZkLWM2Z2trZU9maUIyVjVtSTVXZ2s4N3BKVEJBT1lEbWNNSQ?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "Hanmi Pharm signs massive licensing deal with US biotech firm for obesity drug - Aju Press",
+      "source": "Aju Press",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVUIwQ0N6UDBWNTl2Y252VTJjOGhrNHZWYnlZOHZwbmVNTDhBQWt0TF9RS1d5NXV3NjZ2ZHRoSGN3WjdTSjlLZEl4ejFSRFFhU3RmUFBnOFd2LWM?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "VERAXA and Secarna report AOC research milestone - grafa.com",
+      "source": "grafa.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPel93Y0JkNGNoZG5nQU5ZWGNzd3ZESTlYVUw5Z0FsMFluYkdINElOTG05b0JlQUtuUHRDdkE4bGxacEs1UHlhWndHWk9FWXpxMGR2M2NNa1FYVXpkRU1SY2xTT3cxeTVRSXlibGhlQW0zUk81R0pGdjZOSC1GVXFNc1NnTHBreTNSRk5lRWdlcldqRW5CaHBtNGNNSXlWdGNzbk9FQWNVbVA5aUdG?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "Hanmi Pharm inks obesity license deal with Genentech - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0tCS3hhbTN6dms1U28wMVVnSUJkUktlUFZPcmQ4a2w4cEIzdW5LbU10VHdjczhDUFA4SnR1bm4teUtkRHBKQm01VUFYWnlXS1h2dVFmUFRDMTVkSk1OSlR6UXVPd2gtN09uVGFFU2JXODFmc3NIY0cyOGRQVndFVmRwLXYwT1JRb1gzc0Ntalk2WjhpZjFLR2VDMUU?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "Hanmi Pharmaceutical signs record $2.3 bn obesity drug licensing deal with Roche’s Genentech - KED Global",
+      "source": "KED Global",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43RGhKc0lMTWh5NFBqQ2d6c08xWTZQQTZsNHQzSWgxYUQ5OE5jNW1IazJBN1R0MkQ0SkFzOGpsZTNJcl9ZcFgtWThOQ2gxVVRUUjNkUC1Qc2VXX3pEbDh1N0kteEZiVzk3bVV6c0t3?oc=5",
+      "type": "Licensing",
+      "value": "$2.3 bn",
       "area": "Metabolic",
       "modality": "",
       "stage": ""
@@ -245,7 +333,7 @@
     },
     {
       "date": "2026-08-18",
-      "headline": "Latham Watkins Advises LEO Pharma in Acquisition of Worldwide Rights to MC1R Agonist Dersimelagon - Latham & Watkins LLP",
+      "headline": "Latham & Watkins Advises LEO Pharma in Acquisition of Worldwide Rights to MC1R Agonist Dersimelagon - Latham & Watkins LLP",
       "source": "Latham & Watkins LLP",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1U4LVlueEdzNXZ5U185OFlkQUpsdFNzMUhaT0owcEVyeXVta2UzMU9IU3FBVk5ULUhMRzZUbVBldkU5ZHdDazZpR0FpVXBwdzI4aXJ4LXVmX3VveGFkd0hsOGV3b0M3b1VLNnpYZWJ5blBhUkFYekhUSExPY2tLMlRTSENicnpQYlRCNXhDY3FUQ0M0ckhKT0FlVVNGbjEyV1k4MUlLaVJkVVh6ZmRGNmRTOTIycW04Tm13VmpFajIxYllJT0dSbTdMaTI?oc=5",
       "type": "M&A",
@@ -2660,94 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "Pfizer's CEO Says His Company Has a \"Very Big Balance Sheet\" to Do Deals. Here's the Perfect Next Acquisition Target for the Pharma Giant. - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmFsaDgzZFl6bE5kNGVCcXo3aHQ2NWg3RUg2RnBCY1lqRWlvZFRCRDZsQUNxUURzdGtHNHBXUXgwaXN1VjhsMkVUNjdFbllTT2hMUDBlZXBsek1ieTJUTVJ5TUJtUW15Z2djV2dLYjhueHp6WGlCZHZFaXlsWURCSDdBZVdiT2hkQW5TdTZwMURrZDBY?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "PEAK ROCK CAPITAL AFFILIATE COMPLETES ACQUISITION OF ASEMBIA - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzk4NUtHZEszQ1JOWjFobTJxUHN6M3NKQm1PSmRMZzRVWWtsaURSa2pWWGw1blA4R0E1VVNFY2h2bU5CampaN2FkQzc3SG1nOG9ncUhjQndPVzZzYWFHdkRCbVM1cDhPV3ZCOFRyYkpCTk1ORWl3SE5yX1ZwS1VoblZfcVQ0eXllUWNlWGktajZveWo4TTBDOEZ1NlFnX2c?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "Aurobindo Begins Integration As It Completes Lannett Acquisition - insights.citeline.com",
-      "source": "insights.citeline.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT01yQzBnTGRIVEotcUI3UWZhRkE3SWwzOVZIXzhfcUNrNF9CLTF4eEg5SHQ1OXppc1dxQW1ZZlhOSGRnUEJTaGhwUHFkM1F5MUhFdWowUkQtTE8xaXZzU0d0dE5XVGFIcnF5WGhUalFaRFNoakswbkpyemQtZHp4NTBlbFFLYTlBdWkwZk1MX3hIRkRTeUcycnNES3psNnNhWDY5YTlyZ3hoM3FlcGJ2V3ZjVFY3ZHlWZWtraEZzMzlPYmJKaUdpbGdjeW84YzIwSkJIQk9feDlDOHJmdEZVTjVnZXpkcnZYRDJR?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "Takeda and Insilico strike AI-led drug discovery deal worth up to $600m - asia.nikkei.com",
-      "source": "asia.nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXVmWTMyWjVwRVJDeDBHZDVNUm91OUxaejJtbFVidjk5cWkwUEI0ay1DbVY5QXhwMWx0ZHZmTWVlMDFNRXZPM25RNWo5RTRiaDEzODB1NXI0eENzTlZadEhYRTVwNlcyUXY2elRTeWlRZjVrekFPN3hmWVlnVkkyeDdLcW1wWWFMSEU1ZDl1S1ZVc0hTMzdhWEFTbHE3V09FS3IwRzFYWm4xOTVqM0tIbmtxY2VoNVhiUG1Z?oc=5",
-      "type": "Deal",
-      "value": "$600m",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "Ex-iTeos CEO starts fresh at GSK neuro partner; Genentech loses yet another key scientist",
-      "source": "",
-      "link": "https://endpoints.news/ex-iteos-ceo-starts-fresh-at-gsk-neuro-partner-genentech-loses-yet-another-scientist/",
-      "type": "Partnership",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "CSPC Pharmaceutical Signs $1.77 Billion siRNA Drug Collaboration and Licensing Agreement with AstraZeneca 12 - Minichart",
-      "source": "Minichart",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNazVPRkpLZC1ja3pvbGlhSGRXYVdkc21ReEZ1YU15RkI3V0Exd2tCZElfc0pkYjFmSEFiZVQzN3FuQTVxUDhPcXFLMWpULUY4MGZBaWZiRjUyS3VwUXZrY2ttS2ttMzVnYUp4UmcwZTZJVGFSX1BjWFhHdmdMc3FGb0pNRENSTWlBM3lWQTI5MDJWaGVQdGxvb2RRTFBHMHFSblJLb3NFRXVlTno3aENCdlFDQ2diT29PY3lUSUo3VlUycXU1dE02NEg3WHB0VVc2eHh1SEZjTjgwZDhQRmFWSUNn?oc=5",
-      "type": "Licensing",
-      "value": "$1.77 Billion",
-      "area": "",
-      "modality": "RNAi / siRNA",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "Dongkook Pharm signs $25 mil. licensing deal with Spain's FAES FARMA for BPH drug in Latin America - Korea Biomedical Review",
-      "source": "Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUcTBwcWVhdks3d1VEVUtwei0zdkd1empFUXNydHZLY0lCdnhvR0tRZ3BwdkxWMnZvSFRBVGNRZHlPX1JlTjMtNEZ4cXRMWXR3UGVhN3dYODhFZld5a1lzOHhJRmpZaWtkUFJCaEtn?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "Ipsen strikes second buyout in a week with €700M Memo acquisition - FirstWord Pharma",
-      "source": "FirstWord Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uNjN3NW9paGhVd2oxNFVkVEMwSGxJT2N2amFNOXlHTV9fWEJHcnNPSmZBSVIyaHBUdFZEOG9RUkVYazhHX0diQjc1bnNKaVVrVFR3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
