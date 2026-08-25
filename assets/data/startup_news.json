@@ -1,6 +1,27 @@
 {
-  "generated": "2026-08-24T08:58:08+00:00",
+  "generated": "2026-08-25T08:53:05+00:00",
   "items": [
+    {
+      "date": "2026-08-25",
+      "headline": "Young startups miss out on biotech venture funding rebound, MassBio says - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0MtNmFOTnJXZFRvS0RwdG9FLVAzRmNTZkZ3cllLaG43ME5zNWlvRER1YkU2LWI3Yjl5cGZRdE5aYjJ6SG1XSVlCVXVFOUxkOHRLem1wRnNlR3pqcWtxOXZNN1Y4Vm1pMENRMUhjc0lVQ19PUk41em44NUVPVTBxUU0zVWtpVWM0TS1NTFdZeUM0UjJIZWln?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "Lady Gaga and her fiancé launch a biotech startup - STAT",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPai04NW5KT2JLVDMyQ3lhZHl3Qkhma1IzRW1wMm4zcUhIdFBfQU9TbkFFbkRERkJ2MHR3ZGVJd0xWWWRFYUl6T3NNMTN4V2pqMXpfNUg3RGRBMTBNeF9YRkpHdzczc3ZoRlNKU2FDUC04d1FHWmRrVkQ2NUFrT01meFAtNUFELXdJUWhkMDlGdmFOR2Z5enhRVWdGX3Nvdw?oc=5",
+      "category": "Launch"
+    },
+    {
+      "date": "2026-08-24",
+      "headline": "Lady Gaga and her fiancé launch a biotech startup — STAT News - UA.NEWS",
+      "source": "UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWURldVQ3UXNXVENXWnVNR1JFeEVQNVVKZFR0aE8tMlIydWY5VTBtc3JwLWI5eURnWlNaa1JuaE1SNXRmWEJORnV0NzNyeXdwR08xV3llMnJKZTZkbE5PVTM0bllkRVY5d1lDSHpFMWE4ZmN6dTBiTDhSSnNybzYyeFBVLUlUQnluay1aZ2o1b2p6SVFlQmVkYmZYUDg4eG1Kc1ZNelBuWDZwOEM4VlE?oc=5",
+      "category": "Launch"
+    },
     {
       "date": "2026-08-22",
       "headline": "Lady Gaga’s partner launches AI biotech to develop new cosmetic ingredients - BGNES",
@@ -51,13 +72,6 @@
       "category": "News"
     },
     {
-      "date": "2026-08-18",
-      "headline": "Fierce Biotech Fundraising Tracker '26: Abcuro secures $66M; InduPro assembles $77M - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "category": "News"
-    },
-    {
       "date": "2026-08-16",
       "headline": "Odisha Startup’s Breakthrough Mission in Space Medicine - OdishaPlus",
       "source": "OdishaPlus",
@@ -98,6 +112,13 @@
       "source": "Crunchbase News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGNoS2JYNlR0STJzSDJja0FZbmh6RWw5ZXJOMGRWdHV3cllfX2wycTVvdHhFSXFZQWVuR0VKOVBfT3otSFQwSWtlaTJONWN2Q0pfOFR0QWx0SzlGQjNQMkF0M0dRX2JMMTk0SDZzVUZ3VHFKbHFCb0tXT29YdnRodTAyYUUtd3BmVDhlakhuNEhNaE93X0dGeVJ2REt3bmM2d0tkWGdB?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-08-12",
+      "headline": "Ohio State launches AI-enabled biotech initiative to speed drug discovery - Ohio Tech News",
+      "source": "Ohio Tech News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcW9MRU5LSGZOOU9Hb1ZndlVhZ0NGOHdnZzlhTW5WRUZ5RTB6N1dyTDdGM0ZRcGFjdWE2UEVMRzJaWEdjRjVHTDFiM2VPNWN4dkh3bVJ4YmNxcFBmV3EyMzNyYnZvaDQ1U2N5QjlhZU83Y21VOW13QVlYY1RZbEp4NmNvMHBuZw?oc=5",
+      "category": "Launch"
     },
     {
       "date": "2026-08-11",
@@ -399,6 +420,13 @@
       "source": "WHYY",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3VRQmcwTWlOR21yZlAzWlV2amc5VW9pMDZxVnl0TlJSdVlKelJoaHBZam9CWkNKdGpqTmxqd1RDLW1OMkNWbTl2SnQ5SVY0VWxWdjVUeHNxT3AwRlJSdk9YY3hYRHNjVmdISkIyUWZDLXo1YTVCVV9UN1YxeUVGVg?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-07-21",
+      "headline": "Revvity launches “Signals for Startups” to give emerging biotechs an enterprise-grade digital edge - Indian Pharma Post",
+      "source": "Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZF9RaVhJVG5NczBNOVpRR2ROWmFzM0ZNTmp3S2FQWE9fTFZ5TWhWYUdVVkxlejcwdUFxNXAwdUxmcE1IZFBZQy1XZGd1Q25hWnVIYm5IcE5ndTFDRU5UTmgtckl2UlJtOGFVMEsxZUpfWlNoRHZCdlVIUzh2eTFWTHBaeFE0M3FoNEN2NlZCUVl3MFh6YUlpUVhsQUNyVW1lalprUW1PSkxscHpDZjJGZzljV2Mzem5vM3hvYWphNzFnalBERUtlS3VOXzBzQXV1MWRYTjNDNVdFUVczSTdmaEV30gHoAUFVX3lxTE5pTlFwLWNaUkFON3N3LXVSQWJyeHluaWZ2TGhFWWRCaEVEMGhyUHlaRTFqVkhJeW1lZFpKM0lFLWtjM1FxM2x0d3dHUGcwM1lDdHc3Z19TaWkwOXJ6RFpaZ2dsMHRDREtnaDZodXlSRUN2TENpamlybkE1cUhoMnFvd0tsRjlmTTNKelBPZDZzQUZ5YW84d0JKWW1kLVRjSjhBQmF6VU9tSFlYZTlfMWlRUEhtc2dPWmxvZU5tc3daOFZnU0E5VEZGOU05VUUxNkZMb2ZpaWc3VHNFd1B1TFYtMHpPZzl6WGg?oc=5",
+      "category": "Launch"
     },
     {
       "date": "2026-07-17",
@@ -1721,34 +1749,6 @@
       "headline": "BioOrbit: record seed round for in‑space drug manufacturing - European Biotechnology Magazine",
       "source": "European Biotechnology Magazine",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcTUyMUFOQXBkeFVpbVdKcmtYOWw3NE1mdTM5cElBcjZyNm9RVlM4VHhiRVU3TUUtaTZIV3N5LWdvQloyZlBSLWZKeVJiOGJWbTJERzlWOHpJb05tUDJQU3o5czZla0ctQUJBckFnS3g1TTIzYnZsWmRkdnpkaC0yNXpxVFQzNlMwbnBhTTdqbEhFVzZoQmZybXZhVGtINTZ1LUx1Wm8yM1dIUQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-04-29",
-      "headline": "Leading biotech company launches its first US drug processing hub in Mass. - MassLive.com",
-      "source": "MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3pyZDdmV2RrNXRGWE4zUDJFekZxLU9CZmZZbjJsUS1EVDVOR2Z0VGl6bDRSWUZoaUVxSnJOMlRQMkdKZ0gwaTI5Z0dQRnNQQi1qMFNPb1FPOThZd2FHOGxBSkVob2cxUnhYOXg5cDZjcWhTQjFySVh6VHRIX2xtalU3NkxYaU9DamtveHFxLVk2X2htUXphdzJiS0h3SThpY1ZqNUpDYjR0Y283MFZUSkU2WW02TTjSAcsBQVVfeXFMTzhVcEJtekFGSmd6VHo1MXJXenVrX2lLM2VjUTVtUE1OcXdscnVRbUlUTU5iVW5fb3U2VEVPRTQxWFFPNnV4U2F6aHEzNEZkS3JRempFVDU1S0Q4LWlPSTNGWVoweTRULWc4N2J3VlhqeXdfYXU0dk1pczNxQ0RKMXp1OVl5WUtkTmJmSXl4Mzh5dlZMMTQxcVg0b3c1Rkl1dUNTZ2hTcmhVZFlWMzY1VGV4dnNuLW01UWxILUtZdkpMcFZ2OXJoc2JjLUE?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-04-29",
-      "headline": "New 'living pharmacy' biotech company launches out of Rice venture studio - InnovationMap",
-      "source": "InnovationMap",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDBuZkJiaTJqTjhWRm5Xc2d2cHRUeDQtZXp3NzJHRXh4X1pfZEZqSTVINVZXY1FST3dHa1JkRG0xSXMxc1ppVzdrQTN3TGh3OHRjY2hEaUJjUFBFUF9YNGRxdE4xcThqN1RzWE9UeWNSbGh3Vm5fTlJXNURjT040Q0k5M3dqTTFfWlE?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-04-29",
-      "headline": "Unicorn Start-up, Astromech, Emerges from Stealth at Two Billion Dollar Valuation with Focus on Evolutionary Trend Modeling AI - USA Today",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcm9aRkN2RnFxVHk2RmFMZ0NUaFlwRkxLcEx3QVlQajB0aW1hTm5vUUN2d0IzU0dVd3BzVG1NTXBxakhfUW9MTFA4blE1WlZXTjZpSHdpWktUc3JSQzZNbzY5R25Ua01wWDhWQ1F3WkhCUktWSEpMTjZ5dHRKUkRDdU5IbnRkdE54YXpCRHB5eFl3RTd6NkRVeTZhcjN1WG5HUWxfbFBJNFFTbUJ3Q3ZpY2J1LVA3WVBxUGxnRVVLRDBCWjBxLVljdkhmVVdqWmYwTmFEcFljZWJrVkZUbVFMSUgtdlFYb0ZSWjZwN0RhcURpY0loNFlJWnYweXYtLS1UNTF3VDM1Y0JKcGx2WUJBdg?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-04-29",
-      "headline": "Leipzig's Primogene raises €4.1 million to scale enzymatic biomanufacturing of complex bioactive molecules - EU-Startups",
-      "source": "EU-Startups",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM2dwdXBXY045TTBmajdYbGlkTXF1YXdHa1Z4Nm9WQWJMMGtyZ0VrcUtOdHhZb2tOVmFIQnJ5NFppV1kwS3FVaVVsc3RlWjJPNUNqcFJ4TzNIR1BUSTB0c2VWdG9EbXpWMW4wQmpzelhUQ2FVUzZYUkJPZzEyeHVSWkV0UDRVYXNndEpUNnNQbDFUSUZ1cEJiekJmd3NPR0tWZXhiTEI4SG52eHdmOWJxTXo4bFQ4OGVLNWpoVnNxazE0aFMzTXJ4Rk41TDBVOXhjcjRxZHdROTVIdw?oc=5",
       "category": "Funding"
     }
   ]
