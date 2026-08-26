@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-25T08:03:38+00:00",
+  "generated": "2026-08-26T08:04:33+00:00",
   "items": [
+    {
+      "date": "2026-08-25",
+      "headline": "Real-World Evidence in Large B-Cell Lymphoma - OncLive",
+      "source": "OncLive",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xOEhLSGJvcWUwcmNsOU9GemJWVXlPZk9WX1NINnVGNjdJd1NwRlFqNFMtZFk5UFA2Qm1mOUZkdE11YTA2UDJRQ2JmeHVZRk5lRTNHQnBJVUFTUGV1bU9sMUh5cmZCQkFJU0VBbU5fOGsxcTk5TnRNd0V0dG40UQ?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-08-22",
       "headline": "Weighing Real-World Data Vs Clinical Trials for NALIRIFOX in PDAC - CancerNetwork",
@@ -2005,8 +2012,8 @@
     },
     {
       "date": "2026-02-20",
-      "headline": "Data Curation Best Practices and Innovations for Real-World Evidence Generated Using Electronic Health Record-Sourced Data - Duke-Margolis Institute for Health Policy",
-      "source": "Duke-Margolis Institute for Health Policy",
+      "headline": "Data Curation Best Practices and Innovations for Real-World Evidence Generated Using Electronic Health Record-Sourced Data - Margolis Institute for Health Policy",
+      "source": "Margolis Institute for Health Policy",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDRwSTQ1Mk9ENHFING9GMXBsOFJzZGhXNWRYOE5keUlOajBuZTBoRUJYVnNBZXMwRElaQTc3X3ZveE5rMXB0NmFNZDVoWEl0em43TkZ0UU44M2twRFBLakk3RG5wUzQzZzk5M3NaMlhHbkY2R0ZIc1d5QWxuUXUyMjRaWDRxLVk0TGRHdVhZaTQtM2FJZ2g5YkRxRVNzem5sTm1EV2dmRWJTVGwyTVNmWHZJQzNRUEhyZ055d0NMUjI?oc=5",
       "category": "Regulatory"
     },
@@ -2093,13 +2100,6 @@
       "source": "Applied Clinical Trials Online",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm5zR2VUSkYtTFZnTjJ1VWxLazZ0bkdXNzJibVd1WEZmeXpqdDBTbHY0ZU1nOFVKLXhPdTdBdEdsaGxjTnREblBBMXpvMHVTczUxRXFndjV2VzItVzRRNGhBSTZmNmhoU2NHdUptVHBzZElwdW1JU1VoQVFSWjV4ZE1Za2t5X3ItN0twNzNQMVE3OXRSbHZrSjAzT1JqelhUYXlseFNfRFBUMWl6NTBNUWo5QzFkU1VGTWlYOVU3SlJyaVcyXzU3NXBMbVhGUQ?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-02-10",
-      "headline": "RWD and RWE are rewriting how we design and run trials - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHZnNlU5dmVQb2JzYlZtVDlmdFNLWktnbjAyNlhuNmxnaXVXNVdYaGQwM1FMc0MzNTNaMWFJMGRsaDM0anVQcTkyMHZPSk5OOXZISC1JOTVVUTFkbGQ2VzBRN3dibFRDbTZYV28yS3VGTG9KLTU1MWlIT3dGUS1CVVp0NUFFSUhHV0wzUnU0VlJ3ZFBfRDNVZGxYR2t3TnFxTkp3?oc=5",
-      "category": "Opinion"
     }
   ]
 }
