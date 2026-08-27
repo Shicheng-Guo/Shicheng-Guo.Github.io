@@ -1,6 +1,34 @@
 {
-  "generated": "2026-08-26T08:54:48+00:00",
+  "generated": "2026-08-27T19:02:10+00:00",
   "items": [
+    {
+      "date": "2026-08-27",
+      "headline": "Michael Polansky has a new, skin-focused biotech. Don’t call it a drug company. - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3BLb09FaWNaNlhrUVpYanFxTzdWN0hTX3FRdE1QWU04SzB6U29ZbFUtNE82akJtVWRPN3VxbGhfc3I3bG9QWHhhazJ1bmhFQ3JTeDlyWVpvYUZaYXdYUDFNTDl0MmtHeEJyY2VrUTItMk9hZW14TmQ1VkhDZ080S2tmeEZubGQyV1JsdWNVZkR3TFN5U1Z6OWR3dk5ycFA3?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-08-27",
+      "headline": "James Sackl on Stretching Pre-Seed Runway for Resource-Intensive Biotech Startup Funding - Tycoonstory Media",
+      "source": "Tycoonstory Media",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON1JhYTJweml2alVtLWlhRFhsamtJT0FvZ0lpMVczODY1RmJraGtvTnI4U0ZZS3BvMFg4VjdVODZkOTEzTERGVTdpeUJIRGNfbTV0UW9WaGpSZnZaX2hjSDNIM0s5dmxKQUExamplUmlSNkFhd054ek5BME5PZmdoeGhtbWpzbzhRa3RXb3dfNFNmTlJzMUVlb1pfbWprRkRyNC1PRlE4NVMtMDJGMm52ZFV1d196WWlK?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-08-26",
+      "headline": "JATT mastermind launches latest biotech-focused SPAC in $60M IPO - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFZrRHFYYnN0MUxPZnI1bEFPSXdKQ1RwTFZfQm1GY2EyQXptM2ljUkplRVFZN3ZhWHQzbm4zMVdfYVMyS2dFVlBIVnZ2Q3hmN2p0aDh1eFI5d1hWX3BPbjF4YU9ZVjc3bXNrSC1lX2pwbUFvdGJSSk5vV3pmSzFhX2JYU2dnbmhoUGk1LXZWWFFTVUxmZDFQWW1sVFdMZk0?oc=5",
+      "category": "Launch"
+    },
+    {
+      "date": "2026-08-26",
+      "headline": "Adaptyv raises $40M Series A to automate lab work for AI-designed proteins - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX004czdvQXJ3dS1YRjg5OHMzcTl6Mlg0X0xvaUsyR015ZGdKelg5TjdWUUlVRHRxaFdWUV8tM0lpOG1nNDZjWDN4YmFiU3ByaDZsSlU5NkJxSzR6NURpZ1pTa3Z0c0hDVnpTZWN3MGNNQkR3RFZVenJuOGhRRFFrZVIyRURuTkVFSjNXem5FSDJOdWs3ZXZaaXlObU9BUXpiM2NNTC1HWlk3N3c?oc=5",
+      "category": "Funding"
+    },
     {
       "date": "2026-08-25",
       "headline": "Young startups miss out on biotech venture funding rebound, MassBio says - BioPharma Dive",
@@ -415,6 +443,13 @@
       "category": "Funding"
     },
     {
+      "date": "2026-07-22",
+      "headline": "Pennsylvania launches $125M state fund to back biotech startups - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVl4aklzX3VwbzREbDYzRTNST1JXbmNVc2x4OWxEQlk3U2lXNmR3V051ejh0ZTRQT2FPRkxvSThTS2swRGNBR0FoVUdlMV9FX0ZQNjNEYVlGX1ZZWmo5OXlPc0FjdHJrbXFqWkpjZnBkNjhhV2IwbXB5bkNsaUwxUjN1enJRbkdmRWNMWHpWaHpBaFpacEtGVjA0YzY?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2026-07-21",
       "headline": "Shapiro administration launches $125M fund for biotech startups - Audacy",
       "source": "Audacy",
@@ -507,8 +542,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - Pharma Voice",
-      "source": "Pharma Voice",
+      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - PharmaVoice",
+      "source": "PharmaVoice",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYkN1UTF6ODBQNG1McTBaUS1LQllJUUxFbGxCSWhCOHVBanhzSlBGVmJuQkJXRnJKdm02alFLQ0RiZ0hGNERxVER0WnQ3QnMwN1c4NXdBRXZlWHBEeFdiV3JFdTN3WUJzNXF3RWdicm1jd1M0SzdPdEdWcUdELV95aw?oc=5",
       "category": "News"
     },
@@ -616,6 +651,13 @@
       "source": "SynBioBeta",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUVEwbDZIc0UzblVEUUk4WjRfUjJMTW5DZmFBSjNvUS1uMXY3NGdvbHg4TDVUZ2hfbVBwenVWcFNWY0lVMmdhV1FybTZoOTY4eXZ2UG5xQWhRRnNkN1ZhalZtNE95Z2UtVjc4TmNBSm1JdFI2cFQxVGpkUTlibmRleEc0REtvT1ZIQnRJMFdxWXlHRWV1RzNTZ1hwaXVYUEZJU0pLbXJmV1B4X1JOZ2ktajZ5WGNOU2NWdDlQX21RZjFvTjJBMXowS3l3?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-07-15",
+      "headline": "Miles Wang leaves OpenAI for a $2bn AI drug startup - The Next Web",
+      "source": "The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54czkwM3ZxekdtTVFxYzRDUnRhMFVZVURVX01jcWlseE1fcHZOQURnOE1YSmFiclB0MWpyXzlUN3FPV3l0OTJaVE03cGVXRmxFWmJENk4yRUJ4SmFtcnpMVkhPSGJ2dUllZ3ZpX1pKVUNpa0ZtX0RHUVk2Yw?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-07-14",
@@ -931,6 +973,13 @@
       "source": "Tech Times",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDlxdzQta01ESTB0NzVhbFo5dXB4S3g3akpldERPSHlTYzhXdGZ5cHhWU3R6ek11THRpLWdHc0ZLaHFFODBZV05QMkIyV1JMRENpMkFzWS1DSTQwejdKUmI2azF1YVJ0TTFqcUUwaUs4OVB1bFBDcnRYS2psek1mbUJ5Q3V1TUg1SElka3h3WjdIekFrZXZLdklUUVZzQVZ1NTBCa010emNIdHJfQ3BKM1B4cGhLaV9Cc3piU3pTeml5TDdlbmpMakhR?oc=5",
       "category": "Launch"
+    },
+    {
+      "date": "2026-06-23",
+      "headline": "Biotech startup ChemT raises fresh funds to make biomanufacturing more efficient - BackScoop",
+      "source": "BackScoop",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzF5aEczUW9LdU1MM0NzTjVZc3kzUXkyUlp1R25rRUN1bUlXWHdLc0U2bjZabk45SkRJUThOblFHRkR6TlNCbzhyRUF2enkyQktzQXR2RktMai15NHg2NEh0U0FjOUN1ekxfbXpuenFSTEJLQWpZTndoSmRQZXJmakRmbzdQVllFaHZWcF9LaW0waVNPcWdoblk1LXV1YnNPN2NMM2dIaTJ0OE9qNy03Qg?oc=5",
+      "category": "Funding"
     },
     {
       "date": "2026-06-22",
@@ -1700,55 +1749,6 @@
       "headline": "The Week’s 10 Biggest Funding Rounds: Enterprise AI, Space Tech And Biotech Top The Ranks - CryptoRank",
       "source": "CryptoRank",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWwtT3kwbXE5Qm40eS1ScEtkRUVkTnJJNEZweGtKRHVJcWxFU2g2LVBDWVlQZE1GNml4dktYOThiZzFWZ1VxRzdHZ1czXzRsRFhaYXNELWR5VW9sMFNqbHMyUExFNG1QNVVRYm1PSDBhaDU1bEtfZXFJSUEtbU11R1Nia3VCM0UtQ0c1cUQ5ZGZDWFJHQUtDRmk3ZTQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-07",
-      "headline": "McMaster spin-out biotech company gets $2.5M in seed funding to develop critical medicines - McMaster News",
-      "source": "McMaster News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0lDdjVEcVFWd0EydGZ1Y2h0WkM4QmJwZ2l3VkJpM0FELTlxYjhpaDdFUXVHck9NU2sxWlFNeDhrYVlvX2pqNVl1U3lJZHJtR2ZfYjg2bDNqZk1VWEhsbW9BeXlUZm5RQWdlbU5sclUtTmIwNEhvZWcybmlVYWV3eGU0TnpQSnJ6U2VpUlZyOTBsUQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-07",
-      "headline": "Early-stage tech draws VC interest across aviation, biotech, precision manufacturing - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOempkQy1wU1NXZjZyLXlMWXVkMTJ6T2NNdEZPZEZGYzJHVVUyQ29kNTdvNnJxNmNmZ3lCeU9FX3I4R1ZZb2JDYmt3b3VOWThCR2lrdGVzaEJhcVJzd3FwQUlFQmo4UmFHcU1PazZNdTFZYS10SDMyMGFPS2VUcV9CWUZsX2MwQ25fOE83MTBHYzJBUExGWWVXaEdPa3FXQmQwU2o1d0wtUHV6cTlUOFROZlMzQmRGRF9WSFRhbTFLVFpwcmM4SWJzQjBobkdxZzJ3eXpiR2pWbkNiTTlWSE41S0pDZlrSAeoBQVVfeXFMT29sZXhRclNOZEFkYjFYaC1aQVNxeG5pZlR5Qm51Mjl3MS0zaThZeXNhVHZLTlpuZjV1NzhZclRFYnczTzZBaEFUMzJJUzRPOGlScDEyVTJ6VEVibWJnVFY1aWhya0xXUm9JdGY2NHBSREZLak13UnNRQ293M1ZXTHlPdjBkdzFtNjAzNHBVYW8xTVZnMlUyRlZVLU5vVzhROVJFOERJOTZsSFlxMVYzam9qWUhBbGJDOGZxbWdQVURxZm94eEVRNUpLaFhfcHhKeEFDOVRDNjJxd0lmNHZoQm1uWEUzLS1GbmdR?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-05-06",
-      "headline": "CellCentric raises $220M for a ‘transformative’ multiple myeloma medicine - BioPharma Dive",
-      "source": "BioPharma Dive",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1ZfenZDcjdrbm1keTgzM1dpUE04ek02Q21zRFhnR2wzdFBFMGY5dFJtRGlzbnoteUpRMUM0bUdLZHhlNWl2TFJjRnJUVlc1UUVuY2pzQlVHSHk0bGRCaHNnNVRWTmxqMVJYVU5NOEw3TktTT2ptQURmYUM2eVp1dEw3U0lRamI1Z2hTRHFERjFPU3A2?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-02",
-      "headline": "ByteDance Is Building Drug Discovery AI and It Is Presenting at the World's Best Science Conferences - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdzlYTk00akxtZG1ybDhBYWN3WExiTXJibXVLajhVUEktcGRKVm9rZXlwRXFNakJYMlVVNmJZUWtlQWxQWDlCSXdta0dYQjdOSnpDczVQSi1ZZkVIdDJCQjU5VlhZekJydUF4VFZDZkRTVkpmRWFueUVnYklIWWVfNWpRQ2xPUjlQaVliZ2puTE4xRU5FcjE5WEFZRlAzaHZ2VW54dU95ZFZsS1RKYVpfdms1cERCQ1JCNGFwT3lSQnNqMVA3b1E?oc=5",
-      "category": "Breakthrough"
-    },
-    {
-      "date": "2026-05-01",
-      "headline": "Critical challenges that Canadian biotech startups face in Canada - hospitalnews.com",
-      "source": "hospitalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQekZHMnd5WTE2M09rVUppVzZUNE81Znp4cmtQeFVOR2JEcmpzVXNrWHlSTlRJWDBqWkN6Tk9lMFFpYXVkT2dkek5pLW15TDlLNWpJVG1ZVTZvZFBHRU1pemUwbmlycEpnWlF3VGFxa3dEd0dSdlpDTzVOTG9fQ2lKZUlrbGNNeUUzUjlncXpKbjBLaTAyeGRBNmxzVQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-05-01",
-      "headline": "Her daughter Mila got a bespoke medicine. Now she’s starting a new biotech to make more - statnews.com",
-      "source": "statnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjFqUkh2bUhLeUpoNk1NZ1JrRjZEWEJRczVUNHR1NFB2dXQ0NXFJSVphaFFaMmlZc0hEVlA1LTNyODhNa2EydVpnakxNRVctblVZUEE5NG95RzFCUWtmVTl1Z0pmQjlCTkY3N1lsbGp6RzZSdm1ZaGh0Z0g5dDNWTXpkd3U4dmt6TEJvLWpYU29TNkIycmpyVmpSMGtYZEdENmd1aA?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-04-30",
-      "headline": "Swiss BioTech startup ALP Bio raises €1.9 million to advance immune organoid and AI platform - EU-Startups",
-      "source": "EU-Startups",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS0NaY0s4S0xYYnlDNWxsOC13TmJTdWVOTFM0a0RBZUwtOTFOSFJpUk9QMjJFcnB5Z012dUJCQkZ3U1pyMzdVM1hPWHluVHU5Yk5ObEFndTlYZFFtdGMxN1lrVmY1QWdRVXhiVnM1LV93dGY0RmdTUDFTRklaWVRScTBaR1o2SXFqQmJaREtkclJjbzRvZnB2UXY3TUIzZDVBZWE4TDJUNDl2WDUwR3BDVE5ORXdJUFc0aW9scENfQXNJc0ROaDRZUg?oc=5",
       "category": "Funding"
     }
   ]
