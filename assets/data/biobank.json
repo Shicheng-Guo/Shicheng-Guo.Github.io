@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T18:25:42+00:00",
+  "generated": "2026-08-28T19:36:07+00:00",
   "items": [
     {
       "date": "2026-08-26",
@@ -59,8 +59,8 @@
     },
     {
       "date": "2026-08-14",
-      "headline": "Korea Disease Control Agency builds normal tissue biobank from deceased donors to advance precision medicine - 동아사이언스",
-      "source": "동아사이언스",
+      "headline": "Korea Disease Control Agency builds normal tissue biobank from deceased donors to advance precision medicine - DongA Science",
+      "source": "DongA Science",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsZC1mdlYxcGJuMkw2MEQtQjRhbVhkdDJNOXcyYWN5c0dOQ3hWemVXQlZrd2F6aTZrcmM0ZUZRdjh2VENvTm9SeU9kUlJFSFhEMmhUVA?oc=5",
       "category": "News"
     },
@@ -427,6 +427,13 @@
       "source": "themercury.co.za",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VaUZ0QWRGb3BxbXlTdjYzVUZTUnJjVHdJcFotclctaTR6SVNldFFpQ1JTN1JYR2g3M1pfSTNpcUNFNG5SVmFEbzhZUUZhNTVDaE52bnB3WFJCLXdtS1ZmNUFxYUZ4bllKUDFrZ2ZB?oc=5",
       "category": "Data/Cohort"
+    },
+    {
+      "date": "2026-07-07",
+      "headline": "Polygenic score for sleep duration in relation to the risk of Alzheimer’s disease: results from the UK biobank - Frontiers",
+      "source": "Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVE9YMlhNalNjYUZtQ1VGN3pTbGtiZmo4NkhaZWt6QjFCYnBCWkdZY1FjOVhQTzU0QXNXODBDQmNCN1hSc0h2YjdleHBCZXFaVXZpQ3o5STdtMS04aUZ2QlFaUG5HNVUyLVlYZW1CaVotN2xxM19QZXltX21vaU9qX2VlWVN4eXZJc3NmdG91VQ?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-07-06",
@@ -1416,6 +1423,13 @@
       "category": "News"
     },
     {
+      "date": "2026-04-24",
+      "headline": "Central Adiposity And Infective Endocarditis: A Cohort Study of UK Biobank Participants - medRxiv",
+      "source": "medRxiv",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Dd253OWQ0Z1BCRGQwOHJrY1VWTHdWTHFJeXFGLXV5akVjRGV5YnJmZDIyb01HS1laMDMxMkZIVmM1ZmpnT01Za05SYnBOdW8zOHkyUlNsOXdNNndIb0RxNXZIMEJYSDJsMVdKLVBLNTJwUndrUGZvSklDZGY?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-04-23",
       "headline": "UK Biobank health data listed for sale in China, government confirms - BBC",
       "source": "BBC",
@@ -1473,8 +1487,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "UK Biobank patient data placed on sale in China - pharmaphorum",
-      "source": "pharmaphorum",
+      "headline": "UK Biobank patient data placed on sale in China - Pharmaphorum",
+      "source": "Pharmaphorum",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xZUY1Q3FnN2tlVXhjVkx3cU5UdGxYZExCXzl6M3kzdXQyT1pHVlE1amVrbzdpZ3hfZFYtVUwwbmNiMTRsYUs0eHowQUwyTlUyeVB1MmNpUGF4VDV3bUdOOENaOEdvTGNUMU5XV25wSnhUMnBWMHAxMjFtYw?oc=5",
       "category": "News"
     },
@@ -2085,20 +2099,6 @@
       "headline": "UK Biobank to get access to GP patient data for research - Home | Digital Health",
       "source": "Home | Digital Health",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3JVZVZHeTVYOG80WWZ2QUpqUi16ZVpZWlpIWGJzWDZid3lNZHVpdml4dE5LNkVHRWxBNEFTTVdxWGtYVU4xVTAxVUJ0UHhna01yNndnX1BKZWR0bnZCdXc4MzhRZWFMU3RZblM2NllDMDJGb0xIRHl3cFlGa3c3TTVJa3dqc216TXRSSlV6VHBBY2NPa3RWOHVBb2M?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-02-16",
-      "headline": "Victorian biobank begins recruiting for COVID-19 vaccine studies - Doherty Institute",
-      "source": "Doherty Institute",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTgzS2dIQ1JycjFNZ2RNYUtBVHJjUUM0NkF4YUtuaTVPNXhoSmRicWlaQnNIeUFXelZ5X0VwcDZZWGZTbVNxRkc5RGRWYjJ5M1FvNlhONnJsRmVQR3J1dElEYWpsd0hVSXZCZWdoRmotZ0F1NEcwSzc2d1VRdUxZYVAwYlh5VHpqZTN6Z3lweW5JM1pCYnRvZ3NCd0NreXp0cDJj?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2026-02-16",
-      "headline": "Decades of medical insight unlocked as UK Biobank gets GP records - The Times",
-      "source": "The Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0xKVzFxSVEzaFZuQWJHRWhack9BbXdQemdvbV94UHlRcGMtUENRTFc0X0lsZFRWdnlPd21Jd1U4MEdmY29ycGNraXJFemtHb1B1cWxFS0RtNnA2bS1ldkJPdDByTVNjTWFIZ1R3SWNTUVBmVENid1RUX0NmQ2lGc2FPYUhTc0h5Y0hPNk9mNVJDVkk?oc=5",
       "category": "News"
     }
   ]
