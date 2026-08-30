@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T13:22:37+00:00",
+  "generated": "2026-08-30T13:19:33+00:00",
   "items": [
     {
       "date": "2026-08-28",
@@ -28,6 +28,13 @@
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MZ21IZVRSVE5sM2QzUVBKNFZOTW0yZGpfVTV0alR0a3FfVmdWY2Q0UFFoTElYYWFtSVpER3RyWkVLWkxSX0lTWGIxSGZ5VUxfR1VXQ3dkYXNsWVBNSHcw?oc=5",
       "category": "Research"
+    },
+    {
+      "date": "2026-08-26",
+      "headline": "August: Menstrual fluid biobank | News and features - University of Bristol",
+      "source": "University of Bristol",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TSE9QZDhTcUF1MVZyWUt2djhVNERGRUlObmN5dURlQmRQdUlBV18xUnJncGVtR2E0aERObnlwWV9VeUNrWDJ1OFc4UUdKMTFPS0pJcmR2OGdSdGNuaXJvZG1uTEpvWV9TYXpyOWFQN3VINWZVeDdtaHFIcw?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-08-21",
@@ -541,7 +548,7 @@
       "category": "Partnership"
     },
     {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "headline": "NIHs All of Us Becomes Worlds Largest Genomic Database - Mirage News",
       "source": "Mirage News",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1pPbHpKN1JIazZqY0pMT1ZqQXlYRVZtb293U0cyWlBDc1BlM2Y2dmtGWlE0d1o0LXM5UEpwQnhvNU50UHR0MnhOZEpRV3ZKMHg1bEFMQUZxN0dvQjNfaVhJQm5hZVFHUi1yaEJPUm1WLXA2S3Z5S1o1WlY2a1UxcTFVQ0ZuTTg4?oc=5",
@@ -1654,6 +1661,13 @@
       "category": "News"
     },
     {
+      "date": "2026-04-23",
+      "headline": "500,000 patients’ data for sale online after UK Biobank breach - Medical Device Network",
+      "source": "Medical Device Network",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG1pNWx2Ylg1T0RVbHlnakV0X210MzFDWHU2TFZpRGU1WnJJUGxudDBlUHdiTDZ6MEhxU2lZMm9oSTM1X3Y3eUdsQk5nSDJOT1ZYb3dJdVROc2xzblRtSWw3ZV9nMDJQNGJfcGFxLXpFLWNFR1lrR3hYNkJqREhYVmhHbE1zRm9BSEtNbXJCYWdKSzJVNUF0MzdmeVhBZ29VNjZ0eU5XWQ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-04-22",
       "headline": "Biobank-Scale Plasma Proteomics Identifies Novel Biomarkers in Hypertrophic Cardiomyopathy - American Heart Association Journals",
       "source": "American Heart Association Journals",
@@ -1956,8 +1970,8 @@
     },
     {
       "date": "2026-03-17",
-      "headline": "Multi-ancestry genome-wide association study in all of Us for primary open-angle glaucoma - Nature",
-      "source": "Nature",
+      "headline": "Multi-ancestry genome-wide association study in all of Us for primary open-angle glaucoma - nature.com",
+      "source": "nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrVGlEOFIzbGNGajhmZFNrSDlWamJIZkVoeXJPSWxEb1BLWkVLNmZGNkNkNFY5aUtDYzFQWElZUTFhYjk4UHBhMEhObDgyejdOZldZNkZ1NXhSVXlDa29J?oc=5",
       "category": "Research"
     },
@@ -2086,20 +2100,6 @@
       "source": "Healthcare Leader",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmsyMnJ1dEZBdk1zbXkwTDFVdGZwcGpUQkJiS1B2ZTJJZUZ2czdmcHR1YzNoc2dBYkEtaG1CSXZKSU5Xckl0V1hJeWJIWDc2aXN6T19tZUgyR21lQ2VOSVNiUElaUktndnItdm55c0gtS19ackJDa1lYNkpjbEVGaHFDNTk0T2JLY2czUnJMTmtGdnp4dVkxR3lrUlNqTWs3SGhhRjVnZF83cUxISTN0S0lfWGJhWW0taFBF?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-02-23",
-      "headline": "Shared Neurocardiac Pathways Linking Atrial Fibrillation and Depression: A UK Biobank Analysis - medRxiv",
-      "source": "medRxiv",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jTzFtWTZPRVBvRUJXbGRyYkJLUkpTOG5zMlhTRTRQNHBsR3J3Z1JCelB3Z29YLTUyRDVyY1JZTUJPWDFBbVJrZ0xpU2ktM3FFNFBCWl9zRFM2RDJKTWoyQXhPenIwbTNSQTdGTA?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-02-18",
-      "headline": "Zifo Partners With Maze Therapeutics on Managing Biobank Data - Contract Pharma",
-      "source": "Contract Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTW1XWUFnRF96a0RVaUtJS0hYWjhHN29Rdmp0aGduRXZYZW8tejdZSmhtY1BRdHlxZWExWGxfdWZFcUdvRGVVc2tJQl90cmZ4VnBtZGQxSlJsYWFYVllUR0tHaWhhSFA1X3hJakZXOExKb3pDcHduR2JKelMzSDVCWmpEWndhMjVZRVBqUW1waW9rNlA1cTMxYk50QUZzRnVUUTlHQ2FkS3NQMHc?oc=5",
-      "category": "Partnership"
     }
   ]
 }
