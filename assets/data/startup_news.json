@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T16:06:34+00:00",
+  "generated": "2026-09-01T13:26:34+00:00",
   "items": [
     {
       "date": "2026-08-31",
@@ -10,9 +10,16 @@
     },
     {
       "date": "2026-08-31",
-      "headline": "This startup wants to use AI to reinvent drug discovery from scratch - Yahoo",
-      "source": "Yahoo",
+      "headline": "This startup wants to use AI to reinvent drug discovery from scratch - yahoo.com",
+      "source": "yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT1o3a01XZDJCSmlUenkyamg1TlB1QTJHQ1p2Y3RvSmM1dFdKdy1ZMUJPRWVnTDlLdDRMUnhGN0dtRlUxZGZsRzlBbEIwU01ReGs5alRWLTNPRnZwUU5rbnJBLW9RdGpZN3NvNEVIMktMVXJOR3hqWXY1MUp1d1FROXUyREU0Zw?oc=5",
+      "category": "Breakthrough"
+    },
+    {
+      "date": "2026-08-29",
+      "headline": "AI Is Getting Easier to Build. AI-Biotech Startups Still Have a Data Problem - AsiaTechDaily",
+      "source": "AsiaTechDaily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2piVDMtZm5kU0c2bG9SY0JTTlRDLWs0eHY3ODFpZURZel9vM1VRb0tQVkwxcXR3aGRXYmtGWDJJUkhacnIzS2tBUUpMb05jOHNlMklaOUVMa1dPZnNSeldhSzhMUnFINXlOTVBLMjVXQlk2Y2wtWWQzZ0t5MEFFdkNNRDQ2aE1Od2pKc0NJQ3NVcmVqeV9nTjVqR01laHZURjJpWA?oc=5",
       "category": "Breakthrough"
     },
     {
@@ -373,6 +380,13 @@
       "category": "Funding"
     },
     {
+      "date": "2026-07-28",
+      "headline": "Bayer opens global innovation network to Korean biotech startups - Korea Biomedical Review",
+      "source": "Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1henEybHhVbjJERTZ3M0RXZ1JGdl8xZXR1X1ZieFJaTjVlZzZKRXo2UDI3MDFmVDFzTjJXam4tMlhWSW10a0tEZFJFVVZNMmxGVUhXU0Z5bjFZWEVGajQwV3hGSXhEOFVza1M5RnpB0gFyQVVfeXFMT0VmVkFoMEJMVUF6SEpudVlxaFFYc1VZUjByUU9wcDNQMExZcHVlUk9BQ3h5dEF1WTNrcGZxYXl3LWpmZVdQdjhhRGRPbk93bVk3OFNoU3p5RUZtTUFyRGdiaFMwWnF5MTdKYVFxaXVwZTNB?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-07-26",
       "headline": "The race to build the AI scientist. A Polish startup wants to win it - xyz.pl",
       "source": "xyz.pl",
@@ -395,8 +409,8 @@
     },
     {
       "date": "2026-07-24",
-      "headline": "Jubilant Biosys Brings Together Global Biotech Leaders to Advance the Future of Healthcare Innovation at 2nd EDGE Innovation Forum - BioSpace",
-      "source": "BioSpace",
+      "headline": "Jubilant Biosys Brings Together Global Biotech Leaders to Advance the Future of Healthcare Innovation at 2nd EDGE Innovation Forum - biospace.com",
+      "source": "biospace.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMzIyT2RwczRUTXBPRm4wZ1N2aF9Ec2s3NFd6b2JCYXozeXBnaFNmaWZySjFldnRlakRkM1Z0VXhMTTZjNU1XcTZEelJzU2tjZDZiSUZJV0tsZVlVdll3TlkydnRWZmY3bTlxSDBlRUVlTkF1ZW95Sy1qMXlpSkZzUDNicGtMd25uZmlSSWZnZHVNX0Z4cUk5aXNxLXEwRXBYdXFZNWIxN19PNFI2ZmEwYnB1cnVyN1FVNVhIQ1EwbS1VMXEyQkZJTVhpbUNVYUF0RWVLTVNWaVc2Wl8zRVEzZ2E1b1NvOTBMNG54dXMtYUs0aExicnJlbEFuaEFqTWs?oc=5",
       "category": "News"
     },
@@ -1319,8 +1333,8 @@
     },
     {
       "date": "2026-06-04",
-      "headline": "Why Pfizer And Eli Lilly Are Betting On This $1.3 Billion AI Drug Discovery Startup - forbes.com",
-      "source": "forbes.com",
+      "headline": "Why Pfizer And Eli Lilly Are Betting On This $1.3 Billion AI Drug Discovery Startup - Forbes",
+      "source": "Forbes",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbU1Ja0lIbmZ6cEc4a0xkaDhuNW1xNGR5Z191NnJjbjllM2NYVFc3c0Fxa0JqdEtBaGJDS1J1eG40Z1hMMUljRGVuTDh6NW5DQUlNbGsyTDUwNlN0MEdZT0M2TmF6bmhNU0QyZHVRamRxYlIySk5POWtocUZTOFhlTXBGMHYzc1JBaWpKaHFvdHl5N1BzVnVDYVhoMDJPdDVvRFJ0UktPckoyUXlzN3h6SDBQdG1lRlIwd1pMdTRoby1JcnFOQU5YSHFadjJNdw?oc=5",
       "category": "Funding"
     },
@@ -1354,8 +1368,8 @@
     },
     {
       "date": "2026-06-03",
-      "headline": "No VCs allowed: This biotech startup is funded solely by retail investors - Morning Brew",
-      "source": "Morning Brew",
+      "headline": "No VCs allowed: This biotech startup is funded solely by retail investors - morningbrew.com",
+      "source": "morningbrew.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTl1WEcxRW1UWDB4S0dkOS1nYWFFSUFPbFV1emJ1amFLUXBvQm4tY3ZCNnp0c1IzWE91akt3d1RNZnFNWEh0cEZLTGRNTGlUb0RyeVRMVXVOWTktc0x4YnF4NUp4bjZoeFBzVUxGN2pfWGhMdTJSMlY2eHVhWU1LcnYyRXE3QlE?oc=5",
       "category": "Funding"
     },
@@ -1641,8 +1655,8 @@
     },
     {
       "date": "2026-05-17",
-      "headline": "The Jerusalem Startup Developing a Breakthrough Therapy for Liver Cancer - Haaretz",
-      "source": "Haaretz",
+      "headline": "The Jerusalem Startup Developing a Breakthrough Therapy for Liver Cancer - haaretz.com",
+      "source": "haaretz.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQX0RSYi1RZHdhRy1JSDE2OGJaUzVrVHNzaC1zVVRjQ1pUc2hzTWYyNllBTU9wdGRqbzdmNXRxX1VEbndFdjcxczQ4dktNdDFXWXdVaUM0am9xcEdtbDZLYUttRksxcVFtMmMwYmlCbEtGZ1IzV3Q0S2p4SDgwNTdNQUhBa3VVNUY0Q2RJZk5WdGRfZlg3UFRBdEhLOFYxQURmUWF3cDUyaHZRNEtIVXlmekdnTF9ScW40SjVKYV9tajc1c0VEQmlJeENNdnRMaGpqNGlCOUpTLTNIS2xWTTVpak96SXJaUlVXM2R6Zmt0LUYyd3ZYLXdNcVh4QjEwTmh6Z3AyN1dxSUw?oc=5",
       "category": "Breakthrough"
     },
@@ -1704,8 +1718,8 @@
     },
     {
       "date": "2026-05-13",
-      "headline": "Meet LiteFold, a biotech startup using proprietary AI to speed up drug discovery - yourstory.com",
-      "source": "yourstory.com",
+      "headline": "Meet LiteFold, a biotech startup using proprietary AI to speed up drug discovery - YourStory.com",
+      "source": "YourStory.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEFMdVdkWVhuU1VZR1RxNk9DeFhLTkdIQ1JpWGFjb2hpd3VvR1lpNWE4MG9LVHptd1JQMmZMODBCamRPakpnUzg4ZUQteVVnUEQtc3F6akR1Q1FGTktSWEstR2VWazJlalZldWNYZXMtSld4Zk52Y25uRUlBRHp5a1BCOS1ZRnhpQUNwMHNtY0xJS3c3UlRmWGRtUnJqYVpK?oc=5",
       "category": "Breakthrough"
     },
@@ -1735,20 +1749,6 @@
       "headline": "Biotech company secures £4.3m in funding to advance treatments pipeline - investment led by prominent venture capitalist Jon Moulton - Insider Media Ltd",
       "source": "Insider Media Ltd",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZGVOZTlVbEpUVW1NRW01MmUxRTFsbWRaQXUteWk0TUF6eDJuZ05VUG1qWHBhT1RvREVOV3JxbTlzMkNrLTVvOWhEQ01weFRoWG9XeVB6Z0JwalMxai1ta080aTE1MERZc0FyOE5iRS1FeWRxVElhTEkyd29ZWWdpQXFmdHY4MnYyQkk4VHowakpKQkVGQk1jUkdqY3BqaTVZUDZ1bk1FWW9OdVNZejMtLWMwSTQ5QW1IQms1WEt1TFJpaHdVVTNOVw?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-13",
-      "headline": "AI for the workers it can’t replace: Italy’s Gyver raises €1.4 million to empower electricians - EU-Startups",
-      "source": "EU-Startups",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUklsX05FWmJCWjNfemRjdy0wazhyZzhiN3FndEx2SmozZVA4VU1XQUJBcjBuUmEyZVN0a095ZHZyRkxyZHpxaVV0aVFhLVg0a3FFb29KdEFjTGwxV3ZDQjdDQUNzejFMa2NjWGFBbEVqN0E0aTNaMmRtRGxpT0VrVWllOWRramhKZ1JVQTBFOG9KdUgya3FlSUlxMUxnbkRfSFhnSlk5T3pxOWJhX0VBY25jYlNVOUhQZXlSUXQxZTlpM0JXVVhZ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-13",
-      "headline": "Isomorphic Labs raises $2.1B for AI-enabled drug discovery drive - European Biotechnology Magazine",
-      "source": "European Biotechnology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUXZzWm1nMC10R04wQ2NSaTlDNjBaMVhORmw0dlNkOVE3THo1STdPbHZHUy1oTlRyTkduVnY2d2FTLUxYMTJTNFJEZ2FmM1JvWno4RWRzeFFNaDhJUHlCaHMtZzltOEZ6QzRSNEt4cllIQ21TX0xfREcwSzJKM1oycjlJMXowM19IWVhSTmJRVXkzVnoxNFdQYVFYenFDOUxhU19tS2VMNmE1MjV3aDd6Sg?oc=5",
       "category": "Funding"
     }
   ]
