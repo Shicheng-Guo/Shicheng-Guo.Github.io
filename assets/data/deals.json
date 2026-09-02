@@ -1,6 +1,17 @@
 {
-  "generated": "2026-09-01T11:35:53+00:00",
+  "generated": "2026-09-02T11:14:08+00:00",
   "deals": [
+    {
+      "date": "2026-09-02",
+      "headline": "Sun Pharma Signs MFN Pricing Agreement with US Medicaid Program - India News Network",
+      "source": "India News Network",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaktmOG43N3hTZTYxT05lOVhJUFQ5eVVFdnV3ZVUzYXlLSUZySkc1ZWYzYWlpV2pRck9zb3NMdmJNUE4weHE5alhwR0NMeFZ1d3RmTmhyaHZxM3hFNXFNZENIcTlSa29NMHE2UVlFQzY0VXFoUVA5NVY3eFZpeDhDSmJBMzFudTF5aHctb3F6VDg0Ym5EWVNOemZlendMM2FpLUl4ZzVn?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-09-01",
       "headline": "Goldline Pharmaceutical promoter raises stake to 29.27% with open market buy - scanx.trade",
@@ -31,6 +42,39 @@
       "type": "Licensing",
       "value": "",
       "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Lilly Looks Beyond Obesity with Up-to-$2.9B Acquisition of Merida Biosciences - Genetic Engineering and Biotechnology News",
+      "source": "Genetic Engineering and Biotechnology News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQU95b1BmYWtqUkhmX3RSVVo1cnFtV2NGcTZUQnhSYkp2a0liMnBwWWNCUTRwRjhXbXkwSUNTYk1IWmtWWVh6c0dmYnp3TS1RNHJKb2VLVjMzZGw4UjdoZzZ5QnFJaWk5YlVadmdFNHFYa2JLMl9HQ3FZdktKeF9NNVpCTzVtY25TUG1PRnN1V0Rndl85dXBfMWZqb21kN2xtUkd1aUFJUFZkSTdqQUpvWnpTTFRlUDVySnhaS2pKTFd1Tm1DZWtVcGxKdVBCQm8?oc=5",
+      "type": "M&A",
+      "value": "$2.9B",
+      "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Vertex Completes Acquisition of Crinetics Pharmaceuticals and Announces Expansion of Executive Leadership Team - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUld1SzhUNEw0RWwtQlZGdXhLZ1FKOFhrejVtSW5SNFU3cFdXV1pBcXk0VGV5RGNYQk83QVczX2h5TGVMV0J1RjZiaUdJOEpKMUhQMUJ4aVhVU3VFdWN4b0dkbXhUZ1NOUk1Na01ITk05RGtLdWo3S3k2VV9IS1BzTzVuNk1yNmRMdC1BQXNNbi1nU1lQZ2NiQ05sVkI3ODlQQjd4ZVNnYlFKTnNacVYxWUFYaEtNcW5HR3dxX1B2R0dGb2lTQ2NMLWsxYU5tczlmT21IdlhxdENaZ0txWmNKX2kzYjl6Z21JUnM0dTdqbWNPdWpYX3ZxUUEzVQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Roche taps Simcere for trispecific T cell engager pact with $75M upfront",
+      "source": "",
+      "link": "https://endpoints.news/roche-taps-simcere-for-trispecific-t-cell-engager-pact-with-75m-upfront/",
+      "type": "Deal",
+      "value": "$75M",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -443,8 +487,8 @@
     },
     {
       "date": "2026-08-24",
-      "headline": "Hanmi Pharm signs massive licensing deal with US biotech firm for obesity drug - ajupress.com",
-      "source": "ajupress.com",
+      "headline": "Hanmi Pharm signs massive licensing deal with US biotech firm for obesity drug - Aju Press",
+      "source": "Aju Press",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lVUIwQ0N6UDBWNTl2Y252VTJjOGhrNHZWYnlZOHZwbmVNTDhBQWt0TF9RS1d5NXV3NjZ2ZHRoSGN3WjdTSjlLZEl4ejFSRFFhU3RmUFBnOFd2LWM?oc=5",
       "type": "Licensing",
       "value": "",
@@ -487,8 +531,8 @@
     },
     {
       "date": "2026-08-24",
-      "headline": "Hanmi Pharmaceutical signs record $2.3 bn obesity drug licensing deal with Roche’s Genentech - kedglobal.com",
-      "source": "kedglobal.com",
+      "headline": "Hanmi Pharmaceutical signs record $2.3 bn obesity drug licensing deal with Roche’s Genentech - KED Global",
+      "source": "KED Global",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoUXNNaGV0TnpvUXE4cGpScFE1YVFCd0pXWnFzRTFwNF9iNmItTmxHTlBldXRfWVd3UUQ4NVVyaDE1bGYycmF3X1BhNUNHSU1kMmtQTElUTlVZRk1uaFIwOXAxWTg1aVhHVF85N3dfeTI?oc=5",
       "type": "Licensing",
       "value": "$2.3 bn",
@@ -542,8 +586,8 @@
     },
     {
       "date": "2026-08-20",
-      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
-      "source": "Generics and Biosimilars Initiative",
+      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - gabionline.net",
+      "source": "gabionline.net",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFY5d3ptSTZGUGVRRjJkSlVlR25pbXVHQUE1cDUtUGVzREp1NEd3bUNUeG1GOTFXeU54OHA2X3pmRE5vYzFyaHJZRHQyME11SEdtNnlwNXNzWUotYzZNYUJFNmgyRVV1TWYwc04yY01UV1Uya0dIVF85OGZLRWQyNUVtNEpnSktRWWFRZHdMUlBOUjF4LWZnNTMyYkJuM1hlMmN4T1dXS2lmWDltazNGYmlnaw?oc=5",
       "type": "M&A",
       "value": "$11.75bn",
@@ -2126,8 +2170,8 @@
     },
     {
       "date": "2026-07-19",
-      "headline": "Vertex Pharmaceuticals Just Made a $10 Billion Acquisition Worth Watching - The Motley Fool",
-      "source": "The Motley Fool",
+      "headline": "Vertex Pharmaceuticals Just Made a $10 Billion Acquisition Worth Watching - fool.com",
+      "source": "fool.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2MwQmd0WnhuUGtxX1pCclQ1bUo1NjlHS0V4VmloOFF1SnhpaHI0QURqTDV0eFhsMGQ2QkVnUDludmJlNVJnalF2SHNrT3A4SW5DeFcyOExkaklEd3d6YnlpVzJEdWs5S1NzM1hsSEVrS2pSbGk5c1JXS19tR1JkbFZteU8ydGVNdzVYekdxWE9NTzNQbVowag?oc=5",
       "type": "M&A",
       "value": "$10 Billion",
@@ -2258,8 +2302,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "Lilly to buy AtaiBeckley for $2.8B, further validating psychedelics - BioPharma Dive",
-      "source": "BioPharma Dive",
+      "headline": "Lilly to buy AtaiBeckley for $2.8B, further validating psychedelics - biopharmadive.com",
+      "source": "biopharmadive.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzRzb0tpYUpJemxVMGFrd29aclR4R0pNRnptajdUVHU0UGEyenJwczRpMTVLazFCYW5EYThwYVFhTWhmT2plZWZWaWRQdXhIWVBUd3RsWnFRZVFBUERxZzRCdzY4Y25HX1V2UzM2aEdUdDdjNmVXVDRMcVBiVU1aMzJIcmp2c3otZzJpdDllenlFcWc1NnR4OTZiQ3pGWkpsZUxadmVCWTdnYW0zMnhkbzJGbw?oc=5",
       "type": "M&A",
       "value": "$2.8B",
@@ -2632,8 +2676,8 @@
     },
     {
       "date": "2026-07-09",
-      "headline": "GSK cuts losses on $700M upfront Alzheimer’s collab with Alector following 2 clinical failures - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "GSK cuts losses on $700M upfront Alzheimer’s collab with Alector following 2 clinical failures - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnFnX19JN2ZWTFp1akFBOEtiRVBMWWxnbGhIY0NGalUwSDhncjNQTFpub1lXeVFtOS05Nk5NVmtNRFJkZW1wbmZ5V0dROThiaHpEdlV3eEpVSlViVmdpOVN6V1BEV1VrNXgxREI4OVJLNzFHMC1YRXNDVnlEY2dFYVRRbGJlTEROWncwNGtXbHl3SVhKLXM2bEdQMGMtSXVla0xoZ0RMUmoyWjU3bENzYWZRdU1RU0FReF9XRTFEVklyQQ?oc=5",
       "type": "Deal",
       "value": "$700M",
@@ -2702,50 +2746,6 @@
       "source": "Pearce IP",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUM3dFdmc0I3SWVSTDFHOGk0X3lNSjNmRE9IRjVKRnJQYTNNRzY5VlRjS3c3dWFocTU3WklfaWYzNzVnYkdKX0tjM2lrV0tYNzdDTWRCSk5QbUNQRkdVTkNCeV9XbHBwSHEwX29mLW9FYzYwVERPLVNwcnZzeUJGYXhXblR3TlNNTFhKaFZwYnpQM3E1enZNZ093VzdLSTVWeUtuM2NYdVRhS1VNTlRVNkphOVBLcEZSaExUa19yT0x5cXEzaVRtSmRGVQ?oc=5",
       "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-08",
-      "headline": "Marksans Pharma rises after acquiring 100% stake in ABCnow GmbH - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaGhYNWlQWndYc2Q4NjlNWlZJOGlIRUtCMlpXWGVrNWxIdklRSFZkZjRSWmNkcG0xM1VycHB0azExaE5UTDd5MmlJWjdJaE94ZlJkMXhqMTVIdjhqV29MblEySEc2SmhQU1hFQTN0RVYxc09xakk3bGJMSnlDSncySUZOMnVvb1JDa2tfSzVLZkkzNW8xLVFPV1NvcllaM1hqLUMwb0hIQzZ5ajBQQ2pGdzVfcElfSGw4TmF1WGNYcUdZXzV1dmQ3S2cyc0pOV091aG55YWFwNWFOYzk50gHiAUFVX3lxTE1sNVV5cEF5SzJrU3VWa3BTTTdnZWlKUnZJR0RkQkhZU3JlVkp6akNsVGpQT0g5ZW1XeTBFbDJOa2lVRzNhYk1DNHVoLU5yVDRuMmp6aUdtWGtubFM2TG5iRm1mMGdZQWdzQlQtSGh1aXFNSk80NVNIaUZJeklJRGhtNjZwSjRMWXhQY0lnSFFMXy1MdmZNR0c2RXlfV2czZkh6Qy1FSmtjVUJxUXVWZmsxX1ZtVWVFa21Ha3ZXV09abU9SNnk0cDdoRy1DeWstR3dIQ2lzVzVKZGpiajdZQ0VWWEE?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-08",
-      "headline": "Marksans Pharma share price jumps nearly 4% on acquisition of German pharma company ABCnow Gmbh - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTHF0dFdjUzEycXJEZmtMUnFaaWdSQzNfVWNiZmtZbUJ2QWRGUEFFNmg1eDlWU1BmTHhOd1pzcUNXd18xV01fa19MM08ySkZ1T0xsSldqSWhDVGc4NFRRRTJ3MUhfelNqay1wekw1Yk1tcjVCTEpDMmJqTFhuX21pMkVPTHhHZzJRb2tSS2VWaVkxMF9EYmNWR1gwN3lTeTduQzNJRnJfZUhuMC1BVWt5R3lkR01lZVpkV19XYW1GUHM4b0lwbVE2ekVmREQyWUl3emRfRzZRYkdnU01SZ3Qzbmh4RDluUHhYX0E?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-08",
-      "headline": "Triple-Digit PE Pharma Stock Jumps 10% as Company Signs Russia Licensing Deal; Share Price Crosses Rs 1,000 - Dalal Street Investment Journal",
-      "source": "Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ2E0WEt4UjJjb185RWUyMDdmTFFkWGNTdzhGWEx1QmZTOEJFNVZoV0VKcTQwa0gxSHpveEtMXy1ncHU3bG1iM19TclRVTlZkVndzekpnM1RlRkh0UzFuWi1xeUxHd202V2xjOGltcHB6N21WQVhRMFhMQk1fTEV1V0d3M1RrYjRQLWV4Ri1Kem1fUUF3X1QwcjVnT3pBUS04bUJYU0FGc3hXTnJvbmtiVXpOUkMyeXVQLURhaVM5RnBrTVBaRk5OSXJJQW5zc3FCcGt6Y1p0QTdhdUlOYUFkWWhERDQ4bmY4?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-08",
-      "headline": "Stifel raises Ligand Pharma stock price target on Xoma acquisition By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3lNV2g1UzhWSkp2TnZFR0JfMWl6Qy1PUGtPWG1vdjZOd0ZTZkJRRFBjdHRqMFlHSVIzRlcyTURseUtpOE1ianR2cVdnSjlfYVgyYzJpaGV6T3JQR25VRHhoTHk3VTkwM19FWHFrUGk2bkthZ09pNXp2SW1WYmJINzJTR2E1aXltellhVmxUMEFsRjlDNVRib0s5aFRaWEpnWVNhSkZuZnNhcGV3UWxfTUFWTmxLb2hfZFgzUHVicjg2THdRa1E?oc=5",
-      "type": "M&A",
       "value": "",
       "area": "",
       "modality": "",
