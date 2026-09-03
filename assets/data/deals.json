@@ -1,12 +1,34 @@
 {
-  "generated": "2026-09-02T11:14:08+00:00",
+  "generated": "2026-09-03T11:10:11+00:00",
   "deals": [
+    {
+      "date": "2026-09-03",
+      "headline": "GSK to license Hutchmed’s KRAS-EGFR cancer drug for $110M upfront",
+      "source": "",
+      "link": "https://endpoints.news/gsk-to-license-hutchmeds-kras-egfr-cancer-drug-for-110m-upfront/",
+      "type": "Licensing",
+      "value": "$110M",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-09-02",
       "headline": "Sun Pharma Signs MFN Pricing Agreement with US Medicaid Program - India News Network",
       "source": "India News Network",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaktmOG43N3hTZTYxT05lOVhJUFQ5eVVFdnV3ZVUzYXlLSUZySkc1ZWYzYWlpV2pRck9zb3NMdmJNUE4weHE5alhwR0NMeFZ1d3RmTmhyaHZxM3hFNXFNZENIcTlSa29NMHE2UVlFQzY0VXFoUVA5NVY3eFZpeDhDSmJBMzFudTF5aHctb3F6VDg0Ym5EWVNOemZlendMM2FpLUl4ZzVn?oc=5",
       "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-02",
+      "headline": "Simcere inks license agreement with Roche for SIM0660 - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXJYV0pQY21KWlo0dS1PRGhIbEFkQ2NGellmVTRfeEg3U1RwRGRsMmdkTkhVT28wcTBrQkxwc1dSMFU4WVgxaVNsV0RZR1RzVjdQUm42NVdkS1dGdUFXejVTa3RNWGRHS2pSY2Q5Q2tfaXZldjNLQ3JIbkdMMG5OV2tKWEFHZ2d5WXlqejEtYjZna1pxWkJQaTVsZ0xxMlk?oc=5",
+      "type": "Licensing",
       "value": "",
       "area": "",
       "modality": "",
@@ -79,6 +101,28 @@
       "stage": ""
     },
     {
+      "date": "2026-09-01",
+      "headline": "Vertex Completes Acquisition of Crinetics Pharmaceuticals and Announces Expansion of Executive Leadership Team - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDBRNjgxZ3RGN0YxNGdwUnBEU05QcG85cmo1alBTdzdVUWRVOWVHQW1OSG5qRkszVVR0eUdfamFtS0U0eEcyNkpwM0w1NEpLbms4RDkxZGM1X1RsdjhtSVpFV1dQYlpaMTJVbEZFVF9PSEdUbUZ0dFo1QS1TTUMwQWlZZkFjUnFqQTFhNC1DaEd1aFRqOVp2dDZ2bnE4Mk1XMlhLemF4QlY0YkM0X2R5WFAzeWlrZw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Roche inks $1.53B deal for Simcere’s B-cell-targeting antibody - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0pzeE95aXlWTTZjMFFGeEtMekkwSG1hei03X0JqSklORzBLLXN0bUR0ZlFpMEllalQwWl9yNXRqYWhjTkZ5TTlaOWxKN01mRGZzQ0dMSGM2dkJNZU9RQWpaQjV4YlA1WWs3bUswemxRd0s2Z0xDclNDYlBNMkUzUDVLcjR1ZEtMWkNCRTJKTmI1Rk0xWWpqUGtpM3pBaWVKOEc3Mm5hM2Qza3NpeHc?oc=5",
+      "type": "Deal",
+      "value": "$1.53B",
+      "area": "",
+      "modality": "Antibody",
+      "stage": ""
+    },
+    {
       "date": "2026-08-31",
       "headline": "Prakruti R Pali raises Asston Pharma stake to 5.33% via open market buy - scanx.trade",
       "source": "scanx.trade",
@@ -131,6 +175,17 @@
       "value": "",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0xSU1pCaFB0TFgyeVRBSUs1VEpxM3dWcm1PN1FGMm5RckpEd2lEdXdQUkJpVjc2dDdyTUMzb0J4YTU1X19LUGluNmUzM1h3MU44ZVd1bXk3YU9OeWlSQUVNZ1FHcHpZUk1SbTl4a2hRYjh0bGl2UFZGeGR2eDFmNnhwaFNFNjhySTNucTMzcDF1WnUzdnFjbkRjM3VJQ0ctT2xhRkMtN1RZRUEtam5LaDRB?oc=5",
+      "type": "M&A",
+      "value": "$2.88B",
+      "area": "Immunology",
+      "modality": "Antibody",
       "stage": ""
     },
     {
@@ -586,8 +641,8 @@
     },
     {
       "date": "2026-08-20",
-      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - gabionline.net",
-      "source": "gabionline.net",
+      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
+      "source": "Generics and Biosimilars Initiative",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFY5d3ptSTZGUGVRRjJkSlVlR25pbXVHQUE1cDUtUGVzREp1NEd3bUNUeG1GOTFXeU54OHA2X3pmRE5vYzFyaHJZRHQyME11SEdtNnlwNXNzWUotYzZNYUJFNmgyRVV1TWYwc04yY01UV1Uya0dIVF85OGZLRWQyNUVtNEpnSktRWWFRZHdMUlBOUjF4LWZnNTMyYkJuM1hlMmN4T1dXS2lmWDltazNGYmlnaw?oc=5",
       "type": "M&A",
       "value": "$11.75bn",
@@ -1155,6 +1210,17 @@
       "area": "Neurology",
       "modality": "",
       "stage": ""
+    },
+    {
+      "date": "2026-08-10",
+      "headline": "Innate Pharma (NASDAQ: IPHA) secures Sobi deal, $75M upfront and Phase 3 push - stocktitan.net",
+      "source": "stocktitan.net",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlV4M0Y3RnNfb2NhaDdQel9pMkxsSE9tZUEtUkJZTGZtUzl6XzNVeFdMWndVempCSHZ0MU5DSnBOazNjSWdYWlQ3NlRyNzY4S0xRdkpmSVN3RWpkZHFkeFRMSWYtZm1vUm55ZXV4OTY1RGFjZ3NxUTF0TGVySUNNcWF5RDdOSTlHMy04V19BMWlUNmZySC1UQXh0Smp0RWZjTGF3SkRINGd5NjNOdmhJMURB?oc=5",
+      "type": "Deal",
+      "value": "$75M",
+      "area": "",
+      "modality": "",
+      "stage": "Phase 3"
     },
     {
       "date": "2026-08-07",
@@ -1982,6 +2048,17 @@
       "stage": ""
     },
     {
+      "date": "2026-07-23",
+      "headline": "Dentons advises Biofarm and its majority shareholders on landmark acquisition by Polpharma through voluntary public takeover offer - Dentons",
+      "source": "Dentons",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnNXSzgzVGVmVFZLN2UtaDQybTU3aE5SQWNYUzdrNEtyNnd2c2RZQ1dtZTdXZVNON0xDVWpRNG9KdU8wa0lJU0I0bmwwZzBZRXlzMTNGWTRjQlNMZnNZWWlIa0pnakdyN0Z6M1NJNmxZOTRDYU9zemZrYkExY2NUWWRlOXhKY1E3OFQ0QUp3RkxLOWl6anA2cHFMMGRRYTUxV2FkZHZiQWNSU0dhQmpOZWlZT3JfRi1wbW5sOEdkOUEzZFlNaDVkTGF3?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-07-22",
       "headline": "Bothell firm fetches $1.5 billion in acquisition by Massachusetts company - The Business Journals",
       "source": "The Business Journals",
@@ -2170,8 +2247,8 @@
     },
     {
       "date": "2026-07-19",
-      "headline": "Vertex Pharmaceuticals Just Made a $10 Billion Acquisition Worth Watching - fool.com",
-      "source": "fool.com",
+      "headline": "Vertex Pharmaceuticals Just Made a $10 Billion Acquisition Worth Watching - The Motley Fool",
+      "source": "The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2MwQmd0WnhuUGtxX1pCclQ1bUo1NjlHS0V4VmloOFF1SnhpaHI0QURqTDV0eFhsMGQ2QkVnUDludmJlNVJnalF2SHNrT3A4SW5DeFcyOExkaklEd3d6YnlpVzJEdWs5S1NzM1hsSEVrS2pSbGk5c1JXS19tR1JkbFZteU8ydGVNdzVYekdxWE9NTzNQbVowag?oc=5",
       "type": "M&A",
       "value": "$10 Billion",
@@ -2368,8 +2445,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "Lilly buys AtaiBeckley for $2.8B upfront to challenge J&J for psychedelic mental health market - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "Lilly buys AtaiBeckley for $2.8B upfront to challenge J&J for psychedelic mental health market - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2Z4dWs4Yms1QzVzLV85MTA4V0oxOXdOUUpZVTRzU3ZYekRYN0RUNmk3VjRKeHJjT1NiNHAzZVV2dUV5VUZjOThRdlMxNDVrNDEwbU1kQUZtZzhEN0N3ZHBjSlN3d01ZWGhTMXpCZ0dzY1FFcW1JTXlkaDh4RWxSWkpobm1DQ1RqS05RNldHUWRNOExFMG8tdGhLYVNNTEFnVjJKUnZFRzBocERFN1VueWp5UXUzNVMtanRVX0JB?oc=5",
       "type": "Deal",
       "value": "$2.8B",
@@ -2671,83 +2748,6 @@
       "type": "Licensing",
       "value": "$200 million",
       "area": "Respiratory",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "GSK cuts losses on $700M upfront Alzheimer’s collab with Alector following 2 clinical failures - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnFnX19JN2ZWTFp1akFBOEtiRVBMWWxnbGhIY0NGalUwSDhncjNQTFpub1lXeVFtOS05Nk5NVmtNRFJkZW1wbmZ5V0dROThiaHpEdlV3eEpVSlViVmdpOVN6V1BEV1VrNXgxREI4OVJLNzFHMC1YRXNDVnlEY2dFYVRRbGJlTEROWncwNGtXbHl3SVhKLXM2bEdQMGMtSXVla0xoZ0RMUmoyWjU3bENzYWZRdU1RU0FReF9XRTFEVklyQQ?oc=5",
-      "type": "Deal",
-      "value": "$700M",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "GSK ends brain drug alliance with Alector",
-      "source": "",
-      "link": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
-      "type": "Partnership",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "Ipsen succeeds in migraine trials; Tarsus buys iRenix for $75M upfront",
-      "source": "",
-      "link": "https://endpoints.news/ipsen-succeeds-in-migraine-trials-tarsus-buys-irenix-for-75m-upfront/",
-      "type": "Deal",
-      "value": "$75M",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "AstraZeneca Signs USD 2.1 Billion COPD Drug Licensing Deal with Sino Biopharm Unit - Medical Dialogues",
-      "source": "Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFZBcWQ1NzVkajJJR1lvYU1NVUZvZW5wZzVhRkdWNTNKVDc2WFRuRnlNZlh4X1ZYLW0yanhjY2hmekc3VHVtTzlhbWhqeDBIUmh3WjFIUDRYamZCUTY5aHB1QUtiZFlFYjYzdnRkRUtVaGg3dEt2RGhhZWtYcTJOMERhQldCNElZSVNkdXEyZkxuT05XYktMYmtRcGxpcnZHblFmQndnNFhhZHlVYS1qYmdyWHVzSjNHc3pJZVNHMG14emVFSUowTFR4X3VVY3NHbnFv0gHYAUFVX3lxTE5CZW55d3ZpN3NkcGVNdDh6ZUdpYkRlRXZKX015cFFBOE9EYzBqUkhERW9pMlFSVVYxQ2NSNldUV05MbEpsY1ZITWk3c3RZMXVYN1R2bjdHbW41VkRkZHZyTjVwWVRMbTdSbW5jNXVXdFJBUjBPZ2VqeURWNGt1VG1LT01YeEE1QjZ6WU11c2lCWnY2QktZcHF3bTl3ZXVfOU03M19qa3hzTVNNRXNvVGhwamVpQmczaEpXbnRTVUhFLWppRTJEanFDTFBKOXNmMXJzOGRGY18wWA?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "Respiratory",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "AstraZeneca licenses Sino Biopharma respiratory drug in $200 million upfront deal - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2NHVFBsV2EzbnBWX3ZYMFFvNkFCLUprN3AxYW9iY1ZaSXdRbnRmNnJ5WXZJUHNaTzRPSllOeG4wdU03Mk9JMFNKaTJiVW5tTzlCa1FwY3k3czYtNlcxVndzdC1mdlJ6ZmZhSVlscWYwbHVtLU5SMEZoRThXZ2czdml6blQ4dUhhcURQV2hFY2V1V3NXcFc1WDA0cHJORTI4RVF1X0YzcmR5TVBtamZrMl91TGd1ZmxueTc4LUFGZ2Q5QQ?oc=5",
-      "type": "Licensing",
-      "value": "$200 million",
-      "area": "Respiratory",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "Yomiuri: Towa Pharmaceutical Aims to Boost Production Capacity with Planned Acquisition of Tanabe Pharma Subsidiary - MarketWatch",
-      "source": "MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMmdYWmVfQXMzZ3BwNHVqSmc1ZmREWWZuQ0tvczAyR2dURUZhaUtwQUoxeHNiNTZBbGtWNHBEVEx2NjJlQUtONkpobjh1am0wQW5nVHQ0Qk5MeDh0d0R0a3FUSDE1SlBUdlpfbXFVelpXNzViaFIxVEJlTWkxdElGbG1OdXozWldIRFNLRFo5QVppY1ZrTnlEOVJuRnY4TzliUWMyTTJUZ0h5VE83VXJGXzJ6SE1HMDFnNDBTT3dxbTV5MUpwUkRac0hfS1dLUGVlVjFFMDNDRmh4Yk02VnNmWWNnWDVNckg4MzdxSW9n?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-09",
-      "headline": "Teva Inks Licensing Deal with Polpharma Biologics for Biosimilar to Roche’s Ocrevus® (Ocrelizumab) - Pearce IP",
-      "source": "Pearce IP",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUM3dFdmc0I3SWVSTDFHOGk0X3lNSjNmRE9IRjVKRnJQYTNNRzY5VlRjS3c3dWFocTU3WklfaWYzNzVnYkdKX0tjM2lrV0tYNzdDTWRCSk5QbUNQRkdVTkNCeV9XbHBwSHEwX29mLW9FYzYwVERPLVNwcnZzeUJGYXhXblR3TlNNTFhKaFZwYnpQM3E1enZNZ093VzdLSTVWeUtuM2NYdVRhS1VNTlRVNkphOVBLcEZSaExUa19yT0x5cXEzaVRtSmRGVQ?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
