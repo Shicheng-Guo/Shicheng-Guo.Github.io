@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T11:18:27+00:00",
+  "generated": "2026-09-06T11:41:43+00:00",
   "items": [
     {
       "date": "2026-09-03",
@@ -31,9 +31,16 @@
     },
     {
       "date": "2026-09-01",
-      "headline": "Interpreting Real-World Evidence in Large B-Cell Lymphoma - onclive.com",
-      "source": "onclive.com",
+      "headline": "Interpreting Real-World Evidence in Large B-Cell Lymphoma - OncLive",
+      "source": "OncLive",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnVxb2MzN28zRm9aOGFDNkRYdnVPdHJUT21STXdkZmxHVlZLcDVzTUVuS1VYZjl3Vi1OM2taZ1pQN2JmN1I5d3liaHZQdFJUcVRvekRobXQ4c3ZrNFBOdEdUNnkxcFNRdm1EbGZka1JRak9NN3RFYTlaUzk5aDJ0dF84OUNlX3E0eVczSW13aw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Arusha Ayub: Honored to Be Selected for the 2026 Intake of the ‘Real-World Evidence in Oncology’ Short Course - Oncodaily",
+      "source": "Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tOFFiSFpvNE1ONGpERnh2Vjc1V3JreUxKRFV0aFpDWmh0LTdhaVZpUWN5eUZoTU5zNUZzQmlIaGlyWWduUWRWOHk4MjNHQ0RnZnhiMHFCQXdkSWM?oc=5",
       "category": "News"
     },
     {
@@ -345,6 +352,13 @@
       "category": "Regulatory"
     },
     {
+      "date": "2026-07-23",
+      "headline": "Real-world evidence on migraine treatment in routine clinical practice: insights from the Türkiye migraine registry study using artificial intelligence algorithms - Frontiers",
+      "source": "Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlpKZ0dYZlJoVUVRM0FiMGc5QTRmTnc4dkVxQ21EN1JxZjhibUF4Y296dDVDUnBfLWhham1JZmRKZmlhanZEcHlvR3FRNVdJVTlfVU91QWNyZUlsUHI1dk1kelBXazA4dmhjNF9OTnBoSmY4YmktbVpIczRlWkd0ZVRuRjlRWUZkc2V6eEpPSDA?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-07-22",
       "headline": "Real-world evidence and AI: How EHR data is reshaping drug development decisions - Drug Discovery News",
       "source": "Drug Discovery News",
@@ -360,8 +374,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "Real-World Evidence Strategy for EU Joint Clinical Assessment: A Pharma Guide 2026 - deloitte.com",
-      "source": "deloitte.com",
+      "headline": "Real-World Evidence Strategy for EU Joint Clinical Assessment: A Pharma Guide 2026 - Deloitte",
+      "source": "Deloitte",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd2VicVNUTWFsNGQtLXVfdGR3VDZPX0Y4M3dfVkJzbjhUWDl4akhRU2cyX1ZJMFp2U3cySTVUczk1SVh5aU9SbkhvSmVaOHdhZmhTRDRUdXhsb3NVZ2N3UWlJdXNQbXh3SUFLenhNanVrY1liRzVQT0JSN1FqY2xRc1BRSWxJaXZZUm1HY0ZoTHdGVzFsMzF3S0Foa2JQU0FocTVsOW95UHVBQWxwalBnN3NjU3NWeXZ4ZVdPQ2pxWlU1czQ?oc=5",
       "category": "News"
     },
@@ -423,8 +437,8 @@
     },
     {
       "date": "2026-07-15",
-      "headline": "AI Model Predicts 348 Diseases from Electronic Health Record, Genetics - insideprecisionmedicine.com",
-      "source": "insideprecisionmedicine.com",
+      "headline": "AI Model Predicts 348 Diseases from Electronic Health Record, Genetics - Inside Precision Medicine",
+      "source": "Inside Precision Medicine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmdlaUlZQkd6SWpacjhmWU9XVVNLaTE5bU9uV0Y1c3RvaGtKMk03aFlta2VZdWR4cHF5dko0TVdUbXN5aGY1Rk1NRHFNQmczSF8zMmNiQmtQTVh5Sk1UQ1NFb1FwaExJazE3TTlsVHEzWFdfZWpOa2JzVFZfWmJZc0ZNdHZmMzEzbVRwcnhrM19sTFZja2hsOFZ1WjNGVWVqNE9KaFBWUmNDSGlRX1JGMHJDdURla0RlUGpvN1JpczAyQmp0aDkw?oc=5",
       "category": "News"
     },
@@ -528,8 +542,8 @@
     },
     {
       "date": "2026-07-06",
-      "headline": "Real-World Data Support Fruquintinib Efficacy in Previously Treated mCRC - Oncology Nursing News",
-      "source": "Oncology Nursing News",
+      "headline": "Real-World Data Support Fruquintinib Efficacy in Previously Treated mCRC - oncnursingnews.com",
+      "source": "oncnursingnews.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjBDU3pVV1dyMW5PSU5LV0dQZ0thSFBPYnJoSk1FWmtCTXRlTGZCT3g4eW1jNU02dnRvU1Vkak1pZjFadXFqaC05NDBFaUc1cm5ZUGRnWm9LVmwxUUhjanhIdFpqQmR0V1l0VGR4eV9iTHVabmdQbGxWUVZlNFBHeW5XVm9rcDdKcDNfMmtoY2NxY1l5d2YtUUxjUkR6MGUwZW5UdlZiMWVOcURE?oc=5",
       "category": "News"
     },
@@ -1060,8 +1074,8 @@
     },
     {
       "date": "2026-06-03",
-      "headline": "Novellia Snags $18M for Its Real-World Data Platform - MedCity News",
-      "source": "MedCity News",
+      "headline": "Novellia Snags $18M for Its Real-World Data Platform - medcitynews.com",
+      "source": "medcitynews.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PU3R6V05ER0liaUVoQjdNVThnalNZMlJpVVhvX043dDV2MGNsbjR2SmQzeHhCaF9yVG81ODJJN1NlRkZKQWktRDhtVDFjTldCRlM2OWFkQnJsSjRCRUlBYVgzR0pNUU5oRFFKc1dfMzZzdw?oc=5",
       "category": "Product"
     },
@@ -1144,8 +1158,8 @@
     },
     {
       "date": "2026-05-28",
-      "headline": "Imetelstat Demonstrates Survival Benefit in R/R Myelofibrosis Vs Real-World Data - Oncology Nursing News",
-      "source": "Oncology Nursing News",
+      "headline": "Imetelstat Demonstrates Survival Benefit in R/R Myelofibrosis Vs Real-World Data - oncnursingnews.com",
+      "source": "oncnursingnews.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbV9yNmVMVzY2LWp1TVdWVHpQWmh3cGR4TUVIYmtiVFJMaGpUZ0plb202T2RwVEtwSjZWbjRwcTctaDltemRoTXJHYkIyR1JiZVVSYlctM2xoTUpremo0THFvOFVzQUtIN3N3dHJDVHk4QzZ3U1JJR0twUWhhd09yRVNZTVViNVhJN1ZXQ29MTFQ3b1RyQVdla0J4SjFzYU50WnJkc1BQQ2liaW9FelF5X2Zvbkp2MjA?oc=5",
       "category": "News"
     },
@@ -1193,8 +1207,8 @@
     },
     {
       "date": "2026-05-22",
-      "headline": "Treatment of High-Burden Areas of Atopic Dermatitis: A Review of Recent Real-World Evidence and Clinical Trial Data - emjreviews.com",
-      "source": "emjreviews.com",
+      "headline": "Treatment of High-Burden Areas of Atopic Dermatitis: A Review of Recent Real-World Evidence and Clinical Trial Data - EMJ",
+      "source": "EMJ",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY25TTktYelNsQUZfb3VDeTMzRzBQWjlmSTdxRmlSZVA4VkZ5cmF3ZkdHSVZtVlBDLXZoMHNzM2ZoQnZJVUNuVmpWaUJoLTA5MHp2N29oWEhPRG51WGhyclkxYmdSOUhyZDNXSmhGOWlEcG1DdmY3SHZVNE1SUTNOMXNxZURLOXFubmNPTDJzaHU2LWpUUk5pVUN0WS1NUlA2ZDBhYUlMRlhfNHFCek9kci1mOXJ5dU95SkFEcDhiMXdmeC1GTVd0azhjWmwzcTc5bTgzWnhtWXlvZXpaeHFkckt0SDBtUEE1VHdTWmwxbnVnSzJJZF9QLU02d01jQQ?oc=5",
       "category": "News"
     },
@@ -1221,8 +1235,8 @@
     },
     {
       "date": "2026-05-21",
-      "headline": "European EHR/EPR Market Enters Research-Ready Era as Clinical Trials and Real-World Evidence Move Into the Hospital Data Environment - newswire.com",
-      "source": "newswire.com",
+      "headline": "European EHR/EPR Market Enters Research-Ready Era as Clinical Trials and Real-World Evidence Move Into the Hospital Data Environment - Newswire.com",
+      "source": "Newswire.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGF6S2tMUmhDbXo3dHRxenV2RDJ1Zk5LdGRYVWRTX1Q1bTJVMzVvSUJkcFdqTGJzaUhqMXQzTHF0Q3FyMmtJOW5XTXdsbXVObEM3OXFwYS1ncnVQSlB6N2o3aFpLMi16eDhTWjVnbXdONVdmZDBsSTM3Z2dDUURsYmtCcnNJaGZ0VlpXNlNtNDVVcVQ2OTNmNjBTY2R2elVPLWxPdE9WMGtkYm8?oc=5",
       "category": "Research"
     },
@@ -1305,8 +1319,8 @@
     },
     {
       "date": "2026-05-18",
-      "headline": "Why Real-World Evidence Is Becoming the Missing Link Between Innovation and Patient Care in Oncology - MedCity News",
-      "source": "MedCity News",
+      "headline": "Why Real-World Evidence Is Becoming the Missing Link Between Innovation and Patient Care in Oncology - medcitynews.com",
+      "source": "medcitynews.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTQySU95anlkbW14Z1g1X3lfVDl4QUo4M1MzdzBzQjRtVjVOellOMDZOcUNRX3FiMVhLZ3lPT1BNaE1SNTdadDA2NmFDYUlSb1JZLUpoSGdMMExTTDV1NWdIRko1N2cyVHM5RmxyREprVkFaS0hJRGJLM1RfWFdDU2dRWFh2WFV4SWZUd3FQWjh4clFYQy1SWEpwUjN5M3RhX1d5UXhlSU5FRmtrc0JYMlNUanFMTjNLYjFiS3NuNnBJNkdNVWJoNVZjc0JnQQ?oc=5",
       "category": "Opinion"
     },
@@ -1319,8 +1333,8 @@
     },
     {
       "date": "2026-05-15",
-      "headline": "Real-World Evidence for Immunoglobulin Therapy in CIDP - NeurologyLive",
-      "source": "NeurologyLive",
+      "headline": "Real-World Evidence for Immunoglobulin Therapy in CIDP - Neurology Live",
+      "source": "Neurology Live",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWQwdVAwYmV5RXFldTdaREN1YnhEc3pmY3FWLVpRY0UzdW9LWno0bFo1OXJ6UlNacjVrTnlaVllHbDFiMTJzOVBReVh4VEVpNWR5RXZFSlFIWWJ4Wmp4S09BWGdsTExISFRJc295M05hblVBdG9qNWdGTm9taEt1RmxxY0p1eWtUaVh6TWR6U3p0bjQ?oc=5",
       "category": "News"
     },
@@ -1382,8 +1396,8 @@
     },
     {
       "date": "2026-05-08",
-      "headline": "Real-world evidence for medical affairs: who can actually use it? - databricks.com",
-      "source": "databricks.com",
+      "headline": "Real-world evidence for medical affairs: who can actually use it? - Databricks",
+      "source": "Databricks",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkYtV2lpYjN3dHQzYzlXbHBreHp5RzA4akt2TmFvYW9kQ2NMTHhQQzJCR2ZXTmtFX3FPU255REd3ZGZoQzFxd0RWMG1XbWxlUDRqY1d0TWdNTjFZRnVUTkx3MnoxRVh1RVhkZ2lJNjZWWmljMGhTMGpDTXg0MHJQcDNMb1hzdHhCLWIxRzN6V1pzZE9xYUE?oc=5",
       "category": "News"
     },
@@ -1417,8 +1431,8 @@
     },
     {
       "date": "2026-05-05",
-      "headline": "Biliary Tract Carcinoma: Real-World Evidence in a Developing Country - Cureus",
-      "source": "Cureus",
+      "headline": "Biliary Tract Carcinoma: Real-World Evidence in a Developing Country - cureus.com",
+      "source": "cureus.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUWpSazhhNGVOU2tWUFU3R2xacjRaMk1UMC1mbEFxRFllZERlQW5VYnBDSm9SdjdpMzR1a0ZNM0Nia3RCbUp4OGlsX2xPeXFOd1dPenE2U2JjY1ZMWEtkLXpsMHJDUXg1OEV6RHYyYzN5V0lYVEdjTS1NUUVaYVlERlQ2cmx1Y19FajJGQTlET0VnNWNseGl3SjhLTnRmWktMT0l3bXhZWVc2Zw?oc=5",
       "category": "News"
     },
@@ -1459,8 +1473,8 @@
     },
     {
       "date": "2026-04-30",
-      "headline": "Real-World Evidence in IBD: Driving Innovative Approaches to Care - abbvie.com",
-      "source": "abbvie.com",
+      "headline": "Real-World Evidence in IBD: Driving Innovative Approaches to Care - AbbVie",
+      "source": "AbbVie",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmh5bl9paUJpU0x3RnRQWENmek5SaWVyeHZJY041RGZXUUtmVFZBX1hqOWRsM25ITjFlZEdTWU1UUmpHNDAtb293aHZKeFZNUmNYUjRKVS1mU2YzMG5WRnRnSEZwcHZlV3RxSm1rdXlhZ3dUdHh5Xy13Mjd5NmFqRXlTeFlnYzN1SE9mUzlneTYzS1g4VEhZVi1aUm4?oc=5",
       "category": "News"
     },
@@ -1543,8 +1557,8 @@
     },
     {
       "date": "2026-04-21",
-      "headline": "Balancing Clinical Trial and Real-World Evidence in Multiple Myeloma - onclive.com",
-      "source": "onclive.com",
+      "headline": "Balancing Clinical Trial and Real-World Evidence in Multiple Myeloma - OncLive",
+      "source": "OncLive",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM2pmd2ZsUGdiY1JLWV9JQlAtTUs5NHltSXYyNkhrcGxuUERnSFhxZWQ0eHlSZ0ozcXZyME5pTm8tWDZLTVNRODNzTms0NE5rY2hGREVYMTRpWEVwSndOb0FlN0tVLUZJVlcxWkIwNnJib2s3WWhKRlFMZ0Jlb2tsRElfTk5TcVVJSkdCX2tfZEpyYmdvQThZb2MxTUVFZw?oc=5",
       "category": "News"
     },
@@ -1690,8 +1704,8 @@
     },
     {
       "date": "2026-04-07",
-      "headline": "ESPERANZA Update: Real-World Data Study Could Broaden AstraZeneca’s T-DXd Cancer Opportunity - tipranks.com",
-      "source": "tipranks.com",
+      "headline": "ESPERANZA Update: Real-World Data Study Could Broaden AstraZeneca’s T-DXd Cancer Opportunity - TipRanks",
+      "source": "TipRanks",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSG5IYUFOZHpuSW0yVDlFTWZnSzZIcEFxaE9lcWF4ak5rRGk2T1QwT1hnWWpYdGRmb0dXajdGR3JLMXctUURSVTB1bWJlaWF0Mnd6a0l2NDAtQjB3alpnZWlqcHRNSlBjR3RRbXZtR1RnVWpVcDBOZnBsbHFpcnAwREZMWDk1T0JEMmdCcjdkV3FpalhqYTRkekhjYU9PR0Fjd3Jpa01tc3BfQ3hlM3ltai15YXVOdDlnQkRUV2JsWFRrVVR6Rnd5QnR0MmJ1anR0UlZMQ0RqV2d3QQ?oc=5",
       "category": "Research"
     },
@@ -1928,8 +1942,8 @@
     },
     {
       "date": "2026-03-20",
-      "headline": "Applying Real-World Evidence to Maintenance Therapy and Treatment Sequencing - onclive.com",
-      "source": "onclive.com",
+      "headline": "Applying Real-World Evidence to Maintenance Therapy and Treatment Sequencing - OncLive",
+      "source": "OncLive",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHhwVlFJWUdvcElpTlFYSUFqeVB3eV9vcXNtM1hNcmt0YnkzUHBIa3JReWNrTWc2V0poTmtiQTVHMGNfRGREQ29rT2ZZcWFjTTZpMVpsSC1ZbmJoVzJKX2VwNjc4WlJUTVU0ZndOOG5nNTQtYjQxYXprMzlNSGZBLTlzQTVzQzZQaXUxR2h6OXNIWE9fSXpUbHJMX2kyejdiSXlCNzF5LWs?oc=5",
       "category": "News"
     },
@@ -1984,8 +1998,8 @@
     },
     {
       "date": "2026-03-12",
-      "headline": "Real-World Data Support T-DXd in HER2-Low mBC in Community Setting - Oncology Nursing News",
-      "source": "Oncology Nursing News",
+      "headline": "Real-World Data Support T-DXd in HER2-Low mBC in Community Setting - oncnursingnews.com",
+      "source": "oncnursingnews.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYlRER1hnSXI4LVVBV0FqaWY3Uk5Ucm4tanZGWnVHZDBZdTFnYi1WaGRTRHgteW1kS3ZxS3VjLUhWT0dMYklMMEtVSGRIWEttWVBENHJYYmxGVl93b0E1cl9pY3RuQjVBT0xTTGtUdnlId0xOSUgwUEpCcGY5WE1MWW9XNzltVzFfemNTSUlfS0Rka09jT3hxdi1TdG85el9aZlJ6WQ?oc=5",
       "category": "News"
     },
@@ -2040,8 +2054,8 @@
     },
     {
       "date": "2026-03-06",
-      "headline": "Real-World Data Show T-DXd Tolerability in HER2-Low mBC in Community Setting - Oncology Nursing News",
-      "source": "Oncology Nursing News",
+      "headline": "Real-World Data Show T-DXd Tolerability in HER2-Low mBC in Community Setting - oncnursingnews.com",
+      "source": "oncnursingnews.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ195d05DVmtRZlEwRTNYWnhkcmRraThPaWZudnR1dUJQTEJFcW5UNGpZTmVTRklNZmNvblBmUkEtY2VBcm9HRjBtTVhXM0F4UGNuazU0bWU5QUJka0xDNk5QUmE0Tkh1cGEyNkFld3p5VlNoWTlLazM1akhKOVcwUWl3cmdNWEpnc25keXRyWXpfWmQ2YzdiTXZIQ1QtajV2eUxvYWJ3d3Z3cGRLamcwZlZR?oc=5",
       "category": "News"
     },
@@ -2085,20 +2099,6 @@
       "headline": "Breast cancer recovery through the lens of real-world data | REBECCA Project | Results in Brief | H2020 - CORDIS | European Commission",
       "source": "CORDIS | European Commission",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUHRRMmhtVno5QmhNLXM5Mk5ZU19WWk55LXNicW43SFFqSEdiTElmU1NyZDQ2VFg3ZTlnak9HaUJIODhMRkhCb3NqQTg3N3JwN3huSkU2S3YxM0pKVUNBcFRTWGVnWURtdnZrR1Joenl1RGdEaVc4RDVhRFRJbE5hbEI1LXNnZWZTd2ZLRjh4ODY2cDdVa2cyeURzcEhBZDBDTUFV?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-02-26",
-      "headline": "From Support to Science: How Patient Programs Can Unlock Real-World Evidence - IQVIA",
-      "source": "IQVIA",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03UmNoQ2F0MW80MDZYdWtUaWZubXA1Ync3Sm83QkowQU1oWDJtQ3AzU25MNUVlSGVma3RQY1VrcmZvZ1BWV255cTJWM3VRN28tNzlzV19ONUlUdTBFY3dyY3BaR09xUVk4YWtv?oc=5",
-      "category": "Opinion"
-    },
-    {
-      "date": "2026-02-25",
-      "headline": "ViiV Healthcare shared pipeline and real-world data | CROI 2026 - Managed Healthcare Executive",
-      "source": "Managed Healthcare Executive",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUptUDZCdXZxa2RhbkdRX2E2RTJNcjlnSEdPeTZCRjJYdkFELXFmYkUwQy1HNkNuZDVxQ0pxdWNTcEE1TXJwT2tjQkZqbk11a2gwVUw5dmZWeThuSXA2ekZRbHZGRHZMaGJTZm02MnhEbmRzSGU0MHNlZzJoSlpwNWc2V0tlS1VmZ05HcE1QTFl3VXNfa0VWT0w4Y0pQWEhvWVp3UXdabWZVLVU2b0ptN3JVNjM?oc=5",
       "category": "News"
     }
   ]
