@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-09T12:29:38+00:00",
+  "generated": "2026-09-10T12:23:05+00:00",
   "items": [
+    {
+      "date": "2026-09-10",
+      "headline": "Integrating Biobank Data into the European Health Data Space Faces Technical and Regulatory Hurdles - geneonline.com",
+      "source": "geneonline.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkhrNkl3X3hrRm5GWWwzRG90X1FqUEh6d1NsdVAtOTIxSkxjWThhWVFnazRnY25KdG12am9mUlZtOUVhWVlNOHU0MmFwa2dSS1B5LWkySHBuWkRfQ1EtX2JacE9jZUo2SnBTc3d3QUlPaVB6dzBRbnFrVFd6TU52Q1VVZ0hSck9rd2VodGJKblp0Z1BiMHMzWVA1SjJleGJrc2xFNFhFaGdWWjFCLUxrY1RMdDFJZ0oxLVpuLXphcnpLaTVyRGc?oc=5",
+      "category": "Regulatory"
+    },
     {
       "date": "2026-09-03",
       "headline": "Integrative Observational and Genetic Evidence From the UK Biobank Supports Carotid Intima‐Media Thickness as a Window Into Cardiac Remodeling - American Heart Association Journals",
@@ -10,8 +17,8 @@
     },
     {
       "date": "2026-09-02",
-      "headline": "Patient-derived tumour organoid biobank maps cancer gene dependencies - drugtargetreview.com",
-      "source": "drugtargetreview.com",
+      "headline": "Patient-derived tumour organoid biobank maps cancer gene dependencies - Drug Target Review",
+      "source": "Drug Target Review",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczBEbGJJRjZRNno3UVZQTTlSOEl3STh2ZGtTQ2V5SFIydGgtaDkxb0FrNnNUeWNGLUVYUjFKY1R0b1FvWllSTW52WlJDLXhtQTMza3NmZ2V6Tm9UM2JQQl9UVjF4MWF6ckNUWW5XNlJBV0N1bzA4aWxFN1JTbm9ySmlwSHM1VDVmaXgtakZGQ21WTTBZSzVwd0IzQV9IS19BQ3VuY09rYjdJTWFxck9ENzJPelBna20yMUE?oc=5",
       "category": "News"
     },
@@ -493,8 +500,8 @@
     },
     {
       "date": "2026-07-07",
-      "headline": "Polygenic score for sleep duration in relation to the risk of Alzheimer’s disease: results from the UK biobank - frontiersin.org",
-      "source": "frontiersin.org",
+      "headline": "Polygenic score for sleep duration in relation to the risk of Alzheimer’s disease: results from the UK biobank - Frontiers",
+      "source": "Frontiers",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVE9YMlhNalNjYUZtQ1VGN3pTbGtiZmo4NkhaZWt6QjFCYnBCWkdZY1FjOVhQTzU0QXNXODBDQmNCN1hSc0h2YjdleHBCZXFaVXZpQ3o5STdtMS04aUZ2QlFaUG5HNVUyLVlYZW1CaVotN2xxM19QZXltX21vaU9qX2VlWVN4eXZJc3NmdG91VQ?oc=5",
       "category": "News"
     },
@@ -521,8 +528,8 @@
     },
     {
       "date": "2026-07-05",
-      "headline": "NIH’s All of Us Research Program is now the largest integrated genomics and health database in the world - Florida Hospital News and Healthcare Report",
-      "source": "Florida Hospital News and Healthcare Report",
+      "headline": "NIH’s All of Us Research Program is now the largest integrated genomics and health database in the world - southfloridahospitalnews.com",
+      "source": "southfloridahospitalnews.com",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm1lOXNZbnprQ0JLT29KQW41NzVhWW1jUmsyakZFQ1JIVFBDUHB0UE1fX3NzSEF2dFgtM2NTT0d4NUxuMDdFcHhPa1p1SFhUSmZNSnRKSTZ1dTRFQ24tbHVzeHptTXVBODdqQXEtQmZuOEQwZ0hRbUZoNmxKbnBuYzE4TkRRTW9pVU5VM2JPbU9pYTgyM0VsMnBnOVRxelRxZktsWElwQVdiUTVuc010TmxRY3RZcEpGa1ZOTVJhYWJJUTZ4YkVzRWF1RlVvRVRzYkNmUkRUbks?oc=5",
       "category": "News"
     },
@@ -591,8 +598,8 @@
     },
     {
       "date": "2026-07-02",
-      "headline": "NIH’s “All of Us” Milestone: Closing the Data Gap in AI Drug Repurposing - Foley & Lardner LLP",
-      "source": "Foley & Lardner LLP",
+      "headline": "NIH’s “All of Us” Milestone: Closing the Data Gap in AI Drug Repurposing - foley.com",
+      "source": "foley.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnlucEd1ODNDSnUwTFAtZmN0YmlzYzBrRk5GN2NoeWM1dFNYV0VJNkpvNWg3QU92Z3p3TllMVjUzM3N3ZWNzTzJsNjAyZkN2MEhpVHB3U1Z4dW5xYmNfY3FtM21SX2ZSNm9wbS1lUFUwYlJad2ZWYlhpX1V6bWY2VW1ObERjRzNHOC0zRlFlY2ZvLW9kemlBZC03d0Nkd0N1R0lIUTVxY1F5X0ttV0RWLUtTSDlrWExXdzhmQzJB?oc=5",
       "category": "Technology"
     },
@@ -969,8 +976,8 @@
     },
     {
       "date": "2026-05-27",
-      "headline": "Association between frailty and incidence of AMD among middle-aged and older people: evidence from the UK Biobank - frontiersin.org",
-      "source": "frontiersin.org",
+      "headline": "Association between frailty and incidence of AMD among middle-aged and older people: evidence from the UK Biobank - Frontiers",
+      "source": "Frontiers",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHkwV0kybTl1enN0NTFhbFktTXY4cmlCNmxXeUdHTDBudExrdWNMMHJ6VXlVTkZDY182V3hXakczUmNnb1VZcWs0bm9IdVEzXzVRbnRVTWVzVkhZUTFwWkhDaUdNckM3QnRhLVBGdURkRlV0Rnl1UUwyQXlaaDhELUhtQ3RfMGR6RmY4?oc=5",
       "category": "News"
     },
@@ -1081,8 +1088,8 @@
     },
     {
       "date": "2026-05-12",
-      "headline": "Abu Dhabi Biobank’s Paul Downey on why biobanking is becoming critical healthcare infrastructure - gulfbusiness.com",
-      "source": "gulfbusiness.com",
+      "headline": "Abu Dhabi Biobank’s Paul Downey on why biobanking is becoming critical healthcare infrastructure - Gulf Business",
+      "source": "Gulf Business",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUXZYUDhMNHVQb3JvdXk4MVAwbEZMd25VaXhSOXlMNjRIVjA5N2Z5SnpkSFF1NmNGVFpnODYwR2kyMmdjSmVyYmpFZGlWU09sQ2hrQl8xVlJYMVBiTkthODg0VTVmNFVEd1lzYnlOdWJVdm85NHVad1ZfZ2dTV0tkNFhoaGN3YlJQV1VBQzlBcEM?oc=5",
       "category": "Opinion"
     },
@@ -1354,8 +1361,8 @@
     },
     {
       "date": "2026-04-25",
-      "headline": "Menopause in the All of Us Research Program: A Descriptive Summary of Electronic Health Record and Survey Response across Sociodemographic Characteristics - medrxiv.org",
-      "source": "medrxiv.org",
+      "headline": "Menopause in the All of Us Research Program: A Descriptive Summary of Electronic Health Record and Survey Response across Sociodemographic Characteristics - medRxiv",
+      "source": "medRxiv",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9td0p6TUlKTkg0TEdSRWxIdVk2WWdxOFBscU1PZmhTX0FIdXpCT2t3aFNmRUQ1NzdxM0FCRXpJel9taEZQc2NKT3FpMTJQajNPOXk0ZWpjSl9zU3FGUEU0MWFzNS1nbnBiZ1h6Rkp0MWRSSlJnN0lpM2tBclM?oc=5",
       "category": "News"
     },
@@ -1396,8 +1403,8 @@
     },
     {
       "date": "2026-04-24",
-      "headline": "Health data from UK Biobank spotted for sale in China – Government confirms medical info from 500,000 participants involved - TechRadar",
-      "source": "TechRadar",
+      "headline": "Health data from UK Biobank spotted for sale in China – Government confirms medical info from 500,000 participants involved - techradar.com",
+      "source": "techradar.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc0JMVlFBZUQ1ZjU0M3pXSlFnREFfaTExRGE1ZE9CQ0VlanIyYW1xLVZaa3BmeUQwNVVVOHBCd0dpUWN5bVdnOHotOXBwbnNRLW93VHg2bGZiSWhGX05OTDlIcmRMTkw1dGk4aC04d09ZMUtOV3h3WmlYVEk4dnh2NmxuU2ZJQkxmRjRwaW5UeXR2bnFhSllmV3QtSC1NQUR2UTR4ZHZqYk1uZ1F5UkgtaEJmZjgtekx3SXB2ZFlfSTNhWDZHdWZPSjZ3bmN4MGtFcWViMkVBQkJ6YVI3eG16THhDZjBXbGV3Zl9GN01WUUFCZw?oc=5",
       "category": "Data/Cohort"
     },
@@ -1508,8 +1515,8 @@
     },
     {
       "date": "2026-04-24",
-      "headline": "Central Adiposity And Infective Endocarditis: A Cohort Study of UK Biobank Participants - medrxiv.org",
-      "source": "medrxiv.org",
+      "headline": "Central Adiposity And Infective Endocarditis: A Cohort Study of UK Biobank Participants - medRxiv",
+      "source": "medRxiv",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Dd253OWQ0Z1BCRGQwOHJrY1VWTHdWTHFJeXFGLXV5akVjRGV5YnJmZDIyb01HS1laMDMxMkZIVmM1ZmpnT01Za05SYnBOdW8zOHkyUlNsOXdNNndIb0RxNXZIMEJYSDJsMVdKLVBLNTJwUndrUGZvSklDZGY?oc=5",
       "category": "Research"
     },
@@ -1557,15 +1564,15 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "500,000 patients’ data for sale online after UK Biobank breach - clinicaltrialsarena.com",
-      "source": "clinicaltrialsarena.com",
+      "headline": "500,000 patients’ data for sale online after UK Biobank breach - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX2dvQWRxUGVfaGF4SUxVWHRFeWpMeV9iNVlQVDJkWmRtNjJ5bHRGQlNjcVhNZ1J1M1NnQmFWWHJQY0NWV2dpQWYzXzVLOHJlVTJOZkJVd29KNC0yazlKb1NVNFc3aVIyZHVGa0VBUXl3Vm4zRWtDU3l6UmV5cm54bmhITFpCakROZlBWOVpRaG1IejlxYVZ4aU9YVmQ2WWFQVXRSZw?oc=5",
       "category": "News"
     },
     {
       "date": "2026-04-23",
-      "headline": "UK Biobank suspends access after massive data breach - researchprofessionalnews.com",
-      "source": "researchprofessionalnews.com",
+      "headline": "UK Biobank suspends access after massive data breach - Research Professional News",
+      "source": "Research Professional News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2V3X2F2SEhUQVpONFM3ZUlLTHJHdW5lTV8wN0FFaVhXR2pPaVpQLWpDRnNqTHZkQ1pld3hfbnl5WUM4UFJ4TXNMTW1BLWNVU3RkMGRDUWhpWTJDS19sbGN5Ui1tbVUzd1NfNjlabDUySURRdWZKa1RpYzBNa0ZodXVwLVNpNE44eVB4Z0VWZGZ3RXdQUV9RaW9PamVmUmx2U0xhODFKZVYtM2VhX3RQTDRWRVpLdGpuZlVLSDdR?oc=5",
       "category": "News"
     },
@@ -1788,8 +1795,8 @@
     },
     {
       "date": "2026-04-17",
-      "headline": "Strong patient diversity in biobank reveals new genetic links to disease risk, treatment response - newsroom.ucla.edu",
-      "source": "newsroom.ucla.edu",
+      "headline": "Strong patient diversity in biobank reveals new genetic links to disease risk, treatment response - Newsroom | UCLA",
+      "source": "Newsroom | UCLA",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDJUY0Z6bHBjMkFNRWdRM3MyaU5Dd2NWbjdySU5DR21lOW5VWEdBeGY1REE5VFY3YXJiLTkwRGhVblAyM2oycV9ySzBrcURzY0N3dDMtWnhuQW1sWnFJN2ZscC1KRFNVWW43UTRCdC1lSVAyZjdsX2hvOTFraEZGVUR3UGhYek0?oc=5",
       "category": "News"
     },
@@ -1928,8 +1935,8 @@
     },
     {
       "date": "2026-04-03",
-      "headline": "New biobank offers hope for sufferers of dry mouth - drugtargetreview.com",
-      "source": "drugtargetreview.com",
+      "headline": "New biobank offers hope for sufferers of dry mouth - Drug Target Review",
+      "source": "Drug Target Review",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0hEeGVRTFJscUFORjUtdGMwNGZTWVI4X0JuTzdRbWhia0tiSjZGUzlKcmRGUk9NWjRiTk1jV2JRa0FjZlZFd0Z1SnVhSFRRd2hSYTY0LXVNVW02WU00TVZ5ejZyYkxsWDFaRlFBaHBfaUJKN1FOajg0c1dvaDJPRHNzams3Z3NOMlMzdHVvd1haZjUxbWczVGs2dW5MZ0E?oc=5",
       "category": "News"
     },
@@ -2093,13 +2100,6 @@
       "source": "Health Tech World",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWhhQng4VDJwNUxiMVZVZG5SOXdURC1TLW9XeDV3cWt3Ym5XRHF2VElVTlQwU2JKb3dVRHpoRDBJUzRxbTRjMVZfc0tPaEdyajN0aTcydVNib2U1bUQ3M3d1Vm5XbEt6ODNFanZwOEFHMjlmd2gyaUcyRTVOOUtZV2RRcHp1OFltWHJ0M3MxdkpWajhZOU9pUVJZNXhidzFFcWM1YWU1Q3VHRnNuVkNIUS1FcVJFZw?oc=5",
       "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-03-15",
-      "headline": "Confidential health records from UK BioBank project exposed online - The Guardian",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV01YcmxmN1pkSWE5WHJ1Q19DYVJlZnZ0eVNuam5ib2RzQm00TlFQNDBfSTlYb2drYTVZbDlhX1F0RVcwcE5qWDBuNWkwSWxMSHJqS2Rfdl9FUzdpY0VLcGVrTUV2NHdPYnRiY25fZ1ZUb3dEQ0tJZTZreW94R05JT2Ezdk1taU1LaVllOTlEX2N0LUYtUXJJVGl2LVlBX002TEZv?oc=5",
-      "category": "News"
     }
   ]
 }
