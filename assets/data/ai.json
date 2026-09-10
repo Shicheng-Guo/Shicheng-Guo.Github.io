@@ -1,9 +1,100 @@
 {
-  "generated": "2026-09-09T12:18:20+00:00",
+  "generated": "2026-09-10T12:12:05+00:00",
   "items": [
     {
+      "date": "2026-09-10",
+      "headline": "Smarter decisions at scale: How Novartis is using AI to advance R&D - Novartis",
+      "source": "Novartis",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjNtekRXSElwaENIWHZ4NUZ2ZExwVWM1RTZIMDFCQ2NpdGl3ZlJNdTBxLUFrVVZKYTJFUHZYZGZDTE5hTDdlOTlJZkNQOVNHdERKbFNiT0M3dTdoTk04Sl9WT3BBQVB4ZTloRmkxRjJNYVVHZUljRFpHMG1Jdy1lbVFJVjBOVW9nZTdBbnV0NlRNbDQ?oc=5",
+      "category": "Opinion"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis - News-Medical",
+      "source": "News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjJVeVFGYmQ4cmZSdnNsRkgtSVltb0hKNGtBNVpRYkcydlRnTkl0NFZBX0EyUUdteEJFMkRGU0pHWVRDUG1zX24wdFhJYmJjN1EzdjFBM2pCYklyLV9CWlVmTmszeGZPVGlpNDA4Vjd1Ukd5ZjlBWlZEY1kydDdQRnE0V253R0RSaTFJeGJkalpCLUVUR3RFMHpsengwbTBYcGNtckgxRWVFUFFWMUlCNHpyX29wS3lHY0Via2hIOTdoTXJHa2JDelpLeVNKai05azFMa2pBdEQtUQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Rentosertib Shows Potential to Lower Biological Age in Small AI Drug Study - AIM Media House",
+      "source": "AIM Media House",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1A2RVNySTdDaVFDc0RKUzUxcndfNi02NFYtdXd6S3B3UEU5VWVrWDZuZEQ3cDY2Q3g5TVFocWlIdHIxdko1OWg3c3Z6a2dsc00xLW1PekJnLWNCMTRBbk80RUt5TmJ1QldSVDNMb244ZWhPa1Y2LVJ2UmZPZDEzbm0zT3R5TDZORHdlTXZUOWpTOFBqMDlPQlhpN1RvZXJiVG1NUldWR0hfTEEzRzdTeDJZQUtOVFE?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Deepmirror wins Sovereign AI grant for £1m molecule data project - Business Matters",
+      "source": "Business Matters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZU5iYVk1RnFGVEc5MzNDRDF2TmNURFBfOTVkd3BYZUg1Q3NoeUxZT001b00tdWNrQlE2QmFKUEYzSWdRblNlYVJVMkNYTU9CUUh4ZE1YVFlGc1dxVnZyTzY2Q1cxVzBqTkhNRUNINHhITm1Xa1FrclZ3?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Insilico Medicine doses first patient in GENESIS-IPF-3, the world’s first phase III trial of a generative AI-driven innovative drug - EurekAlert!",
+      "source": "EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JNjE2emxMYXlSdTIxRlZuV3VNOWVMaGxEcXB4a2dabF9hS19TRndRcFF3OE1XbXp4eXpJTU1TRVZoLTJxbDE0NW9yR2wya3YzWXhZU1otUmtFNWMt?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Data Aggregation Drives AI's Impact on Clinical Supply Chains - PharmTech.com",
+      "source": "PharmTech.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcnMxcTB2T2hJUlBiSWtWSl8xNE1vNUU1cjNoUFR3dVJjZ3hIRU5EYXF0NlU4Q0s3VWg4clEwRjcxYUU0Wkh4aXBhZEJvRnRJN0tjdDZJZ1ZTcUNtWDl5bFlOMllYdVd2c0lhWlBJSEc3dXV5cHNHQUVIWUxPVEJYV2JTbF9Gbkd3dGZQRlcxRTdfRjdZaFNB?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "The Validation Accords: Clinical Trials Are About to Learn What “Validated AI” Actually Means - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX244Vl9qMTVyYVp3UmE1RzcxelgzWUlFdEJ5VzJ2VGVseTcyY0E4eXY3TjU5MllmS1hTaFU4QXYzeXRoYVp0TzhQTU1nXy1qSFU5TWNRVVlzdjJYRHJvRjhQSkU4Z1VHdUxra3dpNFFPWE1qR3Y2enVDazdVOTlXa241ZFpNZ1VCU3A5blRnVWtjWGdYWVV3bFBGVE1zUlF5dWtyekJUSzJ1WmQ2bi1tcWIwRURnbGxFMDN0VmtrWlBZOFNjNk1yeDJuRmpDYjY0MXpwLUgwaS1oSXd0cjJxQlU0Zw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "The Data Integrity Crisis That Built a Company: Rick Graham on Why Clinical Trials Keep Failing Before the AI Even Starts - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUTE4SnRIOFdzTHRSdXJ3M2NKb2FRTDd6cGdJbTdNTHV1bFk1ZTRsMkxQR0JWY2FOeXliZXhQVktjemxoZTdud01qMThpaDY5R3cxNHp0V29rUktaOHEwSHJueEVadGZ6NWZMdjVHZ3dfdU1MeDEwUVFyem8xSlYxZm5DOXlHcVdBLWpjMEZxRjhxTk1kUS1RZU5iSDhrTFhUWEVmdnlGTERxMVBxUG9qQUxWZFp5N0FFUm5IOUFKYi1Eck1YX2NjeGd0XzQ1RlJQSjJYbW1scUh2bWhFVzZhdFJac1pOeUZiUjB6dERPYlEwQUYzV2ZHMWUzeTJUZng1WEtKQjZKOG9xaG8?oc=5",
+      "category": "Opinion"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1dOekRQM3pObndDUVhjMWFCMG0ycl9mYlg1M1YxdC1Vb1NqbEVMaDNLSGYzT3BSRW1QQlFURkZva1ltNEh4WG91MXh5bFc5NjFOQTFpU21hTVVRTkhGUGV5R0xjRjU4aFNxaDN3czJuN1lBVlVVVWg5OGh5aEt4R05FN09sTDl6RGF0NmJxc0F3WHluamxUQ3dUR2tmc2pIZ3NBSHJZSkRDakdmN2IzT1pieFVWeU1oM1o0dFZROGlERGFZ?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Peer-Reviewed Study Published in MDPI’s AI Journal Shows NetraAI Uncovers Clinical Trial Signals Missed by Conventional AI and Foundation Models - The Manila Times",
+      "source": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQUEU4RXQ1ME5mZXg5d0k2SDRGNkRWM1c2b09CR0Z2b3dHWTBGMUFyZVg1RjFvYk96V0F0ZDJ1dnpZNDBjTHVWR1E3ZnZUV1dYT1RUNlphUnhGSHN6SGs0Q0R2aXpCZlpEYzBJWl84QzNYY1pwWHRmS1lZYVozVXNtUndnczhCRWhUNXEzNXZ3U3hCWkUzWElwQWZJWngyb1ByZDRBWVF4VkZzb2dkWWFuZWhFSHoySlQ2UUlaTEE4U3VJcTVsdEtrdEZmUVBfTUVVN04zVml2QkxzME9Md3N3XzdGQ0kxUUphMkdGbVRpRjFDUDBrSktha1RWQkY1OEwzWVBjRExNLUt1RTJIRzVmNWtvckFxTzN0UkdFTUJDQWpJdTBjWE04cEpuMkNlcGJaaFlZOXhVRGRHUU85UkHSAcMCQVVfeXFMUFRJcXpGdkhrTE9rVmZqbHZJd0sxVjJhOFJCcTdYdzY1R0xPU2gyZGhZUnM0R2pueWlFMnhxcThyZXdUU1lVbUF1RFlSV2JBNVJWczdPdTE0LUxzanhkd0FMaUxIcUhTM194TGRweHlkdUZrSFExMDNTYWl0Vnh1VzVHNm5DT2czVlJsVURLbEMxczRIalZ3Vi1qOVQtbUpmWWl3MHZOTFRPcUxJcHV1c0lDWlBsaUdxdGppTG9uTlFCWGVlamZhZlN6ZTFwejFmaFRzSlhOU29fUmZHU2RhOU1tOUVWUUdiMGtDeVU2Qzc2WUhFRE4wSzVQSTQwLVZqZVljTm83Nm1ablNpSW40aWk1RWtrcTRYTEIxRjRZeUYyYk5UYy0xNEZhdi1DNk9NQmVlR2dtWW1hRm44REJpbTljclk?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "CluePoints Expands Clinical Data Tools With AI Review - MyChesCo",
+      "source": "MyChesCo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNlBTc2ZZRUF1eGdQaVBrZUE1alQwbVJJZ0RycXNEX0VpakQtZ0ZuQjNhRzMzUlF6MEpFY2FSN3ltbzF1dTM1Q01kMEoxbVFCaC1WRjBDYWlfZm1EX1U5X0V5NDlZVlJYVmhzN3Z0LTFOS0x6RGRmaDlPQUZEVEVIQWpyZVhhSnpyQ1U2V1h0N2x0V3hIcG50clZPcUtadw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "AI in Medicine Moves Faster Than Clinical Evidence: FDA-Cleared Devices Face Major Validation Gap - drugscontrol.org",
+      "source": "drugscontrol.org",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VYlF0aUQyZ1ZhQ2h5Y3V2UnRUNHRNbWJXQU5GVFpHamtNcFZHbmRMTTQ5WGFTWGtCMWd1SXNMUUNkNDAwXzJwblR6OGp6U2REN1FzeGQxRUdqMVN1UDJEUXRoRQ?oc=5",
+      "category": "Regulatory"
+    },
+    {
+      "date": "2026-09-10",
+      "headline": "Thailand advances genomics and AI for equitable breast cancer care - Bangkok Post",
+      "source": "Bangkok Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYndlbUVKd1lhYUM0VnNfb0hfMzQ1YXEyVEpPSWpOVklHWWwwMUlZdEkydzk5QzhIY1RGY25zdkNaN2NFb0d6cE1NS191WjJjaHM1QzZlTjRzR2hUQkZidXRBeXFyZkZLN2plNmhmNjF3YlVKRWZPcVVZNktkYkRQdi1SekhuNXZJQlpfb3VKNzdBNzJWQlQzNUxfUXVmdVBYeHFGOUxjcWIzZHlick9UcA?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-09-09",
-      "headline": "As China embraces AI, only 24% of US pharma execs bet on it for drug-making - South China Morning Post",
+      "headline": "As China embraces AI, few US pharmaceutical execs bet on it for innovation - South China Morning Post",
       "source": "South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTgzUnFzVENIZTNIeGxwbC1IMUNLclhnVU1DVWM0a2R4Rk8tNktBamZaLWIwNkk0S0E3MndvMW9yb0Q5WnVnU0pKVkVNR1BYeVZrRFhOVERlS3hTNkNheGdMcHE2SFY5b3VjYS16WjJZQ3lMR1ZUY2V1YjFrcUdSM2lMTFZPT3g4bkNmVFVaOWEtb1JkdzY1eXdwVzRTZ0ZEQk5WWEN1UUdYVGtRRkl2bTFHcFZ0OXVDQ1ZadFhR0gG-AUFVX3lxTE1JQ0VQTHlZaU56SzlZdnRWYzFrRTU1dVVLNXdwdnI1TEdrejJCaEZ5VnluTkctTkZHNm9CanhKNnNybVpwRzB4MTNsQnpyRE54QmFIcGs4ZHgwb1NyZkJYVUpuaVFCZjFnNGpYNmxjeFd0LWlVaVZQS2gtXzRVZDVjbnJFb00zd21qcWtsam5HNXFMQThrVG5qUHpWaEhlWUVScHhPNlF5N3RjOC1Dc3h0amRVdG9GX1pWVGh1WXc?oc=5",
       "category": "News"
@@ -107,6 +198,104 @@
       "category": "Regulatory"
     },
     {
+      "date": "2026-09-09",
+      "headline": "Citi Survey: Pharma AI Adoption High but Success Rate Expectations Low - News and Statistics - IndexBox",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVMYko5aVM1R2NNMWNsNXZaQ1RmSndfY3I4dHhsXzM4SVhHQ1JyYkRwbDJ4eGFyUzduU2p5eHloemVLSk96SzZCdnZNbFBMcm4yeWlLbG04aDFsZ05vQzdOOXNuXzN3WV96UWxnV3h0RmFBbHJXWTAxTjlWT2Eyb3BLdVQwTTZTNEt4WHItOGw2UQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "EMD Serono Acquires PostEra Fertility Drug Programs Developed With AI - citybiz",
+      "source": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3JfeUpQaFh2S2xmTk1CZnhpRWliODc1RnBiYUp4SWN1OERzN1JqamRtd1NIbjJLd2JuTC1wTjFVa2p3eTdRdW52VTkxWTJxQ1JhOVFRYlFYcG5hb3dqMk95ekMxRXBVQ1J4VXFiSnB5ZkVFV05UMDF3S1ZZWHhjZzNpWTRtTDU5blctaGVTWm5IbWJGSWNKQTdudFA2RTVRVlpWSGpRY1dRWjNG?oc=5",
+      "category": "Funding/Deal"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "Creative Biolabs Expands Integrated AI-Driven Chemical Synthesis Platforms to Accelerate Next-Generation Drug Discovery - EIN Presswire",
+      "source": "EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTS0tV3pnM0tkYjBybFdNNG5zSnFBbzN4ZlZPNDdwTGRLTXk5QTU0eHdKbUd4Tk5aY3dCSk56SkxTc1NDWTBTY2c0ZXBiSmVkOUhyVkU0dVlYb1FNRnhiTVo1T000NURkbFc3LW4xSy1KeFc4Ui0yY1FIaXhtOTlnVE1qTFhRSjhtcXRXZmhWRDRubDYzUUo1QzBJU0pkVkVNZmtaX05rN1MyR010YW1fNEowaHN6aS1MQ2tCTG0zYnNFS19ETmxvTFlYa0NfalgwNnVaNUNDWGotQXJrQWg5cmlCS2htYjB4RnB0eVRmWE9HZzJIYVVlTGNB?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "Acting heads of FDA centres land permanent gigs, plus new AI leader - FirstWord Pharma",
+      "source": "FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Lc0N1NU1hZ3dLZjByTlduaEwtOTBiUldXMl9vdkFZYzQ4cVBoeVdpLVkzMHdzTEZaeFVldnhpUlU2WnpYODFqZV83OHpVTHE3eXhn?oc=5",
+      "category": "Regulatory"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "AI designed a drug that could reverse aging. Early clinical trials are promising - Fast Company",
+      "source": "Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMkUwdFdld0ptVDF2a3VxMTBqYUNISXFwOTFBX0RESGJia1ZHZXcxazZrS05WSnh0NVJpVm1ZNzJaT2Zha013M2tXOFZ1QVRBTnllbnp4cWpWbTlOSk5QY3lMSmNBNEpVN3NIM0ZRamk4OEh5YURMbTRDLVUyQnRyckE5Y0hXV1ZSYUluRWJOU3NWTW1DWm1QRUk0cEtqZWtsdnlCQ1ZCODVXZkhIVTh6Z2p1OWFDMHhaWmxHNm13?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "nPhase launches AI clinical data management platform to soup up sponsor trial design - fiercebiotech.com",
+      "source": "fiercebiotech.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEpBeXg1b2lLQ3dMc2JrV1R5RzJmQ19rdUdydDMyMHIyak04Wm55S1NiT2Y4b0d6cFlKSThualJKLWVPclNOSmJDMTdhd25Cd1NPa01wZElZeXQzLTM5VG83ZXhKNnBPTWJCSEFuTmpBOTlJX3RFclBIemNHbnk3NDF6Z1JDNGhVTlJET0IwUVJiMUZrdnJSdVk3UVpwVXpvYjIyTHhGSExXb2x5S0xwcm5n?oc=5",
+      "category": "Product"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "Are AI-designed drugs the way of the future? - NewsNation",
+      "source": "NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuamhYT0tzM3FKdWVPd29waEVGaVZBMVUwWWtYWU5manpFei1aTXFCS1RvWVdaUWVPV0huVEcwRGZXUy1adXFOZmIyZ2FzdGY0cUdndlNROGxjdFloMnRUS2FzYjVNRHZMWUhQLXFnQdIBdEFVX3lxTE9adEpfX184TDY5UUFaYW9KUXJsQm0yUFIyT0JyalBfY2VZQTJzZ3ZCQW54S2NBUmYyQ0FJSklFWE1lQTRuR1RfY1VHdTUyNnJMNk5jcW9ZazFiUGF6TExaNXloNk1fanpvM1k0VFF0c0dqaGZE?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "Trialbee to Present with Takeda, Showcase AI for Clinical Sites, and Unveil AI-Powered Patient Screening at DPHARM 2026 - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaDdVOElyUVAxZXNkOGNaSU1wRHZXOEJRZ2lmNWx5UFBfWnNBQmpCVjE1cXJTQkxEUm9rQ0xtemJ2TVdzMlpub2gycE5TTHNZS09WWV9nXzR2T25CTlNzSUhPU0FsYk1xYm9Za0pDd1U0MTM1Y0h3Zi11RlRON1Q1d0gyMFkydTU4OUNyVzY4akZsWGVwMzF2dTcxWXZRWjhrOER2ZnZZcTJscjBfTWRiUmo2Y2haZ0NpS3lFTFFxUUlfS25YMzNCb2hLS3V5YnZBMDJEVXhkMFh2bnRqV21XUHh4MHN6b3dlR1BPa2FR?oc=5",
+      "category": "Product"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "Brainomix, Endeavor BioMedicines Present Positive AI Imaging Results in IPF Clinical Trial - Imaging Technology News",
+      "source": "Imaging Technology News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUEzM0VHN05UaUQyYXAxTXVBYVJ1VGthMFhwbjk4WWtHOEdjbDd3QzBUSVRwT2FhOWZTajVhb1lmODFnS3NyaFdLeFI0clFEUnpONWIzVE9oNlUwR19xNWRvS3Ftd1dvdWZXZVU2SXN4QXMtNjVVRjJNWW9EQXJOWGk5YTJGOERGa2xBWHZKMXM4cTEwTDR6S2h4VlQ0VVpraGpDQVd5SGRZTFJ3NmxCZWhOUWphaXN1MmJaQw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "nPhase launches AI-native clinical data management platform - medicaldesignandoutsourcing.com",
+      "source": "medicaldesignandoutsourcing.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNclRQTVJValZ2ZGRhMTlScEZ3eXZLWGE5dEwydDZTcnpTZlMxZ3FzcVNfSnFHS2w5cUMyWEU4SncyeGE4QVpGQ09XSGwtNG11RXZhYThSQmhPNUdaSG1IRXpIME02MWYycXFHYjFVbU5DNWxFaDhGRzRWeFZYWG1ZM3Y5dHNnbGIyV0l2TVV0WWtBMmhhd2lnU3hnZ0VndElyVF9EM0V6bw?oc=5",
+      "category": "Product"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "AI in Healthcare: OpenAI Connects Clinicians to Patient Medical Records Inside ChatGPT - Cloud Wars",
+      "source": "Cloud Wars",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNi1lbzZ3QmVuWkZmVHVwSnhCS2xWcFlkelNYNlRXTHVUQUZ5Mm5fbXhhckhMdGlRdlltV255MFRqRDJkcFFtTHhFa3ZjSXAzZlFvY0pkUVdkMUoyVE1GaUFaOUdSeUZVMUpzTkE2Mmc3WUZ5UXEyMFliRmVrblRBc0ZQc0NZREZMdUFlS0V5TnNLcGJmWVpFNTJibG1fczVTV190N1lpeGZ6aUhpZzJkNw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "4 questions about the FDA’s approach to generative AI - MedTech Dive",
+      "source": "MedTech Dive",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWp1TWdEX0RlNC1LSDlSaFlqdjJjaG9mN0t4RU1wcTZ4Mk1FM2hfZnZaY3QyemYxamQzcngtOEtHUm9IT3pZellWR0lrbXdvX1c0b3lQc2dQR3V6Y3VGMVRQMDZhT0hhNW0zVjBkY296Q1NtT0pHLWRpSHFtandZRXFwcUVPNHlmWmphTG1ibVBiaUVCeWZtYQ?oc=5",
+      "category": "Regulatory"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "HHS Confirms Four Senior FDA Leaders, Including Agency's First-Ever AI Deputy Commissioner - pharmexec.com",
+      "source": "pharmexec.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXdRMHZQNDNOOVBYYjN4YWVRdmNsMmU0TzRPemFJMmJUaUpBaVRpNUtRT1ZaYzZGTk9uYnlzZy1sclk3Y3p1cEQxdDU2RGxWbnktaTRGWVlCYXVCQTJwSVp5cW9zYXBRY2hscVpmWTFhalFIQmhuZTdIMWRTdjM0eGJ3REliVWpvMkNkUW5CcHJneWhIMUxUam05UkVtR0d1TERJbmgxUFZtOV9FOGZfTkhVYw?oc=5",
+      "category": "Regulatory"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "AI will redefine the future of precision medicine: Kalyan Kolachala, Managing Director, SymphonyAI Group India - Indian Pharma Post",
+      "source": "Indian Pharma Post",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSVI2eGZrT0VmcVgzd1hyNzVrVUI1cVRvOEdvMGpCR083MGtrMlVuZ28zckFmaEltbXlIMDFEYVNWNHVIMUtDeWdJVzhfQmRlWDZtd2VZaklZSTFQY1B4NlhEOWxaOWZzSVRZSTZCNkxpemZwUnhXMHhVR3JnLWp2VGZJdUdndUt3UEpyeEtfb2hFTEhZdnRYTUg0b1lpdHJ3VHk2aXhOM3RfQ3BNYk5yMk5CM3BLWUpqdDdhYWR6THRGUmJPbFBFelhxYnNkV19TNkhCcTRQZUVPRU9HTnRjaWExM2FONXEzbEpxb0NhTzHSAfABQVVfeXFMT0lSNnhma09FZnFYM3dYcjc1a1VCNXFUbzhHbzBqQkdPNzBrazJVbmdvM3JBZmhJbW15SDAxRGFTVjR1SDFLQ3lnSVc4X0JkZVg2bXdlWWpJWUkxUGNQeDZYRDlsWjlmc0lUWUk2QjZMaXpmcFJ4VzB4VUdyZy1qdlRmSXVHZ3VLd1BKcnhLX29oRUxIWXZ0WE1ING9ZaXRyd1R5Nml4TjN0X0NwTWJOcjJOQjNwS1lKanQ3YWFkekx0RlJiT2xQRXpYcWJzZFdfUzZIQnE0UGVFT0VPR050Y2lhMTNhTjVxM2xKcW9DYU8x?oc=5",
+      "category": "Opinion"
+    },
+    {
       "date": "2026-09-08",
       "headline": "Opinion: AI will only revolutionize drug discovery and development if we play to its strengths - BioSpace",
       "source": "BioSpace",
@@ -192,8 +381,8 @@
     },
     {
       "date": "2026-09-08",
-      "headline": "AI for Clinical Trials: Accelerating Implementation from Single-Point Tools to Unified Platform Architecture | Frontline - 36Kr",
-      "source": "36Kr",
+      "headline": "AI for Clinical Trials: Accelerating Implementation from Single-Point Tools to Unified Platform Architecture | Frontline - eu.36kr.com",
+      "source": "eu.36kr.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fWkRUNlRqTGVSS2Vxc0N4OGU2VUp0XzR5TUVoOF90YUJqVFFONHh0ME85QzZfMkNha0t2WUNwak85YTVMZnloemlSVnhtOGhCTGtN?oc=5",
       "category": "Product"
     },
@@ -373,6 +562,27 @@
       "category": "News"
     },
     {
+      "date": "2026-09-08",
+      "headline": "AI-Generated Drug Might Slow the Process of Aging, Preliminary Study Finds - People.com",
+      "source": "People.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa29IM0tNSmRuSGtIQmt4V3g1Yk5xSWpFdk02RmlxYlBIZnVLa0dqM2pNUTF0SDdVQ1Z6bUJ3V2hSYWh5ZVR2eGRpR3hrSjVCcF9FVmFCMlBOeTNLRFlNamgzSDNUVzFPSWhHdEN3QmtaLU1mV3RMRENyM0VBcm1GVzVac1hKUUxpcFRYYXVCUEJOYkRuY2xzX0txXzJwTDRNZkxv?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-09-08",
+      "headline": "Insilico’s AI-designed drug shows an early aging signal in lung disease patients - The Rundown AI",
+      "source": "The Rundown AI",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0RVpUUFJQc1FVVkM1Y1BSd1dfVzM2M1Brai1UMmc0cnpSZUNsY0N6SjNzU093Mm1KeEFsX1JINEtpVFhScEhQR2IwYmVJMXVjc0ZVeGUxZF9yMG40eXFBbGJDQjNQZF82MmFKV3FiN09lQ1Rtc2V0TVQ1a3M?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-08",
+      "headline": "Hanmi puts AI to work on 4,000 SOPs in quality assurance overhaul - Korea Biomedical Review",
+      "source": "Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5UEkzVUlYMXZXM3ZNYVNscElxU3g5dC1VRFl6T0xtT05rSFJHa0lYTVFjclU4LWhQSnhJOFY1ckFYcHR4REVjMmk3ckhyOV81MGFWemJBaE44OFluMjBpZDFBUVpyNU9TTWVsdVJ30gFyQVVfeXFMUEFnMnFza2FvY21PWEgtLXlKRkd4Z3ZlamdaVmpydFdaamRzLU44N0ZhanI5elZuVGo2Zk8xaEM5N0ZkZ1NVMlUwbHJncUVGRkdpZUhEX3pWbWE2WTRISXVFUXAtNjlsYlVScWNSaXVwcmpn?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-09-07",
       "headline": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
       "source": "The New York Times",
@@ -381,15 +591,15 @@
     },
     {
       "date": "2026-09-07",
-      "headline": "AI in Pharmaceutical Market to Hit USD 48.43 Billion by 2035, Growing at 31.76% CAGR – SNS Insider - GlobeNewswire",
-      "source": "GlobeNewswire",
+      "headline": "AI in Pharmaceutical Market to Hit USD 48.43 Billion by 2035, Growing at 31.76% CAGR – SNS Insider - globenewswire.com",
+      "source": "globenewswire.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQejd4WEhfanJRWDVBeUNvNjZwRlgzZFk5a05WMklRVG1VWnduem1nWExYX2ZfeEJ5dW05V0NlOUwzeFIxeVRDNmV2OC1fck5BRmR0VmVpaHhWQjgzZG9OM21GQVFXR0NqejYyVUhCQk9lRHk0VjZQSENKeTItUFpxNmJLTnU0aURDdFFoaVJSWjFiNWhuR2tmMHRBN2p4cUpzYlJXQVM5RTBHOVJibGtwdVpPUlA1akVrejFrOUhFTHlCZ2FVSHpMUUx4Rm80OEkwWXM4dW43OGJiOXcwc3JPQWc4bUZUWlpiN1g0UzBWakVONk1NNVpvakt3?oc=5",
       "category": "Funding/Deal"
     },
     {
       "date": "2026-09-07",
-      "headline": "Tsinghua PhD Gao Bowen Launches AI Pharma Startup, Raises 100M+ Yuan Financing in 1 Month | Xinglian Portfolio Updates - 36Kr",
-      "source": "36Kr",
+      "headline": "Tsinghua PhD Gao Bowen Launches AI Pharma Startup, Raises 100M+ Yuan Financing in 1 Month | Xinglian Portfolio Updates - eu.36kr.com",
+      "source": "eu.36kr.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZXppS0hlaTFLMUtDOWFTS0RzV0VnSmdwNTU5ZmlIb1VEeWJQajJXZUtaUnlFbGdEY2M2d1dxS3JTcUFuaDVyWnc1dVJ5M1VoWjNZ?oc=5",
       "category": "Funding/Deal"
     },
@@ -458,8 +668,8 @@
     },
     {
       "date": "2026-09-07",
-      "headline": "To what extent has AI-driven drug discovery actually progressed? - gigazine.net",
-      "source": "gigazine.net",
+      "headline": "To what extent has AI-driven drug discovery actually progressed? - GIGAZINE",
+      "source": "GIGAZINE",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41VFdXSFZRRkpCX0s4emlRYVhQcG1RMUpScENHbjVrc1JwYUxKSjlxZGstMmViVWJPajY2b19XdHNrN0d1eUxxMnowb0xHdTNSbDBCaGRJaHJqaWswamZlMU84a1JDY1ZXS3NoTXFqY0V5cVFrcnVR?oc=5",
       "category": "Opinion"
     },
@@ -520,9 +730,30 @@
       "category": "News"
     },
     {
+      "date": "2026-09-07",
+      "headline": "How AI Is Changing Drug Discovery and What It Will Take to Unlock Its Full Potential - Amgen",
+      "source": "Amgen",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnRQQXBULTBHQ0E5a1gtMm5UWXJFUkVTRUxyRVd0Y1BweEdjcFhkbG1wRk1wZlJTMndLYkxFMWVHbTM1YVZLTUlQcHhlMy1saDZ6VDdtNUJzZzhLMU1UYjIyQW0tNlNVcWk2bjk0d21TRUJXX1NMQlR2MUlLUkpoTjdJM1V0TzBrRXZJWHkybV9PMExiSVVMWWppa2MwdjdZYzZzaHg2S2h1OFVqQXE3VjFJOXRCcU95SktVd0s5QQ?oc=5",
+      "category": "Opinion"
+    },
+    {
+      "date": "2026-09-07",
+      "headline": "There Is No Money in AI Drug Discovery | by Sergei Polevikov | Sep, 2026 - Medium",
+      "source": "Medium",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUxJc0UyYlJHUkZqVElsclJDeEpFd1g3ZWJqQy0zenpnaEZYYlp6TlZTRjRDSnBWUVpxWHpvczYzcV9GcGMxU2ktWGRVMzhZQTBCa3FRZHFGNWl4RXNyWG5oM1RveGNpcTV5VHZJRGRzQnM3NGpMemV5c2ZzdWliZG54eDJ6MW1YcXpHbTRB?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-09-07",
+      "headline": "Nature Biotechnology | Insilico’s AI-driven IPF candidate rentosertib shows potential for biological age reversal, as assessed by six proteomic aging clocks - EurekAlert!",
+      "source": "EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUSzZ2eDhXTFNSOElmWUNEeGphUmNueVNqNjFrUjBwd3dDQUhaaVA5cTBaNi16S2cxZnJSdTBEMlpIcUE2bGpFblpfbnF2Y2poTjVLWjJ1MXFnZFRi?oc=5",
+      "category": "Research"
+    },
+    {
       "date": "2026-09-06",
-      "headline": "Collection policies | Next-Generation AI in Drug Design for Precision Oncology - nature.com",
-      "source": "nature.com",
+      "headline": "Collection policies | Next-Generation AI in Drug Design for Precision Oncology - Nature",
+      "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pdERIeE5BU2ZHaXk1NTBZVjlkdGpTcWhCVGJWb1o4N3JyZV9UbE0wRzc0RmdvRGJFd3R2VGVnY1VHUUhya05KU1dDOEdBVUdfazRIUmlaQXRYY0FmSHBTLV9hVGFCcjF1YU8zRnFIUmRadDA?oc=5",
       "category": "Research"
     },
@@ -574,6 +805,13 @@
       "source": "Cure Today",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXdOdjUxNU9qYWV1QUUwUFE2RzBPZXp3cUx5LURxSThlSzd2UGNlRDV3M3hJeEtkZWx1QWEtOFREaUY5bF9kOFVqc1NuVFNpTWEwQmlNNkhHTTlleExGZXBDOWtZaFc3bEtocG1oNXFRU1dyWmYySncweUZyMjVVVnVkV19DeklsV3pvUUk3aw?oc=5",
       "category": "Opinion"
+    },
+    {
+      "date": "2026-09-05",
+      "headline": "DNA Synthesis Platform Enables Faster AI Drug Discovery - Technology Networks",
+      "source": "Technology Networks",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1NXa0E0MXBFTUhXb0djU1RGZGh6a3JSU3FEQXBnYXBvNUpwYkxyRGtTNFg1QlNSV09yOXpJUFVySEFNeG4yamlOOGxBTVY3TDVEYVdacFhlajh4ZV9BYUVhbUJ5Z1J1WHpmUEhiLThjaUNONlNYUl9xYkdOaUktbVJUdXowZERFVGJQRkxocWM2ZEZubDFtZWpjU0tRSjZIaEdrNjNQVUg0M1p3ZmducHYtdzFyYXEtNE93ZDUzOTZhMUE?oc=5",
+      "category": "Research"
     },
     {
       "date": "2026-09-04",
@@ -734,6 +972,13 @@
       "headline": "Artificial intelligence designed drugs Hit 90% Phase I success rate in trials - 2 Minute Medicine",
       "source": "2 Minute Medicine",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWFuemZSNllfdGhqM1BTU0J6eEp2N2JvVVZETUV3ZjlPWUZqTERJN1VSYkZ1MGNzR3dqeVRsejJqbmFsSTFPdmhGWDFETGVRZ2cweGsxS1BNaUMzZDRrbnJmSjdwNHlObFZqQW9pcWpOYjdxc2h5clMzNUM4TFJFMDZkOUd4QmRQRGJIdVZLWU5YZw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-04",
+      "headline": "Tempus AI Stock (TEM) Opinions on Analyst Upgrades and Personalized Medicine Momentum - quiverquant.com",
+      "source": "quiverquant.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGM5cUYzaXhtQVFNTUNDaWEzWFJHaHk2b216U3lodEtnaFUta3Z0Y01FTk9wQnlLMmNwTjI3WUNwQjZmR21lSy1BeGdpSnZ2MFkyYThjckp6ZGxtLV9obUZRVlAyV016blJxQWlWY0ZLdWZtNFdobzBQSFAwSWxpOHhlTHF4cFpCYjVSZWtVSkJ1WVBDd3o1SlFhT0R1dGZQc1JvRjduQy1Jcl9ISmdnandwN2x3Tm9HTXMxSm85Yw?oc=5",
       "category": "News"
     },
     {
@@ -913,15 +1158,15 @@
     },
     {
       "date": "2026-09-03",
-      "headline": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery - 2u.com",
-      "source": "2u.com",
+      "headline": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery - 2U",
+      "source": "2U",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDl6RW1jbmZuVWxwbll4dF9hM1lkdUZ2UEFzNW9xOGZzSktXd1lpNlUxT2xob2FrdnJ5N3ZZMGExM3h6T2Z1ZEpIaEp2U2tLck5qMFpRWVBBNFZwajhXMmozRzB5b3FTTGltNUdJN1dmTlQ3cnkwbGlIZnB0ekcxT2FtR3I?oc=5",
       "category": "Research"
     },
     {
       "date": "2026-09-03",
-      "headline": "Turning AI’s Potential Into Progress in Drug Discovery: A Q&A With Oxford Professor Alex Bullock - 2u.com",
-      "source": "2u.com",
+      "headline": "Turning AI’s Potential Into Progress in Drug Discovery: A Q&A With Oxford Professor Alex Bullock - 2U",
+      "source": "2U",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMlZRYWpfRHZ1WGlCQV9YTmdodFJXNEFKOGctekFPQ1VXWlZ2Z284OHo4YTd0QVFXeVg0LThTZHJrYmhOM05pVWJGX3R2alJCaW5fY2NJSXQyelc5ckFXd3FUd2FVQQ?oc=5",
       "category": "Research"
     },
@@ -1430,9 +1675,16 @@
       "category": "News"
     },
     {
+      "date": "2026-08-31",
+      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWNpREFqdDllVERUTXRsOTNBWW5jOENQVGFtUVFoM3BzLWFvaXVUNEdyUmlyZDFzdU5DdVBKemIxbExDc0dieWdIeFlMOVVMUWh0SjF3b0RSbmxPelR3eWh1aFN1YnYzWFZsQmtZTE1kSVltX19jSEdOYjhDcTduSVdQZlZLaDJkcEZYSU5xclNiSWlEa21vZGJGeHplZDNNNE4ybGgwSVJPakJFUTdjSHdYclJ1M0dzZHFqd3Q1dw?oc=5",
+      "category": "Funding/Deal"
+    },
+    {
       "date": "2026-08-30",
-      "headline": "Pharma stocks soar as investors seek AI alternatives - Financial Times",
-      "source": "Financial Times",
+      "headline": "Pharma stocks soar as investors seek AI alternatives - ft.com",
+      "source": "ft.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBkZmJvaW4wUHdYQk4wZjhCWVpoVU13WThlYlpTWFo5dnczWDhGMmk0aUR0akVtZkdnY01manJtSzBIQUlRbXlsWnpXQk82WGpnc0tHZkE3dFNqZEtTTWJYWFJ0Q3p3UmN0OU9JankwdU9PeUVEMGpDbGtCZDVVcjBaZmI?oc=5",
       "category": "Funding/Deal"
     },
@@ -1501,8 +1753,8 @@
     },
     {
       "date": "2026-08-29",
-      "headline": "Global Supply Chain Disruption: AI in Pharmaceutical Industry [In-Depth Analysis, 2026] - Klover.ai",
-      "source": "Klover.ai",
+      "headline": "Global Supply Chain Disruption: AI in Pharmaceutical Industry [In-Depth Analysis, 2026] - klover.ai",
+      "source": "klover.ai",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUxMOGduXzVxR2dXMUdBSVZUM2tGcnZLTHFBbWdzQkNoaXAzNUpQcU95N2I4dFJRYUJPRkxqZWs0dnYzOHI3SFVWbHZPMW9hWV91RVRnWGVwVVZXbHlWWHB1VTZ2U2xHSnJQNTNOVGVXc21KLXJyXzcxNy1PZ2ZSNnp3QXZmUk5SN1dWY2RZZkNLWE0wQ1ZYSlZGQkQzZE9maGxEWjR3UEc?oc=5",
       "category": "News"
     },
@@ -1613,8 +1865,8 @@
     },
     {
       "date": "2026-08-28",
-      "headline": "AI Can Help Improve Prognosis Prediction in Rare Heart Disease - Inside Precision Medicine",
-      "source": "Inside Precision Medicine",
+      "headline": "AI Can Help Improve Prognosis Prediction in Rare Heart Disease - insideprecisionmedicine.com",
+      "source": "insideprecisionmedicine.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWlLdjQ0ZUlFY0xCV2JNWjE2bjh4SGhvTmxheHdWRXNlMW1jV01lZmUwaGw0OVVkRkVRdk5CVEFHeWlKdWFuVUpsNmlCcmxrLXRIbW1qeEpvVWZGV2VpVUVWNEc0U1BmWW41U2VHbTlSM3dWNEVaeEhQeFoza2VMWWFpeFI4U2FQQlAwdktldmE4SEtEdHNITU1MSmR5YmY4RGVCYVVocElDeGRQSVB4VFVsZU85WGYyTFFUWDJlRQ?oc=5",
       "category": "News"
     },
@@ -1662,8 +1914,8 @@
     },
     {
       "date": "2026-08-27",
-      "headline": "Students find AI isn't a cure all for drug discovery - medicalxpress.com",
-      "source": "medicalxpress.com",
+      "headline": "Students find AI isn't a cure all for drug discovery - Medical Xpress",
+      "source": "Medical Xpress",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUo3aHZlcGZFNHBoSkNhME9fMVgyZVVjS3hvcHRRdS1weXhrU3BYeHVZV1AwVHZ1TmJMQ1hfSU1wOFFVOVpZTmFLcTJCcVctdkk5d0hESlFRTERWUEN6RG5VT2hHaV9VNWpSYl9RcnFleGYwMHp2SHZyN2NMRGIwVA?oc=5",
       "category": "Research"
     },
@@ -1746,8 +1998,8 @@
     },
     {
       "date": "2026-08-27",
-      "headline": "Pharma websites are improving. But AI is raising the bar - pharmalive.com",
-      "source": "pharmalive.com",
+      "headline": "Pharma websites are improving. But AI is raising the bar - PharmaLive",
+      "source": "PharmaLive",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVUVZbDBHT3Y5YW80Xy0wbUtRdmQ5MlZCTU4tbm5yd1dHUURoYWtoWURnSGRWaDdkNHhpa2lKbnpZTGRNRHh2dHVSejNOc3dvY2RDbllqZ1NBMmhoOGM5Y0d6Zm1saWVacXgwamZXa09OZnVvandRM0VNazB2dFp3bkNHVmpESmt3U1U4?oc=5",
       "category": "News"
     },
@@ -1847,258 +2099,6 @@
       "headline": "Dubai pharma deals hit $2.8bn as DUPHAT 2026 sets out AI and precision medicine priorities - Arabian Business",
       "source": "Arabian Business",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3A1ZHl3Vy0tMFE1aVVVWjlqTy1MUGJqaEhyeDFuT014MUx5aXJzT2RhYjMydmJ0UUhhZW9UaGNTeXI5QlB4SHhzT1lMT0VqRXVEaHpiT19YeExENER0aEZpdXJqTC1VRHJNTjk0VVlZYXZoOFNlMzg1TmNqaEMwYURVTlBYSF8yUGc?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "IQVIA Wins Multiple Industry Awards for AI and Technology Innovation Across Life Sciences and Healthcare - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTB6bWtwQ3dPYkIxUGdCckJBODBOaGEzUTN0TnR0LTVacklmdHJja20yOG5MUW41aHY2VnI4RDR6dzBIYUV0TmJaa1QtNjlQeDJZcVJ1SFhYLUVlNU9rTlJpVnYwNi1NMUJSNlF1NzZ2VHplZlg3LTMtMGVSNy14bkJzVzhpcUszdGhnUDBRTkVoeTVYUlBPZzdRNVhlbXExY3NmMFFFWHhFelBsOVVDRWNSSnViNnhSVU9taU9NWmNxVXA1d1dDQWFqOWJQZm55cjNCRUtLVnZlUGh3ZHgtSVBQSERnY0otTkJkZGN1ZDBOVEE?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "IQVIA Wins Multiple Industry Awards for AI and Technology Innovation Across Life Sciences and Healthcare - 01net",
-      "source": "01net",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYXQxeDMxUjRjajBFYVFyOEs3MjYtcElGVDFmZDM0cjJuVnJnbExwb3hlZmNJcnp4T0xqMldqdTJiUUFoZ054ME5PaTU2LXZoa0NIWmtDeV8wUlEwRGJxMThBM0ZQM3RvU0J3c3o4Y3hFX3Z1Qm8tZ2NSbFNyNjhzdmhQTXFpNG4zdTh2TzhYcWtycnRZcXctY3dsYkxzR2VWZ19BV2YteWhzNUdZcTRKQXhscnFwWjFfN25BMlhhbzRhQnZv?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "Lattice CEO Sarah Franklin explains how Pando acquisition boosts its AI tools - qz.com",
-      "source": "qz.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kZEF0S2tFT0c4Sk0zUm51bEJ4Ylc2T1l6MXZuQm1uWXFBYjNvZ3pxTFlEWFhVMW9acS1GMjF5NGZIeEZLRElnVTdzNmlubWl1N3gtSGtkM0NNaWV2TDBzOHljQ0RTakl5SUtmb0FOeTQ3a0ZZd2R6Z3pkOA?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "IQVIA's AI tool cut diabetes screening work by 99.5% and won an award - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3ExbzhTd2ViSXg2aFFkNGdEV1p6ZHREOWp6V1BKWE5GRzBkamdFeUNqUnhIcU13RUlXRUJjbmJVV2FNeGEtc1FtMlRZYUh1VnJTRVd4NlRjTTV1Q3dGU29GRGZWLVlkZ3d5RTJJN1pyVzF3QXFFLWtFdVV0QTlEeTRTNldXM2pVVnNhMUxRU0J6dVIwY056ZG5XczROMW1PMVZEVl82a1hfbzljQlRnZUJTTC04cnJmUXZOS0ZZcw?oc=5",
-      "category": "Product"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "Huawei plans for more AI pharma tie-ups, says healthcare president - ET Manufacturing",
-      "source": "ET Manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejFKTTVCVTNvN1hKQlI5TVhKcFdzQ2JMeXA5aF9FMzRPVFdoWGdXaEYtNkVMS0VqVkpGeV84OXZkYkJKYmVGQjNMUDJoQ0hydUs3N2dnR05CTFpCdlRMaUo5TDBUNC1OYXpzazJvbmRCdzFaZ3RkZFd4ZlFJaEg1OWo2bDdIaG5JTFllRWI5NFVTcjUtZDRCZlk2bkY1d1dTOUJaWFlvYVozNlo3X1pJMjFYaDZNdFdUOFdHS2xuRmhxb1RwRU1yY0tBM1BGbEtMb2ZyT3Rn0gHbAUFVX3lxTE5NSGZWV2Juc3FUUHk4enJtT1JlcEIzamdxekNEaTRPRU1RbEtNYzNvTWdYd1VmLVpNMXVvQzhQWHVkZXR1THRFYkJTaXphM2NhNlMtU0pwZFpURW1IblRPWFlVdFNrVHFWdTFMSjZpM0F2UDFDejdzLUVsTmF6clFNb3dWYTh6TVhQS0pWZTAyblJQNXlrSHllcTVZN0w4MUpJeUFKZjd5Y3hIVlN1UlFRYzEyMGxQelhwbTktRGRJSDdhVV9fcUdNN1U2TGJ5TXRkdmJMMnd5Q29iSQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "Huawei plans for more AI pharma tie-ups, says healthcare president - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzJwRkc4YlN5MlhCX2JwZjhSeVZuWE9ZSHRCVTlDVWNhclRQNVRyTzVUbG5iSHdOSzl5NlUzOHFrQXpXRHVPV2pNVWxidzZXRnhaMWxmV2s1OWl6ejEtWWU1akVGT1dkZmtfbFVDUWNPMjJmaDRYNmhGLU9LZWRrZm1RV0U0QkZybF9rWm1xMVNLcTY4M1U4Z2RJMUlSS200amxaU2s3MTA3U0ZMbDYzNnotci1GQjNPSDVYRDRibHlHVWE4ejA0c1Y1WDdYVHhE0gHWAUFVX3lxTE5zanBVbFFidHRlaVRMZk45TURFUTVNdmNFOWpySXo5TjJaSEVzUWpKeG96V3VWSS1YRjZVUWxiVGpXZXlzb3R0VzEtaHNLWEpFSmRCQ0pzaHpTTmxDb1pRVXBEMlp0VkRmQl9aVmRIbE91V0pxU2ZFTXNXcHBhR3MzdThQT1FOa3dyOUFrbVlnTXVidEU5VHM2eDdKNFNPZUUyLWN4SFVkMVJRZmFEMTJqczhsNS0wV0o4MUxyU1RnU1RaYTFkRllReEh6TDlpcll1LU9tVUE?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "Huawei plans for more AI pharma tie-ups, says healthcare president - CNA",
-      "source": "CNA",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejhrZ2dHTk9ydjVqYWVRSlc2OGttY0I5S3YxY0VCaTVnRTJlWGxSNXRfOUlTd0NwT2JsUFUzX1p1cmhaT3FxSVdvblhTUVNoN0I4cjh4eEgwajNqcHZJMWZpNzN3NEJDRDdGQ0pNU1ZhaVJDSExDeFBLekxuQkFWdnZVcFFjU0pzMTRlaFlLamdwTWplQld4dmhBV0llVnhkWkk0dlMyYlc2cV8tU3g0?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "Zheshang Securities: AI-driven drug discovery is reshaping the paradigm of scientific research; maintain a long-term focus on companies capable of continuously iterating their R&D platforms. - Moomoo",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEZoY01xYUJud0dCdFlMd2JnMGsxWGRNQ18zajJZc0RxWDlQaGx0d0RIX0ZmSUZLX3E3YkQxMTNPUko3bk9VTWo4ZWh4WVBkVlRDQ3RNRGFHdm16NzB0amUxWkg3ZHB3MHU4dWRENmdMUEJ5eDQtMXdjNlN0V3d6WXhzTkIxZ2UyOTUxdFVvR0tGR3lsNkJkR3NWdWdudmlKVjFZVXQ4RlJQTUdzM2s1T0pB?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "From AI to Engineered Biology: What’s Next for Drug Discovery? - Technology Networks",
-      "source": "Technology Networks",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2Q0dXgxVnc5ZkdKNDJPTGZfaUdBS3ctN0gwTVpFOWpkcFJucHFjVlhRRzVpem1zUkF1TS1iVS04d1ZGWjNYX0NCQ0paU25Mc0pLOXM2RXlrNlBHejZuUHVWSzBlVjVfcTRxZ0t2OHpDLW9tYl9vUXFCemdKQzJlOEpTcFFDcHlsSFFqS1UtaTMxRWVhZEdHZEpjczlmQTJwWXFXdWNVMDJ2NUtSdUIwWGVFVzBqQTlHcm5MWUFya1Nmd1k?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-08-27",
-      "headline": "Huawei plans for more AI pharma tie-ups, says healthcare president - ET Enterprise AI",
-      "source": "ET Enterprise AI",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR0o2cHJtRzhPNGhVTXlfeFNzR1JQTUhCdnFNLTZFNWJMMDJCcUxQVGRoQzQ4WmwyOE1na1g1TDZDZFdfMnBFV0JCX2FhZ1hGTkhMTm55NWVHX19yYm82bEc1LVpYRFJHcUhPMWZUVmlvREFWaFVsVlVZVTdVY2pwYXB0WTNselkzQkVsQnpWTmtYN19wTXBLeWd6ZUxKdG9iNmZOWk42MktEY0Vpa0ZpZmVCejJhY29NLU1BQ1c0VnpCelBLUmttMXVXdl9zUzlyR3BpLUN30gHbAUFVX3lxTFBMNHhDLUZHWlJ6N0JZTk1xVEJQVmJFaW1BSEJjWWZUSnM1Q3BFOGcwQlc1dG1UN05JdEhzV09SM2pUTXFzRnRvZ05PWnEyRGtPaDQtRGJsYy13X3daWmRwWlBfNzRyd1hGc1pzYUpqMWJoRHhDcklGQUlSNENueWZhcXFyT2FodEw5OTVlX21mdG9aWTU3UjRpMkNFR0VNYzRrRGd3TzFkZkZpUmpkX3dMVzVKZUJISVN5SEJDTlNlM3NkYnE0VGNVa0kxdXBUZ2dTX0dQWUQ1Q2ZHOA?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "AI for early-phase clinical trials: from hype to proof of concept - ESMO Daily Reporter",
-      "source": "ESMO Daily Reporter",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZHBOVEVxckk2d2tSLV8xT2xSVnFDVFFqNGRKaGpqZ0tyWkdfQjZPWXVrYnVOYmdvR245U2NRc3NHVzlmdmlfNmlsWldyZlhQeW83MVdiNlVmREJ2dzdyczZWTjVzNDF2ZFZueG9MUWFNTEJVMC1EOEstblEtbDVwMzgwSnVvck9kYWtIMW5QNGMtLW1rd01FZWRXb2RHTTZUOXBFZko1SjBHdnFURk42RnRQbkJsZTJUZlJ5ZVQ1M3FValJjc3NScjVWSjY4UEFCb2U5ekM5NUQwUEliSHRhRjQyMm96VjRteWx3ZWhURHJubm1vaEJMdjVOTVQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Watch Mindrank AI CEO on Business Strategy, AI Drug Discovery - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYU42aG9lemVpMFdMRGx0Y2xlQ3RscXdiWVJxMzMxOExVSngtM0d5c2lhbTlmLUtueFhBVm9oVWRUQ29HM0JzUEVpM3U4SUxDZUVPbXBFbEpaalhwQXpCXzZsY0I3S1BaT05jMlRMOGJxMkZCblNTQ1RseWljUmJJVTFOa0NCZDhodXFIUkZnTlNMZDQ3N0d2bFNDeEVrakFhQjc0YXRuMEtfdXYtNkE?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Why poor data quality has the potential to derail AI in pharma - Manufacturing Chemist",
-      "source": "Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUC12bms3Q3Exd3I4S2pIYlZObjdqSUxuR3BEcXVRRWZjblFqSEZGcHM4YWR6OHp4aXVTaVNsYy1NaHJfMVFkeEx2ZEw2bWN0MGhiLVhIY2JvTHlNQ1F1bnNUUkxUN19sNUFZM1N1bWhvWFpvT3pEbjB3aG1UYUk1Vg?oc=5",
-      "category": "Opinion"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Lundbeck expands AI partnership for commercialization in the US - medwatch.com",
-      "source": "medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IWDhfN0t3eGhJYnM2S3FJNlJfalBScG1JTXZCOFBWS053aHd5RWcyT19CZDJSUlM0QWVUOTFHOXRNaXllZ0F4ODFyOXhzemtNVUFYR1loMmIzSnZ2SUlSVnZIQ2U0VGlWWlBvblRVZw?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "AI-Powered Moderna Stuns Markets with Interim Report: MistRx Leads China's Booming AI4S Innovation Track - 36 Kr",
-      "source": "36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yeGZuem9QdDliMVNUd1ZWZnlITjY1azl1NlZzTlVPZkp6NWdKc3VpaEV6Y0xpMHhhYm83dVJwODh0TlZrR1RuZW9ac0Z6U2Z4Q0dR?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "METiS Therapeutics' interim revenue surges 135-fold as three monetization paths for its AI platform emerge - finance.biggo.com",
-      "source": "finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kMTdGLUxRS3NBaWpnWDV2QldtRUludDQ1OWd3aDZSY3RJVlVlVHVtZ05jLWladzJNTHZ0YThOWVZtTV9ENWg1LUxCWHoyRkFFLVgyREt5VEhiVUJJbTlsclgyT0JXSFdlTF9qMlNKQnZadW5idFE?oc=5",
-      "category": "Product"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Hello, I'm \"MK Signal,\" an AI reporter who analyzes U.S. stock hot issues.On the 25th, Regand Pharma.. - 매일경제",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BSmsxQVd6N0pDRkMySnp6R21oc091ZGhCZkQ2d3V3YldJZEFub3I4ejFtYTVEYzFqeFhaOF9JV1RWNHFEZFlNLWxITG02YWM?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "From decades to a second: AI and supercomputer reshape drug discovery - news.cgtn.com",
-      "source": "news.cgtn.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3VCTWE5UlN4anA1b2UxY09ja3JTUHc4OE5peU8zc0FJdTR6WGRxRUhVV2s1a2N2NzFuZy0xUWJTS1Bod1dVSTR3QUl3NTRuZE05V1NzZnVLUkhlUmZsY3dlaWlZby1uT1N0OEppeHRsWG1qVVZHaHhNUWg4cW9jYmRyUjRqUmNBNEtuUWhSOFdTRU1mMy1MMFNIaEtUS3hLZ2RlRmpBRkE3QWJIWnY5SVJvSTBmaHZ1OWxMajhXdUVXWTg?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Tufts model estimates 82x ROI and up to $21 million in value from Medable AI agent - drugdiscoverytrends.com",
-      "source": "drugdiscoverytrends.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnVXTFIzZHhCeDJfdHNKY1I1ZDFTOHZwaklzdk5GTkprNnFwQ0hUZDROTEVlTGdZTzVuOUpPdVNoMVRrVEdwdk1VRE4zeFkwazZ1Zlo0bW1ueUxIYUNjT3I1RjlOcnIxZFdVdFJYQnd3UlNyeVFkTU1ENVZuX0JTSU9wZ0oybUVTaC1SWEpnaFp4SzZhV2tDMWc0dUNDT1NrQk80QXBVcW9hQUIzeWhVT1RDSS1yUjF3TGc?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "How Pharma, AI Ventures and Big Tech Are Shaping AI Drug Discovery: Insights From a 2026 Strategy Survey - International Business Times",
-      "source": "International Business Times",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWJ2YjBPY2pyU3JiTnhHVHJGcjVGQ2Z4WjdsV2IxSU5TV0pNbjFpT0NjRHRLWlJxR3E5akdhYi1vU2JyaUpEZS1RdWhQUVpnNklMR2RDZDBNOUwwSG5QcVprWktwS0NJZWlSRHFsRUJmNXVtR0RpdGNvWkh4clVfVFJQN0xZTDZBZkJuMmtDeDVtcGNQbFNIR0xJY3BKbWtHdnlNbG5zTl9hSEs0NHRqbTZLWUxYd0NDTU5JQTNR?oc=5",
-      "category": "Opinion"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Smarter decisions at scale: How Novartis is using AI to advance R&D - Novartis",
-      "source": "Novartis",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjNtekRXSElwaENIWHZ4NUZ2ZExwVWM1RTZIMDFCQ2NpdGl3ZlJNdTBxLUFrVVZKYTJFUHZYZGZDTE5hTDdlOTlJZkNQOVNHdERKbFNiT0M3dTdoTk04Sl9WT3BBQVB4ZTloRmkxRjJNYVVHZUljRFpHMG1Jdy1lbVFJVjBOVW9nZTdBbnV0NlRNbDQ?oc=5",
-      "category": "Opinion"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "AI biotech Insitro’s Daphne Koller on how to speed up clinical trials - STAT",
-      "source": "STAT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWY0MDJtYTB6TElQZmRWeUNGV1MwZHhoTTdCek93eTViZnFXVFRuNmJyZlV5YkEySDlySkNDR1dURzgyLW1fNjNaaF83cjJpN3JDT0huREJLbU1vZU5ZdXpCYTVuWEF1cVZBTVNxUjRZQ1lycUR6bGdxQUZoM1BKWWJxMkVDQ0thb1NTRGhZdTZKNmRRb284cXo1UDJQdTc1R3VLck8yYVJBYWFBdlQxMA?oc=5",
-      "category": "Opinion"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Nvidia GPUs Are Table Stakes in AI Drug Discovery, Generate Biomedicines CTO Says - finance.biggo.com",
-      "source": "finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90MGNYNVhIMVVOa01LWUdCd3V1M0IzQ2xEMDhyYk9fSHQ1bFVJVFgybEpiNFBqRmpTWDV0S05tRWZXQWkySUhzaldwMDFXTXJ5b21lTkxyM2NRbnM3Q2xsMl9YdnNEUmVoUWt1OW10UkRBb05hS3c?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Viva Biotech Announces Its 2026 Interim Results: AI Sparks New Paradigm in Drug R&D, CDMO Commercial Manufacturing Accelerates Revenue Growth - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMFFLTXlwMUU3UmN0QUJiRlAzVEFXQUllV0JTOVpTT1JydVloZTdVQ05ibFdma255WktaRjdlQ3Q5aDVWZ3RiN3dkSENLMGN2RW1LT0lTYnBrVEx5MkthM1l1MVRTWkJuR2RuWFA1WDBmNUc0ZnA2Z3lhUjZSalVOOGJaMWhEMWtQT2xZdEdldGVySjh5U0Rza0R0NDRBV21FV25udnZuakdxRGVrT0llYmYxWEc1MkdYWlVlWDZNVFFUQnBkMzVTQ2ctazR1RVhWLUxYRnBKYjVoUVRxTXVkZXZpYUpxM2UzcEFGZkhLX2dRc19EYW11T19TdTFRNjNFSFZjM1pHTy1DT2hlVkZJcXpKQWtZX2ppd3J0M2NnVQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Up 377% YTD: Is AI Healthcare the Market's Next Big AI Trade? - Moomoo",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGJfQlp1NGtnZVlwSF9xaXpMaGhJazVWQTQwNk92amo2UW5DYlpfTjlGX2RocDZIVm5oaEZ5Z1R2VndObk1KeGRiOElvM25mNzExOW5lSkhqZ2pockRDYjdxQWpTTVItT3FwOUdlVWItMmRjZFpYSVJDTzZJVElXbUhSMWFYaUs3bHk2cVVIZVhxeDhpem9yaW5hRFdCa29N?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "The AI Implementations That Produce Real Business Value - PharmExec.com",
-      "source": "PharmExec.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT25lU0ZiRTd3TUZsMTE4dUh6RmFpeHdQeGctT3FfSVRlcjh5b1FpTFJPTkR4ejNZbkFGbE5zVHB2VENnenpEMFppTG1uZnRZRllUcTk5RzRYV01Fa0c2TV9uMzBJQUNZbHBZRm1wbzJVYjAwU2ZHaHllWU9QOTNubG50R3NTWjEzQmc?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Lundbeck expands Eversana tie-up to scale AI across USA - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkVwYWZMcEdCRlduaFhWQWdRZ1JOLW5PaE9UbndvOEZpUnhiZ21UN2dzRnZoSXpjLW5tLTlWcmc4ZmpLRnRCMDd0aUFDYlNpMzlPSG1icFJfS1BOUEFDMjREUHBjVlc3QXdCYzYxLWphaHhkSVVmSGg3blZ2WVFtbHBJMUdBYnR4LXdxMlktMHctQm94aVNJbGN0bWZpOXI1d2UxZmhnTzdWRzZ2c0haSnAzNjhqNU5pSmEzXw?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Daewoong Pharmaceutical Partners With Promedius on AI Osteoporosis Screening - Seoul Economic Daily",
-      "source": "Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3NKQjVDY3ZHak45dmZncjM4OGJGQ1h6Z2JoSmRvdldZX3dnRkFEb2RZV2Y2aFJrTjdONHp5SUZ6NW4xb3JWcmMybFlEcnl2eGR5Sm5HelQxUDFhSEhmQzgyV1FZamVsdDlJdEdxN19La25WSWlEWkY5RFVkUVh3YlVEeHh4bWJ0RlE1NUtKUTFaVUM5cWpMdXp0UENXWDQ?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Grand Rounds August 21, 2026: Off-Label Intelligence: Books, Language Models, and AI as a Medical Device (Eric Karl Oermann, MD) - Rethinking Clinical Trials",
-      "source": "Rethinking Clinical Trials",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObVBxSGlUWENOdHppUUlUUmEtN2hMSldvaDlOVXFBU2R5NjI5dXk2Zndsd3NTWUVFSmFOZE9OYjZPbXlkMkZJbEFOX1RoM0ZabmE3TG5tdXVoaGlGa1J0eUYxcEpfZUl3ZFA4NThLVTBJcGFXYThCYlBkbE5QSF9ULTk1QXhrbGxBUFAweTJ1N2h6YVFtdEFmOUVUOFY5cEdSZ0xnS05EcTJlc3VqcG4xQnViYXByY0YtbU9rSUtqck9mS3N6Rm04TlNPZlhEeWJZWnh4WE5yR1dreUJjakY5eENVXzl1ZlVaRkFSc1lhbnBLUTI4X3c?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Where AI Is Delivering Real Value in Clinical Trial Payments Right Now - Applied Clinical Trials Online",
-      "source": "Applied Clinical Trials Online",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNkZ0YWtPYWFyMFlCLWgzNGRLQjdpdmotclZ3dzNndDBqeW1ITHg5cEN4T0ZtWnNOOXhZa0xSV0FGc3JieW52X3otNjZDVFdaOWdUMkVGcER1VGVJMkVKZE1NRURCQWtwa3NNb09scnN2X0w3QlBSNk9RR25oUlB0MTkteFh3bEM0UkVadTNpNmIta2IzVGFzaGZhbUxENng4WDlLYWxISlIzTjYwcTlCSnp2WQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "August 26, 2026: Evaluating Clinical Agentic AI, in This Week’s Rethinking Clinical Trials Grand Rounds - Rethinking Clinical Trials",
-      "source": "Rethinking Clinical Trials",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0o3OTR1dlgxbjlDR3gwcWppMkhLS1RsaU5aRS03MV8zS0h6NEwwUTMyajAtUFUwRmY1a1pDODBDbGV5NjlNWUV5MGY3SUxubGtjcnZhRkFiSVlGREVHa1luVXNnbklfVTU1eWRsVUFUSmdmM1JLNVpfQmhkX1djUVBRTm52bXU3R0VsX2xjUWM4OVVfWjlhRUM2Rm53Wkh2NlNJNGxmRDBKVWxURFp6NVFuLUNHRzh3cmhkdEd4Z0FGc05ROFNkNURMVHpldXprZFRkRmk1YkI3UQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "The Blueprint for AI in Clinical Operations(1) - Applied Clinical Trials Online",
-      "source": "Applied Clinical Trials Online",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHZwSWFYVE5fbW9wcUdNQ1JIUVlvU1pkZndzRzZacXNwSV9EVkxmS01jSm1UekJyYkdzOXhPV0IxUGNJYVlOODFvV2ZVOVc3cGNiY1FNQzRPeXJ3TnF0YmVhbG0tMVExcnZQeUdoS1F6UGR1U2lGa0pCRTVKWVFjbmJTY0pnM0RmRjNV?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Exclusive: Can AI chop clinical trial timelines in half? Faro raises $37M to find out - Endpoints News",
-      "source": "Endpoints News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRFBLWWd1ZDN6TFhVYUlaUThQOW1TNlRGM1ZZa3hvcWxweWIyejllMHNhVDIwYVF6VkZQQXRLOG5uU1BPdU5YUkw0WlAxcFhmSWxfcFB4a0pXTEwwS1c0dS0zbm5JbGNqOXpyZWJkY2NYaTZ4WTFTQ2twdlJ0X0RDakE1dHhicUVIdGN0aGZYa0MxNnJqc2E5eGtn?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Using AI to Bring Trials to More Patients - Targeted Oncology",
-      "source": "Targeted Oncology",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUpaSTRyc1NiajlpdTVfaEU5TGRDN1FqcEhqTGF6a2ZZdmRpbWdhVERFZkRFaHVaVWxKVy1rdGRZQlQtWVJnb0E1b2staU8xMDhCTHNLd1ZVYUtSc3B3a3c1TXJ6cWFYUzhaVDVyLXRQLXJaY0h3SzZ4dm94ZnhzeVRR?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Faro raises $37M Series B to trim clinical trial timelines with AI - Dealroom",
-      "source": "Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmFTNDVDbXVZT0FMa1BVWWxBVnRvenBvcXlfeHl2Y3JFQm5ONUp5T01TVVdWcDF6MzJWbTdacUJldG9RelgyM21fa04wNG00Q3FUOTU2cmZteDl0VTVGWlNNMzVSVV9yOUxPVURoYkFPcGdmanJ1UVhjR3JURU5BeTR4dDNIWmhaWkxRdUJiNkVRYlhiRE1CckM3bHNpYWVn?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Is AI finally proving its worth in drug R&D? - PharmaVoice",
-      "source": "PharmaVoice",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMkxJN291c1RlT0VUYUdwQXNZWmFhbmFzYmlHdW15eFlsUUhXdXdmbXc0SlJ3VFZtSmxtY1N3eFBIeklBeWk1ejV1am9LeUZIeExHbUJHeHd4V2xSQld4RTBpTHYzaXU4ejRHSlFUandmcEhubjFsNVN6bWJSZ1VEQXczY2JmQQ?oc=5",
       "category": "News"
     }
   ]
