@@ -1,6 +1,17 @@
 {
-  "generated": "2026-09-10T11:15:01+00:00",
+  "generated": "2026-09-11T11:16:39+00:00",
   "deals": [
+    {
+      "date": "2026-09-10",
+      "headline": "Lonza to build new US factory; Samsung Bio signs $262M contract",
+      "source": "",
+      "link": "https://endpoints.news/lonza-to-build-new-us-factory-samsung-bio-signs-262m-contract/",
+      "type": "Deal",
+      "value": "$262M",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-09-09",
       "headline": "Novartis ₹1,250 Crore Acquisition: Why Is The Pharma Giant Betting Big On Minipress XL? - Business Today",
@@ -91,8 +102,8 @@
     },
     {
       "date": "2026-09-08",
-      "headline": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVZ6Q2RuLXVqRnBuQmNhOFBudGVWZ2dEU2VuTXY1eWxPUzdSLXRUcUN0eUdsRkUycWh6ZzROWFlCQmRjd0Fwbl94V2pLbUNOUGpwT3cwVVZvdmpxZkljelVhNU1sd0FabHlFVmFMRFhXMW9YdUh3bUd3TjJaQkJ6U3NSWVJGS2ZiaERvRHpiamExWjZWUjRySW9OQjRyeWVpZk1fd3F1ay0?oc=5",
       "type": "M&A",
       "value": "$12B",
@@ -1180,8 +1191,8 @@
     },
     {
       "date": "2026-08-20",
-      "headline": "Moderna’s Newfound War Chest Opens Door for 4 Strategic Acquisition Targets - 247wallst.com",
-      "source": "247wallst.com",
+      "headline": "Moderna’s Newfound War Chest Opens Door for 4 Strategic Acquisition Targets - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkxtS2lralpQYWRmbDQ5UENMcVY2X3hNUWNzTWhNbGsxUUt0SmphODVrc0Z4djBrWEFqNnEwVWtRUmhLemNySFRPcVpTbF9kTS1XRWxEcjJZZFJvN0tsWmhXOUMzV1g4b0VEX09vdlJDUzMtNEFicXpkNlhadm5kb2xCbFdRR2dyS19UTUtKNUh0amt0Rnk1MjNOUTRjTlZNVFdDa2NHOE5yeFkyMElqTDJDMVNKLU9Yd3c?oc=5",
       "type": "M&A",
       "value": "",
@@ -1389,8 +1400,8 @@
     },
     {
       "date": "2026-08-18",
-      "headline": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1fcFNwME5RSDE1a2JsX3BXUHl3VjVic281Q2Z2YkpkaGdtVVF2ay1oREJCc0FhcVVLT0dOVlZxdWZIajF2UkpYd3dKbUNoQWZHQTN1T0V3aEI3bnljc1ZNbFY4alFqdXJKZFZ3Z2xPdVVCVzdyeDI0b2dla2NoZDZJY3dTazV5ZnAyM1k3LWlBVlpWWS1KV0g2UTdaYUpBWXpmVU5R?oc=5",
       "type": "M&A",
       "value": "$275M",
@@ -2126,8 +2137,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "J&J pays Sail $785M, charting course to possible in vivo CAR-T buyout - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "J&J pays Sail $785M, charting course to possible in vivo CAR-T buyout - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUJxdTA5d21OYk9NcEJ0SUtubFEwOGtNS3Z5QjY5MTdVT2UtQzdzTmZINnV2OWVYdXpfWUxPR2NUUXNORldCTmc2SzNINjViNjhublBFOGRWNWZfWWQ5aVR3LV8zS2ktaUpJaFRGV1NDcHE2MEQyRENTdDlBSWprUTJQVExSZVg1ZTU3eE5nTldDYzZHRWVyRWQ3aEpwa2s?oc=5",
       "type": "M&A",
       "value": "$785M",
@@ -2301,6 +2312,17 @@
       "stage": ""
     },
     {
+      "date": "2026-07-27",
+      "headline": "Oak Hill Bio and Research Alliance Corporation III Announce - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOMGNqdmZyd0d0bVpHenc3TEdYNHBWc3JfWG52YVEyZEtPRXphV0ptZEZOT2dQVHZMZUJDSzdtQjdfNUtEMUpFVU1UU1B2LXU3RldzNVRpZUROMml6ZF9JeTQxQnNHQjU1YnJzNUs2SV9iZGZ3cENUVXFUelljc21WUEZxUFJkbUZ4clhmVGMycTB4dFpfV3JQQ0xHV2JVZWUxdkpCS3pUbmVtb2ZlYkdUSmdsNGNqSk55UU8taVI5WU56WGFaT2FVMTFZa193SVNaRzlGREQ5T25vSzNrSHEtN2JzSlRDV1g0OVNUM1g0Z0VWc1MybWtJOU50RWIzdzlVR1J0aUlURUZqYml1ZmswQ2F6QTNIX055aUhkUVJCQldod1dxcWpxWmhyZWtabnNNbjdlNzFkRlQzRGJEeGZtTTJiUEtOcS1CZUNKdzZlVHpINHVJa2VmZF9JTFRJX3MyNEJ4NkVEYnhIN1Rf?oc=5",
+      "type": "Partnership",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-07-26",
       "headline": "Aurobindo Pharma's Apitoria to Acquire 80% Stake in A1 Biochem CRO Business for USD 17 Million - Medical Dialogues",
       "source": "Medical Dialogues",
@@ -2412,8 +2434,8 @@
     },
     {
       "date": "2026-07-24",
-      "headline": "Fierce Pharma Asia—Trump’s generic drug tariffs; Samsung Bio’s $1.8B acquisition; An unusual IPO - Fierce Pharma",
-      "source": "Fierce Pharma",
+      "headline": "Fierce Pharma Asia—Trump’s generic drug tariffs; Samsung Bio’s $1.8B acquisition; An unusual IPO - fiercepharma.com",
+      "source": "fiercepharma.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHNYLXJzNnV4YWpyb2kzMWhQZ2czUmVmYzJvYS02VWZkcU91cm91SmVmUUNtbGhjNE9WbmRnUThoTFR6SUFuTllwTzB5cjRMak9Mb2MxNGQ2a2JFdlVnTGdOcGhpNnpjaWtTVXlvblQ0RnAyajl0b2xkNXZCYjFQR0VyRkY0STJEVURZNktKVVVhS1pjcEd6SXVfc0lyTDJ2bWdKag?oc=5",
       "type": "M&A",
       "value": "$1.8B",
@@ -2577,8 +2599,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "Vertex was sole bidder in high-premium Crinetics acquisition - biopharmadive.com",
-      "source": "biopharmadive.com",
+      "headline": "Vertex was sole bidder in high-premium Crinetics acquisition - BioPharma Dive",
+      "source": "BioPharma Dive",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3E2N1Q3X1lvaWpJcnZxV01Mc29qamxBdmZrTzB2d2I4eGotU2NwOEl1NDhXTnNzanZKaDUxdFE5QzVIVFBsZ3RYNGJrOXpIeGhvakd0aGxpcFVpaXBiME9WRWkxd1B5dGpQQ0NDc0JOQzRxd0dBOHlzazdIamloNTdMU251MjlfQS1hM0ZDa0RZdlU4aWc?oc=5",
       "type": "M&A",
       "value": "",
@@ -2676,8 +2698,8 @@
     },
     {
       "date": "2026-07-20",
-      "headline": "Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide - Fierce Pharma",
-      "source": "Fierce Pharma",
+      "headline": "Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide - fiercepharma.com",
+      "source": "fiercepharma.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3h6YndhR215T1FJVlZnczFMc3BINmFXN3dFZGtXcWJZY1Z5ZzFOR2pGYzRuYVp4WFk3WkgzZkRhLU5lMjA5YVNIWEt5Z2REMzRUOTJvQ0F3YjZSWDVmTWNPR3NtZ3MxN2xDWm11OFBKN1g2dmZCTndONmZqbUFsai1kNTc5WVU1MEJvMXhZMTc0Rmp3b2piNWtRV0pMZmlnRVZQYURpcksyZldiOXBEMmlHQkN1ejdEMkdibF9zYw?oc=5",
       "type": "M&A",
       "value": "$1.8B",
@@ -2709,8 +2731,8 @@
     },
     {
       "date": "2026-07-20",
-      "headline": "Tempus buys out cancer genomics partner Personalis in $1.5 billion deal - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "Tempus buys out cancer genomics partner Personalis in $1.5 billion deal - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1FoT3N1SG1xRzRtQzduM0FrREVlZUlIZGN5S0ktWEtYUl9ZbDJMbTVzOGxtZm14QzJvWjlTM2tPSTFibWtobUVfT1NIUnVoMDl0ODZiMThvM285WVE5TElZRVEyTDJqdFBIc0JPXzg0MjdhRUhyNVRIS3RnQUoxYkxBWnlHWUhmRWZXREd0UDhENkhQN2J6RG1PaFhiV3ZGVDBWVlY5V0lmbGs?oc=5",
       "type": "Partnership",
       "value": "$1.5 billion",
@@ -2726,28 +2748,6 @@
       "type": "M&A",
       "value": "$1.5B",
       "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-20",
-      "headline": "Peer-Reviewed Study Demonstrates AI-Guided Cardiac Ultrasound Acquisition by Novice Users - Scientist Live",
-      "source": "Scientist Live",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWZuRVZyNUUzV2kzcjBJczhQM3RwcG12X2VlRUF4NUtGWk0yU3dWOEp1U1cyMlFZX2ZYN1JWR1IzOGVCRzQtN2RvY194SGhrdU95VG93V25JaDFCdG1jdUYwWnI1dFlXTy1LLW9ZOVdIa0x2LU8yeWl2bjZPM0JjeUJuSEVtQ05NcVZiN0dtR0p3cklSVkVKMHhnZDZWazdCUW95blczX2pyNFFjU3ZlcGJTUEdOckY3U2FuSA?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Cardiovascular",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-20",
-      "headline": "Vertex Pharmaceuticals Just Made a $10 Billion Acquisition Worth Watching - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSHJHRW1lUGs2UHcyRWd4djQ4Mm96SFFXQnFIbS1lTGhSMTVyaEJ6TEtLUnk5ZU53aFVEUzVRa21pM3Fac0FYakJDTWNvRVV3X2RPLXRUSW1BeTR0cVc5Zm9wMjd5TlU5OEZlYUhZdlhtcjVuYk5TOUhXVGFTaXNBUG9uaU5qbno3OVNhY3JVS05Zemc3RHloS09tSVE5YWp6OVZBamFyYzNwdTNWNl9BSWJVNFFsakJTU2hmMFJ3RW5LUUlqd2xTeDR3Vk94OTlWdmk0cFZZQnA0dTFxZDFrUGNyRVJZOTRhMjBTaS1R?oc=5",
-      "type": "M&A",
-      "value": "$10 Billion",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
