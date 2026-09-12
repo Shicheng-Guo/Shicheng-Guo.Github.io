@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T11:50:12+00:00",
+  "generated": "2026-09-12T11:16:52+00:00",
   "trials": [
     {
       "date": "2026-09-11",
@@ -10,6 +10,28 @@
       "phase": "Phase 2",
       "significance": "",
       "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-09-11",
+      "headline": "Novartis Says Pelacarsen Heart Disease Drug Missed Primary Endpoint - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWxqSWplY21mUVFmelpyUm82aEdFOVNETndUR3o2OHRKZzhmbkRILWRia2VTZkg5OWJoc3M5ZjkzcVl5NzV5cEIwUVNwXzkwRGZYcjlRNERMdElDNFZCT3ppdzdVd0NpS3U3TlR3LVRGWVB0Y3FVVm5CYkN2eEhNMG9rU1AzNHAzYkZIVklhclJLcDFXRUJEaThwU0ttaWJWNEo0VDVPSzQxWlpOeHBJ?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-09-11",
+      "headline": "Zipalertinib + chemo meets primary endpoint in phase III REZILIENT3 trial in first-line EGFR exon 20 insertion mutation NSCLC - The Cancer Letter",
+      "source": "The Cancer Letter",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15cXVUV0RValJlUlJHU0dtRjQtb2hCeHVNbThmNnpqMFE0NXY0dmFYRGl6eUhJMW5ndUVET01HUW5lLXgtNDMyWU5HLVFFMFh0SGZCRWRIMGQ0YkEyUkVHczlqUzE?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "EGFR",
       "moa": ""
     },
     {
@@ -25,8 +47,8 @@
     },
     {
       "date": "2026-09-10",
-      "headline": "Semaglutide helps 4 in 10 children with obesity lose weight, move below limit in new trial - indianexpress.com",
-      "source": "indianexpress.com",
+      "headline": "Semaglutide helps 4 in 10 children with obesity lose weight, move below limit in new trial - The Indian Express",
+      "source": "The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUFaMnUtS2dMNnQyVjhnMnpVR0dsZ0E0UHcyemZTU0pCdTU2Yl9XN1JKcVBtcVhhRUNPbnVXcXlCcEdsUjc0d1J1dG0tQ3BzU2hrUU9iSTVyam5aWGVtTk9PUEpwRUMzQ3dCTlF0X3pWWjdsZ2FrWnlUV3FuOEhxb2d6M09RSW1fYXVUVjdqc3NOQ3FyTHpMWjdtcjFDVjZZaEZCaU9sNEphYlBuRU5zVUpTVmhGbGZxMWhOSUZSWdIBxgFBVV95cUxPX1R4ODN2WWV1MjhuS2otQjg3U1ZQWWRJMjZZS3l5eU93cVI4Z1VHXzE2MnpHbnZ2dzAxRVBwN1pDT0xxOXNFd0ptd3RObldmREpfWC1zZ1NRd1JZVTh6SXlRdmx5WGFyWEJjcVRlYTgxRTJ4QTd6aGJfazh5Q3RpRkZhOW03b0R4QjVOLWdpVmhnM3p4NkFVUjZrUENHX1hCOFpBdnpjYmhDeHpqYmUxYkZ0ckVrMFFTMm1jYUg0WjJXUERLcmc?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -69,8 +91,8 @@
     },
     {
       "date": "2026-09-10",
-      "headline": "Phase 1/2 clinical trial of OPGx-BEST1 shows positive results for inherited retinal diseases - Ophthalmology Times",
-      "source": "Ophthalmology Times",
+      "headline": "Phase 1/2 clinical trial of OPGx-BEST1 shows positive results for inherited retinal diseases - ophthalmologytimes.com",
+      "source": "ophthalmologytimes.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmxUZWNuTVBmMHZkWFlCcm5xRkxkX09PSUJRdm5EYlpEMkljeTRva0VCY1hUQ1R4ZlJldm5RN3NMUkh2R0F2ZUc5UElPS0lOV294cGJDbUFKeE1oQ1JJekZaanNxaURzTTBPdTFRbmtIcWY1RkRzQi1kMWQwYTNMS0VVUjZzZGVvX1Q3NW9xNzJKWllHcG9XMWwtdnh0Y1E3UTN1QURob1E1VGhmSDUzRlQxaW9sQkNFX3ZmT2RyTHRIbkZnaGxBa0FKM0Y?oc=5",
       "outcome": "Success",
       "phase": "Phase 1/2",
@@ -102,8 +124,8 @@
     },
     {
       "date": "2026-09-10",
-      "headline": "New Investigational Oral Therapy, Afimetoran, for Systemic Lupus Erythematosus Meets Phase 2 Trial Endpoint - lupus.org",
-      "source": "lupus.org",
+      "headline": "New Investigational Oral Therapy, Afimetoran, for Systemic Lupus Erythematosus Meets Phase 2 Trial Endpoint - Lupus Foundation of America",
+      "source": "Lupus Foundation of America",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDV1UHo4UEZsLXF6VGZQbjZaNDJ3c2t0SE4ydWowTHlGYldFMUVqZmEtRmQtOUE2RmRyN1VHVTgxOHNfNzIycnFHb1k1Ykx3Nll6alpaOGE4aUVDcFVFQ25SSEJPZjhmS0FrYjhWUHFYcHNJbUlEQkhMaGdJX2psc3k4RW9oZ05XaXhEVWZhd1p3eWhzSjVQYWZSeU51MVNlM01id0Z6UldjbENYY1k5SjY5M3lvalJE?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
@@ -222,6 +244,17 @@
       "moa": ""
     },
     {
+      "date": "2026-09-10",
+      "headline": "Beeline Medicines’ Phase II SLE trial of afimetoran meets primary endpoint - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdjB2WUxfQ29fbVZUWkUxRFNpblY0b2F1SzJfZWVIZ040VmpPdVpvYlY0SG5xNU93VmhVMTlIMEw5MzRiTUJwZDc4R3JwdzRhWXBlTlJpWFBRUzJSeDBuX3p2WTJMSWR5Yy1Fb05DZHNFMTFFTWtQZVdBZll5Njg4cENybE95WHgzN1E?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 2",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-09-09",
       "headline": "PureTech Founded Entity Seaport Therapeutics Reports Positive Topline Results from Phase 1 Driving Simulation Trial of GlyphAllo™ in Healthy Volunteers - Business Wire",
       "source": "Business Wire",
@@ -289,8 +322,8 @@
     },
     {
       "date": "2026-09-09",
-      "headline": "Disc Medicine Presents Initial Results from RESTORE-PV Phase 2 Trial in Patients with Polycythemia Vera (PV) at the 14th Society of Hematologic Oncology (SOHO) Annual Meeting - The Manila Times",
-      "source": "The Manila Times",
+      "headline": "Disc Medicine Presents Initial Results from RESTORE-PV Phase 2 Trial in Patients with Polycythemia Vera (PV) at the 14th Society of Hematologic Oncology (SOHO) Annual Meeting - manilatimes.net",
+      "source": "manilatimes.net",
       "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxONTdPcWllSEVNLWVDSW1Hd08zbi1MZWFKWkdjREJwb3diQkYzcWJFX0J5X2ZuWXVKdDFkTFNuSEk2MmlJRk9vV1hjRTlpbHctWjNoZU9vS3F2ZjBQSnpWVlRXdFp2dHJ4T3p0aHZnMkhEbzdiTk43OVhpUkFfZ21GUGNUTUNuamk5cmxRdExyemg1VE5YS29SbW83eFNESmFhazBlNF9GQlNfLVgyZXhGRmw4NXJraUR5MGJoam5iRUpja1dYQXB4ckVGZ1UyS3Jjb0o0WERJd0VCSV9lSXRBNXZWRDNkeUlveF84ajIxUFByaEJfRUxjY3hyUmRXZkVkczNWN0Q0eXpmamlYMXdueGNvcXRjbFZfOUhWbFRKcEpuX2U5dzVjVnJNUlRwMWt3blczRVVTdTNWSkFLdFpMd1U4X0d3WnZIMWkzcldXZEJyUG1jUmRDQXZZYjRrRWdJM0HSAecCQVVfeXFMT2xXUGRjQmtpZ1hELUlva0RlQlV0aGdWUkRaVW42Q0RFYlBzMHpsdDl3bFh6c1JHOXo4MUIyUW5LZTkzQTJ0bUlRQW9pNnRTblhMRkFuZ05oM0lmVmY0SXktelZwMV9fSE9YeTNKUUJkM0M0N2U5cHFqR2paekpnU21VWWtQc3lRNFRWV1hwZzhieVVuUlJrQlltMnBIcHJqOURHMWhWOW1URlFuLXM2UEVORkNzM2dyVVM1c2N5U00xSENJUWc4MGFkZDlERkZmYkRaYmc4QVBHbWJPSHk4dTJZOEdDZExFYmlQbUgtVEVHakRzVnNudWtUWGxuMXFXZlJFTm9PdjRGSmkyT2o1ckQyNE5TMl9fNEk4RE1nOFRVMjd1Ui1rUkp5VW01Wks1amg2U0t3V19BTVVhRWNEenVRbTdnc1lZUEJTRHRVb1c1eHBONjR0cnA1NE9tQlozZTlGMzZKSkU?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
@@ -366,8 +399,8 @@
     },
     {
       "date": "2026-09-09",
-      "headline": "Brainomix, Endeavor BioMedicines Present Positive AI Imaging Results in IPF Clinical Trial - Imaging Technology News",
-      "source": "Imaging Technology News",
+      "headline": "Brainomix, Endeavor BioMedicines Present Positive AI Imaging Results in IPF Clinical Trial - itnonline.com",
+      "source": "itnonline.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUEzM0VHN05UaUQyYXAxTXVBYVJ1VGthMFhwbjk4WWtHOEdjbDd3QzBUSVRwT2FhOWZTajVhb1lmODFnS3NyaFdLeFI0clFEUnpONWIzVE9oNlUwR19xNWRvS3Ftd1dvdWZXZVU2SXN4QXMtNjVVRjJNWW9EQXJOWGk5YTJGOERGa2xBWHZKMXM4cTEwTDR6S2h4VlQ0VVpraGpDQVd5SGRZTFJ3NmxCZWhOUWphaXN1MmJaQw?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -426,6 +459,17 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUVqVTFzTExvdmdxSWZrUFBVaG5aOU5CYmRuNkk1T2lTZDZybWxaUjBzYy1UUXI1OXVxamdfd2RhUXZMMXVTQ1BxclhlUGNudE5xMGM1dmU3YlUtYTRaSUIzelREazhUS0FKRGVHZjFZdWZiYmt1bHduWVJrc2RHNkM1aEZWN2o1ZGIyVjNFaTYxVjJkelZaUktDbzI1NFV6SGZoUGRIaVZkQ2w0Y0cxUWF3NA?oc=5",
       "outcome": "Failed",
       "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "Rezolute FDA Review Continues After Phase 3 sunRIZE Study Missed Primary Endpoint - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVF4dnVpZ1RfRVJ5d243TkpBbnJjaWNuR0QzZVJZVWlwZ2pyOHUzOEZydkFIZ2IydU50Zm1Od2ZneThGSmZKWFpmVVl6SlNFbzU2LUpSLXloR2JFUWR0NHZ0eGdPVzlCWDN1LVlpLV90LWNWMzBXR001VE9tYndEd3k3NXV0SFJ1TWhVYkJuWkloY2ZRTWozYWR5M0k?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
       "significance": "Missed primary",
       "target": "",
       "moa": ""
@@ -531,8 +575,8 @@
     },
     {
       "date": "2026-09-08",
-      "headline": "Novartis Tumbles 13% Pre-Market as Phase III Trial of DM1 Drug Misses Primary Endpoint - tradingkey.com",
-      "source": "tradingkey.com",
+      "headline": "Novartis Tumbles 13% Pre-Market as Phase III Trial of DM1 Drug Misses Primary Endpoint - TradingKey",
+      "source": "TradingKey",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUd2V1l0ZndaZ2VpMF9XZ3JkaTZBMWRoTHJieldCX3YxWkN4aTBBT2kzREhSSVlfYUhldVN4OUthZEQwOElodGZkZEJwNnBxcVlfNHBOVkxTRVBJSGw5allHZFVZbmdJRDNMRm15RXdESUN5MHM1RUdzYWg5OGxNa1lFcWN5N1BWcmExWUJPU0dyTkF2M1NUVFdlZjMzSk5RTmlEMUZZeVpHRm5fTVdEZmZ4UmwtRE82LWktNElFRzhLZ2VqdHJONnV2d3BWbkdxQ3dFbko1bEtfekxsT21R?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -849,6 +893,17 @@
       "moa": ""
     },
     {
+      "date": "2026-09-08",
+      "headline": "Genflow Biosciences PLC Announces Primary Endpoint in SLAB Clinical Trial Met - ACCESS Newswire",
+      "source": "ACCESS Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeWRpVF9hYll6czFPY0FYb3h1d3lkVFJ6MzFIcDdEaFZTV1BUUDhLVTNXWVJDTkpfMDQ0VWRYcVVHS1FxSHJhaDZ1bUs4MVAxTUFjTzdUYjFWWV83cGxrWm1OWWxGRklPc1dGa2hZd200TVRzSERkNS1XV1pPaW5OQldSZC0yODlXN0tlamxXMF9mTUVYT1RiWG1rYkJWa1JXLUdKSXRIRk8zMlRpOGcyUDk2S0Z4cHNJT2VrdmNYQkNLSWNERFpUVXV3TVNBS0hOWmRjSXNBVkhKaEFubmJFMGJGRUc?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-09-07",
       "headline": "Novartis’ pelacarsen fails to meet primary endpoint in Lp(a)HORIZON trial - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
@@ -883,8 +938,8 @@
     },
     {
       "date": "2026-09-07",
-      "headline": "Integration of proteomic aging clocks in a phase 2a clinical trial supports simultaneous geroprotective assessment - Nature",
-      "source": "Nature",
+      "headline": "Integration of proteomic aging clocks in a phase 2a clinical trial supports simultaneous geroprotective assessment - nature.com",
+      "source": "nature.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9laXQ2R0NJbmhBQXFzbktUQUowWWhoQmZfR20wLTFDZExsTmpsNUJOWnpabjhzNlF4a3JqdXlSLWQtcG5oTU9rNFU0Nmk3V19fWkVtd0dLbUk1VWtEQ29V?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
@@ -960,17 +1015,6 @@
     },
     {
       "date": "2026-09-04",
-      "headline": "Novartis Says Pelacarsen Heart Disease Drug Missed Primary Endpoint - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWxqSWplY21mUVFmelpyUm82aEdFOVNETndUR3o2OHRKZzhmbkRILWRia2VTZkg5OWJoc3M5ZjkzcVl5NzV5cEIwUVNwXzkwRGZYcjlRNERMdElDNFZCT3ppdzdVd0NpS3U3TlR3LVRGWVB0Y3FVVm5CYkN2eEhNMG9rU1AzNHAzYkZIVklhclJLcDFXRUJEaThwU0ttaWJWNEo0VDVPSzQxWlpOeHBJ?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-04",
       "headline": "Ultragenyx' Apazunersen Fails Primary End Point in Phase 3 Angelman Trial - neurologylive.com",
       "source": "neurologylive.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0pTaDZzSkZpNFpYcUlWbkhxcmdSVnZybS11cVpuUXRnWE5XaVZSVU5qWHlpMkdobXl5T3pyOHVLUHZjWFN4aWJOVjJINEg2ekhtS3pQUzUwMGtDRXA5ZzJlTmFJbmFoNmIwNGVOV29iY0k4NktpLVZDb0RPeGszX051RllabkM0Rmtlb2R4N0JMSVR0ZHN4b3g1bVZDQ0kzTThoSWhfUQ?oc=5",
@@ -1037,8 +1081,8 @@
     },
     {
       "date": "2026-09-04",
-      "headline": "Ionis Pharmaceuticals Reports Pelacarsen Phase 3 Lp(a)HORIZON Trial Fails Primary Cardiovascular Endpoint - kalkinemedia.com",
-      "source": "kalkinemedia.com",
+      "headline": "Ionis Pharmaceuticals Reports Pelacarsen Phase 3 Lp(a)HORIZON Trial Fails Primary Cardiovascular Endpoint - Kalkine Media",
+      "source": "Kalkine Media",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMExrYUJmQWM3dWEwNTZ4djBYam1QYmZSd0M1WGhTd0NWbXlRcmIwN2RWQXFWOW5Sa1ZmMWx0dkwxYlpOM09jeWNkT0pReWc5YUpHMVZvS01NMDlwZllqMjJQdWtBbHlDZ052Y2VQUzVseF9OOExDR1NFdkQ2Tlk4Z2E0QTlaRWd5ekpyVDF4MWt0NFhEY2d4ZXdBeWVqNU9QdWxSUG04Y1JYYnNRUUMxNWxZemtjenBSOUtDZHlkWTZOekhQSDZWbWFscW1FUUctblZCTmVVVFJJaFEwZkNMc3R3WXY?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
@@ -1103,8 +1147,8 @@
     },
     {
       "date": "2026-09-03",
-      "headline": "Inventiva completes final patient visit in Phase 3 MASH trial, topline results due Q4 2026 - app.dealroom.co",
-      "source": "app.dealroom.co",
+      "headline": "Inventiva completes final patient visit in Phase 3 MASH trial, topline results due Q4 2026 - Dealroom",
+      "source": "Dealroom",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1ZXUURuZTZ2NTk1Vy1MR04yVFpuQmNTSF9VNFR2ODd2Q3pFbm9RMHNKMkFLNzczOFJheVVvVU5iN3Q3YkpRa0UzaTVRV3VMaXF6T0U3OTQ0VXVpT2pwVG5OWnl1Qnk4YWZVd3ZvMUU0cWhKQzFNdEt6X2QzNjVaZGd4TFM3ckRLek1Ta0N6MElOSDJfdy1VWkhzY2FDTVRvalUzWEUyZWRQc2xWeXY0MlJuSEwtWjlPaEdxN1FUb0Q?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -1774,8 +1818,8 @@
     },
     {
       "date": "2026-08-26",
-      "headline": "Why Healthcare Stocks Can Rally on Positive Clinical Trial Results - Analytics Insight",
-      "source": "Analytics Insight",
+      "headline": "Why Healthcare Stocks Can Rally on Positive Clinical Trial Results - analyticsinsight.net",
+      "source": "analyticsinsight.net",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGhZV2VkMFNIZ0lPVHdRTTdzMU8wMHNpQ0c4UXgyUTE2QlpGMTV4WUpwUzlvcVZ4RlpoaDBnaUQ3RVd2bEVaaHU0ZzNodTRSV3o4dzAzcmhDcXZmcHpGVE1CQzV5eWRmVXNlVlhMbVRKZW0tcHJxRXhzVlQxVm11V2JaZktDNWF5X1BGWXdkTnpPQlZmM2l4VnlYeGg1Y3d2Mk1Ma1otaUNaUdIBtwFBVV95cUxOZ2dzeWNrdEN0TllVZGF4UVZXNmZvQWJJYm5LSDJLNjVLbV9OUm83Q3B3VXBwUFFLdFVnWEN6Q0RubkQ1d0lXUkxOTTQtNTdTVWR1Rk15N3E4RTVwSEJlblQ3QmU4bkVkMHI0ZkZpVEFsOTIzTVFHSDlZclpmT0E5WTJHYV9sSzQzSTdYRFBINjBPSXdxZUNOYldTMzJlRnpMa0w1ZzNtWHppV2xPQ1M5MVpKWHNGXzA?oc=5",
       "outcome": "Readout",
       "phase": "",
@@ -2346,8 +2390,8 @@
     },
     {
       "date": "2026-08-18",
-      "headline": "DURAVYU misses primary endpoint in first pivotal wet AMD trial; secondary durability signals hold - Ophthalmology Times",
-      "source": "Ophthalmology Times",
+      "headline": "DURAVYU misses primary endpoint in first pivotal wet AMD trial; secondary durability signals hold - ophthalmologytimes.com",
+      "source": "ophthalmologytimes.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkF1dEpEX3htOEJRaTFQNFNWeGdwTld5akU2b09xUmV6SFoteU1yLThfQkczQ0ZCeE9yLW95Q1V0Q1hKN2M3bi0tZG1oTWVoOWpLM0hCQmFXSTNJSlhmOGJkOHA3ZGlfVGZRbW5YaS1rTEY5Rlg2LVJjR2E5QVQtTmN5NEN0bF9rdWdBSnZRXzB5S1hkQ3l6UzEzdXU0UQ?oc=5",
       "outcome": "Failed",
       "phase": "",
@@ -2704,50 +2748,6 @@
       "outcome": "Failed",
       "phase": "Phase 3",
       "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-08-17",
-      "headline": "EyePoint shares plunge as DURAVYU misses primary endpoint - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDV0eEdvcW1aNlpvdE1ld09IQ0dXQ250c3lDZUlEelVJWF9hZU9ERGNaOGlKTkNWMWhCYU1pWWQwRllDa2Z0Zi0xNGN6LVc4Y1RQaExwNWdDM3Z2NW0tX2JWQVVrZHZhdldOMEhsaEVoT1k1bUw0b25CalZpbnpJRVo4SFhmckFiLWRfV0RXdFlXX0UzUnFISS11SS11M2ladjNVR21OTlJSTVlZdlpxOHNaYUVVQVE4VzRTTFIwZXhuS2NHYkE?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-08-17",
-      "headline": "mAb combo therapy misses the mark in Phase III clinical trial for advanced colorectal cancer - BioXconomy",
-      "source": "BioXconomy",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWZyblFFLVJmaGtRclpjbGowU016NEpEVGN4ODNPVkRoOXN6bk5va1pYcUR5WFZ1Q1BiNXdjazFrc1dHMXVQdVdhUW91a3Y0WFlxeDBaa2o4ME5oa0lEMExWYzE5X3NTeU8xMVFMa0owbHB0R3QyNVd5NVBaNjhQdkdvSVFwNzJ6ZHVaZC16OFVSbndLSWZJdnhCZGY0TmF6VWRUZ0JoNGhNbjFuSjNMb0dyTHRFSjZBUExGX3hUTDFpY2tobXZoSHh3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": "Monoclonal antibody"
-    },
-    {
-      "date": "2026-08-17",
-      "headline": "EyePoint Shares Tumble After DURAVYU Fails Primary Goal in Pivotal Wet AMD Trial - finance.biggo.com",
-      "source": "finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBET3o3eU1sMkl4cGs1UzE2S0tqNlh0b0tzUXplUXdwOW5oRXBjLXBIN2RKc0FWTEVyTXVVR0JKR2JSc0l6TXZxVHBRMEdDNHBEUnplU3NDYllCX2t2VnNsT3J6blZWdU5uQVJWYTUxa3pLTXE2b3c?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-08-17",
-      "headline": "Annexon (ANNX) Adds Dual Primary Endpoint in Phase 3 Trial, Refl - GuruFocus",
-      "source": "GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlBmd2Q0dXd5OU56N2s1NFgtNDlBZm5oSU5vXzRyRFF0eEVVVHFJU3RRWEZSd2dRSjVXN05kaXd5b0RWaGNHSUpicktaOFF2bjFsTlVJZVMxRHVVOExIOFlCZGdCclF0MFpTRkhGeU94MnRnaUthWjZ3RDBMOFVlM3NpUk5fbWJ5bk1nNkJzajZRU3dvV2dna1oxUkJvWEZ1VkZEUFVfN2tndzMyX3JmZkNuNEpWUFdpNVpZdXJPbWswMWJ6NF9QOVl6X05FZTg?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
       "target": "",
       "moa": ""
     }
