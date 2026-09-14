@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-13T12:51:29+00:00",
+  "generated": "2026-09-14T14:25:38+00:00",
   "items": [
+    {
+      "date": "2026-09-14",
+      "headline": "Australia's first human milk biobank to make every drop count - UWA",
+      "source": "UWA",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTldYbGl4Wk9mQm1BanQxUGhScEVjQnhRZFhUMkdZb3dUZWNoODlfNWRrRm1jRklheG52ZEJvV0hZZTBvaTVQVzVxWGl3U1ViUVVZaGFYQWFxckJ2Z3Nac2VuNUJNSlpyOENxOUpkQTVIZ2pZUHA4NFlGaXpDcW4tbmhieDFqVWVMdDNBSWhMcHlGampfMkdORlZEVjB1UENqQVEtMGk0UHoydzd0bEZmMQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-14",
+      "headline": "Camilla Lagerberg new head of the biobank at KI - Karolinska Institutet",
+      "source": "Karolinska Institutet",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QdktXZnBLZGJLczZmdHpWcVo2ZnpKcHAxNUg5WHBSNzgySWstYUNZVGw5TG51VDhTZ25ZM1FsUjJwWVpnTFlnRzYtaWh5QjE1OXBaWkNRYkFnWWJybnhCVXJmdGxoRGhhOTZGUWU0bXY3TTkw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-14",
+      "headline": "South Korea, Uzbekistan sign 13 agreements covering high-speed rail, biobank and more - 헤럴드경제",
+      "source": "헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vQTF0Y1dpWDhlYmxOa1kyd1o1QTNTRm1udTRuX3dHR3ZQbGRVY2dySHRWTVcyU1NQMTZFUUE4TEdJZFdLTVVkdTRldTg1bjBfcDgzd09mQQ?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-09-10",
       "headline": "Integrating Biobank Data into the European Health Data Space Faces Technical and Regulatory Hurdles - geneonline.com",
@@ -66,8 +87,8 @@
     },
     {
       "date": "2026-08-26",
-      "headline": "World’s largest menstrual fluid biobank will transform understanding of menstrual health - University of Exeter News",
-      "source": "University of Exeter News",
+      "headline": "World’s largest menstrual fluid biobank will transform understanding of menstrual health - news.exeter.ac.uk",
+      "source": "news.exeter.ac.uk",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYURqZU13ajRxWlhScTVmcHVvbFNsWWJkSk91bWJwMzZ1cGdvRVhSQldHZEk1VE9nSmUxR0NTbHpkOHZRNGRTSFh5UUl1cVlfaEhLN3Z4VTN0ZmFxTFBqWlg4QXJyalZPWDZUODhBZmJyUUUwTVJHamVaR2sxMjhEUVd6Y2g5ZFNiSWtOdFlBbnVWOE9PNEdIMUFlTXgya1dvQXdIWkIwUFZtZ21RczE3MGppaUtEbmhIQ18zbm05VFBBOUg3S2lFVHlKaC1kQ3NIaWZJZ00ydUtPbVJRV1FUdURESkQ?oc=5",
       "category": "News"
     },
@@ -262,8 +283,8 @@
     },
     {
       "date": "2026-08-03",
-      "headline": "Even with New EMR Release from 'All of US,' the United States Still Hasn't Solved its Genetic Data Diversity Problem - Bioethics Today",
-      "source": "Bioethics Today",
+      "headline": "Even with New EMR Release from 'All of US,' the United States Still Hasn't Solved its Genetic Data Diversity Problem - bioethicstoday.org",
+      "source": "bioethicstoday.org",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU1pCb1BUU3UwR2RtbzFlOG52ZTNrTHJJQ1dTazZQa3ktanlqQlJseUdXaVFDSzJUZlYxMGhlOXdteXVjZU0za2ptS3FHLUllc0I2SmY0ckpzY3BHVEVpeURYT1NQVUljVGliT2lYcUJQNzBQV1lycndaeFlhU1FTNUJsaENlblNlVmZQWEkxNnR4VjlITXdsbVVCZHJIMmVaU1UyakpJQlQ0QnZzUV81Zng0dDgzRWItT0RWZUs5aXp2UXJONkc0MEhnNlBESDM4TV93TzVQZmRjMG51Rmc?oc=5",
       "category": "Data/Cohort"
     },
@@ -514,8 +535,8 @@
     },
     {
       "date": "2026-07-06",
-      "headline": "Leveraging the Expanded All of Us Health Dataset for Precision Medicine Research - labmanager.com",
-      "source": "labmanager.com",
+      "headline": "Leveraging the Expanded All of Us Health Dataset for Precision Medicine Research - Lab Manager",
+      "source": "Lab Manager",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLW1TXzNvVEtNOVV1MFh6T3hEVWN1VFBIejBIYXdhMmo5emdMUTl1ZkRQSDZDMXZwV1AyREVpRGkwd0hTTHV6YUxNUUhMX1dOU3RaLW9peVphTWFSU3hsYTYzczFxWWZsMTNxM1hFbGU3RjB5MlhaajIyZDJIZmlROGptRUtiWFdEaUxaRVdjMm52S2Fwb291Mk5zNl80b1VpekY4VTZHaw?oc=5",
       "category": "News"
     },
@@ -598,8 +619,8 @@
     },
     {
       "date": "2026-07-02",
-      "headline": "All of Us of Research Program hits major milestone for precision medicine - healthcareitnews.com",
-      "source": "healthcareitnews.com",
+      "headline": "All of Us of Research Program hits major milestone for precision medicine - Healthcare IT News",
+      "source": "Healthcare IT News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUVTdDYxeHZCSzVuUXpRTmMtbHR0WU5hclN4bldXdmpkUmdzQTkwT0I1QTVSZW1oeFpyUGV1VGFBMi16VG45bjFHZ3RDWS1rSFBzekg3WlFmSENjaUxzdHZoU1JXYmVPOXlzWWZMR0JCMHc4VTJWQVRrTEJqZDRQSDQwaEd1QTRoVUcxSUo3emJVOFktMjBDZjY5ZWJXd05pY2d3?oc=5",
       "category": "News"
     },
@@ -836,8 +857,8 @@
     },
     {
       "date": "2026-06-12",
-      "headline": "Landmark UK Biobank epigenetics study will reveal impact of genes and environment on health - University of Exeter News",
-      "source": "University of Exeter News",
+      "headline": "Landmark UK Biobank epigenetics study will reveal impact of genes and environment on health - news.exeter.ac.uk",
+      "source": "news.exeter.ac.uk",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNam5rWFFCZHlWNFpBT3E4T2FfWm0zSEw0VmFRTjRJQkkwOVEzbEp5RFhJcXVaZDVCLWhtcldGakJwVU5KS3JGVzZLdWNTWlFobGhCdHFMTzNWZnNzeFJGQ1piNXF3eExOQ2twZ2cwSUlEc19kampSLUZoOXhrNFk0UXhNYnBPTTYtUlktX2laUy1hZ3dhZ1BDZHBMbEhRQk8tOU02XzZnZW5fSkhrZ0VnbUQ1RkNFd3JUS0RrQ0FGTDRfM2tsdW15STRqYjVwN3NscmNOcWVVRTF3bEd2bnh5eDhRTGNJaWlpOVE?oc=5",
       "category": "Research"
     },
@@ -948,8 +969,8 @@
     },
     {
       "date": "2026-05-27",
-      "headline": "Vanderbilt Health-led team wins NIH Replication Prize for biobank data quality tool - news.vumc.org",
-      "source": "news.vumc.org",
+      "headline": "Vanderbilt Health-led team wins NIH Replication Prize for biobank data quality tool - Vanderbilt Health News",
+      "source": "Vanderbilt Health News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPajFKMTVtS2drLVNhZ1QyV0lVZzZUQUp4VUhDY0hyVzE1a0h0NzdvQmVlNnlGTE5mWGozWlZZRWkwb3RSVGpWWm00OEN3X3hSa2ZVVEdwajBfWkl5aGdFcmVnOGtIWngwSmZQUTlXNzNqdVpEU2k1MV9pejlSeFJ5U3VyUlhrOFJUUVhUclZqLXJNbjhqQ2hwcVpUNnMtT3lsTkVwRnpUR2Q5V0gtSXRaeGpQQ1F0dUVZ?oc=5",
       "category": "News"
     },
@@ -976,8 +997,8 @@
     },
     {
       "date": "2026-05-27",
-      "headline": "Adherence to the 2018 World Cancer Research Fund/American Institute for Cancer Research Cancer Prevention Recommendations and survival in people with incident cancer in UK Biobank - Wiley & Sons",
-      "source": "Wiley & Sons",
+      "headline": "Adherence to the 2018 World Cancer Research Fund/American Institute for Cancer Research Cancer Prevention Recommendations and survival in people with incident cancer in UK Biobank - acsjournals.onlinelibrary.wiley.com",
+      "source": "acsjournals.onlinelibrary.wiley.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIODV6UGhXSWlteVA1TXUyRkdkNV9vYUxWSkxWZGM1Q1FHNXJuQk9DMTZCZGgxRng4WXlmZHd5OV96Rm5jVTNvREY5VExsc3Fzc1FaLVdHMmhZOFhLY3JEQ3JvRUUyREFkSlhDNUN2QVBPOGZr?oc=5",
       "category": "Funding/Deal"
     },
@@ -1018,8 +1039,8 @@
     },
     {
       "date": "2026-05-20",
-      "headline": "K-Biobank to Release Genetic Data From 170,000 Koreans in H2 2024 - DongA Science",
-      "source": "DongA Science",
+      "headline": "K-Biobank to Release Genetic Data From 170,000 Koreans in H2 2024 - dongascience.com",
+      "source": "dongascience.com",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FaXBSY1RFNG1xRkFac1p5TUdhaGEwNl83aGtmTklQcmlSM1JTcVdieUlUWTFTWFpsWmU1c2xKalA1NTlBT085eTl3ZFNsSXZzTVM1aQ?oc=5",
       "category": "Data/Cohort"
     },
@@ -1557,8 +1578,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "National Data Guardian statement on UK Biobank data advertised for sale in China - gov.uk",
-      "source": "gov.uk",
+      "headline": "National Data Guardian statement on UK Biobank data advertised for sale in China - GOV.UK",
+      "source": "GOV.UK",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOU9BLXNxQjdWb2Z3cmtZTTNReW85dlZDY3NYVVVWZGkzNUEzc3M2MmFHbUk3M3RTSndISVVXTE5FUWpQWTVYWjFFQTRYUjJvUmtOTUc5Wk9hUy1XejJYQ2J5bkJwakp4V1NxdTRoSXlLUkpJcWJiaHVISnNyaExYUXlpck1KTXBOczNxU2txZTZpUjktYlAzWHZlYjV1ZlhMcEptTDcwVkZyN1pOemNpZ1NLd0RqUQ?oc=5",
       "category": "News"
     },
@@ -1585,8 +1606,8 @@
     },
     {
       "date": "2026-04-23",
-      "headline": "UK Biobank patient data placed on sale in China - pharmaphorum.com",
-      "source": "pharmaphorum.com",
+      "headline": "UK Biobank patient data placed on sale in China - pharmaphorum",
+      "source": "pharmaphorum",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xZUY1Q3FnN2tlVXhjVkx3cU5UdGxYZExCXzl6M3kzdXQyT1pHVlE1amVrbzdpZ3hfZFYtVUwwbmNiMTRsYUs0eHowQUwyTlUyeVB1MmNpUGF4VDV3bUdOOENaOEdvTGNUMU5XV25wSnhUMnBWMHAxMjFtYw?oc=5",
       "category": "News"
     },
@@ -1886,8 +1907,8 @@
     },
     {
       "date": "2026-04-09",
-      "headline": "Thermo Fisher, Singapore’s PRECISE Partner on Population-Scale Proteomics Biobank - Contract Pharma",
-      "source": "Contract Pharma",
+      "headline": "Thermo Fisher, Singapore’s PRECISE Partner on Population-Scale Proteomics Biobank - contractpharma.com",
+      "source": "contractpharma.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWFNvaGNaLTd5V2VDV0xxcVpPNEJDY2FjeHJvSlhVbDBlZ2pmT1FTcWd1Mk1rd2hET3E5UlpIVG9jaUJxbFRzUnMzSmxpbDJ2SHdOVk05aUp2eU02MVFVQUlMNGhWZHhZZlhqLWFjS1Q0R21EZVk4dDRYLWZSQTFEbVEzMmhhNWo3R01jTnQ3NFgtWkxTaVp2amRWc3hCNE1sRFBuNEZhMk9wYVZjdkduM2lOcEREZzZWQ0xfbGlkaDNyTnc?oc=5",
       "category": "Partnership"
     },
@@ -1970,8 +1991,8 @@
     },
     {
       "date": "2026-04-01",
-      "headline": "Unique FinnGen data resource makes Finland an attractive partner for international pharmaceutical companies - University of Helsinki",
-      "source": "University of Helsinki",
+      "headline": "Unique FinnGen data resource makes Finland an attractive partner for international pharmaceutical companies - helsinki.fi",
+      "source": "helsinki.fi",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOc2NKdml5aDlrRlRYZEFiS2FfWDdwMXI4ekxaYXVNSGwxV2ZXUTBMUE5rdDYtS1poNFpKcFNpQm5lSEdvR3VHblBlR09ZUkhMU2RXalRLSkpaSVI5RVFvSUNzOWlKWmg5eXFDS3gxMWtNN2VwUUxWTEhlWWVyc2dOMkF3REVOQ2ZodEk4c3JBNnFZMXItMlBZSldqaFJoaTVERmV1eEtEQ1Ztb2gwVE14WVppcDVCTHQ3a0VXOXBZUVJjbGJ3NDllTlpDZS1vQ1BqVzRQUXd2ZGpuZmFxTHd2RGpCRWMtT3R6UEZVc0psTExCMnhBT2dfdmFlcGIzNHlyZHBYWTVOalk1ZjByc2NTMldVTQ?oc=5",
       "category": "Partnership"
     },
@@ -2079,27 +2100,6 @@
       "source": "distilledpost.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREIxTDNaQVQwM2prV3pXeTZRUV8tNVRfR0ZScXpnQlkxLTJWOVZudmlFRUdxTG04U1d0YU9FVmZMTXgwTFZiS09rT0ZHOE1vaUFvbE9UUW5XeFRXMGhyY250M3pxNXREWHJhY2JqcVpERkZrR3hNR29hTjNWS19qLW91Yy1LUFJfa3BXWlI2R205ZkF4UUhrNjV0bkVCRlZjMzctS2RyU0VwVUQ1V2RnTnhiRVRCUnZzeVE?oc=5",
       "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-03-17",
-      "headline": "De-identified UK Biobank health data accidentally published online - Home | Digital Health",
-      "source": "Home | Digital Health",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTm5CNWlDR0FyM0lzM0h5SGgxbFFEY2NBd3ptN0ZaYUFIb3c2OTVIVFRDNm5IYXRSVWdTU2gwLWRkbUtRdTJPdDgxVWZxRXBhM2V5VlUtUHc0LVZST2RXbG9zMXVneXg1dXBXeHhla3N6OUJ4ZkFBU0wzOTdTOGRuRVpDbDBQSnpvRko3UHpnSmlNc1Z5a3RNNl80eDhNSVVwWUV6dG82TlphUQ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-03-17",
-      "headline": "Multi-ancestry genome-wide association study in all of Us for primary open-angle glaucoma - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrVGlEOFIzbGNGajhmZFNrSDlWamJIZkVoeXJPSWxEb1BLWkVLNmZGNkNkNFY5aUtDYzFQWElZUTFhYjk4UHBhMEhObDgyejdOZldZNkZ1NXhSVXlDa29J?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-03-17",
-      "headline": "Association between obstructive sleep apnea and male sexual dysfunction: a prospective cohort study based on 155,688 participants from the UK Biobank - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qNGhpMkxtbnhUY21iREttN3NhenJUQ1pIZHh2Q0FrSTJNMC1MeHhuTU11V3ZiNjhBOGRWTmNtMGlzSG1BNGduLUdvLWVMU2s4ajRvLVpvZDVpUXdHd184?oc=5",
-      "category": "Research"
     }
   ]
 }
