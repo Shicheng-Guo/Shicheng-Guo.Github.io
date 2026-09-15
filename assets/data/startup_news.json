@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T14:58:13+00:00",
+  "generated": "2026-09-15T13:26:14+00:00",
   "items": [
     {
       "date": "2026-09-11",
@@ -59,8 +59,8 @@
     },
     {
       "date": "2026-09-08",
-      "headline": "A Mass. biotech company had 'very encouraging' cancer trial results — then the funding disappeared - masslive.com",
-      "source": "masslive.com",
+      "headline": "A Mass. biotech company had 'very encouraging' cancer trial results — then the funding disappeared - MassLive",
+      "source": "MassLive",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWm5UVHRZaVFfaTcwRVJnRElrQVNRQzFyZjN4TVUwMVNHUzV5SmhBX1pNTm9kd3RKemdTeTdDd04yNlBmZHpJOWVjZVd4NkhGelk2di02MFdUZlp5NmxGOVN3Y21mS3lwWWtTMTA3SHVSX1pkNGlOV2c1MmhHal9GNEVCVHpubVdyWlhxOWhhWVRiZDhXME82UW1yVzlhUFVqSk1aUk5mdHBXRE4tVzhPa0QxVmZaSmRIZnczNkl5alF2VF9BNHNKTTNGR3lKT09Ld182blkwOA?oc=5",
       "category": "Funding"
     },
@@ -135,13 +135,6 @@
       "category": "News"
     },
     {
-      "date": "2026-09-02",
-      "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
-      "category": "News"
-    },
-    {
       "date": "2026-08-31",
       "headline": "Biotech Startup Investment Held Steady Even As AI Funding Surged - Crunchbase News",
       "source": "Crunchbase News",
@@ -150,8 +143,8 @@
     },
     {
       "date": "2026-08-31",
-      "headline": "This startup wants to use AI to reinvent drug discovery from scratch - Yahoo",
-      "source": "Yahoo",
+      "headline": "This startup wants to use AI to reinvent drug discovery from scratch - yahoo.com",
+      "source": "yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT1o3a01XZDJCSmlUenkyamg1TlB1QTJHQ1p2Y3RvSmM1dFdKdy1ZMUJPRWVnTDlLdDRMUnhGN0dtRlUxZGZsRzlBbEIwU01ReGs5alRWLTNPRnZwUU5rbnJBLW9RdGpZN3NvNEVIMktMVXJOR3hqWXY1MUp1d1FROXUyREU0Zw?oc=5",
       "category": "Breakthrough"
     },
@@ -177,6 +170,13 @@
       "category": "News"
     },
     {
+      "date": "2026-08-30",
+      "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-08-29",
       "headline": "AI Is Getting Easier to Build. AI-Biotech Startups Still Have a Data Problem - AsiaTechDaily",
       "source": "AsiaTechDaily",
@@ -185,7 +185,7 @@
     },
     {
       "date": "2026-08-28",
-      "headline": "Lady Gaga’s secret biotech startup just raised $23M: What we know about Outer Bio — TFN - Tech Funding News",
+      "headline": "Lady Gaga’s secret biotech startup just raised $23M: What we know about Outer Bio - Tech Funding News",
       "source": "Tech Funding News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGNtb2FyRWxyNlVCYkhRNV81TWdBd1RfZWdnVTZwekQ5Z2RfUmtMX3BBcTVSTU5aV1M1N3RrX1RkTFBXTUUyWDlfZVlSeHJ3Tm5WOEFVd0hwSlZsMkszbXRLSWprT1A3c3RCV3NFc09WTlo2dU9ma0pQSUJBWUI0Vzljb1YtOERwbnNsNkM5dWhPWHpPREJ1elZZbWtCZC1qUXZxZERrMV9BZlRfR1Mw?oc=5",
       "category": "Funding"
@@ -227,8 +227,8 @@
     },
     {
       "date": "2026-08-27",
-      "headline": "Adaptyv Raises $40 Million To Build the Automated AI Lab for Agentic Biology - ventureburn.com",
-      "source": "ventureburn.com",
+      "headline": "Adaptyv Raises $40 Million To Build the Automated AI Lab for Agentic Biology - Ventureburn",
+      "source": "Ventureburn",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWY0TElRR2Q1SnhUVEVUWFJhb1E0Vl9Vcmc2ZEF5S3N5M1oyOEFCMmEwLVRzOVcxTmFKc2ZXVklOYjVDeWpza2FWSXRKREREQ1hlSG1VTGVoRWxIbUFTdVFJVV9nVFZPd2hVU01neU0zX2RqWU44VE5LbUdxV3lRT2x1aXlkRlnSAYcBQVVfeXFMUDFmNExJUUdkNUp4VFRFVFhSYW9RNFZfVXJnNmRBeUtzeTNaMjhBQjJhMC1UczlXMU5hSnNmV1ZJTmI1Q3lqc2thVkl0SkRERENYZUhtVUxlaEVsSG1BU3VRSVVfZ1RWT3doVVNNZ3lNM19kallOOFROS21HcVd5UU9sdWl5ZEZZ?oc=5",
       "category": "Funding"
     },
@@ -282,6 +282,13 @@
       "category": "News"
     },
     {
+      "date": "2026-08-25",
+      "headline": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding - TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FKNHdfM3BRWkVEUHUzX04tSXdiRzF6N3pyNnJwT2ZFZEJLVkNUcllnYXNXZlBINlZNdDN5bTNsVi16ZGZpMUx5VFRhUlZYSkw1Smstb3VVNGRNSTk1b2VVYXBtMXdfYTI1RE5sby1OZkxfYWM3eS1HWGgzTGd5bWZkdTY1YmRFMWRJRjh3ekZtLTVWWFdIMkFaTDJFbkVmRktXMzhXSGs4b3JHUDdDZ0loa0Z6Nm1FMkluQmdKWGJHdw?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-08-24",
       "headline": "Lady Gaga and her fiancé launch a biotech startup - STAT",
       "source": "STAT",
@@ -290,8 +297,8 @@
     },
     {
       "date": "2026-08-24",
-      "headline": "Lady Gaga and her fiancé launch a biotech startup — STAT News - ua.news",
-      "source": "ua.news",
+      "headline": "Lady Gaga and her fiancé launch a biotech startup — STAT News - UA.NEWS",
+      "source": "UA.NEWS",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWURldVQ3UXNXVENXWnVNR1JFeEVQNVVKZFR0aE8tMlIydWY5VTBtc3JwLWI5eURnWlNaa1JuaE1SNXRmWEJORnV0NzNyeXdwR08xV3llMnJKZTZkbE5PVTM0bllkRVY5d1lDSHpFMWE4ZmN6dTBiTDhSSnNybzYyeFBVLUlUQnluay1aZ2o1b2p6SVFlQmVkYmZYUDg4eG1Kc1ZNelBuWDZwOEM4VlE?oc=5",
       "category": "Launch"
     },
@@ -434,6 +441,13 @@
       "source": "Ohio Tech News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcW9MRU5LSGZOOU9Hb1ZndlVhZ0NGOHdnZzlhTW5WRUZ5RTB6N1dyTDdGM0ZRcGFjdWE2UEVMRzJaWEdjRjVHTDFiM2VPNWN4dkh3bVJ4YmNxcFBmV3EyMzNyYnZvaDQ1U2N5QjlhZU83Y21VOW13QVlYY1RZbEp4NmNvMHBuZw?oc=5",
       "category": "Launch"
+    },
+    {
+      "date": "2026-08-12",
+      "headline": "The secret AI-startup project I’ve been working on the last six months - STAT",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEU3aS1sZnRmbGZtS3R6Ymw0dE43ZXlMQUpPdER5MnQxckpOTi1Gb0NIM01iTGdMd05iYng4ZGE5V0d5a1ZRbUYxYVh1Yk5OdHlSTm5zeWk4czkxbG1WYlE2cy1FUVVtYldwVW1WTm96c21vSTl0M0N0TDNKMnlzM0NSZG9NdEZ5a0RMMFJOdHVNalNxYUY0RlBSQnU?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-08-11",
@@ -752,8 +766,8 @@
     },
     {
       "date": "2026-07-21",
-      "headline": "Shapiro administration launches $125M fund for biotech startups - audacy.com",
-      "source": "audacy.com",
+      "headline": "Shapiro administration launches $125M fund for biotech startups - Audacy",
+      "source": "Audacy",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDFPbHR2Xzl0eDhZS1NUVjhTWHFhUEZUSE1yWVZtZl92eXEzQlpOc2d2MzZZc1dEU1E5bFB6RlJrbnFka0VzQmVqQllsdUpoYmV5VndTVmJJLUFYVldmSnZRMXNfM2NycU5tUzBRUW9BT1lDQWhacUp0dm1IdFJXY1R3SFFaQm45M2JSeQ?oc=5",
       "category": "Launch"
     },
@@ -1099,6 +1113,13 @@
       "source": "PitchBook",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVFmWk5nX1ltYkJpR1ZWZ0FheFFGNDJJcmdnMGVWS3RoUnplb3hST1J6THVtUVlTT25UQ0lEYmNuR2x0UWFoT1pjSnpEbkhEMjRaRDI4VS1FSVV2MDdLU0dqY2lENVFicUJOanNfdUJIOXBtT2xMclF4QW11M1V0S2h2QQ?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-07-14",
+      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczhndXA5ZlA0aGxtYl9UNlhWWFk5SGZWeW04OG5wd2o2eVY5eW5KdlJXeEdqSk4wWGR3VmllWGVONERyUmZQMmtVZlkyQi0zYUxmaERmTHBMS2R1T3ppV3h4RHhfdU1acy1RWkIwYUN0b0h4YktSNWNOVEtlUEkyV1hCeDZNamZFbWFuVU1Qa0hkRnBqcTFIOGRvSQ?oc=5",
+      "category": "Launch"
     },
     {
       "date": "2026-07-13",
@@ -1487,8 +1508,8 @@
     },
     {
       "date": "2026-06-08",
-      "headline": "India: Cancer-focused biotech startup Immuneel Therapeutics raises funding - DealStreetAsia",
-      "source": "DealStreetAsia",
+      "headline": "India: Cancer-focused biotech startup Immuneel Therapeutics raises funding - dealstreetasia.com",
+      "source": "dealstreetasia.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlRQTDZLSVZkT2tmMVBfaTgxVTdTVlY0b0lIOGJiNlY5X0FrVEUwaHZNZjNWTFJhNE9scTR5V1dteHZPbkZyOTVUSDVpVTROMlQ0T0NHSUJDejEyWXBYLUpORmZyRTIxQWdUZVZCRUcySzZsdlgyOFJwWDVUcThaYg?oc=5",
       "category": "Funding"
     },
@@ -1728,27 +1749,6 @@
       "headline": "Waypoint Bio Raises $20M Series A Led by Amplify Partners to Advance AI-Designed Cell Therapies Toward the Clinic - Business Wire",
       "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUHUzRUljQzlrQl9YLXNwNUllZkY3WUlLLVJZNm9CbmN5c3p2Ty1qbzk5UzNXcnpZZC1RZlhPM2JCV2pibGMzNDNwNmFUZGhscGJKUlBEWUJPVDA4blRkSldOZVBJeG5OZEJZSEFwM3RtS1h6Z3FLTjliZ0IzQUo5V19UVDEtdDdMTmN4ZFlNZTlReUJ1akF1SnhiY0ZGejNLQTBETnJuZjZFSFY4YjVXd1hIQ0dDZFZTZ3NBT3BGbjFHNzVLdk9TZTV5a2U3Wlg3VUpYOGlJbGxaeHJjQUpMR19EYWZ2dS1mNG1kakNteGJKa05TVTlpeEM3dVMtNm5rTHc?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-29",
-      "headline": "Some investors are turning to biotech as a hedge against potential AI bubbles - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEVQN0NTbEs2X2NobXZ0WF9UaEd2SHd5eU1DTmdORGc3bzQ2STRBa0RlYVJ6UHVuemxEOVRsdVdVV1FMaW9rbGdtZ0V5VmhfcXB2OWR3M2IyZTcyLWtFaGhYOUdvMk1OS3MtMktzT0lOTWt5X0xBVUdFQnhqU2I0TzNFdjJSeEJtR0NibXdJcWtpODhCZm5YMzJWX21fZ1MzT3NwUVFhMnJGNzJC?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-28",
-      "headline": "AI-native pharma marketing startup Solstice raises $21M to cut drug campaign timelines from 3 months to 10 days - Tech Funding News",
-      "source": "Tech Funding News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjk5eGNOenBOVzB1aHg1azhldlRKV3h5SmsxN2hRY09nUEJIM0VmbG1zYU9sOU42VXJHWnEtWGtIaVFfd2hhS2lBNEVQeU5UYWVLSkV4c2xPdTlKdWxOZEVBb3VRWUhGYVFCVGY2eF9WWG1CSFFvajBISThkZFFYZnhTWlV5X09NbVFSaEhVSE9vNk9oeGE4Sk9MOVAyODBDZEt2YkNsNU1NZzlnbWoxalhDSXFHVUZVbmJiYmtUSjdlc0lHT1FVTTdWdTF3X0J4aHY4Vlh3?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-05-28",
-      "headline": "Exclusive: Orbital Industries, startup using AI to discover exotic new materials, raises $50 million Series B funding round - Fortune",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXU4T1R3dWFtTF9KNUxBUzduWVR1UDR3LTBzdUtBRWlMWE9kTl9MZUgwMl94Skg5Yk52ZXNSUkppSllES0RhUl8zQk1PYkVMbHNHOW5EUFRRbnVMTldiQzdXY3JpYUtpWnFpWk1wUE9VOGJwT0JpclI0YkNTa2oyay1rNTdmLXVBX2xZZ1I1RklPN1o2ckZ3QmUxSGFLR3ctajNiRHBxWEpuZnBDZEhKMmtoODVSbHlMR3kyQjN6WUQxRV9jLXNFcl9BQjNwc2lFWUtv?oc=5",
       "category": "Funding"
     }
   ]
