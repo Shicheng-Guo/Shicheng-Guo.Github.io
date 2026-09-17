@@ -1,6 +1,39 @@
 {
-  "generated": "2026-09-16T11:27:52+00:00",
+  "generated": "2026-09-17T11:37:22+00:00",
   "deals": [
+    {
+      "date": "2026-09-16",
+      "headline": "Jazz Pharmaceuticals Completes $820 Million Acquisition of Actio Biosciences - BioBuzz",
+      "source": "BioBuzz",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnA2aVhqdjdNVWZ0VU5RQVY4Z3RxSHp1czFNOV9yc2Z1YUVmV1BraEQ0MU1uTmYwakhGVWdkS0c3bDVuVFRQRi01b0RfdWJLRmJEeWI4TEdoanNjTWwwQXN0NjQtNjYwcGtUckowV1I1eGJTVTlNaV8xYTVlaktWYTMzLTc2UWQ1UFFYUUFrN2E0dEc0SHBNbC1DZXRjc2FNTVE?oc=5",
+      "type": "M&A",
+      "value": "$820 Million",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-16",
+      "headline": "Abacus aims to double its Polish acquisition: Growth must now be more profitable - medwatch.com",
+      "source": "medwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01N3gtLTQxcUpPYWpidHRrcHpXZkw5OEV2MDZMSUtBRlh4VGhnLUJDNjI0ek96R2ZIOTlVTG5qYUpZZEVJb3ZnTGNiMkltWno5dFJMZWttS2IxcVJUbkhWWUxXa0QycXBBdUFCY1BVaw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-16",
+      "headline": "Novo signs Anthropic deal to test Claude Science in R&D",
+      "source": "",
+      "link": "https://endpoints.news/novo-signs-anthropic-deal-to-test-claude-science-in-rd/",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-09-15",
       "headline": "Gland Pharma to acquire 100% stake in Gland Pharma USA - TradingView",
@@ -53,6 +86,17 @@
       "type": "M&A",
       "value": "",
       "area": "Cardiovascular",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-15",
+      "headline": "Gland Pharma to acquire 100% stake in Gland Pharma USA - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR19ZTVFudy05WGpOdEhkcUNldjBObTcwTFNlLVVQaDVWZnRoM3ZmXzJVMGhNMEFmUy1ab2dhZHBBWkNDbjZzc3YybHJScUZhazJFdjJXVnpmZmhBdjVQNWt6SUlYWG1WeWkxQWlQZ1ZLaUh5bHRhclhEcC1KTG5kT3dZZVpmcGZrdXh5VWduTkd5Z0lHbEN3dkNFRkVrcGNWazhkbklxY2VtVjBjT0Zrb3hLczZ0d3MxcVNZSdIBwwFBVV95cUxOak9QSWUtX0FfaEV5cFdCY1REUEwxUWMtQjVJb2p3c214RGpvZTdwNl8yZUJxaENPdDdnaUdlSHdnSEloYzRTM2h5WUtSQzlTMWNVcGxZZGhBbWRNSnA1VVJNUnJrRXhnTnMtVUR6TkVsNllqSjhoMWkwNkpKTnlWWndlXzNOekhsMy1pVHBYWW5TRGctTmNXdFNMMFFndkl0ZkRfczlOQ3VaVkhZSFpOSThYNzFsLWlSVjNqdXEtN29GUnM?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -322,8 +366,8 @@
     },
     {
       "date": "2026-09-04",
-      "headline": "Medicus Pharma licenses shelved Pfizer melanoma ADC in deal worth up to $1B+ - Dealroom",
-      "source": "Dealroom",
+      "headline": "Medicus Pharma licenses shelved Pfizer melanoma ADC in deal worth up to $1B+ - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbU5ORjNDN1lTTzhNTEdldGpMQjNHVHp6N0FzUWtOa3VUeXNqVkZQVUtRMVItNVdYdzNsZm5pTkRwd252NHVqZlVLaHRUT3dmVDR0Zlo1Sy00U0w5SlRHYVFkaVdXT3dieEV3MTU0SG1ETXVsVEdOU3hqVUs1b2pmZnVhTVZZRUp0TWxtbG5UWTZJbVRxRFFwTDA0bm9HQkpPLTFWQ21zZWpTd211?oc=5",
       "type": "Licensing",
       "value": "$1B",
@@ -432,8 +476,8 @@
     },
     {
       "date": "2026-09-03",
-      "headline": "Medicus Pharma Inks Global Licensing Deal with Pfizer Worth Over $1 Billion - benzinga.com",
-      "source": "benzinga.com",
+      "headline": "Medicus Pharma Inks Global Licensing Deal with Pfizer Worth Over $1 Billion - Benzinga",
+      "source": "Benzinga",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW1ZUGFuejkxQ3BIZ3Y2YnpiRDhGcEhVV3pIQXR2Snl2YTAxMy03ejFMaUNHUFlBRDF4SzJTNzA2cEVXUVVFdThLbE14VVR5OHhhajRsVGNFRUNrbWpWUlR1M2tycVl1bjBmVnVzNUZqaDdmZ0pwOEs5Yk4xWEhXZmFka3ZsRnNfNkZSU0Z4VE1yUlJrMWNWbzRET2FkLS1sWko5OUpRX09hVEZvYXRRY2xpNUllc3RLbV9tWTAxRUxRNmFURFNLOXJn?oc=5",
       "type": "Licensing",
       "value": "$1 Billion",
@@ -531,8 +575,8 @@
     },
     {
       "date": "2026-09-03",
-      "headline": "Alteogen signs Novartis licensing deal worth up to $3.2bn for subcutaneous drug-delivery platform - Dealroom",
-      "source": "Dealroom",
+      "headline": "Alteogen signs Novartis licensing deal worth up to $3.2bn for subcutaneous drug-delivery platform - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUdEbk5tdkJRUXZMVUF3YW5XbThWRXlsTkl6UnVTc0dMOG1OMk1OamNHQ3JkZkJ2NURGazhXT3N5S3FWc0ZTUC1NOWN5MUpGTFQ0RGNUZExqZHFJNXVrbWJJVHItY1ZQQWxjTXBfcnpmaGFXNTBRUVZIZmkwNXJXX2hpb1plNDZwMVYzdU5UM09Gc2JWTUY0VUJENzh4ZlNLRVNFV0FJbEVwb3o0LVlYdmlBWmdZb25RYWNOUGxnaXc5V2V5M2hOTkVR?oc=5",
       "type": "Licensing",
       "value": "$3.2bn",
@@ -553,8 +597,8 @@
     },
     {
       "date": "2026-09-02",
-      "headline": "Simcere inks license agreement with Roche for SIM0660 - The Pharma Letter",
-      "source": "The Pharma Letter",
+      "headline": "Simcere inks license agreement with Roche for SIM0660 - thepharmaletter.com",
+      "source": "thepharmaletter.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXJYV0pQY21KWlo0dS1PRGhIbEFkQ2NGellmVTRfeEg3U1RwRGRsMmdkTkhVT28wcTBrQkxwc1dSMFU4WVgxaVNsV0RZR1RzVjdQUm42NVdkS1dGdUFXejVTa3RNWGRHS2pSY2Q5Q2tfaXZldjNLQ3JIbkdMMG5OV2tKWEFHZ2d5WXlqejEtYjZna1pxWkJQaTVsZ0xxMlk?oc=5",
       "type": "Licensing",
       "value": "",
@@ -724,6 +768,17 @@
       "type": "M&A",
       "value": "",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-01",
+      "headline": "Vertex Completes Acquisition of Crinetics Pharmaceuticals and Announces Expansion of Executive Leadership Team - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT2dBclNEdXZtOEdpQjV4VUJkSTNPXzRZYUdOWjRqU1V0NDVDY19QMXE4c2pkLWlpV3pVdUlyZEtCa2VQdjdOdXdpT29Xb0xJMG1XbV9CcFJFbFFlcjhDeC1mVDVkZFo5dHNZanJ2TjlhZVVFSnhXRW1CNy1wSXFieVpVNmZWb0pLMnFDbjVkMTZtUFRwTDBqb29EUjdyMnpoc3ZfazJrQkhXcGFKR1FNTXAwWGZoeExhZmdCdTc2Q1JrOF9tM1VhZFhrcWV3dUJFMG5aQlFEdjdLZnNSMVF2Yk1TV1I?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -1983,8 +2038,8 @@
     },
     {
       "date": "2026-08-06",
-      "headline": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale - CNBC",
-      "source": "CNBC",
+      "headline": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale - cnbc.com",
+      "source": "cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGpXenFZQ01zQ0puSXJBLS1oaXREQjhZMXh4TzdEaE96b3J3TWtrVzRPQ2kzUnVraHozX0lkLTB0ZElYVDZaenJmdi13TEZzMXU2VU5iTzZfMDdhdVRfU0xwUl9VYnRTVmVUY1pxS1RZQlBFbjNoQzBUYm5PYWk4WNIBhgFBVV95cUxNejctb3IzaWtHOHFQNkhtQVMydXhPT2w1NURhQi1LZ2k5dENqM1JPeTN1UGZIclAxQ051cjBDbWJJSlNWbmJLS2lheVVjenVzNDlDSTFZc1JuVUFUcFNMY0NGNXM4UmxOWEx0d3RmZzAxdjFDLUV4R2h0V0dZb29JTVdOeGxMQQ?oc=5",
       "type": "M&A",
       "value": "",
@@ -2693,61 +2748,6 @@
       "type": "M&A",
       "value": "$2.5 Billion",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-23",
-      "headline": "Polpharma Group completes EUR 257 million acquisition of Biofarm - Business Review",
-      "source": "Business Review",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcUhyR1M1SjNZUUpkX2lGWTRjLVVrLWhkLTFJTlhiUXMwTTQ3WTM2aHBNanQ5a2JkaUtTdThSTEllWUVuTEJjVHU4QmhDNll2c2N0UkRWRVZKcHd2bGRLQ2F4U1dKS1RfQzFrNzMzVVJOVzgwNlhDRklMYUUzN0h2NnUxNm1lVzI1cU1Jc2JDdUYxTXdhbDh3aHJ4T3IzbDBEMnBYTnJ4ZzJ4amJMblBSSldpMkZBMU83dE5IbXpQX28?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-23",
-      "headline": "GSK's $10.6B Nuvalent acquisition delivers first FDA approval ahead of schedule - The Business Journals",
-      "source": "The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWklfUUNzbkZ5VjRvSXl6dC1vNThKNDR2LWg4c1M4TVZNQ0J5Y3YwZTVQMWtBWjJCWXdJeFBYaFZieXh1T1lvNm1tcHVnc3ZMU095M3k2bUFwVFhpR19DMkVPbFNuT29Gd3dtSjRXay1FT2h0NDFqLWU3TDVLYmVnbS1oT2RxYkw3YkE?oc=5",
-      "type": "M&A",
-      "value": "$10.6B",
-      "area": "Neurology",
-      "modality": "",
-      "stage": "Approved"
-    },
-    {
-      "date": "2026-07-23",
-      "headline": "Dentons advises Biofarm and its majority shareholders on acquisition by Polpharma through voluntary public takeover offer - Business Review",
-      "source": "Business Review",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNQ1A2MXU0dUpVOHktX0NQc0xaV1hDdVdQX0pmemdIZlpLZUxCY3cyRVRENTE2czFOTkNyblQwMUZXT2dBOV9oOUQ3NngtdWJpc3pQNDh2TGFwX2FBaUZ2R013TTZzcTVpMGxGMWhtcDRkaXNnQVdSa05qQ2NaUzRQdnpxNUNGSUU2cER6MDd0RjVQWlJTSmp5dU1BSmsweTd0Wmd6aWFzd1hRU3RNTy1rOXZ1dmgtUlY2X1l3Ymtpc3E4YW9KbFJDT09WczhGejZhV081NW1qSEs3UDJZd0thZWdjN0t1Zk93QjFOeVZrN1FrYkdtczMwU2pWUHViWGVjZExud1JHQjE0Tk5XTWp3ZC1HSWN0eUpkdmhjb2huNzFKUXp2a3NsWGhGa2MtVjI5Y3gtOS1MeHJFcEdlNzJDMGFiVHJuTEw2Ui01SUZSZ0ZxeUN3eDl4ZHFtWTZSUmk3M3hIdnpYd0I?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-23",
-      "headline": "Jupiter Neurosciences licenses MDMA drug in deal worth up to $100M - Dealroom",
-      "source": "Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMGw4M0V5ai1tcmFWQ2pheWhrSUkzOFBHQjhobjF0eVhQbDEyS1lOTnU1ZnFlU014QjZ2TVNjSWRtZ1JEbkxjcWtVcjhFMDZJcHp2NFBZaWlmVzMtSTA0RFI2UWxPenhiM3I1S0wzWHlJbGdBUE9aUU4ybTFsSXNJaTNBNnNPa0diUDB2bGUzQ21VUk5FTXhIMm51Y2YzeHFx?oc=5",
-      "type": "Licensing",
-      "value": "$100M",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-23",
-      "headline": "Dentons advises Biofarm and its majority shareholders on landmark acquisition by Polpharma through voluntary public takeover offer - Dentons",
-      "source": "Dentons",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnNXSzgzVGVmVFZLN2UtaDQybTU3aE5SQWNYUzdrNEtyNnd2c2RZQ1dtZTdXZVNON0xDVWpRNG9KdU8wa0lJU0I0bmwwZzBZRXlzMTNGWTRjQlNMZnNZWWlIa0pnakdyN0Z6M1NJNmxZOTRDYU9zemZrYkExY2NUWWRlOXhKY1E3OFQ0QUp3RkxLOWl6anA2cHFMMGRRYTUxV2FkZHZiQWNSU0dhQmpOZWlZT3JfRi1wbW5sOEdkOUEzZFlNaDVkTGF3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
