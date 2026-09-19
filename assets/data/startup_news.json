@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T12:55:20+00:00",
+  "generated": "2026-09-19T12:26:56+00:00",
   "items": [
     {
       "date": "2026-09-18",
@@ -7,6 +7,13 @@
       "source": "IndexBox",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVRjalE3SnBxbDZDZWV1YkFpSjZjY01VZUR5T1lWLTNSLVYwN3V5c1R1U0x5Q043X0gtSWVGV1V0N01PdTJrOVMtdlo3cVVMUkVyUVRRcDNodFBjZUlSVkU5aHpaU01CUzN0YVVxNURobG5IMklrUzRqQW0xcXlscExxdzhXVHNDRi0xU0RtTFdDSzVZY2tlbTN2M0NMRjBUSEVv?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "Anthropic’s Drug Discovery Bet Gets Real: AI Startup Sets Up Physical Biology Lab - Benzinga",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONGxpX2tuMWxkQk5fNWIwY2JVTUNQcG03UnR4XzB2MFM0WmxtdzVIbHhfV1lJSklpT2hzanN0Yk1fbEtxQVpyT2JtVFVXT2dZM2pWTGZWYzFSZXh4LUpuanFacnl5V09NMlBRdk53b2NkWGp1UzFodTlWa0laZmVIV2VDMzVZM1llOUJpdDcxTExsN2lNdTlYcU1Kd09lMVBxUnA3NFZjYjRIWnZSdHJNMzViR1pBLTNPWDlWa3VLekQ5dElVeENrUzRWZFdEZC14cUhmUTk4aTluNmc?oc=5",
+      "category": "Breakthrough"
     },
     {
       "date": "2026-09-17",
@@ -23,6 +30,13 @@
       "category": "Partnership"
     },
     {
+      "date": "2026-09-17",
+      "headline": "A biotech hedge fund births a new immunology company - STAT",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXM5VjlXbnpGd29UaGw3d2Y2cTFIbXhNc3p4MzR3VFNTLUJCVmNQSHl2dlBuVWhQTTJPMFJiMlRHaVFpSEFub3hNRTZGUTRGbW1vSWMzRU5LVzU3VFQyMVI4NHdVTnNKb3F2UlVCREFDVWhTOE93UEwtWTZNckRxR05PbHNsS2s?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-09-16",
       "headline": "Kendall Square Biotech Incubator Launches Program to Draw International Startups - The Harvard Crimson",
       "source": "The Harvard Crimson",
@@ -30,9 +44,16 @@
       "category": "Launch"
     },
     {
+      "date": "2026-09-16",
+      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWNpREFqdDllVERUTXRsOTNBWW5jOENQVGFtUVFoM3BzLWFvaXVUNEdyUmlyZDFzdU5DdVBKemIxbExDc0dieWdIeFlMOVVMUWh0SjF3b0RSbmxPelR3eWh1aFN1YnYzWFZsQmtZTE1kSVltX19jSEdOYjhDcTduSVdQZlZLaDJkcEZYSU5xclNiSWlEa21vZGJGeHplZDNNNE4ybGgwSVJPakJFUTdjSHdYclJ1M0dzZHFqd3Q1dw?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-09-15",
-      "headline": "Chemify lands £22M state grant, one of the UK's largest for an AI startup - Dealroom",
-      "source": "Dealroom",
+      "headline": "Chemify lands £22M state grant, one of the UK's largest for an AI startup - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWpxYlh3azVXU191SDJCWkRQVVhla1NqMzE1UllwZWp6MUlJUHRablhsZG4tVnFaaGVpSXFPRFJQWnVrd0V0MjhjWUh2ejhENUpqRDJFZ1lHTmphb3ZPZUl1N0pPYmtvNUFJTUxtNnFDYloyWk9XVWxseWhTMm53bk5Ua0pZY0I2TjNkOW5tUmJMOHlBYUdmNVUtWlY0NmJTamoyZFl6UDg?oc=5",
       "category": "News"
     },
@@ -94,8 +115,8 @@
     },
     {
       "date": "2026-09-08",
-      "headline": "A Mass. biotech company had 'very encouraging' cancer trial results — then the funding disappeared - masslive.com",
-      "source": "masslive.com",
+      "headline": "A Mass. biotech company had 'very encouraging' cancer trial results — then the funding disappeared - MassLive.com",
+      "source": "MassLive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWm5UVHRZaVFfaTcwRVJnRElrQVNRQzFyZjN4TVUwMVNHUzV5SmhBX1pNTm9kd3RKemdTeTdDd04yNlBmZHpJOWVjZVd4NkhGelk2di02MFdUZlp5NmxGOVN3Y21mS3lwWWtTMTA3SHVSX1pkNGlOV2c1MmhHal9GNEVCVHpubVdyWlhxOWhhWVRiZDhXME82UW1yVzlhUFVqSk1aUk5mdHBXRE4tVzhPa0QxVmZaSmRIZnczNkl5alF2VF9BNHNKTTNGR3lKT09Ld182blkwOA?oc=5",
       "category": "Funding"
     },
@@ -142,7 +163,7 @@
       "category": "Funding"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "headline": "Viral infections biotech ENA Respiratory inhales $3 million from government fund - Startup Daily",
       "source": "Startup Daily",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlBFV250bmF0QUJHNmM2SkwtX01paUdyaEd5YjhpeVRocUgtMFFFQVNKbkZrRmo4QkpPa0lHM3V0c2ZuRlpRSUFrbFVoZkVCWnRaaG5NbTJuZTVuaEpMeFZHNkdLbGJpTWJCR3l0SDFsTlktV3o0ZzFjQW9rWW5QeTFPWExBU1VuOGYyZHJZYWhib0R0a19WamJzUzdnY2JSSVZSVU5kMzN6cEpzSHFrRnl5OUJpY3BlUHJGZzNFMDM?oc=5",
@@ -188,13 +209,6 @@
       "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
       "source": "Singapore Economic Development Board (EDB)",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGxWTDNDRG9YWW1mSDNxcXoxS2hsa0FOOTgxQzdoaEQ4SXVLcmF3Yml5X0ZRaDJraG5wbFh4UFJaOVFxTEZaNXJrVERURXpnalB1UDVPdXdjXzlVWk9KVmtBSFo3Q1hzamlYUG9pY3lDc0dLMFpmZ2l1b08zdVJJa0dCT3pJZEdoRWdmQW9WSE9aSkotN1NacnpRcy12TTRKZkFXMC15bWdQYkFF?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-08-31",
-      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWNpREFqdDllVERUTXRsOTNBWW5jOENQVGFtUVFoM3BzLWFvaXVUNEdyUmlyZDFzdU5DdVBKemIxbExDc0dieWdIeFlMOVVMUWh0SjF3b0RSbmxPelR3eWh1aFN1YnYzWFZsQmtZTE1kSVltX19jSEdOYjhDcTduSVdQZlZLaDJkcEZYSU5xclNiSWlEa21vZGJGeHplZDNNNE4ybGgwSVJPakJFUTdjSHdYclJ1M0dzZHFqd3Q1dw?oc=5",
       "category": "Funding"
     },
     {
@@ -269,8 +283,8 @@
     },
     {
       "date": "2026-08-27",
-      "headline": "Adaptyv raises $40M Series A to automate lab work for AI-designed proteins - Dealroom",
-      "source": "Dealroom",
+      "headline": "Adaptyv raises $40M Series A to automate lab work for AI-designed proteins - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX004czdvQXJ3dS1YRjg5OHMzcTl6Mlg0X0xvaUsyR015ZGdKelg5TjdWUUlVRHRxaFdWUV8tM0lpOG1nNDZjWDN4YmFiU3ByaDZsSlU5NkJxSzR6NURpZ1pTa3Z0c0hDVnpTZWN3MGNNQkR3RFZVenJuOGhRRFFrZVIyRURuTkVFSjNXem5FSDJOdWs3ZXZaaXlObU9BUXpiM2NNTC1HWlk3N3c?oc=5",
       "category": "Funding"
     },
@@ -346,8 +360,8 @@
     },
     {
       "date": "2026-08-24",
-      "headline": "UC Berkeley Spinout Addition Emerges from Stealth with $100M for Genomic Medicine - Dealroom",
-      "source": "Dealroom",
+      "headline": "UC Berkeley Spinout Addition Emerges from Stealth with $100M for Genomic Medicine - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlRWd0MzcU44WEJNSnk0TXRteWpSVlhJVHpvN2pDWFF4Yjc1OWhnOTJRSEoyVy1sSzFOVEZ2bTNKN2w3azNHRUlZX3ozbVZSR2VzdlpfOU85cGpKbVdaWm1ZT1c5Y2h0UHV6QkV6V3dIeTZpXy1CZ3JIUmJ3NnZaTGVkRFpyd2dPSTI0SmlmUnNFTVF1YU9NaVp1czRyamJMb2dtWVAzTkpKSDZaOXV5T1lHRTE?oc=5",
       "category": "Launch"
     },
@@ -493,8 +507,8 @@
     },
     {
       "date": "2026-08-11",
-      "headline": "German biotech AquaNab secures funding to tackle sea lice with nanoantibodies - tech.eu",
-      "source": "tech.eu",
+      "headline": "German biotech AquaNab secures funding to tackle sea lice with nanoantibodies - Tech.eu",
+      "source": "Tech.eu",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVERhdDlIUGhNeDRTMVdnRUFlWGFnb0tRdWdIYkJrLWhlMUpuT3pudWF1cGxqWHZUYkJTWUw1VmlMVmlMUDktMTJNcWk0YkpSWU9MZHcxMEN0RHNXMU9iYWVCYzFEUjl0SkEtUmJFX1dPYmpNeWJnUG5YM3c2V3BWY3Jhb0R5MnBEUFViV1B2VVYyNjJhOWl3Zk5MVVFnVVlhTlp4Y3poMzQ?oc=5",
       "category": "Funding"
     },
@@ -619,8 +633,8 @@
     },
     {
       "date": "2026-07-31",
-      "headline": "Startup to Acquisition in 2 Years: Grove AI’s Journey to Transform Clinical Trials - medcitynews.com",
-      "source": "medcitynews.com",
+      "headline": "Startup to Acquisition in 2 Years: Grove AI’s Journey to Transform Clinical Trials - MedCity News",
+      "source": "MedCity News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEZHUWZETmVuMVNMQjNCeTJBNDRmRmRoY2lhT1M5NHRDUFh3MTdfWHZITUZWYnR2OUVMOWk3NW9XMVNaYkpDUnpnZlNkdGlRazYzMVg4ME9UQlZLSmtmVUZ5cm9TdDJzSS02akpzby1IOGIwRVBFalRBeldXUWJHTnE0dGdpUDBzcVlEMWxfT3Jad2JjRkNWOVdxS2VWOVZmdVE?oc=5",
       "category": "Partnership"
     },
@@ -913,8 +927,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - Pharma Voice",
-      "source": "Pharma Voice",
+      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - pharmavoice.com",
+      "source": "pharmavoice.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYkN1UTF6ODBQNG1McTBaUS1LQllJUUxFbGxCSWhCOHVBanhzSlBGVmJuQkJXRnJKdm02alFLQ0RiZ0hGNERxVER0WnQ3QnMwN1c4NXdBRXZlWHBEeFdiV3JFdTN3WUJzNXF3RWdicm1jd1M0SzdPdEdWcUdELV95aw?oc=5",
       "category": "News"
     },
@@ -1011,8 +1025,8 @@
     },
     {
       "date": "2026-07-15",
-      "headline": "Ex-OpenAI researcher Miles Wang in talks for $2B AI drug discovery startup - Dealroom",
-      "source": "Dealroom",
+      "headline": "Ex-OpenAI researcher Miles Wang in talks for $2B AI drug discovery startup - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejFrM1Zndk45UW40X1F3akFFMXdZTTdWLWlrblJwbk9lZ3cxaVpGUEx4TGFTZkdJNUV2bWRhMTlLSnhLMVhCTnBHTS1MbG9qZXE5eGl5TFF5X3ViYk81aHVkazNJb1JzcGNwYWpYdFBkMWo1dnE4bGdMNXA0aEpZa3BzeXhmNTJ3eHViTFYzUzJFSWpYZ1hOOU5mVGlhVkFmUmhSR05acDlrUV92cG5YNWdGZVYtSHdWSEJLTWpScHU?oc=5",
       "category": "Breakthrough"
     },
@@ -1039,8 +1053,8 @@
     },
     {
       "date": "2026-07-14",
-      "headline": "Chai Discovery raises $400M Series C at $3.8B valuation for AI drug discovery - Dealroom",
-      "source": "Dealroom",
+      "headline": "Chai Discovery raises $400M Series C at $3.8B valuation for AI drug discovery - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOemtWNzk3TnBzRGNpMExzWmpMb05SWHVhZ2MzQ3UtS1BmVEx1ZUtKcTdobVh2a1BFQTc5SHV4cm9pZzZMRTg5eGhXa0FNcUxTWTVMNlc2M3E5U1NweWpXdGNfbkhnVEhYdGp2ZGxxRENCRWJXZWNoVGZ6OC1jY2FPM0hxbWNkTHlxSlBYeXdZeWlWTC11aUR3TTJKS0NlY1o2eUNiNHlTd2paOGljQ1E?oc=5",
       "category": "Funding"
     },
@@ -1326,8 +1340,8 @@
     },
     {
       "date": "2026-06-30",
-      "headline": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO - medcitynews.com",
-      "source": "medcitynews.com",
+      "headline": "Anthropic Launches Claude Science to Court Pharma Ahead of IPO - MedCity News",
+      "source": "MedCity News",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GU1hISUJhTFc2ejM4X2FUcmVnWHRydUpfQkcweGVIbEVUNTdtdlVjYzBEOG5MSG8ybEsxSGtLYWk3YVdKZEZVeDFWOWNwNGxuUHg1bmpVdEszTk80RXRhNmNFMUFwUm9oakR6MA?oc=5",
       "category": "Launch"
     },
@@ -1424,8 +1438,8 @@
     },
     {
       "date": "2026-06-22",
-      "headline": "Graph Therapeutics raises $5M to advance precision immunology - Dealroom",
-      "source": "Dealroom",
+      "headline": "Graph Therapeutics raises $5M to advance precision immunology - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUhIcTYwWUttQlAza0I0QXVZTHlmRFp1ZWZtME1wQlctRWNLdHFScFh5cTNPY2x6Nno0LVFjSjB4QkJNVDFzMmFkLUo1YVZibF9STU9ZR0xpYUgwaXk0OVZ0Y182YlZfQVZmQ3Qyc3o2YkdnRXBXZmxzUFdkQkFGX2dHZFBMc3JGMmZIZ1JKWXBOeWdoMmI2elln?oc=5",
       "category": "Funding"
     },
@@ -1704,8 +1718,8 @@
     },
     {
       "date": "2026-06-03",
-      "headline": "Apoha emerges from stealth with $36M to build “Liquid State Intelligence” for molecular behaviour - tech.eu",
-      "source": "tech.eu",
+      "headline": "Apoha emerges from stealth with $36M to build “Liquid State Intelligence” for molecular behaviour - Tech.eu",
+      "source": "Tech.eu",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmtjWkRUS243QU94NFVUQlNCUjJtODEza2RnNkFKTU5SVElha2ctaWhhVjBsT3RkVmZKUzJPZFhRbEYzeGxoQXhSYUpleVFOUzVsb0Z5ZXZfVTdCS2txXzdQNi1uVDlMVGNWM0hENzN4ZG5HNFRyM19LOGx0aXNkaU1PRWozcm9SMlJwSHlCTUx2V0ktR3RWcjk5ckttcDI4TkRnVjhzX3ZNQnU1TGlwakczbzZnRjh1SVhQblJ2NA?oc=5",
       "category": "Launch"
     },
@@ -1736,20 +1750,6 @@
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnF1eDRJMG54ZnI3Tm4yajNDblJxY3dDTGZhRzdqTlFwaFlCVmVuTDVlU1J5emhSdjREcVVVYTk3a19xYlVVNFhLd25lSF8yRk5vb0lPeGVjNkRRbWxGR3J2X3YwV2RTcVpwNTdaN2VFX2JDbEl6OXQzNV9TbDktck5vSERmWFZVMS1iRHd5UjRRUlZfbGxweEdqUzVZbTFXanZEcXlJM0k3anl4RWhF?oc=5",
       "category": "Funding"
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "Eli Lilly scoops up Houston biotech startup in $300 million deal - InnovationMap",
-      "source": "InnovationMap",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0M5SFpzRUJYcnZISjJ1azhUMkh0LVZjbGhIcmxMdWhLVElSRVZIRVhmM3M4blhzdWFNVXJKNDZ1Q0lza3JQdXE4TjdaOVR6V0QyUHdIMmRjSHN5dzRfb2R3dWdIUk9KQnFtVDZRekM1OWhjRllIb25VNUkwQ2JQYkx3cjVNb0dmVmdoVGtmQzY?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-06-02",
-      "headline": "New heights for NewLimit as anti-aging biotech nabs $435M to rejuvenate old cells - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDQzWkl6Y1hsdmN0eVNtLUsyNUlZVVIxN3AzRjJMZGtIVjFfU1JNMkJNNVQwaGVCWS1ZbVVINTQyV0NCTFllNFBoc3lwTks4S3JuR0pnY3BDM0xYZzNsZ3prcDNSVXJMcXhVRDI3NHZuMHJZenlTNy01TlBWOHc0R0FBUFpEMEJWV2ZTM0tiMExDR2ZfU0p0cl95T2ZEWjAwSEJYX2hPZnNPUlVw?oc=5",
-      "category": "News"
     }
   ]
 }
