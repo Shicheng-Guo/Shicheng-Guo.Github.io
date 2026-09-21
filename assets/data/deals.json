@@ -1,6 +1,28 @@
 {
-  "generated": "2026-09-20T11:18:47+00:00",
+  "generated": "2026-09-21T12:43:18+00:00",
   "deals": [
+    {
+      "date": "2026-09-21",
+      "headline": "Telix to buy radiopharma rival ITM for $1.65bn upfront - pharmaphorum",
+      "source": "pharmaphorum",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPamQtTGdKSldpWVpqQktCRFdxT3c1ckkwSVJhTl9FR3loTjA1dENNNjExV0pGcTcySm80WTFJX3lWbGM4N0h1X2gyV3hKUDExY3ZhWkRHUVcxaVprVzNPb1llbDByTnEwSjhzTTJBUWFveHYwdHN1MWtibk9mbWp4Sw?oc=5",
+      "type": "M&A",
+      "value": "$1.65bn",
+      "area": "",
+      "modality": "Radiopharma",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-21",
+      "headline": "Analysts ‘extremely bullish’ as Telix beams into Novartis’ territory with $1.6B ITM acquisition - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTQyOERfQnA1blJDOUFWNFFpSnlVZGtyZWl1dmVoaWtJTHYyYUd0eXpMNWhXTzl4ZlYxZE1WS18wTXgzMlJlTlRhbXFiNlpydzRJSFRyenlDaXlJaTB1dnFMeENVUUZUQ3kyTTlpM2NkcTV6T2RsU3FoU0tnR1Q2dlhjZktGamtsUlpFWHEwdDJJeHFacGJ1bmZKLWlyNFY3OEozOTQtVGc0QzVNNUFlVzdEb2ZDTjA?oc=5",
+      "type": "M&A",
+      "value": "$1.6B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-09-18",
       "headline": "LEO Pharma Announces FDA Acceptance of Dersimelagon NDA with Priority Review and Closes Acquisition from Tanabe Pharma - The Daily Tribune News",
@@ -69,8 +91,8 @@
     },
     {
       "date": "2026-09-17",
-      "headline": "After one failed acquisition attempt, Lisata finds lifeline in Marea merger - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "After one failed acquisition attempt, Lisata finds lifeline in Marea merger - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2dFS1VoQ1FkYUNJZjZJdHhGSDBfNURqTEVYV3ltMF85bDdCNS1zOHpHM0NNYTc1Y2pHalpfVWN1WlY5TTV3NjM0YmZUeTBIOUxSVGRQMjdUckotSllOMWtlV1NOb2dWSGliOXp6dmQzZ1YweXRUcWdQYVBwdjdoaVpRQm1tTG51dW1DYWx3QWVmTWV1bERJenhoamZSd05PVG5TSGJtMzlxQ0dGaUE?oc=5",
       "type": "M&A",
       "value": "",
@@ -1686,8 +1708,8 @@
     },
     {
       "date": "2026-08-18",
-      "headline": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1fcFNwME5RSDE1a2JsX3BXUHl3VjVic281Q2Z2YkpkaGdtVVF2ay1oREJCc0FhcVVLT0dOVlZxdWZIajF2UkpYd3dKbUNoQWZHQTN1T0V3aEI3bnljc1ZNbFY4alFqdXJKZFZ3Z2xPdVVCVzdyeDI0b2dla2NoZDZJY3dTazV5ZnAyM1k3LWlBVlpWWS1KV0g2UTdaYUpBWXpmVU5R?oc=5",
       "type": "M&A",
       "value": "$275M",
@@ -2445,8 +2467,8 @@
     },
     {
       "date": "2026-07-30",
-      "headline": "J&J pays Sail $785M, charting course to possible in vivo CAR-T buyout - fiercebiotech.com",
-      "source": "fiercebiotech.com",
+      "headline": "J&J pays Sail $785M, charting course to possible in vivo CAR-T buyout - Fierce Biotech",
+      "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUJxdTA5d21OYk9NcEJ0SUtubFEwOGtNS3Z5QjY5MTdVT2UtQzdzTmZINnV2OWVYdXpfWUxPR2NUUXNORldCTmc2SzNINjViNjhublBFOGRWNWZfWWQ5aVR3LV8zS2ktaUpJaFRGV1NDcHE2MEQyRENTdDlBSWprUTJQVExSZVg1ZTU3eE5nTldDYzZHRWVyRWQ3aEpwa2s?oc=5",
       "type": "M&A",
       "value": "$785M",
@@ -2723,28 +2745,6 @@
       "headline": "Organon shareholders approve Sun Pharma's $11.75-bn acquisition proposal - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVDJlSi05NVVjOHE1YzdtV1o4bnNEazJWa0x4QjVwTGV4TVFjOWdvWkkzdjVkWWIyU08yNkVvZTFLRlhzVVdtNkV4MEpDakhaSGRTbGVITzJwczF0U2xnWTBWNmdhRWlPMUlOQVMtYkgyNEprcGRNWnlHSl9yMlZOQ2ZXNlpHRHRGTnlOay1qV1ZHU2ozeUpLaExnT015Z2JtR1dSWXowY0xRWXdJcWJDaW9CVXIxa0NQT0VPak8wZmtORnVfd0xVWTFudmtld3JWRXkyRXhZZmxXcTREWTlaRnpDX1Bjd3VGaVhQMlg3STQzQ1BMVmNyTFBuaDUzbjV6T1HSAYcCQVVfeXFMT3FndlBqNC1Cc2EwUUlaV0ExQmpTbGtqdkxELU4zZFAzS1lGdkJNem5RQnBtVGtxdlNJalRPMmxoRFhpQmh6ZXVBY05RRTJJMFl0VmxCb3VPeEJsTVA1eHc3NC1SMjRCNldsR0NscEpVNW40ZGllQTQwTVRzYUFrVzViQzJteFRHaVNOVGU4ZUlFT0ZyYUN0N1JTUjZ4a2dZWE5teUU5eU1faHBLelllR1NPV2FoRS1DSVZMMmJSc2hvQXJrNEgtXzFDZWFucFpHSmNnLXNza2c2VGhVM1NCcnZLaUlWck9YWVczU0IzbndPY2g5czhKZ0dJQnN1RHBiZ25xWklfaWs?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Sun Pharma inches closer to biggest-ever buyout as Organon shareholders approve merger - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa2dRVkROcnBwY0NQdU5GWkRDZEkyQlNiMjVpWDYxZm5xYndCTjZhdlE0WVJRS01FLVpUM3ZmdHM4WDB5cmp3ZGEwa3FoNG5qWjczaFNEZjdDNEVIZmhpbktfTnZQc0JRbmVYRUZpMmE5U0UyeFJoZloyeGYydHdmb1JGWUg2OEt0cUJUNnNfWDBTTTBnbUhRYTVueE5uaXRoYzZlZWF5cWtOR2NUT0ZHaU9CSVFjc1BYMFU0dXpCQmZVdzFROFNkcml2VTFSZVdOZzUyTGRabEQ1dHPSAeABQVVfeXFMTV85Z0UyaGxJTmxvYVV5Tl9QWlNUdFl1RUpaYWxaanhJSEdqTjBieENNQk5vVVJEb1ZHd2dRc0w1d09HdTZFVXR5ZUNrX1dzTGx0bWFsN2V4X2JTMW5YM25OM0lOQTBOU1RoWUJPalNFLVlac3I1RUthelRvU3BlNmVUekdnZWNwNXVKVU1LN1dieFVRc3VMZTBxcFBMZmM4LS1WM0gwTGU0MzNXZk5TS19zTmFneGVmUUc3a1hodmtySEpFTEotSlRRYUtDVmdJMDFwejQzdjdRaTZLT0doSmU?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "Sun Pharma moves closer to Organon acquisition as shareholders approve deal; stock in focus - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOVlYcnIxUlBwYzNXRUhFdVpzSDBaaG1JaFh6a0c2VzBNZUZmejBVLUJJeEtWd1c2eEZDYlBSUDlMV3hJWmFRZ0FSeHE5NndZMjZLeHJCSDNxS2dFT3owc3RvQW5ETHFvQVNOU1FJU0xucVloMkViS0Nvb1pMdF9zdV9NdjQzRllZMm5leHFOdWlsdXhQZEd0X3JlcFVGTmROZTlBaTgyT2NOc1dGOFh2TjFHSUJvTXlqNXlNX0J4R25wVk01RDdlNWhqWVR4LS1qUjZobDFVSW50dml3QUhfZk9aZw?oc=5",
       "type": "M&A",
       "value": "",
       "area": "",
