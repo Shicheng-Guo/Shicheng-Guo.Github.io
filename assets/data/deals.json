@@ -1,6 +1,17 @@
 {
-  "generated": "2026-09-23T11:30:56+00:00",
+  "generated": "2026-09-24T11:41:13+00:00",
   "deals": [
+    {
+      "date": "2026-09-24",
+      "headline": "Bhagya Lakshmi B Appointed Head of Talent Acquisition API Division at MSN Laboratories - hrtoday.in",
+      "source": "hrtoday.in",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDNIUFZvbXdMeGJER0hDOTl2Y09hNjlmQVFNbng1eUdXUjZIUXBWWkNTRVljSmdvd1g1c29sUklHVEN1cGpqYU10WmpzLTZSQS1aMHJyUDMxQlpKcU5YREp1a2U1MXhWaGxaUFRtb1pqYnJULWxzbjhsUHFSYW5XUGVhMkZ0dE1qQVEteGI5ZHgyX0VIN0dfNDFudDRuMXFtcXotNkFqYzhkZw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-09-22",
       "headline": "Fredun Pharma acquires 26% stake in Goodman Vetcare Private Limited - TradingView",
@@ -487,8 +498,8 @@
     },
     {
       "date": "2026-09-08",
-      "headline": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test - Fierce Biotech",
-      "source": "Fierce Biotech",
+      "headline": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test - fiercebiotech.com",
+      "source": "fiercebiotech.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVZ6Q2RuLXVqRnBuQmNhOFBudGVWZ2dEU2VuTXY1eWxPUzdSLXRUcUN0eUdsRkUycWh6ZzROWFlCQmRjd0Fwbl94V2pLbUNOUGpwT3cwVVZvdmpxZkljelVhNU1sd0FabHlFVmFMRFhXMW9YdUh3bUd3TjJaQkJ6U3NSWVJGS2ZiaERvRHpiamExWjZWUjRySW9OQjRyeWVpZk1fd3F1ay0?oc=5",
       "type": "M&A",
       "value": "$12B",
@@ -916,8 +927,8 @@
     },
     {
       "date": "2026-09-01",
-      "headline": "Lilly Looks Beyond Obesity with Up-to-$2.9B Acquisition of Merida Biosciences - Genetic Engineering and Biotechnology News",
-      "source": "Genetic Engineering and Biotechnology News",
+      "headline": "Lilly Looks Beyond Obesity with Up-to-$2.9B Acquisition of Merida Biosciences - genengnews.com",
+      "source": "genengnews.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQU95b1BmYWtqUkhmX3RSVVo1cnFtV2NGcTZUQnhSYkp2a0liMnBwWWNCUTRwRjhXbXkwSUNTYk1IWmtWWVh6c0dmYnp3TS1RNHJKb2VLVjMzZGw4UjdoZzZ5QnFJaWk5YlVadmdFNHFYa2JLMl9HQ3FZdktKeF9NNVpCTzVtY25TUG1PRnN1V0Rndl85dXBfMWZqb21kN2xtUkd1aUFJUFZkSTdqQUpvWnpTTFRlUDVySnhaS2pKTFd1Tm1DZWtVcGxKdVBCQm8?oc=5",
       "type": "M&A",
       "value": "$2.9B",
@@ -1044,6 +1055,17 @@
       "value": "$2.88B",
       "area": "Immunology",
       "modality": "Antibody",
+      "stage": ""
+    },
+    {
+      "date": "2026-08-31",
+      "headline": "Eli Lilly Stock Falls After Pharma Giant Unveils $2.9 Billion Acquisition - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1o4OUZjaUhsNThJNDlKRmVRSWxDSkx3bk90OFpVSGJNeEpGMGN5NUM4RFNRV1BNRWotcmlEeEstWXA5R0ZNa1pyVVQ1cDNJSDlMUnNGZ1hPaGxGYWtPX1RqaFFQSVdkY1pYLVdSdVA4WHFKSlBDM3RVQ1hZUnBGRGN6aEZySnBqUlJnZlVVWjh4NFk?oc=5",
+      "type": "M&A",
+      "value": "$2.9 Billion",
+      "area": "",
+      "modality": "",
       "stage": ""
     },
     {
@@ -1532,8 +1554,8 @@
     },
     {
       "date": "2026-08-20",
-      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
-      "source": "Generics and Biosimilars Initiative",
+      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - gabionline.net",
+      "source": "gabionline.net",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFY5d3ptSTZGUGVRRjJkSlVlR25pbXVHQUE1cDUtUGVzREp1NEd3bUNUeG1GOTFXeU54OHA2X3pmRE5vYzFyaHJZRHQyME11SEdtNnlwNXNzWUotYzZNYUJFNmgyRVV1TWYwc04yY01UV1Uya0dIVF85OGZLRWQyNUVtNEpnSktRWWFRZHdMUlBOUjF4LWZnNTMyYkJuM1hlMmN4T1dXS2lmWDltazNGYmlnaw?oc=5",
       "type": "M&A",
       "value": "$11.75bn",
@@ -1928,8 +1950,8 @@
     },
     {
       "date": "2026-08-17",
-      "headline": "Sanofi to lay off 229 workers in Mass., a year after $9.1 billion biotech acquisition - The Boston Globe",
-      "source": "The Boston Globe",
+      "headline": "Sanofi to lay off 229 workers in Mass., a year after $9.1 billion biotech acquisition - bostonglobe.com",
+      "source": "bostonglobe.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHJIYmZFZUFrOURON01uN1ZTd1hDY0VXMUVZdDFwSGVySzZsTERBX1dwUXFTRTVkWkgyd1JId1kyaUdqVEd0djRSSXM0a2o1RlBrNjl3b1VqaFdDdnpuVXBsbUdSdkJMbmVrc19ucFBYcTF3OXRfRG9XYjF3YmpOXzlBYnlabG05cTdhWHAxUlg?oc=5",
       "type": "M&A",
       "value": "$9.1 billion",
@@ -2466,6 +2488,17 @@
       "stage": ""
     },
     {
+      "date": "2026-08-03",
+      "headline": "Latham & Watkins Advises CordenPharma on Acquisition of AmbioPharm - Latham & Watkins LLP",
+      "source": "Latham & Watkins LLP",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHQxSDdsSjFnU2dzTzIyM1hOWVZUbUpUNkpTNktrVFlLZFU2TVhHdWJlQ05RcXM0UDJWSDhHNXM4ZmIzenJCaUV2RWFsYzV1ZVYyaEM5c1pQbVFwZjlMMHJqTU43cGg4bUNZRXFFTlo2d3JXY3h5aXlHbDdGVjlwRXB6Rm5waXFPeXZQdVBjMGJWTDV4ZEE?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-07-31",
       "headline": "IMPACT Therapeutics Signs Exclusive License Agreement with Pharmanovia for Senaparib in Europe, Middle East and North Africa, Australia and New Zealand - The Manila Times",
       "source": "The Manila Times",
@@ -2712,39 +2745,6 @@
       "headline": "Standard BioTools Announces Sale of Mass Cytometry Business and Illumina's Buyout of Contingent Payments to Advance Merger with Treeline Biosciences - Investing News Network",
       "source": "Investing News Network",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMEU2cndPRVdORV84d1FLejY5Rjh4dENJSURiOVZ0WnlSTGNfV3ZFN1RSVVZPaWpsTTdHSWVacUpqUXY1QUZmLV9kcF82aXJ1eDZ3eGVnR0hudTAxaS1hT0trQWRwMDNuLXN4WE1pTTZkaERXUnZzaGpLd2RSaF9mQlRJaVFQcmIxNmVqbXFvR0Z2eUE1RnpuMEtnd3Q4SVh0b2dLcjRDT3lLTGl3bFVsUWpLQjF4R1U4d2pBOUtRSmZxV0dKdWhjRlJlTTF2YzZEMjRxNEtVTUNwV3F1Y056SFRxOHlOa0UtVS01TUpWNGR6S0I4OWxCU0ozdjQxelZnZ05ydWtB?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-27",
-      "headline": "Guard Therapeutics Completes Reverse Takeover of Disruptive Pharma and Executes In-Kind Share Issue - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNT2xyTV9jU3BiNEVWT2VxRzJQa2xncnpDSTZvYXNrbWRjZ2NqLUd4R0tyUWk1dHA4dlQtT3JQUVdldjZVVDhuMkdrcnB4ZUJsVXhNOHp2anVFUkNnNVR2NWtzOG5xMDlqMG94dHJlcm9oWlozTTFqaHNRYnFDaXRJSHVTQ0ZYX2VvOTR4SjIwWmJTQ0xhS3VRRG9qZ1ZndmxxRzdUYzkwYU5JLWRHWldCaE56Qm1FV2tHOUNTRWxCcUdRMllDWHEzcjJBblV3bVBCczlnQTdTenlhTVd4eDBVODBjVTF2YkxZRm50dl9KZ19MNGhvbWhQQw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-27",
-      "headline": "STI Hungary Acquisition Takes Local Pharma Logistics Know-how Into Wider Network - BBJ - Budapest Business Journal",
-      "source": "BBJ - Budapest Business Journal",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3BaTmF6TklnVkM0RFhsSWhxa09qUWtlUUMtUTRUZVRhUUR1UnNydkgxY09NV2pSS0tFOFVYN1hHeVpuZlRJbHRfX3lqaXFEQVF0djQ4NkZCclMwQUYtR0Vza1pkSGY0OGhQZHNqOVdpOGRLcUFRS1pNakNsQnJqTGNJeUh0Y3NWNHMtSVJ5NkdGWTJqTm9JRnViY25rcmp5MV93ZlZNR3htYUVYSE03ZjBQVWV6X3gzOXQwNHB3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-27",
-      "headline": "Moody's Ratings says successful acquisition of Organon by Sun Pharma could lead to a multiple-notch upgrade of Organon's ratings - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdWRaNmR3S0cwdHVVdU1rdFVlTWY0ZFEwdlBXOVlMUmVTbjM5Q3F4am1ESmM3b0tLcldVWWZxaWxhenRON254UHZzNVBIZTVVaWhFLVlaOHVhVm45SWNnVWE1Sy1maXJ3Z1BOM2JPakZxY1FTaFBXZV9QcnYyMzhIcjNNNDFOOWpsOWZ1alB4Q2JtdTI1eUUtVDBsT3dldUd0MkkzMU9pQWYxU2pUQzN1ZjBFc2ZHNW1mRklQYk5hVV9UTFQxcE9VSTFaM2lBa0h4R2ZwMnNXZEdjZTcwTVFGOFdJTGlobWlMbExPRy1PSmFRYkNGRkxPZHNVQm9KYWo3UDRJaGdHdmNyeUk2RTcxMkNUUQ?oc=5",
       "type": "M&A",
       "value": "",
       "area": "",
