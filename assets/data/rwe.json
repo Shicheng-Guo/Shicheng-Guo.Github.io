@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-24T12:47:04+00:00",
+  "generated": "2026-09-25T12:50:18+00:00",
   "items": [
+    {
+      "date": "2026-09-24",
+      "headline": "New Paper Offers Practical Roadmap for Using Real-World Data in FDA Drug Approvals and Label Expansions - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbVhPSnE2a2FULWxEZTRoTHlnZU5vamNFUWxLVS1HT0RhYkVQc2xTTkFvUERHbi1oeXZPZkNBdlBRRUFwdVZMckhmM1dvX0Zia3kxWlQ0Q3pLbjlUeXhXdGtlaVM5SHZxWEVYeU9JbWdwMTZhbE96ZDN0aTdYS1NGbzhGQU1yaUdIY2tnMFZ0eXNBdkZaMFdMdExKTVRPVkZBZGtacnFPNFRubUtMUFhaR3Q3T0hmMlN5NDZTZHlkWkRaM0wzdXE1TkN3N2V4aDQ2Z3RXaFE4LW52eVdDN0xxU29mWWYtS1ctWkROMlprdDczdw?oc=5",
+      "category": "Regulatory"
+    },
+    {
+      "date": "2026-09-24",
+      "headline": "Real-world evidence solutions market to reach USD 12.44B - Medical Buyer",
+      "source": "Medical Buyer",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWpvdzg0S2ljTHFWcnhtZnZOUy1ZZWd4Zm1hZkdSMVFaaFN5eEFrRXYzRU1reTdtQ0ZuM2czRTRDX2VZRkQzYlMySk1CWGp6Nkc2V0NER3BiTVE0YUIxenlLUlA4dTFaV3JlNzgyWG82T0gzS3doTjBUM0FpdzJGSEdQSVVyQ0VDcnFKZA?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-24",
+      "headline": "Largest Real-World Evidence Study in Early-Stage Breast Cancer; FLEX Surpasses 25,000 Patients - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTFZyUDZVUUIxMmJQc0dpdEtQNFZib2ExSktzYVkwdzVkVHd3cElGSlFKQWw4U2htT1lWbGp5aDVCLVJMdFpLdFdmV1FqR1JVWmhaczdFZ0hNdmpnTnE0cm52RlNiNU9UWmhyT0d4WEpCRUpwd1BMbEE4V05oQnRFY1VDeWlrczdMdkNVejR4LURXNVBHWkQ0NjRZWGtORFNENzhOYnNoV2pBX3dmOG5OdVJJQ0x5SzdOS2RJUUZIanU4aFpkWUF1NW52WDVxWWVJQVphUXI5RDR1ZFEzLWlUS0lRVQ?oc=5",
+      "category": "Research"
+    },
     {
       "date": "2026-09-23",
       "headline": "Real-World Data and AI Capabilities in Oracle Life Sciences Data Intelligence Help Accelerate Clinical Research and Commercialization - TradingView",
@@ -37,9 +58,16 @@
       "category": "News"
     },
     {
+      "date": "2026-09-22",
+      "headline": "Oracle Named a Leader in IDC MarketScape: Worldwide Life Sciences R&D RWD/RWE for Data Platforms, Technology Solutions, and Consulting Services 2026 Vendor Assessment - Oracle",
+      "source": "Oracle",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQThuRnhpSGh6RkMxOUVpeWNlUm1sODk1YzBjVkdQWTFnRWJsTXpzaFZwXzFSM0tUUlZjMjQ5UEhfREJVNWJjZVIzQm4xT0N5aHExMnZZNzRKWFlRbkQzQVROcUhHbEJZS09TLXhvdEEzVGZDVkhnSExBUzBtNzJWY3RZaEItbkgtdFA1TmFiZUVicUtHWC02RkZhemc5REpFYnFKcUF0SnVsdHN1VTRVcVA1UmJXeUxsbXNUanJyZGpTTk5KZ2NKcTdnM01CUE9F?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-09-21",
-      "headline": "The Missing Layer in Oncology Real-World Data - Endpoints News",
-      "source": "Endpoints News",
+      "headline": "The Missing Layer in Oncology Real-World Data - endpoints.news",
+      "source": "endpoints.news",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45UEM5VkFqaDkxQmxyRXgycnRicXkyUFNNUlpTVG9WOFNqR0UwWnJaMEVPZTVvcEs3WlZJNURsM0FkRU9UOE5DYkZoaFozQ0p6OHY0S1NSLUNhZzJiU1JYM2VUU1JsS3dmQ0ZBakRYVmZJUHhZT1NHemJCbUw?oc=5",
       "category": "News"
     },
@@ -52,8 +80,8 @@
     },
     {
       "date": "2026-09-21",
-      "headline": "Researchers from State University of New York (SUNY) Buffalo Provide Details of New Studies and Findings in the Area of Artificial Intelligence (An Informatics Framework To Harmonize Electronic Health Record Medication Data for Managed Care …): Artificia - insurancenewsnet.com",
-      "source": "insurancenewsnet.com",
+      "headline": "Researchers from State University of New York (SUNY) Buffalo Provide Details of New Studies and Findings in the Area of Artificial Intelligence (An Informatics Framework To Harmonize Electronic Health Record Medication Data for Managed Care …): Artificia - InsuranceNewsNet",
+      "source": "InsuranceNewsNet",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPRWNYNTQzSVhfaERxQkFLc2RRbnJCRXF3eU5tUUR2bmJUZ1V6eEtVdVcyekFBb0ZDc2JUSEtBVWx4SzVUbnMyZW5OTm51NFpTalcyRWEtTWRWSTlreVZJcGVPNkhZdFRwN1lzQ3B6bnY2QncycVFkUzlxNi1LNEtVSWFIZDc2V2NBcHdaU25saGNqWlRhZGJRZGFrNVlZd1o3OG1FVko2WDFGaEJEaVd2NU43T1dNOGFmZ3J2SDFVelUyRzlrenZNNVcxN1c2d3BCT1FLWWtKU29YYTFaNTNNUDRoTjI1TEh0aWRWeGg0b0VGQk0taWNSbVgzY01PaGx4Y015S1BzY3Y3d2dWaFVjNHh5MG5UdDV2dFNpSmlldlh3SC0wc0FGYWtLdi00TlBneXVKN3RXS1ZrdFdlaTdOenRxMWtSTlhfYmluZk5Jbkh0c3hoTWc?oc=5",
       "category": "Regulatory"
     },
@@ -703,8 +731,8 @@
     },
     {
       "date": "2026-07-13",
-      "headline": "How AI and real-world data are accelerating clinical research - STAT",
-      "source": "STAT",
+      "headline": "How AI and real-world data are accelerating clinical research - statnews.com",
+      "source": "statnews.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHJiUDVIQTdNdTduUWJaci13YkYwWHpILTNYbmJBSjI1N2l2dFVvWlo2Ty1ia1I4MHJMeDlqSzhYckNVY3c4OEFaeUtIeGV2TUF5eU1zcmh0NEQ3SnVtUVMzQUN6dVdLNFpwNFRiRWdWQVNDLVNZV05Oa1RUVmpPcFBLbUpaMzIwbnlQMlZWbXdURVMzMWVOTkM2NXU3ZmRZX2NoQk5fZlJYQQ?oc=5",
       "category": "Opinion"
     },
@@ -878,8 +906,8 @@
     },
     {
       "date": "2026-06-30",
-      "headline": "All of Us tests a new approach to collect real-world data for research - STAT",
-      "source": "STAT",
+      "headline": "All of Us tests a new approach to collect real-world data for research - statnews.com",
+      "source": "statnews.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVVFcTRWRkEzc1RoN2R3djdxN0hudHQ4WVFmWXR5X2JaOF9jNkNTbl9PV1VWMFVFLTlHTXZDTy14cEhySkYxTnA0ZVd1RzRUNGRRQ3JxN0c0eGkxeEVRb1VMLVVrTHpTc21YVlJOTnJWU2N5TDBPenNHYVNGai1lNXRVUXhyXzNYZ1BiX24wMkY2SnpF?oc=5",
       "category": "Research"
     },
@@ -1025,8 +1053,8 @@
     },
     {
       "date": "2026-06-23",
-      "headline": "How real-world evidence can directly support innovation - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
+      "headline": "How real-world evidence can directly support innovation - clinicaltrialsarena.com",
+      "source": "clinicaltrialsarena.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2I4Q1V4QktfaFVDcEZoWC13MmJ0QjBHc1VtX293ODRidFhmUkFYUzh3c0xLVjVXaXR3QTcyUFVFT1d2NXBkQ01UekhpLVhDQ1pqdkhJaTgxa1ZvUUZyRlVoYjZxbzlLWEQ4SXJoLXh5ZzF3MktIWWN0VXFtY0dNdk1YTDg1TlZYMTI3b1NuS1V4MFZ0bzkteC1GanVOWm9pVFdj?oc=5",
       "category": "Opinion"
     },
@@ -1074,8 +1102,8 @@
     },
     {
       "date": "2026-06-18",
-      "headline": "HLTH Europe 2026: incorporating RWE into practice – the perks and pitfalls - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
+      "headline": "HLTH Europe 2026: incorporating RWE into practice – the perks and pitfalls - clinicaltrialsarena.com",
+      "source": "clinicaltrialsarena.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTBOeHJGd2IzQ3Q0VkxiVFdleS10V240cFZiYnNJb21sZVBiU1FIR0EzOVl0YU11cnhrbUJiM2N3YUxTTmhwUGdSTFRoRURJTV83OUJKdklMSDhxV2lGMkN0THZyZm9ycGJqUHNRUHl4T1JsRVBxTDVxd3E3S0dEcXpCbUVTZWI0?oc=5",
       "category": "News"
     },
@@ -1326,8 +1354,8 @@
     },
     {
       "date": "2026-06-03",
-      "headline": "Novellia Snags $18M for Its Real-World Data Platform - MedCity News",
-      "source": "MedCity News",
+      "headline": "Novellia Snags $18M for Its Real-World Data Platform - medcitynews.com",
+      "source": "medcitynews.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PU3R6V05ER0liaUVoQjdNVThnalNZMlJpVVhvX043dDV2MGNsbjR2SmQzeHhCaF9yVG81ODJJN1NlRkZKQWktRDhtVDFjTldCRlM2OWFkQnJsSjRCRUlBYVgzR0pNUU5oRFFKc1dfMzZzdw?oc=5",
       "category": "Product"
     },
@@ -1487,8 +1515,8 @@
     },
     {
       "date": "2026-05-21",
-      "headline": "European EHR/EPR Market Enters Research-Ready Era as Clinical Trials and Real-World Evidence Move Into the Hospital Data Environment - newswire.com",
-      "source": "newswire.com",
+      "headline": "European EHR/EPR Market Enters Research-Ready Era as Clinical Trials and Real-World Evidence Move Into the Hospital Data Environment - Newswire.com",
+      "source": "Newswire.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGF6S2tMUmhDbXo3dHRxenV2RDJ1Zk5LdGRYVWRTX1Q1bTJVMzVvSUJkcFdqTGJzaUhqMXQzTHF0Q3FyMmtJOW5XTXdsbXVObEM3OXFwYS1ncnVQSlB6N2o3aFpLMi16eDhTWjVnbXdONVdmZDBsSTM3Z2dDUURsYmtCcnNJaGZ0VlpXNlNtNDVVcVQ2OTNmNjBTY2R2elVPLWxPdE9WMGtkYm8?oc=5",
       "category": "Research"
     },
@@ -1571,8 +1599,8 @@
     },
     {
       "date": "2026-05-18",
-      "headline": "Why Real-World Evidence Is Becoming the Missing Link Between Innovation and Patient Care in Oncology - MedCity News",
-      "source": "MedCity News",
+      "headline": "Why Real-World Evidence Is Becoming the Missing Link Between Innovation and Patient Care in Oncology - medcitynews.com",
+      "source": "medcitynews.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbTQySU95anlkbW14Z1g1X3lfVDl4QUo4M1MzdzBzQjRtVjVOellOMDZOcUNRX3FiMVhLZ3lPT1BNaE1SNTdadDA2NmFDYUlSb1JZLUpoSGdMMExTTDV1NWdIRko1N2cyVHM5RmxyREprVkFaS0hJRGJLM1RfWFdDU2dRWFh2WFV4SWZUd3FQWjh4clFYQy1SWEpwUjN5M3RhX1d5UXhlSU5FRmtrc0JYMlNUanFMTjNLYjFiS3NuNnBJNkdNVWJoNVZjc0JnQQ?oc=5",
       "category": "Opinion"
     },
@@ -1998,8 +2026,8 @@
     },
     {
       "date": "2026-04-06",
-      "headline": "Real-World Evidence: Shaping Obesity Treatment Beyond Clinical Trials - amgen.com",
-      "source": "amgen.com",
+      "headline": "Real-World Evidence: Shaping Obesity Treatment Beyond Clinical Trials - Amgen",
+      "source": "Amgen",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUFOSDFqc1NzOXoxcFowOHJ5SFpITEJNWFE2UEZOOG0zN2hRM2lIbFRoRHlrRFNLY0Jmc3BSaHFURk9yYXhqLS1hV1V4SFMwRFpHNFZqZU5XeDlYQTVqZ3o5VVlRN3I0aEJydDI3d2dJLXBvVDd4dlNnTUVORUQ0cXhoNEwybmJTdEpqekY0RQ?oc=5",
       "category": "News"
     },
@@ -2072,34 +2100,6 @@
       "source": "GlobeNewswire",
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPYVdKQUNCYnZTTWFtRG5kMGZJTDhUOXBDNV9FeDZHbTNxMVZpajRMVUlScUJSbUxJSjFkS1AxcDYxajBhSTRXUHRYWWZRRjR1NW1CRUM5VjJ6UWVKZHNtRXh0ZG1wZmVKMjFrSWFSRWVnOENTYkZHc0FBOWI0Q3R2cDhKY3l0T2FrSVhLZnI1YkowMkJFTV9JQzMxYTZXUTdqRzV2X2Y4TEJWa1JrNG5rSndnNlF1T1lZazVCejdTd3djbXlZOGkxWDRpcFNIY1ZoSTRBc3NON2x4MXNONERiLU9aUjZiTHNaR3l3X1lGWEl3SDMzclNMU29lNG5mNkZnMXlZbWtVMDBtWjRkMUhodXhQUGN6WUM1em5MNTR6U2ZMajM4Ylp4UmVtNlZPaGcxOVpEeVJNUnNLYmRNTUJEdGZtQ1hwRDNYUTAw?oc=5",
       "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-04-01",
-      "headline": "Executing Concurrent Decentralized RCTs And RWE At Scale - Clinical Leader",
-      "source": "Clinical Leader",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJQMlhURGZ2dTA4R3ZuLUVCY3NUaUFVTzNFb05VMmFUMDJKSWJoSk10bFdjM0E3T2o2SENQSWlrcDRTZWRJamVYTER0RVZpQy1fWmdXcGM0cTZMY0YybUY2VEdndUpZU3B5ODVPX1BMZDMwb09vYWFaQVFuaDF3dVY3eXREdW5BRFZOb195R25kS0dRelh5cXQ4cVY?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-03-31",
-      "headline": "The Role of Real-World Evidence in Psoriasis Treatment Decisions - AJMC",
-      "source": "AJMC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDRFTHdmb3h3TDNIXzNDeWZXMFRKZlBwYnlzaXBtQXFYWGJnMGxqQ0dJejkxQkszb1BIZWN5dklGR2Y0NXBrM1ZRQlBaZjIwS2c1bk95LVZZRS1ENThkbDB0aHZvb003Q0J0ZjlWSjhINlE4N0pjM3VBQmlhYk5XRWRRaWJIcko2Ujd2cGI3NllBSHFf?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-03-30",
-      "headline": "Unlocking Biopharma Innovation With Real-World Evidence - Clinical Leader",
-      "source": "Clinical Leader",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZURaSGxoX3I4QUF5TWtvd3ZWWkpCS3pqVXBSZWVJUGZpcnAxU1hkZkFSOTNvZGZfcmpLR21wWlhnRW9MdzNHVmFSMGpVZGo5b2t0VDF3Sy03LU5hQ1hiYmhYLWpCdEVlaVM0SHVSVzYyYl9lRVpPdUQybzM3eUlSSVhmTnpkdjNFaVp1SzY3SURrRmlzekNvMkVDVQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-03-30",
-      "headline": "LEO Pharma Presents New 12-Month Real-World Data for Tralokinumab at AAD 2026 - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZzdMSTBuNVlRVURhZEVwS0RsS2lPVVdxUjF0NkcyVG84VVZWUlVtWW5sMU8zei1VS0YwLXNOMFhGTVpDalI4ZGdHSS1Bd3p4TEtqQVVBekNPS2VkdXR1UXdJUE9ucnhGUnQzRW5JZHBQSEs5ZWZxaUF2Y1Z6REVtQlpLUThRMEozMkY3SnowSWU1SVJzdHdkOG44MzRuZw?oc=5",
-      "category": "News"
     }
   ]
 }
