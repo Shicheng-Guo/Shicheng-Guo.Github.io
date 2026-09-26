@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T11:47:10+00:00",
+  "generated": "2026-09-26T11:20:41+00:00",
   "deals": [
     {
       "date": "2026-09-25",
@@ -7,6 +7,17 @@
       "source": "medwatch.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLVXFwVnVQQkNZNEl3Ti02NEZwdjROWHBXS3BVajhrNlBER2NzLUNtT3RySEU4c2xwOU1wOWhOMmNtVVlhNEE4cXU4dTFGdzV4Rkxfci01QVpSN0FHRGNpdjlVeUdQRTY4QzZ3UmFOUQ?oc=5",
       "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-25",
+      "headline": "Orion Corporation: Acquisition of own shares during week 39, 2026 - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd1hCR0JpbndFc3pyQzNXVlVrOGtiQ2NFeVBmUkxZZnd5ZWI3M21nZWFQc09ienhTeElPenVBVUlKSUl3Zi0yQ1NoQnZyNDJNZ2ZUZWFYSVZFQ3ZiNHk4NzAySVhyOEE5NjdpTXdILXUwTWw2dlBZd2pzaVVWV2lLUUZuZkFXZjlyN1p1MkZPa2xISzI1elAtUU9ycUIwTEttaUg4NXo1aHFad1AzeDd4dU1SMEx1THRkTUZlWl9xVnJBZG5WS011enNCaHhGelQ0?oc=5",
+      "type": "M&A",
       "value": "",
       "area": "",
       "modality": "",
@@ -41,6 +52,17 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEJSUGNnOFlXSjl3WGVic0dldXZuNDMxVnRfaUhZeEJ4RXR1TUJ1MlB0ZVZPRlVPNFRrbloyem9kV1I0LURGT3lCWjljSTRWNzdfWXpXLVdYVy1qcEhVWDdycEhhNzNyTG9pdnlSamZ4c1R1bjU5QTBVNXFvR3ExaGVURzd1SDJwNjJvaUJhaTFoTGQtYzBuSXdmcEhzWDVQN0RBR016Z2VQV1BXM2JLSUpkRkI5aWRQSnZudmhqQW0?oc=5",
       "type": "Deal",
       "value": "$3.35 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-24",
+      "headline": "Aurobindo Pharma signs royalty-free alimtravir license with MSD for 129 LMICs - scanx.trade",
+      "source": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXBkc3JWZVl5Tkx6UkRIYVRBMVo2cE5ySXBuMXA5clJHaV9BYjdENWQ5ZS1HU1lpRDMydzh6NDBFSVJkLTdNRzVjLWdmSVNneUpaWklHTzdvbmlDWEtxVGJNS3M0c1IzdDNjNkNkRG9rZ1ZqaVBlQ1J3VElsTGltekxNcWo1UVJJWi12eUpNTGx5eUx3ellfRmVMRFo0aVBIT1FvbHdnNXBrUFpjWUJ0S3d1dFp4U05XOW93Tw?oc=5",
+      "type": "Licensing",
+      "value": "",
       "area": "",
       "modality": "",
       "stage": ""
@@ -156,17 +178,6 @@
       "stage": ""
     },
     {
-      "date": "2026-09-20",
-      "headline": "Aurobindo Pharma signs royalty-free alimtravir license with MSD for 129 LMICs - scanx.trade",
-      "source": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXBkc3JWZVl5Tkx6UkRIYVRBMVo2cE5ySXBuMXA5clJHaV9BYjdENWQ5ZS1HU1lpRDMydzh6NDBFSVJkLTdNRzVjLWdmSVNneUpaWklHTzdvbmlDWEtxVGJNS3M0c1IzdDNjNkNkRG9rZ1ZqaVBlQ1J3VElsTGltekxNcWo1UVJJWi12eUpNTGx5eUx3ellfRmVMRFo0aVBIT1FvbHdnNXBrUFpjWUJ0S3d1dFp4U05XOW93Tw?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
       "date": "2026-09-18",
       "headline": "LEO Pharma Announces FDA Acceptance of Dersimelagon NDA with Priority Review and Closes Acquisition from Tanabe Pharma - The Daily Tribune News",
       "source": "The Daily Tribune News",
@@ -179,8 +190,8 @@
     },
     {
       "date": "2026-09-18",
-      "headline": "LEO Pharma Announces FDA Acceptance of Dersimelagon NDA with Priority Review and Closes Acquisition from Tanabe Pharma - biospace.com",
-      "source": "biospace.com",
+      "headline": "LEO Pharma Announces FDA Acceptance of Dersimelagon NDA with Priority Review and Closes Acquisition from Tanabe Pharma - BioSpace",
+      "source": "BioSpace",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU0lIUWdHdXJpSE5FNFQzemFRbGd6V0NpR1dDSGhRRVZNci04eEM4a2UwdTR3Y2RRVDNPcURNd2lZdnZwRFk3eFRIU2ZNdHhiYUxBbE9RS25QS0lvV3V5aVl0enVUSnMzZXhaMGxXWDg0YUlRRE5Fb1dCQ1IwZ1U5Y2Z0VEpua3l4emJicTY1LUVhb3IxWEZRZmtwWExteDl3YmRKWVNmcmFpRFp0NjY2RndxZ05vUk9heGg4emZPUWRxVmZFZzR6SFBrd1hsNzYzc1lkNEpXOXNhalFINi1rS19OcWR5dHlRdWdLMktxYw?oc=5",
       "type": "M&A",
       "value": "",
@@ -256,8 +267,8 @@
     },
     {
       "date": "2026-09-17",
-      "headline": "Innate Pharma: Sobi agreement becomes effective, $75M at stake - Idéal Investisseur",
-      "source": "Idéal Investisseur",
+      "headline": "Innate Pharma: Sobi agreement becomes effective, $75M at stake - Ideal Investisseur",
+      "source": "Ideal Investisseur",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXB4b2YzQjQ4eVBMOTNGeERxOUNDSFF1WnJ1NWxZbHpZdjdQaEF5RWVBVWNFUEdSQ2Q5eVpJNmx6eVVSd09IcUptbzhvS2R1YUhlOTFEbEUwTWg2WHdEdExZOTZ0UV9ZSXY0TjBZdXNkTVF4LWNWNWFSYm5GNkpoWkI2eUoxcWNlT2xEM1ZzQUx1UEFjM0ZuUktOLU9ucmk1NmVPN29BM2kwRktKRG5FRjFRNkhJSHg5NWc?oc=5",
       "type": "Deal",
       "value": "$75M",
@@ -751,8 +762,8 @@
     },
     {
       "date": "2026-09-03",
-      "headline": "GSK inks another Asia alliance, betting up to $1.3B for HUTCHMED’s cancer therapy - biospace.com",
-      "source": "biospace.com",
+      "headline": "GSK inks another Asia alliance, betting up to $1.3B for HUTCHMED’s cancer therapy - BioSpace",
+      "source": "BioSpace",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzloQlRkdlY3clBSekpIZzBheFBmNmxTV1FXMlpaWjlWUnhBYTJ4ZTdrOS1GZFdXR2FCTzFtNHRxRGhGY2FMVWY5dEkwQUo0MEZFUlBob3NabVhhcHZtUUp0Q1JTYWVEZ2lzLWdNdHFTOGd6YXd0N3dGbkpDSXBXYk5sN01NVzBtaFhUVTA5VEtKYTNRenlHRkQyLXFrQXFaRVgxc0dBVm82M3luYkE?oc=5",
       "type": "Partnership",
       "value": "$1.3B",
@@ -861,8 +872,8 @@
     },
     {
       "date": "2026-09-02",
-      "headline": "Simcere inks license agreement with Roche for SIM0660 - thepharmaletter.com",
-      "source": "thepharmaletter.com",
+      "headline": "Simcere inks license agreement with Roche for SIM0660 - The Pharma Letter",
+      "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXJYV0pQY21KWlo0dS1PRGhIbEFkQ2NGellmVTRfeEg3U1RwRGRsMmdkTkhVT28wcTBrQkxwc1dSMFU4WVgxaVNsV0RZR1RzVjdQUm42NVdkS1dGdUFXejVTa3RNWGRHS2pSY2Q5Q2tfaXZldjNLQ3JIbkdMMG5OV2tKWEFHZ2d5WXlqejEtYjZna1pxWkJQaTVsZ0xxMlk?oc=5",
       "type": "Licensing",
       "value": "",
@@ -949,8 +960,8 @@
     },
     {
       "date": "2026-09-01",
-      "headline": "Cipla Signs Exclusive Licensing Agreement With SBP Group For Cancer Drug TQB2102 - sahi.com",
-      "source": "sahi.com",
+      "headline": "Cipla Signs Exclusive Licensing Agreement With SBP Group For Cancer Drug TQB2102 - Sahi",
+      "source": "Sahi",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmVURjlXbjZWQnFYSHNlU0RrWkQyakl0WXhzNGFsZFJjMjJuTlY0el95Ymx6Z2dzZlZQeHAwX19MM1BSanRSRVpQdmIyTnNCeEpsbzhfbnpHeXdza1dUMndOOUxycWQ3RWJkNlVldWMyUUdnM3lPSlZCblBQbmMzRG9xUVVDb3lncG5RVXJ5YWUwODZBdGJtZDRRR05YYVVUVm8tX3FRbmt6Yno3WDFGazV3QTMzNmxKLTNn?oc=5",
       "type": "Licensing",
       "value": "",
@@ -2104,8 +2115,8 @@
     },
     {
       "date": "2026-08-12",
-      "headline": "Zydus' subsidiary inks optional licensing agreement with Mereo BioPharma for rare respiratory drug - pharma.economictimes.indiatimes.com",
-      "source": "pharma.economictimes.indiatimes.com",
+      "headline": "Zydus' subsidiary inks optional licensing agreement with Mereo BioPharma for rare respiratory drug - ETPharma.com",
+      "source": "ETPharma.com",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVnQ0YWxwWHl1MDBWa1FKYUhSQ1I0d1lQNUx1c2xCOWlUaGFmNENMNlZ4YTBrUENFaFJCdmczVEFaUDlzdWQxWS1UZjNDVllENlctS1VxY3JrZm42VFJGTFJVMDVuczhMczNMdzJjMlFtUnJrSnZEWlF3b3VLalhBNkhLbXgtRmxJNmRKVHUyUDJablMyUWltdU1wcXFTQzlfM2g3QU4tcmRSLXFWVjZDcFVxZjJhTGRHTWZEdlhKS1VucG00QmYtR2lpSmkxN19xZHAyM0lwZUJObGZPRl95ZXZSMmlFYmlpaWNEVF9LbmFGVW5RRWZrLWJtdmFSbVRpVUHSAYcCQVVfeXFMTWh3Rm5OODVNVzBweHczbGNldV9SdG5nZ3M5ZVR3eV9nN0J2UjZxQzl5aUZsTlhUSVBldWRBYXd0T1djUlUzLVI0dU9YYXdBLWRvNFRzNUFHdzRCVFFDa1VsWWhIM2dJcl9rSWViUlA0MzQtOE9ycWdKRjZuOGlqVXNfVUNabmJ3SGRXc0R1NXR3WTJfbVpuQURWNDRwaFpOYlNXblJEVWJLVFEyMGttWE5BWG5mX1VuRnR2Y0ZmeW9aRUw0SHRCT1pWblZORkkxajBXbGcxNGdESXQxWFc3T1dIOU16M2JtUHItdlZyMmVIc01lSEl4RmFtbUpNdTlVWG1heUR1bUk?oc=5",
       "type": "Licensing",
       "value": "",
@@ -2357,8 +2368,8 @@
     },
     {
       "date": "2026-08-05",
-      "headline": "Alteogen inks up to $365 mil. licensing deal with global pharma for SC biologic - koreabiomed.com",
-      "source": "koreabiomed.com",
+      "headline": "Alteogen inks up to $365 mil. licensing deal with global pharma for SC biologic - Korea Biomedical Review",
+      "source": "Korea Biomedical Review",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvMVppcGc0WTh6M1JLYVh0YVRxek5nSEZqcVhUMlRlUksteTdyVWhhRlNkdU9qTkhtcHpISTg3NlR5LXZERFJFa3VHM0w2cVplNEJ0THpvaWZXS1dudzBoSC1weVlOYkhZMTQyNVFn0gFyQVVfeXFMTTNXdDRGZGtwYmZsUUpuUmJmc1hoNjU2aHFyMlppTGhESm1UcmRSYW5TcldNVG13NzY3ZE0xSmdIbUh2eXh6MWdsNUZzdkU4c1MzeDlwcnpoTmljbncwWnlfaTEwaE9tOGpaMFMxTTdWSU9n?oc=5",
       "type": "Licensing",
       "value": "",
@@ -2737,17 +2748,6 @@
       "type": "Partnership",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-07-29",
-      "headline": "PROCESSA PHARMACEUTICALS, INC. ANNOUNCES ACQUISITION OF VIDYA THERAPEUTICS, INC. AND APPROXIMATELY $200 MILLION CONCURRENT PRIVATE PLACEMENT TO ADVANCE BTK INHIBITOR, VT-7208, IN MULTIPLE DISEASE AREA - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVFhNmQyUXByVk03bnZreHYwWVQ1ZnpPNmZJNkxqUVRJalFralVCYmg5NU1CWElrNlpncXh5VGttSm54OFRxNXhKTlFiMFdaQTVYR3RKYVhiX0ZHVGRXd2hlNGdUN0JyYktrNDZVNFBTS3RkRTBKdldMZi00aUdxNGRkT2RGNEJ1eS1VTFVnYURadXJPSjd1RXZNZm1PUE8tbDBZQU9VWlVvU25WUkpIdQ?oc=5",
-      "type": "M&A",
-      "value": "$200 MILLION",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
