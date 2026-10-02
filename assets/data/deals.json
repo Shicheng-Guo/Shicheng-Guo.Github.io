@@ -1,6 +1,28 @@
 {
-  "generated": "2026-10-01T13:08:18+00:00",
+  "generated": "2026-10-02T12:28:57+00:00",
   "deals": [
+    {
+      "date": "2026-10-02",
+      "headline": "Denmark: Samfara completes acquisition of Chr Olesen Synthesis - Investors in Healthcare",
+      "source": "Investors in Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFVDUHRfMHFra19sNkV3NlRkMmpIdFV2VXJRZ3JjemRSdWVTWlppWFZEVVFPT0ZCM3k0dXhGNHEwdnJ4Y2gycGhXQlFZcXgwUDFiOUtKSnZ1OGtqRDFfV3VTVHdHRWJueWpDXzVWcHhGbzE5R2htRVJxUDlIS1B0emtXV0VDcXpOaG5IMGR0eUIwVS1rWVRrN2RXZEhwWXVCT191N01peXpZTUhUWFVQVlZ2SDRkUDl1OVdHU2t2VHk?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-02",
+      "headline": "Novartis takes rights to Abogen's mRNA T cell engager for $575M upfront",
+      "source": "",
+      "link": "https://endpoints.news/novartis-takes-rights-to-abogens-mrna-t-cell-engager-for-575m-upfront/",
+      "type": "Deal",
+      "value": "$575M",
+      "area": "",
+      "modality": "mRNA",
+      "stage": ""
+    },
     {
       "date": "2026-10-01",
       "headline": "Fresenius completes acquisition of mAbxience, creating a stronger platform for future portfolio expansion - PR Newswire",
@@ -53,6 +75,39 @@
       "type": "Partnership",
       "value": "$1B",
       "area": "Immunology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-01",
+      "headline": "Wilson Sonsini Advises SpyGlass Pharma on Acquisition of Advanced Vision Science - Wilson Sonsini",
+      "source": "Wilson Sonsini",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1RzQUZwVnJZY1ViSjR2SGRFazR0Y2tQSHFoV1pBVWV1QkJ1d3Q3Y2Jrdk5GYVY0d19UanVtaVUtelI3dnJHa01yS1Y2NDZmekw1dDk5VmRyb0UwQ21iTkdncDg0N1FJYktkU0tCU2FiWkREM0FxV1R0eWtnM2MybVhiX1oyYmRhNnM1VUtQVXRKeG0ta2NockJubVk0eDRuY01MR0xkTWFWUGJyc21KX1lWNVNPZGFQRGc?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-01",
+      "headline": "Sanofi pays Dupixent partner Regeneron $1B upfront for 4 early-stage assets to ignite R&D - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnRlcGNhU1hXTkRmaTdJQWdMQ2NKeU1RdTZrYWFNR08yMTJiRGxzVFBSamFBcVhQZTJXQnVuRTB3X3dVTnA4R3oxcVp2QjNZajZuX0hyN2E0STlVb0NLbUJWZUlNTUFFdXppMnZPd3dpd1pLc1FtVXJaZjBNajRpYTJaajNEZGotTE1sbHFQYVFwRVhMa2JVYQ?oc=5",
+      "type": "Partnership",
+      "value": "$1B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-01",
+      "headline": "Sanofi, Regeneron broaden alliance to find their next Dupixent",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/sanofi-regeneron-alliance-expanded-dupixent-immunology-drugs-development/831894/",
+      "type": "Partnership",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -168,8 +223,8 @@
     },
     {
       "date": "2026-09-29",
-      "headline": "Surat-based Anupam Rasayan completes ₹1,750-cr acquisition of 48.2% in Bliss GVS Pharma - BusinessLine",
-      "source": "BusinessLine",
+      "headline": "Surat-based Anupam Rasayan completes ₹1,750-cr acquisition of 48.2% in Bliss GVS Pharma - thehindubusinessline.com",
+      "source": "thehindubusinessline.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaFUtZmEtWnVvejQ1MVd3MFQxRFpYamNqTVh1VEVQblVZTm1SbnYyWVc5eFVrWFpLa2VkWlR3TmxIdGlQQ19VM2NkUGJUMU9xWG5UOWl1NEtOUEFaWnpJSHkyWDRDQkYwbkNyMW5OaE13My1JdmlwSUV3ZF9mbncyS2pWU3JFd0xLR0xUZEkxRjRmV0VnTGRQOWNId1pKZ1F1Zk93X3ZNTUpxVWlJNTV4QUQzZkxvcl9NZjZuQ3FPZ0tRU3VJTkVQUFBJTFJHRGlnT1dBdXlLanlmUVBaLU5maVFR0gHoAUFVX3lxTE5NZDh6VnB6eU1ydlRkdWtMdlljVHFJVWFQRXQ4Wk9Rb19HRTNPT2pnS2pxV2VMNE5RcThIRHVDVjJjQUgxVlFwU1lOc0xvTjljdEZGcFhES3lTRzFyOVRjeC1jWE9Ia3pESncyZkhkeUZBeHA0NjI3dzh1Yl9EM0ZGU3NLdkV6bTF6LWlRekdJak5LTUFvaVdFSi1qY3ZldGg0d3M1cjJHWnBlTVBiY05sXzNCdkZYczJ1MkdPMWFoT1BhbHlVWkV2M0hIX2ItQ2ZHc2dXd2hUT3FNQ3h4OUFyRUhlVHplOHc?oc=5",
       "type": "M&A",
       "value": "",
@@ -217,6 +272,17 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXVzTHNxUzdWR2s1YWRmWldMRW0tZnFUYXBCNmR4bDB5X2hhMk1JdXNfT3ZDbVY5elFITDdoaENOSUNCT3h5bXpXanZLczNabGx6WGE2amdKMzFpQ1BMRmZpUlNBOEFqV2RtYTlwYjI0eFZ2aFB2NzdiRTVRdkppc2VhNjZNWGVpWE9hcldCRQ?oc=5",
       "type": "M&A",
       "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-29",
+      "headline": "Hengrui Medicine licenses oral weight-loss drug to Novo Nordisk in deal worth up to $2.6 billion - finance.biggo.com",
+      "source": "finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3bVVBbzBsVGJsR3VRQnZUNUVOOE9kMnhGZWlmNzFseVRLdW5zWUV0SzI1cGJoYnpBRXYyYTJYN3Vuc09PVzdrMlVrNGVRNERMZDQzYXJCN3ZYbzVDRnFNcWJzSjVyZlpMNzlMLVNreDB5V0tTa0E?oc=5",
+      "type": "Licensing",
+      "value": "$2.6 billion",
       "area": "",
       "modality": "",
       "stage": ""
@@ -717,7 +783,7 @@
       "stage": ""
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-13",
       "headline": "Jamjoom Pharma signs exclusive MEA licensing deal for Nordic Pharma's Lacrifill dry-eye gel - Dealroom",
       "source": "Dealroom",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeS05WThkLU5RY0tab1FoOXE5cEgySlFXOUlPWmVwZ2c2ZW1MRmY2MXBCdkh3aDZIenREaEdFN0d1SUxRWG14b3UxQ2d1c294b0h2a0cwUk5vRkhnYmF6Vnd4dVJPcWYwd3NzR2Z4bmFDcE9mc1VxTE1nTk9QR3ZMczBTVlFjWkpYSjVEN0ZCQlUyVGM3THNvMkhfYVpQTVN3VGp1RENxdFYxZnFPZVA5NnRIY1c3TW93RE9sSDJjeGRiOVk?oc=5",
@@ -1290,8 +1356,8 @@
     },
     {
       "date": "2026-09-02",
-      "headline": "What the Independent Pharmacy Cooperative Acquisition of USave Pharmacy Group Signals - Pharmaceutical Commerce",
-      "source": "Pharmaceutical Commerce",
+      "headline": "What the Independent Pharmacy Cooperative Acquisition of USave Pharmacy Group Signals - pharmaceuticalcommerce.com",
+      "source": "pharmaceuticalcommerce.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGVMTTdsZVVxcEVWUmlteVpiMVcxNndBcGVVMXdGb2FJbGFyYV9Sbm9TN2ZRZmxLVkVfak91S0NaSGVydUcxRWJFalJ1QkRJbFhYSmJYZ001QzZQRkhuQXoya05OQXRhalYyd2FNSjNjemZmQjBMXy01STJRT0UwdG1yOA?oc=5",
       "type": "M&A",
       "value": "",
@@ -1961,8 +2027,8 @@
     },
     {
       "date": "2026-08-20",
-      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - gabionline.net",
-      "source": "gabionline.net",
+      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
+      "source": "Generics and Biosimilars Initiative",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFY5d3ptSTZGUGVRRjJkSlVlR25pbXVHQUE1cDUtUGVzREp1NEd3bUNUeG1GOTFXeU54OHA2X3pmRE5vYzFyaHJZRHQyME11SEdtNnlwNXNzWUotYzZNYUJFNmgyRVV1TWYwc04yY01UV1Uya0dIVF85OGZLRWQyNUVtNEpnSktRWWFRZHdMUlBOUjF4LWZnNTMyYkJuM1hlMmN4T1dXS2lmWDltazNGYmlnaw?oc=5",
       "type": "M&A",
       "value": "$11.75bn",
@@ -2334,7 +2400,7 @@
       "stage": ""
     },
     {
-      "date": "2026-08-18",
+      "date": "2026-08-17",
       "headline": "LEO Pharma Further Strengthens Late-Stage Pipeline With the Acquisition of Dersimelagon - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0pVdnJILThmZTNPN3R6UjVGTzlWVi16eHFmQUIzS2NLTHBkRWFiNFZWNC1DdE9hWldIYm9uZzZGa2RacUx5VU91T20yZ3psZFJCcW1pU25GdFh5NG1YTC1wRXdNUWZXYVJ6TklTamNvQ0liRTJLNFM5Wi00bkJLOTFVQlFELW04dmU4RmtwVktuQzRpTVdyWEh0ZnFnZw?oc=5",
@@ -2445,8 +2511,8 @@
     },
     {
       "date": "2026-08-12",
-      "headline": "Alfasigma Expands Presence in Europe with Acquisition of Nordic Pharma and the Lacrifill Canalicular Gel - eyewire.news",
-      "source": "eyewire.news",
+      "headline": "Alfasigma Expands Presence in Europe with Acquisition of Nordic Pharma and the Lacrifill Canalicular Gel - Eyewire+",
+      "source": "Eyewire+",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeHR2SThBVk9MTkd3emtzcUp2enJRakZjQWpibjlPMVNCNDFWNEFRUnlmdlppUnB3d0gxaVVfbFBnb2k0MHdfNzBuNXJCZ1RzXzlZcmVfU1hoWlBVTHpnd0xSbFd4TnF3eXRJX2FMSUFyOFd3M0g4blM2azg3RUxkN25DX3YwTFpmNnBRdnhOWk9FT2thQk5pMXJjYmYtQmp0azJmdFdiSlhJWHRIbDhUZmw2c1hFRVBBV3lobXVtM2FXNWxYSEFjWE1kNA?oc=5",
       "type": "M&A",
       "value": "",
@@ -2682,72 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-06",
-      "headline": "Alteogen signs up to $365 million licensing deal for Hybrozyme drug delivery technology - Indian Pharma Post",
-      "source": "Indian Pharma Post",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEhuNlAxSWRJQno4Y0xFLXpJYnZYdTQzU19nUWJ0Q0Z2a3RyMWxpdUtHNDhlOXpQSmo4SGN3eUw5aGhzMVBTOFdQb0puanFOOF9uVlBkR2ZxVTJ2Mi1jV3d0Z1Vial94aGpsa2dCTF94cUdGemFQcGcxNzE5aVNMSFJQZDNKV3M1NDFKcFkzWDY0eE9LOHRodnkzQzdSOVpzUm0wRHFSTFU4S2VRZ2RRUm5Yak5ya1lPc1ZVOGlGYTFiQTVCODUzNUF3MmM3dld0RzB5bEdGNNIB1wFBVV95cUxQNEhuNlAxSWRJQno4Y0xFLXpJYnZYdTQzU19nUWJ0Q0Z2a3RyMWxpdUtHNDhlOXpQSmo4SGN3eUw5aGhzMVBTOFdQb0puanFOOF9uVlBkR2ZxVTJ2Mi1jV3d0Z1Vial94aGpsa2dCTF94cUdGemFQcGcxNzE5aVNMSFJQZDNKV3M1NDFKcFkzWDY0eE9LOHRodnkzQzdSOVpzUm0wRHFSTFU4S2VRZ2RRUm5Yak5ya1lPc1ZVOGlGYTFiQTVCODUzNUF3MmM3dld0RzB5bEdGNA?oc=5",
-      "type": "Licensing",
-      "value": "$365 million",
-      "area": "Hepatology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-06",
-      "headline": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale - CNBC",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGpXenFZQ01zQ0puSXJBLS1oaXREQjhZMXh4TzdEaE96b3J3TWtrVzRPQ2kzUnVraHozX0lkLTB0ZElYVDZaenJmdi13TEZzMXU2VU5iTzZfMDdhdVRfU0xwUl9VYnRTVmVUY1pxS1RZQlBFbjNoQzBUYm5PYWk4WNIBhgFBVV95cUxNejctb3IzaWtHOHFQNkhtQVMydXhPT2w1NURhQi1LZ2k5dENqM1JPeTN1UGZIclAxQ051cjBDbWJJSlNWbmJLS2lheVVjenVzNDlDSTFZc1JuVUFUcFNMY0NGNXM4UmxOWEx0d3RmZzAxdjFDLUV4R2h0V0dZb29JTVdOeGxMQQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-06",
-      "headline": "Alteogen signs $365m Hybrozyme licensing deal with pharma company - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekw1Z21sS1V1a3FsbWwwbzZQN2pGRGRMNXF0RWkybVYtdXc2eEt4c2pCYlMweFVrUy1JR0hTSTgtbDZqRkUwcXNidk5fZ00tZXJIUWtIVEhIbExIYW11NHlfbGtKZmlTYjdxdi1SWUxTNzI4OHIyVW1tV0gyR2tIX1J6Y2U5SFhBS2EtT2ExRFRDN2VXUG0wNEROOTlyeHZyUmc?oc=5",
-      "type": "Licensing",
-      "value": "$365m",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-05",
-      "headline": "Alteogen inks up to $365 mil. licensing deal with global pharma for SC biologic - Korea Biomedical Review",
-      "source": "Korea Biomedical Review",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvMVppcGc0WTh6M1JLYVh0YVRxek5nSEZqcVhUMlRlUksteTdyVWhhRlNkdU9qTkhtcHpISTg3NlR5LXZERFJFa3VHM0w2cVplNEJ0THpvaWZXS1dudzBoSC1weVlOYkhZMTQyNVFn0gFyQVVfeXFMTTNXdDRGZGtwYmZsUUpuUmJmc1hoNjU2aHFyMlppTGhESm1UcmRSYW5TcldNVG13NzY3ZE0xSmdIbUh2eXh6MWdsNUZzdkU4c1MzeDlwcnpoTmljbncwWnlfaTEwaE9tOGpaMFMxTTdWSU9n?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-05",
-      "headline": "Eton Pharmaceuticals Expands Infantile Hemangioma Franchise with Acquisition of U.S. Rights to Late-Stage Product Candidate ASN-001 - finance.yahoo.com",
-      "source": "finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGxNcm9HNnBMMTQyQ3BkTExzSjhrUVJQOHgtVjBOWkFObXAyRHd3SkRNNlJ6VTE2RkFHZGUwd1BvREctakFjeFAxbndVYUlvLXVfSlBCT3ZYaXZadEZLb3Rqei1vZ1RUUnBBc2o1Zjl2RGk5bWNfWGh2YlFSSUMxbDNzLVBFWGRvNkN5TjJDa2RxYncyTXl3VWVxWVNjYkNXN3RYUW82THlKRXRWdWZB?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-05",
-      "headline": "Gilead lifts sales outlook on strong Q2 HIV growth despite acquisition-related loss - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM0c1Yk9KOTg1NE95M3d4QWM3QzhUTUktUzYyNnRUcWlkX3AzTTd6UnRjbXU1ZlFJX1loQVlUUUhibTctYUYzR2xSUnhxYUx1ZE45Sm1LR2tiOHF2NlNMV2JlY1liUVA1NnFrN2VHSjB3MkxDS2pYSzh3WmpfVm1HYlpuVnZDQTJoaV85RVNzaTBscTJxaVdjbTNTYzllUjhISFVTZS1ERm1WS3Jod0UyNzhsWmZ1bnIyYkwzMGZVbFlxRTVpd1lZ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Infectious",
       "modality": "",
       "stage": ""
     }
