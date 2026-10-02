@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-01T13:56:47+00:00",
+  "generated": "2026-10-02T13:13:20+00:00",
   "trials": [
+    {
+      "date": "2026-10-02",
+      "headline": "Clear Scientific reports positive Phase 2 results for CS-1103, a drug that removes fentanyl from the body - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdFBaV1FqeFBFcTlaVGNxYi1JbXE0UGlXNFJTeU92RHk2NTBpX3dNaTRzb29SdXRxR1dOU1dPblNhZmw1SEZ1a2JwdFNOQXRJbXNPU3JfcllqazBzR3lINC1sZGo5TkJxQ2RneU5iWlpjVklSVVRLOHdENi12c2dLaHEtRTgweFFZSzZWV1UwTGdWcjFKNXRlQlBVZmNNbEFHS2xROTE0TUJWVFRUbXE0OTQ1cDNVUGZmN1NYZHNUOElmQ2hndnB2MDVyU1AzT0tZR0lFNA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-10-01",
       "headline": "Tulisokibart Meets Primary Endpoint in Phase 2b Hidradenitis Suppurativa Trial - Dermatology Times",
@@ -68,6 +79,39 @@
       "moa": ""
     },
     {
+      "date": "2026-10-01",
+      "headline": "Oral Azacitidine-Cedazuridine Meets Pharmacokinetic Goal in Phase 3 MDS/CMML Trial - Targeted Oncology",
+      "source": "Targeted Oncology",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXF5WFlZTXFqb2VmTTlfNGpTWUVCcFpGWm1UMm03OUlCVXoyTjlWNlJGQ2M3cmVaMHJ1WFJHQlRnVzhMdDZub0Nubl84WkUzSThkWThKUHF1VFFUTVlpUlQzUmM4dnM3V09MU21kZ251QVB5cFpld2p5YkdIb0ZBZTFoTUJLYWYtc3RZVXd0ZkI?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-10-01",
+      "headline": "Taiho scores phase 3 win with oral cancer combo for AML-causing blood disorders - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0RMUkpWOEhlX2RKbTR3RS1LZFBjS1Atdjc5eG9aMGZzWTcyY21hZFM3M2hiSU5qQ3RWbFhIWkd6SWpmYThoQUY0NnpDT0hUSTUwY0R0am5aSllLeDdXUGRZSExpWDdDT1FzVnVjcEZrQVV3SEVtTGlJaV9RdDJjQWEzb0ZyeEZzV1NxVm8tbXRjd1dHSHVGT2haNnFYUUgxOTU0?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-10-01",
+      "headline": "BMS reports liver injury events in lung disease program, with key readout near - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDM3dDB3S0pmNkdXbjVxYVQ3d002T0pNM2IxWjZtYXppVGg3YWgwSXMtenBRbU1HN0NhMGRVWnJOZXgwNGJTT1BsVDN6S3hyc01qbExOSDN3M1hCRnc4bGNRN0VIWVJMTklkVFdJby1SRnNwaHQ3Z2V5Z2IyRE5TNGpvdTVoMGFmLTFsTnVnZThhQ1kwY2pZcTZDVHJ3TExfeUdfLXZkMEFuTDJLSjctNF8tT2RUVHNveURV?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-09-30",
       "headline": "AbbVie’s Zumilokibart Meets Primary Endpoint in Phase 2 Atopic Dermatitis Study - The Clinical Trial Vanguard",
       "source": "The Clinical Trial Vanguard",
@@ -113,8 +157,8 @@
     },
     {
       "date": "2026-09-30",
-      "headline": "Sagimet Biosciences Reports Positive 52-Week Phase 3 OLE Results for Denifanstat in Moderate to Severe Acne - quiverquant.com",
-      "source": "quiverquant.com",
+      "headline": "Sagimet Biosciences Reports Positive 52-Week Phase 3 OLE Results for Denifanstat in Moderate to Severe Acne - Quiver Quantitative",
+      "source": "Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEQ4ZmtpNmljWnlEYzVPRGVNSjRUMDBscjlTeG5ISlpQUGI0cXdPNmV5TXpwTWZWMXpxeHk0RnFFY2txWlJ4X2QtX0dKN3o1dHk1ekxyMFhmOGRCMWNhT0ZfUUp0dF9xUDdMMk5sd2pjWXVIekw0aGE2TlJ4UEpRbkgtZC1BSXBMaG5WQ0gxTS04SGxEcWJBbE1xYTM1eHU3WEJkbkpqaHBRUGNfaWNhckNDSmRZeEtTTnlFR1JrcHVmUHhObnNRMTNfXzhibFNoR3ZJVXVLUQ?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -229,6 +273,17 @@
       "outcome": "Failed",
       "phase": "",
       "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-09-30",
+      "headline": "Actinogen's Xanamem trial hits key milestone ahead of results - ICYMI - Proactive financial news",
+      "source": "Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNlFYUDFVVHJ5VkRPaENoYV9oWXJqcDNaLUpqYVhEWWNnTGZ1eF9sMlRuRUpmZk1ObEpzR193VUhaR2tNQWU2cUZLNS1GYjl4UkNsdVVvYVA0ZjJ2M3kxcDFOQlc4Vy1tVm5aWXRTcXFfcTRybjBIS053UnhqX0lFWm5GbFFXRnIyTnM0R3gxOXpueEdnSG5wMkVYZEw3YUtVVVlZOFAyaWVHYk1leE5Ubm1ybjlvdV9ESE5HeC03cm9VV0ZEVzR6MV93ODlnSkJmUEV5eQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -597,8 +652,8 @@
     },
     {
       "date": "2026-09-25",
-      "headline": "Ionis Pharmaceuticals (IONS) Posted Two Positive Phase 3 Trial Readouts - simplywall.st",
-      "source": "simplywall.st",
+      "headline": "Ionis Pharmaceuticals (IONS) Posted Two Positive Phase 3 Trial Readouts - Simply Wall Street",
+      "source": "Simply Wall Street",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ1YyOGcyblRVb2RWU3VENXVZMUp1QzZ2dFFNaTVpakxSSGprQzJ5RGhqMHl0QW5SUEp4bFZqRjV4a3loNjIwYk1TV0dvYm1jdWVHeEdqUHBQVHdpSmlDb2VYVFNHY1RfNFcxUmxYZG5STWo4RndvcC1Rb1F0Wk1DZVppVHJMNndyeXk0X1dLZHRINEt2bUFWb3pBNjgxNG10TzhzMUI3U0c5ODBNajY1UllSRHZwMUQ2SXN4OW52WEM3YTVsY282TFdlNlJ3Z0RJaVplX081SDZFYVJwZ2hudEJIMC1MeWM2djlF0gHwAUFVX3lxTE96b2R1d0hxTjRlWUFCZHVRWGkxZkY2a2ZLUmhEODdDVUlLR1liSkh6bGdsUGtfejJoWnRpdTV3VGR0MUgtVkx3SDF2dzZJR2NobldKMFFsR0t5VUhFZFA2ZjZFWTNKSkhOTGhOOVpVWmNyVTk3a1psRG13UlAwTTBxM2V6Mnl3NFNGTGxsb3JXbGhHSDhQMThQSWlWY3dOQVZNZ2ZXcGpkUHBPSTQzVi03SkdST3lrSFRxTGhkRG5fd3VFd2VZMl9wUWxsejhPekx1TVhfeElXSjRPdXNlcW84a1R2a25aRnNXd2tpVDFHNg?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
@@ -849,6 +904,17 @@
       "moa": ""
     },
     {
+      "date": "2026-09-24",
+      "headline": "Acadia Pharmaceuticals Announces Phase 3 Enabling Topline Results from Phase 2 RADIANT Study of Remlifanserin for the Treatment of Alzheimer’s Disease Psychosis (ADP) - FinancialContent",
+      "source": "FinancialContent",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQNmNzX2FFX3I0OWswTnJHQ2VXRkV4Wk8zSDdIRmVqY0pMcTZJaUFNYkZwNFF5alJUZnNFbXg0SnRfVGVib2NDWUdMa3RnMXdTTXdTVW84SE1KdHptdF92OEVpdUt1QjFNc1VJYUE1V1NkbWRUSXh1dGpINnJkRjdNNjluOVZfN2M2ZG94enB1ckFYM25sRHZDM0xrTDNTd0VqX0lQVDBTbGl5dkFpZ3l4dFhMSzM3WE93NjVuZ09ZMVN3c2dLN3FSMWExUVZ5NnNxb21NSzZ2U2xlamJoLUNPRU9YMHFJRjgzRW1KNXVhWDBuNWIzRFB5S2tPYVp2Q05QbTBPSjJBUE1OMnNNRmZFc3kwMWFtWVV6UjMtVmN3WVh6ZUZWcDJ0SXl5QjhRMmdDMFhHSTV4MDFPRmFCQS1FcWViRnA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-09-23",
       "headline": "Caliway's CBL-514 meets Phase 2 primary endpoint in Dercum's disease with significant pain reduction - Dealroom.co",
       "source": "Dealroom.co",
@@ -960,8 +1026,8 @@
     },
     {
       "date": "2026-09-23",
-      "headline": "Amgen's Dazodalibep Meets Primary Endpoint in Phase 3 Sjögren's Trial - BioPharm International",
-      "source": "BioPharm International",
+      "headline": "Amgen's Dazodalibep Meets Primary Endpoint in Phase 3 Sjögren's Trial - biopharminternational.com",
+      "source": "biopharminternational.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQm5wOFFTeE9aZjg2azRNdVNHTWNJV0g4R2dfcEVScWFuUGxSdlZ3R0thTHJqWWNxNC1yLTdHZG9rQWNPd19tWFcxN2lUQUZNdUZGeE1zWVpGcEJ2d3BkRFV2TTlWSHYzWVdBTm9wSHV1VmdJY0JKTXpTdjdhelFzSVdadEMzNmxJYlV0OVBmT2p2QTFyQnh0V1lsbjIxYjRQa1E?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -1279,8 +1345,8 @@
     },
     {
       "date": "2026-09-22",
-      "headline": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR DAZODALIBEP IN MODERATE-TO-SEVERE SYSTEMIC SJÖGREN'S DISEASE - Amgen",
-      "source": "Amgen",
+      "headline": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR DAZODALIBEP IN MODERATE-TO-SEVERE SYSTEMIC SJÖGREN'S DISEASE - amgen.com",
+      "source": "amgen.com",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSHh6ZEExVXFEZHYyVnB3TTFwRnctZ2RqRVpBd0xGSFlVWnlxZDctUU9LN2hSVURzSkYtMHN3dVM0V1V1eU5rcnJpVE1Gek96QmlvU0I0N2Z2c2s0emtOOFBSX3NSa2RCZmthRlVkR2pOb0U3eWRRc0JDYWd4X05CanVwdkFtUkpqc1AxT3JtNU5lZGd6YjR4UDRlWHhzZE9fZkpWTU4tNVhrWlZmX3B5ZFdwdDVlRndJODE5dGdQSnlqV2p3OFdhRlNqMm9Za19hMlJENEVVaXVKSW9Wbm1IeHFDV0VaMVRUdkhoa01oNlFhdHloZWc?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -2682,72 +2748,6 @@
       "outcome": "Readout",
       "phase": "Phase 2",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-09",
-      "headline": "An Inhaled Drug Cut Lung Vessel Resistance 56 Percent More Than Placebo in a Midstage Trial - Medical Daily",
-      "source": "Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1NJZjduN1lqdjJPQVR6aEIwbWJXalpSTy1uNERBRGMzZDJ3a2hrY2ZDaFJFb0JGcmdrSkNsdXVTUURWTngwRm5tckpydVJqcTNqRkdVN0JZUXRJd1A5UUNmZHhHUGtXOHZyb0tET2FnNXJfNFhnX2JIY1VfUUREZFVadw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-09",
-      "headline": "Kelun-Biotech's Partner Windward Bio Announces Positive Phase 2 Results of SKB378/WIN378 in Asthma, and Initiates Phase 3 Study - Macau Business",
-      "source": "Macau Business",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ2ZPeXBzdkpyQ3FHMmpiaXBPMENod2VrWTQ2SDNVdEFCRmIzSmdRWGg4VjVOYlJhOTkxcXNaYXFHQkFfRkFRQzM0a2Y5Q0ZYY3dMVzBvcmZDSmFIc3hDZnA4RHR5bDBiT1FDTld4Y1djZTFHQlJSWU1NREdBZzVoMXI3aFA0Mk9xZUFPdjN1UmM3MjBZeVUxSEUxRDdwYnF1M0NJUHUwZm1KNEljNmJWdGNfZDdvX2cyU1dDZUU2b3pEX29IdVBfMGNEYVhWUzRhVFRwWnU0c0E3MmtHOU9wTHczRDJnOXFzWUZ3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-09",
-      "headline": "Evommune Halts Atopic Dermatitis Program Following Trial Failure - Benzinga",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2RsRWd0YzRKcjhUWjFRWk5Wd0hnd0pHWDAxOGpKY2QwdzBaZ2NpZGVKRTRuV1dCRXpLZ1BpZzNSWjlrREpVQm1iOXBYVHJHNk00UmtBOFpxZWZiemE3ZUVhakpzcGZQNEltR284c3lrWnNWRDVLdVRsc19NdE15c3JlaVRQWUlqeEg3b29aSTNsZnZJMDZCakItVjdwZHdocWktRF9uYlZHTDdId2tCMmNzbTgxam9QUGNVMlZMMjZMS1E?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-09",
-      "headline": "Tenax Phase 3 LEVEL Trial Misses Primary Endpoint in PH-HFpEF Patients - Minichart",
-      "source": "Minichart",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1FiNmZFTHFiS0ZIVS0zNXdhemhHeEhGZGpaR1pLb0pjYmFXWGY1aWsxWEJ4N0dBVGdBWjd2QndPQ0l3UWwwQjAzM0hCNElncWFhWWZUcWd0VXJWRlFXbnZHZ0tJVVBHUDZfXzdDTDg3MFI3SFhFMFE5QjNjYW9iOUlqbXhQLTRlNnNQcW9rcHp5YTluTnIwNkIzdVpMMGpDTFFOYnVmZ0hHVFFQbFFxZQ?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-09",
-      "headline": "Brainomix, Endeavor BioMedicines Present Positive AI Imaging Results in IPF Clinical Trial - Imaging Technology News",
-      "source": "Imaging Technology News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUEzM0VHN05UaUQyYXAxTXVBYVJ1VGthMFhwbjk4WWtHOEdjbDd3QzBUSVRwT2FhOWZTajVhb1lmODFnS3NyaFdLeFI0clFEUnpONWIzVE9oNlUwR19xNWRvS3Ftd1dvdWZXZVU2SXN4QXMtNjVVRjJNWW9EQXJOWGk5YTJGOERGa2xBWHZKMXM4cTEwTDR6S2h4VlQ0VVpraGpDQVd5SGRZTFJ3NmxCZWhOUWphaXN1MmJaQw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-09",
-      "headline": "Novartis's Del-Desiran Misses Primary Endpoint in Phase 3 DM1 Trial - BioPharm International",
-      "source": "BioPharm International",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlV5cjFsMkdyQnpVTkUtN0tKdWNmZGYtZDdhOWtsQmhjRmxpYjRQUjVDUHBrMFpveFhhbkVaaFFmSXYtanoxdVFGLV9jaWRYeGtvOXlkYlBkRC0wZ0t0SUdnYXNFYkFOWXRPdE5UeXB1czh3ellvMmxJMWt4Y0Q3SWN2SFR3YllQNnN5T3oydDlBSldmNFNUd0MzRFJuSTBK?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
       "target": "",
       "moa": ""
     }
