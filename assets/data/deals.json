@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-02T12:28:57+00:00",
+  "generated": "2026-10-03T11:36:56+00:00",
   "deals": [
+    {
+      "date": "2026-10-03",
+      "headline": "Eli Lilly’s best-ever weight loss data; Sanofi, Regeneron re-up for $1B upfront; and more",
+      "source": "",
+      "link": "https://endpoints.news/eli-lillys-best-ever-weight-loss-data-sanofi-regeneron-re-up-for-1b-upfront-and-more/",
+      "type": "Deal",
+      "value": "$1B",
+      "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-02",
       "headline": "Denmark: Samfara completes acquisition of Chr Olesen Synthesis - Investors in Healthcare",
@@ -21,6 +32,17 @@
       "value": "$575M",
       "area": "",
       "modality": "mRNA",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-02",
+      "headline": "Summit partners with AstraZeneca and Daiichi; Eccogene earns $50M milestone",
+      "source": "",
+      "link": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
+      "type": "Deal",
+      "value": "$50M",
+      "area": "",
+      "modality": "",
       "stage": ""
     },
     {
@@ -2725,28 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcnBjTEp3ZWtId2xpMy0wekUtSkZOREJuRlFEdUlFaVNPQWVzUmpPNjBlYlM3QmZjU3U5bmVxWlRkREF3bUhMSEx6R2ZuSlJVNV9hcGYtVG9nQS1ZRW5BV05MVUNtdUlKRERSMkl3cjVJbnRqUjVCWFd0a1hKcHRxWHo4NWhLYkt4T2NkRzVhSzE2N3ZuWGNqSk10RlNjNUJuZGc?oc=5",
       "type": "Licensing",
       "value": "$365m",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-06",
-      "headline": "Judge signs off on Teva's $35M settlement over delayed inhaler generics",
-      "source": "",
-      "link": "https://endpoints.news/judge-signs-off-on-tevas-35m-settlement-over-delayed-inhaler-generics/",
-      "type": "Deal",
-      "value": "$35M",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-06",
-      "headline": "Biogen Completes Acquisition of RayThera Inc. - Biogen",
-      "source": "Biogen",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3F0NmVxZmRiQ21CSFlCU0ZiQWxtdEtSd1lwQXVQR2ZnQms5VmNmaWF3YnNkek1ULXhGZ0dqR2RfQ2dtVnd6Zy03ZEt4LVFQLTdsZVZfQTlmUkItMFhDSzhJWUhZQlZGOFNNZGU4ZHFsdm5yR0p5Q2FNNnUwOTJXQ3JTcFlXRWdnUGZwRmdnN3hsTTRTOHIxZ2wwTU8xS3pLRHMxT0praHk?oc=5",
-      "type": "M&A",
-      "value": "",
       "area": "",
       "modality": "",
       "stage": ""
