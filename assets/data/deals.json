@@ -1,6 +1,39 @@
 {
-  "generated": "2026-10-04T12:17:40+00:00",
+  "generated": "2026-10-05T14:31:04+00:00",
   "deals": [
+    {
+      "date": "2026-10-05",
+      "headline": "Orifarm CEO plans aggressive acquisition push: \"People need to know we’re interested\" - medwatch.com",
+      "source": "medwatch.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92QUhMV0lXaU9fYVE1bWxramVNa1FsZWZMdzBHNFdDMlc0TzdSa0NqRkcwajVXT1NNRkJZdXpmWjU5NlEtRnVEX3Jodmd6dUNjNThFS0I2VXJ6bmFxOVdCUmYxQVpWUnRIUjd4QXhPOA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-05",
+      "headline": "Roche enlists Alector in Parkinson's deal, paying $100M upfront",
+      "source": "",
+      "link": "https://endpoints.news/roche-enlists-alector-in-parkinsons-deal-paying-100m-upfront/",
+      "type": "Deal",
+      "value": "$100M",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-05",
+      "headline": "CSL to pay $355M upfront to co-develop Alentis’ kidney and liver drug",
+      "source": "",
+      "link": "https://endpoints.news/csl-to-pay-355m-upfront-to-co-develop-alentis-kidney-and-liver-drug/",
+      "type": "Deal",
+      "value": "$355M",
+      "area": "Renal",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-04",
       "headline": "Aurobindo subsidiary completes US CRDMO acquisition for $15.247 million - scanx.trade",
@@ -14,8 +47,8 @@
     },
     {
       "date": "2026-10-04",
-      "headline": "Aurobindo Pharma completes A1 Biochem CRO acquisition to build integrated CRDMO platform - Dalal Street Investment Journal",
-      "source": "Dalal Street Investment Journal",
+      "headline": "Aurobindo Pharma completes A1 Biochem CRO acquisition to build integrated CRDMO platform - insights.dsij.in",
+      "source": "insights.dsij.in",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjIyZHhDbjVHZjJsUjlGZFFOQ1FQVlFQY1ZtMDVfSFZhSHRETzJVM0U2T1RRZ1k3SFJuQ0lxSzBSdjVYaE5fRjhEcjZJcm9KX0RzdkNEZHgyUTRtVTEzcFQ3dVEwaTk5SE4zWUFRbWhCUEFiN0Nyb3ZXS1BRTDBMby1jYU56T3h0aUtjeDF5Y3VqeHp1T0pONEllYzY1QjFTc0x2ZFdkOHpqc05yUjhHZjBJdmhJT0FJYlc1OExKeXVWQ2pxek42WFIxNA?oc=5",
       "type": "M&A",
       "value": "",
@@ -244,6 +277,17 @@
       "stage": ""
     },
     {
+      "date": "2026-09-30",
+      "headline": "Sun Pharma Eyes Rs 10,000 Crore Bond Sale to Fund Organon Acquisition Loan - Medical Dialogues",
+      "source": "Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTzdnM1JSby1zVm9Fay1fbF92VUh3c2txcGx3cWZUNmxXQ0VUMTNaTml2MjhGRmhwOUdXNmhzTnVuM2NzQVV5UElPcEt1SlpaM3c0a3A3SDhhbjI4eFVMUnhnQmV6R0M4TU8xcFVrVFVmOXpaTnhvblhaUDE0blRKcFByY2FUQldKdGRaeEpBT2pjRFo1dllnWEp6cVVZZWZ0ZFQ5YzFTRmZfMlQ4RHUyQUVwX0VQMlZrMGlnRS1YQmJCd2dCa2NRUtIBzgFBVV95cUxPLThGbDNYMGVCOFZpZFFBMWh0RFFQNFlRQUlTVktNSUtXOFc0Vk9yV3dSbzVyZ29DeFVkX0NkWWQ4ODZmRmtrMkFZc2c0dVRMSWxBUEhQMU04U2RJUHFCNkNBUFpUdGJQUnRiNGRoODZNWWI3VjFsNzZPd2xOb0dNdTM5UzZua1RPYnJlWURtRHdfellibXRzeUpMRnd2ajJwWFNKZDlZSHpSbFdnd0J6Tkh4NTdPc2pTRlRwbkhCUFNmai1XVmdaY2ZBYmdyZw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-09-29",
       "headline": "Sun Pharma plans $1 billion rupee debt sale to refinance Organon acquisition loan - Firstpost",
       "source": "Firstpost",
@@ -278,8 +322,8 @@
     },
     {
       "date": "2026-09-29",
-      "headline": "Novo Inks Weight-Loss Licensing Deal With Hengrui Pharma - wsj.com",
-      "source": "wsj.com",
+      "headline": "Novo Inks Weight-Loss Licensing Deal With Hengrui Pharma - WSJ",
+      "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFZ4cHU5M2MxVFp3NzhRaGRRSEZDQVAyZEVSRTVtWDBhUWNmdXM3SWhxTS1SS05Uc3ZPcHFMMHYtbXNVNVo1RUJtNnE4bGRiWVFJZ3NsdXJhcEM3Q0RIc183bmFrLTRnbTFXNG9xNmdzdVVoclZDd0pOLVZvbGY0QlFQdnJHSUswNEV4MHVxU3prcTFVUWdiZGFqU3BfRmgt?oc=5",
       "type": "Licensing",
       "value": "",
@@ -311,8 +355,8 @@
     },
     {
       "date": "2026-09-29",
-      "headline": "Philadelphia biotech firm signs second licensing deal as it pursues $80M in funding - bizjournals.com",
-      "source": "bizjournals.com",
+      "headline": "Philadelphia biotech firm signs second licensing deal as it pursues $80M in funding - The Business Journals",
+      "source": "The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmVHRW5kRHlfQ3dCT25iVGdIQWktQXZBbGRUTXB3SmZqTTBtVk1rTl9MdV9BZTcxcGs1Ynh4bXpwcVEzSDVTcXZ0VFNWM3dDYzRxY0xEZDlBLXZPdlkzb2kwOFNqN05vLUpxdVE4WUlIX2xLOGcxLUlkQmRfcnFDbk5USjhQS01ubDJZOVh6WkQ3eVlBYU9TTkszTkNGUDBreVNxX25OOVFpaEtvb2NfLTZB?oc=5",
       "type": "Licensing",
       "value": "$80M",
@@ -2104,8 +2148,8 @@
     },
     {
       "date": "2026-08-20",
-      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
-      "source": "Generics and Biosimilars Initiative",
+      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - gabionline.net",
+      "source": "gabionline.net",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFY5d3ptSTZGUGVRRjJkSlVlR25pbXVHQUE1cDUtUGVzREp1NEd3bUNUeG1GOTFXeU54OHA2X3pmRE5vYzFyaHJZRHQyME11SEdtNnlwNXNzWUotYzZNYUJFNmgyRVV1TWYwc04yY01UV1Uya0dIVF85OGZLRWQyNUVtNEpnSktRWWFRZHdMUlBOUjF4LWZnNTMyYkJuM1hlMmN4T1dXS2lmWDltazNGYmlnaw?oc=5",
       "type": "M&A",
       "value": "$11.75bn",
@@ -2313,8 +2357,8 @@
     },
     {
       "date": "2026-08-18",
-      "headline": "Latham Watkins Advises LEO Pharma in Acquisition of Worldwide Rights to MC1R Agonist Dersimelagon - Latham & Watkins LLP",
-      "source": "Latham & Watkins LLP",
+      "headline": "Latham Watkins Advises LEO Pharma in Acquisition of Worldwide Rights to MC1R Agonist Dersimelagon - lw.com",
+      "source": "lw.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1U4LVlueEdzNXZ5U185OFlkQUpsdFNzMUhaT0owcEVyeXVta2UzMU9IU3FBVk5ULUhMRzZUbVBldkU5ZHdDazZpR0FpVXBwdzI4aXJ4LXVmX3VveGFkd0hsOGV3b0M3b1VLNnpYZWJ5blBhUkFYekhUSExPY2tLMlRTSENicnpQYlRCNXhDY3FUQ0M0ckhKT0FlVVNGbjEyV1k4MUlLaVJkVVh6ZmRGNmRTOTIycW04Tm13VmpFajIxYllJT0dSbTdMaTI?oc=5",
       "type": "M&A",
       "value": "",
@@ -2704,50 +2748,6 @@
       "type": "M&A",
       "value": "$1.3B",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-10",
-      "headline": "Jazz bets on epilepsy again by acquiring Actio for $820M upfront",
-      "source": "",
-      "link": "https://endpoints.news/jazz-bets-on-epilepsy-again-by-acquiring-actio-for-820m-upfront/",
-      "type": "Deal",
-      "value": "$820M",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-10",
-      "headline": "Innate Pharma (NASDAQ: IPHA) secures Sobi deal, $75M upfront and Phase 3 push - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlV4M0Y3RnNfb2NhaDdQel9pMkxsSE9tZUEtUkJZTGZtUzl6XzNVeFdMWndVempCSHZ0MU5DSnBOazNjSWdYWlQ3NlRyNzY4S0xRdkpmSVN3RWpkZHFkeFRMSWYtZm1vUm55ZXV4OTY1RGFjZ3NxUTF0TGVySUNNcWF5RDdOSTlHMy04V19BMWlUNmZySC1UQXh0Smp0RWZjTGF3SkRINGd5NjNOdmhJMURB?oc=5",
-      "type": "Deal",
-      "value": "$75M",
-      "area": "",
-      "modality": "",
-      "stage": "Phase 3"
-    },
-    {
-      "date": "2026-08-07",
-      "headline": "Biogen Completes RayThera Acquisition - Contract Pharma",
-      "source": "Contract Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVktVeFlxM2dXc3BoZ2RzcVc2M3dnZ1o2a05KT3hPb25WQXZ4NG5KSDdna1hUYXJjSnJBc3l4VE5fUlJ4ZmJzdkZQanZScTdnUzJMeUZ5a1hnTnhVdWRTY3JlVFZLamJ6aE1UUGJVLW1HVXdJU3dVWmZrT2VXakkwQllXeC1ocTdENVF3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-07",
-      "headline": "BioMarin bins rare disease asset from Inozyme acquisition - FirstWord Pharma",
-      "source": "FirstWord Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5waWNSMHdFbVRCR09PZnlhNF94ZEVOM3F1V3BjR2JqeEdkc0R6S3l0cFlDMlRPMHJvOUpnVkhnM05nZWEzOW9Sa3BickR3VWs3akx3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Rare disease",
       "modality": "",
       "stage": ""
     }
