@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-05T17:04:28+00:00",
+  "generated": "2026-10-06T15:01:00+00:00",
   "items": [
+    {
+      "date": "2026-10-06",
+      "headline": "Paris-based WhiteLab Genomics raises €23.2 million to accelerate AI-driven genomic medicine development - EU-Startups",
+      "source": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeWctX0p5SEtRNHpwQlpscGNpRFR6Rl95NC1BOGY2ZnpkeW0zSzk1MEwxQjBUemtzX2JmT0dsTjFEME9uRlVtR045TXpCMEdkT2hlNnZfMVlyUWF0M2Vsc0F5bjA2UnRmWGY5RkhXc3JPdWplaGZRRVFHa0pKVGVRRVBwREFDNGp6Rjlab1dNREZnQkFHejRVLUJfcXk0QTU1N0kyWVhBTUgyTHJtZzBFekctd2RaRGx4bzJBVlRXa3hHTldsR1hNWFBWSDFjc21XZ093QXVqbw?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-10-04",
+      "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-10-02",
       "headline": "Immunotherapy startup Adecto blames ‘risk-averse funding environment’ for closing down - Fierce Biotech",
@@ -10,8 +24,8 @@
     },
     {
       "date": "2026-09-30",
-      "headline": "Skoltech-Born Startup Ligand Pro Unveils AI Platform For Drug Molecule Development - business.scoop.co.nz",
-      "source": "business.scoop.co.nz",
+      "headline": "Skoltech-Born Startup Ligand Pro Unveils AI Platform For Drug Molecule Development - Scoop - New Zealand News",
+      "source": "Scoop - New Zealand News",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUU4Yy03Q0VYT2daNUtCVi1FWGV5ck9VNWs4WkhSeDNJNkdRekZtVEY5U2tNcWJEb0FUbTBqd2dJSEI4cjF6ZnZhanFOVkZWTW1YQ0ZDYlFUVWt5d1VhelFlUlI1WTQyQksxandscXppZlZmLUdoM2NqQzQ3RldTeVdiekZwVkFCblNlbDM3aHBMQnBxQ1JCS2hueFlVMVZFeVBmdHhYNWIzZ1NWNms1X1c2Zmw4ZUk5MnpJaGxnVjk?oc=5",
       "category": "Launch"
     },
@@ -44,13 +58,6 @@
       "category": "Funding"
     },
     {
-      "date": "2026-09-27",
-      "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
-      "category": "News"
-    },
-    {
       "date": "2026-09-26",
       "headline": "ByteDance’s Anew Labs Emerges With $1.5B Valuation, Stirring New Questions Over AI Drug Discovery - NAI500",
       "source": "NAI500",
@@ -66,8 +73,8 @@
     },
     {
       "date": "2026-09-24",
-      "headline": "Richmond biotech company feels pressure over NIH grant uncertainty - wric.com",
-      "source": "wric.com",
+      "headline": "Richmond biotech company feels pressure over NIH grant uncertainty - WRIC ABC 8News",
+      "source": "WRIC ABC 8News",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUDZYazd4MHY2Qk5tQUI3YlhyRk5SdWg3V1NQODljNHhnOWlBYlN2QnlQWWcxZGVRMV9hMXRXdTh4ZVR3YnNJekZJa3dwMWZvbm5DMk05VFBYSGpiTnA1eUJZY2dsbnRlcUFlRHNDUWNTblNab3FNekt1bThUNjUwbWR3eUp2bTTSAYwBQVVfeXFMTjBiaENOUjE1NVdKc1ZYYTUyVnA0aU1sckxIQXlRQTlFaTRfVnpHWG1WVkZhZHlLakZScVJXZjN6QUlfTENCY1U4UmdzZ2lVMVdtOEF3ZDk2dFVGWmNqVGlzbGdpYmRBVzRpMHk1S3A1UHh4V1RUb0NtT0dIRXp2eC1rX0I3TTBubzRUMnU?oc=5",
       "category": "News"
     },
@@ -115,15 +122,15 @@
     },
     {
       "date": "2026-09-23",
-      "headline": "Nvidia Backed This AI Drug Startup. AbbVie Just Became a Partner Before Its IPO - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Nvidia Backed This AI Drug Startup. AbbVie Just Became a Partner Before Its IPO - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcC1KU1pJY2o4NWJ2VkNyTWFlZHlpazRrRS0xaENoWm05WTJwTlZMX2M4NmlYc05sT2pESW1RZm5MaU1zTDY5QUZBUUNPSHphMU96bDZIbndmTFZjX1BjVXlvUzUwLWQwVzZLQjA0YV8yRVM2Z0NhV1JZUTRkekRJdzZkYWVzdDc3d1REam5TOXg1MTdJ?oc=5",
       "category": "Partnership"
     },
     {
       "date": "2026-09-23",
-      "headline": "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation - Межа. Новини України.",
-      "source": "Межа. Новини України.",
+      "headline": "Enveda Raises $311 Million as AI Drug Discovery Startup Reaches $2 Billion Valuation - mezha.net",
+      "source": "mezha.net",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJcDF6S0g4c3RPdVd1UFk1dkFJTl9TbWlCcjRGNW9vNWpIOEtYc3E5LW5NUjBLRTBXVDVyaTY5a09QRGd6RmlyVDMyVzZiTURQOG9TZUJwZmloUXlNVEpCcVRibDU0Zw?oc=5",
       "category": "Funding"
     },
@@ -157,8 +164,8 @@
     },
     {
       "date": "2026-09-21",
-      "headline": "AI Drug Discovery Startup Iambic Therapeutics Files for IPO - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "AI Drug Discovery Startup Iambic Therapeutics Files for IPO - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPckpKWGd3NC1Ndkk1alloTXAyZDZxWDYwaHg3bG9IODJJalJmRGJNY3FxYzdVUHEtalRUUVFoaGdDeE9tYlpBbVZZaHpmeHFOd0tCMlVWczBONWNzbTNpSTBYUjY4SDQ0YW1GQkFxZWs2NmdMNklNeDdFS25SOW9lVW5KbGhMTFlnM2ZHQlhsak9rbEljSmxHaw?oc=5",
       "category": "Breakthrough"
     },
@@ -213,8 +220,8 @@
     },
     {
       "date": "2026-09-17",
-      "headline": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - med.stanford.edu",
-      "source": "med.stanford.edu",
+      "headline": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - Stanford Medicine",
+      "source": "Stanford Medicine",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnFHYlZsNzYwS2NwYWtleUtJSC13SUJCTlJQelk4ZFd2OHEydmdPQjB5R2F0ZXl4UWhYS2pjc213S3RPemJaUWQ3bHlGQzlRZlFENUhjZ3hDelBmOGtTbFRfTXlqVHpSSzJnRVl0UXFWMUl6ZXpSd1B3OTU4NnFRMA?oc=5",
       "category": "Breakthrough"
     },
@@ -500,8 +507,8 @@
     },
     {
       "date": "2026-08-25",
-      "headline": "Breakthrough diabetes biotech Immunobiota looks to raise $5 million Seed for clinical trials - Startup Daily",
-      "source": "Startup Daily",
+      "headline": "Breakthrough diabetes biotech Immunobiota looks to raise $5 million Seed for clinical trials - startupdaily.net",
+      "source": "startupdaily.net",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR09LdkwxRm1lTmFoeUFyNlhNRWdOOEZndTBUNnZkWnZqQVhYTzB6YjZ1MWNvOWhhU3FjaFRYVnFKMF9nX2diQnl6eWZ5ejNtbG1UR3JoN0Q5VkpoNUhNNWtVSGxQczhJMUQyX1FSWS13aWhHOUU3WUxzNkozcmFSUkVyUFllZ0xyMm1TM2kwS2RTcklndWNTbHIyZnNIUm1xRnRHb2M3bm5kQVI1ajFrRXZwWVBQb0NBWUpuRjVjMTZCMlZ3MlFvQy1LQ2tTY2hs?oc=5",
       "category": "Funding"
     },
@@ -556,8 +563,8 @@
     },
     {
       "date": "2026-08-22",
-      "headline": "Lady Gaga’s partner launches AI biotech to develop new cosmetic ingredients - bgnes.com",
-      "source": "bgnes.com",
+      "headline": "Lady Gaga’s partner launches AI biotech to develop new cosmetic ingredients - BGNES",
+      "source": "BGNES",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3V4dDlSZGpDYm1ZOC1OeWZXYU5QT3AzbXpLNWZMQkZ0UjJLbDZlOGpUX1JZTVFXbGEwOUY0ZklrNWQzYkRDUndUOTdXb1dTNXdKRkk3bHVXQWFyc2lCRnZRcXZCMDhRVzNlWU1jbGpTUVZtcGM2cUxvR0ZQZmJqNDNvcnAwTnBGYmdWWHV3NzdlbU9NLUk3WE1Za1RWYXFVUFlzZHIzMS1tQm5DT1ZQaQ?oc=5",
       "category": "Launch"
     },
@@ -640,8 +647,8 @@
     },
     {
       "date": "2026-08-13",
-      "headline": "6 startups score $13.5 million from biotech grants fund CUREator+ - Startup Daily",
-      "source": "Startup Daily",
+      "headline": "6 startups score $13.5 million from biotech grants fund CUREator+ - startupdaily.net",
+      "source": "startupdaily.net",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdndaZVB6VzBkSUdOaFJKTDNxb3dHWUdiOFdtZnhCNzg0bFdubnd1VU9GSmxrYi1tRkdyM3lqT2ViR3BaWWNnUURUdU5DaXhKU3NZM19Nak5UVWhjNVBGZjY3ZzIxRGlfbXBBaWU3cmtqX2E0RHB2ZG5XRE81aXNEamZyRFlaUUJveWRISXgteXljVUh0VkdNbWF5c091T1hleDBHZTJPY2ZTZ0k?oc=5",
       "category": "Funding"
     },
@@ -780,8 +787,8 @@
     },
     {
       "date": "2026-08-05",
-      "headline": "4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup - WIRED",
-      "source": "WIRED",
+      "headline": "4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup - wired.com",
+      "source": "wired.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3Z2N1RDJQR21MdHE5UE82NWt5akZEbE1nSWotc0V5SUtiUDRLeUVuVEdabEU3TUUzM3BhaE9tOEc3Z08tcDV6MFAxZG80NkMtN0QtNWJCSm1OVzdkWXFCLTMwR29NeWdkcFFSbzJVaHNib3pyWW00?oc=5",
       "category": "Launch"
     },
@@ -871,8 +878,8 @@
     },
     {
       "date": "2026-07-28",
-      "headline": "Bayer opens global innovation network to Korean biotech startups - koreabiomed.com",
-      "source": "koreabiomed.com",
+      "headline": "Bayer opens global innovation network to Korean biotech startups - Korea Biomedical Review",
+      "source": "Korea Biomedical Review",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1henEybHhVbjJERTZ3M0RXZ1JGdl8xZXR1X1ZieFJaTjVlZzZKRXo2UDI3MDFmVDFzTjJXam4tMlhWSW10a0tEZFJFVVZNMmxGVUhXU0Z5bjFZWEVGajQwV3hGSXhEOFVza1M5RnpB0gFyQVVfeXFMT0VmVkFoMEJMVUF6SEpudVlxaFFYc1VZUjByUU9wcDNQMExZcHVlUk9BQ3h5dEF1WTNrcGZxYXl3LWpmZVdQdjhhRGRPbk93bVk3OFNoU3p5RUZtTUFyRGdiaFMwWnF5MTdKYVFxaXVwZTNB?oc=5",
       "category": "News"
     },
@@ -934,15 +941,15 @@
     },
     {
       "date": "2026-07-23",
-      "headline": "AI biotech startup Cheiron launches $8 million seed round - The Korea News Plus",
-      "source": "The Korea News Plus",
+      "headline": "AI biotech startup Cheiron launches $8 million seed round - newsarticleinsiders.com",
+      "source": "newsarticleinsiders.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRGNKSXhYNVBKa2ZKZnEzVjd3X2UxM2hVaGhaeW0zbXZ1WV9BZmlUSG9uaDVqLXNPUXdOajg1QjZEcWV0RDJwQ09QaW1rYlJVb3dfSVhnMkpjLXhBM01xZHBlTVpkYnVGSEcxa2FQYVJfVUlmU0Q4?oc=5",
       "category": "Funding"
     },
     {
       "date": "2026-07-23",
-      "headline": "Cheiron Raises $8M Seed Round to Advance AI-Native Drug Development Platform - Wowtale",
-      "source": "Wowtale",
+      "headline": "Cheiron Raises $8M Seed Round to Advance AI-Native Drug Development Platform - en.wowtale.net",
+      "source": "en.wowtale.net",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cc3JlMHptQXZIRmcxcDBFRWx6R0dmYXBldUpXRDFkMDREbnc0ZEJNSVBuenZfYmY5X1JNb0YzZzR0aWJnZzhhVzd3ZVZFMWxCVnJ3?oc=5",
       "category": "Funding"
     },
@@ -990,8 +997,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "Revvity to Launch Signals for Startups for Emerging Biotech Companies - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "headline": "Revvity to Launch Signals for Startups for Emerging Biotech Companies - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGxIUDlwd1FVX2lFVTBOT3ZCb05RdmF3SmRjNEI5WFdEZ1hNcGtQZmotUll4Z2VNLTNqUzhfTnFaamxXVmtsRWRubnpJaDdtUmo1d09rNVpqUHlYMVRoWHVBLWN5RkZHYmlrTnFQcktjUG1tOGlzTGIyZDc0NXRaaFY3dE5JcGlkaGtDdW9TR3ljcUF4ZnppeXVIQUdFc0FtZEtz?oc=5",
       "category": "Launch"
     },
@@ -1018,8 +1025,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "Singapore-based biotech startup Tikva Allocell closes $8 M Series A funding round - BioSpectrum Asia",
-      "source": "BioSpectrum Asia",
+      "headline": "Singapore-based biotech startup Tikva Allocell closes $8 M Series A funding round - biospectrumasia.com",
+      "source": "biospectrumasia.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTR3d2RXc1dWbHVDZVAwZDdZRnZGcXpOUmxhbUdTOFlMY1RJeUlheWREQkg1dE1mTmdFLUx4WXlWZTJXTzNLSWRNWWplWTQzY2dCZ3BWNWZaaGh2S0dlNmswTU5vUGNVOENtX2JyOHVxdFhNWmxYM0JkeVVwa1Vyb3g1RmZydWNqYVNfV0c2QkplbFpfbDlHUDFsMGNsT2k0dHYtR1NDaEdnazBqbFg3V0hFcjJmempzYjlybjFtakpDZzhBb2N6NnZ6WQ?oc=5",
       "category": "Funding"
     },
@@ -1179,8 +1186,8 @@
     },
     {
       "date": "2026-07-15",
-      "headline": "OpenAI Researcher Miles Wang Eyes $2B AI Drug Discovery Startup - The Tech Buzz",
-      "source": "The Tech Buzz",
+      "headline": "OpenAI Researcher Miles Wang Eyes $2B AI Drug Discovery Startup - techbuzz.ai",
+      "source": "techbuzz.ai",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWxqSEVPNEdfMzRteE03V2dESFVxM3B3M3ljcllzYV9QMmMtUDhjSUU1NUxmMTNCYWpCQzRMbE41VWxRd3AxOEhvQmU5Um1IeFRoblNJeVhXbU5HVnFRSlhGZHlXVUFBWUs3ZWJmM1NTWDJMb3F1RDV5RWRiRHI5T25LWUpVTTVSbjdia1BVZ29ldUw1OUYtbk9rNA?oc=5",
       "category": "Breakthrough"
     },
@@ -1277,8 +1284,8 @@
     },
     {
       "date": "2026-07-15",
-      "headline": "Miles Wang leaves OpenAI to launch AI drug discovery startup - Межа. Новини України.",
-      "source": "Межа. Новини України.",
+      "headline": "Miles Wang leaves OpenAI to launch AI drug discovery startup - mezha.net",
+      "source": "mezha.net",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MbDZvZlVQYThVb3V4a0lkZmdsd2t0RFdWY3JpbnB6anI1NHVlZHhwaGt2Zmc1QU4tNlBoMDMxdW9ZdndlVllJOWs0bnFrSUhuN3F2dnJadzBhVnhUY0M2MUsxaFQ?oc=5",
       "category": "Launch"
     },
@@ -1396,8 +1403,8 @@
     },
     {
       "date": "2026-07-14",
-      "headline": "European biotech chases record VC funding - PitchBook",
-      "source": "PitchBook",
+      "headline": "European biotech chases record VC funding - pitchbook.com",
+      "source": "pitchbook.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVFmWk5nX1ltYkJpR1ZWZ0FheFFGNDJJcmdnMGVWS3RoUnplb3hST1J6THVtUVlTT25UQ0lEYmNuR2x0UWFoT1pjSnpEbkhEMjRaRDI4VS1FSVV2MDdLU0dqY2lENVFicUJOanNfdUJIOXBtT2xMclF4QW11M1V0S2h2QQ?oc=5",
       "category": "Funding"
     },
@@ -1742,13 +1749,6 @@
       "headline": "Exclusive: The researchers who built AI-generated DNA just raised $50 million to reinvent biology - Fortune",
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWNDSWdrYnNSaXRhNmJBRGtJVzlzQ0J6ckJ6QkNkbnBhb1BLcEZuSVZJclkyR01ONXJoWGh4SjJZTEp4cThkNmVfR2gxR0RocjVrYUpiX0RYR1ZKcVdySHhDckxPOEQtdlVMS1MwcTNWOFZnNUNxb3RWSVFxZzZ4cnBvSFEzLVRHWEVOdGhmeDRIbzVhNVBZTjZxeTBuZWZPYzZDSVRVUEJrN2FBSGh2Vg?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-06-15",
-      "headline": "India's biotech push reaches an inflection point, but funding remains the missing piece - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZzk2UmdDMFNmdHNiN2I4UHZaQW5pMkRJbEt5RWh6RXF5OHVTQnVmb0FLTTFpbkMtY2h2cUR4Z3hQNFhpMVd3MnBSZVdWRnQybmVaUkMtWXVKNjhVZmdicW5Lekg4dkIzb0hDWGZFbzhJOENraEprbDd2VndhNmNUZUc5ek5udzVNajZ4YlNuaHFvRTBSb05Pc0VSakFwUXV3akk2bHNYdnFxUzFMbUZHSzdDV2ZucmpucEhuMkJvR2MwR293Um4zT0pJM2k3TW5rWnNMWWgwczFrbEtvRllEcHhoQTlaTDhtWk4w0gHyAUFVX3lxTE9XdFpFX2lxdzdIMTlwVXhoalYtNEN5LUo4aUd4TERlLXZoUGcwY3VIQ2V1bXQ5WTJ4bjV1WWZlVmt1bVlZcWpEMGN3VkNQU0NpSTluLUpyM0s4a09iczhPS3BPeEpJX1BhRzBvcmZmOU9kOWF2ekEtcHktX3UzSHR2Q2F0U1ZpTDZ2LU5JTGNzMkhaR0dzSzRrdEE5WHJ5WUdBb0pnWWp1QkItYjFUV1hvRDd2WjNkNzV3MDJzLVUwemwzb3EzdVlCZTRKblM5d2Y5YmRPV3RqWTFTcEtGVnhod2V4VDNrU1lsc1otTjBPZUR3?oc=5",
       "category": "Funding"
     }
   ]
