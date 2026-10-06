@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-05T14:31:04+00:00",
+  "generated": "2026-10-06T13:15:29+00:00",
   "deals": [
+    {
+      "date": "2026-10-06",
+      "headline": "Pharma Foods International Co Ltd - Notice Regarding Acquisition Of Shares Of Marine Pro Foods Co., Ltd. (To Make It A Subsidiary) - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaXhDaTdadVlXOTJOaDlSWnRiNW1BV1FNRDB1MWFmSjRXZV9mTExCUnRVMmlRV2poOWlEYnlpTEhHLXAzdEJhYklSem44Mm1Ia2JheW8zTXRuWTRtMWVpRWtCMEtfM3lHc3FjS1VRa2ltUEd3VEozRE4xZURRZ3RKbXR2TXZHTG9PcHk5dnZhVk9od0NwalgyMFM3QVpGcW5MYWVMLXZfRVoxLUxrVkRJNUI5QU1yVU9vLVcyMWxLRHU4elk3QmdheDNva3BaOG55bkF1V3ZRNGluMGhwMHdiXzR2eHNCTF9XLUVKaEJJaWx5b1JMemhTX2Q1VFFYWE1kVGhWcDFfamFKZXd3ZzFlQ1BSTTZEcm5tZ2RCSnJ3?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-05",
       "headline": "Orifarm CEO plans aggressive acquisition push: \"People need to know we’re interested\" - medwatch.com",
@@ -31,6 +42,39 @@
       "type": "Deal",
       "value": "$355M",
       "area": "Renal",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-05",
+      "headline": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVBLWFpqcFRYNkNxV3A3cVU1aUhFdFNwX2VMbXVXZV9XanZxc20ycWpYS2Qyc004UDFHRGJkQlpsZExWV055TUpmREpXMGl0LVh4aS1Lci1HTTZjSG5SbDQzSVhBdXhKTzZ2MU4xejByTHpWZkx6ZGZycVd4V0I2SzlqQlZKWVJMSzVHVVJSdlVJZ1VhQUxsYVJLVGFfeUlxU2VTOEpESUNRTEZtTGtYSDJ5cnRQdVB3aHFWWUE4QmRHTXpvWnRlNHJiZUpJQ2Q0?oc=5",
+      "type": "M&A",
+      "value": "$945 million",
+      "area": "",
+      "modality": "Radiopharma",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-05",
+      "headline": "Germany: Medios completes majority acquisition of API specialist Caelo from founders - Investors in Healthcare",
+      "source": "Investors in Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmNpUUR2X0pPV1BoajZKUnlDTFkwSGVsM0lMYURRMFE3X2NsX1doSzlJaDV2OGNMLTZxSWI0WmxfMnltWktNOWplWjFiZENxRERIZEJzSGtxanh6LUFKd0FWV3RkUzN0cGZEQUg2NlVjc2x3b3dhcFJFd2FiN042U2ZqcldmekhKN3c4MWN4dFlMc29fendxaHM0bTZLMVpnTXluOVJ4Z2d1eV9ldTd6NTF3Y3QwOXl4Y0w3Vl82NFlXd0N3SWRaOWxWSXRWNnl1ckgxQkROY0czYXZoaUE?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-05",
+      "headline": "Alector inks global license deal with Genentech - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVE4dUFxM2xTYWExMVVxMzBncVRYOTd6U2V1V1Bha2hjSXJlc2FHZEl6eE5ETnZJVFlRa0V4enFDT2JpbzZTUG44ZjdLZDg3bjRZdWJCR3lrLUlvLWExb3RXQXUwaENXTGctVWQzQmRGV0JkdjNvbzdULXJyRThDTWFkZHowRUw2cEtPYUhPYVh2bXlHMGww?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -179,8 +223,8 @@
     },
     {
       "date": "2026-10-01",
-      "headline": "Wilson Sonsini Advises SpyGlass Pharma on Acquisition of Advanced Vision Science - Wilson Sonsini",
-      "source": "Wilson Sonsini",
+      "headline": "Wilson Sonsini Advises SpyGlass Pharma on Acquisition of Advanced Vision Science - wsgr.com",
+      "source": "wsgr.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1RzQUZwVnJZY1ViSjR2SGRFazR0Y2tQSHFoV1pBVWV1QkJ1d3Q3Y2Jrdk5GYVY0d19UanVtaVUtelI3dnJHa01yS1Y2NDZmekw1dDk5VmRyb0UwQ21iTkdncDg0N1FJYktkU0tCU2FiWkREM0FxV1R0eWtnM2MybVhiX1oyYmRhNnM1VUtQVXRKeG0ta2NockJubVk0eDRuY01MR0xkTWFWUGJyc21KX1lWNVNPZGFQRGc?oc=5",
       "type": "M&A",
       "value": "",
@@ -245,8 +289,8 @@
     },
     {
       "date": "2026-09-30",
-      "headline": "RPG Life Sciences closes Actis Generics acquisition via pharma subsidiary - Dealroom",
-      "source": "Dealroom",
+      "headline": "RPG Life Sciences closes Actis Generics acquisition via pharma subsidiary - app.dealroom.co",
+      "source": "app.dealroom.co",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFRzZXIwa3BNcndMdlNJc2dfWXJhNC0tNHMyWkdIS3p5bXY3cDdEZ2RMYmRJalNwZWxNWjZuajE5RmdjZWFudmtVWTFoTkdWeWprZXp6YVN4NEU0SnR3WEFLNXlLTlh4UHA3UnNEcE84RngtakVKOWFXaWtWWDdhNmN0TDdiTTN1a3F1c245dHU1em1iMmoxZmlZc3RhS0JvUDRNb0VzakRkWnM?oc=5",
       "type": "M&A",
       "value": "",
@@ -322,8 +366,8 @@
     },
     {
       "date": "2026-09-29",
-      "headline": "Novo Inks Weight-Loss Licensing Deal With Hengrui Pharma - WSJ",
-      "source": "WSJ",
+      "headline": "Novo Inks Weight-Loss Licensing Deal With Hengrui Pharma - wsj.com",
+      "source": "wsj.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFZ4cHU5M2MxVFp3NzhRaGRRSEZDQVAyZEVSRTVtWDBhUWNmdXM3SWhxTS1SS05Uc3ZPcHFMMHYtbXNVNVo1RUJtNnE4bGRiWVFJZ3NsdXJhcEM3Q0RIc183bmFrLTRnbTFXNG9xNmdzdVVoclZDd0pOLVZvbGY0QlFQdnJHSUswNEV4MHVxU3prcTFVUWdiZGFqU3BfRmgt?oc=5",
       "type": "Licensing",
       "value": "",
@@ -405,6 +449,17 @@
       "type": "Licensing",
       "value": "$2.6 billion",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-29",
+      "headline": "Novo signs licensing agreement with Hengrui for oral GLP-1/GIP candidate - Biostock",
+      "source": "Biostock",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNThfN3JQalpGdTRXYXJWQVN0YUFBMlhzYkxCU3dTRkZVeDJiSUxBNXQ1TkpvVGNVZi02VUpaSWpCLS15TzB5NmkwMl9QWW93YTltaG54SGwtZ0Y5MG80VGJWTzR5R3htbHIxR3VZbm9CVFZ6WVFCV1ZiMVJEYU1CbGxLVnJmVlROekMtd25uZXlIRVo5Mi1aYkdHM0lRN2ZmLWZrU3hMMFNtVGs?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Metabolic",
       "modality": "",
       "stage": ""
     },
@@ -2148,8 +2203,8 @@
     },
     {
       "date": "2026-08-20",
-      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - gabionline.net",
-      "source": "gabionline.net",
+      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
+      "source": "Generics and Biosimilars Initiative",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFY5d3ptSTZGUGVRRjJkSlVlR25pbXVHQUE1cDUtUGVzREp1NEd3bUNUeG1GOTFXeU54OHA2X3pmRE5vYzFyaHJZRHQyME11SEdtNnlwNXNzWUotYzZNYUJFNmgyRVV1TWYwc04yY01UV1Uya0dIVF85OGZLRWQyNUVtNEpnSktRWWFRZHdMUlBOUjF4LWZnNTMyYkJuM1hlMmN4T1dXS2lmWDltazNGYmlnaw?oc=5",
       "type": "M&A",
       "value": "$11.75bn",
@@ -2357,8 +2412,8 @@
     },
     {
       "date": "2026-08-18",
-      "headline": "Latham Watkins Advises LEO Pharma in Acquisition of Worldwide Rights to MC1R Agonist Dersimelagon - lw.com",
-      "source": "lw.com",
+      "headline": "Latham Watkins Advises LEO Pharma in Acquisition of Worldwide Rights to MC1R Agonist Dersimelagon - Latham & Watkins LLP",
+      "source": "Latham & Watkins LLP",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1U4LVlueEdzNXZ5U185OFlkQUpsdFNzMUhaT0owcEVyeXVta2UzMU9IU3FBVk5ULUhMRzZUbVBldkU5ZHdDazZpR0FpVXBwdzI4aXJ4LXVmX3VveGFkd0hsOGV3b0M3b1VLNnpYZWJ5blBhUkFYekhUSExPY2tLMlRTSENicnpQYlRCNXhDY3FUQ0M0ckhKT0FlVVNGbjEyV1k4MUlLaVJkVVh6ZmRGNmRTOTIycW04Tm13VmpFajIxYllJT0dSbTdMaTI?oc=5",
       "type": "M&A",
       "value": "",
@@ -2694,61 +2749,6 @@
       "value": "",
       "area": "Infectious",
       "modality": "Vaccine",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-11",
-      "headline": "Lilly paid $2B upfront for vaccine biotechs; Infinimmune raises $75M",
-      "source": "",
-      "link": "https://endpoints.news/lilly-paid-2b-upfront-for-vaccine-biotechs-infinimmune-raises-75m/",
-      "type": "Financing",
-      "value": "$2B",
-      "area": "Immunology",
-      "modality": "Vaccine",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-10",
-      "headline": "Jazz pays $820M to buy Actio, adding clinical-stage asset to orchestra of epilepsy therapies - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNUJHSFhoTVNrR0NyTy1mZllyaTdNYkN1NVVrNGNXSFVOaUdxWDNfd2N6WjZwSVhYR3c1WHFXUTlubXlwbmFYWm9FZ0RvTEZ4cXFpdTg4QUUwbkE0NU1PdUdYZ1k5dUNWbldOcDVUQWwtRTNFbmdZLUE3S2tqZHRZWUpMWUtpTlVJXzJVbWJlS2F3U3U0Ymd3Xzc5VGtaMEw5bTBCbnRR?oc=5",
-      "type": "M&A",
-      "value": "$820M",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-10",
-      "headline": "Jazz Pharma Expands Again in Epilepsy With $820M Actio Bio Acquisition - MedCity News",
-      "source": "MedCity News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUt5YWZ1LVJIempLYlVjdm9xWllYMVNZQjRzOUlaTTgtZ2lLNDlCNmJqWHFJUFc1NjVzMWZZWWlUTzJDNURXbU42WEVrQnFZWFVaRWE1RERVaEJlSkRTTF9HaV9VaGNNbEZrWUE0eHgzOW9jLUt2WXNmZzkyZVRRRTkyY0hPXzUtR0dzVkotYnNXYnRKRzdHOVFralV2dGc3NG1HZnkyUTFwSUxrRGxZ?oc=5",
-      "type": "M&A",
-      "value": "$820M",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-10",
-      "headline": "Jazz builds in epilepsy with $1.3bn Actio acquisition - pharmaphorum",
-      "source": "pharmaphorum",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Y0o4T1NpYk9MMGxneFJQTkxhdS1UWkFZNVhFekJGVk9xVDUybmRNa0RkajF4TTU4RDQwRXdmMmxfVmk4NmtZSEprdjVWcDUwbVB0enpCVDVjaUdqb1JhRVEzd3lROGxHQ0hTbTJfS2k3YUpMM0pucWlUVC0xZw?oc=5",
-      "type": "M&A",
-      "value": "$1.3bn",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-10",
-      "headline": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
-      "source": "",
-      "link": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
-      "type": "M&A",
-      "value": "$1.3B",
-      "area": "Neurology",
-      "modality": "",
       "stage": ""
     }
   ]
