@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-06T13:15:29+00:00",
+  "generated": "2026-10-07T13:17:18+00:00",
   "deals": [
+    {
+      "date": "2026-10-07",
+      "headline": "Asieris signs licensing agreement with Theramex for Cevira - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVp0em5wd3NSYkhTX05iQ1hPQkczU0U3NV9rR0RpaGRyWnJ4Q05HNHUzc1JDbUl0aDJVQkNLY0loSkx4anJmanlEelQxeTh3X2hxel94S0ozd2xtSm15UDhHUHhLN0UzWEJvR0NIQjFqd0ttV1B6ekJONF9qVms4elY5NzAzZVRmOVJpbGtYY2lyazFhT1ZSbWl1MGpWamhPb3hmYg?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-06",
       "headline": "Pharma Foods International Co Ltd - Notice Regarding Acquisition Of Shares Of Marine Pro Foods Co., Ltd. (To Make It A Subsidiary) - TradingView",
@@ -13,9 +24,42 @@
       "stage": ""
     },
     {
+      "date": "2026-10-06",
+      "headline": "Repligen Completes BioLife Solutions Acquisition - Contract Pharma",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbHJmMW04cWVhMUt3UHZXN3ZFeXhZc1RCZXZpSU1VZHpub1JRWlE0bDJfVjBlZHZsYmljaExhTzBLWmt5UFA4djRzNl9ac0Z2RHZpOG5PWTliRGp1aS13WUN3amZJRmV2WG9aWTJBM1R5MFlzM1ZNcEZQMzVZM3J2cFlvSWVLVDdHWDhUTmxLSTZSY1Bza2sybjln?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-06",
+      "headline": "Shionogi Grows Rare Disease Portfolio with $2B IntraBio Acquisition - Genetic Engineering and Biotechnology News",
+      "source": "Genetic Engineering and Biotechnology News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVI4bXUzZFpySlZvdTlfSDdaakhaOXZWQjRzbDFfTWpKampRamFnVHRoZndjQUFoNUpLSHFjb0dSdWNaLTEtV0NENnliQ0thZzJsY3Z0aDhZbnF3c0FhZGhxcHltaTNXLUVfWDVuMi1aTmJrQmR2Ukl2dmh0TmZ6MlZfOGFBU3A5M1Nhemk0amdZaEtHNzFaOHVDUDRTMW42cmJKNUhPWUlrVmMwMDJlVDZJY1M3S2xHZW5LMXA0LWk4UQ?oc=5",
+      "type": "M&A",
+      "value": "$2B",
+      "area": "Rare disease",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-06",
+      "headline": "Shionogi continues rare disease expansion with acquisition of IntraBio - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVk53Sk9HZ3RxUzhmTnM4am01V1VYTjA3bUpuQjJZODcxRzFXaXZHMGlyZU5BOVlhSXRQU1hEamlpN05JVUpENGQtVXNXM1libFhyYWJwaExhQ3JGdC1aLS1sTzd3R1hIWHMyNkVZWk03aHZ2S0ZOWktZOXdiSGtTX0FCZmRzWHA5dV96RHA3ZXd3N2pXODZYaFZXNldHNWJ1MXJTTG1VQXFoY193R2EyMU9LRTI?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Rare disease",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-10-05",
-      "headline": "Orifarm CEO plans aggressive acquisition push: \"People need to know we’re interested\" - medwatch.com",
-      "source": "medwatch.com",
+      "headline": "Orifarm CEO plans aggressive acquisition push: \"People need to know we’re interested\" - MedWatch",
+      "source": "MedWatch",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92QUhMV0lXaU9fYVE1bWxramVNa1FsZWZMdzBHNFdDMlc0TzdSa0NqRkcwajVXT1NNRkJZdXpmWjU5NlEtRnVEX3Jodmd6dUNjNThFS0I2VXJ6bmFxOVdCUmYxQVpWUnRIUjd4QXhPOA?oc=5",
       "type": "M&A",
       "value": "",
@@ -223,8 +267,8 @@
     },
     {
       "date": "2026-10-01",
-      "headline": "Wilson Sonsini Advises SpyGlass Pharma on Acquisition of Advanced Vision Science - wsgr.com",
-      "source": "wsgr.com",
+      "headline": "Wilson Sonsini Advises SpyGlass Pharma on Acquisition of Advanced Vision Science - Wilson Sonsini",
+      "source": "Wilson Sonsini",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT1RzQUZwVnJZY1ViSjR2SGRFazR0Y2tQSHFoV1pBVWV1QkJ1d3Q3Y2Jrdk5GYVY0d19UanVtaVUtelI3dnJHa01yS1Y2NDZmekw1dDk5VmRyb0UwQ21iTkdncDg0N1FJYktkU0tCU2FiWkREM0FxV1R0eWtnM2MybVhiX1oyYmRhNnM1VUtQVXRKeG0ta2NockJubVk0eDRuY01MR0xkTWFWUGJyc21KX1lWNVNPZGFQRGc?oc=5",
       "type": "M&A",
       "value": "",
@@ -289,8 +333,8 @@
     },
     {
       "date": "2026-09-30",
-      "headline": "RPG Life Sciences closes Actis Generics acquisition via pharma subsidiary - app.dealroom.co",
-      "source": "app.dealroom.co",
+      "headline": "RPG Life Sciences closes Actis Generics acquisition via pharma subsidiary - Dealroom",
+      "source": "Dealroom",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFRzZXIwa3BNcndMdlNJc2dfWXJhNC0tNHMyWkdIS3p5bXY3cDdEZ2RMYmRJalNwZWxNWjZuajE5RmdjZWFudmtVWTFoTkdWeWprZXp6YVN4NEU0SnR3WEFLNXlLTlh4UHA3UnNEcE84RngtakVKOWFXaWtWWDdhNmN0TDdiTTN1a3F1c245dHU1em1iMmoxZmlZc3RhS0JvUDRNb0VzakRkWnM?oc=5",
       "type": "M&A",
       "value": "",
@@ -366,8 +410,8 @@
     },
     {
       "date": "2026-09-29",
-      "headline": "Novo Inks Weight-Loss Licensing Deal With Hengrui Pharma - wsj.com",
-      "source": "wsj.com",
+      "headline": "Novo Inks Weight-Loss Licensing Deal With Hengrui Pharma - WSJ",
+      "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWFZ4cHU5M2MxVFp3NzhRaGRRSEZDQVAyZEVSRTVtWDBhUWNmdXM3SWhxTS1SS05Uc3ZPcHFMMHYtbXNVNVo1RUJtNnE4bGRiWVFJZ3NsdXJhcEM3Q0RIc183bmFrLTRnbTFXNG9xNmdzdVVoclZDd0pOLVZvbGY0QlFQdnJHSUswNEV4MHVxU3prcTFVUWdiZGFqU3BfRmgt?oc=5",
       "type": "Licensing",
       "value": "",
@@ -611,6 +655,17 @@
       "headline": "China's InnoCare, Eli Lilly sign collaboration deal worth up to $3.35 billion - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEJSUGNnOFlXSjl3WGVic0dldXZuNDMxVnRfaUhZeEJ4RXR1TUJ1MlB0ZVZPRlVPNFRrbloyem9kV1I0LURGT3lCWjljSTRWNzdfWXpXLVdYVy1qcEhVWDdycEhhNzNyTG9pdnlSamZ4c1R1bjU5QTBVNXFvR3ExaGVURzd1SDJwNjJvaUJhaTFoTGQtYzBuSXdmcEhzWDVQN0RBR016Z2VQV1BXM2JLSUpkRkI5aWRQSnZudmhqQW0?oc=5",
+      "type": "Deal",
+      "value": "$3.35 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-09-24",
+      "headline": "InnoCare and Lilly ink deal worth up to $3.35 billion across five drug targets - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOFRCb1ZMdGVhQWcwUzRBWE5TS1lsbldVYVU1d19iV1o4V3lQc0x6Y1dKc1JqWmNEVmxpcjVWMWl3TzRpNkNNR0VUV1h5Q0pQRmVXWGhQNU0xS09hR294TFdaVU5RWW1KT0RnR0tieHBlcTVkaWRKSG5reWVIU2Q2ODJmVEgyc245MmxPQlBFdEluVVZyX0lLQXB0cksybDJPMjVPakx5bHB1SDF1UERPRTBGOWZPNi1Ubnc5bERVcw?oc=5",
       "type": "Deal",
       "value": "$3.35 billion",
       "area": "",
@@ -2694,61 +2749,6 @@
       "value": "",
       "area": "",
       "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-12",
-      "headline": "The Netherlands: Alfasigma expanding specialty care portfolio and presence in Europe with acquisition of Nordic Group BV - Investors in Healthcare",
-      "source": "Investors in Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNR0hid0JsaHhkOWRiSDdCR0xlTjQzYXBrSlk3ekdPcjNJVFpPRFB3ZmZsVmFzZzZTWHFoZU9uSzhhV0cwY0tfRmJhMHgtemVvdkFWWFB1LThtUUFmbk9WZTNPMmNLdHVfR3R2QkpTeFBjT2RJS0RvOUtNN3M4Q3RwWHdGOU5RdDNkU3oxSjFLUlJ0UkhUMXUyUnpvVG5JbUg3ZXRUQ2RZWXlrbm10THJVUUhzVUx0a1hHWVFac0F3Q2lYRUgtWEVxYnFSV2NxZjJrTHZ5ajZLUnhsSkNaS2RscW5VR01TNTM1Q2lQbG5fZHBKaWtNRFE3WV9Td0FHTWNHeXh2TTBoV2lZNDJVV2c?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-12",
-      "headline": "Zydus' subsidiary inks optional licensing agreement with Mereo BioPharma for rare respiratory drug - ETPharma.com",
-      "source": "ETPharma.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVnQ0YWxwWHl1MDBWa1FKYUhSQ1I0d1lQNUx1c2xCOWlUaGFmNENMNlZ4YTBrUENFaFJCdmczVEFaUDlzdWQxWS1UZjNDVllENlctS1VxY3JrZm42VFJGTFJVMDVuczhMczNMdzJjMlFtUnJrSnZEWlF3b3VLalhBNkhLbXgtRmxJNmRKVHUyUDJablMyUWltdU1wcXFTQzlfM2g3QU4tcmRSLXFWVjZDcFVxZjJhTGRHTWZEdlhKS1VucG00QmYtR2lpSmkxN19xZHAyM0lwZUJObGZPRl95ZXZSMmlFYmlpaWNEVF9LbmFGVW5RRWZrLWJtdmFSbVRpVUHSAYcCQVVfeXFMTWh3Rm5OODVNVzBweHczbGNldV9SdG5nZ3M5ZVR3eV9nN0J2UjZxQzl5aUZsTlhUSVBldWRBYXd0T1djUlUzLVI0dU9YYXdBLWRvNFRzNUFHdzRCVFFDa1VsWWhIM2dJcl9rSWViUlA0MzQtOE9ycWdKRjZuOGlqVXNfVUNabmJ3SGRXc0R1NXR3WTJfbVpuQURWNDRwaFpOYlNXblJEVWJLVFEyMGttWE5BWG5mX1VuRnR2Y0ZmeW9aRUw0SHRCT1pWblZORkkxajBXbGcxNGdESXQxWFc3T1dIOU16M2JtUHItdlZyMmVIc01lSEl4RmFtbUpNdTlVWG1heUR1bUk?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "Respiratory",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-11",
-      "headline": "Amneal Pharma completes acquisition of Kashiv BioSciences - Pharmabiz.com",
-      "source": "Pharmabiz.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1abl95V21BYUE2amRaa1NEcWd5cGJTUDV1MkRSZHB2ZEhHTk5vNVpOUHlhZ21kTERnLUhHM01Dazk2V19KVnM2REF1aWdpSVByTnNkdTZybFNKbEZoYzVzTTZVVFdjeWZkTlZV?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Infectious",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-11",
-      "headline": "Indegene eyes clinical research acquisition to widen pharma services play - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnNtQjA4bG5aZkp2eE8yMHo4cDlya2E0aTdEcVdtR2pya21DMkpnWUR0c1UtOE5QajF0SlY5SjF3Q1dScU43V1gtZm9OQ1ctN3FSbl80NV93WmdGM2c1dUFjSldnU2hHcC1yOU5yeldjeEh5OU5MNDVfUFBVS3ZpWks3WlBPdFQ5LWR5VVRzazlHbkRGS2JkVk9Tc1cyVTN4SmJJX0RPQ0FOd21BS1ZfaW9SV3R0TGk3TndYc0tkMHNiTjNIc1ZqX0EwUGljZjZ1WmFKb9IB2gFBVV95cUxORldXSWI2c3ZuNURsNXFCOHlWZVpSUEVSRk50Ri1GbnBVUTRrYVZMVExySEd1TjFVQkZobFZKZ2FLUFRhNGdBRlhuamdVbEwwdVRTV01CZC1GU1N0MWpwS1JBbllVMlR6MHRZMDJwNUJQUmhIekdSb0lYTGFaQzV5ak5vc3RiNzdKU1p3eHVDRzhReTdidmRFSHc3b2xCdlRXcjZ4aVhPLWktYldteFZLYl9DUlFWRjFOYS1MdUoxUTVka1FWMXRsWFdSdDhUejVQX1ZXbUhCRGprZw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-11",
-      "headline": "Trump signs order seeking to upend childhood vaccine schedule",
-      "source": "",
-      "link": "https://www.biopharmadive.com/news/trump-executive-order-childhood-vaccine-schedule-autism/827510/",
-      "type": "Deal",
-      "value": "",
-      "area": "Infectious",
-      "modality": "Vaccine",
       "stage": ""
     }
   ]
