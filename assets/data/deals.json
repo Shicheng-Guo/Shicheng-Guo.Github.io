@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T13:17:18+00:00",
+  "generated": "2026-10-08T13:23:59+00:00",
   "deals": [
     {
       "date": "2026-10-07",
@@ -7,6 +7,17 @@
       "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVp0em5wd3NSYkhTX05iQ1hPQkczU0U3NV9rR0RpaGRyWnJ4Q05HNHUzc1JDbUl0aDJVQkNLY0loSkx4anJmanlEelQxeTh3X2hxel94S0ozd2xtSm15UDhHUHhLN0UzWEJvR0NIQjFqd0ttV1B6ekJONF9qVms4elY5NzAzZVRmOVJpbGtYY2lyazFhT1ZSbWl1MGpWamhPb3hmYg?oc=5",
       "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-07",
+      "headline": "Tavexia Lifecare board approves ₹67.19 crore acquisition of Meyonex Pharma - scanx.trade",
+      "source": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWZnUTF0SlFnZERYVjVMR25Ud2VFTkFBMmhVd2taaWNJRVRTX2RGdm1rQUZvRTNZbi1JT3NLRG5TdXVENFl0SUJqbDgtNnFSazRmaXRyUkswb0lEYlVIMUFZV01HYlc3TWlaMkNHZDBJTGwxbFdJYkRhamNHeDV0QUlTb0R5Rk82MTExR0ZwTmtoZy04SVY3T0JuY2RYUzM1NlBmbnRlM3RDWmJtbFNqd3FVR0JxbGlLUXVBWFRyVXowOVg4RXc?oc=5",
+      "type": "M&A",
       "value": "",
       "area": "",
       "modality": "",
@@ -219,6 +230,17 @@
       "value": "$7.8B",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-02",
+      "headline": "Abogen licenses mRNA-encoded T-cell engager to Novartis in deal worth up to $7.8 billion - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVQzcUYwSHhGd0ZTY3dSN0RTVWNILS1oT1puZlF0NEF4UlFLdWxMbFpIRmFicUNwaG9ZTzgtZEZTejJ2b091QXJST2plVFg5SEI1VTVQcGxabEEzcmpLbEJtMkVCTEx6VlBnMmtkUEwtVTk0WGFESVRabm14ejdaaFNLODdWMHpMMnd3X1c1ZWwwNFFjOW9LUnpQQnFKa2RzekpfVUNUSjNpcE43b3Yxbzk4R2FZTnhSOV9qQ2RpV0YxYV8yakNsbWdVOW0?oc=5",
+      "type": "Licensing",
+      "value": "$7.8 billion",
+      "area": "",
+      "modality": "mRNA",
       "stage": ""
     },
     {
@@ -2726,28 +2748,6 @@
       "type": "Licensing",
       "value": "$12m",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-12",
-      "headline": "Amneal Pharma completes $1.1 Bn Kashiv BioSciences buyout - pharma.economictimes.indiatimes.com",
-      "source": "pharma.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ0tyNGJLbjJOOUxLejR6U09kTHlXSm1kc3dyT3c3cHZRcW03dTE3ZWpab3ktUFhMVHp3R0VOV0ZfNElTNFhhX0MycHlaZ28ydTI1N0tzREFjLUo0eUlxV1B3MFM2STZMU3QxTFlwVExTVUFNRXFRMkp1bmlDWnFxYnVqV1l2ODY1TDQtYjhGNEdValh1Y3M1bHFkYnNVUGxBT3IwSkJtRFZKTEN5eFprWE5MN05kU1BwZzBvdWxQOVozOFJwYmhhbG9sODdlUdIB0wFBVV95cUxOR0drcUI4YjlFVEFXdDJtOEhrMmxCTWptNUIyeXAtZEIwc294dGctXzY4a3FzVXBzdE1SQzhkWTJjT0d2SXZqdVZuVkViLWtnZ2N6M1RCcTNQbnpLY2VTbEdSWi1BRDNLcUhHSWppOEFOVVd0dUl1U0JEWFJIM2dyejdfMVcxdktRSWZDbE9Nclo3cEdscy1HYU0zMTNINi1CVmtKTjRQTE5xdDlwXzNROGdnd1JtalhxbmZHbWU4OTNrazZtN2RkWGZPTlhlWmVYdGVz?oc=5",
-      "type": "M&A",
-      "value": "$1.1 Bn",
-      "area": "Infectious",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-12",
-      "headline": "Alfasigma Expands Presence in Europe with Acquisition of Nordic Pharma and the Lacrifill Canalicular Gel - Eyewire+",
-      "source": "Eyewire+",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeHR2SThBVk9MTkd3emtzcUp2enJRakZjQWpibjlPMVNCNDFWNEFRUnlmdlppUnB3d0gxaVVfbFBnb2k0MHdfNzBuNXJCZ1RzXzlZcmVfU1hoWlBVTHpnd0xSbFd4TnF3eXRJX2FMSUFyOFd3M0g4blM2azg3RUxkN25DX3YwTFpmNnBRdnhOWk9FT2thQk5pMXJjYmYtQmp0azJmdFdiSlhJWHRIbDhUZmw2c1hFRVBBV3lobXVtM2FXNWxYSEFjWE1kNA?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
