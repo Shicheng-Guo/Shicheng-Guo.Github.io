@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-08T13:23:59+00:00",
+  "generated": "2026-10-09T13:11:58+00:00",
   "deals": [
+    {
+      "date": "2026-10-09",
+      "headline": "Chai Discovery signs GSK deal to make biologics with AI",
+      "source": "",
+      "link": "https://endpoints.news/chai-discovery-signs-gsk-deal-to-make-biologics-with-ai/",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "argenx's Forte acquisition delivers coeliac trial win - pharmaphorum",
+      "source": "pharmaphorum",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZTBIbE90MGE4MWFzNEJHZW9CWGpsaWl4SHJPZnZoYmdZMVA2cDNSRHVzNDYwMU9TSjhDeFVGQ203SlJXNnN4YzVZOGtSZEcycGRaOGVibmFlNXVLTkNxSEVvV3NxWEhzVEdnOWMwWnV1emY0ZEE3SUpEekF6a3FzQ1dXSEpUN0hTQ1E?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Hepatology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "Ono Pharma inks license agreement with Biohaven - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXBnaVFuZ2hyaUZ4QklYUWtfUWlpd3Ntb3kxRUVaaWNjS05xb1dtQlZyY0pXYmZtZHlaZFZJZ0VNMWZZbHRvd2w4SlJocGQwbVJDOUNQaGRhdXU4YkNOaEc4dXRqbG1FX1RYYmdjbjV4QURybGxwZk8zZ2JQcUh2WTJVeVNOdGlqT0tCQlNSclFJVFN6Q1VZ?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines - STAT",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekc5MzctUXNialBVOVNZQ1UxR0s1VnRIUTdHVlVFaVAwXzEwLVUxUDRqekNaTHR1MGw0N1FkUzFPeHVRbmJZcXVrY0tjd0wzMWMxZTZtMGNMRXJraTc2YXFlSnQyUFU2Q1VkZ0NLdTMxX1RPdlNwSURpQ25NUGZMOUFhMG1ZSmtUUmRCNQ?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "Protein degrader",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
+      "type": "M&A",
+      "value": "$1.7B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "Viatris to make $1.65B Pacira acquisition, adding to momentum in pain",
+      "source": "",
+      "link": "https://endpoints.news/viatris-to-make-1-65b-pacira-acquisition-adding-to-momentum-in-pain/",
+      "type": "M&A",
+      "value": "$1.65B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-07",
       "headline": "Asieris signs licensing agreement with Theramex for Cevira - The Pharma Letter",
@@ -1609,8 +1675,8 @@
     },
     {
       "date": "2026-09-02",
-      "headline": "What the Independent Pharmacy Cooperative Acquisition of USave Pharmacy Group Signals - pharmaceuticalcommerce.com",
-      "source": "pharmaceuticalcommerce.com",
+      "headline": "What the Independent Pharmacy Cooperative Acquisition of USave Pharmacy Group Signals - Pharmaceutical Commerce",
+      "source": "Pharmaceutical Commerce",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGVMTTdsZVVxcEVWUmlteVpiMVcxNndBcGVVMXdGb2FJbGFyYV9Sbm9TN2ZRZmxLVkVfak91S0NaSGVydUcxRWJFalJ1QkRJbFhYSmJYZ001QzZQRkhuQXoya05OQXRhalYyd2FNSjNjemZmQjBMXy01STJRT0UwdG1yOA?oc=5",
       "type": "M&A",
       "value": "",
@@ -2682,72 +2748,6 @@
       "type": "M&A",
       "value": "$9.1 billion",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-17",
-      "headline": "Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition - STAT",
-      "source": "STAT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYWFvZmhnZDhvNG1tVEJVQ0pJM296OVRrNGg1VHBDanlKZVpIM05oT3llR21jUnVUeXlUNi12RDEzVGtIQXhQVlZoRHAwSGd3eDQ5OVNsME5IOW9wTzRwc1lad19nT21QT0lLSmk4MDVJMVpGWGpNRnkxLUtHLXdOSHh3?oc=5",
-      "type": "M&A",
-      "value": "$9.1B",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-14",
-      "headline": "SKYE: Terminated nimacimab R&D, pursuing Redx Pharma acquisition, facing liquidity and Nasdaq risks - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONkhRZ05xWEdlSllDNFB0ZGtSRHhZSTBIeGtHMFRnUW5RTU44NXBvUnVHRUk2dXRKOGNXX2V4X2xFRXFMTUlyWG9Gb2JQeEdIcnV4eDZUOHNtUmZvenJlN3RfUzJVWXloRFJkejl0YU9jTEc4dk11eUhQU0J6QTM3eWZ2LVl5blBBeHlobjBnaGdfNGVLQ0Mwelc5VGxhUDlJLVlmckEwNXNyTC1TWjJUTXlfckFhUExYdGJqdVlpTXNhcTZ0WDN0UHR2NjNlTVZrZmpOY3VPS3pDWUxWNHlWUm9BbWd4YlJuQnlZNUllMm1qZnBUSnQ0VU5qTEp5a1U4cy05X0lLaWd2ZHM?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-14",
-      "headline": "Sanofi lays off 229 Blueprint workers following $9.1B acquisition - The Business Journals",
-      "source": "The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGRtWFdtcUVsMVFVZEJ3aUo2X3hRaEE0eGRDaS1mQkJ5UVBsWlhfSUJROHBmV2x4VmVGakREMXk2Um9jSkt5bUwtZklReWloT2YxMkJZVmEyRWI4LXVmdnpGTHpNN2djeVRaZzBWTVM5djVCZFMycXI1SXB0WDZLTnhLbVZyZGRJM3hENGtKa25jQWtUMVJsdkNiZ3NEUkNr?oc=5",
-      "type": "M&A",
-      "value": "$9.1B",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-14",
-      "headline": "Bristol Myers wins ‘milestone’ FDA approval of myeloma drug acquired from Celgene",
-      "source": "",
-      "link": "https://www.biopharmadive.com/news/bristol-myers-zenbexus-fda-multiple-myeloma-celmod-celgene/827912/",
-      "type": "Deal",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": "Approved"
-    },
-    {
-      "date": "2026-08-13",
-      "headline": "PTC Therapeutics, Lilly to buy up bits of Sangamo in bankruptcy auction",
-      "source": "",
-      "link": "https://endpoints.news/ptc-therapeutics-lilly-to-buy-up-bits-of-sangamo-in-bankruptcy-auction/",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-13",
-      "headline": "AlzeCure receives $12m upfront as NeuroRestore Alzheimer's platform licensing deal with QuantumCell closes - Manufacturing Chemist",
-      "source": "Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNODhBdHNSQkQtUnc1M0RyTXowOER6U1lldkVpc0xNcWp5QWNUaFJqWTRkbnlMZ2lsZmJFOHRrZ3BDOFROOXBVYXNUeVM4end1WEgwQUNGbndjb0FTX1JVZ25Nc2Jxb010OVpjcUpJZ3JvaHdsVWVreENNOVpHUW5PRHBvVUFEc0Q1aW9Kb0h1YnVzQTVwVDR5RmU3TDNXWlMy?oc=5",
-      "type": "Licensing",
-      "value": "$12m",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
