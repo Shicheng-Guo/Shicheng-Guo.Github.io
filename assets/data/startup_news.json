@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-08T15:30:58+00:00",
+  "generated": "2026-10-09T15:13:13+00:00",
   "items": [
+    {
+      "date": "2026-10-09",
+      "headline": "This week in charts: What’s driving biotech’s recent pullback? - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObzVWRUdwRWJnRmFmRHg2RWx5czZLRzdJeUh4M0duYXduVlMwQzhWanNLWnVkbzgtZE11NVZtd2RKbS1IZHctbElQYl9yMlRpeTZFMy1QdHRSVUEtdDlTcloyWFlhVFpxZmNXdEVBSzZWUG1ydjl1VGpZT1hKakVOQ0g1VTZ4OEo3U2VWd2thMVR1YXNZZlM4U0JKMjhjTTB3U3pn?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-10-08",
       "headline": "GenScript Launches Life Sciences Startup PitchFest with NVIDIA to Accelerate Biotech Innovation - PA Media",
@@ -30,6 +37,41 @@
       "category": "Launch"
     },
     {
+      "date": "2026-10-08",
+      "headline": "Biotech startups fuel surge in VC deals in Southeast Michigan - Crain's Detroit Business",
+      "source": "Crain's Detroit Business",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2NDdlQza0p5Nk41UVZhak1OSFR3NC1IVERWRXFRQW5TQVp3eHh4aEZESlA5Ml9PSlcxOExDT05jTmN4dWlIOGpIREwzX085T3hxT2FlUWtFSWtRVS1jbS1ST1RxYUVMOEtKa3o0b0VFSmVTaWNVVTdIWFBpVTBfeS1yWVY2QQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "Cambridge biotech startup Neela raises £2.1m to turn waste into aviation fuel - UKTN",
+      "source": "UKTN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjNUS3pQa2lBUC1iWm5Ma2MwNjN4aklPb3pvWmxBeDFKWFIyakdudkZTblFRNkNreHM3NjhxSWZOMFBUU0tlT3c2Zm5fUlgzVUc3eUV4SW5Vc1dxcVJwWnU2UXZQTi0zM2c2ZEJWcjBlS0duY3ptVm0xQnpLZ2VWeUV4Q1NqUnBKbUpSVnpRS3NxbFE2N2J0MDNLVGdOaWo4YldiZno4cU44aWhQODNDYjdicXE3V001?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "GenScript Launches Life Sciences Startup PitchFest with NVIDIA to Accelerate Biotech Innovation - The Malaysian Reserve",
+      "source": "The Malaysian Reserve",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUVAyS01pTnBFajBPa0x5SmJoQWlCeFFfUll5UTJEYmhMb3BvcUp5YzlreFBuMFdDMW55ckxub1g3QUExMk9UblNBZGh1S2Y0LU9sdUIwVlFzWG55MFF6dVhzeXJGd3BrR3V6UGlvdURJTkl3TURvMS1yaThEVWZxY21RdHYteFVnNF9qQnFEZnpNd3B6eEp5ejg4cm51VlN0QjgtbGJ6NXdnaDMxdXpkWTVtY3Q5aU9RcHBiNWgyNDBaZlg3MW1wR0x4R2VWRWNCWERzV2FR?oc=5",
+      "category": "Launch"
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "Biotech company Obatala Sciences launches first east coast operation in Charleston County - WTMA-AM",
+      "source": "WTMA-AM",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHNjSFB0WmpUMEloWE1wVjZhcWl6QldPSmxjVk5OdUpsTnRjN3g1Qlk0eVVROC03b0U2MkIxbFR4QWVla0FTdzJJLWpsVE5ZWXhzbExvVFdWaVIxcXVxQU9UcDJLRXQ4YWlZZlN4SXlFc2hxVXFLcDQ4SmFRVHVsU2M3YjlqNGtwRkFHMHZxVHlWVVhoajA1SFVBMTlkaXVjUkd3S1l5NFR3X2V6UDhOek1Qb3IzeGtqa0pzRy1uaw?oc=5",
+      "category": "Launch"
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "Tetra Pharm founders step down from management to launch new biotech company - MedWatch",
+      "source": "MedWatch",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HQTZTdGV4VzdQS2FtajU3d1N1YmtyY0ZodDl6eUlBQTB2UWV0cEFvaGRNT3plbjV1WFpaUC1DSm5nSkFjVGNxMnc3TlRvZ3YwcVdVRWltREFlOWdSbmUyNC1TUUVrUzJmNkUwRUtIRQ?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2026-10-07",
       "headline": "France's Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure - EU-Startups",
       "source": "EU-Startups",
@@ -49,13 +91,6 @@
       "source": "BioPharma Dive",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFlDaGREZ0szOUNZSzZOMF9sSXJ2TlFPdmQyQXRoNlNoR28wcXg0SXEyVjk3ZWllRE5pb3pZTXNQVU1OQTgyb1ZzUThPNk92aFFLTmtDbmpTcHFoNU1YdDFfVWw3V1Bya0NpREhTR1hmYkprUl9vdExPVnZOUXJrYjlhVjNhMnhjZHdxeEd1TVNRUQ?oc=5",
       "category": "Funding"
-    },
-    {
-      "date": "2026-10-06",
-      "headline": "Fierce Biotech Fundraising Tracker '26: KymaThera corrals $80M; RougeTx lifts off with $58M - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
-      "category": "News"
     },
     {
       "date": "2026-10-04",
@@ -388,8 +423,8 @@
     },
     {
       "date": "2026-09-04",
-      "headline": "Centre launches BIO-NIVESH to catalyze investment, scale-up biotech innovations - medicalbuyer.co.in",
-      "source": "medicalbuyer.co.in",
+      "headline": "Centre launches BIO-NIVESH to catalyze investment, scale-up biotech innovations - Medical Buyer",
+      "source": "Medical Buyer",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0pESUU1VXpjd2JJS0N0UFZQY1pNbXYwOW5kUlRkbUZxWjhLbXkyR0I4MGxMSjZzVWlNbVpsdXdzT2U3VEdpQkR5R0c2ZkV0UUFRTi05ei1XZ3hpclFNSGdRRlk3Vk52Y3JWWTloVTZGSGNvYUNycXc3TEpKbkRUWUhNTjEyMTJjOVFwa0d5cHE3OEVObEw1OUp0TmZIdnRONFJyVncxRTIxUQ?oc=5",
       "category": "Funding"
     },
@@ -1715,41 +1750,6 @@
       "source": "Tech Times",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSDlxdzQta01ESTB0NzVhbFo5dXB4S3g3akpldERPSHlTYzhXdGZ5cHhWU3R6ek11THRpLWdHc0ZLaHFFODBZV05QMkIyV1JMRENpMkFzWS1DSTQwejdKUmI2azF1YVJ0TTFqcUUwaUs4OVB1bFBDcnRYS2psek1mbUJ5Q3V1TUg1SElka3h3WjdIekFrZXZLdklUUVZzQVZ1NTBCa010emNIdHJfQ3BKM1B4cGhLaV9Cc3piU3pTeml5TDdlbmpMakhR?oc=5",
       "category": "Launch"
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "Biotech startup ChemT raises fresh funds to make biomanufacturing more efficient - BackScoop",
-      "source": "BackScoop",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzF5aEczUW9LdU1MM0NzTjVZc3kzUXkyUlp1R25rRUN1bUlXWHdLc0U2bjZabk45SkRJUThOblFHRkR6TlNCbzhyRUF2enkyQktzQXR2RktMai15NHg2NEh0U0FjOUN1ekxfbXpuenFSTEJLQWpZTndoSmRQZXJmakRmbzdQVllFaHZWcF9LaW0waVNPcWdoblk1LXV1YnNPN2NMM2dIaTJ0OE9qNy03Qg?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Insilico Medicine signs a $2.5 billion AI drug discovery deal with SK Biopharmaceuticals for neuroimmune disorders - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanp3dUhIM2hlZTZ4SHdZRDdJaE1YT1pVT1Rtc20zcjRTT3VwTXJZRnZlb0pDQWdrLW9TVGtpYjk3dDJQQkhMdXhiQzZtMkY0TWxDNjdQUFZPbS1kbGpZWk5XeFY3SExmTHMtTVRkSURGa3ZmYy1XbVV6ZFJXTVd1QmlJR2MySGZnT0wtenZEWURvdUh5aThEcENDYXY3dFRGSmtQV0QtSjlzbDRlbjkwamZYSElKOEpiN0dDdDV1RVVGdkh3NXdESnZrSC1EUnNvd1RBN1RFYw?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Insilico lands backloaded $2.5B AI deal with SK Biopharm - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2VoSHF4djd5YnE5VUZxRFVCUnp5Vm9Xc3BuNllmUFl4cmpsNlp3Z04xSVJkby1wUWRNaWh2OHJaTV9TTkRzWWV2aVEzVEt5blo4eHJ6cE56RUowelRDNUlzRkllVHpiWHZjOU5SWXJPNlNBX1Z3ZHJYT2gtSEdYM3JkeG9uS2F1eGV1SjBnZUZmYWdYWmxxeFJUWFRUdTAzQ2dMZXNUdmFDYkt3eUJR?oc=5",
-      "category": "Partnership"
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Insilico’s AI design engine bags deal with Korean biotech worth possible $2.5B+ - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGozckdqck1zNzJNTi1pcnRWSW11VWg3S1Zfd0VoWW9JVS1xYVYydnNCcFVveFNhdzZQV0JhZ00wd0doQi1uVG9TNFlvVlZ6M2lQWkZONlJtbHZ1QWJKM1JmTE44ekNKSXNrQ0JJX0ZwWTRCVzdadXpwQzZtaEEya1VuazZDUmZhb2VRV29sYmdYcUJVa0RmT0hIaVhOVkUta3hVNjNUdzgtOFE?oc=5",
-      "category": "Partnership"
-    },
-    {
-      "date": "2026-06-22",
-      "headline": "Singapore AI biotech startup ChemT raises $5m - Tech in Asia",
-      "source": "Tech in Asia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1RKNzhBSjFTNC1qQXp1c1MwUGdHZmNoYlpiTURzNjI1eE96ZXgtNk0tU01Qbkc1ZHluMk0tVlY1Vmt3c2phVEI1MDBIVEJSSzVUTkhUOGc1djAwTmhTc1htVm9va00wc1M0Rlp2S2Q0b1B5amc3b3h1dEZ5ZG1ndGtR?oc=5",
-      "category": "Funding"
     }
   ]
 }
