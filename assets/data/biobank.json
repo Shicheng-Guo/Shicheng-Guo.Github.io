@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-08T14:57:27+00:00",
+  "generated": "2026-10-09T14:41:58+00:00",
   "items": [
+    {
+      "date": "2026-10-09",
+      "headline": "New Sparse Regression Method Tames Biobank-Scale Genetic Data for Risk Prediction - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGpodlpYSVZXaGlHejdsLWc0N194ZUpjRzVqZy1heWRRQ3IxbzNhQUJYc3hobmExUEMxT1liTEk5czdoQUd3QzJSOUFXc1JDYVhNQnhrNVdzaE9DSnlBSHZkRnRIajZYVmNhSVFmTFdGX0k2N3Ywdk9tSkJMNXEtX0lVSVNjRzU3aTFBby1qTHd1UG5GUFVpWUQ1Wmc2MUZHZk1aNFdZZ0hIZw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-09",
+      "headline": "Statistical Imputation of Intelligence Scores Expands Genetic Discovery in UK Biobank - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcU1KNkRPenV2Q2dwUXhvMnNKRUt2eXlON1lrTF9lc2JhSTdJU2dyanFjbDRib3Q2Nm1wSEI5REMwRzFpSjFnMXZPYzRBMWtEWkZfMTJ5OU1pN3JwcDlfTG1KTnNYWHJVdVEwZFlMYmlEV3lWUTRUTFdSbnpxa0NkRzB1Y0l0OWE5S3g0aExwNjNCLVdNM215dnZVN2FRYzdrdGZnYVhaTlJxTC1XVXZ3?oc=5",
+      "category": "Research"
+    },
     {
       "date": "2026-10-08",
       "headline": "Men and Women Age Differently: Massive Qatari Biobank Study Maps Which Sex Gaps Are Real Health Risks - Bioengineer.org",
@@ -2085,20 +2099,6 @@
       "headline": "Researchers benchmark LLMs extracting UK Biobank insights - Let's Data Science",
       "source": "Let's Data Science",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcF9CSXV1SUk3TXZPQXZtLVFRSTRaQmZTcl81alV0cmlwYS15Q1VqVGlDZW92UGJab1FJUkdWazhadlJrbGRRTGlGalhIM3R3elJKRVFXZzZfc3IteC1NdjdpNjVFMnJIVE9HcGlvb284OWFObnZMdUtTczJVMVZxVlZtZkVVOEM4LU5BTll4eXJCMUtuNDFuNDZKMTk2eWst?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-04-17",
-      "headline": "Food preferences and mortality risk in the prospective cohort of UK Biobank participants - Nature",
-      "source": "Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0WTBrOHRXOUp1bk1DUzM1Z2F1QXB0Q2NSQjlXclNxREJ5WkxSTjRQYmtOMWVtM3RLMlplSk9iX1llX042UFdkbF9nZXZKc2xLbVlmanU2ekVwNVhVM2ZJ?oc=5",
-      "category": "Data/Cohort"
-    },
-    {
-      "date": "2026-04-17",
-      "headline": "Strong patient diversity in biobank reveals new genetic links to disease risk, treatment response - UCLA",
-      "source": "UCLA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDJUY0Z6bHBjMkFNRWdRM3MyaU5Dd2NWbjdySU5DR21lOW5VWEdBeGY1REE5VFY3YXJiLTkwRGhVblAyM2oycV9ySzBrcURzY0N3dDMtWnhuQW1sWnFJN2ZscC1KRFNVWW43UTRCdC1lSVAyZjdsX2hvOTFraEZGVUR3UGhYek0?oc=5",
       "category": "News"
     }
   ]
