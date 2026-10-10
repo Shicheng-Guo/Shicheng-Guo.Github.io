@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T13:49:24+00:00",
+  "generated": "2026-10-10T13:04:55+00:00",
   "trials": [
     {
       "date": "2026-10-09",
@@ -200,6 +200,17 @@
       "moa": ""
     },
     {
+      "date": "2026-10-08",
+      "headline": "Argenx walks away from Vyvgart Sjögren's disease trial after futility flag - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGYxaDhPUHY3OS00LVJiaEM3YzlmeDF2LWpha05uUEFxS2V0SFdWV2NRbEZHWldkYUtkcmdiSnlGcklWUFFvRG8td0tDdHBJbU5wbnh1Rl9HYk5vS2VpQ0c2WUkzSWl4YUpKUnljUXpaX1g4QkNDRjFMbHBNZHhtTm1OQlZ1aGJBc243TjU4dDBSWjJab3VJbXJWNThNWmVZOUlFajkwSQ?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-10-07",
       "headline": "Amylyx Pharmaceuticals to Present Topline Data from Phase 3 LUCIDITY Clinical Trial of Avexitide in Post-Bariatric Hypoglycemia at ObesityWeek® 2026 Annual Meeting - BioSpace",
       "source": "BioSpace",
@@ -374,6 +385,17 @@
       "significance": "",
       "target": "",
       "moa": "Vaccine"
+    },
+    {
+      "date": "2026-10-07",
+      "headline": "Cerevance Announces Positive Phase 3 ARISE Results: - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQNTNmX1haaXkzSEpUSVJET3Y2TERLSnFwdHQ5UFBibWlsV3oxYk5ENUYzRmdtb3prLUVtbVhaZmVJMFo3NDhsTE92MGxqTjdCaUd3SXFEc2Z1WWRXaVpJRHRuQmxDaFhYajEtMXcyVl9TLVg3VkJrVk1CSWQza1NzSFplWEJybWNUQW9JSmNhMWJrVXlLano4MTFRLVBybFRMVEJNWkFzY28zX1hjU3hmQ0h4QkdfQ21ab2RzSzBoUmlLcFh0ZEdWbmlhU2VpQVREN3dNUGJ2UTgyUnJJbkhBS0ItcVlhYkRpaEJNWXExeTdkRklSM1RnTWJBRWxHZWJkcGVva1JOa2duMjFRVlJTM01yZGRLOG1wRTY5Y3pSZHBRVlN5Snota2F4MmZ5WFNFQXdUejVGU1Y0TDdiZ0gwV3FLVTZFQ3FNZjYxck01anVjbF9ZQ0dPZVBtanFkNUE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
     },
     {
       "date": "2026-10-06",
@@ -2725,28 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPV0VqaExaV3pQMEtpbmwyazFCTkZjSUhCUUJoTkVfbjA3VnRTYkRqTUNab0ZHY3lFUkpKVkVtMjkyWUhkLXFWQnRwb01QOGZHU3Q5ck9hbnM4ZVlrWHlqaXI5NFROZEdTbVBqZTNWUktnd0ZieGhFcE9GQUJBdGltVjlMQkh4M21SVDA3aTRjTUpBY1k3X1AxaUM0ZFJjYVlDZlh5ckp2Y1ZFYXhKMWhQeDZOclg3Ujc3ejdwTjd4T3lRYmc5eWk5ajhVelB3c1RIb0pkNDVwTnJzYUg2RVpvellVYXowVVlwQkY2WTlNaFRzVkNhRW9PMGRlVTREY05RS0xBYkpsQ2Y3X0dWRzhMdUs3Rm5nTHFBblJ0SUhxSmNyWERJMkJoQ3puRk4taGY4aGNOejdvS0xoQy14X2pUaG5YcmlYWXpZLVdn0gHQAkFVX3lxTE5VWnJNMUZxSldNRWtzZnZvMUcwOW5XQ2w1bmFMUGh2U1NFV2s5MUpDM2Y3NVhCT252bE9IbXY1ZE9SZmpPWlo3T0htY1oyX25US282cFpTVDNTUXdvZ1lXZVZOMDZRUi1uVFl0Q2hjNXcxOVYzRF9KUEkycjFSYzFMRTByRHRFOWdJZVVHNklHTFpSQllYYlRzTGktY3FYN3NQeklsYy1MNnVrWXBrX2xLRWVKeUliUFdiRG5VQ2lYa0twTTk3NEVlR0tVZmQyWXBIWkFZQ3Rja1pEQmwwNkRfRG94XzBfZ3pfUzU5YUNraElFdG5qbzctbnFjSXJQVWJ0TnBYYVZWb1p5T0R6YTV0MFdabGx6ZTl3Mm5RSXhPbERVSzNyZm5PZ1NFMDB6dF9rUTBuTENCODd1SWllZFlmTVROcDRac3dJUzZab0otRw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-14",
-      "headline": "Definium Therapeutics Announces Positive Topline Results from Phase 3 Panorama Study of DT120 ODT in Generalized Anxiety Disorder - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlUwUk91QlU1MUMtdmk0WVBVNFdlNlpOMHFTc0JNTlpBZ0NnY1pyTlpKNGdxbllHM2o3ejB6VlFJYmVHRTNzUVE3dVA5Q3VjcENUaDlDM2t3LVNnRGNRdktpZzhtVkRfbTZtZlBsYXhWMFhLZEpHNjhXajZjZVplYWJLcllhUlJxRkNzS1Y2d1ZmWEJ5N2d0cjN3M2pSSFBYMXUtbDZCV2dzMkVnSHc?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-14",
-      "headline": "Definium Therapeutics to Discuss Topline Results from Phase 3 Panorama Study in Generalized Anxiety Disorder on September 14, 2026 - biospace.com",
-      "source": "biospace.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY0hhcWFxMUdKSTZsMVRkbGp2WWJTazNHTDNIcWVXdjFabGxzTmVEOTFQUFl5cXpwX3pHUjlNQlI2T1lIVmg2UjY3S1pPWjZxTXpDMDNvQ1kwSXNOSV92ejVpN2lDN2YzR0JheGduVmt3Q2RjYXhhSHdrVG1TN3lfOHpVZmktNnhDYUNHLUFCSUdDRTREM1VBY2tWTW5fS056UDdmU29GQ194dTNKZUU2YzRGZmlEZjZ4ek5JbDdNd0ZEdjNYM1I4ZDZVb19aZE91NlFCMkkwXzZSNVE1MDVoSjVHa0RELWtickhEWmhKazB3eTM5eVVTOHVoSVZwZw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
