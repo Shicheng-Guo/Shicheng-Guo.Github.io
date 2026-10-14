@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-13T14:06:49+00:00",
+  "generated": "2026-10-14T11:46:55+00:00",
   "deals": [
+    {
+      "date": "2026-10-14",
+      "headline": "Zealand inks up to $1.3B deal for AI-designed obesity treatments",
+      "source": "",
+      "link": "https://endpoints.news/zealand-inks-up-to-1-3b-deal-for-ai-designed-obesity-treatments/",
+      "type": "Deal",
+      "value": "$1.3B",
+      "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-13",
       "headline": "Horizon Space Acquisition I Corp. and ArcheNova Biotech Finalize $2 Billion Merger Agreement - Kalkine Media",
@@ -64,6 +75,28 @@
       "type": "M&A",
       "value": "",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-13",
+      "headline": "A one-for-one share swap is proposed in Horizon Space Acquisition I (HSPOF)'s biotech merger. - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWpFMlh5dXkyLU5LVEVEZlZmWk91WEVpb0xCX1hoU3lhMTJmc0FldXRpeUY4dDN6bldGTmV1dmRsb1VEOVl2Z0dwY1NTOE96MEo3LXN0WDVjZnRvRk01OXFVNTk2Vy00X2xGWnZaQ2t4cER1Vk1GaDRCekpnemZSZFRlNERIRFhjQ3JHMVdmWWd3R1FORHduQjhWN3QzWF93ZGpDYUg1UExOcU9YcWNzRUY0ZEJYUXBwZVFIZ0xNckJSTDM1Nl9jdnNpcDg?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-13",
+      "headline": "Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics - pharma.economictimes.indiatimes.com",
+      "source": "pharma.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdHpoVl9fN1hJTDJiTWR1Q0xxUHNXM3RobHRGb3RVMDNvNXlfT0RoQ0hIR1dOQmdaeVhwU05YcnF4Rmo0UkIwMXIySkNvaDB2a1VGdm5XMzBSR0tFSlpfRWtYcXBzakVOSU1NYlBYeEtyQXVhRzdBam0zMkpxcGd3N0x4aV9xaFZZZVk2S2c3dXU2bmRZS0FHSEphQ19OVXFoY18tTENmR0VSZ1hHSzJJYmR5ZjNNVGd0dUViVFNxcnM0cW53LV82Q1d6WkdGZzNFYlZjZ2dJTnlaV1JrLVZVeFY1UGhyS3JYN2dXTTNlUm9ZTWJ3NXBESTFKVC3SAYICQVVfeXFMTTFEdjIzYU9DMm9id3hhVWg2c0huZXRKR2o2Q3hkLWlBdU43VG92eU1KQm53WFhsTHBhMGM2TE03dDFxdGgzMjVJUWZLZ0wwajlHNzJMSDJOVldTOG4xdEhoZEhJN0Y3R2lreGY5d0NCTXN6YjJzeXV1YnR3X3Z0Z0h1MDF4X3VyNTBjd3FLTWkyb3NsZmo0OUZQLWItY1k1RkxjMnBCdlpDY2tNVHN5Q3VuSHZDYjFRN25MTGE4MFhGWnhOYm5mLXhkY0VySFloQ3J5RVlPeGRlOHN6dlpva3UtRVUxVG9uM18tNGstaklYMnV4cmZjSXhxakpZYXIzUTNR?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Metabolic",
       "modality": "",
       "stage": ""
     },
@@ -2715,39 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "Rare disease",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "Leo Pharma adjusts outlook again following latest acquisition - medwatch.com",
-      "source": "medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfTFYzMkdaT00wLTJReFF3dFFyb1VldERHNDdRbmNfY09IdUJpdVNNSVZxdi1RZnUtdzhaZXBFd1Iya3Jzbm1rZzl3ZUtLc0NBNVozVG9sOFU5cjdFMFpYdHc4OUNQZGd4ZWw3d05zUQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "LEO Pharma Further Strengthens Late-Stage Pipeline With the Acquisition of Dersimelagon - mykxlg.com",
-      "source": "mykxlg.com",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPLXYwbDlnQVhXRFZXRnpGRV8zVGJTeVZ6WEJhQ3pvaDJLWnlsV2tOWXdTa1V0ZDRnMWVWYmFON05ob09zd3dOVHhJN05oMkdPaVU2MC1wX21NQXN1TWVUellNYVFLQjFaUFg3WFhzYVp3amttb0xaNU1GaTR2Q0p5ZEp5UXlkMEZkeXU3SEhzRG9zenFrTGhfZGh1cjdGdEJHMFJqVFpnVXpOV2xsbnUzMlJUR3Q4Z3FBYV9nNndJenRoYXVja2pwS3ZRU3FkQk9Qd3UwR1FpYjBmQ0dWS2xQcmFyaHNFYXRvc2U0UmMzdllUbzM3bzJ1Y0t3bEpoUkU0WmpORFFDU3NmMi15RDR0bW1mMUNOX1U5TWhj?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "Leo Pharma CEO won’t commit to an IPO this year despite new acquisition - medwatch.com",
-      "source": "medwatch.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56U3pIM2tBa0ZDRlNxY0ZLN1paTDh4bkpZeGkxa00tRWF6SDZ5Tm9yMGF5dW4tb2g2Uk8wOWVsV0p2ekZnN2pIcmppQWkwalNGY2hrbTBTNXF3b3VWek1hVlBRRWNlTGdqTW4zcWxETQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
