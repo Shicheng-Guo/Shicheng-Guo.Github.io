@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T11:46:55+00:00",
+  "generated": "2026-10-15T11:24:27+00:00",
   "deals": [
     {
       "date": "2026-10-14",
@@ -9,6 +9,50 @@
       "type": "Deal",
       "value": "$1.3B",
       "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "Galderma bulks up dermatology portfolio with $1.5B acquisition of Zo Skin Health - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmxpNW9ISXE3c21ocEFCbnVIY1hNSktHS1huRWp4S0ZtUER3dzVGaWx5ci0wQzNpTklqSjQ0TEgxVnFfOS1jcXQtR0hIWHp4MjMtUEstclRSTW96RGZMTXNkX1BnclNDMC1hbEJFb2pDVWwxRGJLajZHODhQeVZ2T19TUzVrMVgxVG0zb1JOMHhNVTVPekdOLWh1S2MxNUxobUNGSTF3?oc=5",
+      "type": "M&A",
+      "value": "$1.5B",
+      "area": "Dermatology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "1cBio Received Shareholder Proceeds Upon Closing of BioMarin Pharmaceutical Inc.'s Acquisition of Alesta Therapeutics - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYjd6SEVUVHRUWlhLenBaMlgtdm1abkdicDY0WmI1VXpqVmRWTG5TVzNtc09SZXZ2aUZCUU9fd2c4UjE5RXBIRHhzNGoxcC1MdERuN0tjTUZzWkpBcUp0Und4ZVA2NEhTY2JBRGpDcUp2b2EzNjc2ZEpydnVSblVLYnY1azU5QzF5MnQ0ekc0SElfWlQzNG5kQkF4NDZnNDVfSzJV?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "Zealand inks $1.2B Generate pact to add multispecific proteins to obesity pipeline - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0pYczdreS1nTy15SU55aWY0eE1tNGl4S01kYTRHb1JDY252WW5nN01tWDF6TlZTVU4wRjhVVk00Uzg0NkdpRVM5RkRSQXBUckhTbXNtN2MwcmlTM1o4a19RcUNSQVI1eS1BWXFVbFhGeFR6UHdSTlVPckpuWjBSQ0dZbVZGYkkxY2tEV3JFR1UzTnRMbHVQMlpabkFhOUFmeU5BNGZvRmVOcTFwSEVVOG1B?oc=5",
+      "type": "Deal",
+      "value": "$1.2B",
+      "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "Vir, Gilead Partner on Novel T-Cell Engager Discovery - Contract Pharma",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUklBcVcxVDZrSXpEYkJfNHU0RkwtVkdIQlJSanpQZ3dVdndOT0FkZ2M1bVBvWEduUDh5bXBwRUtGNFlmM1RzVW5CZ05kTTh6bHVXMy1kUXZ6cnh3bk1CRlFuZG1WbVh6ZE1qVVV1NHJVb0RidkJKSXpkRHVVV25oLWxWWHB4Mzg2bnJIUkZMLXVSOVBFMENFZTVxVXlqM00?oc=5",
+      "type": "Partnership",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -97,6 +141,17 @@
       "type": "Licensing",
       "value": "",
       "area": "Metabolic",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-13",
+      "headline": "Rona Thera inks global license deal with Roche - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlVicl8waWRpOHc2RTdkampuSnNqZUFRVUtNQzd3QzFDSGdjYXVsNUtrU2xSaVo4ZlRhNW5UZ3BESEJ0WFVlaHNEaFZnOTNHRWFCaVJyclpXZjVKbHYzZXJvMTNfNVB4Nl9kNEFlQUlYcnpjam1qS1ZzdTc1eVdXaWt0X1ZLUmVxVGdjdGs1Vzhyc1h4c1E?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -2693,61 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "LEO Pharma further strengthens late-stage pipeline with the acquisition of dersimelagon - Via Ritzau",
-      "source": "Via Ritzau",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOajZIaDRRakNTZG9vdzM4c1BwRlB5a1lRUF9IancyQllXUHRxY180WnE0T2FCVmhsbHptV3J0VFVzSVNpc3NnLVNIdmJQSTZmSVNxUWFtdDRUNjREXzlja0ZYQjFYM1h6VkJkRzZSSlJ4QWREdjdRLUFpWjV4T2xSdDROc3BIVXh3Mi1YaXRuT0Y3Mi1xbURBZ1ZnclJ5V0tJNmNSbzRUXy1iQURTeGlmZjI2ZVJULVAtVUVZTjM4MFJfX2V3Q3Q0cFlBM01VQ2UtZ3FvLUtHZVdHanM?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "Piramal Pharma acquires 40.67% stake in Yapan Bio for ₹76 crore - scanx.trade",
-      "source": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnVjZnZnT3QxbHUzckRrdS1STkNKMUU0eFFsam5wQnNqbkhGbkItTU0wdTRBTE1raFAwMEMteGwwS0szOFlYb1UxNGNIbGdudm9Ya3Z6azdMY0JQRnI2RHlkdkR3dlVENTREWkVJOFpGSzh2bVByLThiUllGZkxUVDV6dEtSZmpBenpkb1RvaUFnRk14R3lySjdpMEsyZWJGRGx3Y3FDZmxuWWcxTmN2Tw?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "Piramal Pharma Limited Completes Acquisition of Controlling Stake in Yapan Bio Private Limited - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR3lHQ0dHTDAxbms5ZnFEcjRLTDhyTHEwb0JVUm9yZHg1dmxHNjAxdWRFMkZtR1NKUm5pbFBPNWNwdFg3YU5hNzhWdnpiYy1LLXAxb1JOdTNYMTZDRUVvOWEyYTJVeVQ0VzRsSXBtYWhBQ3M5bjJRT1ZYOXVQeVY2UmRkbkJKV0g2X2hzUG5hZnEzVTFETWV3eUhzTXBnVE4wajh3Y1JhLUhCbFIxWWJxclA1dzd1a0s0cFFkeUhpa0I5WGJXRW1fMlBDbVZxdDNNZG9JdEFHbEZQU3YzbVNrUmpWaHg?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "Latham Watkins Advises LEO Pharma in Acquisition of Worldwide Rights to MC1R Agonist Dersimelagon - Latham & Watkins LLP",
-      "source": "Latham & Watkins LLP",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1U4LVlueEdzNXZ5U185OFlkQUpsdFNzMUhaT0owcEVyeXVta2UzMU9IU3FBVk5ULUhMRzZUbVBldkU5ZHdDazZpR0FpVXBwdzI4aXJ4LXVmX3VveGFkd0hsOGV3b0M3b1VLNnpYZWJ5blBhUkFYekhUSExPY2tLMlRTSENicnpQYlRCNXhDY3FUQ0M0ckhKT0FlVVNGbjEyV1k4MUlLaVJkVVh6ZmRGNmRTOTIycW04Tm13VmpFajIxYllJT0dSbTdMaTI?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-18",
-      "headline": "Dersimelagon Acquisition Highlights Shift Toward Late-Stage Rare Disease Licensing - PharmTech.com",
-      "source": "PharmTech.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYko4VUI3eVlNaElackh2ZEYxbGV4WVh1OG5LcGwxUG9KUnprNnVJZmlfX1RmbmJIMldsRU9sa1JaT1pZcXpBcTYyYjF4UG90elZCaUdQU2w2NWhBN2ltUUYxYlNEUXVNR0s4bHF2alM5UWc0RGE4UWVLUl80UTVCdzZIUkw3Y3RjMkNzOTlicGFSeHlqb2tQRUxoOU5BRmhyUDluTUpEQlIzT3YxaWcwenljSQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Rare disease",
       "modality": "",
       "stage": ""
     }
