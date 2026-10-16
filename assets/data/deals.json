@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-15T11:24:27+00:00",
+  "generated": "2026-10-16T11:18:15+00:00",
   "deals": [
+    {
+      "date": "2026-10-16",
+      "headline": "Buzzing Stocks: Tech Mahindra surges 6% after Q2 earnings; Mankind Pharma falls 2% on Belgium acquisition - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQUVYZE10NkFQSWdVc0VlZ1Uza25vVHBZM1RYLUdrdE9ncFc5QjJiX0M4blRXZ2ZQak4yQUc4MlVPX1NJT08xRzZpZmEtbnNjX2xidHNLVTQxXzZuR19jZm1KeUYtTndBRTBTamE5LWpVSEZEZXFWZzdJQi1yRjVPamV5WnRaZE9acHRMSTRwZDlmdTYxMVJqbDl6WHVJbFFyWEVhc0pyZ2tSZ3JpelNrZHlYSkdOVFptUDg0V0ltSmZ3ekJYV2xRWE9fX2F4ZHZ0YS1wY21ZaVN2c2RPbUkyVFR0dXdFNVY4UWRKTnlnMUgxcHFsbkJB?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-14",
       "headline": "Zealand inks up to $1.3B deal for AI-designed obesity treatments",
@@ -152,6 +163,17 @@
       "type": "Licensing",
       "value": "",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-13",
+      "headline": "Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQjJNeHFfOERiVFF1ZUFndDdaZ1BvUFpQSGpTRjlSYnY5bnkzaVdoQUhZSGhmVnctU3VWV0NSdkZWak1zY2dGM1RDekQ4UnJvcXVld3BjWXc1cWN1bG1RQzRySU5DZzA3TUs4aF9zd1U3LW84YkdWRDY3dmNCVGU0S0ZXY3U5NXdmMGdUSU9qVXNmYUY0Nm5JNGRQNXBBaWlYSDFQRkt0UWNWajBNRkd4NDBuWktKLU9kb19NOHZfQlVGdHJ0MGh3QTl4WGZzbVFxVnlMWGwxcnhJaGVOUjh0cldn?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Metabolic",
       "modality": "",
       "stage": ""
     },
@@ -2727,28 +2749,6 @@
       "value": "",
       "area": "Oncology",
       "modality": "ADC",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "Aurora Cannabis Furthers Global Medical Cannabis Growth with Accretive Acquisition of Internode Pharma Limited and HAP Pharma Limited, Expanding Distribution Access to the UK Medical Cannabis Market - Morningstar",
-      "source": "Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQOTVFNkticTZLeXJZZ3ZCX2N6SDBJb2lXWXNDZlU4dElTYlNwdkFPazN5R2tsSXFkUnhqTGdYRzVfSHd0YloxNFB3V0JQaEhFU0podnRKYnVaV0V6SlRZZDVmT0tGbUZYRllMc0RaN19mQWZrMndxandRUnBFeVNzME0tU3FsSFFFNjVJMG90ekNhTG12aUJvNmJkZU1hdlBKMFFIdWhTRzQtaXpoNVBkYlVvUzJRbklSa2JjTWhRQTJBSWNRRm9FLXR1SHdrdFE5TVBmenp0Y191QW8xaHVBN2tJR0Qyck9SNWJBX29vYy1SQWFnRWtnck04bkFMVmhvdjJyMy04R1RSVjZ1a2ZuQS1STEFFaFNnZ1NLRGJ5Y3pCVmtrS1B3emtXX3RiMWdZZDlGazA3RnVHRlhNU1lUMnk1Yk9Jdks0U3IySzJNclJWUHh2dV90S2Nqc01ZUVYwcGdOUGFjdXlXTW9scTVFeWVUWGk?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "Aurora Cannabis Furthers Global Medical Cannabis Growth with Accretive Acquisition of Internode Pharma Limited and HAP Pharma Limited, Expanding Distribution Access to the UK Medical Cannabis Market - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkxfOTU3UVoxQWxZUllxU2hQWHNtb1otR0pzc2ZTNnpjZnlsYTZLTGxCZ2N4eW5HZ1pkTEEwdTN4eHUxanBUSmJWbmlqMUFxal93Zmtxa3IzMExsWXJrZkswSWRwd3g2Y1Q4NEltSHFnVzVQYnBCQnUyRVlQd2sySkFZM19VWVF0N1ZlMnpHbjdvaEZSV3hPLVdJRXRETDVVR1E?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
       "stage": ""
     }
   ]
