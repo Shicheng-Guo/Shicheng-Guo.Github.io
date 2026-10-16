@@ -1,11 +1,39 @@
 {
-  "generated": "2026-10-15T13:19:06+00:00",
+  "generated": "2026-10-16T13:10:41+00:00",
   "items": [
     {
-      "date": "2026-10-13",
-      "headline": "Fierce Biotech Fundraising Tracker '26: Soufflé cooks up $135M; Matchpoint makes $150M - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "date": "2026-10-16",
+      "headline": "Tencent-linked investor backs China's AI drug startup Aifei Zhiyu - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGRCOExKN1hNbGRjTXNKSkdLSS13M3I0NmZlM21JOFlVbE5BMFdWVDNfeHgxSFFwWkMxb2xYeGFuU1JJdmNweXJobkpNT1pHS1FQRmk3bGpvQUxUTi1KRVk4ZW15dFFtQVV6T093S3l0b0tJMk13QjFPVi1OX0tDdmpqM1NBS09GYzF2T3RWZmJOalpfTmlwcjBvTVFkYzFk?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-10-16",
+      "headline": "Tencent-linked investor takes stake in China’s AI drug startup - Tech in Asia",
+      "source": "Tech in Asia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1BqLVNRRkNqVldPODE0VGFCSVBSNEJjM0xSVFdaNjk4WUEwY2lzU3dWNjAwNks3N1hEZUJIb3dva1lWQW4wSG9hVFV6LU5vd1lGU2g3WE81YUZ6eUdOdVpGb1FvWUZZOGFKU0haTVRoZDhrSW9oaWJxcXJNWm5CY2RiNWxxZFFISXVmLVJTZGZ2MFVmVjBwQw?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-10-15",
+      "headline": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech - EU-Startups",
+      "source": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOGtSeXRDa3hSZ05lb25RRGIycEZsTFFJY05iZ1Z6bU1aZ2ttWDhoNDJYTDJTV2pjUDN3SDAxVmJGaW91WXprUjlIa29GWGZpM28yWGk2SE1QSDJxSWJMMlZxQzRtY0wzeGFocDFXOXFqYVFIWVUza0FHVDAxOTVJVE1UUnZCN09PNzJXR3piNmxBU0JhLVZWcXY4MVVkMkUzYlBuaGJ1Sm1HelB4ZGdkS2I3VS1sYzZLX0VQcWY3OXN3WkFqSWtzeXNObVIycnVOb0x6X1ozUUhHSkhYMTJydHVwOA?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkZJakQtMWJuaThsU0Vaa2lWU1NiN1pOZFFUOWZOSFVJTkF2TUFDbjJGdW1mVDUtVWExYnhLdU9OZHdQbUcxazNTVlhYNG5CT1JleTdVY2t1T0pxQ3k1NVR0c0R6cUFQZEU2TnlCUE5OMHpkTy1LVFI0YlRyek40Unp4UjRCbVRqMkp1UW80d2sweVZhdUpnem5xWDRGNElMM25ZU1hKRFVYTkdOWk5sVw?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "2026 Has Been A Bumper Year For Biotech IPOs - Forbes",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzlGVzlVT0Vqc1RBSWRnXzBmcEFWa0VQa3FjemxJaDBrczRQdnZYelpLM1l0MloxTzhyZ2NueElSVWlBeUROdkF1ZlI3dUJPWVd2RnFXSTZlalpYZE50UHp1MGhDcFlDMUItMDJlVENNR0MxbE9iLXRLd2VNWnRzU1djMmhlRUpqcURlUzNLOU1qOVhBNjlzWHFIMTBVSzZiUEp4SlNPN0FRMGdOSHEyTmptdjh3QThfUmVORVB4VQ?oc=5",
       "category": "News"
     },
     {
@@ -121,6 +149,13 @@
       "category": "Launch"
     },
     {
+      "date": "2026-10-08",
+      "headline": "GenScript Launches Life Sciences Startup PitchFest With NVIDIA to Accelerate Biotech Innovation - Moomoo",
+      "source": "Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUdhblVGMDlsLXpDNTBlMWVmMzZrbDd3cGJubjRqSlVmdEJSalpwcldyczduUnczQnZrY0hRVnF5MXFZUHk5cnFyU0I5a05qOVNzRmhxTjNSV0NXV0ItV1h0WjJ3cXdTQmhVYmZzczZSWmhwRWtSaEdZRFdsakR4aFM3ZGZxWW5IeExsRlFCM285cUJNN0M5TDhrX194NEU2NEUxd2Q5aTBEVmFLR3l1RXlxbnZwMTBOcHYyVQ?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2026-10-07",
       "headline": "France's Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure - EU-Startups",
       "source": "EU-Startups",
@@ -146,13 +181,6 @@
       "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
       "source": "Singapore Economic Development Board (EDB)",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGxWTDNDRG9YWW1mSDNxcXoxS2hsa0FOOTgxQzdoaEQ4SXVLcmF3Yml5X0ZRaDJraG5wbFh4UFJaOVFxTEZaNXJrVERURXpnalB1UDVPdXdjXzlVWk9KVmtBSFo3Q1hzamlYUG9pY3lDc0dLMFpmZ2l1b08zdVJJa0dCT3pJZEdoRWdmQW9WSE9aSkotN1NacnpRcy12TTRKZkFXMC15bWdQYkFF?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-10-07",
-      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkZJakQtMWJuaThsU0Vaa2lWU1NiN1pOZFFUOWZOSFVJTkF2TUFDbjJGdW1mVDUtVWExYnhLdU9OZHdQbUcxazNTVlhYNG5CT1JleTdVY2t1T0pxQ3k1NVR0c0R6cUFQZEU2TnlCUE5OMHpkTy1LVFI0YlRyek40Unp4UjRCbVRqMkp1UW80d2sweVZhdUpnem5xWDRGNElMM25ZU1hKRFVYTkdOWk5sVw?oc=5",
       "category": "Funding"
     },
     {
@@ -1340,8 +1368,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - PharmaVoice",
-      "source": "PharmaVoice",
+      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - Pharma Voice",
+      "source": "Pharma Voice",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYkN1UTF6ODBQNG1McTBaUS1LQllJUUxFbGxCSWhCOHVBanhzSlBGVmJuQkJXRnJKdm02alFLQ0RiZ0hGNERxVER0WnQ3QnMwN1c4NXdBRXZlWHBEeFdiV3JFdTN3WUJzNXF3RWdicm1jd1M0SzdPdEdWcUdELV95aw?oc=5",
       "category": "News"
     },
@@ -1459,8 +1487,8 @@
     },
     {
       "date": "2026-07-15",
-      "headline": "Miles Wang leaves OpenAI to launch AI drug discovery startup - Межа. Новини України.",
-      "source": "Межа. Новини України.",
+      "headline": "Miles Wang leaves OpenAI to launch AI drug discovery startup - Mezha.net",
+      "source": "Mezha.net",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MbDZvZlVQYThVb3V4a0lkZmdsd2t0RFdWY3JpbnB6anI1NHVlZHhwaGt2Zmc1QU4tNlBoMDMxdW9ZdndlVllJOWs0bnFrSUhuN3F2dnJadzBhVnhUY0M2MUsxaFQ?oc=5",
       "category": "Launch"
     },
@@ -1722,34 +1750,6 @@
       "source": "Liga.Biz",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHprR3BRTzJ6amtzOXdqZWJUQldIRTdwb1pwOVdraFVpLVhWdDBTclVESi1EWUI5TG00bmJ1dVJKRjhrUm9TMWhFVkJpell3UkpTOHhZeUt1T0JWYUlFbnBVWE1ENUtBamNDeGExVzluZGJvNXlaUFdFTGtqLWpzV3NMVkQ?oc=5",
       "category": "Launch"
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way - Crunchbase News",
-      "source": "Crunchbase News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFN6RW5nVUZ3bUQ3T3hfQzlIaG90UVpyZzF4ZVc0X3lUaEphcVJSWW1NdVFrR0F1UXU2YXFydlRCc2xIdDA5RndXc214c3BXNWJjc052RmJLSEsyU1dpSUEtai16ZjRJM21XM0g0YlBLVWVOd1M4al9seEwyTy1wQmRtZnJucHpHZ2RwRFln?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-02",
-      "headline": "Eli Lilly acquisition payday fuels $1M seed round for St. Petersburg biotech startup - The Business Journals",
-      "source": "The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUGVFcVBVYmZWN24yM05saHY5QTZ6LVZxNnhXYU5lVXRjMU53Tnk3Qm9FZ2RlVE9xVTRKdk4zRUVvSFlpVFZLRmswYTUwSnlKZzhBSnBXam8xTFlwN2JaMHVaOUVSWGIyUGZ5MVpTekxXajFydlhrWF9TdG1nakNXanRfa3c2a0FaaVVxU0R1cG1JWkEzUjBVcXBVekpSUjV4ZS1nTmd3WQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "Austrian Biotech Startup Epitome Therapeutics Secures €4 Million to Advance Gene Expression Platform - fundsforNGOs News",
-      "source": "fundsforNGOs News",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVWN0cFNHMXdhaTRLcndrSHFjQlo2b2tKYTFpeTRTeXlTaHh0Q20wWEg4YTF5ZGpxZ0lMU0dOR1Zqa3JRc2tQNU53MW1RNEtDQ1NKZ3c0aXpJUTFHMlZFMy1JeDNxX0Y1MGFYc2NwTTdBMG9HTnVZa2VlSHl3WmFFQnpCTzgwNkRWVW5Cel9BZjZqMFR2bFJlaUpIc25HYVQ3LUF1Y0xKMXpxRThJRC04c3lYOEdrRUhEdVpQcVNFQU1pN0JuTDR2T3BOR1RuY2tpemZiZHNDUmlXUQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-01",
-      "headline": "Neocloud Together AI raises $800M, leaps to $8.3B valuation - TechCrunch",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjJjY1hCbVQ1NFYxcW1LUXNSVENUUFBiQ0I3WWctMGNfVnpqS3BBLUdqVXUwQ25pNTdWWEZsLUd4aFFsNlpzRm81VTBNQk1mMVZmRlB3cHk2VlRWV0tDR0lDOXlUTTE5bEN6UWNDMW9DNmNxaHdXWWQ0cnBScVdtbWNxQ0h3NWNRd2FJcVdtWjM1S1NoRWc?oc=5",
-      "category": "Funding"
     }
   ]
 }
