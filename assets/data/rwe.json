@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T12:34:09+00:00",
+  "generated": "2026-10-17T11:40:52+00:00",
   "items": [
     {
       "date": "2026-10-16",
@@ -7,6 +7,20 @@
       "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcWJmdFR1MElUVGlZQ1ZDSUhwWnY5QklDWlQyRjdJaHMzUlF0X2JsNmpzcHBteFRKeHJ6cHNFUk5fS0RBSGZ5RmtnbldQRU0yazhVQWozdU1GeEp2dU1sbTk0Tl9Ub0lvM29BQVlWekFtTGV3dUN3LXY2UkR6Q0p4NUNYQUFWa3RZV0FRdXNRSFo4a3hkd3hLMjN0dVRfRWxVbGFldlZjeHFJTlNUTHhYMTZOWmdPQWMyb0RXLTRvdHBCYW94MjhUS1hUakM5SjFIMllnZG8tenRHSk1QMlNfUi01MS16VU1JbzJsN2hmd2tkamxYVDI5VlJGVVBiZnZWTmUyQm8xNkxqbVhLWDU3akN4R2Y?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-10-16",
+      "headline": "Cardinal Health Real-World Data and Evidence and Eli Lilly and Company launch study to improve IBD care - Cardinal Health",
+      "source": "Cardinal Health",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTEh5Q2xvNWdsQWNBa0tBTU1uV3ZwektoNnJHUHJQWGlheEZRMHgxcl9fQlhEa1p4ZG9majgzV3hFaHZvakoxdVpvUVZjNUNham1RaE0wM3VORVB4QXRsM1VZbUJTMERTZjBLWjNXU2xnUEVIYlBRXy1iSUNuVHVrXzlKcl9GdjVQempJOHo0Rmk3YXprcXgzajhOUlBHMDg1blpVNHBJZ2VqNW9JZUZRRlVaSE5JNmtxaTQ1MEVCdnJkVjYwMXVkOXRDM0h5TXJEdVpFQ0duZVJJanIxLTRhT1hQYzI?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-10-16",
+      "headline": "Hospital EHR alert system cuts dangerous drug–herb interactions in Thai study - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkd3WUhsVHhLc1pRdVdjODJKcEhUMExhS0hzNW1tOW5ZUEpTVFg3TW0xUm1ESlBSZW9kUlZpczlIdWI0X3JDSjJsWXZEdm1zaGFtYTMxVVJEU0FUU01JQWg4NWItRHhGbS0tc2N2WVh4U3FaTGs3dHB5QzU3UUZEMkVPRjdsc2Uzd0NNSUhvU0dubXg5QW5jZVJQTndyYzRWbnZzXw?oc=5",
+      "category": "Research"
     },
     {
       "date": "2026-10-15",
@@ -35,6 +49,13 @@
       "source": "Applied Clinical Trials Online",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGdDSmIteGQ0OU9xZHhBSkxJaUdPclJwQkFkckdBVGNQazdNbVcwa0xlOWZSY1FYaVZYX2NVNUtyTElvWXRFSENtVUJNc2JPM0VwbzRMUzQ5WDJjZ1NiVG5wQkU5STRjUjl4anpZYm1uRXJEXzlPa2h6Q2tXZEppczUxczJqRUtPN3JvYUFEc3JabmUxSUg3d0gxOGVHdzc2WWctU2QyV25mcVhPTy1GY3FtX1djd0NkN3c?oc=5",
       "category": "Regulatory"
+    },
+    {
+      "date": "2026-10-15",
+      "headline": "Real-World Evidence from Over 2,000 Patients Supports Routine Blood-Based Lung Nodule Testing - Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWk5hNTROeWFPNFBMcTFrbVdHWWxMbnE1WHZ4aVJYX1FhcUZlaWZZeTJpd1BRMl9SeXNMRW9tTmkxNWJvN0N3eDNPT1pmU1F3STR2MDVsSEpPdTF5UkZwN2tCZGQ0eTliMmF3dzBQR2gxTkxkcTdzTVF2MElUa2V4NXBJa2hqb24taU90NlRUa3RhclZqSF9iXzJuUGZBc2xIQlZlUkZmLVo4cUd2ZnRGSnpjcjdJNjg?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-10-14",
@@ -990,8 +1011,8 @@
     },
     {
       "date": "2026-08-03",
-      "headline": "Bridging Data Gaps: Curating Real-World Data for Oncology Research - Applied Clinical Trials",
-      "source": "Applied Clinical Trials",
+      "headline": "Bridging Data Gaps: Curating Real-World Data for Oncology Research - Applied Clinical Trials Online",
+      "source": "Applied Clinical Trials Online",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU3FJV3pKX0pxRjVuN1h2RVhkcDh1bW1YbkJMWWlud2Q0eDV0eld4Rmh1dnpIc3VYeUVnblRURjczZnFFeGhGLTdOZnZqY015eFk1RXNFeFhqeWhma3RJRmI1Z0dqTjdQd2FQOFJyd2YyN3hXLVBDRXEzenpfeXN2c1NISVhWT1JxMnhaV0FEbklQYXpTWW51WXZCbHdicmRuaDgxU1k4S25RVkp6TG44?oc=5",
       "category": "Research"
     },
@@ -1767,8 +1788,8 @@
     },
     {
       "date": "2026-06-12",
-      "headline": "How the Line Between Clinical Data and Real-World Evidence Is Blurring - Applied Clinical Trials",
-      "source": "Applied Clinical Trials",
+      "headline": "How the Line Between Clinical Data and Real-World Evidence Is Blurring - Applied Clinical Trials Online",
+      "source": "Applied Clinical Trials Online",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGVlTVdTRlpCWmRzS0pacUtpS0RMYUFmN3EyN3pTLTNVV1dYMGpzSnI4bzhkR2dDcDlmenZ6eWtsQ2U5TlF1eWlnREdlci1sX2VsUElJUzN0SmhKTlpVNDhieG8yWEJ1c2xBcy0wdjZQUVRjZzNkUGZGcDlCOE81bUktSkpOcWt5akE?oc=5",
       "category": "Opinion"
     },
@@ -2040,8 +2061,8 @@
     },
     {
       "date": "2026-05-21",
-      "headline": "European EHR/EPR Market Enters Research-Ready Era as Clinical Trials and Real-World Evidence Move Into the Hospital Data Environment - Newswire",
-      "source": "Newswire",
+      "headline": "European EHR/EPR Market Enters Research-Ready Era as Clinical Trials and Real-World Evidence Move Into the Hospital Data Environment - Newswire.com",
+      "source": "Newswire.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGF6S2tMUmhDbXo3dHRxenV2RDJ1Zk5LdGRYVWRTX1Q1bTJVMzVvSUJkcFdqTGJzaUhqMXQzTHF0Q3FyMmtJOW5XTXdsbXVObEM3OXFwYS1ncnVQSlB6N2o3aFpLMi16eDhTWjVnbXdONVdmZDBsSTM3Z2dDUURsYmtCcnNJaGZ0VlpXNlNtNDVVcVQ2OTNmNjBTY2R2elVPLWxPdE9WMGtkYm8?oc=5",
       "category": "Research"
     },
@@ -2079,27 +2100,6 @@
       "source": "Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeURpRDBSbl9kdGhLMXZ4RHZFeXdHNHNzc21VZU5tUkp0WDA4bEZja1ZteE82eHNNdjhOUWlNOXJ5YW5ucFNRb2xRWVlXdGZEQmVvaFlvaVdHZ3lOZnNFOElvM1dfbWpKVmctY1IxVHg0T0QxTzVUQy1QWkFiWVp0UjI5WVRVX19qWkdqbG9YREJTOExFeW0xVHh6YnJjdTJrbGhzTUFmdUpySHVka1Bqb2RzU1VROWRCbDJmNDh0eDdmanN5UzhFSlVQamtLeEJXbmlILVk4OUNCOGxPbXVtNUIzMFpqLTYxZEstUVZ3?oc=5",
       "category": "Research"
-    },
-    {
-      "date": "2026-05-19",
-      "headline": "MEDDDICAL Launches Insurance Claims Data & RWD Advisory Services for Pharma - markets.businessinsider.com",
-      "source": "markets.businessinsider.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbW85SWhIblZWdFBHVjdnNGFwVmZTeDVYdU13TEMzV2FPUkt2R2JUTk9IV2VIaHYxdXh2SjZIQS1kUEFuWm9SQnVKS0pPb29iV2d2YWM4b1JFQmtCcThObW5RVjVyc3ppUF93SDdZbDhjMmc0OVI2bUp4TjQ1RmNNMmdUeTFWaURnbld1N2daTzB6VVJubW1jd01jbFJ3VUdpR0tGbDNuaklfRU1wTHh5allxSl9QZkRDN2dzS2pnM2VkU1NnTUM3R1AxSG8?oc=5",
-      "category": "Product"
-    },
-    {
-      "date": "2026-05-19",
-      "headline": "FDA official offers examples of RWE being used to secure drug approval - RAPS",
-      "source": "RAPS",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjBOVGJXTTNnSjdHTnp5R2JOOGNCY3JPbUQ0d1hnay1zY1lsbWY5UXJaVGtKQ2FPQVRfLTFoazZPcHJmcGJfb0E2YXg2UlppdWtkNWJScTNrS2JnRTNuTHhsVjhJSmdmRTVMTDNac2lmYzZBRFpFelRsdl9HS1E0RVNzWVI4dVVxeGdUSHZweDlpUnhnV2l1V0wyd2dBLTZYQU1XeHE2ak8?oc=5",
-      "category": "Regulatory"
-    },
-    {
-      "date": "2026-05-19",
-      "headline": "The new Neurology-First Platform to Accelerate Clinical Trial Recruitment, Real-World Evidence, and Therapy Adoption - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPa0R5WGltSWhUeWZSdWpuaEdQN1dRNnQ4eGNVOXptdUMxNU5ZR1hDbXRRRGRnd3hpMlBtN2IwWTk4N3c4ektSbDZ1LUJFWnM5TEg2aksxRmFjV0JKMzVtaWtYRUZKc0NYODk5UEQ2ZnlwbjBiN3BESVcwMkoyd2QxVWFjbEF2RVB4ejlJQ3FqQ3dKelk3NWtlMVR5b2xTWnJvVExHc3BfNGZMSjlQLU5VWnJlZXFTeWk5Sk03YTd5cTI4eDhsMW13eWRONk9yT2dvekV1dTJUN0I0X25veTE3SUVHYUt1M3VSMUdKODdzLVptTGNBM3FJWE8xd3FQaVE?oc=5",
-      "category": "Product"
     }
   ]
 }
