@@ -1,18 +1,18 @@
 {
-  "generated": "2026-10-16T12:44:45+00:00",
+  "generated": "2026-10-17T11:46:04+00:00",
   "items": [
-    {
-      "date": "2026-10-16",
-      "headline": "She had no family history of breast cancer. Then a biobank donation led to news that could save her life. - UCHealth",
-      "source": "UCHealth",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeTRrbUx1bkZZVG9IOHBYTGJ2LVFkTDFuNGdhamZNVmpXeDhUbjE1LUxhbGtVSlRLMmJoQmhDQWM5amVyQV9nRnZLY1JDU2FjWlIyNC1JNXYtLTM1cV9Ed1JYWmg5blBFNmJzZ2pqcUdmMEhpZlE5QXBocC1WVENYbDFIcw?oc=5",
-      "category": "News"
-    },
     {
       "date": "2026-10-16",
       "headline": "Circadian imbalance and incident hypertension in the UK Biobank with exploratory molecular analyses - Nature",
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmdW9OSktNN1ZwTHVvZllfRXV2Q25QQUZSYXd2SW1iOG5XOS1ZMlFacFFaeFM4clB0bTktUlFvR1czWHNkN2JwNlFWeHRUMmRPZ3ZQY09feWM3WlpuSWJJ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-15",
+      "headline": "She had no family history of breast cancer. Then a biobank donation led to news that could save her life. - UCHealth",
+      "source": "UCHealth",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeTRrbUx1bkZZVG9IOHBYTGJ2LVFkTDFuNGdhamZNVmpXeDhUbjE1LUxhbGtVSlRLMmJoQmhDQWM5amVyQV9nRnZLY1JDU2FjWlIyNC1JNXYtLTM1cV9Ed1JYWmg5blBFNmJzZ2pqcUdmMEhpZlE5QXBocC1WVENYbDFIcw?oc=5",
       "category": "News"
     },
     {
@@ -49,6 +49,13 @@
       "source": "Big News Network.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbFJ2YXNLRFVLSXU4Z1F3NFVSSTBSTzJWUXhfbG53X1V4YTI1OS05bV9kUnlYWm51MkItdE1HRWJia2ltOVBZU3RVbG5JQkZoaGJxdHFtdjYtVDIzR2F0OEFVUUVKRUFYcTczRWxpSl9idmgxTTVPb2NldlpUMDZMeEppZ2U3UVFIeDVyRHpFN1htSmNMRTZ3SjE1Qks0M3dTa3FVbWFkV0JxQ0gyWk5tVTNqSFFDMm5YVlloSXExZnNYZGlxR1JuSEZpdw?oc=5",
       "category": "Partnership"
+    },
+    {
+      "date": "2026-10-13",
+      "headline": "A Living Multi-Omics PDX Biobank of High-Risk Sarcomas Reveals ecDNA-Driven Oncogene Amplification in Osteosarcoma and Enables Preclinical Precision Oncology - Wiley & Sons",
+      "source": "Wiley & Sons",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeENuUUdsUXNicmpxNVUzWTV0U2JxNlR4c1l5SDQxc2RzSTNNTmVRbmtjaEFNNEVwcFZCbXNvbmRFQ1Rxa0x5bHdtMjc4MUhkYnhjcURnd1RTTGwzbjl0d2c2emFYMHJVRG5JVnFZVm5SdTVjSVE?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-10-12",
@@ -245,13 +252,6 @@
       "source": "IDIBELL – Institut d'Investigació Biomèdica de Bellvitge",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWjU5RFYzd0tUbWZpM0tSeVhsZUFieFhYLUVZS0N4ODZKdWU3anNpWlJ1MG5sMFdaazJ0ZUpzQ2djY3M3SWVWeFItWnFnd0xEYkJ5eUFPNVQyTWFRRXdXSlgtYV83Q0t2WHdiQmJWV1Z2Z0lUVGZJdHBwZ2V1UjRXZ1ZlOFNrXzBidHRuT2NSQmVLY3AxU3NCdUsxNms4cUlEZVRvMl9BYUREYWo1TV9SNDREaXFQVzRmeU1fcmk0VFZ0aC1aekNEMERuOHVVRU9FWm9kRmRvaHQ2d3NKREZxSHV2NEg?oc=5",
       "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-09-22",
-      "headline": "Association of Circadian Syndrome with Incident Risk of 23 Site-Specific Cancers: A Large-Scale Prospective Study in the UK Biobank - Science Partner Journals",
-      "source": "Science Partner Journals",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MSDBGeHdEVGtuWGtDVXNfLVBRS1h4dnBOdVhlQ2k4VmJvMno2ZW8yUWhLX2w0VEt6OHB1MVNuc0Z4Z1ZqNW9pQ2ZYdkZsc0VVekdvQkRaUGs4S0paME5z?oc=5",
-      "category": "Partnership"
     },
     {
       "date": "2026-09-19",
@@ -454,6 +454,13 @@
       "headline": "Biobank Genomics Consortium Authorship - CASRAI",
       "source": "CASRAI",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iLW1CQ3ZWOGpvd1hZV2tfbFktbTEyaEhRYTlfeFZCbHlNQjJfV1JLZXBaRmtGdFVqb0F5UU1JU3JOTHczdHJob3pEN0U1NXNUTDFxZF9mcWNaSkVObG11elBDYUMzdng4OC1pMjdCbGlpdw?oc=5",
+      "category": "Partnership"
+    },
+    {
+      "date": "2026-08-22",
+      "headline": "Association of Circadian Syndrome with Incident Risk of 23 Site-Specific Cancers: A Large-Scale Prospective Study in the UK Biobank - Science Partner Journals",
+      "source": "Science Partner Journals",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MSDBGeHdEVGtuWGtDVXNfLVBRS1h4dnBOdVhlQ2k4VmJvMno2ZW8yUWhLX2w0VEt6OHB1MVNuc0Z4Z1ZqNW9pQ2ZYdkZsc0VVekdvQkRaUGs4S0paME5z?oc=5",
       "category": "Partnership"
     },
     {
@@ -2092,13 +2099,6 @@
       "headline": "UK Biobank data of 500,000 people listed for sale on Chinese site - Jang",
       "source": "Jang",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjVfV3JhMEdfczNfRmpLR0ZGQnQxLTJYQ1RLQU1GWW9kTjY0cTdtSGJGczFVd0NLMU5BR25FVmp5YTRjQTVNRHlseXJmNjdXaTd1LTJYbl83dHRUeDZIOXF0WkhRRU1Wd3VzSTlJQy1YWDIwNUtsMWdiWW4wYlhNYm9Cclh3N2pEUW1IS1pwTkxocmJmdXduZ2FXbndPdjg?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-04-23",
-      "headline": "500,000 patients’ data for sale online after UK Biobank breach - Yahoo",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTdSS1dQMW81WnV6S3BFTmdGMUJMWHk4Mmhaa3B4WVZ3U0lrQmhPZUcwUFB6WHVLSmJGZXFlT3V1dDdSZGl1WHExT0JvQ05CTmdjbHFYRkd5TGhOX0p3VnYtdU5YVktXLTlVSXR1RnpJaGdKM0RxZ0p0YVRteTNCMHBYZw?oc=5",
       "category": "News"
     }
   ]
