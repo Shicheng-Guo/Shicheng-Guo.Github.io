@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T12:07:18+00:00",
+  "generated": "2026-10-18T12:34:08+00:00",
   "items": [
     {
       "date": "2026-10-16",
@@ -23,6 +23,13 @@
       "category": "News"
     },
     {
+      "date": "2026-10-16",
+      "headline": "Fierce Biotech Fundraising Tracker '26: Estuary channels $93M series A; OMass obtains $310M - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-10-15",
       "headline": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech - EU-Startups",
       "source": "EU-Startups",
@@ -41,6 +48,13 @@
       "headline": "2026 Has Been A Bumper Year For Biotech IPOs - Forbes",
       "source": "Forbes",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUzlGVzlVT0Vqc1RBSWRnXzBmcEFWa0VQa3FjemxJaDBrczRQdnZYelpLM1l0MloxTzhyZ2NueElSVWlBeUROdkF1ZlI3dUJPWVd2RnFXSTZlalpYZE50UHp1MGhDcFlDMUItMDJlVENNR0MxbE9iLXRLd2VNWnRzU1djMmhlRUpqcURlUzNLOU1qOVhBNjlzWHFIMTBVSzZiUEp4SlNPN0FRMGdOSHEyTmptdjh3QThfUmVORVB4VQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-13",
+      "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
       "category": "News"
     },
     {
@@ -168,13 +182,6 @@
       "source": "EU-Startups",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUDVtd2wwYWNlTndqWEhjVGF5cW11MFpPejZfOHFBVG1iSWN0R3ZaSkJpWWlfWnhnR0lFS0wwdnlodjFsazdCVU1sclBXYUpxcHhhSTgwTzhHOHMxM1dNSG51eTduUGgtTS0wbUpEMlllX2NSZ1R3UEtuT25FdlZKX0M4TmtjcEN0MzU2R1E2d2cxNU1CZk1IcTlsWFV2OGR3YzZxalpGYmpvLTJsOTlXUnVabHdscDRYRldNdk1ZMkdfNUROa3pQeFpLS3Riejk5Ulpr?oc=5",
       "category": "Funding"
-    },
-    {
-      "date": "2026-10-07",
-      "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
-      "category": "News"
     },
     {
       "date": "2026-10-07",
@@ -1697,10 +1704,10 @@
     },
     {
       "date": "2026-07-07",
-      "headline": "HKU biotech startups showcase at BIO International Convention 2026 with breakthroughs in drug development and precision diagnostics - EurekAlert! Science News Releases",
-      "source": "EurekAlert! Science News Releases",
+      "headline": "HKU biotech startups showcase at BIO International Convention 2026 with breakthroughs in drug development and precision diagnostics - EurekAlert!",
+      "source": "EurekAlert!",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6UFpwYTNPRU9sQUI5OTFXYldtV25ydTdFamxSNndqZmtPVmJ6R3J2cHYwbXMzRTBWeWg5MnhNaUxFMnBtV2lzSWRkS1pfbjdVa05tM0hsY09nb1dV?oc=5",
-      "category": "Launch"
+      "category": "News"
     },
     {
       "date": "2026-07-07",
@@ -1743,13 +1750,6 @@
       "source": "Lelezard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUTdFa1BKQ3RVdE80TkhCYUFuSWR5ZHVuRzVYUUdPQ3pFTzRJaXpuUXliYTZrSkRwSDB2aGlXWTFSRGhRU2U2T3FWX09zQktIb1ZRVHFiOHBrb0xOMEtpRDV0YWxybkJ1VFdVaThqS3luWnZIdDhya0FuZ215OUo5ajROVGRLdFJyWDZvLTY5MjBWd2w4alZtLWpMZS1wWWhGNWs4SmhiYXJwd1g5TjY1UzVQbmVPemJNWkFkVC04UWcxd1dKWk05b0tOc1dQcEdhenc?oc=5",
       "category": "Launch"
-    },
-    {
-      "date": "2026-07-03",
-      "headline": "Hyderabad-based startup harnesses AI to develop treatment for psoriasis - The New Indian Express",
-      "source": "The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaE54WndPX1BiczIwcWZMR0dFM3R2dWxOWHVsTmtNWEpZM0hSaWJHYkJ0ZXRPek9Jam1xS0xkazRLU0ZtUWpRRG5xaVNfbml1RnlpSThYUHNhejdaMjMxQmwxU1BCY3pRaU04UGFhaE10VGNrOGtJcFI1UUJlbGJFVTdVbVlrN3k4T2xybXJZWkU2dndELWt6dlAybm11MXhvaVhiNGJTTHA0aDV2cjF5TGhtZmRYLVZkZ3ZZd2FVLTJiVGFFd1hVYzk3TlpRUdIB2wFBVV95cUxNdVlJTTZkU2VrMkRUOUVmcUlyaC1fNGZtR042NmtxbUd5RE5EWWlhU1VSMVJvWDJPMXE4YjBwcmxXOWVzTldmSFFMb05uUE5VTmNtcFY1WWh6R1JaUENhNUtHeXBpTmc1cXd1WUx4ZXJodXFZRHFYYkQ3SGpUbXpEXzRZTkpkVE1DTmhkZGZJbmRWT252bWxxbjlVeWZwRnMtQVFMVEtnT2dWT3NzZ2xsOVFOUThycmVMdDZzR0dTeFBySF9xaGtZbXJLQUhZVks0Z0ZKRllkQzFYNXc?oc=5",
-      "category": "News"
     }
   ]
 }
