@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-17T10:38:12+00:00",
+  "generated": "2026-10-18T10:59:30+00:00",
   "deals": [
+    {
+      "date": "2026-10-18",
+      "headline": "NCLT Approves Bajaj Healthcare's Acquisition of Genrx Pharmaceuticals as Going Concern - Medical Dialogues",
+      "source": "Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2xKemp0RVAwSkVNVko1ZjV1UWJvekxaMWFxTXFQVFlzeEVfeXRyMlhzRzU0a3FkTXVITDhWcXJLbmtCN3VZamxBYzdQY1ZqakpyX3pwYnNuaEpaYlRiXzFLUlBObmROLUZTVVVXZW9HUTVLVm0ybzVVeXViNUc1YVhTMW5PTnppbk5kU3VLTHZ0bk5MNlBVdGs5TlNkanFieEdfd3Y5NHMzVkxxQjhVeDNDMmN6Z3FVYnh6ZVQzOFRzR2l6ZmlvRXpzdFZ2YUN6dmlLNDZrVlnSAd4BQVVfeXFMT0tIOThQcTVMQUZXajJ3Ym80WXEzZjNyeElHVHpXSTFqNDltZG5ubUhPSFgxRFlaaTJMdlp4WmhRVHdwUUxrUTFyVzlzS1lfWEhsSHlsZVZWRERBTWtuRGhBRUJrNzJTMFcySkdKWTd3Nkg1ZmdMRnRHYTZtYnlybHdCQ1BrMEFsN3lCR1F6Q21IaF80aVhqdzNaWEFoNzFPT2ZYWjgtOW5OZ1BwM0Y3Q2gzb1Y3Z3NTdTRrOXFYd3VxSFBWR0k2ZHpwV1VGR1FYTEFPaWZ6QTd2VmZsTkJn?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-17",
       "headline": "Mankind Pharma Enters CAR-T Therapy with Armed Cell Acquisition - Microbioz India",
@@ -590,6 +601,17 @@
       "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVQzcUYwSHhGd0ZTY3dSN0RTVWNILS1oT1puZlF0NEF4UlFLdWxMbFpIRmFicUNwaG9ZTzgtZEZTejJ2b091QXJST2plVFg5SEI1VTVQcGxabEEzcmpLbEJtMkVCTEx6VlBnMmtkUEwtVTk0WGFESVRabm14ejdaaFNLODdWMHpMMnd3X1c1ZWwwNFFjOW9LUnpQQnFKa2RzekpfVUNUSjNpcE43b3Yxbzk4R2FZTnhSOV9qQ2RpV0YxYV8yakNsbWdVOW0?oc=5",
       "type": "Licensing",
+      "value": "$7.8 billion",
+      "area": "",
+      "modality": "mRNA",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-02",
+      "headline": "Novartis signs mRNA deal for about $7.8 billion with China's Abogen - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT2N2eHVsWlhhMTRXbG1VTWRoN2dIcHdEQ3BmYUZUd1RRWmlPV1ZqQl9paU5zd1ZKNXp6SzhwM21qeEt1eUh3VDFWWEhtSWd0SlVxLUpPZG4xMHhGVEFNa0hPOUJnLXd4RUtpUEFyVVp3OXNJRVZDTVdPb0Vkc08xTVBJSFJ4NmxPek5pTEtESHY?oc=5",
+      "type": "Deal",
       "value": "$7.8 billion",
       "area": "",
       "modality": "mRNA",
@@ -2081,6 +2103,17 @@
       "stage": ""
     },
     {
+      "date": "2026-09-01",
+      "headline": "Ropes & Gray advises on pharma acquisition - ICLG",
+      "source": "ICLG",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JV3VSY2tYUnRHSEJBNFZSUXoxb2JPWU1QQVFrQlFQTDRtUHhOblRobGZWcmpHV0p5RmktdVRzQ3JKVmhVcHJ3bnhBRVdvVFhTb0N2UDBDYWpybW5zT05DNEl4cjFCMnJLb0s4WjlRM0Y?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-08-31",
       "headline": "Eli Lilly Stock Falls After Pharma Giant Unveils $2.9 Billion Acquisition - TradingView",
       "source": "TradingView",
@@ -2712,39 +2745,6 @@
       "headline": "Moderna’s Newfound War Chest Opens Door for 4 Strategic Acquisition Targets - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkxtS2lralpQYWRmbDQ5UENMcVY2X3hNUWNzTWhNbGsxUUt0SmphODVrc0Z4djBrWEFqNnEwVWtRUmhLemNySFRPcVpTbF9kTS1XRWxEcjJZZFJvN0tsWmhXOUMzV1g4b0VEX09vdlJDUzMtNEFicXpkNlhadm5kb2xCbFdRR2dyS19UTUtKNUh0amt0Rnk1MjNOUTRjTlZNVFdDa2NHOE5yeFkyMElqTDJDMVNKLU9Yd3c?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "Morocco The inside story of Pharma Capital's acquisition of Servier Morocco - Africa Intelligence",
-      "source": "Africa Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDFOdkxqX0Qydk1TMXl5Nlc3MVdoMzFvalJMdmZhOG80bkZlUkNGZkNfbU5QVjBheDhXcEpaOEFRMlFFbU5pQXhHQUVZcEpGTzNsVTZUTktIdTJ5dV9RdGo2WmtPSkc2LUkwTEVDNXN2SVZDUFRTdVduUlpZN3Zvc0cwSWphVU9HMjY4bFV3VW9zbUJrOUxoMGY1TmZLZFlvd3hqUmNhbGNBRWxLVTNtM0tHMGQtNWM4dERxT2ktNjBTVmdkcUdlN1MwUjhuSDZZMnJacHN3cw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "Piramal acquires majority stake in CDMO Yapan Bio for ₹76 cr - pharma.economictimes.indiatimes.com",
-      "source": "pharma.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc2szelFVNlNzWUpOQU00RUhmb3h0Rkpoa0hvdVduRzBNaWRJWWQ0VDk3NUN5WTV4aEx5ZVhsNF9RM3VmU1plUGtQM0JaWmp0d2lXYVBUXzdva3FBNTdQTzZfZHhxSkVweVRlVHFDLTVNeElCcHJ0Nms4eEdEVWp6M3ZMTm1mRnJ0SVVjU1ZKcEZ0YnJlSi14ZmRORnJaNldiZkpDZjhvR3F4dVRYS1ZDVHNQdUJSakE5UHNjdTdxMEYydEdRYlhDLU1mMDk3eEtISUJhamMxcGRPclnSAeABQVVfeXFMTjI1Ymtxcm9SYjBIVkVBeUFza2VHdU1jOHpLTHltSWJNLVlYN3JvNzZUUGNSOHBYUnpKc2hEaXlOSGFnc20yRHQ0YThyYlRSelczVFNqWUEzb2xjTGFZUk42RkdPSXNaLU9xcVRQRjE3cUtvak50Q09uRmJrUmpENVhRZm9WR0JvTkI2d0x4cFRMYm1GOTdFNTZROVotci0tTk1XUmNOTXhxOW8zYm5qUGFQR1BwUUpxREs0TTY0NUt1UTVKN3dTZzBIREZqR0ZvS3VYZzNVS3Y2VTg4aXRhSFk?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-19",
-      "headline": "Aurora Cannabis Furthers Global Medical Cannabis Growth with Accretive Acquisition of Internode Pharma Limited and HAP Pharma Limited, Expanding Distribution Access to the UK Medical Cannabis Market - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPWms1VHNORlcyX01HUndGMzRyc0RQbC1ra1JORVY5SGxhcTNXTmZ3bWp6XzdwWXFNRDNrYkozY2djZ3E1Q05kNGNQeEJvZTlpQ0NiWGtScjh4dkpVOVctVE9SaVhnTWpOMVpWSzZhRmlHVFFhX2owUVphU1hEVk5jQ1V2MHlVNTEyUGRzblNFYjQ4NE0wanlFTmhTdlUtODItUUZMa3BqSFV5YzJlT3NvdnhyaERWNmVHVWg4N1oxaFR2S0lodEVnd25FQjN2WjZ0UDlVMUFmOVI3S0Q3SWZXcXRyV3JqZGhDSTFhcGVScHlIZmJYa0hvRkZJeThqcUpwVldwbld4TkJBdkRwaXQ2UkZ5bVlWcEotd1N1T3VJSTU2SmFma2x5clZ0RXJYejJLOXpwYm41S3RzQ2NkcGlhRTBlSHB2cEVkVmNlX1JhLVBNX1VQcmdYVkNQNUxxNXNXZHZ2UWVoS05BWWhwOHc?oc=5",
       "type": "M&A",
       "value": "",
       "area": "",
