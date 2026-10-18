@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T11:46:04+00:00",
+  "generated": "2026-10-18T12:11:41+00:00",
   "items": [
     {
       "date": "2026-10-16",
@@ -199,16 +199,16 @@
     },
     {
       "date": "2026-09-29",
-      "headline": "Stanford Vascular Surgery Celebrates Research and Innovation at 2026 Paul Baszucki Biobank Research Day - Stanford Medicine",
-      "source": "Stanford Medicine",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HMlhoMjNjTHN6UjQ5YVhrNmZQVTVPZWxjWXdaMDdoYVprR2NJYXdfRjlubVI1V2Jsa1o5Y0tQUXY1ZTlJbFlXakYyQlVhcVBfUllsOC1Bajk2ckUyYmxuSXlEMXlMa2ZEU01sWl9OWGJkZw?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-09-29",
       "headline": "The HCB-IDIBAPS Biobank has obtained ISO 20387 accreditation, the leading international standar - Hospital Clínic Barcelona",
       "source": "Hospital Clínic Barcelona",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaE5NQUkxZkRaSHJ6elNGaHNudm9BbWFkenNqUkZyaU1za0wtS2pNUTM5VS1GZHNWQXppUUo4QUZQNHd4NjktbF9SOWthZnlzTDh0WW9sQ08zUnVEWHJNanMxbzE4Vi1idUN2MGdsMTh6cTFVUWZoQTRhUUlzSll3WFduT01zdXdGcTJtMGtveGVZaDRDTjV1enZDYzJQZ056RThPYjBNNFZRbjBwQVlSWjJwRHFwOUdRX29rQi1KNDVpMjdQYTVZTUUtVlVJZlZ1RTk0ZnFKek9JZDVDNGVtODlXaV9oR0xMcGtqd2FfQlJJQkU?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-28",
+      "headline": "Stanford Vascular Surgery Celebrates Research and Innovation at 2026 Paul Baszucki Biobank Research Day - Stanford Medicine",
+      "source": "Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HMlhoMjNjTHN6UjQ5YVhrNmZQVTVPZWxjWXdaMDdoYVprR2NJYXdfRjlubVI1V2Jsa1o5Y0tQUXY1ZTlJbFlXakYyQlVhcVBfUllsOC1Bajk2ckUyYmxuSXlEMXlMa2ZEU01sWl9OWGJkZw?oc=5",
       "category": "News"
     },
     {
@@ -363,6 +363,13 @@
       "headline": "Prior Parkinson’s disease diagnosis and subsequent self-reported psychological resilience in the UK Biobank - Frontiers",
       "source": "Frontiers",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTjBiVzR2UTM5Y0hfN0Y2emU1TENZUXZMRDJNeVpXdXphblRONVZIa0RnYVZEQlRNM3ZhMnJvcnJYbTJUQ01zTlMxSk1BQVZrZFJjeVJZV01CMUVNbDlXZFdsQUN1V2tmRk1lazBZcE5Hbml2VGNfbUdRWVdBRzR4ZzdCVmZPYjZSclVjNVpHMWpIUQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-09-08",
+      "headline": "A data leak shut a top research biobank: lessons from the recovery - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92czJqVWVLd2l1NDVZRTFKRHM3cWVOS095N19COEtiTngtZ043N3NjNmg3Vzc0cTJ0LTFuVGdXT3BCSGNlQTV6Y1pDQ2FCdXhtUko3TGJMQUEydFRNV1Vn?oc=5",
       "category": "News"
     },
     {
@@ -2092,13 +2099,6 @@
       "headline": "Health data of 500,000 UK Biobank members offered for sale in data breach - Latest From ITV News - ITVX",
       "source": "ITVX",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXc2M2NnZUc1NDRCZ2lZWVRaVGdNNGpQQVZUZ21MV1E5a3VwWUxGSFJhUmcwX2l6MElPQzBLR0Z5WVNfNHFSTE9RS0x4TzNaX000WEMyc1ZyemJEOUp1Qk1aMWZmUklZdmU2THFNeUdwSHNmV3NHUmJrelRlWEMtS2hRYkNubWN0Vi01cWtDRHhoOEJiMHZzbXVrVV9VQTdtSGpLM19yLV8wYmJUSm50aQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-04-23",
-      "headline": "UK Biobank data of 500,000 people listed for sale on Chinese site - Jang",
-      "source": "Jang",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjVfV3JhMEdfczNfRmpLR0ZGQnQxLTJYQ1RLQU1GWW9kTjY0cTdtSGJGczFVd0NLMU5BR25FVmp5YTRjQTVNRHlseXJmNjdXaTd1LTJYbl83dHRUeDZIOXF0WkhRRU1Wd3VzSTlJQy1YWDIwNUtsMWdiWW4wYlhNYm9Cclh3N2pEUW1IS1pwTkxocmJmdXduZ2FXbndPdjg?oc=5",
       "category": "News"
     }
   ]
