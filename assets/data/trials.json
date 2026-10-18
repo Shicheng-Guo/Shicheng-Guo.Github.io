@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-17T11:11:47+00:00",
+  "generated": "2026-10-18T11:45:20+00:00",
   "trials": [
+    {
+      "date": "2026-10-17",
+      "headline": "RGX-202 Meets Primary End Point in Phase 3 Duchenne Trial - NeurologyLive",
+      "source": "NeurologyLive",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWVNTmJkYkQ3S2U2Q3VPRGFGdGptM0pSM09lVklydXU0Z1Nmano2ejdrQnhCQ09vWW43bXRzUFFCVEhLaENrM2YxRm1kOEctMkZPSFgyWEhRVGVnWGktWGtOZFVwc3RWZEZMYk9CWVljOVFnMjRlaGx1WTIteHV6NEU5TzVQZEQ0amt4TkVrcnZtRGs?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-10-16",
       "headline": "Fractyl Health's Revita Meets Six-Month Co-Primary Endpoint - GlobeNewswire",
@@ -124,8 +135,8 @@
     },
     {
       "date": "2026-10-14",
-      "headline": "Admilparant Phase 3 ALOFT-IPF Trial Meets Primary End Point in IPF - AJMC",
-      "source": "AJMC",
+      "headline": "Admilparant Phase 3 ALOFT-IPF Trial Meets Primary End Point in IPF - The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbUU2WVRXZUFlTXlWTTJMQ2I0ak43MVhrZGQ2S1JlSzNHOHZObEtweDRuMmt4cC03Q01ucmoySlZOdW1ya1VFckYxYWM3S19BUXJveW82Z0xqbmxpMlQ2YnN1ZmRGdnJ4cUNfUURETmI5amlXM2NjNVJrUUdVNFJEVEdlY0dKdTRkUi1lWXJJVFRySGRXRWVr?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -251,6 +262,17 @@
       "outcome": "Readout",
       "phase": "",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-10-14",
+      "headline": "Vanda Pharmaceuticals' Late-Stage Study of VQW-765 to Treat Acute Anxiety Fails to Meet Primary Endpoint - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkhYY09BMkNqUWx4QkkzRDl0X3QxeC1XUHRoVU1ISWdjRGtYMG1uVnhJVGc4OHpZc2h4TmFxT3VqZk9YWngtWDk4dThxdGx1Q0FBYUhKWVdVYjlwQXV1VDdrdk5rWFoyaTlHRzRKWHhLNktxcFVvelhjQXotN1ByV0Y2LVE5TFZkc0JoeW1zNzY4RUp6VEFNTVJ4aGtqclFT?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
       "target": "",
       "moa": ""
     },
@@ -1124,6 +1146,17 @@
       "moa": ""
     },
     {
+      "date": "2026-10-08",
+      "headline": "Innovent Announces Phase 3 RESTORE-3 Study of SYCUME® (Teprotumumab N01 Injection) Met Primary Endpoint in Inactive Thyroid Eye Disease - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkxfbnRCWGE5a2h3R0QzbjBFSHg0M1c5VFBGZW1PTk1laGVKRVYyak1jbVVWdzZuZE96MVRJZmFCbEpMUF9JNVVqSGJYQWEyOHl4TS1OQUFkaWNXaW8zaVoyMi1jaHpLUVZPRWJTUW9nN0poc1RxbzRLek9KQUVjZ25veWo1UTVuOE1nSTI2bGdpdTFtRi1TN3dsbw?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-10-07",
       "headline": "Amylyx Pharmaceuticals to Present Topline Data from Phase 3 LUCIDITY Clinical Trial of Avexitide in Post-Bariatric Hypoglycemia at ObesityWeek® 2026 Annual Meeting - BioSpace",
       "source": "BioSpace",
@@ -1315,6 +1348,17 @@
       "headline": "ArriVent’s stock plummets on Phase III NSCLC trial failure - Clinical Trials Arena",
       "source": "Clinical Trials Arena",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjk5bTBXd0YzTTR0WDBGcTFHekFteU1jbXRveC1fb2EzM0xLY2NLLTNIZUdWbWJ4TV9DbVJObnZBUUYyR185b1RJZTJ4VzdBTGI3VnNabGRjanNWS0JPdFlXc0pfLVZHMWJraUNnTW5qY05NeUhoOHlSTnRrZm9qMDNldDQ2bGVLenVRY0daenY0RTFSNFp6Sms0S3U5SzlW?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-10-07",
+      "headline": "ArriVent’s stock plummets on Phase III NSCLC trial failure - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2N6OW9uZlRGc0JKOW81Z2dMZXhlS2ZXYnRGLXdGVk9NVGRhNlJwenJaOUNWdEJjelpPQkZBUDJ3VTVYOFZGN2RLaHhvS19NR2MxTE5DM2hqRTBNbVY1RkoxZ3ZsWTFvNGZwajNqRUpOX2RZTmN5ODZMRHJ4M0ZqeFlLVFBPTG1DaEtHMklMWF9WSzJPVUxyRTNn?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
       "significance": "Missed primary",
@@ -1773,6 +1817,17 @@
       "moa": ""
     },
     {
+      "date": "2026-10-01",
+      "headline": "Sagimet raises $120M to push acne drug into Phase 3 - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFlRbi11SlVEYzJ3N1MwVkF4d2xJLUtiUHBGMV9JelVNQ2pybDE5WEMtTzlTUDNkNy13S0loRmNGWFZpRUM0MHRRdWVoc1l4Mk1UTGcwYzRET0RjdHc3MXRFblVVTTlqQlpBa2hDMUxocXcwczZzU2todGdNaFJsMXViMjZyN1JxUWRxZw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-09-30",
       "headline": "AbbVie’s Zumilokibart Meets Primary Endpoint in Phase 2 Atopic Dermatitis Study - The Clinical Trial Vanguard",
       "source": "The Clinical Trial Vanguard",
@@ -1821,17 +1876,6 @@
       "headline": "Sagimet Biosciences Reports Positive 52-Week Phase 3 OLE Results for Denifanstat in Moderate to Severe Acne - Quiver Quantitative",
       "source": "Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEQ4ZmtpNmljWnlEYzVPRGVNSjRUMDBscjlTeG5ISlpQUGI0cXdPNmV5TXpwTWZWMXpxeHk0RnFFY2txWlJ4X2QtX0dKN3o1dHk1ekxyMFhmOGRCMWNhT0ZfUUp0dF9xUDdMMk5sd2pjWXVIekw0aGE2TlJ4UEpRbkgtZC1BSXBMaG5WQ0gxTS04SGxEcWJBbE1xYTM1eHU3WEJkbkpqaHBRUGNfaWNhckNDSmRZeEtTTnlFR1JrcHVmUHhObnNRMTNfXzhibFNoR3ZJVXVLUQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-30",
-      "headline": "Sagimet raises $120M to push acne drug into Phase 3 - Dealroom",
-      "source": "Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFlRbi11SlVEYzJ3N1MwVkF4d2xJLUtiUHBGMV9JelVNQ2pybDE5WEMtTzlTUDNkNy13S0loRmNGWFZpRUM0MHRRdWVoc1l4Mk1UTGcwYzRET0RjdHc3MXRFblVVTTlqQlpBa2hDMUxocXcwczZzU2todGdNaFJsMXViMjZyN1JxUWRxZw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
@@ -2280,8 +2324,8 @@
     },
     {
       "date": "2026-09-28",
-      "headline": "MediciNova Shares Fall After Phase 2 Tipelukast Trial Misses Primary Endpoints - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "headline": "MediciNova Shares Fall After Phase 2 Tipelukast Trial Misses Primary Endpoints - Yahoo Finance",
+      "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTVxamdGQmtqMVNveGxWSk51NnJNelFnbzZZQklJbjRCZ0hVRUFTOGpKUTZ5MWhlcUtDR0IwYVhtTXM0YXN0V3VHME9HcGQxZFpaNXhUa1pDN1JPOHZEeHhXZGZTNUdJT2RlUWJPV2xKM2x3cHRseThPbmJ4dG53dzlkQTdaNDhRMDlUZk1MeHo0dTlsN1E?oc=5",
       "outcome": "Failed",
       "phase": "Phase 2",
@@ -2653,6 +2697,17 @@
       "moa": ""
     },
     {
+      "date": "2026-09-24",
+      "headline": "Acadia Pharmaceuticals Announces Phase 3 Enabling Topline Results from Phase 2 RADIANT Study of Remlifanserin for the Treatment of Alzheimer’s Disease Psychosis (ADP) - NTB Kommunikasjon",
+      "source": "NTB Kommunikasjon",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPM1pxX21MOTJiVWw4NndSYVVGdmRmejFuWDIyMnJlMW9QSV9QZDhUeEc3VS1CeURzLXVvalRmZEV1a3JiRWJ4S0hLU2pWaFBmOUR6RGJtM1h0U1hFZDVDbGR6M3lVdksyUTlCcmtoZ09rWUJ6cmo4b2F2RHpIYVhzQ0JfU0RqaExvZFp3UFZOeFh6LVFOOEhJZVJRMkZrQTlzeDE5UFB4LTRiSElUMGMxekk1X1I5ajItUlJ2NkhQRUJ6WDJ2X0RhT2lyUlZiMmtoN3owRUs3N0dsTGNfcVJxcGYtY1pqWHBIOWs4RWJpYVVYTlNHNWowYkN0eXpYb1c5QWp2R25FRllhNnc0TFhIQzFvOXBQWFZ5YzlCbkNxekNQWFoxdndUUExfeW83Q2VLRjhKQktLWk1GVGhJaDhNcDI2b2hLdE5GM3N5Q1NPOXktTExGY3NVQklWcjZIQQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-09-23",
       "headline": "Caliway's CBL-514 meets Phase 2 primary endpoint in Dercum's disease with significant pain reduction - Dealroom.co",
       "source": "Dealroom.co",
@@ -2693,61 +2748,6 @@
       "outcome": "Readout",
       "phase": "",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-23",
-      "headline": "Roche's Enicepatide Cut Blood Sugar and Weight in Type 2 Diabetes Trial, but Placebo Figures Were Not Released - Medical Daily",
-      "source": "Medical Daily",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0tqM21nOFhZMVFDSHlvSGtha1J0RDFKbGtSVzRPd2dWS2ktakNNQVNFWTlKeG90eGxfT09jd3MxTzdLVFlEeUFoeWI5WHJIenJRSUxNUFcxQnRhZ0VlTjR1bUpWWFh1TmNyTkd6OEh6SEhpVy1JaXp6T2NGRmg4NDRDbHdIYV9YOGlZdHUwYnRkVUppcGFzRQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-23",
-      "headline": "AC Immune reports positive phase 2 trial results for Parkinson’s drug - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFBvdmE4TW14Y1FxT0xJUUdzY3VuQjJNc1lkdXhfQ0Y1eTlYNk5iWERDcGlQOGtMZDlmOWVnYkpkakZ0OTJ1eExZQWw0MHFzRGpveDFGcXFTVElaanQ3OEtoZWszNjdEaVZUUzZJUzBidVZjYjRpVHB0TjhJSmJLdFJpbVFUUmxXbnVWSGowUEljMkdKYXpXMGs3bVVvZG4tRXRwcUtqRXhhZkJvZDFfZlhjMDFBbkNJbG9SZUlldWRkUk0?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-23",
-      "headline": "Vistagen’s fasedienol shows positive data in open-label extension for social anxiety disorder - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWhMWjEtVFFTMDRIdzNFVUtQVWRIWE02NEdoR19MeGhuT3JUaHhXTVlDUmh0cENBWU0tMFpvX0d6Q1MtWEdlNXB5b296WHB1eV9FaWJRRVRqSko5bDZCYTZ2SEhKU2NjTUNhal9ueUhWMEtfOG9DdmRqay1PRXp5aDFvLXBHZzFBa2NzRWN6czdJOEtaQjg3ZHlYM3A3QlFFVHQtTjhtdjNOWWlOTVctWW9aSFdDN1BpMTRmVUJUNGpTQ1d6VWxZZjF2RnZtUkhnYkE?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-23",
-      "headline": "When the Primary Endpoint Changes Mid-Trial: The Amendment Playbook Sponsors Get Wrong - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWGNmdkhjLTJ0WURZbjB1YUM3YTNsRVpsdzd5SVozMk9KSzM1YnpFSlBnamNHdVMzcW1qZ0FIV25NSUMxa3hXS01lTVJlcjdPbHk5aGVYTUZNaHNMdElSNlRhaVB0UjhEUm1PeFVQV1dFZVFnb0RuMERxTkZoUFJZNnhDSE50NDFqRC1DdnE0ZjFvaURadjdEaUlFYS1yd2c5V29pWTJ4bG00WmMtX3QzTDZab0U3aGlrQ2V0Wk5jUzBHQjJUNXpJNUdEZTktclJUT1hYczJGdUh2NlZXME0zNEdQZw?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-09-23",
-      "headline": "IMVT-1402 Misses Primary Endpoint in Cutaneous Lupus Proof-of-Concept Trial - Dermatology Times",
-      "source": "Dermatology Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlRXTUVvZG1OYmVnNlZkTXlZUWNCbnk3c0JWNGd5dmZTRmVMLXhBYThsbEhnbHE0V1lva1cxcjFfeVZ5M2xyVzYxbTRqMzVEQ0RzWUxSSFpaQTJUU1lDUy1ES210bUVKZWZXR0EyUWx2QTJUTFZfNFVtcWFsZ2VPcDZoSXJubmpsSGV5TXM0a1lrT19TeXVtLW9aeHBsRXBpTkZhU29uRVU0eUN3cTJQVDVobw?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
       "target": "",
       "moa": ""
     }
