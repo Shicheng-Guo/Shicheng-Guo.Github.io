@@ -1,6 +1,28 @@
 {
-  "generated": "2026-10-19T13:06:22+00:00",
+  "generated": "2026-10-20T11:31:02+00:00",
   "deals": [
+    {
+      "date": "2026-10-20",
+      "headline": "Ambrose expands rare disease pipeline with €161M AM-Pharma acquisition - European Biotechnology Magazine",
+      "source": "European Biotechnology Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEYzVlVmRzRfT29TdGU1R1FEanhVaVV0R1hoTGlTYlJDdFRGQzlOWm5WUXlJbENhaVlqb2RSbFVXNW00VFpwWjJLZWJNZjNHMW1Jbi0wQ3FMalVQbEVna0xMWnBoTVRnMU05b25aaFZxWlFJdER6WFBNeGloc2VIRi1RVG02VVdybnI2UXZnNnVTVGNpNDB2STNCTzFYa2xfZUxpcUNZU3NPVGdMbE9OdzVySko5Y2YtWWc?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Rare disease",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "Roche picks cancer targets, Hansoh builds the ADCs in deal with $400 million upfront - Drug Discovery & Development",
+      "source": "Drug Discovery & Development",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1JtcDVxQW1DMEtfTV81REZQQmdWek9kZXhVR2lweDUzSl9zWVgwU1lnODNQbEoyYjZKZ3pxX2o3eUZUdnFTd2hqWUwta3F3UFpCTE1BNmVFaG9hNFFiMG0xdnZWeWlFenJ1WThBMGM0M1JiNkpiaGhleThzRzJsMjFDQVVIdHhHRWIybUJETW5wZHEwTnZwQ3FibVJNODU3YTJDQ3h0U3lWcVBVMUEwdUtVLWxlamdBcHk0?oc=5",
+      "type": "Deal",
+      "value": "$400 million",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-19",
       "headline": "Cotecna Accelerates India Life Sciences Expansion With Acquisition of Hyderabad-Based Energon Labs - BioPharma APAC",
@@ -65,6 +87,50 @@
       "value": "$400M",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-19",
+      "headline": "Silence Therapeutics: Downgrade To Hold On Merck KGaA Acquisition And PV siRNA (SLN) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3BrOHl0eVFyX0I3MmpKVmpoUWE2TDZubnpFcmtDblBxN2xYeTVtVVV0MHBUZHdPSDl2NWwwcEpoMWR5ZUlvUnhhVC1mbGRtLW9oQ2JwN1NUNGd1WkI5ZHNwckdORlMzLTV3Y0xEUm9EZlZSc2EyOGtaU0VJaFZncThwRVZrNVVGbWJ3ZzdwcjRQbmh2VkhCY0xLR01nYnp3X3pxQlViWGg1dmFBWG5IT2lyd2gwMk11VkE?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "RNAi / siRNA",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-19",
+      "headline": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
+      "type": "M&A",
+      "value": "$1.3B",
+      "area": "",
+      "modality": "RNAi / siRNA",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-19",
+      "headline": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
+      "type": "Deal",
+      "value": "$15B",
+      "area": "",
+      "modality": "ADC",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-19",
+      "headline": "Merck KGaA to buy Silence Therapeutics and its siRNA pipeline for $1.3B",
+      "source": "",
+      "link": "https://endpoints.news/merck-kgaa-will-buy-silence-therapeutics-and-its-sirna-pipeline-for-1-3b/",
+      "type": "M&A",
+      "value": "$1.3B",
+      "area": "",
+      "modality": "RNAi / siRNA",
       "stage": ""
     },
     {
@@ -2683,72 +2749,6 @@
       "value": "",
       "area": "Metabolic",
       "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-22",
-      "headline": "Lepu ScienTech Plans RMB1.09 Billion Connected Acquisition in Biotech Arm - The Globe and Mail",
-      "source": "The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcWRwbFlJUU9OTmtSY1daY1ZTUTd1eElQSVdSMWNxaUQ5TWFYT24yRFBvZVgzTnhrdk9iYmsxWEVBdV90aGFaTjFkbG9mTFRhTnBfZzBYamhVLWdIYzl0R1lmcEE5VmRaejE5UWt6VEVhcVlpNFAzcGQ5WkxUZ1d3LWdrb2h5QUFrTklXN3RFT3UyTlA3VmtvQ2liRFFTaFBIeXRHa2NwN2gzQWFJT2JkWTJWeXRYRFQ3NzlWb0NaTG1HckVVVXRDaWMxYWExRURScHVtcUo4LWYtb2x1TWVzOWJoNEV3VDNJOWc?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-21",
-      "headline": "Lupin signs exclusive licensing agreement for YUVEZZI in Europe - Express Pharma",
-      "source": "Express Pharma",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWdhOGxwcm9hWko2Vk5ZX1o3MGoyVlBhN2M3NGxIdi04YTMtbkpTMkZPVGQ5ejJ0b2lYUEo3QnFCU3IwV2ZyOXBvYXdHSzgySEFYLVR5YnJ5aWF4dHF1R0cxWnpxMnEwZXFOcXBQQzM3LXI3N05pMVNfdDFCRDFtVGdkblpEdkl5VnEzanZ2S01HUlVodnc0Vg?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-21",
-      "headline": "Mankind Pharma signs in-licensing deal for Insulin Aspart and Insulin Degludec - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVXhIMW5acTRpR1c5MHRXeGZSV2lMWmFva2pCQ1U3NW1sNzdLaERBcmZ6Y1YxeklMZlJBNXY5d2tjYy1Id0lxV1BrcGpJQzJLN18yZXpaNlhIVUQzM0d5ZjFycVQ4NEh4NUtmUm5yNUlkcGc3d2U4YXBkVnJ0bWgxMXl2THliYkRwZUhaVkFuNlMxYktPRkVRazkwcWpUd3lHU3FpbHYya0k2bXpPZlVlS3FvUEJYckhDMHpZRTdrVE42eGpaY01UZFgyNlBmUDVvVkEyLTFRVzliSXBqOVdNRlBFZ2E2aGpyd05ub3VGQkZ2Z9IB9wFBVV95cUxQZ19NaW9Dd2Nqc2lpQWxMeXUzb2ZaSThaRGdrelFwZjRqT3hPeEF4a2VXOUd1OTZlZlduWGFqY2NoeXBmbXpSX2FNRlRzbG5tWXNYLVcyOG1pVl8wbTVNSFVoWTN5RUJPOVRGMzVvQzAwNHRaWHBIVUZRQXBhdmdEZVRadC1aUGJXb0F0NmFhTEdVQUpqOFBzOUhiVlNEZXZKTExjY2x5c3hCaXlKcHFlN2VWNTRMTUl6bGRFVE1ZSkNXSll1OUpHNndGZWo5YVNqWHYtNE9pTlJCVGFVSGFzeFlhSmsxOFpmcmFUalZ0eFdWQUtSdF9N?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-21",
-      "headline": "Mankind Pharma Signs Exclusive In-Licensing Deal for Insulin Analogues in India - Surprise Factor Analysis - vinanet.vn",
-      "source": "vinanet.vn",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3kxakVBMnVjaGdDZjYweDh3VlJZR0d5eUJ2ZnlZbFlDeUhIUzg0U2pmS25TYjZHZ0ZkNXFMLWpoOUdzYk9zYmlDNWFNQTlHUWRtdmxQUkhraUhKQV9UaDFhVFFmQ3FrMHo5NUJvNHJSNWRfXzZqdjZReExONFViM0IwaTdWVDZSUDI1VGtOYjhoa0xrWDRQMFlIN0lGa3BhUFdfemZTUnFwdElvQ2JFb1NxT1g2YUVacm9oLQ?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-20",
-      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
-      "source": "Generics and Biosimilars Initiative",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFY5d3ptSTZGUGVRRjJkSlVlR25pbXVHQUE1cDUtUGVzREp1NEd3bUNUeG1GOTFXeU54OHA2X3pmRE5vYzFyaHJZRHQyME11SEdtNnlwNXNzWUotYzZNYUJFNmgyRVV1TWYwc04yY01UV1Uya0dIVF85OGZLRWQyNUVtNEpnSktRWWFRZHdMUlBOUjF4LWZnNTMyYkJuM1hlMmN4T1dXS2lmWDltazNGYmlnaw?oc=5",
-      "type": "M&A",
-      "value": "$11.75bn",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-20",
-      "headline": "Japan's Chugai Pharma signs exclusive license agreement with GSK for anti-dengue virus antibody AID351 - BioSpectrum Asia",
-      "source": "BioSpectrum Asia",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTk5vLVlKRzdTU0xaRmFKYkg5SDFyaVdLd0c3MWJNOXZLVWF0LUI5akJTdW15eVB6M2FORmNRTXdCekFoZ2VKSHNFRnE1bUljT1pFcTR0UHY0NTl1OElEWUJBdGtOTnpKNnlQUDVrUWtrNlhHMl9wekdLSWVrazM0b2pUd2Mxd0FlZTRVZFJNUU9uOTFOTzBKZ0JybUtmdDJESFI5ejV4eXkyVEx5OFU3S0d4eERJMWJscnFtWTlPc1NYaDB0YUpaR1hWdkhOQXpqeWVHYkxRcTY2LWlQcDJLNEtHZnZJbjg?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "Antibody",
       "stage": ""
     }
   ]
