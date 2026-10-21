@@ -1,6 +1,48 @@
 {
-  "generated": "2026-10-20T13:30:31+00:00",
+  "generated": "2026-10-21T13:41:09+00:00",
   "items": [
+    {
+      "date": "2026-10-21",
+      "headline": "OpenAI Buys Drug-Development AI Startup as Science Rivalry With Anthropic Heats Up - Wowtale",
+      "source": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZeTZCS0lNb3p3R1VUUTEzaHNhOUlLdmw1YmpDMkw4WFUzM0hTNFpTZEhNQTlscmwzUG9MRDJ6TXJWQjE1OWUzYVNfYk03azVTaGFZ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "U.S. Rep. Wesley Bell seeks $730K in federal funds for St. Louis biotech workforce training, startups - The Business Journals",
+      "source": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSV9TSndtczhhYTYzdXFhRlh2WVhxclBZbC1jOHc4S0FUWUZhbnJqOVA5U09YcmxCYnN6cEQzMHBMcjV5d2JfTV84bU0xbTF0enppQ1VFV2lWbUM1bDNXSzRGQVc5bkk4ckxxOGtZUjZlczVrakw1SGN4bE5IVEt0MnJXcGVxSXFraEtlR2RLMG5BMzJUdWtIVVlFd2s1cHRiR1lDdXpBUmVRQQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "OpenAI Acquires Biotech Startup as AI Race Expands Into Drug Development - TodayPress.tv",
+      "source": "TodayPress.tv",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXl6bXZIcnRmd0JXVU5nMjc1bFlsczdTbmpnQXR1Y0lUU181eHJzbXNaelVHMHlKOUFtVU1xblYwY0JKUGhFQkJpWno1NTlBVkt1dC1JZ281SjE1c2JlNEFqeTBsd3BxbXI2R19LX1RrMzdQMFFSUTRMZlBxQ0gxajRSTnB3eFRGTkpqLU9GRlp2azlncGg1dXJaNllOMnZJclNBV1pB?oc=5",
+      "category": "Partnership"
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "OpenAI Buys AI Biotech Startup To Help Scientists Develop Drugs Faster - Benzinga",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR1pMTmpWeGtfX1Z4M1RfS3ZwZXp0VXZsZEFnaW0zWG9IVkZKUms2NjBDbXJGUHdIVUh3Tno4R052Ql94dHlCNWtMQnpld2hFZHJFZGV0Zk9RYTZyRC1ScEpkMTRWb0FpbHJwT0RqdWk0ZG9vQXNTVUlKSFBERTJmRjhvVWp5ZkFMNGI0b29PWDRkTm02dVBfNnFYWWt3NFA5OEU0TjdhaVhqYUxuQTBsaHZKNUxRTHZwVDA1MDNEM0hXM1VKdmVnY3pLcXN6eUk?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business - TechCrunch",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDFvdENpSndjLWtWdVRFSXRYWHJrVzNGTFJkY3pwc0s0eDNMYWxYWkVYZkxfTTJSdE5tdTJYRUctSUszdGt6VG9Jekl6am5JbVI4T1Y3MjRBTUZEOWJTSEhSTnFkYzVHT1RreWZuYmY1a1UweW9TMmlmaEJ3UWR4bEd5TllHVnBfQURXbVNOY0JfdlNMZ2hoZ29zSENFVlNidE9wTXVtem5SVjREMklXeWhqTQ?oc=5",
+      "category": "Partnership"
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "OpenAI acquires biotech AI startup Orchestra Bi... - Pluang",
+      "source": "Pluang",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGZFeTM5Y09MbGoxUHJjeXVPeWswdE80cDBLTmp3bW9WSmZBTlgxNkJRMzgwaUdHSEtSM3dUQTNFNmVLUVpwdmpPdG9xLW1LMHFWMVZrb0dSTEpiUnBpUC1OOWw1bVp1SFJBUVQ1OGdLUUQyOUhyX2VYUGdaZUJPanRmLVFCaE9nd2ZOTXRtQTdETF81NkNr?oc=5",
+      "category": "Partnership"
+    },
     {
       "date": "2026-10-19",
       "headline": "Biotech Startup Aureka Raises $100M Series B - Orange County Business Journal",
@@ -49,6 +91,13 @@
       "source": "TheBusinessDesk.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakdpLXh0Y1M1V2NHYS1vR3N5ZlFBbUd2ZWJ5WWcxRlVIMFdrQzhaWG1jMVF6ck5leUFvUGlPSEFCa0FiY09vN0w4OE80OHluUmZGcERlMTZvRjNHbVYyMjVVdlNteW9TT21WbVUtc0oyTGhfZmZzU3pKb1RoM3l2dk04X0FEdEM0eEd5eXRQdkE1VU85VlVUVU9iNnVuMnh0WG1EV1F1SzZkZWJtX255TUlYSUcwcS1JTkkxS2c2TWp1ZjlrSzBUM1AtY0gxajA?oc=5",
       "category": "News"
+    },
+    {
+      "date": "2026-10-16",
+      "headline": "Why I quit college at 22 to launch a biotech startup in Singapore - Singapore Global Network",
+      "source": "Singapore Global Network",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnVONmF2aEY3Q1VuZ3JNX1pZd010NzZ5R2VqSkhqRl9BX0FQdXgxdGxobHRianRGd0gzRkUwOVNWNVd1QjFlVEQ2SmtSdFBfQ3M1bmVSM252blFkSF8yZzZFQnkyOWlUOUhVNnJyTXNBOFZtS1hPN21rNGx6LTJkX2VXb29QZTVneV9nemVzSS1JY3l3SmU5WGwxeG84Y21WTGJ3YURqUExXaWNWNjRJMFM2Nm55OW1B?oc=5",
+      "category": "Launch"
     },
     {
       "date": "2026-10-15",
@@ -128,13 +177,6 @@
       "category": "News"
     },
     {
-      "date": "2026-10-09",
-      "headline": "Why I quit college at 22 to launch a biotech startup in Singapore - Singapore Global Network",
-      "source": "Singapore Global Network",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnVONmF2aEY3Q1VuZ3JNX1pZd010NzZ5R2VqSkhqRl9BX0FQdXgxdGxobHRianRGd0gzRkUwOVNWNVd1QjFlVEQ2SmtSdFBfQ3M1bmVSM252blFkSF8yZzZFQnkyOWlUOUhVNnJyTXNBOFZtS1hPN21rNGx6LTJkX2VXb29QZTVneV9nemVzSS1JY3l3SmU5WGwxeG84Y21WTGJ3YURqUExXaWNWNjRJMFM2Nm55OW1B?oc=5",
-      "category": "Launch"
-    },
-    {
       "date": "2026-10-08",
       "headline": "GenScript Launches Life Sciences Startup PitchFest with NVIDIA to Accelerate Biotech Innovation - PA Media",
       "source": "PA Media",
@@ -164,8 +206,8 @@
     },
     {
       "date": "2026-10-08",
-      "headline": "Biotech startups fuel surge in VC deals in Southeast Michigan - Crain's Detroit Business",
-      "source": "Crain's Detroit Business",
+      "headline": "Biotech startups fuel surge in VC deals in Southeast Michigan - Crain's Detroit",
+      "source": "Crain's Detroit",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2NDdlQza0p5Nk41UVZhak1OSFR3NC1IVERWRXFRQW5TQVp3eHh4aEZESlA5Ml9PSlcxOExDT05jTmN4dWlIOGpIREwzX085T3hxT2FlUWtFSWtRVS1jbS1ST1RxYUVMOEtKa3o0b0VFSmVTaWNVVTdIWFBpVTBfeS1yWVY2QQ?oc=5",
       "category": "News"
     },
@@ -202,6 +244,13 @@
       "headline": "GenScript Launches Life Sciences Startup PitchFest With NVIDIA to Accelerate Biotech Innovation - Moomoo",
       "source": "Moomoo",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUdhblVGMDlsLXpDNTBlMWVmMzZrbDd3cGJubjRqSlVmdEJSalpwcldyczduUnczQnZrY0hRVnF5MXFZUHk5cnFyU0I5a05qOVNzRmhxTjNSV0NXV0ItV1h0WjJ3cXdTQmhVYmZzczZSWmhwRWtSaEdZRFdsakR4aFM3ZGZxWW5IeExsRlFCM285cUJNN0M5TDhrX194NEU2NEUxd2Q5aTBEVmFLR3l1RXlxbnZwMTBOcHYyVQ?oc=5",
+      "category": "Launch"
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "Biotech company Obatala Sciences launches first east coast operation in Charleston County - WCIV",
+      "source": "WCIV",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPcVdsOUdJR0prM2pJbnVpZWRycjBfMHNfUXNJSnFhT1M5RnZOWm5tOTIzUkJ1Q2hFd0tzN0w1SzJkVDhkMHBVRUdqb3BJMWZZOHhjTjVxQ21nVlNqbVFxRjNuZS1iU3p0U19wUXBYTjRsNnZ0UHhPVEFqckU2RUM2aHZMVDdOZm9mZ3czNlVMVWZ5QjBMSEFCM3BNZU9XaEhVYjdkWjh1NkFKa0IzdEgzek9WT2RSZ3l5TjE4Q01PNmc3M3J0TTVOem53UUlQVHZ6UlF6ZG5QUGV1LXAzY25IZ1Nib2dwWl94Vl9VdDRHTFdsX2hiU0ttcWJ0bmh4cjAzeERXa0tIRmQzV19ZdFlTNGZTTGhadzUwU3V0dmRSa091cDhHcDUzNW1tVkJWQ0pyTDZYenZobzRadV9jc3dTS2tidHV4d2R5b2xTc1pqMzBJa1kxNmtSWGNhY0doNmZTZE5ELWF3?oc=5",
       "category": "Launch"
     },
     {
@@ -1701,55 +1750,6 @@
       "source": "Endpoints News",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMUVUd2hLUGhDU3pXM1NzTjRVSFhGQXJ2SURKUjYwNGY0Z2lSV0lNNmxHMDE3QkQwdm4waVY4aU9JYkRDRG9rY1M2TVBoTHVGS2tocWh1eW91aXpESktscFdNc2g2b2xyQWFMNFZfRFEzQWQyOXNtRkRJU2lkNlN5cFZYYTRGYTQ1b250MTdLUVNTTUQwNEh5RDczajh6aTl3M3AxRk5EVUdTV0lX?oc=5",
       "category": "Breakthrough"
-    },
-    {
-      "date": "2026-07-10",
-      "headline": "Oratomic Raises $300M for 20K-Qubit Quantum Breakthrough - techbuzz.ai",
-      "source": "techbuzz.ai",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHlsQkdhZXRkYWJyUDZpaElsaHA0ZGpubk5YRlZLWmdKdmdzTEJhWU1EMUpMS1c3eXFhbHlab3ZNSDNaOVc0eGZmWDliSlRDX0lYbjZxV21TUllBbHR5djFjU0hmWnNfcFc4N2NNd05rUFNsQ0xUWEVFTTVhWTJVQktTcnJKQ3FXSXl5aTdwa1JPUQ?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-07",
-      "headline": "North American Startup Funding Shattered Records In First Half Of 2026, Driven By AI - Crunchbase News",
-      "source": "Crunchbase News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLVI1ZmZlajhQQWVWY2VZNXNMNXFlS3Q1amFDUk5VVjJMS05LRngzTENiaHdhdFFHdnh0bkJNai0yenNmLUhQd0dmX3MydXRQejVzTmdfQXdOeFMwdmYtWTBLZklHeDRwamg4bU5zLVA4NFRRVERBMkE2ZVRiTlhKTFJsLVl5WGh4SVBkUXYwbmU?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-07",
-      "headline": "This Space-Bound Biotech Startup Thinks It Can Cure Cognitive Decline—and It Just Launched a Historic Experiment - Inc.com",
-      "source": "Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMnBQZlJta3Y5VUVIVzcyYWVxYmJ3YUZCNzhONHhvMV8yazBONkRhYjFLanM3X1VuUlpJUmlfUUpZTGcyLVRzSGthSlBwYmRqRHgxNFVUMDlCMUtfdUVRNXBxNEpwLWpROTRFblJLaG1qSmQ4cUZHYnIwZm1MQWt6UUJhbkVrNkZ5YzhMeVNDYS01eXBabFcwMm1mZlFveUxocExQLWN5NUphTXJnWUo0NnBadExYUUJDMHZfQWxlYXBUaXBzVUlNUkk5N3B6cU1CSWVDb3lQbkh1WmZaXzlaNlVGRldzdDVoMWc?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-07-07",
-      "headline": "HKU biotech startups showcase at BIO International Convention 2026 with breakthroughs in drug development and precision diagnostics - EurekAlert!",
-      "source": "EurekAlert!",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6UFpwYTNPRU9sQUI5OTFXYldtV25ydTdFamxSNndqZmtPVmJ6R3J2cHYwbXMzRTBWeWg5MnhNaUxFMnBtV2lzSWRkS1pfbjdVa05tM0hsY09nb1dV?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-07-07",
-      "headline": "Brandon Capital scores its biggest return ever with $2.1bn biotech acquisition - Forbes Australia",
-      "source": "Forbes Australia",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN3d4Nzk2RUl0cEQtbUVHZ2NQSzRWUXFVRmx0WVRsRGJoWnNqNHNaOVhzeE81WDdoNXZHQjNCN0ZwNU5kcldCSnFiX0d5RU1IZTlLQWptdElWS0dxSkJDOE4ydy1PMTRWcGJzQ25MVl9pN2FlOWpnMTBXeXlCZklPM29Nb2N4V0NyOGxJZW5xU0RLTGNRem5JR1JfdTlaNjFKZWk2aVEwTGY1Nk1PRlhfV3l1NmhtLU8tZFVwaW9qVnY?oc=5",
-      "category": "Partnership"
-    },
-    {
-      "date": "2026-07-07",
-      "headline": "Young biotech faces 'best test' in cancer fight with $130M in funding - The Business Journals",
-      "source": "The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEI3ODB0Y1lUNjZYNUZ6cHdBMmJUblZnd1FFVkVwcEN0dlNiZXhxZ2dIWjVFSjQ3VUNPRTljNEFTZ3o5Q3lCYjhqWGpMdWx1WENjcEFUNjZCc3FFWTlNNjNNX1BscXBVVlAwVXRqUTFZVHdqcnhoUkhtMnF5UTlBLWU3bGtHNzlubno4SUUtLU1OdzZFbGotSElvdFZZSGFhUnEwUndaWWViSGsyRDlMNW93?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-05",
-      "headline": "Startup Island TAIWAN Bridges Tech Hubs, Launching East Coast Biotech Initiative in Boston - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS1h4c2VueXgxLTZyVVprbXR6dGpOWGx0ZkV3a2s3dW9zSkRLWVkwRmt2aVh0Ym1HVE1mdGtFSG9XNllnclhuUDVEc255cENnQmZ0ZUkya0tRVC0xaTRkWUpoUmhQOTFNaFdkazEzT21BSXpYdkhMSUNMOWJTVGlJRjNZd1c1djZNOHZvMURvcGJaTG5LSmQzaVdObjd5TDR6bTlzRl9OR3RrOE1DcmtDMS15elU5Z0pMN041NU9nMEVBRkVCc29YUlBwd2x6ZEJXQk1RTUtQczl6b3hQaFE?oc=5",
-      "category": "Launch"
     }
   ]
 }
