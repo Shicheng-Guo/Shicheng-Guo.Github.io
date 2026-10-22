@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-21T11:43:24+00:00",
+  "generated": "2026-10-22T11:46:21+00:00",
   "deals": [
+    {
+      "date": "2026-10-22",
+      "headline": "Celltrion Licenses IgA Nephropathy Drug Candidate from US Biotech Kaigene in Deal Worth Up to approximately $580 Million - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVnRfUXRyM3VROEdMWUtwaUp6STctU25xNnVpVzNhSEd1UUxOZkd4NlFITWVMa0YxVVNUczFEU3FycHpKSUxIZ1FxU2VzWmNXWUd5TkdnMFRYb3dTdVk1emFTaHlIN0Y4ZFhBeFktdGtkQ2hrYVE?oc=5",
+      "type": "Licensing",
+      "value": "$580 Million",
+      "area": "Renal",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-21",
       "headline": "Sun Pharma Raises Rs 10,000 Cr In Debt To Fund Organon Acquisition - TradingView",
@@ -20,6 +31,28 @@
       "type": "M&A",
       "value": "",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-21",
+      "headline": "Cencora making $2.4B acquisition as diversification push continues - The Business Journals",
+      "source": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0lTc1N6OS11U0phR1BFWUhoWHZmZE92NTBDRFR2QVVOSzNTYUJKVUhrLTJ1OWFaT1YtWkpzR2hOdWRjNjhydi1sU0h1aXd4UUhCbWZDdEJNckJQelQ3RFVGaGs2blJncHN1LVRqM1hLS2VWZGJtdkFLb2hoY2VROXluSXE3Q0FuTldpVGx6dTlmOVo5cF9VOUVzN2NKTVZwMjFjSURzR2VqdHVZ?oc=5",
+      "type": "M&A",
+      "value": "$2.4B",
+      "area": "Neurology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-21",
+      "headline": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
+      "type": "Deal",
+      "value": "",
+      "area": "Oncology",
       "modality": "",
       "stage": ""
     },
@@ -76,6 +109,17 @@
       "value": "",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "Hansoh Pharma Teams Up with Roche Again on ADC, Behind the $400 Million Upfront Is a $15 Billion Bet - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HaUxFRnQ5aDZzRThnLURkS0JCdUhYbzJURm4tNXNpQ3lEWDRSOHROSFN6TjlrOVpnZi1Uamt2Q29ZQXdFcVdQekdqNlR2akdDS3ZhT293UlJPbC12NWNsMkxOYmZPMEFLMENsWEZtWnh1UUxtYlE?oc=5",
+      "type": "Deal",
+      "value": "$400 Million",
+      "area": "",
+      "modality": "ADC",
       "stage": ""
     },
     {
@@ -2701,50 +2745,6 @@
       "headline": "Sword Health plans to buy Headspace, filing says",
       "source": "",
       "link": "https://endpoints.news/sword-health-plans-to-buy-headspace-filing-says/",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-25",
-      "headline": "Honasa calls off proposed Fluence Pharma acquisition over unmet closing conditions - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFpSSUV3RFY2T0hnMl9UdzhXVGRiZWhYY2hCTXZKdTFKT0NZckRfSzgzRE4wc09rT2owVlB1WU1CaHg1QjlDSTJsUWJoMU5Rc1kzeGRYTWNTS2JWYTNqT0dVRksxN2h4ZTR6MzhlVE5xbmVYU0lNbDVVOFdHNTVLZzhDVXdTQXktOXpGUlRyYlBDYV9DajdrM1dRaWhSaGpmY09fLWhHS1I1R1l3eFdUeGdXZ0k3dGt0YmJmWWFhTklXa1dlb29YV0Y4Xzh0RHo2Z3htVkdn?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-24",
-      "headline": "Hanmi Pharm signs massive licensing deal with US biotech firm for obesity drug - Aju Press",
-      "source": "Aju Press",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTWjNOLUxiXy1jMGtUdDBDOWpOMXpoVThQYkgycDBLaTk0R3o2WW12T0w1S2hfenZwRVZfbE1TNmg0SDJEX1ZXYUZMQkxIUTROUlZLbnptQQ?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "Metabolic",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-24",
-      "headline": "Focusing on Asset Acquisition Over Building a Single Platform Technology - Pharmaceutical Executive",
-      "source": "Pharmaceutical Executive",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGhTdEZKaXlCeVlUOU1ndWl5U2tRT3hpZHpuVEtzX3RMdTl3aTlTcTVfSFpSdTZIdFYwOXQyVWdqcnVTZlVlXzBwOUFUTUU4VXZ5cDRScTEyQU5vRFpRbV8yTXpnLTh4d3RYLVdUSWpDMGNVRko4dDM0bGkzNmVBaDByeDFhMzBTVVY3NGcxeXpBLTkwczduUDVTRTdEOEE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-24",
-      "headline": "Piramal Pharma completes acquisition of controlling stake in Yapan Bio - Manufacturing Chemist",
-      "source": "Manufacturing Chemist",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONC0yblJmSVd4VmpQTW4xZW9CLTZ4UlM1Y05mZktZQXpFbDlrY3d1RXRMeHRZQ3VoRnpMSUpLOXR5RGtrSzBDSGJSSS1wOFh6Ty1jdFY3aFRadXpEOW9tMFpCNGpaUjQ2NDh0RXRGcFdmUlpodGhTS3JWMVhuNW5TeFZjWVZPVmp5T3lzZ2JCaW5ia3VZUnNDaQ?oc=5",
       "type": "M&A",
       "value": "",
       "area": "",
