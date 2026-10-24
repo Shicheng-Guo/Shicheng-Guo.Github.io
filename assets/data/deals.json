@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T11:33:26+00:00",
+  "generated": "2026-10-24T10:53:41+00:00",
   "deals": [
     {
       "date": "2026-10-23",
@@ -9,6 +9,39 @@
       "type": "Deal",
       "value": "$1.3B",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-23",
+      "headline": "Shardul Amarchand Mangaldas & Co advises Evonile Pharma Ltd. on acquisition of 'Minipress' and 'Minipres' brands from Pfizer - SCC Online",
+      "source": "SCC Online",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmVOVEhtQ21yUjZsSFN6NjBxNGw4bFA0WjdrWXdZV0UtRjFmTTVYODdCR0lOUVFpbWJCUTZXTUpHM01wcDBILTNCUzZZNmpqS2hHMHM5OXVNNkFVR2pKb3dnQWRSbFdndnpFRzVXQTJGSzdoZ2ZmV1YyalgzSWkycU9vRlMxT0piVV9ESmNEV2pkRXpmWUdnWVJLck05WTBaSzJqbTdRaVNwd2VZT0pZQmF0Qm1MdmRTa2JZdFhSVU9xckVHcGhR?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-23",
+      "headline": "Biotech Stock Bolt Biotherapeutics (Nasdaq: BOLT) Soars on Acquisition News - Investorideas.com",
+      "source": "Investorideas.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnI2RlpkMkFiRDZhcTl2WVBpQUVBVmRtcTZXY1J3TmprWUYySWx5bi03dWpEal90bFFya3N0U2Fwamt2UE1lSGQ1SmtRZ1Q1ZDQ5eE16a1Zab1FoZnZPeGtLdUpnSzdRWEZwSzFXOENvbDk4eGdvVk1UY1JTUmFraGxoWHBhMktYLWlkaU1TNlVFMDRBLUtob2laTGpXVUR2czFhdGtieXZMamVyWjdkVXlZN0NxNVZUeUxDVmt4NUpUWFBON3RSaTVB?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-23",
+      "headline": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership",
+      "source": "",
+      "link": "https://endpoints.news/pathos-raises-237m-at-3b-valuation-signs-bristol-myers-neuro-partnership/",
+      "type": "Financing",
+      "value": "$237M",
+      "area": "Neurology",
       "modality": "",
       "stage": ""
     },
@@ -2713,39 +2746,6 @@
       "source": "Machine Maker",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcW8xSUFIU09wZUFXdzh3N2o4M0VGOGV3SzNzUWJUVTdIOERUOHpMa0gxQmlidTh1aEJ1emtacjBZRUg0UEtFek1RcC1PZ1JFcDN1eHp0dGs1YjljMHdvVjhtQl9OcEpzOXRJQ2RmcVM3QWZGT2xUbmZncTBBclZVYXhKbVc3MlZhUUw5Yzhpczg3Zw?oc=5",
       "type": "Deal",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-25",
-      "headline": "Honasa Consumer Calls Off Proposed Acquisition Of Fluence Pharma Due To Non-Fulfilment Of Conditions - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMU1PdWdXV0FfeUVkUGhCYmdjWDJFTTdtNHU1MkJjZElVNjZYNVFFdUo3Zl8xQW1MTThqcVlUQkdIVGY2NkpDTUVrZEFxVHJWU0JwOC10YnVvdmtpY2lvUjFRX2pteWQ1aTRCRElYbGVLX2p5QUo0M0E0M29vc3ZCVUFlZlYzbUExTzJLMFRuYm85UlR1SXQtNWlfRzJ1X3RORGhNOEVkVkVIcEo0aHBSTnZ0bTNRcTZYWkVlLTRKVWhmZGM3cnFLZVV1LXFyUUZoME5CeTQ2RFNVS204b2syQ2tGY0czQTNEUUd0U2g5cWUyaV9pajF2VkVMUjZqZ2M?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-25",
-      "headline": "Honasa Consumer calls off Fluence Pharma acquisition - Entrackr",
-      "source": "Entrackr",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1I2VlE0X3hMMVhtSElqdTBmeVlnVW8zcmhBd1VUZDJaUkptcW5FcWh6VVZIc3BWMWNORTFMSThQMGhpSU1wdng4eDM0eVRmbHgwQ1c1QTNYdEJmM3hQZUdmRFZHUjRYbUozYjRzWGFEUHVKZmdSaTkyMGo5UkNUTXJDTUwtajJGQlh6M3lXRk5EMlc5MHfSAZYBQVVfeXFMTXNSNlZRNF94TDFYbUhJanUwZnlZZ1VvM3JoQXdVVGQyWlJKbXFuRXFoelVWSHNwVjFjTkUxTEk4UDBoaUlNcHZ4OHgzNHlUZmx4MENXNUEzWHRCZjN4UGVHZkRWR1I0WG1KM2I0c1hhRFB1SmZnUmk5MjBqOVJDVE1yQ01MLWoyRkJYejN5V0ZORDJXOTB3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-25",
-      "headline": "Honasa Consumer calls off Fluence Pharma acquisition - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1RTZ0lFNTZYYWxCUWlzOEhpTml5YU1jcU9XcHVXdmtpUVhaNTVhdkk0Nks1RU9CVkVmekRrWFZCX2xfMVV3LVJGUmNMUmNyMS1qWjNyWGhqVHJRVS1PZ2EwRlJGNUpyNk1BeTl1QUNyTkJSUXRqNnlZWTdHLUV6RjVxTzBodF9IX1BPd0NsQ3NHUmFwOC01bHBsZ3lEV2dOTTVYQjlPbWF6UFpBbVp0blplV0gwUXFhOU5ROXNHY9IBxAFBVV95cUxPM0IzSTNtbV9uOUxORHlEZ0VRbVNyOGlaTjNoU1c0RDVGQm9mUjJmSWJEVDBmSjVTRDA0UjZhbExzMkUxWTEzM1JtcnNCY3pwdEFtbmpmaVJIUGtnQjBwc2Rab0tOUjRYZmNfRXBIZDdVRWlPanVXUjN0Mm5SbVUyZEZsRFo5M3NHcDBJUktINzY5WmEzTWFpZV9ibS1fT3VCSFRTUmFJSktnaWkwUDg4aVJlU0phTGZFa3Y5WGhPdnpvWU90?oc=5",
-      "type": "M&A",
       "value": "",
       "area": "",
       "modality": "",
