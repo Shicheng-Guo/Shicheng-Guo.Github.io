@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T10:53:41+00:00",
+  "generated": "2026-10-25T11:20:38+00:00",
   "deals": [
     {
       "date": "2026-10-23",
@@ -135,13 +135,13 @@
     },
     {
       "date": "2026-10-20",
-      "headline": "Roche–Hansoh ADC deal: $400M upfront, $15B+ milestones - Drug Discovery & Development",
+      "headline": "Roche picks cancer targets, Hansoh builds the ADCs in deal with $400 million upfront - Drug Discovery & Development",
       "source": "Drug Discovery & Development",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1JtcDVxQW1DMEtfTV81REZQQmdWek9kZXhVR2lweDUzSl9zWVgwU1lnODNQbEoyYjZKZ3pxX2o3eUZUdnFTd2hqWUwta3F3UFpCTE1BNmVFaG9hNFFiMG0xdnZWeWlFenJ1WThBMGM0M1JiNkpiaGhleThzRzJsMjFDQVVIdHhHRWIybUJETW5wZHEwTnZwQ3FibVJNODU3YTJDQ3h0U3lWcVBVMUEwdUtVLWxlamdBcHk0?oc=5",
       "type": "Deal",
-      "value": "$400M",
-      "area": "",
-      "modality": "ADC",
+      "value": "$400 million",
+      "area": "Oncology",
+      "modality": "",
       "stage": ""
     },
     {
@@ -349,6 +349,17 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXBkc3JWZVl5Tkx6UkRIYVRBMVo2cE5ySXBuMXA5clJHaV9BYjdENWQ5ZS1HU1lpRDMydzh6NDBFSVJkLTdNRzVjLWdmSVNneUpaWklHTzdvbmlDWEtxVGJNS3M0c1IzdDNjNkNkRG9rZ1ZqaVBlQ1J3VElsTGltekxNcWo1UVJJWi12eUpNTGx5eUx3ellfRmVMRFo0aVBIT1FvbHdnNXBrUFpjWUJ0S3d1dFp4U05XOW93Tw?oc=5",
       "type": "Licensing",
       "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-18",
+      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
+      "source": "Generics and Biosimilars Initiative",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUC1qYk9FOThSSVNCUjdjM2tYSmNTTHQ1UzFsMDlLeWZhaEZwRDJYZ2JnNUxmcmI4TVpzaVVPQlIzdjlGYjkxTWw2TlNpNWo3YnJNY1N1OXVTRHBxeTJGdEdZcndRQV91OFNNd01ObHNpTW5IaU5hd1BidHN0cnF0UGdEZE5FSDNYT2ZPY0hMQzlYUFczSkJ4Z2VfdjNJaTFYTTFPSUhicUpQX1VaaVE?oc=5",
+      "type": "M&A",
+      "value": "$11.75bn",
       "area": "",
       "modality": "",
       "stage": ""
@@ -2731,23 +2742,12 @@
     },
     {
       "date": "2026-08-26",
-      "headline": "Haisco licenses immunology asset to Sentivera in deal worth more than $1.5 billion - The Pharma Letter",
-      "source": "The Pharma Letter",
+      "headline": "Haisco licenses immunology asset to Sentivera in deal worth more than $1.5 billion - The Pharmaletter",
+      "source": "The Pharmaletter",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3hnV1UzQ3ZDNzNxOVA2Z3JhOTA5dFZ3MkFFRFh2R25rTWdRa2VCSEpOWmpNQ1dTbnR4MnNJMXNEZ3FNNHU5NjJGeVV0S0VwalVaRnBzQVktMmY4VzdSZVVjX1E5d1JwM09GNG5WdF90R0hMTGdGT1lhcGo4WUxnWEFRaWFqQzUzY2I4cFNxMm8wUGJWTXVvWjkyVE9BMlF6a0VMbkV2dWV3MUxtRnA2aTlhNE5TNWdnbDVsZm1uZ0psLXRN?oc=5",
       "type": "Licensing",
       "value": "$1.5 billion",
       "area": "Immunology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-25",
-      "headline": "Piramal Pharma Acquires Controlling Stake in Yapan Bio - Machine Maker",
-      "source": "Machine Maker",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcW8xSUFIU09wZUFXdzh3N2o4M0VGOGV3SzNzUWJUVTdIOERUOHpMa0gxQmlidTh1aEJ1emtacjBZRUg0UEtFek1RcC1PZ1JFcDN1eHp0dGs1YjljMHdvVjhtQl9OcEpzOXRJQ2RmcVM3QWZGT2xUbmZncTBBclZVYXhKbVc3MlZhUUw5Yzhpczg3Zw?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
