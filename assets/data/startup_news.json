@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T12:36:25+00:00",
+  "generated": "2026-10-25T13:08:15+00:00",
   "items": [
     {
       "date": "2026-10-23",
@@ -177,6 +177,13 @@
       "category": "Partnership"
     },
     {
+      "date": "2026-10-20",
+      "headline": "Why I quit college at 22 to launch a biotech startup in Singapore - Singapore Global Network",
+      "source": "Singapore Global Network",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnVONmF2aEY3Q1VuZ3JNX1pZd010NzZ5R2VqSkhqRl9BX0FQdXgxdGxobHRianRGd0gzRkUwOVNWNVd1QjFlVEQ2SmtSdFBfQ3M1bmVSM252blFkSF8yZzZFQnkyOWlUOUhVNnJyTXNBOFZtS1hPN21rNGx6LTJkX2VXb29QZTVneV9nemVzSS1JY3l3SmU5WGwxeG84Y21WTGJ3YURqUExXaWNWNjRJMFM2Nm55OW1B?oc=5",
+      "category": "Launch"
+    },
+    {
       "date": "2026-10-19",
       "headline": "Biotech Startup Aureka Raises $100M Series B - Orange County Business Journal",
       "source": "Orange County Business Journal",
@@ -224,13 +231,6 @@
       "source": "TheBusinessDesk.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakdpLXh0Y1M1V2NHYS1vR3N5ZlFBbUd2ZWJ5WWcxRlVIMFdrQzhaWG1jMVF6ck5leUFvUGlPSEFCa0FiY09vN0w4OE80OHluUmZGcERlMTZvRjNHbVYyMjVVdlNteW9TT21WbVUtc0oyTGhfZmZzU3pKb1RoM3l2dk04X0FEdEM0eEd5eXRQdkE1VU85VlVUVU9iNnVuMnh0WG1EV1F1SzZkZWJtX255TUlYSUcwcS1JTkkxS2c2TWp1ZjlrSzBUM1AtY0gxajA?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-10-16",
-      "headline": "Why I quit college at 22 to launch a biotech startup in Singapore - Singapore Global Network",
-      "source": "Singapore Global Network",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSnVONmF2aEY3Q1VuZ3JNX1pZd010NzZ5R2VqSkhqRl9BX0FQdXgxdGxobHRianRGd0gzRkUwOVNWNVd1QjFlVEQ2SmtSdFBfQ3M1bmVSM252blFkSF8yZzZFQnkyOWlUOUhVNnJyTXNBOFZtS1hPN21rNGx6LTJkX2VXb29QZTVneV9nemVzSS1JY3l3SmU5WGwxeG84Y21WTGJ3YURqUExXaWNWNjRJMFM2Nm55OW1B?oc=5",
-      "category": "Launch"
     },
     {
       "date": "2026-10-16",
@@ -391,6 +391,13 @@
       "headline": "GenScript Launches Life Sciences Startup PitchFest with NVIDIA to Accelerate Biotech Innovation - Financial Times",
       "source": "Financial Times",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUVaRzBCeHZSYlF2X1Y0WlRjWk9XWUYwbVFPWFVfeGJLWFpJNkFEc19Bd203TWFvT3JfclNiVkpHcUQyN0twWG5xYXRiLWlCdkxOaUpqVmc5NzNoSGFwd1plT042RGRMZzJULVZWdUgyRWJYckhIV3UwUy1WOXlIR1VZZ2RVRUduODhPblhSREpYQm9DUC1kNA?oc=5",
+      "category": "Launch"
+    },
+    {
+      "date": "2026-10-08",
+      "headline": "GenScript Launches Life Sciences Startup PitchFest with NVIDIA to Accelerate Biotech Innovation - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUlA1UFo4Nl9hTkhzUGN6SFJRV0o3LVQwLVoyejZIdmZudUxFVnJqU250NjJOMTZrcksyY0lBN2Jxd3M3M2pINzBZcDlqY2c3ZTZ4VDI1WnhUN0FMckF0bHhzTlk4eXNDLXVSTEU1bElpVlZiQXNQZk53dGdTN0MxbHFLRWEtblhtUUhlMDJmVHFNQzNkMVJDMGtmRnR1NHJfUEp3?oc=5",
       "category": "Launch"
     },
     {
@@ -1634,8 +1641,8 @@
     },
     {
       "date": "2026-07-16",
-      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - PharmaVoice",
-      "source": "PharmaVoice",
+      "headline": "This startup thinks humans in clinical trials could become a ‘formality’ - Pharma Voice",
+      "source": "Pharma Voice",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYkN1UTF6ODBQNG1McTBaUS1LQllJUUxFbGxCSWhCOHVBanhzSlBGVmJuQkJXRnJKdm02alFLQ0RiZ0hGNERxVER0WnQ3QnMwN1c4NXdBRXZlWHBEeFdiV3JFdTN3WUJzNXF3RWdicm1jd1M0SzdPdEdWcUdELV95aw?oc=5",
       "category": "News"
     },
@@ -1743,13 +1750,6 @@
       "source": "SynBioBeta",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUVEwbDZIc0UzblVEUUk4WjRfUjJMTW5DZmFBSjNvUS1uMXY3NGdvbHg4TDVUZ2hfbVBwenVWcFNWY0lVMmdhV1FybTZoOTY4eXZ2UG5xQWhRRnNkN1ZhalZtNE95Z2UtVjc4TmNBSm1JdFI2cFQxVGpkUTlibmRleEc0REtvT1ZIQnRJMFdxWXlHRWV1RzNTZ1hwaXVYUEZJU0pLbXJmV1B4X1JOZ2ktajZ5WGNOU2NWdDlQX21RZjFvTjJBMXowS3l3?oc=5",
       "category": "Funding"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "Miles Wang leaves OpenAI for a $2bn AI drug startup - The Next Web",
-      "source": "The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54czkwM3ZxekdtTVFxYzRDUnRhMFVZVURVX01jcWlseE1fcHZOQURnOE1YSmFiclB0MWpyXzlUN3FPV3l0OTJaVE03cGVXRmxFWmJENk4yRUJ4SmFtcnpMVkhPSGJ2dUllZ3ZpX1pKVUNpa0ZtX0RHUVk2Yw?oc=5",
-      "category": "News"
     }
   ]
 }
