@@ -1,13 +1,6 @@
 {
-  "generated": "2026-10-25T13:08:15+00:00",
+  "generated": "2026-10-26T15:06:25+00:00",
   "items": [
-    {
-      "date": "2026-10-23",
-      "headline": "Ex-OpenAI science head Kevin Weil raises $215M for drug discovery startup Warp Sciences - Dealroom",
-      "source": "Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3J5NDgxcVFobDFZeFhBVlRCdHBJb1piLXl5NG95VlJVVUFtVjllYUVlSmtSZUZNQlZsNnlFa1lPcF9NdFZscEF3c2IyaDI1aHV6ZlUwVkRBbWpwYVZLWndqampzTDZJMlg3SV8zak5ybTJLQ0ZyZ3pEaTFtRWdkUGNzTEktdE1JbFhrVlJvR1ZucllXeWFuOV9QX0NDb2hwTTc2TE8taDZCYUJMVnE1UDhjeGh4WlVKQnBIbw?oc=5",
-      "category": "Funding"
-    },
     {
       "date": "2026-10-23",
       "headline": "Former OpenAI science lead Kevin Weil launches AI drug startup Warp Sciences to let robots run laboratory experiments - Education Times",
@@ -49,6 +42,13 @@
       "source": "Education Times",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWGl2cU1KUEN6TGJMV3Y2UjE2enh5OUV4Tjh2LWNXVHI1UWxBbnhXYlU1UDMyMzZ2d1F0N1RtaFZ2WjZaSFpvbWNLNF92RXpneFBWaWxfQVpOZlVsaE54RDBuM25pdzBZREhmZ1UyWU9iTGFBRF9kVlRlbC1SbWptU2NBNmNzbm1udzN3dXo5aE9SaEdFbVdud3hxeEZzT2VjN3Y0bThMLXBqUEttRXZhV0VhRzdfSEViR0RzRHpLOURxdlpHQWphNVZfWHBNUHFQeENSdHhqaktYcktTb1VPa3U4cTFHWnd6ZU1IM3hDa05WUEJYemNreTVBeHAxRklwYlRjQnBwcFhpV1ZMdnlaRg?oc=5",
       "category": "Launch"
+    },
+    {
+      "date": "2026-10-22",
+      "headline": "Ex-OpenAI science head Kevin Weil raises $215M for drug discovery startup Warp Sciences - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3J5NDgxcVFobDFZeFhBVlRCdHBJb1piLXl5NG95VlJVVUFtVjllYUVlSmtSZUZNQlZsNnlFa1lPcF9NdFZscEF3c2IyaDI1aHV6ZlUwVkRBbWpwYVZLWndqampzTDZJMlg3SV8zak5ybTJLQ0ZyZ3pEaTFtRWdkUGNzTEktdE1JbFhrVlJvR1ZucllXeWFuOV9QX0NDb2hwTTc2TE8taDZCYUJMVnE1UDhjeGh4WlVKQnBIbw?oc=5",
+      "category": "Funding"
     },
     {
       "date": "2026-10-22",
@@ -100,6 +100,13 @@
       "category": "Funding"
     },
     {
+      "date": "2026-10-22",
+      "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVJqQjl1cTVOZ3MyRXJjdGd2cWFmTFVtNnJXZUJtM3hRQjlWLUlhS2Rfb0Jnb1dhdmlWbkt6a0tOdThfc0lBZkZrdTB2T3NrNjdRdU9wZTVOMUhuZzVoMXlDZW5NNU5VSFV5QThwWWZ3VDF3MktWZnlGa1hwQmVHV3A4VGtwZ3U5N1lOT09FSmNfbG5MSXpBTGxQTlNPbmkzYjhZVTdVaFk0eFVLZUZycnJRd0ZfeHFoaXFUTEpOdzZKaDR6b3VzZQ?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-10-21",
       "headline": "OpenAI Buys Drug-Development AI Startup as Science Rivalry With Anthropic Heats Up - Wowtale",
       "source": "Wowtale",
@@ -108,8 +115,8 @@
     },
     {
       "date": "2026-10-21",
-      "headline": "OpenAI Enters AI Pharmaceutical Industry: Acquires New Startup Led by Peking University Alumni CTO - eu.36kr.com",
-      "source": "eu.36kr.com",
+      "headline": "OpenAI Enters AI Pharmaceutical Industry: Acquires New Startup Led by Peking University Alumni CTO - 36Kr",
+      "source": "36Kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EaVZzQ3pXS2M2dFBRSDNiMFN6RG04Y0FyOTZicFVCYTZwckhBX2tydlpmcHJfQmFzNjc1VWVVTi1lZ25uZkdoT3oxRG1LU2JVLWlR?oc=5",
       "category": "Partnership"
     },
@@ -184,6 +191,13 @@
       "category": "Launch"
     },
     {
+      "date": "2026-10-20",
+      "headline": "Ag biotech startup IMIO lands $12M, relocates to Chicago with Chipotle backing - The Business Journals",
+      "source": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1VhMDVMWFN6ZUJGdl8yeVFsbkFPYmlSUUExd1hoZ21CaWRmaFpEZG9XeVZ5dV91ZmhScHgySUoxMlZxS1U4Wmd2UUxPcUdZM0VJdVJPVVVIWFAyQVlkZFMxeUJJVW9HZ3A2NS11RWJFNHNXdHF3a01EMlJaWEduLWptXzlkUS1PM3Z0QnlCVjBYUHE0WFhGMmFheV9wWXpIejczZWVR?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-10-19",
       "headline": "Biotech Startup Aureka Raises $100M Series B - Orange County Business Journal",
       "source": "Orange County Business Journal",
@@ -240,6 +254,13 @@
       "category": "News"
     },
     {
+      "date": "2026-10-16",
+      "headline": "C-CAMP to get Rs 500-crore funding under Centre’s RDI Fund to back biotech Startups - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb2pITVRVeGdLSk9TRl94ZDBFTFN2RUxNRGhvTEFxa19XUG83Z3VOSFQyMjVTSU1TaVk5TmRieFhfa3luQlVqQW83S3FnTHlpMG1pOS1HeHM3UGNCZW4tZ3BJUjd3d3ZieXVvTVJXTU55OE9BX3hPWlpyX3VWODdPa1g0LThaNnNzQ0VENUZ6TUdYSHRuWFgyaTVpMGpKUldabUxiaWNGd3h4TWItSlJxU0s1SXhadU81WlB6Y1JVZ0ZFTEFCNzFROTJ1czBVekx2SkpaVWQ1N3p2Y2xn0gHiAUFVX3lxTE50WC1vWVpURm1lelRyaUdseUdPYnNhb2RGc2hycjB0N3hmenVzeGg2TnUzdm9FbXpUNFRJUWI2bEhJSlREeWVpOHNRQV9wUXRGam5GOHRWNENjNUJKSGNpd3U3U3VNSnhiODBBNmhocWZWMXVaTDZsSlM2elJmSmxkRk1VNHI1TGJfaXRmMkdpaEZBa1E3UjV6MjJ6bHl3OXdLVExOR1ZoX19ZWVlwOW4xWXczanZrb3BYTmQwbWFQREF0Qld2MGVtT0pfbU9VZmhWWU5wN1cxYTVVNkFCY3Rjc2c?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-10-15",
       "headline": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech - EU-Startups",
       "source": "EU-Startups",
@@ -258,13 +279,6 @@
       "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
       "source": "Singapore Economic Development Board (EDB)",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkRVbzA4R3hTc29vQ1M3dlVsczF6T1EwOHEyYUVpdnp4U21yVnJicTllWHBhR2R6RkFTY0V3LXBYbFd1QkRNaG1WUVJfdGpITExsaC1LczBva3d6d0diZG01Z2dReF9DY0RWY1lkMlZUZnBHQV91dDh4M3pMZmdOS2tQbVNxcEVVY2M3bzZHR3FhNl9zRTJsOVhRejh6RW9WNEE5bHdoc3ZrZ3JST0I4bGhHdDM4czloTDFVRkY0M3hXbTg5c1FOcTRRMEI?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "Singapore draws international biotech VCs as Asia-Pacific life sciences sector takes off - Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVJqQjl1cTVOZ3MyRXJjdGd2cWFmTFVtNnJXZUJtM3hRQjlWLUlhS2Rfb0Jnb1dhdmlWbkt6a0tOdThfc0lBZkZrdTB2T3NrNjdRdU9wZTVOMUhuZzVoMXlDZW5NNU5VSFV5QThwWWZ3VDF3MktWZnlGa1hwQmVHV3A4VGtwZ3U5N1lOT09FSmNfbG5MSXpBTGxQTlNPbmkzYjhZVTdVaFk0eFVLZUZycnJRd0ZfeHFoaXFUTEpOdzZKaDR6b3VzZQ?oc=5",
       "category": "News"
     },
     {
@@ -464,6 +478,13 @@
       "category": "Breakthrough"
     },
     {
+      "date": "2026-09-30",
+      "headline": "Europe's biotech funding gap threatens growth - BioXconomy",
+      "source": "BioXconomy",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVdIVFNPY0Jsb2JMV0J4Rjkzd3gtNEJmQUEzcjRjakxpdFVGRXhCdFJ2bjRpWUpzVTgwUmtYVU03T3l0OHV2Sy1BME5yM3ROY1JtRG1GVU84X1RqaGFnRHlKUFhjY3ZaWDUwNFhvY2I1TTJjbjNGdnlRNV9TZlV2eUMtVTFGVUpMR2ZST2Fsb3VpUkRNcGdPZmtnTnRVSWp3QlJzdF9laGNZNzg?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-09-29",
       "headline": "Dallas Biotech Startup Lands $2.6M Grant to Fight Cancer - Dallas Innovates",
       "source": "Dallas Innovates",
@@ -478,7 +499,7 @@
       "category": "Launch"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "headline": "OpenAI leads $153M round for drug-reviving startup Biossil - Dealroom",
       "source": "Dealroom",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTllRTk1IZGFHX2JLd0xVSmViWHBkaWdaWGhTQXlQbDhqWkFNaFhrQi1zRDdRYjE4anJ4UE9XUzNmNlRIUnJhOXloX0l6X0cycG5OTmJBOTRnLTBfSEFUcDY1QmNJSFpsd2VoQW41M2VqUmY0cnpvVmpQNG14X3RDbmhQOUY3a3FuZUR4VmtDZ3JWNXB4T3c?oc=5",
@@ -696,8 +717,8 @@
     },
     {
       "date": "2026-09-11",
-      "headline": "Novo Holdings and leading international funds are investing nearly DKK 60m in a new Danish biotech company - medwatch.com",
-      "source": "medwatch.com",
+      "headline": "Novo Holdings and leading international funds are investing nearly DKK 60m in a new Danish biotech company - MedWatch",
+      "source": "MedWatch",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZSnNqcGh5OFRpODE2dTJnTE1JdGtZOXFKU0tzUWwwYnI5UG5MSWd6ZmtqR211SVJlVFg3UnZEZEF2X25TU2d5R2JPdlFhSl9hSE5JOHF3SmpjWFNvUEVoNFJXYmxfVDBwdDA3Sm12dw?oc=5",
       "category": "Funding"
     },
@@ -742,6 +763,13 @@
       "source": "BioPharma Dive",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeG5Lc3JjVEJ6ejhjMW1KMjRFWlpDYnhpb1BBUTdYckVtWWNCWE1rM1k1ejBucEdXRFpEZWVvVzBBc0EzNjhyYjhkRW96UEtBVDhXd2k1TVJfUFdsckhLQUZ2U05tTVZhNlRudEVWbFdTSWR3N0VKd3VhRldOaGJOdnpPbGtMWnBWNzlUWkRlbDFOTFNF?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-09-09",
+      "headline": "Kura spins diabetes work into a Lilly-backed biotech startup - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ1JEVnpuU0dxUjVpRThNSHlHV1RmZGtkTnpVdlBBcHh2b0UzVzVTQW8wRTRsUElsUE5qbnZzY1VwTzMyRHJxM2tmQmdtS2o2bm1rbnZlWVdxa1YtYlFackY2dlVWNE1haUpRckJ0cVhjUG05NzJKUm53N2NITlRLN0xtTU5rQ0tzS3JkNktlX3ZuTzVjQmZ1NA?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-09-08",
@@ -1326,8 +1354,8 @@
     },
     {
       "date": "2026-07-31",
-      "headline": "Plectonic Biotech receives Sprind funding - munich-startup.de",
-      "source": "munich-startup.de",
+      "headline": "Plectonic Biotech receives Sprind funding - Munich Startup",
+      "source": "Munich Startup",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2lUaHl4dWhCcU1uem14T2tVbzdBOERMb1ltdFFLSTU5MFVPSmV3dmxibjVUb3pYdjZMSVp3YzlzZDhhOUw2bEh1SFJmYXlqbTRxeGRmMGs4V3dnUTZmVXZzNkVfNnptam5CY2VKZmlHOWNYOGdsT2JIejEwMl8ta0VhbDNUdw?oc=5",
       "category": "Funding"
     },
@@ -1466,8 +1494,8 @@
     },
     {
       "date": "2026-07-22",
-      "headline": "First Biotech Startups Receive Funding Under India's Rs 1 Trillion R&D Fund - rediff.com",
-      "source": "rediff.com",
+      "headline": "First Biotech Startups Receive Funding Under India's Rs 1 Trillion R&D Fund - Rediff",
+      "source": "Rediff",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcTJUN19oUlRzX0FONEgyVTN6bS1NLU9fZktKcjkwVzNyN1VEdkVLZnhzZFAtRm41dTJ6a3FFLVB6QVFsaTRieTFPd0t2TS1FdkdEY0hENDdrY1JZdmVtTURNSjN0OFBLbDlDU0FvQlAyOEg3WndwVmFoRkota29PWlNva2VvX1djUnppTFRTWktHVUdON0cwUE4tQzZNcU0wWkl0TUdMVW4wQzF2NnM4VE9uUkdWRVdZZFVKYk1R0gHAAUFVX3lxTE1pdExxOGEzRlU5Q0F2SlhSUC1yR2E5c1BRaHJheFdpRkY3MXFwc1lFNEtodmtsVXA2UGhkSUJLdm1UT3Eya01mN1Y5Qk9TVjhlblhacE5Dd2hubGsyS3UtOE5uUzdMNkZFUWlHQ21xcmNmZW1fR0tTUDctZVV5QVY3X0ZDRXdZa3hNb2FVMzJNZWIyVFR5Rk1VemZnQkpCeG9qZWxmeV9pNXhDaDh6NXlNTzFWM05KR3ZMNDliRGZEbQ?oc=5",
       "category": "Funding"
     },
@@ -1722,34 +1750,6 @@
       "source": "Whalesbook",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUHJ0QlNvaS1rMDJkc2I2SG5NOVFDMU1uTmVhRnlrRERBYmRjQ3NfTEF0dWNPaU82T2FVRXVaUzdXLWd1WXRQYnZJVU1acFA4aURSUEVWNjk2WGRYX09za3FXTGp1LXJUVGFlbk5EVTJZcVl1RV9HclVjcDUxQk13cU16am1qYjdTMFFPZVNsT2l0VHdGbndwMEVFUk9Fa2dhUTZDWjJyWTZfdDZKNWhEN1didHFmTTZlNnNvdHZHXzd1ak5Ka1d2SDV3MnRnNkdkOGwyZDk4Zm1lT1pmTzk0?oc=5",
       "category": "Launch"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "OpenAI researcher Miles Wang departs to launch $2B AI drug discovery startup - MSN",
-      "source": "MSN",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOcF9sbHhhRXR5YzVEVzhnaFVFbXVXU0VnV0dDRF9PNHpVWDlsNzRBLWdIOWFvRnZ4dFotMUUzRFVKTWVBVi1oVWZFSE1zSDZWZFBnNHp3QmRBNFhWOEp4RVlNd0E4ZmN1YldVYzJxN2hkc2ZiYkVCakVBdDhFRnktU1lXcXZXUUxQLVRZcUtkYkhmTklMTGVMMzJDajVqQ0VkNEF2RlFaVHhVVEtwcWxBQzN6UUZXN2RQaEZLb29RbFIzdmhSRnExUkVwMGRKeGx2RXBZWDIxd2xKY2U0VmdqaVVZdlpkWWdYNzFITzZyT1FSVi15U0Itek5tYTRnZDNvNlpySVUzeXA4eDJKV3VqRXYzSmVDcjU2QVEtSTFOMloydmtNbEhXMHF0RGdkRnJDcVltZTRhTTA0RFBrNHgweG94WmJZZWc5NGU2R2xLUzNWcUNXNDZXOA?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "OpenAI researcher plans $2-bn AI drug discovery startup: Report | Wang dropped out of Harvard | Inshorts - Inshorts",
-      "source": "Inshorts",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdnU4b0lrN243dURULXIwMjR6NTJwZHkyVFhSc1JweV9EbnJmR3lqQ0NqY3ZOdGNvZFhfdEtJSTlwbldwblFhbU1hVkxVemxJNHpabENEMUh2VS1kYnlzei1DdnZiRlFyTmU0YnZtanRKSTI3Skd5VGt6S0VYTGdCd3BsZGhGb19UZ3kzUFVhNERoOHlKRFV0Q3NQTzhSblhVUWFrU3NqRDJ1QdIBrwFBVV95cUxNQ0tRakJ0RTFKdWh1QVJqOGVuWlJFVlZkb2JwUGpBcTlsUG5EQzRYYmFiNUtVZlZRLTBCcnh4MG5QUkplVWY3VGdvNEdMNkhpUnBxcE9IdmJDNDAyaC1IUlhJdWtFNWJ5R2tCRjVJM0Q5WDJIb0NnNjJ1dkg1TElsTUV2LVBkYXhIRWRzSEVsZEN5VTlMb1BGOGZmcjdtTkh5YTJrYUhRblNySmM3YlMw?oc=5",
-      "category": "Breakthrough"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "Ex-OpenAI researcher Miles Wang in talks for $2B AI drug discovery startup - Dealroom",
-      "source": "Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejFrM1Zndk45UW40X1F3akFFMXdZTTdWLWlrblJwbk9lZ3cxaVpGUEx4TGFTZkdJNUV2bWRhMTlLSnhLMVhCTnBHTS1MbG9qZXE5eGl5TFF5X3ViYk81aHVkazNJb1JzcGNwYWpYdFBkMWo1dnE4bGdMNXA0aEpZa3BzeXhmNTJ3eHViTFYzUzJFSWpYZ1hOOU5mVGlhVkFmUmhSR05acDlrUV92cG5YNWdGZVYtSHdWSEJLTWpScHU?oc=5",
-      "category": "Breakthrough"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "Quarterly biotech funding continues upward in Q2 of 2026 trend with 4th straight quarter of growth - SynBioBeta",
-      "source": "SynBioBeta",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUVEwbDZIc0UzblVEUUk4WjRfUjJMTW5DZmFBSjNvUS1uMXY3NGdvbHg4TDVUZ2hfbVBwenVWcFNWY0lVMmdhV1FybTZoOTY4eXZ2UG5xQWhRRnNkN1ZhalZtNE95Z2UtVjc4TmNBSm1JdFI2cFQxVGpkUTlibmRleEc0REtvT1ZIQnRJMFdxWXlHRWV1RzNTZ1hwaXVYUEZJU0pLbXJmV1B4X1JOZ2ktajZ5WGNOU2NWdDlQX21RZjFvTjJBMXowS3l3?oc=5",
-      "category": "Funding"
     }
   ]
 }
