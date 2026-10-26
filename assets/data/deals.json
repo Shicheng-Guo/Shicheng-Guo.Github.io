@@ -1,6 +1,39 @@
 {
-  "generated": "2026-10-25T11:20:38+00:00",
+  "generated": "2026-10-26T12:55:03+00:00",
   "deals": [
+    {
+      "date": "2026-10-26",
+      "headline": "Egypt's Rameda Board Grants Preliminary Approval On Acquisition Of Art Pharma - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMmVIUlpMVUNBWkMzSWZuN2ZEX2w2R1VUM3BmMzFGMlE1UHM1akFlNzhJc2pIejAzdHZCT1FyeFZVOEdwRFlKR3lTMU1VTDZBTWh4VVc0S3FDSktvTjRsZURHcWxpa0xQcnFfdnR0Ul9CXzFxVVJqTGVoODN3dTA2Vm1sLXk5Y0xZdTNuT1JSbFFEc2p2Y0gtYWRHV0ZwVGZxdExkemVxNThXVGxwZjNDeXI4OWxXNlowUnlRaDd6NGxLZkc1WWhFWnN0UmlfakFZNTliRmx3cmZPc252aEJEUw?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": "Approved"
+    },
+    {
+      "date": "2026-10-25",
+      "headline": "Zeria Pharmaceutical Co Ltd - Notice Concerning Acquisition Of Equity Interests Of Haupt Pharma Wulfling GmbH (Making It A Sub-Subsidiary) By A Consolidated Subsidiary - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcUcyb3FOR2R1WjZxSFA2QktfeGN5REpzTDgwWDZtUzNyVGY4ZnZrR0doaHd6Mk9pckk1a3VjR1FteE5Pak12SzZYVXNqLUZtWFlTb2tEeHFoZ2lFMzJ2NlgyT1FXWnIwSmd1VnRTeXY3R3JYcDRtNVpkM3BfbXNObVJtWFpKNTkzQk9FbGtpc3V6dXgtYmR2RTNydFF1TWNLTnZ6Nk82MlRRRE5jaWl1U0g4U0dBbGZOWDVsQ1EzRl80enBhUEtTY0kwLTJmTEc4ajlwYVdIdW11MUZRLUVrN3VmYmxScmZ3TXFRWW9NSTJjOF9KSmMtX0lqZjBjczVUaUw0OF9zNjZHRWFkbTM3U3dZMm56NXRWTVUtU1BIdkdtaXFjQTJWTjduSEJ2VkR3eUtMTnRVNE96am5DRFhoSTV6U0d3bk5lTV93aWVQTFYtZ2s?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-25",
+      "headline": "OmniAb Highlights $3B Milestone Pipeline, AI Antibody Platform at Conference - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ1pma0F3bU1Xc0J6clVDUGJzN0lsb2dGSzFhVjFqenJaakhmaUlWd3BjbmJKaW5zaHNZbE1neGMxd3pXRFZFaG84d0kzaVpSc29KTHAwMGNRMGRmYkZkNDdBUDB4aXFBVmdwSVR6OEx1VnlVRnNNUUZZSnRWYkZ1V29qYjJPX3BWQVpiczBmem9qbVl1S2djTklmeXJuZ09zNTVHZF8tc20ycW15bmo3RkRNTld0SFZoWG12VktSM3p6SGN6eEZLT09ka0FDejBn?oc=5",
+      "type": "Deal",
+      "value": "$3B",
+      "area": "",
+      "modality": "Antibody",
+      "stage": ""
+    },
     {
       "date": "2026-10-23",
       "headline": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
@@ -949,8 +982,8 @@
     },
     {
       "date": "2026-10-02",
-      "headline": "Abogen licenses mRNA-encoded T-cell engager to Novartis in deal worth up to $7.8 billion - The Pharma Letter",
-      "source": "The Pharma Letter",
+      "headline": "Abogen licenses mRNA-encoded T-cell engager to Novartis in deal worth up to $7.8 billion - The Pharmaletter",
+      "source": "The Pharmaletter",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVQzcUYwSHhGd0ZTY3dSN0RTVWNILS1oT1puZlF0NEF4UlFLdWxMbFpIRmFicUNwaG9ZTzgtZEZTejJ2b091QXJST2plVFg5SEI1VTVQcGxabEEzcmpLbEJtMkVCTEx6VlBnMmtkUEwtVTk0WGFESVRabm14ejdaaFNLODdWMHpMMnd3X1c1ZWwwNFFjOW9LUnpQQnFKa2RzekpfVUNUSjNpcE43b3Yxbzk4R2FZTnhSOV9qQ2RpV0YxYV8yakNsbWdVOW0?oc=5",
       "type": "Licensing",
       "value": "$7.8 billion",
@@ -2390,8 +2423,8 @@
     },
     {
       "date": "2026-09-01",
-      "headline": "Lilly Looks Beyond Obesity with Up-to-$2.9B Acquisition of Merida Biosciences - genengnews.com",
-      "source": "genengnews.com",
+      "headline": "Lilly Looks Beyond Obesity with Up-to-$2.9B Acquisition of Merida Biosciences - Genetic Engineering and Biotechnology News",
+      "source": "Genetic Engineering and Biotechnology News",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQU95b1BmYWtqUkhmX3RSVVo1cnFtV2NGcTZUQnhSYkp2a0liMnBwWWNCUTRwRjhXbXkwSUNTYk1IWmtWWVh6c0dmYnp3TS1RNHJKb2VLVjMzZGw4UjdoZzZ5QnFJaWk5YlVadmdFNHFYa2JLMl9HQ3FZdktKeF9NNVpCTzVtY25TUG1PRnN1V0Rndl85dXBfMWZqb21kN2xtUkd1aUFJUFZkSTdqQUpvWnpTTFRlUDVySnhaS2pKTFd1Tm1DZWtVcGxKdVBCQm8?oc=5",
       "type": "M&A",
       "value": "$2.9B",
@@ -2715,39 +2748,6 @@
       "type": "M&A",
       "value": "$60M",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Biohaven strikes $795M deal for commercial partner in epilepsy",
-      "source": "",
-      "link": "https://endpoints.news/biohaven-strikes-795m-deal-for-commercial-partner-in-epilepsy/",
-      "type": "Partnership",
-      "value": "$795M",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "SK Biopharmaceuticals signs epilepsy drug licensing deal with Biohaven By Investing.com - Investing.com Canada",
-      "source": "Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHZ3RGdYUkJRQ2ctTGxNNGxaSnhFRW9wY2xaQS1kRUdqLXBQYk14dHBmTFhqT0pseW5KdDRIUGhiSWdvRlFlWkVTd0xyeWdJNWhSdTcxSDlqMU1GZ251U3lZdjRWSGFDS1R6VVpRNDZiMTJhcU41bzdYN0lTTFp3N2FYOXNKN05JdE9hbk5wSHU4NnB0X3EtZ184cGtidUw5N0NPaTVWUG51a2pvVjBKa2xSdko1aFpXZG81WlhIWWRtSm1kTVFGeDBsbw?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-08-26",
-      "headline": "Haisco licenses immunology asset to Sentivera in deal worth more than $1.5 billion - The Pharmaletter",
-      "source": "The Pharmaletter",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3hnV1UzQ3ZDNzNxOVA2Z3JhOTA5dFZ3MkFFRFh2R25rTWdRa2VCSEpOWmpNQ1dTbnR4MnNJMXNEZ3FNNHU5NjJGeVV0S0VwalVaRnBzQVktMmY4VzdSZVVjX1E5d1JwM09GNG5WdF90R0hMTGdGT1lhcGo4WUxnWEFRaWFqQzUzY2I4cFNxMm8wUGJWTXVvWjkyVE9BMlF6a0VMbkV2dWV3MUxtRnA2aTlhNE5TNWdnbDVsZm1uZ0psLXRN?oc=5",
-      "type": "Licensing",
-      "value": "$1.5 billion",
-      "area": "Immunology",
       "modality": "",
       "stage": ""
     }
