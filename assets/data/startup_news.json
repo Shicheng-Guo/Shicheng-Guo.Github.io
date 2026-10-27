@@ -1,6 +1,27 @@
 {
-  "generated": "2026-10-26T15:06:25+00:00",
+  "generated": "2026-10-27T14:20:58+00:00",
   "items": [
+    {
+      "date": "2026-10-27",
+      "headline": "Swiss startup Atlas Bio secures $12.5M to tackle drug development’s 70% failure rate and move beyond animal testing - Tech.eu",
+      "source": "Tech.eu",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN3g4Y0VkMkxvbTg2R09JSmF6QmVDNnJ3MmdlUnBzMjFJSkh5emNSaUE4d2g4RS1lWVRORDNyQnEwTjcwazNEXzJ2MVFRbTVJTUp0bUJEeXRaOGdKZVBFRUhEWFpvM0F3ZDdzdVV4LWlLNEJSTG9MRzhXVWtVUUVUc1Njc3dWY2tsVjkzNDdEaElVRVlWZmN0X191cDl1ay1UM29xa0VhYnI4elo1MFdpcDFVajg0eDM0dV9oNUpPektQOGVuU3N0UXJUZk1lWUtEMFY3a1FB?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Atlas Bio raises $10M seed to replace Phase II trials with AI simulations - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdG9MdkVRV0p6UW9qcVo0UFRucHdaSnc3al9TN3B2V1FkSlNuZS1qbl9CcUExMXVYQ3I5MnJUeDNKdHlPMWlzSVV0clNnaGVEVEZtaWM0OGR5N0Z4U2VqN1lFbm95NTB0MmhxeTM4OWZLdlFMSngtcmx5cDdvUkwtRll3VDlCeHRUSkRXMjRZS0xxa2NyR0RsSjNuZU5DUG93MmV5NE5yNnpXQQ?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-10-25",
+      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkZJakQtMWJuaThsU0Vaa2lWU1NiN1pOZFFUOWZOSFVJTkF2TUFDbjJGdW1mVDUtVWExYnhLdU9OZHdQbUcxazNTVlhYNG5CT1JleTdVY2t1T0pxQ3k1NVR0c0R6cUFQZEU2TnlCUE5OMHpkTy1LVFI0YlRyek40Unp4UjRCbVRqMkp1UW80d2sweVZhdUpnem5xWDRGNElMM25ZU1hKRFVYTkdOWk5sVw?oc=5",
+      "category": "Funding"
+    },
     {
       "date": "2026-10-23",
       "headline": "Former OpenAI science lead Kevin Weil launches AI drug startup Warp Sciences to let robots run laboratory experiments - Education Times",
@@ -107,6 +128,20 @@
       "category": "News"
     },
     {
+      "date": "2026-10-22",
+      "headline": "Warp Sciences launches drug development AI startup with $215 million funding - Traders Union",
+      "source": "Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY21wMTQzZXFhaW9VTWRKb0NEYVJEUXEzUWNDZzA3b3dKSm5MWS1BR2RSVjNqYjlLTDUzU1Jja3I5b2llZm1SU1R5V1Y4SHdQcW1KZnhPMTVNdFFsZFlhd3pWYXU1NFVGUnhCcXZMRG5EcS10TlM2OXFRcHpCWTNEVV8tVTNNS3JPaXNhb1JJSWxQR0hPZ1NNdw?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-10-22",
+      "headline": "Warp Sciences Emerges From Stealth With $215 Million to Build U.S. Chemistry Services for Drug Research - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRmp5MkVrZUtBWVBuNlQyemM0UTVWWDY3NVZiek9Ka3JwSmpTU2lPdEhyWktaeGtlREFLWF9hbFo1QVNWLTJiRGdpVVhnbTlZZE9LeGR5ZC1LNklUWklnWjlqLVJyY1BxN1dReUVIdUJNMHVNN2tBVzZfakFzcm12d0lXYnRKSHRCRFlyOFl1ampCWE4tdWVCaWl6QTBDMVB2dDQ4NE9NOWNrcEkzS203Vnk4eVQza1pkV0pYYTZwdGtDS1hxa3dVbURhNW9GT2dOYi15QngzcHAxSTdxZ3JjR0dUbFpHWUcxczJuVnFYRHdsTUVC?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-10-21",
       "headline": "OpenAI Buys Drug-Development AI Startup as Science Rivalry With Anthropic Heats Up - Wowtale",
       "source": "Wowtale",
@@ -126,13 +161,6 @@
       "source": "Adgully",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHhRdExTOVh0MTZydHlMYjVhSUcycTZpYm1lSGNJODA0bUdScUxqQml4Vnc0YlNfQnNTT2w3cG94UkRhZkVRU1l6YWhleVg0eF9HdXBiNWtOcjloaERiejgwU0N6QW5XQlhheW9Wb0Fyb0Vwb19ocHEyaVNKWTdKamd4SEVQYUk?oc=5",
       "category": "Partnership"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkZJakQtMWJuaThsU0Vaa2lWU1NiN1pOZFFUOWZOSFVJTkF2TUFDbjJGdW1mVDUtVWExYnhLdU9OZHdQbUcxazNTVlhYNG5CT1JleTdVY2t1T0pxQ3k1NVR0c0R6cUFQZEU2TnlCUE5OMHpkTy1LVFI0YlRyek40Unp4UjRCbVRqMkp1UW80d2sweVZhdUpnem5xWDRGNElMM25ZU1hKRFVYTkdOWk5sVw?oc=5",
-      "category": "Funding"
     },
     {
       "date": "2026-10-20",
@@ -511,6 +539,13 @@
       "source": "Dealroom",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUdNMHktWXBDcXh2azZjQzdyVkUzMHp1ZnhtcEJfRV9NVHZFdGpRZ3N1bVVaT1Z6dGdZQU8yTV9HMDBRamQwYmNwR3lpQ3c2aEF2UGgzZUtmOVlzQzFaWUFMNmg4MzJMU1VLN3ZEcmNPNWxBZ1pjMXhVckpKcGFyRXFndW9XcW9hQ2wtLWJHamhRODBURHFBMWJrYXVzMkdNcVZMWnNndmF1ZnowSUpJMg?oc=5",
       "category": "Funding"
+    },
+    {
+      "date": "2026-09-27",
+      "headline": "Exclusive | This Startup Is Using AI to Fight Off a Future AI Pandemic - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjNTaGI1bG05OVA4XzBrSnJBZkVTQ1l1ZVpPdjRTdEZjdDZTekdQeGE3dEpKcnlzSnktZHk2bW1XcDZKMlplY1BSbi13QS1hMGNYQnpybnZhMTlydkt1ZUhmTktTYk1UQnhRQmRlTWxBWklyYUFxZEZlWFM0MmJjczBhNHBGeFZtS0FsczBxZVNkVl85VE9OVHJ3?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-09-25",
@@ -1715,41 +1750,6 @@
       "source": "Briefs Finance",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWpRY296Y01tYV9aQUpsUTlJOUNoU1dYbnBGc1ZPS2NtclVUSWdLZGV6TVUwUzRINDdtWXJQNnU2d0FvcUE3NG1idzdSQzdPbklMTm1Idk1jblFsN2tOM1ZiTVRkeWhrbDhRcU1oQXZGZFg4RDBVdVRvQ240d2xkMldheUN5QVlXT3RrbV9iQ3podw?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "Bora Pharmaceuticals and Insilico Medicine Strike a $2.5 Billion AI Alliance - Startup Fortune",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMF8xYVJVV0tUaUl6WGNvMkc5STR3bW1HOUZRemxvdHBHdklJWjAxRWdXdlM5aWI5dGR6Si1JRGthRGpnanFOOWhKOXRDWGg0eUNTWW4teEMzWXAyVUgwbUx6VWlvSF9iSWdfVV9iSDNwdHRHTEFHbDV3d3gzRk85VlhWTFhIWGx3Z2dIQ2NuWFYyVWlJbVdVSlpNenpSd1o0cGU0Rg?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "OpenAI Researcher Miles Wang in Talks to Launch AI Drug Discovery Startup at $2B Valuation - MLQ.ai",
-      "source": "MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaG1lV2Qzd2lWZWNwcHM5aFFFUVZDaUZtTVBpSFRCdEdNUnZqdi0zenpVWVRvMU13TV8xeHpMVmNoRVVxZlhMZ2sxZ19MUUQzWDNkWkE4X2NXd1JMbThUNmIwMEwzTjljLUJRLV9zOTMzVHM1RXdJSkptLVJidnhqRnlNdll1NXpxbnd3bFBmWS1waE9uMUx3Vkc1ZzRhVzJJeFFmVFBZdWFubzJ2RVlv?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - MSN",
-      "source": "MSN",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXQwaEVUeHJrRWlvaDYzU3dXSDYwdHQxT0hUc3hFam80N1dxeWM0Nmdja2YwX2RtUkxtb0FKazVrcGx5X0c2X0lOdVV6RVM1Rk0xWGRzNEdBN0NoZmE0MkZVaVNPcEpGTU9rcWJtYVE5c0Fibm5YaTVXcktvQUpXd0VYY1pzR094Q2FxRTNFZjlja1JJQ3ZfbTdrSzZCQ2MtUllqMy1FbnQ4VjZSc2dsYUNPaFp2c056aVE0dHBVM1ZiXzN4YlBqUUVsUzJoaVZLSUE?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - Benzatine Infotech",
-      "source": "Benzatine Infotech",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSlhFa2Y3RkNSaEhPX0RGMzVyQklDVWZTOGNVelIxNDl3bmwtalBOMC1yWHhUVW1RaHFLOXZJRnBFMF9tSldYTHZRaGQxbmt0blJha0xmVXlnUGpqZ1lqX3FheEZFX05FSno5Mk9pdTBRTDN6clFVdnY0UFNXN0MxSk5Pa0pmWkkwUUtzc29yZGhTX01yY0x5T3p3?oc=5",
-      "category": "Launch"
-    },
-    {
-      "date": "2026-07-15",
-      "headline": "HealthKois Launches $300M Fund for Indian Biotech Startups - Whalesbook",
-      "source": "Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUHJ0QlNvaS1rMDJkc2I2SG5NOVFDMU1uTmVhRnlrRERBYmRjQ3NfTEF0dWNPaU82T2FVRXVaUzdXLWd1WXRQYnZJVU1acFA4aURSUEVWNjk2WGRYX09za3FXTGp1LXJUVGFlbk5EVTJZcVl1RV9HclVjcDUxQk13cU16am1qYjdTMFFPZVNsT2l0VHdGbndwMEVFUk9Fa2dhUTZDWjJyWTZfdDZKNWhEN1didHFmTTZlNnNvdHZHXzd1ak5Ka1d2SDV3MnRnNkdkOGwyZDk4Zm1lT1pmTzk0?oc=5",
-      "category": "Launch"
     }
   ]
 }
