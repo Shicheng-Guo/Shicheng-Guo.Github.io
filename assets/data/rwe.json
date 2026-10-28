@@ -1,11 +1,32 @@
 {
-  "generated": "2026-10-27T13:23:48+00:00",
+  "generated": "2026-10-28T14:09:06+00:00",
   "items": [
+    {
+      "date": "2026-10-28",
+      "headline": "Medidata Named by IDC MarketScape™ as a Leader in Worldwide Life Sciences R&D RWD/RWE Data Platforms, Technology Solutions, and Consulting Services - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkVvd1FHSW1LZXpHa01DbHo4LVJKQjAySHFaamU1TENEd0hVOERxaXZPM0VuZUNRRjZaT3dpMmx2dmZqNjlJdzNuT1dJQUpQXzN0b1JwRTBnUDVVeDNMM1F4eUJCUjBhNE5XRUN5OHZFbHdRWEwxdUlJdDNFbHlpY2VGV0JYeE5fRVU5NFdNakE1bXZPb251OXV4eWlxMGs?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-10-27",
       "headline": "FLAT-WHITE: from target trial emulation to federated high-throughput causal machine learning using decentralized real-world data - Nature",
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZml0TmpoSFVKQkJPMEZuVHNDSTRpWDFIMXlvQkFsYWhubFZkZl9HRTJHMGV1NW84aU82ajNnemlLeWFjOHRUWEFtX2g2MTcxWFRlTkp5cm9Qak1ha3lB?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Real-World Data on Cemiplimab Monotherapy Align With Prior NSCLC Studies - CancerNetwork",
+      "source": "CancerNetwork",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVhSdDFzZjdoZXYzc2pLa1g5dXZPY3NIb21ua084YjNOVkJYSjlHY0I3NTJYRXY4RU12TzhwZ2pENTdFZ3kwQVFraFNoRGxQYXRFcUF6Z0JYaVp0aThwNmMzbW94dW5NeUFvT241cm9qbUdLam9BVTRManNybGE4VG1kTm85ejVlSlhiaW1hQ01KUEVBc1dlNVdQUFc2RTNWUDZqV2NONl9IUkk?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "Real-World Data from OneOncology Practices Show Tarlatamab Can Be Administered Safely in the Outpatient Community Oncology Setting - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbUV1TXJ2ei1RQ2xhMDZrTHFlSnNILTNTcTlaR2pYY3pIRzRrRTlZUWo5ZFcyT2pkZTgwMzNORDR0MDNIMHNPaU5xV1FvSFhjSzljS1c0djBQX21QZ2g5enZvd3ZOWGpQeGR4NDhSVy0xYzlGWmxkZ3p0NVFaODgtdTRMa0RqY1dTMm9na1FIc0dXdUJlcW1nMm84QmpxV29rMFZURENxa2c4ZTEwWVVVb19zQkVvLTBuZDBFVERnUUNJbFdEN0VVM1FQeXA3WHloSnlVMTJ3MEViajFSWkJNOUg0WDBZc1ZrZEtZWXR4clZranIzLUdPcy0yVjJmY0FaWTl0blZ0a04wSjlCNlctRktGV04?oc=5",
       "category": "News"
     },
     {
@@ -1094,6 +1115,13 @@
       "category": "News"
     },
     {
+      "date": "2026-08-17",
+      "headline": "HealthFlow: automating electronic health record analysis via a strategically self-evolving multi-agent framework - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04MmNNZ3FwMDBuYnd1ZTJLR3p5X2FCWnB2WHYtT3YwUjRGUWRZaldTbVJlMy02eVJELTU3NE5YUFh5OU92ajZfV0dNVzY1eWF2N2JGTnFkVElLWkNEY0dR?oc=5",
+      "category": "Regulatory"
+    },
+    {
       "date": "2026-08-14",
       "headline": "Real-World Evidence Integrations: Health Universe Integrates Atropos Health Decision… - Trend Hunter",
       "source": "Trend Hunter",
@@ -2072,34 +2100,6 @@
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTJvaGs2Nk1MMl9ZMEtnZl9IODRFcVlSMk9FOHJrSi1yS0NFM0xvMVk3M0lWOW1BdWRVRjRkZGRVTVhsak93eDZtdXh4Q2tLVG1HYWFSbERYS1B3RWZ0dHdyM1Q3c1FUS2NGYklLMEJhVUlrLVVwYjhjNWpPZ2RvemhHUUFyOW55UDk4cGN1cDhaYzgtLVlueHd5NWpXZVE1Q3RDU2ZXOWhucWJDZlBhdERzeDU?oc=5",
       "category": "Research"
-    },
-    {
-      "date": "2026-06-04",
-      "headline": "Real-World Data Highlight Gaps in Immunotherapy Benefit for Rare TNBC Subtypes - DocWireNews",
-      "source": "DocWireNews",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjZpbmRoOGswOVlfMG93d2c0QU95Ymd3U2M5TUxEajNQU0ZuRlRpbVBUZ1V2XzRBdlJQWVhrVTRKc2NnS3dtaThFSUpsT00ydHp6aExLYnZkS29JeFdLOHJ1RGhCclpMZXFDcDhDWlA1Y0VmVnFLUXNYUGVMY2NJSGs0ZnItbE93bUZEdDBJUWhvNnFEYWpOZ1BQRXJJc2Z1X0ctRWd4c1B4SHpocGdwTV9QVQ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "Real-World Evidence Informs Rare Disease Care, Guides New Rx - Specialty Pharmacy Continuum",
-      "source": "Specialty Pharmacy Continuum",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUHk1RHUzLXJqUERzVlFscE83Z3ZQXzFCVzNRRk82QTBEQ2tWdGp3eklpYjdlZkY3S2JPNkFtOWNqUTBUaFVaWWZnU0FXQjU4MEkzRkNFTHN0dk1OMVlRY21Kd1RBRHFyemduSW1fYnFtdmk0XzhCV1ZiWEpMY3l3RXFJeWpaaGhCcnZpX0RpdzRoZy16Ry1ycHhjV1VIU0drdDlnMDdUWGVMMk5CRG13ajVYaHRDcWJlN3lmekF0a1I?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "Novellia Snags $18M for Its Real-World Data Platform - MedCity News",
-      "source": "MedCity News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PU3R6V05ER0liaUVoQjdNVThnalNZMlJpVVhvX043dDV2MGNsbjR2SmQzeHhCaF9yVG81ODJJN1NlRkZKQWktRDhtVDFjTldCRlM2OWFkQnJsSjRCRUlBYVgzR0pNUU5oRFFKc1dfMzZzdw?oc=5",
-      "category": "Product"
-    },
-    {
-      "date": "2026-06-03",
-      "headline": "Aclarion Adds Institute of Neuro Innovation to Support Nociscan Growth and Real-World Evidence Generation - The Manila Times",
-      "source": "The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYlBlSW5CNU1pdk9QLUVVSTlBQXhvYXBVcTRzS1R1UnBQNmp5bnB3VzBlWUZJQVp6VnVJTE90M0ZWUzcydURwMFZ3Wnd5QlFNRnhEa25IT1VoRGxYWjZ0cmNWT3FLaU1BV0puQS1GTVBLQnZxVTdnYk1Wd0FKbVBRU1FIRzlqb1daNTBhOTJLdG13OUM4dG83U250SFhQbGFLeUVhTEhGMk9aTVVqRUNZVVh2YnZMb2tYOFphcHRsZ3FuRk1EMXhsWk91My1ZMXkxbE5vblh0am52YklBMnBWbTkyTk9FeldFT3RUc0ZreDBEZGtsX3ZPLXoyLWkxWmtyZkhtSkpoV01YMUXSAZACQVVfeXFMTjBfUUJFN1dmTE5KQWEwSUxZRnBKQ3dZN25hYXFOUDNPalBLMjVmRjgzc3JVUVhIamZtcDdDUVZ2WHJvQ3N0Mlhad0JFWVBUdkJya0RJNWgwbTBQNVdseHQ5eDZfQnBIdjg1akJQeTZZd09GaG5IdVh0M21EeG1KV0RqajZ3eXYtLU1FZ3JURUEzVmhpNXFoeEgtQVpsRmR6cVZhZk52Vi1fa0tHYmJvLWFEcVR0eFpsRkhRYU5tNzA5RWd2NkxtZEFOLXZBb3dRbU9ORjhVelc5SHRIZUZsaWp5WlczVlp4V1p1cEdwR0pJUWlUUjVJRU9qMkRwanVCOWcyWDFZTGk1VkQ4aloxZVA?oc=5",
-      "category": "News"
     }
   ]
 }
