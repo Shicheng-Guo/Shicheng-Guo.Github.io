@@ -1,11 +1,32 @@
 {
-  "generated": "2026-10-28T14:09:06+00:00",
+  "generated": "2026-10-29T14:29:43+00:00",
   "items": [
+    {
+      "date": "2026-10-29",
+      "headline": "Healthcare organizations are looking for better ways to turn real-world data into actionable insights - StartUp Beat",
+      "source": "StartUp Beat",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOGEybUtmZ2lYTjh5UjlpN3JxdVhKTjlzT1Z5dHNIX1FmaFo5VFhudzRxUEJGakJ0ZWpYWEVPbGVRQ3F2QVgzRGlJbHBfcUFKZUQ1ZzlsTjlEcFc4bnJKVmc4NG1mYVlUWVVmNl8yNXlwemxZTlFpcW1MNDZEaEVJN1JrRzJIdnEtekhOeGxUN3FyYTJlZE1nUkdJc0JjTlVmZXUteHkxeGZ3eFB6OE5BR0dSSWo0cnlNRndkLS1MUU80NlpIdzczOHhXUTY?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-10-28",
       "headline": "Medidata Named by IDC MarketScape™ as a Leader in Worldwide Life Sciences R&D RWD/RWE Data Platforms, Technology Solutions, and Consulting Services - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkVvd1FHSW1LZXpHa01DbHo4LVJKQjAySHFaamU1TENEd0hVOERxaXZPM0VuZUNRRjZaT3dpMmx2dmZqNjlJdzNuT1dJQUpQXzN0b1JwRTBnUDVVeDNMM1F4eUJCUjBhNE5XRUN5OHZFbHdRWEwxdUlJdDNFbHlpY2VGV0JYeE5fRVU5NFdNakE1bXZPb251OXV4eWlxMGs?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-28",
+      "headline": "What real-world data shows about current cancer care - Drug Discovery & Development",
+      "source": "Drug Discovery & Development",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVC11d2prNGhUcmd1SjUyRzlDUThJZGRESHFVV2JoTEtpa2hvTlBtb1Y1aklOYkxBMG1qWUgxaVd6ZGh0SDhlSXRKaS1FRDcxaUU0eDRHTWJIeV8ybmJ5VTRzMXA4RUlCc2dQSVRHZmxxYzQ3V3d0VDF2RFNhdG1rZ3RsZHRTSy1vNThtblB1bl9iYTA?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-28",
+      "headline": "Real-World Data Suggest Acoramidis Outperforms Tafamidis in Heart Amyloidosis - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUI2OHloa3VRVVgxSFRpRzN4YTlWRUQwVE4wZGttYXdXWFZUcjJLcHlTZXRBakZMVW5URDg2dy1ySkFtbTY3UkY4a1BVbXBrbGNnNlBIUzdqMV81dW5BTzJTUlJTQndCcEFpM2dUV3k2MnNRbGtBM2hMM0IyM3lpTDBDLXY4amp4Y05KRUpfQjBsMC1yQXZsSkJpbzBqaGZjWmZhXw?oc=5",
       "category": "News"
     },
     {
@@ -51,7 +72,14 @@
       "category": "News"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-26",
+      "headline": "Real-World Evidence For Medical Devices: CDRH Advice On Q-Submissions, Data And Bias - Medtech Insight",
+      "source": "Medtech Insight",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQeC1zVEF0UFdNZHJMTmc2WXpOZHd2NllFRE5XdUhOQmE1OUhsV2Nhbzh5WHlvM1Btc19udFVrakF1SGNLcnBrOHRta1AzVjAxdE1KZHJqWDlzU1R4NnlWS05Jckk4Z3Y0YU9Jc1lCdU1Uc0oxeWh2OGVVUUtfTVpPeWZMS1ozZGNKZkdvWGowXzRmWXMzMnh2TFg0ckFLNzN2bzJQdW85ZHJsZEc3WEQ2QUdLYlZfNEpBMVBYZjJuZkFmVlAzeXVkeW1GaXpObEN6ZGgzOXJlZjE5ZnlzTzhhZjhyN2JxYVRDTmNKOVRyZWFDbVJSRGdaNzVEVTk3RHJHeEV5N2ZjQ1dQaEFKdmpQU0x2V2NFd1NNX1pkOWpINA?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-25",
       "headline": "Real-World Data Are Not Necessarily Real-World Evidence - The ASCO Post",
       "source": "The ASCO Post",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFQ4UTRkTmwxd3dsWmJjNjNrYzd1QlE1ME5XVmJyVlBHTVB6WDM1Qkl2YVlkWF9rckdMT3FSVUpEbFFxODBtOVVEaldXSkgtUE9oM29JOUxBRVlEZDhsRjN4ZkYxWEtRM2EzZ1VJc0ZFWXliak53bUZSdHUyakNHVkpfN29aQUJNc0hDMkZoeWxubVBKWG9DbEo0NVFydmFTNmc?oc=5",
@@ -822,8 +850,8 @@
     },
     {
       "date": "2026-09-15",
-      "headline": "What FDA and EMA now accept from real-world data - The Pharmaletter",
-      "source": "The Pharmaletter",
+      "headline": "What FDA and EMA now accept from real-world data - The Pharma Letter",
+      "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamxEU1BWMVMxNkoyanNhLU9HUUlDdjBhWFhaMmR3a1B2dkxmUzFaYXFtVHRBRGhxX1d2akNCZE1zQzhnX1ltVnZYeFI0MF9yWW55VERHUGZFMzBhX3ZHZjloSGZEMm5CdzZxUTJOZlUwNXRrZGZtQ0g4Yk45RmhOcy1vQmdtWXV0d3dTZHRWOXotVE0?oc=5",
       "category": "Regulatory"
     },
@@ -1354,8 +1382,8 @@
     },
     {
       "date": "2026-07-23",
-      "headline": "Real-World Evidence in Transition: CRO Adaptation to the European Health Data Space Framework - Applied Clinical Trials",
-      "source": "Applied Clinical Trials",
+      "headline": "Real-World Evidence in Transition: CRO Adaptation to the European Health Data Space Framework - Applied Clinical Trials Online",
+      "source": "Applied Clinical Trials Online",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQmF3V0xHZWExUGo0Wm81TGh4aEJUQ1BxS01ISllNeTYyWFdQS3M1aHdRWFZpaUkxT2ZyZlhJQ0daQUctM2FxYWJhSlNHaG5oOXFsOVhub0VtZDQ0N0w2UFB5SnV3S015S1ptRjZJZkVTbDQ4enpkMEpfRS1vQUdzMUVHYnRILTAwc0UyOFNfTGZqNkw3OFdRSUtPbmJ1M2VuSmFKTVdzcVFHN1lrbDJhd01EOF9EVHNaUWloUURveWxqNWdadGgzWUdMVQ?oc=5",
       "category": "Regulatory"
     },
@@ -2072,34 +2100,6 @@
       "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWGNHN0pKUGdWMldyMDhUeXhJTVJ1NFVsTTRMazdkY0lPVVdKUHJrdVVWTGtTWmMwT3JTY0p3eWpLMjRTdWgyZ0FhTEJIQmNHcWJ4MERqaGJ3SXR5dE5Fa1FjdExLcHgyUGZMa0RWODA1MVdQNWdianhxLUVJaU1HcWF0TDZyTmYyMzkzMzdWcnpfbTkyYXA5QTJmNmRaZE1NanZtaDZqTXdyWkl2Smd2dWtEX2JYUl9xSnNfQ2dXUnpwT3paaG9jdXVHcWh2YzRqZEtuRm5oTzFnSkhuall4eEpNOFFudzNSbEx5N1FmaHFSQzBBOFQ3YlZ4WW41R2hia0lWTnNpa0JjLVA0OTdsMkI1b3FoZ0xjRFRvLXV0aDZYbVNYVTlodHRrOUw3LWxnakpiSFM5NkpDQjRRcHAtUVNhVkY4MjVBVEpuVGJid1VqeFVwanN3aDY0eFdiQndWMGNWUDFjX2Z2ejdLUVlTcnBJZ1lWLUlINndYMS1NY0lEWkdYM0NQVkVVc0hqcFAzM3VwRFRB?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-06-05",
-      "headline": "Estimated five-year survival and direct healthcare costs of adult patients with gastric cancer: real-world evidence from a tertiary hospital in Colombia - frontiersin.org",
-      "source": "frontiersin.org",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDFJOTQ3LTdwdHBObElFSGdYMkFteTZJMFZLanJ5RE1rV2dnRGM5Q0hqX09OVHRnUmJNMXJhMDloeEp0bF9LZGpIOHpYMzNPOUxLYmFMMC1yQWl3b1VqcFlpSm9QazZFenFjdWZaVHZhVW1HUktGVkpGMnBneU5RbGdtS291UXVuOXNrY1JnNDBTSng4WkE?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-06-04",
-      "headline": "Florida Cancer Specialists & Research Institute Real-World Evidence Abstract Highlights Progress and Gaps in Biomarker Testing for Lung Cancer - PR Newswire",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZnh0QWR0cFZBTWxxaTBrT1JqdlJmQ09pNDdDZ0t0NkZOUlRKQTRWTENRZVBoWEJuLTFfQnhyejBBOF9CY0k0aGIwTGtkRGkzQ2dYQV9NSEJtcWVVU09OcEw1a05seGVCTXEwcWlnYnlaSU5YQzk3SU1UZDlha3R1TUMwaGRIUm4wX1pVMHdxZHlDdjB1TEdBbkhuUVBCcGdNSDFHd250S2ZpV184eHlENzg2R3Azb20yR2RfOGNIZTBKeUM4bVZuMkUxWUJUOG1JTXFhSGQweVdSdUw1eUlUb2xjRmU4eWlNMGhYVmdyeGR5dzlFSTVqY1BZTC1BQWRvYjBUV1UySm5lSEcybjZEeElOSmE3djVXNDlpbWR1U243cDA?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-06-04",
-      "headline": "Florida Cancer Specialists & Research Institute Real-World Evidence Abstract Highlights Progress and Gaps in Biomarker Testing for Lung Cancer - Morningstar",
-      "source": "Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUllLRkFCSkR0bWlvRC1GTEdTQzZoNHp1SkxNa1BqczFFWloyUUdQeUhVWGRGRVgySTdxRlROMjdDQnpTWUxJRVRMTHFHOF9vb3d5dEhmeDU1cHNwbnRxc0hhbjFhWFBadVJiWnJ1RWtSak9WT2VfV1l6NW96Q1gwTlAybEl4MHZOeWJ0UXVGd0xUWFpSZE92YlZVNnE3MTJ6b3Z1V2xibWY4M25pWExPakRRZHd6ZTJEeWlybG4tbGYtMkVpWFliNndNRms3SXpuejZWc1JBNjE4Z2FUM04yRzdzMkV2cG9IM19rQlJjb2xDejhSOGFrU1ljNXU4N1JnQmpDQWozT2g2V3JHUEpKQjZoZjBPaTYxVVNxbmJVbmJVTWJCVjQ3MA?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-06-04",
-      "headline": "Florida Cancer Specialists & Research Institute Real-World Evidence Abstract Highlights Progress and Gaps in Biomarker Testing for Lung Cancer - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTJvaGs2Nk1MMl9ZMEtnZl9IODRFcVlSMk9FOHJrSi1yS0NFM0xvMVk3M0lWOW1BdWRVRjRkZGRVTVhsak93eDZtdXh4Q2tLVG1HYWFSbERYS1B3RWZ0dHdyM1Q3c1FUS2NGYklLMEJhVUlrLVVwYjhjNWpPZ2RvemhHUUFyOW55UDk4cGN1cDhaYzgtLVlueHd5NWpXZVE1Q3RDU2ZXOWhucWJDZlBhdERzeDU?oc=5",
-      "category": "Research"
     }
   ]
 }
