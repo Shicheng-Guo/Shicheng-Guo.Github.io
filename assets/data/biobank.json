@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-30T14:32:33+00:00",
+  "generated": "2026-10-31T13:54:51+00:00",
   "items": [
+    {
+      "date": "2026-10-31",
+      "headline": "Auchincloss Introduces Legislation to Integrate Clinical Trials into Routine Care and Establish National Biobank - GeneOnline",
+      "source": "GeneOnline",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMGJ2RENPOTF3a0Vlc2dtVFlNWnZqTHdXZkZtMnhUOFJkeUhJMXU0VEh6MTR5aXB6aVV5YzJBR1I1LUllTnhWR1J4a281OWJHRjdGVkQ4TGl2dE5OSmFkalY3M2NNcGR3NnRpbk0xSVNoOHB3WkpUVS1zVHpwbUYyZEZJODQtYkU4bThvQ05HblpoaG1oOHhxY19EUGh1dzBDczdtOEZzUkZjVUFDa0J1aHlzSlBaVkJJTlJlY0k3TzVZb2dTX2dxUExrVUpFdlBMRDNJSFhaRQ?oc=5",
+      "category": "News"
+    },
     {
       "date": "2026-10-30",
       "headline": "Biobank Industry: 5 Smart Facts Behind a Bold Market - Global Brands Magazine",
@@ -28,6 +35,13 @@
       "source": "Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSURkbWpSWFBINzYzXzRrcVY2LVlwMHU1c0NWTnk1bUF6X0xFZUo5TjJBOF8zeU9TMl9iRlNfaVB3dzdNX2JWSXpteFBycVpWMEYxbWdXNTBmV3hVWkhVNURZem1pV0RQbGkwbk9tSEc3OVFVTlN5QUwxUkc0VUlDWGh5bkxlV1N1ajh5cU9fVXBlYktPZ21zejVfNGVORmxQQUsza2xBQ0Z3Um5BOWFreFYxYw?oc=5",
       "category": "Research"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "A haplotype reference panel constructed from 490,319 UK Biobank genomes improves genotype imputation for global populations - Nature",
+      "source": "Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HSUVyclBOXzVUVkZSS2Y2ajExV3BlQUZKaWNlQlNFTVF5V3IwamZNQm1Qb1FvR3NrMkQwTG05YURCRGx2a1MwTlNGMmpxeVNoRUlIdlBtdkVvcm9IV1FJ?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-10-29",
@@ -219,6 +233,13 @@
       "category": "News"
     },
     {
+      "date": "2026-10-26",
+      "headline": "BioVana and NICRAT Launch Implementation of Nigeria’s National Cancer Biobank Network - Techeconomy",
+      "source": "Techeconomy",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGMxMWhxQXhtY2hwRFduUFFneEdnZ2VwcEx5cFRxLTM3X1RvYTBkSjlla25hRVNvRkphM200SWJraG1tWlVWYU5WUHpNSG9PM2w1WlZXR1hBcTctNWUtd3dZUkQxaW9KaV91UTF4NUZsSlpyMm1oRS1YdEdGM2JnWmRlajNzdFlzb29LazdzeUMySS1QSkFBWTh4aWk4UzVlZGtyNHo1a1Y1d28?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-10-25",
       "headline": "$6-million gift to establish first national myeloma research biobank in London - CTV News",
       "source": "CTV News",
@@ -296,7 +317,7 @@
       "category": "Technology"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "headline": "Genome-wide detection of genotype–environment interactions at biobank scale with fastGxE - Nature",
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QbWdFTzNiUVFMdlZ6SGRVd0Nidk5wVE4tUlowWEZTcVRPZm9rcDVJbU5oWWlpUzhoazZtMHBMNldUTWdtTEVyWUprNXRfS0JMM3htdm1XY2t6bWVQTnY4?oc=5",
@@ -2078,27 +2099,6 @@
       "headline": "Multi-omics integration predicts the incidence of 17 diseases in the UK Biobank - Nature",
       "source": "Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fR0pMUE9HZVZrVThkbXo5VDlWQkZFV1RoSE1kaXViN0syM2NiMUdtX0lvcnNzeFVuQTNlUmxLUGhUN1Nkdkk5OElrZlR0ZVA5ZHdiVjJ2YVhybHA5eWNZ?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-05-08",
-      "headline": "UK Biobank leak: Are patients’ details safe, and what are the risks to future research? - The BMJ",
-      "source": "The BMJ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IbXFIUGk2aUdQLUI3TGJzMHd5blEyd1YyaUtxV05fMmhwN3VzMzVQbmoxTENnTGhCSUFZcUNtajZCa1lTZjk3RjBWQ3NYMnFKaFE?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-05-07",
-      "headline": "Association of a data-driven nutrient risk score with incident rheumatoid arthritis in UK Biobank adults: a prospective cohort study - Frontiers",
-      "source": "Frontiers",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUTNoR0dBRTlJUHIzMHNndDg2eldJalZqTjZoRnRmaThmY1R4WVdOZUFzWG5fZ3JHYmJpYmstT3p3c0lxc09Wd1hYRzdib3F3VkVPNTFMRFpWajAyWVhwLTl4MDYzUGVuMmM0VXkweTF2d1Q1Zm13T0FpU3JsdklhN1lvcDU0eUxsbVVsY1R1cDc0UQ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-05-06",
-      "headline": "Abu Dhabi Biobank, Human Life CORD Japan to advance umbilical cord–derived therapies in UAE - Zawya",
-      "source": "Zawya",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFdNZGdSRVh5VFYyMndfY0M4bkdGQ0U2NTVRY0RfcFBHUnJSSUZYU0tZS05yMlRnclR0MlFEaXhQZXJVb3RDSzJvdUNGREVTN1FHR29sdHJxT0I1NHRldkFzaXBZOGxOVlVZQ251Z3h3WElpYUtObnh6VVR5RUJLa05ORlRuUmpmUjNQRTlUNnNLV3NlRFlKUlk5bEowNDU5ZjZqVmlUOGZqUlphRjVfSlRVUlNwY00xajI1ak5EeEFnd2c3c3VacHNSMUtlT1FGVUprUC1Gclc1bGJ3N05WMlB3MUJaaHExaXE0MF9R?oc=5",
       "category": "News"
     }
   ]
