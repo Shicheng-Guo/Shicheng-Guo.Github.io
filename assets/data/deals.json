@@ -1,6 +1,17 @@
 {
-  "generated": "2026-10-30T12:48:31+00:00",
+  "generated": "2026-10-31T12:19:53+00:00",
   "deals": [
+    {
+      "date": "2026-10-31",
+      "headline": "HDFC Mutual Fund reduces Piramal Pharma stake by 2.027% - InvestyWise",
+      "source": "InvestyWise",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRkdqR0x1Y2JkTGFoRmxYb2pEV0t2Szd5dnV4bmd2TmJmMkw5QTNnRDNuVklvYkpnX2NwemVSamJPc1gwZmtzVHRfeEg2RTFwQkVyQkpmYU5oam40blM2S0dFVEhTMnptWWNwdElsYTA1UHRwN1drWEZTSVFyRlhCQTFWZ1JoSm02dmc?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-10-30",
       "headline": "India's Sun Pharma posts lower quarterly profit on one-time acquisition-related charge - Yahoo Finance",
@@ -85,6 +96,17 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sOENvd3A3LVNRRHBwam1zR05pQWh6R21ycEc2VjlVeXdiQkdLZVNYN0FKQmdvcFBWTTNnUlZ0VTNiREJpaVpCTzVHby1SdzJydHVmMnVadWxXX1FRekZpSDNOemhaVzhTMkdYYXdn?oc=5",
       "type": "Deal",
       "value": "$475 mn",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "GC, Hanmi license Fabry disease drug to BioMarin in deal worth up to $475 million - Korea Biomedical Review",
+      "source": "Korea Biomedical Review",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0Z2JlMkx4UmluWnl4SlJOeG9Xa1drZEVBaS01UEtCaHY1bkFVNDM0UHlLWWFfcmlubHY2S1BkTE1JeWRJNjlzUUtXNkRmS1I1UDZhMG9fX3ppT2V3OTJxUi1oVXdGQjZVamVxU3Rn0gFyQVVfeXFMT3FJMjBVX0FjYkthcFVOZ0tBYWl2U1R5SGlTdFJ2RXNVRUxrVW41aEtjNU13Y05QbG9oUnhQV3FqQUVoX0ZnQV80S2ZxOU91RlBucEpiM0RMTFo4eUpsR0ZDY1h5VTRIaFFvZmtxeDZmSXZ3?oc=5",
+      "type": "Licensing",
+      "value": "$475 million",
       "area": "",
       "modality": "",
       "stage": ""
@@ -982,8 +1004,8 @@
     },
     {
       "date": "2026-10-07",
-      "headline": "Asieris signs licensing agreement with Theramex for Cevira - The Pharmaletter",
-      "source": "The Pharmaletter",
+      "headline": "Asieris signs licensing agreement with Theramex for Cevira - The Pharma Letter",
+      "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVp0em5wd3NSYkhTX05iQ1hPQkczU0U3NV9rR0RpaGRyWnJ4Q05HNHUzc1JDbUl0aDJVQkNLY0loSkx4anJmanlEelQxeTh3X2hxel94S0ozd2xtSm15UDhHUHhLN0UzWEJvR0NIQjFqd0ttV1B6ekJONF9qVms4elY5NzAzZVRmOVJpbGtYY2lyazFhT1ZSbWl1MGpWamhPb3hmYg?oc=5",
       "type": "Licensing",
       "value": "",
@@ -1213,8 +1235,8 @@
     },
     {
       "date": "2026-10-02",
-      "headline": "Abogen licenses mRNA-encoded T-cell engager to Novartis in deal worth up to $7.8 billion - The Pharmaletter",
-      "source": "The Pharmaletter",
+      "headline": "Abogen licenses mRNA-encoded T-cell engager to Novartis in deal worth up to $7.8 billion - The Pharma Letter",
+      "source": "The Pharma Letter",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVQzcUYwSHhGd0ZTY3dSN0RTVWNILS1oT1puZlF0NEF4UlFLdWxMbFpIRmFicUNwaG9ZTzgtZEZTejJ2b091QXJST2plVFg5SEI1VTVQcGxabEEzcmpLbEJtMkVCTEx6VlBnMmtkUEwtVTk0WGFESVRabm14ejdaaFNLODdWMHpMMnd3X1c1ZWwwNFFjOW9LUnpQQnFKa2RzekpfVUNUSjNpcE43b3Yxbzk4R2FZTnhSOV9qQ2RpV0YxYV8yakNsbWdVOW0?oc=5",
       "type": "Licensing",
       "value": "$7.8 billion",
@@ -2723,28 +2745,6 @@
       "headline": "BioMarin Announces Close of the Alesta Therapeutics Acquisition - PR Newswire",
       "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkdoeFFaZVh5ZTEtbVAzWndvMy1fXzFOYmlsNjEwZ21mMV9TMmJKeGVpZ2ZQWThlZlpsek55OTlZZzY2U1ltY1pYeVlnN0JXR1JKaTI2bTQ4X3B1YVZNU1gxekNIV3lXZVBFTFJGVWpoT2tWV2RleWJPdGdNMk93M0prem1iZ3hjQ2VFUzg3SHhNazZ0MC1mT3RBZ2lFRVlIaXRYUFhTQnBSaEtlTkJYaGhxTVFRY0psczlj?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-01",
-      "headline": "Vertex Completes Acquisition of Crinetics Pharmaceuticals and Announces Expansion of Executive Leadership Team - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT2dBclNEdXZtOEdpQjV4VUJkSTNPXzRZYUdOWjRqU1V0NDVDY19QMXE4c2pkLWlpV3pVdUlyZEtCa2VQdjdOdXdpT29Xb0xJMG1XbV9CcFJFbFFlcjhDeC1mVDVkZFo5dHNZanJ2TjlhZVVFSnhXRW1CNy1wSXFieVpVNmZWb0pLMnFDbjVkMTZtUFRwTDBqb29EUjdyMnpoc3ZfazJrQkhXcGFKR1FNTXAwWGZoeExhZmdCdTc2Q1JrOF9tM1VhZFhrcWV3dUJFMG5aQlFEdjdLZnNSMVF2Yk1TV1I?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-01",
-      "headline": "Ropes & Gray advises on pharma acquisition - ICLG",
-      "source": "ICLG",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JV3VSY2tYUnRHSEJBNFZSUXoxb2JPWU1QQVFrQlFQTDRtUHhOblRobGZWcmpHV0p5RmktdVRzQ3JKVmhVcHJ3bnhBRVdvVFhTb0N2UDBDYWpybW5zT05DNEl4cjFCMnJLb0s4WjlRM0Y?oc=5",
       "type": "M&A",
       "value": "",
       "area": "",
