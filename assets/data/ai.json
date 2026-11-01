@@ -1,6 +1,41 @@
 {
-  "generated": "2026-10-31T13:35:47+00:00",
+  "generated": "2026-11-01T14:14:24+00:00",
   "items": [
+    {
+      "date": "2026-11-01",
+      "headline": "Inductive Bio's Alex Taylor on AI in Drug Discovery - AI Magazine",
+      "source": "AI Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1ZMZVdDR0d5OGN3dU9JeDM0TTVJdFYtX2FHNHlwRzFpY29sLXdFbFpJNkpmamFQeVZOeGpUTHN5U3JOQ1B3Z1U1M2V4YUR6cW1GZmxGMlJJWVRsZjhRbUYwR3hla0lUQjRZLW56ZkMyYVBTeDdkWWs1bV9lVXp3bEZuazBoVVF1bVE?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-11-01",
+      "headline": "AI Drug Discovery Brings Wet-Lab Orders as Chinese CXO Q3 Results Show Sharp Divergence - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9icEZlUjZCd0JQMTdvcG1yQWxVV3lVbjg5TkVSUm5jR185YXNKUGgyMlFhRGpSS3JiTUJJUUpsSXVzRkpUbXdvdzJDSGJPNkdSOG9DeWpFQmxfbzI1enJEYVFFUUtuRnRwQi1TZXVkRUhuZ05iYUE?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-11-01",
+      "headline": "Cascade: How a 100-Million-Cell AI Project Could Transform Drug Discovery - Kingy AI",
+      "source": "Kingy AI",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92em8za3BlVmo1OFFtckY0X3pBbWtNalF3QVBOdWxNb0QxQ21jNDN3elhUeG5jSWtuY1lWYTlhOTFjME5CWUVsVWswQlVWM1ZOcHhNdnN2QzIxamRjRjBjaGlMNE56N0U?oc=5",
+      "category": "Funding/Deal"
+    },
+    {
+      "date": "2026-11-01",
+      "headline": "Parse and Nomic Launch Cascade: AI Immune Drug Discovery Gets Its Missing Protein Signal - Tech Times",
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzZITUtJTDgtU0dSQTI2NEktUzVZQXZ4MjREa3U4V29EeWdSSE9uenpvVG9FeHJlanNOV3ZzWTZ4ZjAwT2FKbWlMeHR5U2VONG4xZnkweHE4OFhCemp3U0hCUHFuVElRZmt3VnBKQ0d6T1JTdGpCcG1rSENfR3pJNUxzSldpOFhFUW8zNXhPSlZvOWVMNjdEbEVQYzFLUm5GS1VPQWZQZVVjYUZuZ0U0WTFfY05teVg5UHpNQUF6bkpmYWxfdFBwSkVrd1Nna0hmTVZVaQ?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-11-01",
+      "headline": "A Real-World Study of Patient-Facing AI in Primary Care - Technology Org",
+      "source": "Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSzdEZklkd2U2LVhiLVlpN3BUd3UzUXdHajVqekV0OVNsTVpITXNvVFJqYWVBbjlMVHJZLVQtMEFQaHZkRlpaQWdoNEdvZjhqUGNLQ3Jaa09ObWhQMmtRb19wVERRV3pzOEx4TDNhOGV5SktXSnBNQ1FpYzRxLVhzTGtjT1FTbHpOQ3diMUNDOG5wcWtzYVcyUEZ3?oc=5",
+      "category": "Research"
+    },
     {
       "date": "2026-10-31",
       "headline": "How Manifold AI Built a Drug Discovery MVP on AWS - Amazon Web Services (AWS)",
@@ -14,6 +49,20 @@
       "source": "Business Insider",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNFJmNElsa1htSEJ3bTFzb1VTZEZoYXFsU2FuVm45cC1KQy1DQXVyekNGZ0tKUjlMd3Q5ZGxFaGpNOVU0QXpBSFQ4eTRnOFVaU2RsQW9DalBTbER3WWpCUGoya1JCVHB1MXIyOHNmQ3duTTN1VHl4U3VETElMUEFWZGNIdkhKbUp5R2NtWkhsOA?oc=5",
       "category": "Research"
+    },
+    {
+      "date": "2026-10-31",
+      "headline": "India-Brazil bilateral trade to reach $20 billion; critical minerals, defence, energy, pharma and AI on the cards - What Ambassador Nóbrega said - ET Now",
+      "source": "ET Now",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUFZOXzViUUgtcmw5R3hUUW1GLTk2elV1bGx4cHdualNTRlRHdG1adi1QUVdsNER3NTJUZ0Z2TmFZRXB2NWlGTXBmQ0hHaHJMYUFlYlRTSjZVMG5fWWJQSzlPTUV5XzRmSmJvT1dhVzUwRk5Lb0tJLVJyNEZ1a3JISEhTb0pCUmtrMVBqQ2tENWtNTHo3ZzM3aWxlVkE0NlNNZ2ZydDZwMWZra0lFX2JaVmQ1OTN6X1FfMFNYT21MT2N0UmpON0llaXFkN0dEQTJCZXBuN195ZlpqekJjZDFyZ1dvRXpWSTZwQ1BTYXZQNnprTkhGMkhvMy1ySWduc0M4cExxc280ZlZJc3RzZkN0dWo0RdIBmAJBVV95cUxNWmFnWVA5VTNhQ0dTTFRUaXRHdFpqLWd5c1RDUXBCUFB5VUFBUGxzU1ZFVmJoX3JRSTdmSGpPZno4NE96YWF5cE5EQmlzcHA5SXBVVWN6dzVvUG5nOEpwczZDR0htLVFkR0gyVWlKY0V4VGYzeVowTXN5TldOa28zWmZGREx2ZUhOb1c5Z1QydkV0WkpmQV9feHN2UmstM29CaVR6cXoxQlgyNDlnbktHd09JRWs4Q0xIYi1lT205Rk1zOTg1NWpqbkhGWXEtVzg5cTdPN2tvWWgzX1NabmVPQTh4V0Z3Yk01MXhZcHBGTE1YQ0xEa19wTUxmV1NoYUMwUXNadjYzMXltcE8yMm51UGhCM0lBWW5V?oc=5",
+      "category": "Funding/Deal"
+    },
+    {
+      "date": "2026-10-31",
+      "headline": "Pfizer (PFE) Brings Kosmos AI Into Its Drug Development Pipeline - Simply Wall St",
+      "source": "Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTlRYVkQ5N09yOXRtdE5NUzYta0RDMG91TU9GaFRRZ3draVNRaWw5ZzM1NFJyaFRwNnlVcHpwLWE2Z1RiM3o3TDNRWmY5Z3lCOXlEYWZKNXgzWWU3M2hlNmVLS1JreVZXbFozM0xZYk5BUm5sZjFmN2xWSGtqWmU3WVhwR2FYUHZzSnJLbWF2aFZ1Mm9vVE1UeXFzVTZoY1RNZEQ4WDhwUmdyUVJ2RFV3MHN0UWZWejZwQ0ZGU21xSXlaRGxnVVBIYnJlbWh3dDBXMHhV0gHYAUFVX3lxTE9Bc1RJZl9OdE1qMzdGZTZFVjNXa1l4WEp4LVFtajNTYXZmckpwbUJNclljekRNQ3FNbFhiV0FkT2RpUHdSS0J2MGRiX0hvSGlzaWZuNXRKM3ozMDEwVEhUTE11YnhIaFpGVnRvaDhVZVl1ZzI5Q01NZ084NTNfNVJrdWlvejg2S0VtNnBtNGhKU21zZGEzNVVqZlphVmxhM3BJY1dSaWVERG1yY3JWYmZ4QklscGlkR3RPZWVma1I4YnBIanFqTWdxZ0tQQXY0V2J1bVk0M2V5Ng?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-10-30",
@@ -167,6 +216,13 @@
       "headline": "AstraZeneca CFO on AI, Earnings, Restructuring Plan - Yahoo Finance",
       "source": "Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenB2Z0R6SVdqekN2Y3k1dG9CczN1enR0c1BXb3Q0Ymh2aUYyaGJnRWttYVY4RkdTZTVJMjV6eU9QV3FVamx4UThLTjdJWjQzYS1TRVlXd2RhMjVhVVhBSFNfYTNRdTA2dzUtNU1feGZuRnRsdDJNS3A4VUczenJYcDFZcG9QWVRNMFpObVpPMS1pdw?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-10-30",
+      "headline": "Global Market for AI-Based Clinical Trial Solution Providers Poised for Significant Growth. - The National Law Review",
+      "source": "The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUm5UQVJTdlpmaXN6VS13SlBfQXhvamVpbUtVVkxZaFVxeXVwTkRKQWIteTZha2ttcWVWX2IySkxVSGNwXzhSM0w4VUpHcENzaHZUMEgzZXo5UWhCSU5PaG00RUJfSVo2cUNkdHpnTGxyRUt4VUNrUjFrQ0QwQnZKU0tyQkZqOHU3cHVacHBQeHd5ZHJQS0ZweWFXYmgxTk9QUWZUQkRnYnBRX3pHVmJHMlBXWUdUdw?oc=5",
       "category": "News"
     },
     {
@@ -420,6 +476,13 @@
       "source": "Singapore Economic Development Board (EDB)",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGxWTDNDRG9YWW1mSDNxcXoxS2hsa0FOOTgxQzdoaEQ4SXVLcmF3Yml5X0ZRaDJraG5wbFh4UFJaOVFxTEZaNXJrVERURXpnalB1UDVPdXdjXzlVWk9KVmtBSFo3Q1hzamlYUG9pY3lDc0dLMFpmZ2l1b08zdVJJa0dCT3pJZEdoRWdmQW9WSE9aSkotN1NacnpRcy12TTRKZkFXMC15bWdQYkFF?oc=5",
       "category": "Funding/Deal"
+    },
+    {
+      "date": "2026-10-29",
+      "headline": "India entering era of personalised and precision medicine driven by genomics and AI: Jitendra Singh - DD News",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3FYWUVhM0ZuRlRrZFhlTlBWZEdrNnYtV3dSQ3VrRWZGMWlldHoxTjhyRWF0VVFCbjIyUVkxQ1V0djlZUmpGRC0xOGlpenpfMkZNLXNKUHJPZHdtSmVld29kWjFxaFJ5WmtsS085MlRRemNrNS1JMnA0YkNHVXFWRENDSUpJQk1PZFZpeXlMNU5fN1hyaERaUlgxeTNtYXp4MnBGYk53VmRwT2JOYmdmWFN5dWlNM0RhM3Z6cHp3NllHQQ?oc=5",
+      "category": "News"
     },
     {
       "date": "2026-10-28",
@@ -1550,16 +1613,16 @@
     },
     {
       "date": "2026-10-23",
-      "headline": "Founded by MIT and Flagship Alum, AI Drug Discovery Company Reflector Bio Emerges from Stealth - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFhYbFh0MzdNZDNiRzc3LWllb2RCQmJDbFZPdm1FYjN4VFRCZmo5bWlFbDF4UUhTWEF3YW1USkFTc0FaM3ZLY2N4c1Q1b0V6WTNwVU5ySTZzX0Q2YnlmTnFOLXkwdnVNQnRvbFZCaGk2aW95UXZVbm5CbUZOcnY3cVcwb0ptNkxYZU9SWUZadjBKSE9keGlzNVZ0eGg1Qmx4M25xaGE3V2Z2RXRrQW4ydVYwbWhsU2JIejVKX3ZpNVNfVDZ1ZEtOZ2xqcVY4UQ?oc=5",
-      "category": "Research"
-    },
-    {
-      "date": "2026-10-23",
       "headline": "2026 Is the Year AI Drug Discovery Meets Clinical Reality - AIM Media House",
       "source": "AIM Media House",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0lQTmNiTUY0MDVHRmxrLTdLMzlLZmMyVV9qM2Zzdl9RU1AtMDVGVUdQOEoyUzRVcE51bmpUZDNRRFRTbXVYaHc5NFdEajJXd0VWTG1UZGhHWVdhMDBJeGwtT2hieU13YWozcGVrN0JBOTBHai1LRnhVR1JuN0JnX0ljX2JyQV94Q3BrRm80dXlkb2RR?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-10-22",
+      "headline": "Founded by MIT and Flagship Alum, AI Drug Discovery Company Reflector Bio Emerges from Stealth - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFhYbFh0MzdNZDNiRzc3LWllb2RCQmJDbFZPdm1FYjN4VFRCZmo5bWlFbDF4UUhTWEF3YW1USkFTc0FaM3ZLY2N4c1Q1b0V6WTNwVU5ySTZzX0Q2YnlmTnFOLXkwdnVNQnRvbFZCaGk2aW95UXZVbm5CbUZOcnY3cVcwb0ptNkxYZU9SWUZadjBKSE9keGlzNVZ0eGg1Qmx4M25xaGE3V2Z2RXRrQW4ydVYwbWhsU2JIejVKX3ZpNVNfVDZ1ZEtOZ2xqcVY4UQ?oc=5",
       "category": "Research"
     },
     {
@@ -2037,69 +2100,6 @@
       "source": "The Clinical Trial Vanguard",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGxTRmFWOVhzWFpnSVYwREJhWHF5eVRZc21DUS1oWktCc2dNNmRpVVRLV0FCeFZGamdibXI0RUREQ2RNSU9vOEZtVFl2aXZRbUVEYi1KXzlaVmNpQlhUQUpERTJ0V3UzMjJGRkRhbVo0dHFHekFLNHNiQWRQbVNXYWlxdUhaTUhXdkJ5U3Q2di1ESkN0ZjlBc0JnMFpuRHdXUXc1Vk9UcUZZNFRweUZMZUZvNA?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "AstraZeneca and Oracle collaborate to test AI in clinical trial recruitment - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcE1kS0FxRUp6eHhPcXhNZ0Yyd2l2OFdaLWJkZGN1RmxvS2EzWFZ1ZWNMT3JrQWlDS05DQTlxcFNVRjlFQ1p4SUFzLW81MjEtckd3c0FuclJmeGpUajU5SzhLeDVGcjB1UzVmczZnS0xMdHJEQ1F2SExqcm1jMTdKNGJHUlR1U0FxempN?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "OpenAI buys AI biotech Orchestra Bio to expand into drug development - MedWatch",
-      "source": "MedWatch",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PSFI2MWNQTU1qVXd1M01nd0RmdldLcmw1cXo1WDZITExRSHc5MDNnVV9KVjV1Qmo4SU5RcFRqM25xQTlDVV9EV1VFSk9Mb1ZWY2I0b1AwSERrYnRjWFdEQi13QXIxbWtKZ2FZdW1n?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "OpenAI Acquires Pharma Co Orchestra Bio to Build AI Agents for Drug Development - Analytics India Magazine",
-      "source": "Analytics India Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdUtyVGlYTWRCQV9udUpSSjg5aFdodFBxakwzZFV1OTdoMU9Bck5VR1dBYzBoY294UmRJQWY3TXpLUXh2QXlUTmdXcEg4WFB0cW1NeUhUOVE2bmR2TnprUUxFUWJOYmJJUnpIZzNwa3hSZ19SVTVXaldUZUJfV3BsN0NMa1ltazRxb2lITGlpRWwybzVXeGd4d1NES3hhM1EwQWxvbERiUmhjeU9mQUdwbjlzYXY2aExR?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "Regulators Now Show Up with AI—and Your Old Quality System Is Being Tested - GeneOnline",
-      "source": "GeneOnline",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1EzLVpPb0VaOUJoSUZpMmhNYzdialhPV3p0X3R5YlpJaHVWbUluaFhTSzlINndiMTM2d2ZnMVJ1clcwVGdRTFJ2bUpuUUkyN3NQZnNXcUROYjE5c2xpckdrZmMxaGZCRVVPY1NNZlA2d1lkUE80ek51R1NScFQ5STJiMDhfa3RrLTZCSGJVTWhDYXBBQ0JuQ28zUklKMUMwdFlpWg?oc=5",
-      "category": "Regulatory"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "Japan Risks Being Left Behind as China and AI Rewrite the Rules of Drug Trials - GeneOnline",
-      "source": "GeneOnline",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0Z3dUpyN29lNmR6QWlFLUt2aTR5cTF2OERlV3B0MXVfa3BzajROUGgtaWI5UTBZSE5sckwxTUs4SnUzOEJ3UERGZ0twMW5VNU1XTmhMTW9aZjZiSm1fM1h3NTAzTWFHZndjZjhsZDJiV1NtZ1RBZWZEM3N6QnFxVWx1d2FSd3pHZUtNbC03Sm9KYW10V3JiVVJoaGpTNmcwcWFJR1FXeHI4dw?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "Oracle and AstraZeneca use AI to speed clinical trial recruitment and care - CHOSUNBIZ - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TZ0Y5YUtYSjBTZXRldkhPNDA0eWI2MTNmaDAwY3QwdDF1WjhjM3g4b1lRTTdvTkFYRGVOS010U0tBTEcwQ2tYS291ZGt4T0l3bF90S2ltOEJHWUNTS3JuOWNWVXJtVV9TbTduc1VxNlZ3Mkd5V1lVNm1B0gGOAUFVX3lxTE1HRXM2QXBEcmNzb0RhMzNRN3ZaNkx3OTJqN3NOSDFkLXRicHlyWWIxbUdRbkJtc3Y2VTlaMHFCcVBoMGVOdWc5ZG4xNUwxdUZ4blR4RnhTMU5ka05uTGJzaldNUWZsM3VmRzBrTTNpOXNkSW1SNWVIdGN3QVNKOU5vQUFrZC01Z0d2a1NsSEE?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "AstraZeneca and Oracle collaborate to test AI in clinical trial recruitment - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkJHME9yZmg0MElLSmF6WHZIc3pVMkIxN00wUEFxNGVaa19QTkdaU1Bmel9Ya1FDWTNyWmtMTmEwR0Zna0RmVG1TTHBpT0NCV1VFZEhsb05sQl8tV2kwQXJGWFVzejFBVVRvRjFJQXRuSUdyVDN0VnBWdk1nMnJEeUZUOHVJNF9OeThSOXVGMUhaMEtyZ2N3WmljQXlZb3FI?oc=5",
-      "category": "Funding/Deal"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "AstraZeneca and Oracle Join Forces to Bring AI Into Clinical Trials and Transform Patient Care - Kingy AI",
-      "source": "Kingy AI",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ock1NdEI1dGhUbXc4em1jM3ZVWkVmVHdFb2RCQy0wVGdzT3Y4NTRyYk1uSXMtY3p6cU1qQWdpY0VzRFN6VnhjcEQwTDIwbzZiU05oQlJTaV9sMVhXSHRneEloQTVrd3hmLWM5QjFsTkt6QTlmNkE?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-10-21",
-      "headline": "FDA AI Guidance Requires Sponsors to Validate Clinical Trial Algorithms - The Clinical Trial Vanguard",
-      "source": "The Clinical Trial Vanguard",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjR4T2ZfMVBqUWRrSV95NV9BalZtTm9JSy1QQkNCSGxyeUhDZlVmQzdCTUszVXZsN25QR3gyVmZRNnNnYmExRHp6X0JJeDJsRVdNeGx6dlhVMC0zR2QxX0lBdGFaaW5ITHJVb1IySTRvWnBZa1Z2NlJEa3p4NGM4SVBXWkdTQ0FzTzVkd1I2bWxjbENNbU4xbEpDS1FoclVManMydHZlWlRMRzJvSV8wekxQQy0tQQ?oc=5",
-      "category": "Regulatory"
     }
   ]
 }
