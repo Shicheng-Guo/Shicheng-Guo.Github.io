@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T13:06:47+00:00",
+  "generated": "2026-11-01T13:49:09+00:00",
   "trials": [
     {
       "date": "2026-10-31",
@@ -63,17 +63,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2xpOUpJZHlybnYtNWZVOEszc21hMGptcWF0cmZsdVc2SkFxUHh1V3ZfWTdvMkRWNnVXWllEbHhhbDVCY2hqMnNfSmZIMnB0WTVQZDIwc2NISi1rQUtvRDlyRTlZLTc4MHhla1NhTmtiRXB2UFVUblhYanc2V1BwQVliUFdwUmdKeXpycE5vUk9rUEhoTk5iQw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-30",
-      "headline": "Could this drug be the next Ozempic? Lilly reports dramatic trial results - Scripps News",
-      "source": "Scripps News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDBJdzNfYUtWeFB4N0RhOVBFQUlsTWlpRG83R0cwTFFXaFVVRUx2NnVoNkVjbF9Oby11TlZWaW9ncEtmc2d3Tk5sTEc4blJvME9uXzFYeE83bVo3dnpMMkNaMllyRmxYWmJGLWU5VVNfWmJMdUpRZERMMmROckVib0ZYc3pPcHkxY0lvX0RiZmxoTkZqRGZtdmhyZjBaTjVmSG82Z1o4M0tRdkI5SzA4RWNfYnBBNlU?oc=5",
-      "outcome": "Readout",
-      "phase": "",
       "significance": "",
       "target": "",
       "moa": ""
@@ -151,6 +140,17 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDJmaFprTUxNWEhuTjVMTmdrNmJ6VTljZWJHSzk5cWEtbDZvYllVZmRSQVExUW12ZE5KRlU2Ml9NcGtsVlVNZzlPNDBFU0dwUGhRNDJBVW14ZnhPcXJGUlkzZUFRdFp2UTN5SE01dkc4ZFNCNHc2Z25wUGx5YXRjZFVRZmpWLXA5ZVVpZlM5NDVkRUF1anhSN3lOeWh3REE4WVAtOUVmYXpwX05NOTRJb3MxODZZLV9scDhTb1NzbWU?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-10-29",
+      "headline": "Could this drug be the next Ozempic? Lilly reports dramatic trial results - Scripps News",
+      "source": "Scripps News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDBJdzNfYUtWeFB4N0RhOVBFQUlsTWlpRG83R0cwTFFXaFVVRUx2NnVoNkVjbF9Oby11TlZWaW9ncEtmc2d3Tk5sTEc4blJvME9uXzFYeE83bVo3dnpMMkNaMllyRmxYWmJGLWU5VVNfWmJMdUpRZERMMmROckVib0ZYc3pPcHkxY0lvX0RiZmxoTkZqRGZtdmhyZjBaTjVmSG82Z1o4M0tRdkI5SzA4RWNfYnBBNlU?oc=5",
+      "outcome": "Readout",
+      "phase": "",
       "significance": "",
       "target": "",
       "moa": ""
@@ -358,6 +358,17 @@
       "headline": "A rare-disease trial missed its main goal, but progression slowed 71% in one group on other drugs. - Stock Titan",
       "source": "Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHV4TzJHSUQ5UFBTSWUtb1BIdnExMGFYTkdBVHI0a19Cd0pPTFNIR3F6M0w0LTZETm1JQmVKSnlwTGJwcGR0bEQyOFdMSll3S3QtT2ZQTXZCSGZqczVWM2IwMWtxd2ZvNTB5TEVDS0JzSXhMUWJYSm1IWDNBb0g3bFVpT1VHMzM3U1BqdmVJVjB6WGRMMDFDYXc3M2RHOFlPdEFaaGR6RE05ZDZCcUg3aTdQN0hZaURXdkE?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-10-29",
+      "headline": "A trial drug cut an immune signal by 98% in volunteers. A lupus trial is planned to start by early 2027. - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWm9FUTNMQnN6RnlWQVQ5TFQyanVQX21GMnJHanVQOTh6OHljb3k2SC1ZTG81bWVtTjhwdUJGOTluVHBiZHVJajZBYWZVQVNRZWRHMTFzUnljbVNMUmM3bXg0NUt5R0VvejJaaV83SmNJWkN3bGRuRGpuMEpZUTJBd0I1alUwSnRTYjRlZTJpa1I3VWlyazNoMy1GNmpRRkp1eVVyZFJObVZUNTZJWGwxYmpvdkxsRXJCZWpZX1ln?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
@@ -596,6 +607,28 @@
       "moa": ""
     },
     {
+      "date": "2026-10-28",
+      "headline": "Lilly's retatrutide delivered greater A1C reduction and more than double the weight loss of Ozempic's highest approved dose in head-to-head trial - PR Newswire",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNV1Fpb2ZEcE9hUG5HamR0SklXalI2WUlNT3l6WnNRby1Bc2tJbnlmdFpGUlotM2Y4dy04TlhENjVtZDI1YXkzTzByRmh6TnFjWTdlVC11S1FjcVhmenR1bVR1U0dQV2tTS1V3ZlpyTlVQb0wwOG9ZallmVXhSWng2NmtHdG9KQjY0d0FWc1JrSlM1M3VLZ0xvX2pMajlMRklaTmpYLWp2V0lwdGd4ZGZVamItOVhscDc1SUljcHdzVURvU3JBb2pDSmVUMTR2LVo1S1JPQURtc3FtWThKYTBYUE9XSGV0ZFgzdHJ3R29TbFE0LWRFcDhwS2xhN2tQMjB3REFZZzVEcmhaYTVzY0xHOG13MlFUX1A0bmZvR1RqdzVvX0laMVE?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-10-28",
+      "headline": "Novel Cancer Immunotherapy Drug Generates Promising Clinical Trial Results - Cancer Health",
+      "source": "Cancer Health",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZm9xQjZVcTQ3NHpZeHJXcUlqRXJacUE1M0Zva1htQmZYdzdXYlpaZTgwSGpnc0RyZXh1Ql9tZXpNWjZnRWhrUmlnX1NGRng5SklTbUJFZEVOS3B5cWZoUHZRb0drb3YzZFZmWVZPbEtnYXFMQkFRY3J4Ujd1cnpYUTlQalJQcmVTT0g5cGd2TGltbzlPUGxBc1BNZ2sxM3U3eVdhNFo0U0FXWGd5Vk5ZTw?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-10-27",
       "headline": "Pfizer’s ELREXFIO Outperforms Standard Regimens and Meets Primary Endpoint in Phase 3 Study in Relapsed or Refractory Multiple Myeloma - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -693,6 +726,17 @@
       "significance": "",
       "target": "",
       "moa": ""
+    },
+    {
+      "date": "2026-10-27",
+      "headline": "GSK’s B7-H3 ADC drives 67% cancer risk reduction in Hansoh's phase 3 China trial - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcFBjdG02QV9jYjVQZlV2ZHdIeWFJTF93elFaVnF3Vm5xUzlvdktvempjWkFQTVltcGEyM3l3LXl4LUotb1JvUk9oRFR5SXBOWnVLS05fQ2JvWkhycURJZlh1MFpyYURra0RXZnNOMjBUODNMcHpBbTM3Y19DVUlyUi05NzA2SU1QdGY1RWVvR3Z6TGJjT0o4?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": "ADC"
     },
     {
       "date": "2026-10-26",
@@ -2434,8 +2478,8 @@
     },
     {
       "date": "2026-10-14",
-      "headline": "Admilparant Phase 3 ALOFT-IPF Trial Meets Primary End Point in IPF - The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care",
+      "headline": "Admilparant Phase 3 ALOFT-IPF Trial Meets Primary End Point in IPF - The American Journal of Managed Care® (AJMC®)",
+      "source": "The American Journal of Managed Care® (AJMC®)",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbUU2WVRXZUFlTXlWTTJMQ2I0ak43MVhrZGQ2S1JlSzNHOHZObEtweDRuMmt4cC03Q01ucmoySlZOdW1ya1VFckYxYWM3S19BUXJveW82Z0xqbmxpMlQ2YnN1ZmRGdnJ4cUNfUURETmI5amlXM2NjNVJrUUdVNFJEVEdlY0dKdTRkUi1lWXJJVFRySGRXRWVr?oc=5",
       "outcome": "Success",
       "phase": "Phase 3",
@@ -2706,50 +2750,6 @@
       "significance": "",
       "target": "",
       "moa": ""
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "BioNTech misses PFS endpoints in Phase II/III cancer vaccine trial - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLV9Kbk1nTm14TEVpWWRrOWc3RHFmRWg5Si1TV3o4dUhWUkM1b2VrdWFlTFZhTk15T1VNamZFSmxCYmhXOUVWcDRzYl9wVWkyeTdvcWRSaXJpTUhfcGppSXhVU2NSMEF3Yl9TaER3UVMwUkNJT241d1pwdkVPS2w5YkJHbXg3a3ZFanpjTFA3bWg2eFZKZWJzUTFoX01uTXZOYVRBODM3R1RHV0t3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2/3",
-      "significance": "",
-      "target": "",
-      "moa": "Vaccine"
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "BioNTech (BNTX) Shares Drop After Phase 2/3 Trial Misses Primary Endpoint in Head and Neck Cancer Study - GuruFocus",
-      "source": "GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSjVBZEdmOHVuSGNmRU40dUFHWEowdFp3bERIbUg1Uk5qQWpOVzA5by04WjBsVWYzLXBvcWZmckxqZF9JMUxSSndfaWQ2RkltaV9yX3hqeHNVMUpDRzJ1MElFTEdRajNLNko1OGxVdDQzUGlYdkwxX2hKUkhNb2tCUUVuaUtISUNFOUJCNWJxN0t4WlJjdlVQZ2hvSncxTFpXMkNXRUxLVTRoS1lUTEJGWnczVVRLTXVsZmFMbTNRZFRoQVJpQnVfX2FaR3k4MC16QllFaEVn?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 2/3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "BioNTech cancer drug misses key trial endpoint By Investing.com - Investing.com UK",
-      "source": "Investing.com UK",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVJ0aEFyMVNxSF82UGxlcTdyeEw2MFc4cmZWb1lGMUZLQ3hUUm1MQmlfWlJxUUJ5bkNOY3ZlMlIwa2l2T3E1bnpNS3k4REl6NGZqVDk5UFBiYUVUU3hZT01VRWc3ZkwwSDNfVEdLRHVzS2lLV0JfemE1dFEtcko5azJkODlYR2F2ZWNZQ25UTVdVMmtkeFoxa1N3V0NycFBqRTB5dk03dWpMajA?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-13",
-      "headline": "BioNTech's mRNA cancer therapy misses first goal in head and neck trial - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZTR3dEhQVG9QN3dNSlpFQy1sS3l2N1VVODhBOGFUV2ltQS13LXJ4T1lWM2pIeW5na2FlT0d6SE5FU29KSDM4ZGpETnNuNFh3QkVGRDduT18wNVBQc0VSZkhwWmEyZW15YlVIdXhGTTktUnc0elRVbE11OWVuNG9zZktIaGRtQW00N1lPdGVxTEtib2VIc1NWLVIxZ0o5cjBET29jNHpqeGFrREJpVUx4c0M4RWlucGs?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": "mRNA"
     }
   ]
 }
