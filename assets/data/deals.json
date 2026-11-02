@@ -1,6 +1,28 @@
 {
-  "generated": "2026-11-01T13:15:59+00:00",
+  "generated": "2026-11-02T15:42:35+00:00",
   "deals": [
+    {
+      "date": "2026-11-02",
+      "headline": "Sun Pharma sees improvement in Ilumya sales, Organon acquisition on track - CNBC TV18",
+      "source": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOai0ybGFBSUJFcXlSbGRFNWMyVkRfSEtfWm9EODFzRmRMbXgyNjZaa0cxY3RoZUx6U1RGSTdKUEFoaFlKWE56RTlYUS1MMnp1V200eFpPNld1QkdwQVdjTVEtaWU2QjVzcUdMVHA5bjdTZTBmeUZSQm4xY1g1UTNqMVJoWEhhVVR2SGpiQmdBWWk2SlFmQy1rYzVDU2dlTHNFZDVLQ2pqWS1VZGZPUHNjRDRuak1wUld6SWFmNi10UDROdGZZci04OUJfWUx3QzRxNk9R0gHYAUFVX3lxTFBqV3RCSjNmNUZ1Zm81dEg0dUxnc2hjakktM0pFT25yTExOS1FjQ3IwcEZzSFNLckhJZUZHREdJUkNZNFVsSFZrM2RfbDhOT3VrR0R2eXZLa3QwMXZ0Nnc2dk1fUmd0b21rSXYtdWdMeThnVmRKVGU2T3NGU19rbVc5LTJObkpFTFFuU2ZkeEpTX210bEZ2UUN6bUs3QXZ4U2swZ3d2NUx2LUhTdTJkSlhNYWpBd2lvTWlyRjZlcTVNYXV5cndfOWhqT1RBWHA3azhoQUYwMU5hVA?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-02",
+      "headline": "Zydus Lifesciences Completes Acquisition of Sterling Biotech API Business - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTJneGFkZVNzNWR5dl9LcGlNU3JSeF9WNGdDbG1ZMmw2dFpYQ01JUkVDOEJqcDNRM1Z5NUp6SkNUUEhsYU9wMUlQU2NVZWc4cFZjdWNxV3FRMFRCSUo2b055TndqVElSc0dCVE9LYk1nd08zMmVwby05d1JaWEpEaVNzeWhtQk9EZXI3SXloRHpPT0U1Q3dPRFk2LXMyZzQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-11-01",
       "headline": "RPG Life Sciences eyes another acquisition with ₹500 crore capital pool - Business Standard",
@@ -2727,28 +2749,6 @@
       "value": "$75M",
       "area": "",
       "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-01",
-      "headline": "Vertex Completes Acquisition of Crinetics Pharmaceuticals and Announces Expansion of Executive Leadership Team - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDBRNjgxZ3RGN0YxNGdwUnBEU05QcG85cmo1alBTdzdVUWRVOWVHQW1OSG5qRkszVVR0eUdfamFtS0U0eEcyNkpwM0w1NEpLbms4RDkxZGM1X1RsdjhtSVpFV1dQYlpaMTJVbEZFVF9PSEdUbUZ0dFo1QS1TTUMwQWlZZkFjUnFqQTFhNC1DaEd1aFRqOVp2dDZ2bnE4Mk1XMlhLemF4QlY0YkM0X2R5WFAzeWlrZw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-01",
-      "headline": "Roche inks $1.53B deal for Simcere’s B-cell-targeting antibody - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0pzeE95aXlWTTZjMFFGeEtMekkwSG1hei03X0JqSklORzBLLXN0bUR0ZlFpMEllalQwWl9yNXRqYWhjTkZ5TTlaOWxKN01mRGZzQ0dMSGM2dkJNZU9RQWpaQjV4YlA1WWs3bUswemxRd0s2Z0xDclNDYlBNMkUzUDVLcjR1ZEtMWkNCRTJKTmI1Rk0xWWpqUGtpM3pBaWVKOEc3Mm5hM2Qza3NpeHc?oc=5",
-      "type": "Deal",
-      "value": "$1.53B",
-      "area": "",
-      "modality": "Antibody",
       "stage": ""
     }
   ]
