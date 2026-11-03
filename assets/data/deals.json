@@ -1,6 +1,17 @@
 {
-  "generated": "2026-11-02T15:42:35+00:00",
+  "generated": "2026-11-03T14:06:00+00:00",
   "deals": [
+    {
+      "date": "2026-11-03",
+      "headline": "EVERSANA builds its AI Agency with Estima acquisition - pharmaphorum",
+      "source": "pharmaphorum",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzM4SlJ5eVBmdmpQcm4ybWhqNUI2aDZRT0drYnpmczJYSHR5T3B1ZmowZGZ2cHBQd3FHZ0VfdlBuUllESTBRaFRObDhaY2YtWkcxQW1ObVd2aW9JR25PWFdIUGZGY2pNUXF0SHZuVmRENUtuYkhlUWlhZzVWMlQzM0dvQXE?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-11-02",
       "headline": "Sun Pharma sees improvement in Ilumya sales, Organon acquisition on track - CNBC TV18",
@@ -18,6 +29,17 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTJneGFkZVNzNWR5dl9LcGlNU3JSeF9WNGdDbG1ZMmw2dFpYQ01JUkVDOEJqcDNRM1Z5NUp6SkNUUEhsYU9wMUlQU2NVZWc4cFZjdWNxV3FRMFRCSUo2b055TndqVElSc0dCVE9LYk1nd08zMmVwby05d1JaWEpEaVNzeWhtQk9EZXI3SXloRHpPT0U1Q3dPRFk2LXMyZzQ?oc=5",
       "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-02",
+      "headline": "WuXi Biologics, Fresenius partner ahead of biosimilar boom",
+      "source": "",
+      "link": "https://endpoints.news/wuxi-biologics-fresenius-partner-ahead-of-biosimilar-boom/",
+      "type": "Partnership",
       "value": "",
       "area": "",
       "modality": "",
@@ -387,6 +409,17 @@
       "stage": ""
     },
     {
+      "date": "2026-10-22",
+      "headline": "Gaithersburg's Georgiamune Signs Potential $1.1 Billion Global Cancer Drug Licensing Deal With Menarini - BioBuzz",
+      "source": "BioBuzz",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT2RuNnhubF83cFZlV3FVd0s5TUI4UFBhLUxLdFFGNTd6T0xyZ3ZucC1LS0p4Rlc5Qld1RXhiWDlsRHFMVkxrY0ZiRE9kMjJZbTc0YU1WcXFTRjdYelUybVJiX2Nzb0xQQmhHRDdadVNDTVJreUlDS1hjZVNMZldLd3g4YkIwZnV0ZjRaWmoxRDN6VVhvYjdQcElLQkJKa29kbS1TQ2w4ZnZrRkhuemJsNnVxX3VkNDltOE4tQnlvTHhmYS05?oc=5",
+      "type": "Licensing",
+      "value": "$1.1 Billion",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-10-21",
       "headline": "Sun Pharma Raises Rs 10,000 Cr In Debt To Fund Organon Acquisition - TradingView",
       "source": "TradingView",
@@ -481,6 +514,17 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMW1pX1p4UG9oRnZ3cU55QTV5R1JWMkE1WTZ4bUlKMFFUVjhWUHZyZElfa1pFaEwwVzhjS0JMR29tWW53SjdJWUNxd091anpxNmVEN0k4YUtMcEtxcGZkOTVhMktqLXk4NnZ4VVdqdGtlU3diVkh1YWU4OUt2cGJUaDdJNUtrNTJnUWc2ZEx1YnhVbmVDUF9zNkl0Wmc5Z3BnbkwxMUlJcFZXY1hUOHVlVlQyclFoOWVNUC1NX2FZWkwta2FHQVlRTTBqWWY5d24yLTBlS3VJUlMxZVNJVnN0ZEZ6Zw?oc=5",
       "type": "Deal",
       "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-10-20",
+      "headline": "Germany’s Merck to Buy U.K. Biotech Silence Therapeutics for $1.3 Billion - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2IxMzhfeTJQa3c0T3dGazN0MnB0VWZXYlpxRDlNdVE3WXoyQUZJYUo3dnlRZVRMckUzZzRvUlVhUXR3UEJRaGlleFNwUmc2UGowYjVOdVRVR3hBREM0eFpxckdHQWVFQnF6VTZEMjYxMFkweVV6R1FnZkdTTTBZWXZqNXdfWU1zTjZDMDZIcGRGWXVTTDg1QlpGbjAyX2JGeUQ2UjFNQkNob2RNNEh3VzN3?oc=5",
+      "type": "M&A",
+      "value": "$1.3 Billion",
       "area": "",
       "modality": "",
       "stage": ""
@@ -619,17 +663,6 @@
     },
     {
       "date": "2026-10-19",
-      "headline": "Germany’s Merck to Buy U.K. Biotech Silence Therapeutics for $1.3 Billion - WSJ",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2IxMzhfeTJQa3c0T3dGazN0MnB0VWZXYlpxRDlNdVE3WXoyQUZJYUo3dnlRZVRMckUzZzRvUlVhUXR3UEJRaGlleFNwUmc2UGowYjVOdVRVR3hBREM0eFpxckdHQWVFQnF6VTZEMjYxMFkweVV6R1FnZkdTTTBZWXZqNXdfWU1zTjZDMDZIcGRGWXVTTDg1QlpGbjAyX2JGeUQ2UjFNQkNob2RNNEh3VzN3?oc=5",
-      "type": "M&A",
-      "value": "$1.3 Billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-19",
       "headline": "HK-listed Metis TechBio, Eli Lilly strike drug-delivery deal worth up to $1.1 billion - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdUVXdWoyYzFOX2oyZWZGVFhYeFdLdlVjaHhzSjIzWXR2NnRDUGtXVWxFWHQ5a3Y1TklNTkhtQTlUeHBqWUQzWUpuNkFhTW0tcDhzck9ma3gxVm1BQjZnWTQ3UkhMRUJJSmFMWjFKTkpPSjBPS2ZOeElDZ2FKbFRzdC1jVUdyMEREaHhxdkpQZDJNQWRZdmkwZDF5R09hMkRCSG9NYUtkZjZ5VHRxNS1qOWVCdFdKV0dnR19oRmxjWlhqakl6ZTJtWFhYLVNZU2REMEdrbjZSMGNpSW8?oc=5",
@@ -668,17 +701,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXBkc3JWZVl5Tkx6UkRIYVRBMVo2cE5ySXBuMXA5clJHaV9BYjdENWQ5ZS1HU1lpRDMydzh6NDBFSVJkLTdNRzVjLWdmSVNneUpaWklHTzdvbmlDWEtxVGJNS3M0c1IzdDNjNkNkRG9rZ1ZqaVBlQ1J3VElsTGltekxNcWo1UVJJWi12eUpNTGx5eUx3ellfRmVMRFo0aVBIT1FvbHdnNXBrUFpjWUJ0S3d1dFp4U05XOW93Tw?oc=5",
       "type": "Licensing",
       "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-18",
-      "headline": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition - Generics and Biosimilars Initiative",
-      "source": "Generics and Biosimilars Initiative",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUC1qYk9FOThSSVNCUjdjM2tYSmNTTHQ1UzFsMDlLeWZhaEZwRDJYZ2JnNUxmcmI4TVpzaVVPQlIzdjlGYjkxTWw2TlNpNWo3YnJNY1N1OXVTRHBxeTJGdEdZcndRQV91OFNNd01ObHNpTW5IaU5hd1BidHN0cnF0UGdEZE5FSDNYT2ZPY0hMQzlYUFczSkJ4Z2VfdjNJaTFYTTFPSUhicUpQX1VaaVE?oc=5",
-      "type": "M&A",
-      "value": "$11.75bn",
       "area": "",
       "modality": "",
       "stage": ""
@@ -2726,28 +2748,6 @@
       "type": "M&A",
       "value": "$2.9B",
       "area": "Metabolic",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-01",
-      "headline": "Vertex Completes Acquisition of Crinetics Pharmaceuticals and Announces Expansion of Executive Leadership Team - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUld1SzhUNEw0RWwtQlZGdXhLZ1FKOFhrejVtSW5SNFU3cFdXV1pBcXk0VGV5RGNYQk83QVczX2h5TGVMV0J1RjZiaUdJOEpKMUhQMUJ4aVhVU3VFdWN4b0dkbXhUZ1NOUk1Na01ITk05RGtLdWo3S3k2VV9IS1BzTzVuNk1yNmRMdC1BQXNNbi1nU1lQZ2NiQ05sVkI3ODlQQjd4ZVNnYlFKTnNacVYxWUFYaEtNcW5HR3dxX1B2R0dGb2lTQ2NMLWsxYU5tczlmT21IdlhxdENaZ0txWmNKX2kzYjl6Z21JUnM0dTdqbWNPdWpYX3ZxUUEzVQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-01",
-      "headline": "Roche taps Simcere for trispecific T cell engager pact with $75M upfront",
-      "source": "",
-      "link": "https://endpoints.news/roche-taps-simcere-for-trispecific-t-cell-engager-pact-with-75m-upfront/",
-      "type": "Deal",
-      "value": "$75M",
-      "area": "",
       "modality": "",
       "stage": ""
     }
