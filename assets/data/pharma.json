@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T16:20:10+00:00",
+  "generated": "2026-11-04T16:25:01+00:00",
   "items": [
     {
       "date": "2026-11-02",
@@ -56,6 +56,13 @@
       "source": "Fortune Business Insights",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWWVNlTFFZQURlNmh4RFF1UE03V1RpMHVmYmdyNVozRU1fR1Z3VWVCa0VaR2RrU1BIUGFOMTJRQzZMdHpzWVcxTGhNMnNVXzRNcml6c214VkxhYUo5WXUzV1VVUXlhdHNkRS1kT0thQllTZw?oc=5",
       "category": "Research"
+    },
+    {
+      "date": "2026-10-19",
+      "headline": "Smart Manufacturing in Pharma Market Size, Share [2026-2034] - Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXVCdGNCZGVHQ01vT0duMW5tWF9yZjdheVdubEhfSHBuMkh3aUtHUEg2MHh1b2pET3NReDFOTHhpaVNDVTV4V3pSd3lqSjdkN3l6V1pCcmxfcnl3alN6NXFROENiTzUyQVhmc3FQRXhYTnJPQ3EtTjFPT0FkVkljQXZrRERjeUJ3RTdz?oc=5",
+      "category": "Technology"
     },
     {
       "date": "2026-10-15",
@@ -133,13 +140,6 @@
       "source": "MarketsMojo",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY1RFM2JURDF1UHhkb2xyX2tZdjBmTkR3S1hmRGpKZzNET1RJOEZOenJ2R1VYUTFSemFUUEZiOXlsM0lDOHVIQUMwRGREOU9SSnJNU0Q2Vi1UX05JeDdNdzVyZkptMnFJRDNIZnZ3VHJJSHdlNnV6bmJ4a3dYdTRUNk5RRnhGYWg5aXNMNTdNdDBVbmF3ai1wSk1zWE5oTkZNTklZQzRLVkloUnh6eUp4LUY3LVd1Q0xYdExF?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-10-05",
-      "headline": "Smart Manufacturing in Pharma Market Size, Share [2026-2034] - Fortune Business Insights",
-      "source": "Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXVCdGNCZGVHQ01vT0duMW5tWF9yZjdheVdubEhfSHBuMkh3aUtHUEg2MHh1b2pET3NReDFOTHhpaVNDVTV4V3pSd3lqSjdkN3l6V1pCcmxfcnl3alN6NXFROENiTzUyQVhmc3FQRXhYTnJPQ3EtTjFPT0FkVkljQXZrRERjeUJ3RTdz?oc=5",
-      "category": "Technology"
     },
     {
       "date": "2026-10-05",
@@ -1010,6 +1010,13 @@
       "category": "Research"
     },
     {
+      "date": "2025-10-28",
+      "headline": "Pharma 4.0: How AI is transforming the future of pharmaceuticals - TNGlobal",
+      "source": "TNGlobal",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTmNMcFhRRWk2TWZoQTVlZWktNFp6aHRnUFVsdGluaWc0YXJWWktwejhZWmRlRGh2aGJwZGExWWdZOEo3bFdJRUo1NGtoTHhZMHpncVprV1lUc0d2dTl0NmszQmN5SnJ3dHJIX2xHZlN1TFVDcTZXSjFMckFTTXliMzVmakpHSjN6TllqZU1nSy13VjR4YzRZUGNvWXpFLWFn?oc=5",
+      "category": "Perspective"
+    },
+    {
       "date": "2025-10-25",
       "headline": "Panel Discussion: Biopharma Manufacturing 4.0: Smarter, Safer, Faster - Express Pharma",
       "source": "Express Pharma",
@@ -1743,13 +1750,6 @@
       "source": "Express Pharma",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYW52YTNRa2xXTkFkRzBWNXZvbzlyRUJJNnlVVUItbVJKUVUzZ2hGZWZ3ODRvSmdYOE12RnRYZWhEcHlTWG95SDcxdWFTSkl1NXB5dHQ3TUFub3BGbFlZRDJaRjFTQmxTTkZPdnVuMTFVU1Z5U3g1U3lqbmZvdk5xWWZieUlDM2p2LWdwS0ZXa0N3Vmc2STlONg?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2022-08-18",
-      "headline": "Siemens study find digital transformation is key focus for UK and Irish biopharmaceutical sector - The Manufacturer",
-      "source": "The Manufacturer",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYld6c2MtY1NvZV9yOXVfTjlrbnR0YzM3Rkk1UlNHeE9iWEp5Zy1JdTRhaGNEWFc3RkVTQjJZRV8zbFVlSXBpNU8tN0F3aVRid1F1bllPZ2p5QlMwRnlRUHBoZDVaUmhGZjZLY1FJZXRhSHRfbGlPb3dWcm9sYUlpa0NsbkRvdEppSE5kWVVTcXZ6SWcyTHZuUUVkbXNQQk5oRWpYU2RZckhHaXBLYXJrbWZDWjA1aW15R0JrUVBSR1I5Rzg0X3VrZ1lBS3BfNm1XdEhDRw?oc=5",
-      "category": "Technology"
     }
   ]
 }
