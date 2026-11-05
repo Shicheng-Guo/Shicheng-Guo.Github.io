@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T14:27:10+00:00",
+  "generated": "2026-11-05T14:33:59+00:00",
   "deals": [
     {
       "date": "2026-11-04",
@@ -20,6 +20,39 @@
       "type": "Deal",
       "value": "$110M",
       "area": "Ophthalmology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Agilent Completes $240M Proscia Acquisition - Contract Pharma",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEFQT0lEcThPUkpabDVVVDhyTWZmdGVlbHBWd18wSmRNRGVNOGJRNTlkWDZXYTlyZHEyN2ZuRlRCbl9KczVENWVqM1R2UU9kN1E2WlVwcG95blItWUw5WElmMUNUa2Q3LXdzR3NqeXpMaXNsMTFkZ0FYbEdpRnRXUy1NLWNwaVBaNk4zb3hBd2M1QQ?oc=5",
+      "type": "M&A",
+      "value": "$240M",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Medicus Pharma unit SkinJect signs non-binding SPAC merger LOI - StreetInsider",
+      "source": "StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2xySUVqSkdZb3o2NC1FVTdUWnFNNE1GbG44TzVZcnBaWDlGMWlZRE81SjRJYmhRN3VDSVFXNEVGOG9pVlNVYTFzQm9qZm8ySGIxVFRCdVRfa0twb3BwTXNraU11bDl1LVdZbFdrU3dUVXU4SVFUVVhHeUNxREJIZGN4MkRiWHpFZDdaQzNEUFl1YWV2Y3pVbWsycjFPN2puUzVnbjBxb2taZ0ZkLUtnWnRva09ma2luUTNESjZR?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Cinven Theramex Acquisition: £2.2 Billion Deal for Platform Worth Four Times Its 2018 Price - Tech Times",
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdEpsV21HaUgxcU9XUms5R0lXWlp3Q0NvN3pGZ3pHa0Fwa3ViYjFLUERSb2xPNGpZREVLY29ycDRiZkUtNlpZNnNCcXYxUGhZU2YtQnBIQUlCLVNWNnB5ZDhKd1lOcmtwT3pldUNkNlRPbmVOTE1TSGRBcDJLcDk3ZFYzMzNNY0paQmw1Y2R3ZU5MLTdvc2RqZURsVUh3TkxkUWZqOUpUazVWRlR4M2tYazBCcmd0OEJtYnY2V2c3ZGVKdDdhMEw3UkFIeXItelBIM0kwTVVXR2Q1UQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
       "modality": "",
       "stage": ""
     },
@@ -50,6 +83,17 @@
       "headline": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition - Plataforma Media",
       "source": "Plataforma Media",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZjhVa09USFJvWDc4UUc3MXJyZ21LN05JLVpPOGo0ZkFJRlRDSXVkRERkZm5XdHlKM2t5cjVCSkR2em1pelpubE5kTXJRMG1zWUY1VmpPVEhlOXBRc1FZbFM0dmxnRWJUTzN2bjh0WjBqTHZrQUMxczN2Ylowbk5IUk9xN1dPNDFGQU02VjB5dExpLWlPMFlnTDJmYzFZVllqaXowdjRWXzZfc3hUOEpYUjZiRFRCWm5kRFNzVWk2WWhVUHNabGVrUmlzZ0RrSzdWQl9KOUdCZnAzX1E?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "Zuellig Pharma Strengthens Clinical Sourcing Capabilities in China through Strategic Acquisition - StreetInsider",
+      "source": "StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeC1NT2NXd2JyZ2NobGg5UGkxdk56d0plM2RfVjRValVEeHVjNFlxNEt3RE9nUnRvQ0ZsVjY5THc2SVF4dzlkS0JUWVA5Q1o1ZXR6Z1o4SGFwQTk5SlBqVHdTZ0FhTzBlQzU5YlRhN3o5Z093VGNZZkVjU1JYVEpLUV8wblhud0VxR1hkSW9WcDJ2SW5XZXJob0V4LUpabVByNV84ZXFHb2JlNVdkSF9lYmpTMGE4c1czeWEwWndwODJrcTJPbWhfLWZkNzJreUFKVGMtSVd3TzM1LUF0Q0k2X1I2RXh6UQ?oc=5",
       "type": "M&A",
       "value": "",
       "area": "",
@@ -2704,50 +2748,6 @@
       "type": "Licensing",
       "value": "$3.2B",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-02",
-      "headline": "Owkin signs AI drug discovery deal with Boehringer for cancer, immunology - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmpmTGs1UVJscmVKVW1jZjl6QVJZMHc4UWR0d3NoQlBTeWRQcS1uNkhHYUR6SUpOR1o5NkFqenlVdkpfcDgwenA0WW9sbmk5emhVWXh3allyZVA1Q3pPMUpWWHJHV3l0NjdCS3dSTXlFVlVBUzZDMjYxRUF5aXBZbWhyMlR4X3NXOXZxSHRkLUoxVG4xdmlEcDRVc3k2d3dhREdteGR4Mnd5U1cxQmZtVms4VlhhNlZlVWZGdUpn?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-02",
-      "headline": "Cipla signs exclusive licensing deal with SBP Group for HER2-targeted ADC - Express Pharma",
-      "source": "Express Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk03cGZqZThvN3k3dGxsU3AyM0JQMndPUVZnMldSMncyRlZUb2dGM0RBTFBiUDlVWVRsT3lHSGpSUDcwZ0ZSaWRoc2JRbUNvdVE0UjZFZjVYSG9iQW12OWFKM05aLVByUFZleDBqcjdWR1lLNTAtSndaRkpsV0U1c1lsWi1OY3MwWm1rOXlaQ1RQWlJMbHotcjB0RTk1T0lPQkJuc2duSnNjaDg?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "ADC",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-02",
-      "headline": "Novartis signs deal worth up to $3.2 billion for Alteogen's drug delivery technology - reuters.com",
-      "source": "reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUNLeXg3N3k2RHR6T1ozbUI0MFd3ekE1YS1sNmxuWjZxeDhSZ1lDb1NqWXBsbXRaMktEcWV6b3dKREtyMEVCcy12dlI3cGtoVk1xYUFVbjVsNXVyclRIVXdvMFBWZG1UN21JLUZkcVpEZjdvbjRlU3YzUS1hd2xqYzJSZVFSZF9LVVBtY01Demh0U094NzE4a0xtaUNONHlqcTVqZWlybGdYYWlEVzlpaHFJZV80NkY2N1NQR1E2a1FIaFRwT3c?oc=5",
-      "type": "Deal",
-      "value": "$3.2 billion",
-      "area": "Hepatology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-02",
-      "headline": "What Does Crinetics Pharmaceuticals (CRNX) Delisting Mean After The Takeover Closed? - simplywall.st",
-      "source": "simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZVpQN0YtaXptbThUTkpPVXFHNHM5RUozZDBkZ2t2NjNTRVhVOExFeWRocXlWcVBzWW9DcXBFbndHYThRSFhlYjF2Z0dQS3JXY3A0X0JydFM3UjdVakw5aURJUTJzcUc2N3pzdVRqWlFmRjZnZ3B4NnNTSlZMX2k2Z2szN2Q4eVV5QUI0SVJzdldjVlFjNXk4Z2MtNnNsczUybXV0RWhSelBLOS1GOU90MXVLMzZUVG9rSWRXVjNvNlZfdUJTWVhiTEJ0YWVlSk9KY0lhOXJHZVlRMFZVZktpS0ZPZlRBOTJLVXNNN1pSZlPSAfYBQVVfeXFMT0NTallOSm5PcENuNU82LThhckJOemRHYmJfc1U1S3RuOWp2azJkSDVMLWt4b0FETmlJaDQ1NFhCa2VON0NDVUhVWWk3dDF2UzBrUHZQbTNjbmJOaXZ6NkUxR1lvMlpkZzZwNDRYZ1FGXzZxOWxwaW8zMEQzek91T1hxOGlLMkYwOHNTQ2M1TU40b1BRMGlFSGxHWElFLXQ0dU02RXlEekoycG1URDhYYmpjaV9DbTI1NzZKeHFnZHlpYlhRVHh1bmNwQUd1dl9FVnZBdjItQXFKc3ZyYmI1T0dBZG1SdTE3amJ3Q2FuUDZ6X2g1VFZR?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
