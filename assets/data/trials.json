@@ -1,6 +1,83 @@
 {
-  "generated": "2026-11-04T14:53:35+00:00",
+  "generated": "2026-11-05T14:58:22+00:00",
   "trials": [
+    {
+      "date": "2026-11-05",
+      "headline": "Akebia Therapeutics Reports Positive Topline Data from VOCAL Trial Showing Vadadustat Dosed TIW Met Primary Endpoint of Non-Inferiority to ESA in Maintaining Hemoglobin - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0hmWXdPZE1haWVFVm50cGlmTUdmRmw2ZndxZGRmRDVtVnlyTk9acVRRczAyMzJtT1JXM1VnblpLbmN2cFRaOTJpSklwZnMzNFhlOXdkZTduRHZUZk5ObTFZSnc4eFhORDVCN0g0YzM2cEhzTy1UQ1NFeWRlaTBTdFZqZFBZWTN5VzYwM0xMX1hmbmdIb1NoQVJ0UU9XbjNhb09ob1dzTFQ?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Grand Pharma's Eye Drug CBT-001 Meets Phase 3 Endpoints, Shares Jump Nearly 5% Intraday - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mRTN1TkhFZ2RWNnNkZTRiQlFnb2VrNnFLMzVjY1RVUjFQVzBwMmhNa0V2dkVMdjFjNS1qN0ZmTWtHS196RTBEaWtlMUZ1NktmZENRUVV2YlNjRVQzcS1HUnRRMHZSM1JQNHlhOVh2WTlzQUNPQUE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Once-monthly bofanglutide maintained weight loss over 24 weeks in topline phase 3 results - 2 Minute Medicine",
+      "source": "2 Minute Medicine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbFpzdUZIaGozV0poVXNMbHJ4cUJ4bDFRZnNyYXBZVWhCS1FIRWdmQUhlemxjT0JLbXU5WExzdVdpdjFHQ2NDS3l5WmRSYjhEY2ptT1pJLUF5Y3VDZjgtSnkxZDZIQkY3TWQyTDVNdlR1cUl2NmJ6NFpySktZa3pIZm5sMTVKVTVfcHNHakpMcUtyd0FCWEViejluaTJHVG5CdjhDbWxaOWY5TDBhSDF0d2k3WDV1enQ0S0ZzaWgzOA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Cloudbreak Pharma Announces Top-Line Results from its Phase 3 Study of CBT-001 in Patients with Pterygium - GlobeNewswire",
+      "source": "GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMkxtNTVodzA2bXB1RERSbHRyUVU0bmt1TjlQM1FiNWlFMnAwazY4MmlPMl8wQmxaUHJSRC02VzZya21KY2hyMDFURFd5SzlOZHh0RXZrc2l4Ni1mdGM5Ni01NllMam1DcDg1dXk1cjB4NWRaN3U1ZlVocE5rLUMtVDNvd09BcGF4REFiU3ZJZEZucTNIVFJGWm83bkJSV1lUSUJvajBPZ09BcWxlYVBHMURycEtnMllETEtmbE1TaDY5cHJhODhwYlQzMm5RdmNEZXZOUTBIRnNXZUNUdmgtYkZYRk9fOW9sZ0JDOG1lbFo4TWI2SHdYR1k3QTFGTWhfeFJ4dlB6QWU?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Zai Lab reports phase 2 trial results for cancer drug candidate - Investing.com UK",
+      "source": "Investing.com UK",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXF0QmNPMGtoVE1fc2FkUU5vbklxYmNZc2tMX2ZaMGc5Ym1OQ3ZxUDBrRTdWMHdsZmZlN0thaHY0V0FKN01wdVkwWlZBSU1rZWtNOEhGUFpIN2ZhTFNtX0VJU0lnaENtWE5EUGdHRkp2SU41b040UEVUeDdOVUJmTk9MU0NVWnJTNC1IUHNkMEpMalFfSkZCdVY1TXZJMGRGTmpSNG9vbzU0LURoZjAxSlI2VzlmamV6ejlxVlJta1psQQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Pattern-based patient selection associated with positive clinical trial results - News-Medical",
+      "source": "News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmFRYkJrM2oyVUtMWTB0UjBqZy1pdEFNc1FWd1MwWkxsLWhPOG1hOGxaMTB1Z3BkbHNqZkRLcEdXYWRNdENIX1lxRDd2UkVValNZMV9XVEJVQWE3MGRSRGNqMDgzMjhWV1lPTXF5UEdFZ2F0UVZ3dVMzd0dWTmdkWkl0ZzZlR003eHgzLUVBS1FYa19LV0hUZkFpaVoweUJxd2hUcEllLTVFLXUwRkdJb1dBajV3VmtLcTR2aFRQSkw3WnVzRUE?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "A trial-tested three-times-weekly anemia drug dose was no worse than standard care at maintaining hemoglobin. - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnNWYjN4aVRBZ0g2TFdFbjN4WWpMMjBxNzhVUnQxekc4Nk1zM21mZnFMcGY5MGFQYU5jV2JkcE1zUUQ4ZTVtNjVtT1VfUkJLdzAzMzlod0xFNFV0SkI4QUxoX0ZCaDRobGQzVkxlcWtqVHZGUTVNVFEwdDFtbEI0ZTZQcWxBVl9YaThWblR1SHh3NGdwWXgwbElUUG1mUFRmZHZ1M3Q2cFVaQ3FoQnVWMmluSmlkX0JadlRjZHlR?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-11-04",
       "headline": "Definium Therapeutics Presents Topline Phase 3 Data for DT120 ODT in Generalized Anxiety Disorder and Major Depressive Disorder at 2026 NEI Fall Congress - Business Wire",
@@ -20,6 +97,39 @@
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Servier Stumbles in Muscle Disease as Drug From $1.5B Deal Fails Pivotal Test - MedCity News",
+      "source": "MedCity News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUZfTV8wRlBERDJpUUktUlAwd0F5WmNZVF83c2dzWDZOXzZiVjdOQmozRHl2eGJKUUJmWEN1Tl84N3dnWGc4RFZFQUcydm92NXNxT0NfN2N0V05lXzMyWV9sMG4xNGZKTW9uN08wNkpFdldhSGVGOC1RbDNkdnVNQXI5MDByVHQyaEg4c1ozdlVFeG5Zc1pjWmNnMGF5R1JaSWhITDJ5M0loNms?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Servier’s $1.55B Edgewise acquisition backfires after Phase 2 setback - European Biotechnology Magazine",
+      "source": "European Biotechnology Magazine",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2lzN09ZdkNjeHFFeFZpNXVacHd2emJMU3lCakJheVlGb3FncVdDaDY5TjRFUlc1TmY1Z09oWm9iaWdJZEI2bnRxWGNtS0QxdHhYbEdmcGNUWm5MUzRzajlkV2lmRUdOZ2RaZE5ocXVlbjVqd2Qxc0ZibHFoSzcyYzFGclpJZmtSODNJVjM4d1hLUzJoa0FfR0dMXzczRkFMSlRvSUc5NjhIQVgxNVpHem9JeEtqZw?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Servier’s $1.6B muscular dystrophy bet on Edgewise delivers quick-fire pivotal failure - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUExBNEI2M3BLeTVlSHFSQS00WG85dzJ3ZlpXemlqczNiX3B6X3lXTjU3Y2htM2s2WWxpZlN3MnZfSEJUVFU1RE5ueW1ELWRadk1uN0VDX20xeG1TakJIUGdYLVEtUzhIenBLME5wRURNZkw4cEJEcXFiN0UtdVpDcjdRWVQ5bngwRExnT29YSTNCR2ZrNktGcUNfaXJnVm9wX1ozV3lIRjZLdElTSmN3?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
       "target": "",
       "moa": ""
     },
@@ -207,6 +317,28 @@
       "outcome": "Success",
       "phase": "Phase 3",
       "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "AL-S Pharma Details Planned Phase 3 Trial Design for AP-101 in ALS - NeurologyLive",
+      "source": "NeurologyLive",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMTMxclhZNVNxSzBLZzB1LVo3SURKY2o4aWg2QmF1bGdialdlSGVSRjJLLWpIS3hjUUlhQ19Pdzc3UmpVZU9VZGplTDB0U0FQaDJsYkFKaHJKSHFPR2pOM3Z6M3VCUWE0cG9JSkFBRmExblhqVjYxNGtXSWlvbi1xWG53ajlxbGF6UHRuaWozUlM2ZlFKZ0tkQWhB?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-03",
+      "headline": "Statement from the Muscular Dystrophy Association on Servier’s Announcement of Topline Results in Becker Muscular Dystrophy Study - Muscular Dystrophy Association",
+      "source": "Muscular Dystrophy Association",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONHBxV1gwQVA2bHhPQktMZzI5b2ZGZnc1Q0Q1Wm40cXdKMHQ1UHdSMXhkcWwzQVNGRk4zMlZLOHZyWk9JY2hKLUlvU3U1ZGEyblhfdDhjcE4wSmN2dy1HcEF4a0NPRVNRMTJIc1I3UWpXOENNbk1CYjdJakdSOFZxdy02OEZPeEdGZVBXTFpyWXhXdXBFdVVaYkhGTlNmUGo3WUVJc3I0S0VHUE8tX1QwLUZiRDNXTndxWUI5eEpWTEdWMGlFbFNHXzVENmRrVjZ5amc0bE1sSQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
       "target": "",
       "moa": ""
     },
@@ -2616,138 +2748,6 @@
       "outcome": "Success",
       "phase": "Phase 3",
       "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Cosmo's Rifamycin Gel Meets Primary Endpoint in Phase 2 Ulcerative Colitis Trial - VZ VermögensZentrum",
-      "source": "VZ VermögensZentrum",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZGZ0ck15VFNhQ0R1MUFvTkZCcGNGTWdid0VjZkx6bWRiX0pDRFVjUGNVdVgzMGRXR0lkQTcwVnprNnVZN21GZXdqTFFGRWlyTUZLYUw4QU5mLVJ3Z1N6d2EtblF5UWFOemdpQkFIOEVlemltbTdFRXEzRFBDM0ZzZW4tYmxnQ3JpRHJlcWlac3M1SnVUOFNGWnFvNVZtaU8xOFJxWndDMFQwaDB6NS1BZ1RSQ2pmRmU4Y2FfOS1ETkgxVEJYTVlDbFd3?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 2",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Veradermics’ stock up on male hair loss trial success - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGJHZEhwOG9qX3d5bHlzS2sybXZEc0lvQ0hpbTVDeGZMdFU3ZW1UTUNpcUY1anFBN1NCdllzOUhQQ3FhVkFVMmlWM29oT2NuNDR1dWxYNko0eDdPdGVZWkJPbXpZRFZSX0ZwcXd2TmRUOFhpVlVqbUQ5SElDVGoyQW9TOHc?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Disc Medicine Stock (IRON) Soars Over 28% on a Phase 3 Trial Win - TipRanks",
-      "source": "TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPci1KMWF4Z1EyYXpUOWp6OGFZY1l5TWk1UDUya3drRDJ5WWtFNnB5eHY2T2J6NWpQMnVPSlpvXzNsTUlFZFh5SHd2bW9IbXpiWV8wbzRGVGdkSXRReHBWMDlUWkpheVFtT21Ma3N0Sy1qR3U5MVd0cnhUOE52MTBjSUJxTmtsd21nZFdhUjB0OF8xTXRqMFE?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Disc’s rebuffed rare disease drug sets up FDA redo after ‘clean’ Phase 3 sweep - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2RiUWZHb2dBUHcwWWlLLUlLbXl3SW40azgwbHZESzRnUEVNUEQxZHBoN3JBT1pucDluVmNkdUR1cHJiYjMzT2ktc3dzZjhHeGZ5eFlYUmtWOEdOSjBLRVB1bERHeXI1WEszWWIzTWo1OE1XZFVILWZVdkE1bUsyUmE3Wl9KaG03LVZJWVdHQlptczJYdjJScU90d09CYllXRGVpcU9ZUFJqdno3Y0JwMUpUSHlwMlVvNVE?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Veradermics to Hold Conference Call to Discuss Topline Results from Phase 3 ‘304’ Clinical Trial of VDPHL01 in Males with Mild-to-Moderate Pattern Hair Loss - www.marketscreener.com",
-      "source": "www.marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQci05VTk5TTlvcGttVG9WcUF5aUpkUzFabkdDSVhDMWtzMHBUQ0tNcFpaY09UNEdZeU9IS2pnTlBPNVpHSS0yUy13SDBILWtycTl4eGhHWDhRZHVSTTRaQVJ1aUVBZ1A4SkhDa2ViRUpyWHNzcmxtZ0tzT08tV20xMlpKQ0x0c3h1UnFMSC04LWpqQXpPMnQwc3lMbDlfTjFTcGxtMDBDb0JwLUhVaW4tLXBRc0ZtbWtTUXNjbjd3eFBEUXJaS1N1aTlmNmJXQ3pvSUlxZE5sLUNidVYyaUNoLXNsYlU?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Mabwell presents Phase II trial results for breast cancer drug 9MW2821 - Vietnam Investment Review - VIR",
-      "source": "Vietnam Investment Review - VIR",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1J0YUFCck00cy1rZERhVV96WDQzeEw2RzllMWx3MGozYUloeGhyZWFKTE0tMkY0NDNZTktkVmhiLVNGMWpJY0NCS21hMFliMHA3ZXBGZ2tmelFITzlscXZEQVJXZ2tabHBnajlKNm5QbVV4dlU5ZXB0VDV5aGx3MjZPX3RTb3VXazVNci1UV1hEUGNJd2FVZVdwRVA0N1R6aWFv?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-18",
-      "headline": "Zealand Pharma announces positive topline results from the multiple ascending dose part of Phase 1 trial with Kv1.3 ion channel blocker ZP9830 - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORko1b2xucS1ZNE9QaV8ycDhQYmRPSFI0UkpvYzVqSzBRMWdfaVJ0TnEwLWotcnYwRlc1aVhESUM3TlFEMThEajhaQWUyenIxQXhyLVl1Y3BYdWtpd0xzZFJtRDZ3NnItX0Nia0dnalRTTko4YXlyQzJlUGZlcW5xdkJRalZlNVRVWVRmdmhZaE5FYldM?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 1",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-18",
-      "headline": "Disc Medicine to Host Webcast on APOLLO Phase 3 Topline Results for Bitopertin in EPP - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnhWUk1RYlpIQUhTWXBzeWp0Vi1zT2h4VGNpcFZLQkFzZV96LTZ0dVZRZ1ZGdzVLQ1owTERIYTV2MmZjMGh4WVFpbTJkTHBxZEJCazR2RzBfWGFWLXBVaGxqelRKWVFvUmZaRmtESTdMWEZ5c1c4Q3lzbmRoQzdJTG5BLXVnV0J4NHJVekFWVjh3NFFPSHYtOURRWndwQ3FSMk9wRTZ5SUVwVkdlNDdFWXlGS0kzMHBkdGc?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-18",
-      "headline": "Disc Medicine to present Phase 3 trial results for bitopertin - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd2s3VElFYW5DT1VhNERuZ1E4MUpMdVA5d1RFVnBYcEZ4WjY3aWlFcjl2Y29XNlFkeEVaU3FiWjN5ak5ka1M2eXRfZmtsQlJJZXVZWkV4LVA0Njk1bVZTSmZxcl85V21ab3ROQU9tcTZpbVNLeG9pXzk4Z0FwT1NaMXFfWnNmYXozOHJuSm9obzJPSjRabHpaT0lYblBkVzBPRF92ZUtObmRPQktXb1l5NGtIbkdnN2sycGc?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-18",
-      "headline": "A drug's late-stage trial results will be discussed Monday. - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1dvNlFXOGtPRkwtTVFJdDV3dTduZ0NxRFNWNWZzbmdOcFBmVmM3ejk5VXAtNHpmWlJvUldVMWZjZjA1Y0ItR0FTWW5tV2xiZXI4bG9sT1lxYm0yS280WW1RYVBUcjdCdXpRY2JIdlk4SnNfbGtXWllMZGNMWndDclFGQzR6cWpNczBDbUt4MjNjYkZCblZHZFdXcHZTTDlBV0t2eDhXLTF2UTJlZy03TlF5MkpvNTN4NWluZzJR?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-18",
-      "headline": "Disc Medicine to Host Corporate Webcast to Discuss Topline Results from the APOLLO Phase 3 Trial of Bitopertin in Erythropoietic Protoporphyria (EPP) - The Manila Times",
-      "source": "The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNdW82TFI1TjBmb2tYWlFxMkFqc0dJRzhiU1M3TFVrNjRfQUxwTkpVUVgtaW1KNmxxOW9jajd6Sjl1WFpEQkdPSVFDcVpHVkV3aEFOdEktNDFWYTR4NG9xM1FEaDBHYlBQc016NDBmd0ZKbVNKV3VfeVFERmxxQnBXSmxTQk9HVzVIa3k3RlUtbUFLWmY3OVU4S2ZCSi0wUnlWSkswakdUWUtUTXlnTDl3cEEwcnh6SGNZSzE1Y2Y5OHJxSmpZN3E2dFdfOVdpdl9kbkJHU0JNS0hSSWFkdkZhYW0tZW9wcTBna0VaN1FtZFhNYzNaYmRETWZkTHdnaXNVTXAxYlFXVTFMbXRsd3RPTDhLT0tWOGlnc1NDYjl2b0dQQTRUdUVlSHVYQjlQbm9kRUlJNlpUWXZRRWFqSU5YZnlETdIByAJBVV95cUxNWm1LSjU3aXhmVHhkWGcwbjB6cW9LVHBZSU0wZFRzZlFQQ0l1UDlHY3JOWmtNUzMzSG5NSGxadXlPSkh2M1N4TmpzWmQzLTM0QU51Y01yc3poaU5lZ2V3cjVWRDBFRDJDbnA3THFrMS1XSks0U1RIZkJOdGZiUi1salB4Q0I5WWs2eFY3WjZtemhwWTdOZkcxOHJxV3RZdG1RdGlmR013aDU5SnpmMGU5UDZIdHByLUVjUGlueHljTGltNWs2aWdqMldMQ0Znd0dRRG9oR1I4S0IyZ1dvS0J3QnFXaUVLekhnZ1QtbFFhVU1aMFhhNzZOanREbFRScm4tZElRZVhaSWhqR2VzMXhCTXRSS1NQNnRWa2RLZi1OSXI4M3NaS05DOE0wWUtWd245b3kya3EwMVB0SzR5b1QwTDFBNW1lTmtH?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-18",
-      "headline": "Disc Medicine to Host Corporate Webcast to Discuss Topline Results from the APOLLO Phase 3 Trial of Bitopertin in Erythropoietic Protoporphyria (EPP) - lincolnjournal.com",
-      "source": "lincolnjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZnVuT2t5Wmw5c3FEY3dQSHdEZ000OFlPQ1o2Q1JtZjE3cEM1YWUtUnduWmpyUnd6U01wbUpJRnJvTE9kb3Z2Rkt3Z0RzM2dyVktMa2NldkFjTlFOUkdzU1E1OEhRSG5sWm1OS2Y5RXM0cTcwSjhjVmZtOWxfYXE5cVJsMzExenpBeWVwUThhcE9fRTBGd3FNeDgtYmVmOFg4RVU5Yk1ud1FmZjZJbG93eVg1RUVoeF8wOU0wWktPaVBlTVl0M1VYdnZ2R0FMZXU0bDhfTWRIYW82RTNPME5vVGEtc1ExY2dndGYxVkdmQkpjVWo1S2RMNDUwVktLTVNxbklEcVFkbk1zU2ZMSFVDUmFjOTZQMVR0b25fWW5SRGliOVA4Nlo0ZFN3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
       "target": "",
       "moa": ""
     }
