@@ -1,6 +1,61 @@
 {
-  "generated": "2026-11-05T14:33:59+00:00",
+  "generated": "2026-11-06T14:12:18+00:00",
   "deals": [
+    {
+      "date": "2026-11-06",
+      "headline": "Sun Pharma's acquisition of Organon open for views in EU - MLex",
+      "source": "MLex",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWM2YXEtUUNZMVFtT3R2NkctUTNtRmMxbUtwTS15RkJtVHB2OC1VTUZvZkVmbHQ1M09Mdk9ZS3ZVdkEzMVJfRmZzc1QtTTA1N25OV1RIdkp4Mm8tOU96OG85SHIxUWR6bEUxcDlBSVgxUlZBelJQTFY1R0xHaHNoVUFGREJRckhXTC1pOG8zY1pkanVTVlJCOHM5eDlOdG8w0gFaQVVfeXFMUGpuc0xaQjg0dTVCcUloLXdsSGtZcUJGMFpuVi1ld3FKZ3Z0VlhhYmVTWEEzU0ZWdDlGeHpuOUcxRUZQaExFSnctZkNGSWppVUJhVWhDU0wtaFR3?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "ANURAS: Bliss GVS Pharma acquisition reshaped consolidation as H1 revenue reached INR 14,609.15 million - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOV1dLRzhFRG03TGQtN2xrLTAyM2NJOE02M3R3cmY5OVV4cjRoZzBXS2szbmpZaHQzMTdGdXNIR2ZjdUxJcExOMmF3THl6WHJweGZoR01wTzBmYUp2OVgyTDdDcTJyRUhaSHRnVElxbFQxMGdCRGc0VDVFWUc3Y1NfYXdmTVMzRHBqX3FocGVISGRBYjhxdEdzN0p3cWcwTGwyM1RiZGZxczJPWEJjaEFwb0R6LUN6RUNKZS02cUtKbjFGOUJTRm1fb3A5U0hQLU9JZEkzcmVNakNaVlQyMENoQnVtbEZ4VGJHVGFYNlhpNXFwZWUyT01DYnNWM25RYjRQVkxVR2ZldmZZYlYzUWpYUjg5SQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Biopharma Co. Reports First Quarterly Revenue Above US$1 Billion as Acquisition Expands Portfolio - Streetwise Reports",
+      "source": "Streetwise Reports",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZmlSR05rU3BnbEJaZGw2X3Q0NFlCeG15blhySkZwdldFcDU1VG9US0RlR181NHM2Y1Y1MlBhRzd6RjdnODZ5Yl9PRDFzeDJZWGZ2RTE2MnFEaHFzMVc4aHhHNV83MkRpVS1qdFlUN2RwLVBMa2pqM0VRNk9GanFBaVY5dWNpM0RTb3g1ZmpTSDFha2JEdEhjQmZMSTZ6N2NtQ0xKT3ZEdUd6MUkwSDVUZmRpSFROcG5MWVMyT3o5MG12ZnlCa1N2dDROVV9rdDZCa0cxTVFEc0JRR1NYZXlsMWtFN2lyNFBUdlE?oc=5",
+      "type": "M&A",
+      "value": "$1 Billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "RPG Life Sciences earmarks $59 million for another acquisition, targets 25% API growth - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNW41N3R1SUZIQURQc2JaWHZnaVZzS19IaFM5aXlOQ3VEVE9vNmN6M1NsdnBIeWoxSzVyRVp1cjliN1A3Y2ZaV2tOczZOVlFPTnVzY054clNOcWY0Tkdrak9HeGhPUTc3Q1ZUNnc4aVV5YjZVanFxWG0xWFc1X2F5Smw1d3FTLXF2dFlPVHVaVlg5Q0lpbFhYLW8wZXhfQUpSSUpnSTh0c01mVjRNMnlzb280cTFBNnMzb0o3WnpuaEtxMG5aeEE?oc=5",
+      "type": "M&A",
+      "value": "$59 million",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Evommune signs $1B deal with China’s Hinova to enter same molecular glue niche as Novartis - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOS1HdmZoUGJHUDM0NHlQN1JNSWRBR2R3aFBwRG9VejNyYTctc2RxVXlrZE13aEtJYUQ1eDdLVmVoRGpCUHlUQUQ2c1pqd29jSy1BOUtaQ1dleW9kVV9jZDJRRnpndGNLdkNJZVhOSUdOOGVocURNR2gyR1Zid2dmYklVNzFOY05hLThxeWtqa2FoX284OUJjbENSWk5Uemk3TjFXWE9NdHY4anQyUzk2Z2s5WjFXZw?oc=5",
+      "type": "Deal",
+      "value": "$1B",
+      "area": "",
+      "modality": "Protein degrader",
+      "stage": ""
+    },
     {
       "date": "2026-11-04",
       "headline": "Zuellig Pharma strengthens clinical sourcing capabilities in China through strategic acquisition - BioSpectrum Asia",
@@ -2693,61 +2748,6 @@
       "type": "Licensing",
       "value": "$3.2bn",
       "area": "Hepatology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "HUTCHMED (China) signs licensing deal with GSK for experimental solid tumour drug - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXlyanVyVEdqTXE2VlgweGdUY0huYlRqODJUTlktdElwMnc3R3pLWmtIU1M0WUFzWDVmVWVGNWVETG1wbnhWOGMxRWNUU1VjbHdhekFONzBWN0dIYm5iZlRGYS1PQXVlM2tacS1QX3lHQWxaMFlyMmN4Y0FROVU4RnlndVhjM1VqN3lud1dWRXlXZDU0N1lORUM5dmc?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-02",
-      "headline": "Sun Pharma Signs MFN Pricing Agreement with US Medicaid Program - India News Network",
-      "source": "India News Network",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaktmOG43N3hTZTYxT05lOVhJUFQ5eVVFdnV3ZVUzYXlLSUZySkc1ZWYzYWlpV2pRck9zb3NMdmJNUE4weHE5alhwR0NMeFZ1d3RmTmhyaHZxM3hFNXFNZENIcTlSa29NMHE2UVlFQzY0VXFoUVA5NVY3eFZpeDhDSmJBMzFudTF5aHctb3F6VDg0Ym5EWVNOemZlendMM2FpLUl4ZzVn?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-02",
-      "headline": "Simcere inks license agreement with Roche for SIM0660 - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXJYV0pQY21KWlo0dS1PRGhIbEFkQ2NGellmVTRfeEg3U1RwRGRsMmdkTkhVT28wcTBrQkxwc1dSMFU4WVgxaVNsV0RZR1RzVjdQUm42NVdkS1dGdUFXejVTa3RNWGRHS2pSY2Q5Q2tfaXZldjNLQ3JIbkdMMG5OV2tKWEFHZ2d5WXlqejEtYjZna1pxWkJQaTVsZ0xxMlk?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-02",
-      "headline": "Fortrea boosts early-phase CRO platform with $45M acquisition of Worldwide division - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa3l4bHBhTmI4dUpVSTh2QmhhOHpkdUUwdW9qdS03c0NNQ0RBZVVhbzkyWUdsZExQQ0xxMS12cy11VksxLUNPbHZOTHB2ZktWRThBb0lqUjdMZi12UldBcUZ3OHRYdmgwei1DQWpBbGlrRVF2SGhBVEVwTXA1MXk2NXE4dEUyVDZ1QzU5S1c2UEphaGttMDM0UmQyT3M?oc=5",
-      "type": "M&A",
-      "value": "$45M",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-02",
-      "headline": "Alteogen Signs $3.2B ALT-B4 Licensing Deal With Novartis - Contract Pharma",
-      "source": "Contract Pharma",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVE0b2kwaVZEdjE0aEZ1QVVhMHNONDRaS3VkdWc5RFN1U3BuRDNLQWFCQnRfVU5XcDZ5WUctXzFtNFA3UFFkekZhZ0pPd2thaFNETEFVNGY2ZlROWlJneDhtYXZDck5hSUNmYmtJaWlIbUFLZWxEZVkzWC1jUWtNYktLTGRQOFhVTGNVWm8xRHRtUUFhUzZfQVg0MS04cF9xN1kw?oc=5",
-      "type": "Licensing",
-      "value": "$3.2B",
-      "area": "",
       "modality": "",
       "stage": ""
     }
