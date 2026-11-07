@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T15:51:33+00:00",
+  "generated": "2026-11-07T14:50:51+00:00",
   "items": [
     {
       "date": "2026-11-06",
@@ -21,6 +21,13 @@
       "source": "Tech Times",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdzJPSkhCU2ExT1ppQ3NsSFdSTHZGUzBZdEJhM01PWE9tOU5oRFVlVTd0N3ktQmwtZkMyMWFsWTl3THFFQ2dsQl81amdlLXZ2cUhValNJSUhCUXZsT0xsb2JmQkY2V0NMSDJDUnJtNVlZZnYza3lxVmpSRVkwMVdaVXlJYkU3SV9TQ3h4MzdITDNsWXE5ZU9zMndHTUc5NEZqUE00T1pPTWVsVlM4SEJPTlpRWmdUU3c0bmRpemt3SjZxTmRQQ1c1Y1RYT29jS0FFckJLaXlkTQ?oc=5",
       "category": "Breakthrough"
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Venomics AI Raises $2.7 Million in Pre-Seed Funding - Siliconindia",
+      "source": "Siliconindia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1ZEWjRoQjhXTXlCXzlrMlZGZ3U4dEZFck9sZmJjT3NKcDZwRi1MUV83b25Hcl9KZGFEalEzVzhJUzJuM09nV3NLMVNVaU9iVE5uU24tY1pfeGtoMURqZHBKNk51VVNZNFQ5emZRdjJsd25hMkpzYVJMa09fYy1rTlNkNTUyY2xfZ2IxckdoRl9aeC1ISG16WTlWNkh0bHcwM0NLX1Z6dHZGLTNRUXVpNVVBQU9QQXRz?oc=5",
+      "category": "Funding"
     },
     {
       "date": "2026-11-05",
@@ -93,18 +100,25 @@
       "category": "News"
     },
     {
+      "date": "2026-11-05",
+      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGxWTDNDRG9YWW1mSDNxcXoxS2hsa0FOOTgxQzdoaEQ4SXVLcmF3Yml5X0ZRaDJraG5wbFh4UFJaOVFxTEZaNXJrVERURXpnalB1UDVPdXdjXzlVWk9KVmtBSFo3Q1hzamlYUG9pY3lDc0dLMFpmZ2l1b08zdVJJa0dCT3pJZEdoRWdmQW9WSE9aSkotN1NacnpRcy12TTRKZkFXMC15bWdQYkFF?oc=5",
+      "category": "Funding"
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Fierce Biotech Fundraising Tracker '26: Alethio attains $90M series A for rare blood cancer drugs - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnNIYUVmZkJnUzFkM3dqNFpZaFZRRUdTUWNxb2lMeDY4NklMMGJobEM0NDU3LUQ2ZmRhYjNNaTlRM3N4MzZHOExoV3BGQXk1a1dKNDFHaHlrT0RZX3pYd0g0OVhlNnZobEtEdzBtLTh3ZnRsSWFpbGNjRVVpU1VIMA?oc=5",
+      "category": "Funding"
+    },
+    {
       "date": "2026-11-04",
       "headline": "The biotech startups skipping AI for drug discovery - STAT",
       "source": "STAT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmlOZUdVSXlYQ2tXNjhwUHNFTDdvWFFaS0F4bkpuMXdCa1V1cGVhUEM1aVdmRU51c1d4RHZESnZlMUpHWDYzRTR4eUxWc3FSMm9ZTUNlX0huclY1RW50WXY1bnBYTzJjeWpxNGZSRXBoMU9XV1hhOEcxMDlLRHBZY05fODRjaGJPX2lpVTVxSS1oT2NYUEtZZE1Da2kwMnhZOWdn?oc=5",
       "category": "Breakthrough"
-    },
-    {
-      "date": "2026-11-04",
-      "headline": "AI-for-science startup ChemLex raises USD 45M, launching self-driving lab for drug discovery in Singapore - Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGxWTDNDRG9YWW1mSDNxcXoxS2hsa0FOOTgxQzdoaEQ4SXVLcmF3Yml5X0ZRaDJraG5wbFh4UFJaOVFxTEZaNXJrVERURXpnalB1UDVPdXdjXzlVWk9KVmtBSFo3Q1hzamlYUG9pY3lDc0dLMFpmZ2l1b08zdVJJa0dCT3pJZEdoRWdmQW9WSE9aSkotN1NacnpRcy12TTRKZkFXMC15bWdQYkFF?oc=5",
-      "category": "Funding"
     },
     {
       "date": "2026-11-03",
@@ -821,7 +835,7 @@
       "category": "Funding"
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "headline": "Exclusive | This Startup Is Using AI to Fight Off a Future AI Pandemic - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjNTaGI1bG05OVA4XzBrSnJBZkVTQ1l1ZVpPdjRTdEZjdDZTekdQeGE3dEpKcnlzSnktZHk2bW1XcDZKMlplY1BSbi13QS1hMGNYQnpybnZhMTlydkt1ZUhmTktTYk1UQnhRQmRlTWxBWklyYUFxZEZlWFM0MmJjczBhNHBGeFZtS0FsczBxZVNkVl85VE9OVHJ3?oc=5",
@@ -1736,20 +1750,6 @@
       "source": "xyz.pl",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0NqRjBPcjFfX3lpSFd6bTViMXQ3eGtRZTB5ekY1NkdJQWVQM1NrRlZsQWVYcU9DMlh4cHRZZkhhSXJ2RXV5aUpjazIycUlEQTFJTDJXUDg3SVhEU0tKYXZnSHYtWlNYNXplZjFoN2VrR29hNlVzQWYwTllhVmVKWmhFVk5nZHlHOHNaS3k4U2g2VXdVbE4xQncxNW51ZFNMRUtOQlFKQQ?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-07-25",
-      "headline": "Korean Startup Weekly News #128 | AI, Defense, and Cross-Border Commerce Lead $70M+ Funding Wave - Wowtale",
-      "source": "Wowtale",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8teDZ0QXBwVjUwcV93Qkt6b3o2dGVqZWxwUG0zemVmenBBUnRhMmhwY1laTUZ4dllVZTJJQ2JSRmRybDB0U3dUaUNNelVQT2NlZktr?oc=5",
-      "category": "Funding"
-    },
-    {
-      "date": "2026-07-24",
-      "headline": "OpenAI Researcher Miles Wang Departs to Launch AI Drug Discovery Startup - AI Insider",
-      "source": "AI Insider",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa051MUo4SXpVOHBhdVpma3E4bUw5bTVmZnJyZnU1LU5fcU50V2RhTHRtY2g4MFhNc0NkdDhtT3RGemJSV3UxUWhUcjNETnNsRkc5cWYyXzlTbzVoX2tpa2M4dTM4QlpnQ2tILTI2dEQ2YnFqanJwMHJyZzVDbVFPcWw2cjdxeDVySEtZRGZDTU54Yk52VFlwczNBVVZJYkduNnI0UUN0ZzZyN25MMHNN?oc=5",
-      "category": "Launch"
     }
   ]
 }
