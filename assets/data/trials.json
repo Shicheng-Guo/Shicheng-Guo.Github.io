@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T14:38:10+00:00",
+  "generated": "2026-11-07T13:35:39+00:00",
   "trials": [
     {
       "date": "2026-11-06",
@@ -50,6 +50,50 @@
       "headline": "Zydus Therapeutics announces positive Phase 2b trial results for saroglitazar - InvestyWise",
       "source": "InvestyWise",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3FDaFB5SENzS2FZOVJpbWg1MDBEUVltLVZ2SXYyelRIcE1iZThxcmpzaWNSbjNOeDU3TWwzd0MwNHZVVVB1SHVuaUM0Zy1ma0hWUzE3NGFMdTBvekkya1UxUUhiM0o5UUo0MXFuZHIxZTZET29zRmVFNGs0NHRUV0ZEZHpCal9BTnMybWhBd19lQUhueHVwUTZPZWU?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Genmab’s Phase 3 LiGeR-HN1 Trial Met Primary Endpoints of Overall Survival and Response Rate in HNSCC - Oncodaily",
+      "source": "Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2dXFRSXFIMGx5dTdzQ0hTdHVOUkM1Vnc1WEdobDdEZlBEa1pMcTYyTk5HdF9HMEpZMTBUVnJzZW9pNUUxUzJRWklsa1Y1aWV3QV8tSDhUVWZvclRCQW04azhwaw?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Gilead's Livdelzi meets primary endpoint in Phase 3 IDEAL trial in primary biliary cholangitis - Dealroom",
+      "source": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUlo2UnhVTjg0Nm5fR2duYUc0OWNxNjZlbGUwdEgwdHk0VkE2LWRDUnR1cmRtdVc3X0pPSDhVYWEyTmFSZW5DMXYyTmY5UlphM2ZTMnBlZmN6dmRmVER5T2JwRTZmWmF3bGw4Vk4yVkdnTUphOW9YZlpzMjFJNVdDUVptanFScmlWVnllbTNMTVRYb3BHRWtLb3ZCLW1RYy1QZGxhSEhLekpJQ2RNU1dqU0w5NTVwZlFEbFNJOVpDdnFELXNjWkdZ?oc=5",
+      "outcome": "Success",
+      "phase": "Phase 3",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Immunic Plans Phase 3 Progressive MS Trial After Mixed Phase 2 Results - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHBIeUF4SFV6dTF0Vjcyak1nVjJGdzBBY0V5emUwbG9vNndQbW9pZVlYYUg3UmVFaEZtOEFKRnZwNEFaUGpBamktcGxVcnRKbGU4ejRHWk9VWVI2aFpLYXpxOXJyclUwU1g3OWd6dkFkeE8wV0IwZmRyZnNSNnQ3RkduRkpJLW0xMDdmZGY2T2Q3QVY2VVh1Rlp2bEt1UG5OdVJjR1lMelZvVklRRE9JMnpQN0F3QUN3TDVBVXNDajVXSlVLMm1iQUlCbw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-06",
+      "headline": "Attovia Therapeutics Reports Sustained Itch Relief in Small Study, Plans Phase 2 Trials - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdFVxOXNETkx3RU1EcDc4eXhrVVlzay1jcW1fZDZPSmdxMnBmR0I2VnVWOEdDMnlMVEtTSFFCcGlSaU9ac1dZTDlDZXNCLW5KcUpSNnYzZ2pIMGZUWXVFTllUUXR4YjRZN3JjQjJGM05HeVItcGNGbDY0akRueWpkSDdMVzAtS01hbmd6LWxUc1RDcEtPeGxHZmRxNlc2czFCTktLTTZSTzNpMlphbVJhTzNuZTFfV19hYzJwZlBxUjJnc0l4YnN6Rm4yR2VHQ2xyQk9FTDh6V1U0cExpVU1wcg?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
       "significance": "",
@@ -233,6 +277,39 @@
       "moa": ""
     },
     {
+      "date": "2026-11-05",
+      "headline": "Sevasemten Misses Primary Endpoint in Pivotal Trial for Becker Muscular Dystrophy - NeurologyLive",
+      "source": "NeurologyLive",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHNLS0pwc3JyWjdhc2szcEthdUFXYU5TYXZBcHBmMTNDTzNhUGhxOE81MzBWT1hsOU5RamZkWktnZDFfTklBNG40cXpJMmt5YnkzckxxV1laeXVJZkR5WXlWWXpRRzhvaUljN0JiaFVyelQxUHRJM1VJWThPUVZNdkVOZGFmeDAwc1gwNGhkcEkzTFVISDI3SUE0Q1pBdEdBbFZnU3Q4T1Q4UGxCYXc?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "IGC Pharma's Alzheimer's Agitation Drug Candidate Now Patented in the U.S., Canada, and Mexico as Phase 2 Readout Nears - Newswire",
+      "source": "Newswire",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT2Q2UEowR0Z2cUJvcXRfa3RWTVR0TXI1US01bER4YU1tQjRwYWN2NVhvbHBQTmJmS0Zwd1VfMVZ4UG1vekZJc3lMRTBmWmNyX2NMZGtUczgxOFdybWtsNW8tZk9taFAtNWtyMUpQQXJCOVo2dVl3WUhTOEpwQkl6b3NkRnFNQzRqRmVESUNHalcxdmsxclB4T3VwblFjSWRrMnY5azNmVEtHRERR?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-05",
+      "headline": "Agenus Targets Phase 3 Colon Cancer Trial as Financing Hinges on Enrollment Milestones - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdmJ1d2tfYTUwQVF5RUV1Z2xUMkZQQTMtZXByeWZHaXV0OFNOLWRlODlKaU82c3ZJNzNzN1BaUnBwdTRCOGppQlZ6N0dxdWdsVHJxRUZxYXVZVjE4UmdRcS1sSUtXbjAyRkdJZHhBQy1LWnVmU2JsTzhIa0s4U25RSnZKLVgyWU1teUFFYmN2YU5ZMDFPR3hpaVpQXzlZN3gxX01WZWJPLTl3d3JsU1A4akE4dWU1bGVwdWk1N3gwc0h4cEZOTlJ5cGVQTVdyclFwX3B6NXFLOTNVcm5NUGgyNw?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-11-04",
       "headline": "Definium Therapeutics Presents Topline Phase 3 Data for DT120 ODT in Generalized Anxiety Disorder and Major Depressive Disorder at 2026 NEI Fall Congress - Business Wire",
       "source": "Business Wire",
@@ -327,6 +404,17 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaE5tQnV6UEhqMXp1S3Jyc25YNk5XNEF1UjNsbkpuTnVuQkp4T2dHSjRFOExPZ0pVODhuUEt6NmY3d2YtUFh3TnYyYnBpVUpiOXYwMzVva1RFZGp0Z1ZyelZ4NDhEbUJ5bHFkOWZoWUJZNlhHM2o0bTRrT2psSnNGY1R6UTUtd2IxaHc?oc=5",
       "outcome": "Readout",
       "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-04",
+      "headline": "Novel Drug May Improve Daily Activities in ET: Phase 3 Trial - Medscape",
+      "source": "Medscape",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUUtalJTZFFhcmhfWTJoSHpiZTJJVmtHZkFNc2s1WjIwYVF0ZThEMGs3TzdZZDlTNEN2dExabkRuemNIMW1KUFlwaE5qU0MtWHpmZW1DQlBpQ0lEY095cFZtNVJOZUttR2VKUDI2Um9KUm53Qmw4UW9NZ21Qelg0WW5zcDZzR2NZX0JfY2tTT2lYU09LWkhoZFJ0dnc5N28yOHhXSEFxb0VuNms4RlE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -2660,94 +2748,6 @@
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "EyePoint Announces Topline Results from LUCIA, the Second Pivotal Phase 3 Clinical Trial of DURAVYU™ in Wet AMD - The Manila Times",
-      "source": "The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPc0dlZjRMTHJJQ1RPQW4ySVhvaERpOFpBMTNSSmJ1UVM5eE42TTBhTTdnYkVwUzA1SEVRcDlScTVkR2hQQ2pIdXh6dlcxUWp3WUM2dGpPeV9sMU1LU2lFOWxVZVVQakpKeGZDX2dXSGJMeVZENzM0bTdOcmJzbVgzUHJ5V2tNUnJqZ1h4ODBQWXhqczllMkpVOEhsbEVHV05PVlpCWTdaZ252M1J5YVFaTUI1NTdFRXhMNzdYeC1KeWJURXJLUjhjV2NfUFdlY25VekZSMTZReFg1R0oxR3R3TElfT2t4Qk9ZY1laMmc4aWtiNldMeW1velVmN1E1Y2RmUEpiclBPT2Q4V0w0Y3RFQ9IBlgJBVV95cUxQQWpCak9FWHEwQ1N4S0xpbzFydjVZUmJZYlJ4aFN0M3hZcHJvTGFIVDVrR3oxNXo4dEFsbzFXVHZOVW00SExZZTNqbW9NNGJicVdmZTR4a2Fmc0FJek40TUhpSWZHaC1xNHhLYWd3RUVGcmd2ZVNlbkkydnpHRE5vNFl1SllNS1VvV2N6OUxqSzlyOXVoUGotdV9BQmQ1WGNfc3hJbkxKM01IRFhsUVNyem5sbGkxVnRGcXQ5NzZDaXJfdnZnNGFTUGFtLW1sYWZuUlJJdkJGZ1pwZU8yb2VDaWFZOXo3aExNMlE2THhQWFVjQ0Q1NHljdWJnUGFndGFOeDhHb3kzbmU5a3BMc1BIYWVMWFllUQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Zealand Pharma announces positive topline results from the multiple ascending dose part of Phase 1 trial with Kv1.3 ion channel blocker ZP9830 - mykxlg.com",
-      "source": "mykxlg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNTXJVaUl4THBCT05pRzh0Y0Jycm90b1pLSEg2TTl0LXVRbmRRTFJSR2NSQThyb2ZCUTNXbHhMN2RCWW9pQUdRdjB3VVc3aG1VbFB2eEtvX1RRc3RNc1o2SDBIZktxcVdsTHcwYnVYWWVHRjROazJUYWdCdXVyNlV4N1pqcUJuRXlVRTdWWXRwYktfSzVBS1JHXzFLbGhxdUFuS3phVVU5ei1ETUk5djk1RnpnZUdjcV92N1lsYU1GY3VBVC1GdXlDa3BVU0NXdFRmaHY2V3dabzZDTzFDZ0NvVmlyS3NPNVZqdEZzbDJtRGRmMGxmVEpxSmJwZzJJbE5BWTZGcDBlODVSMncyTlZzTjZhMHZVN0dGWDhNd0NsMVh2aGZza2R4TDNR?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 1",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "OSE Immunotherapeutics Reports Positive Topline Results of - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNTjBHbUZwX2pVak41LXZReGR3Y21pWVFYTTRKUmkwNFlPTklZYi00dnE3NE9qTldxZW5INUdoVjY1YWgwQ0NMNnJfc0NsaW8wdWtXSEtXNW1DdllLWUhDRnY0WC1HUm9YUFRqQlBaeklhaklZNjFRcTJBREppTVZpUlliT2F4ekQzQ2luTENXS2hvRGJVVGRzVUJfTE9aRGgyeVpYaEFSdGtEekdldU12dlJvY3U4YlR5YkR5UlFSWV9Pd3VqeTgzOWtWN29wZ0dwR3dLZ2N2YzRWOXgxY1NoUXZVdVNUUEZOZ3RWVjI0VWVnNnVISGNLZ05nWGdLel9ycmozc1RLUGpmSkQzMno5LWVORU9fUWpxcWlKS2JkVDQ0d2RESVZ0d00zWkNtUFMyczlyQkQ0R1dFNlVCX1dvQnBGVWYwU0ZERFE?oc=5",
-      "outcome": "Success",
-      "phase": "",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Disc Medicine Shares Rise 60% After Phase 3 Bitopertin Trial Meets Primary and Secondary Endpoints - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1o2ZGdnak5VNGNMMDhrVTViQS1iTmR0SG05c29nME9YbGNfb2dNX1ZRR1lEclViQkdrdF9SQXFKTjJ0U2p1enkyaHpuNFJxRG1kdDA4VmRJYXhoTjFRUndOaVlta3ZFcWM2Z0tKMVlyMDZla0daU2V3TERUWjJLMHlubXpuX1kzeThHR0k2NGxSSVE?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Disc Medicine rallies 32% as investors await bitopertin trial results - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjE3dzFyd180VXNkaWhlOG94WThSQkI0T05kLXZ0b09DbXlYVnFnQTZUZ0JNTi1TVHc4ME82TGxBYl9JNl9JSWRWOHFmRWJGeDdsWHJVdjRxR214WEw5ZWhBd3RmVXFMUWMwdmREWTR6b0d0VjMwbmZKUjNSY3NiZ2JWcTIySDd3RjZiZXhqZ1VTcWp3RVhnamFzNm9hamxhX3JkekpYQmZrRno2MTlnMUgwYnZmay1obW5DaF9hVkg4bXhZWkZPRXpaRQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "TLC590 Achieves Statistically Significant Reductions in Pain and Opioid Use Versus Both Placebo and Liposomal Bupivacaine in Pivotal Phase 3 Trial - The Manila Times",
-      "source": "The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRG9wNi01Nnl4dmU4YTFGdG5Nc1g1aHNobHhtZ2FFRzgzUGRrM2o3bHNVOHp0SUpkMkFpZmhJcVpISHJSOGJBWlc4RUxUWGpwajlVcEFtRmg1VkIxQ3BRYWtnRkZpUEEzSXQ0V3A4MEJnYm04V1VDT2VidWVRdlNhNkVuZ0VDblptMV9VSnZIN0RuNU82TGZZSFZUTWpyQ21ldEN0M0FWWUYtb1MyQTJjZnZKeHhHSnptSWVnR2lab2g0dkZKNkp5T0FIVGxIQ0hmMDZPWHVNbTlWa3I3TlJxTlZnUnpvbUIzdEZOWkxYUGZNSk9ZN0FlbXI0X09YcEcxSHhPb0hxZEJpaExRQWRxdUN5cl9ZUzAtT0pqR1prZ3FydndqOG01d21kYnJrWS1feTh0djRweW1reHEzUXA5V29R0gHHAkFVX3lxTE1oeUpndjFWZkJCem5vaGdOYXNka1BGZnVacGdyZldSY0N6OXJ0T1R6akNucjNfSVYyb3huZjJPclNvWl94U3l1ZUNLYUR5YlJpVHZGSmlDS01xa2FJUDVvaV8yalJaZEdWVkJLbTFocWgxd3BhdEY0YkpHSUhNNWMxS1lsNG5KU3F6TVQ3cmVpM3BFSDdINlNiMU1iczRTUHJVT2lNYWNDb1FMMkJHaUVPajNSLTFJMVNpT1p1VTZabVFKd0JiYVFvbUpMUXJ6a21wUllINno3bDJmQXFWeEV4WkdQVG9zaHhTWThrbmVISWk4ckVSdGE0b003M3BHTlNDbXFvcHpMZHdXaFpYYjdpTl9rSndkOEozVGk1QlRqWDdPMUMxY0xfaGJPaDNKNWx2SjFpMzJGMG5CY2dQbmcyVXFvVkpsaw?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Statistically significant",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "Zealand Pharma reports positive Phase 1 results for autoimmune drug ZP9830, advancing clinical trials. - Pluang",
-      "source": "Pluang",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXBabFltQU1HdTNLbDRLY2dtSVZQaWE1eWYxNldmY3FuVVp2ZUVRZWhWY0Y3T3hUNWRDTEVjMHJSWEFRV3VpNmt1MDVVMWwwMGtyVnk2cHJJbVEwRzM4bERhdnFlX0NvTTdMa2ptZVVoeUJwcUhDNjh4em5Oa1ctaTF6Vnh0RTNjTE1CMXdsM1RtNnQxMHhRMg?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 1",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-10-19",
-      "headline": "EyePoint's DURAVYU misses primary endpoint in w... - Pluang",
-      "source": "Pluang",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSnByU3d0ajlVUFJjWTd6Z0dwX241VHR6OWtWeTViZmR0bi1BekxTVWUxZlI1bmF0a0V0Nkh0bjZOUXJFOHk4WlZPaXNUNEJkc1hmUlNaTk05ek55cUlJcXdvZUtId1lxWjBlVlJRelVIYkY0M2hIQzJqVklFcENMS2hmZUF1REpJcEdyTzUtbTBINkR3RFhOLWNn?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
       "target": "",
       "moa": ""
     }
