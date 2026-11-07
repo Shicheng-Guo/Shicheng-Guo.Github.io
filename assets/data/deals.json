@@ -1,6 +1,17 @@
 {
-  "generated": "2026-11-06T14:12:18+00:00",
+  "generated": "2026-11-07T12:55:21+00:00",
   "deals": [
+    {
+      "date": "2026-11-07",
+      "headline": "Church quits role at AI startup Radical, claims ‘sleazy’ behavior stole credit from partner",
+      "source": "",
+      "link": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
+      "type": "Partnership",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-11-06",
       "headline": "Sun Pharma's acquisition of Organon open for views in EU - MLex",
@@ -2737,17 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "Alteogen signs Novartis licensing deal worth up to $3.2bn for subcutaneous drug-delivery platform - app.dealroom.co",
-      "source": "app.dealroom.co",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUdEbk5tdkJRUXZMVUF3YW5XbThWRXlsTkl6UnVTc0dMOG1OMk1OamNHQ3JkZkJ2NURGazhXT3N5S3FWc0ZTUC1NOWN5MUpGTFQ0RGNUZExqZHFJNXVrbWJJVHItY1ZQQWxjTXBfcnpmaGFXNTBRUVZIZmkwNXJXX2hpb1plNDZwMVYzdU5UM09Gc2JWTUY0VUJENzh4ZlNLRVNFV0FJbEVwb3o0LVlYdmlBWmdZb25RYWNOUGxnaXc5V2V5M2hOTkVR?oc=5",
-      "type": "Licensing",
-      "value": "$3.2bn",
-      "area": "Hepatology",
       "modality": "",
       "stage": ""
     }
