@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-07T14:22:03+00:00",
+  "generated": "2026-11-08T14:32:39+00:00",
   "items": [
+    {
+      "date": "2026-11-08",
+      "headline": "UKB-RAP: What the UK Biobank Research Analysis Platform Is and How Access Works - CASRAI",
+      "source": "CASRAI",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aZXZkak1OV2hIeFk1WGxlRVJLdUdEZk5TUWtxRWhfaVpkZHBDUzRKa0tMMUR2akNCVC1ZWFY1Q2FpVmg3ejN2cg?oc=5",
+      "category": "Research"
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "Chinese Survey Finds Low Biobank Awareness Among Older Adults - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdU1UaGNYYllLUXlVMEs1VF9oUVlIZXdBZ1QxSmloN2YwbUZkQjFVWk94N2g5NC10VDRLQjM5bVA3cmNyclQ0MHNmX2N1WlNBbnZoeFlWODF3MmdVN3JhMTlkNDR6UEJXYWJBeTZHNjZ1WDk4cnhIaDlqRXp0MlVVdXZpZWNfM2hvNUlnU1J3UQ?oc=5",
+      "category": "News"
+    },
+    {
+      "date": "2026-11-07",
+      "headline": "Qatar Biobank Maps 7 Million Genetic Regulatory Variants - Bioengineer.org",
+      "source": "Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2FLWE1odzhiYl9HZm9rTlk5aWRDSDVBNDJfdWhQMEV1WW95ZjZ4Wko2UXJfcEJ6UjMyZFljV0ZuVGFkbUZHaUExdzJaY0hrVF94b0JhdTZ1bmQyQkpLTjBmQVlrZmR2UWNXSUFfN3dkcUZGYzdUUW8tNzRhekYxcmYyM2pCZlUx?oc=5",
+      "category": "Funding/Deal"
+    },
     {
       "date": "2026-11-05",
       "headline": "Launch of the Nigerian National Cancer Biobank Network - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
@@ -2079,27 +2100,6 @@
       "source": "Times Higher Education",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUJRUjY1eFlieHg0eTMtR05BY1dOZWJacDRsbzdXYnpzTXFuMFpfV3EtVFBEdWp6Znl5cEhsa0QxMXdCWWRnU01QTDBYUHFwcThNSjVkTkw1TW5TdzYtN3BUTnB1MDBfZjJjRzc1elMybGtReWxOR1VBVVFmWVM0YWp2UHZ2ZV9qYlE3Vi0xRENEZ09FRHdfTC04UlZmR3c?oc=5",
       "category": "News"
-    },
-    {
-      "date": "2026-05-24",
-      "headline": "The Biobank Rare Variant consortium powers the discovery of rare genetic associations through global collaboration - medRxiv",
-      "source": "medRxiv",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Dd1pRUzg3T05fV1k1emxOalhMNkh5SjJMRXBnMnBZRzE1ZHFOb3NmZzJKU0sydDVRUTJhSk1taUZXb0ppanNzdi1qTkhBaEF2ZHJGeE9UYl90enA3Yk1WcG5MMU50aGFyOFlLYmpUQlB6VUszajN0MEZoRk8?oc=5",
-      "category": "Partnership"
-    },
-    {
-      "date": "2026-05-20",
-      "headline": "A day in the life: ZSL Biobank volunteer - ZSL",
-      "source": "ZSL",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsQUZ5cVJYMThuQTAtcTlOYlVtTVJEUExNTlktZmo1MXczSFRJQ1NfTEQ4aDhqUWFxZE95eDV4Y084VG9qdndWa20zMnFQbU9Vcld1cjBFWE5yVVNsOGJPRGdDcG9XTnhwMjlOSWhibE1FNFVCVDBRZzVyallKaUk?oc=5",
-      "category": "News"
-    },
-    {
-      "date": "2026-05-20",
-      "headline": "K-Biobank to Release Genetic Data From 170,000 Koreans in H2 2024 - DongA Science",
-      "source": "DongA Science",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FaXBSY1RFNG1xRkFac1p5TUdhaGEwNl83aGtmTklQcmlSM1JTcVdieUlUWTFTWFpsWmU1c2xKalA1NTlBT085eTl3ZFNsSXZzTVM1aQ?oc=5",
-      "category": "Data/Cohort"
     }
   ]
 }
