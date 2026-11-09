@@ -1,6 +1,50 @@
 {
-  "generated": "2026-11-08T13:17:37+00:00",
+  "generated": "2026-11-09T16:09:57+00:00",
   "deals": [
+    {
+      "date": "2026-11-09",
+      "headline": "Argenx buyout of peptide engine and Big Pharma favorite UNP could top $1B - BioSpace",
+      "source": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWxXU2k0WlBYWUJSNFlLeGZFejdBWmR4OUtCNldUMW9wUHJfZTkwRFVoSjRQVEVzenE0R1BfWW9yMHptcjB5SDNPUTkySkk1UzQ2NGYyRjJvd1pzSy1Wb0g3LWxZNktIYkhPSllCNU9WTGdEUDE3d3BWMWgxaU5fNExhYXhmd0JEb2YxWW1aVXBKTmJQaU1yZjl1OXJpQTlYOC1pdnFn?oc=5",
+      "type": "M&A",
+      "value": "$1B",
+      "area": "",
+      "modality": "Peptide",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "BDR Pharma buys majority stake in Acme’s oral solids formulations business - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEgwNzdfWWJ6Y25zVU83cHIyMWFqZFhJTUViQUdaaFhhZUNFVlQ3WlRZd2E4eEJ0ckR0TnZIVF9oUGJmME1veFV4T0tPYTk3aFgzT19tOXJodkxScVFTbmpIcGdWTmEyR1puV08xNHA2ZHZpM1dKcHpRZ3h0c3JQbTFxeHpaQllHUEZMTTd4dW5VaUd6ZmQxWm1zZ0pTeEctUzVBOFFZcU5UajI3SVZQYVdlSC1zTGl5MnVwZVpXLUctNzJUTWVJek8tbmVXZ3PSAdQBQVVfeXFMTlR6VGVCN2JEcnFiMWFhS3pQS2h6cENwUnlkTGp5S2dhMnRuYnhKY2Q4RE5YQUVvNVFpS1NwdlFoZ1RJazRKaVNCbGpaekxYQ3JoNnRhZDNVYkdYV2dmMkNkVEJzTVlDMHNKQ0Z5YmJTempUaVZIWVJFbjE5OXZpN2swTjRKMGNWNERyU2sxWjFFelhOR18wRXVObkprMjdkcS1zMFotOFkwMzRtQkRwS290NWw5dkhTYXdSWklqNUo1SWtMOS1DR3FXa3dqNUZRdTBiV0g?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "Edesa Biotech Signs Japan Licensing Agreement With Kyorin for Paridiprubart Worth Up to $146 Million - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhuakJFOUJCZ215UjVUSFl6MHdiMjBYbUYyWFI4S0VvYzhZUDdJWjcxS0pDcWs2eTY3T2xyeWpGSUduRlVOeWFxOVhuVXNPNE1DSkVSYWRKNi1kOXpBTDdQaU9xdTFyZU9qNGVfem5RbU4zMzMwWWswUFB5R3NTZnpSSkpsYzh4TjBCN3pfYjZpSVBNOTRUU0hkXzA?oc=5",
+      "type": "Licensing",
+      "value": "$146 Million",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "Argenx to acquire Unnatural Products in deal worth up to $1.15B",
+      "source": "",
+      "link": "https://endpoints.news/argenx-to-acquire-unnatural-products-in-deal-worth-up-to-1-15b/",
+      "type": "Deal",
+      "value": "$1.15B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-11-08",
       "headline": "Dipharma buys longtime UK partner LogixX Pharma to go direct - Dealroom",
@@ -9,6 +53,17 @@
       "type": "Partnership",
       "value": "",
       "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-08",
+      "headline": "AstraZeneca Targets Rare Obesity Market With $10 Billion Rhythm Acquisition - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHl0Z0NIUFpEY3ZiSkdDTHk4aFJQWFV4X0tBZHBXZDNpVWo0UTlpenRUTm5URmlraEZaSHdfMnA2RTF4SUVkWjlCZlB1R0hEODdZTm1kNVhaYlFqZHd2RWJ5RW1JSUs3RmV0T1BaekdMQW1LUzJDUDZZU0N0bVJILXZmSkJFZlJ6?oc=5",
+      "type": "M&A",
+      "value": "$10 Billion",
+      "area": "Metabolic",
       "modality": "",
       "stage": ""
     },
@@ -2692,61 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW1ZUGFuejkxQ3BIZ3Y2YnpiRDhGcEhVV3pIQXR2Snl2YTAxMy03ejFMaUNHUFlBRDF4SzJTNzA2cEVXUVVFdThLbE14VVR5OHhhajRsVGNFRUNrbWpWUlR1M2tycVl1bjBmVnVzNUZqaDdmZ0pwOEs5Yk4xWEhXZmFka3ZsRnNfNkZSU0Z4VE1yUlJrMWNWbzRET2FkLS1sWko5OUpRX09hVEZvYXRRY2xpNUllc3RLbV9tWTAxRUxRNmFURFNLOXJn?oc=5",
       "type": "Licensing",
       "value": "$1 Billion",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "GSK inks another Asia alliance, betting up to $1.3B for HUTCHMED’s cancer therapy - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzloQlRkdlY3clBSekpIZzBheFBmNmxTV1FXMlpaWjlWUnhBYTJ4ZTdrOS1GZFdXR2FCTzFtNHRxRGhGY2FMVWY5dEkwQUo0MEZFUlBob3NabVhhcHZtUUp0Q1JTYWVEZ2lzLWdNdHFTOGd6YXd0N3dGbkpDSXBXYk5sN01NVzBtaFhUVTA5VEtKYTNRenlHRkQyLXFrQXFaRVgxc0dBVm82M3luYkE?oc=5",
-      "type": "Partnership",
-      "value": "$1.3B",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "Pfizer, Medicus ink licensing deal worth up to $1B for antibody drug conjugate - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDgtWlM1TE5RYzFnVl9TcWFYVGFMTG9MajJHT3lxWC1jazZZU3BoMW5vcHhvWTU4bXNBSU4yaDNnME9IeUdzNnZQSmg3U0FQWGxJSkgxN1lpYzYyRTdqc3dtRUhuZGNud0gtdmItTFNOLTN2WWo3WThDaUZYZXlyRnQ4TXB0TXM?oc=5",
-      "type": "Licensing",
-      "value": "$1B",
-      "area": "",
-      "modality": "Antibody",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "Alteogen signs licensing agreement with Novartis for drug delivery technology - Vietnam Investment Review - VIR",
-      "source": "Vietnam Investment Review - VIR",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHZqU3ozbUlwSHRSQzBISWNlbmFJeVBaQ2Z1Sm1hTkJ0ckxKT0dDR1dDOHZVTDgzNEJqcTVtaV9iaVlBVE0xYkhSc1g3NFg1MXp6UHNVcmlPWWpwTWhRanlSN1JPN3MzTjA3a0htSURLYnc2bFhEcmdzbE5BbFRqSEtNUTZ6djFQZlRHQlI2WWV2eGF1N1F3Mk8zbEpwaWxxVTFzQnpTZnZ4emEt?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "Hepatology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "HUTCHMED (China) signs licensing deal with GSK for experimental solid tumour drug - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdUR1ZGEybTlaSUhlQ3AtdVhrNGcyM1BZNVVuX3duYWxNUTVQTTIzbS1yWUFsbDdNbHc1VXBSWHBvb2V6cWIzSXJqZTRFQmIxYlZwNmhnZ0RyNDFURTlaaVlpTVVpUXVCLXRXRjFuSXh5ZEtYOUZIWEpVSGNEbEF5T0g1S0xHZFdTLTRsWnVnc1l6WDhIRHkySVhVMEItVC1ZNjFfRUR1MklMOTNidFVwcTREQUZoWHdhdWptaVBmTHdoMFZSMWdCNGZqcmI0UW1HRlNTWktUbVZNdFFpWGRVOQ?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "BlackRock-backed Alteogen inks up to $3.2 bn licensing deal with Novartis - KED Global",
-      "source": "KED Global",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56OFhlYnJtczBOU1VFTGx6ZXowdXUzNTJzWGtXUnotVy11ODZDNjBJQ1lLUDY4UlpvQ1JjYTNDN2lCc3V4MzZCLUstQS1PczE1VTlaeTZrLTg4Tk10MTVjdHpOOFFTdTBiTnFYQlN3?oc=5",
-      "type": "Licensing",
-      "value": "$3.2 bn",
       "area": "",
       "modality": "",
       "stage": ""
