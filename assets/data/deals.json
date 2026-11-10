@@ -1,6 +1,61 @@
 {
-  "generated": "2026-11-09T16:09:57+00:00",
+  "generated": "2026-11-10T14:48:53+00:00",
   "deals": [
+    {
+      "date": "2026-11-10",
+      "headline": "BDR Pharma to acquire controlling stake in Acme’s oral formulations business from PAG - Fortune India",
+      "source": "Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2VvWlJVWnJ3SnBSOHYtZ2lpWFVTSTJYajkzX2FuY1ctdXJJVkc0TVZqX2hKTGhKZUdyUFBrU080cDQ3ajU1S3NSd2Jra1RPbWh3OVdiaDJCdnV1RVJQZml6RjJVYUxObzdQcDZmM0hxQkVzNEd4T2dXZ25pRUZQV1lvZ2dWVFFOUkRfcVItM0lPem9mSGtySzRFOW50V2FaMllKRUFUaDJoRlpONFBuYjducUxOcU81NEdrejN6NDE3d1E3a1lNU2UwMDZTMUHSAdwBQVVfeXFMTXRVVGdxM1M3eWIxQ2YzMEJiVmFrbFItTzR1THVzS3lVamNlTlZiT2w3NDBQbm8ybnJaOEhValpwVzNHckRIZXc5QnpzSHUwWHJQUEdPRzNLRUNDMVVabjE0NTVMcjZ3eE5hajR5eXFJbmtEQ25FNWp0TXdxZlYydkJqUkZfWG43X0N4VnZZTmNrSUxaMGdoNlZ3NjZfUmZiMlU2OU9SMWcyOWgxWmdMSTJqd0g2aGJ2NFZlOGhubHJZSVdZQUxBWUFodFl4Y0MxTFZyMmlOQS00NldyZQ?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "PharmaLogic: Lantheus CDMO Acquisition Expands Radiopharmaceutical Manufacturing Capacity In New Jersey - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS1VZSXhDOFExRUxPdng4NHg0cTN1SmExVmlyNUt1V0trUFNEMHhfWm9jZFFCb1ZTVmEyaVRndTY5QThrc1VKR1JsQ2E2U1Q1YWlpOElfVUlBcjdnaEV5VG0telNnZUk0QVdCUUd5T2NPUVZpel9BNy1DMzB1eTl4TXp3NGNKMmVEZnNJeVVvZWhELUVDRTNYVFF0cVhxOE5YbTJaLThlUDBCV056Y1FmMDZXcUZMNU9RSDVFdml1UQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "Radiopharma",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "BDR Pharma to Acquire Majority Stake in Acme Formulation's Oral Solid Business - Voice of Healthcare",
+      "source": "Voice of Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT1dDQ0FvLS1CVi1KRG9XbEpGOHNBaklTbkpScXRzcjBGc3VBMHMxX25IODlFUl8ya2luOGR5Y1F2VDllbERWaFdlX0JIRFp2S1Rta01kV1Y2aDhMYkJNRkpPMng2cFpteDktV2FFOURMS1JYY05OdVJSLWFLbXg4LWJMa3F1TGI1NzNXUFNqbjdVRzdPRlZ4LUo4RjllcGJ0LUdJdGNNZU55RkQtOVZxd1MwWFg?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "AstraZeneca bolsters vaccine pipeline with US-biotech Omniose acquisition - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2J1bUpnU2ZYSU5GVkJfU19UaUxpTEUwS19jRnNzUGZ0RXlNMzQtU0l6ME1LRjk1X1poUVVSTDhZMHUyamw3S2hXcWdBOC10XzVTM3ZGbUhRNjI4S29oWmRscy12WWNSYXNsYVNkNVBLZkwyZ2lHMi1OVUZMRk1WSUlRc0VuOVBCX2x2YW1PckNObHJ6R3d2cFZwdGdKZnczTGFnQ0g0Vi03QTFRLUZaSDJWSWQ3RXV4cndJU3ZJdU42WmY3?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "Infectious",
+      "modality": "Vaccine",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-10",
+      "headline": "Nxera signs $1.47bn AbbVie licensing deal - PharmaTimes",
+      "source": "PharmaTimes",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU09VckF1dzZGZGpzMWFvQkNXNTlMVmZWVTJGTXFpTUNHb2I4cVFrd3R3bjVrcTg2d3NoOEdRUjhrckNRNlEzU0RmNGVjQWNldzJMay1PLU56UlZDTjRHbFA1NzhhbE9hdXdnSUVUNEExM25fNWxRaWRMLVRybkhPWTRfb3BMdw?oc=5",
+      "type": "Licensing",
+      "value": "$1.47bn",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-11-09",
       "headline": "Argenx buyout of peptide engine and Big Pharma favorite UNP could top $1B - BioSpace",
@@ -41,6 +96,50 @@
       "link": "https://endpoints.news/argenx-to-acquire-unnatural-products-in-deal-worth-up-to-1-15b/",
       "type": "Deal",
       "value": "$1.15B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "BDR Pharma to acquire controlling stake in Acme’s oral solid formulations business from PAG - BioSpectrum India",
+      "source": "BioSpectrum India",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTk1DUWJwM2VwY0thNnZCZ293TWRoMXBWRTh0ZnBHX2ZNLTNCQ0VyQ21jenlWTHFweERBTmFlR0dnd2dzZ1F4bmc5Uzd5NmJVb1BmNVNVZFp4U0FBTUdhaGxac190Mm9lNmVHTHNwWlc1eUNNV2hRSHRWcENfR2RyVFFXeXd5U3hfU1laeHdHeWRqV0xORzg5bXNDQXYxMnY4VXdRWTJQT1JnUkRvNGZrYlF4RGRsTm03ejlkaXBBRlNscTJ3NHAzWkI1ZE04S0h3RTdidFB6cDhJdw?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "Phoenix Asia Holdings Terminates ACEA Pharma Acquisition Agreement - TipRanks",
+      "source": "TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1hnUmtPbDZrRUV4SVNmYmpOYUxSZTZVWkFOcC1KR1ZDekNCdmx4UUNaVHN0WjNkcTNPUFF6US1ZTmtodEg1Z1hnRGhuWnFTWXBlZnN6ZmtzMjVjZDRPaTQzZWx1RTdiMk56bGhuaGtHME10WDRLRTVaNTFQNENvR1R0TW41RVd5U3hPcVNqM3IwVExLTlVURWlsTkJvMXB6dmpxXzBfU1JnVWdQZ0lQcE14b3JXcE5pb0E?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "Argenx to buy peptide platform in potentially billion-dollar deal",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/argenx-unnatural-products-acquisition-deal-peptides-protein-macrocyclic-immune/874119/",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "Peptide",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "Heron sells assets to CorMedix for $145M upfront; Faeth's stock tumbles",
+      "source": "",
+      "link": "https://endpoints.news/heron-sells-assets-to-cormedix-for-145m-upfront-faeths-stock-tumbles/",
+      "type": "Deal",
+      "value": "$145M",
       "area": "",
       "modality": "",
       "stage": ""
@@ -2648,105 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYS0zSllHVmtHSy0tX0VrbWlWdzhIUkQtSkdRQ19SaU9wZnVULXlmenlBZDZnaUZmYTFhU0FveWd5YU5DMnFEd3A3Rld5Ukk3RzZXQy1QRFdoMHVzalh1OUFiZnpndFllN2NSc2JWZE8tN3c2Q25PNUVMcXQ1Z3lvVjFvY1BieDRyd1p1Qm9pbjNBWmUtdjA2ZVJwdGZtVmF5NGZoa3VSLUdDd29XX0FvX1AzLUw5NXNsaUpWSEZGSWZYTThLckZLME1LRk9KY1Bp?oc=5",
       "type": "M&A",
       "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-04",
-      "headline": "Medicus Pharma Licenses Pfizer's Discontinued CD228-Targeted ADC in Deal Worth Over $1 Billion - BioPharm International",
-      "source": "BioPharm International",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVh0ZnNsLWREMlhDNGNXTE1XU3htQzFTeTNOQXUyanl2THF4WHJnQjZnSk5hMGVQNTdRbk9YZTBWbDdzSm1VNmRJS1hsYTZON2JfQmdVQUp1NEV5R296d3BlQnVTSjNERnhuZzY5WXlhRFNkWkI0N3pXWlpMOE44bk03ZkJDWWFLci1OZHJMVnhkaWE4N1MtOTdJc2NCSHJ6V1EtWjU1ZGMyZkdRdlNON0ROWHhXVkJKOGw4NTMwdVVlcWVaS0pQR19HTUJ6djdKZHc?oc=5",
-      "type": "Licensing",
-      "value": "$1 Billion",
-      "area": "",
-      "modality": "ADC",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-04",
-      "headline": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
-      "source": "",
-      "link": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
-      "type": "Deal",
-      "value": "",
-      "area": "Neurology",
-      "modality": "ADC",
-      "stage": "Approved"
-    },
-    {
-      "date": "2026-09-04",
-      "headline": "Tarsus Pharmaceuticals Closes Acquisition of Alkeus Pharmaceuticals - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjA0a3NETTZ1SG9UbnVMcF83aFlsNXJwY0dXQ2N3Tlo4MlI1ZU1XbWRaSmRoeVl0aEZPSkxOMVpLWXZKVm5hdmRUTnVsM2xIVk4yZWZJV0FIampkRjJqYmE3Zk9pcGFxdHlqLXlXUFhXSC1abkFpQ2NwaE50V3htSjBXb3J0cFQ1WUY3OEpSRXhSSF9UQVRvWkExR1RLUkpKRTRtZjRqUi1PN21JbXc?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-04",
-      "headline": "Menarini signs $771M deal to take Gan & Lee GLP-1 to European market - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkE5NzVXNGUxNnRoZlJwYmFnREVwTnByWDVRcjNudndsY1dSMVR3S2gyTDVXeWk2MUdmdWc3eGxxVm9OOURFcUp3MmJKZXZwRW9NRkNUQ25vSnZHRmwzSU5hTkJBVjR6am42cEExLVJVam1jdTlkck9UY3otZW1la3VVRXRUMXpvMlFReFBianNycXpDby1UbnVLRE0xeXNnbnJzRU5n?oc=5",
-      "type": "Deal",
-      "value": "$771M",
-      "area": "Metabolic",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "GSK to license Hutchmed’s KRAS-EGFR cancer drug for $110M upfront",
-      "source": "",
-      "link": "https://endpoints.news/gsk-to-license-hutchmeds-kras-egfr-cancer-drug-for-110m-upfront/",
-      "type": "Licensing",
-      "value": "$110M",
-      "area": "Oncology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "PerkinElmer Completes SimoTech Acquisition - Contract Pharma",
-      "source": "Contract Pharma",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQzh0NUNiblFHVkZUbXN2ZkVhcmZ1UzJuNTJjaDRqMS1oWmVzVl9XV3lpQXlwZmRiMXpMXzJ3WVBQRjNpdkhaRHg2UndiX2c1UVBvZVRIUktJZTVrenM2b1R1aXlXYlBub2RvV3FXZmxRV1lCUGlDWkFyWW50R1ZfbUFzMjUtbmdial9ZTTZUS2hIdw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "AbbVie Completes Acquisition of Apogee Therapeutics - Investing News Network",
-      "source": "Investing News Network",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmViTzB6c09kMHZubXVhV0VxQUVOV0dEdTRyM0ppRWNkbmlkaTJYTmVHYlRDU0hFZGUtZ19GR2hqNWNIdmc3WGFTWGU3X2gyWFRfUFRLUU1wYzNfSWRKQ2ZGUDlkVDJIandFNU9pWlFLWk5BTjVjek5OZkdEM0NUTWpkdVE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "AbbVie seals $11B acquisition of Apogee Therapeutics (ABBV:NYSE) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVNIREVTbmg0SXJ2NlZRbWdOUXVtNU9jMDA1VFlkSnJmb3hobElhanQxOU9nUnJvejYtSWhKM3g1RWJyaXU0T19Yd2tPU3ZTMzFMQURiaXgzSE9IbVY3U291a2RTSkduZWo2WTZOUjc5cUdubXpQOGNpcXNZb2JmNzhNMkFaM18yd19WVmhXYkpkbUk?oc=5",
-      "type": "M&A",
-      "value": "$11B",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-03",
-      "headline": "Medicus Pharma Inks Global Licensing Deal with Pfizer Worth Over $1 Billion - Benzinga",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW1ZUGFuejkxQ3BIZ3Y2YnpiRDhGcEhVV3pIQXR2Snl2YTAxMy03ejFMaUNHUFlBRDF4SzJTNzA2cEVXUVVFdThLbE14VVR5OHhhajRsVGNFRUNrbWpWUlR1M2tycVl1bjBmVnVzNUZqaDdmZ0pwOEs5Yk4xWEhXZmFka3ZsRnNfNkZSU0Z4VE1yUlJrMWNWbzRET2FkLS1sWko5OUpRX09hVEZvYXRRY2xpNUllc3RLbV9tWTAxRUxRNmFURFNLOXJn?oc=5",
-      "type": "Licensing",
-      "value": "$1 Billion",
       "area": "",
       "modality": "",
       "stage": ""
