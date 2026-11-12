@@ -1,6 +1,17 @@
 {
-  "generated": "2026-11-11T14:13:47+00:00",
+  "generated": "2026-11-12T15:07:05+00:00",
   "deals": [
+    {
+      "date": "2026-11-12",
+      "headline": "Radiopharma player PharmaLogic snaps up Lantheus' CDMO business, plant as Curium acquisition advances - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXNvM3FUeEtKYXlyd2NHVmxBbG8zWDBFeEpXdmhKT1l6ZUF6X1kzMktmdmQtbmdWWEFxbHlEU3hDcUhEYmxiRUhkdjUxb2c5enBuTHc5aTBKdjFFUmc4Z3R2SzBJVHlOY0lBcUxNaFNzQjZaSnRpUUJ4dlhfZF9BdElyLVI5eE1WcVJGNmI3ZVhFa2RVQVk0dDNnOWFSOUw4QV9yOG8xUGN5MHRpeERycmV2OTB3V20yZ2VKZg?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "Radiopharma",
+      "stage": ""
+    },
     {
       "date": "2026-11-11",
       "headline": "Nuformix proposes acquisition of Biovara - The Pharma Letter",
@@ -54,6 +65,50 @@
       "value": "",
       "area": "",
       "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Imvionix Marks Commercial Launch with Acquisition of Beovu from Novartis - Contract Pharma",
+      "source": "Contract Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOE5hWVBLTFNwQ0hpaG1nM1FYbWRSZE9JUjNzVnE2cFBIUXhVVUJQdFdLT0pqRXpya1RVYTBTR2lZblBySVhPU0wyZUdfNmRON25CTmhzd3MzWGlOUEFtRXJaT2xtRnI5RkN3a3E3Unl2Nk5LdkJhMnB6TmlaSVpIajVmU09qSWcxZUVpQlI3WElXQUp3Wk1pcUQ5UjVoSFU2Y3IxWFVjajFtdGJYOGsyZmFfcGVYOHlKTFE?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Livzon Pharmaceutical Announces Acquisition Of Shares In Xinbeijiang Pharma - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTWVmM3UzMXItbHJ1YUhud1pKWkk0c0FZdmZBT0lQTjJ2QlBPY05rVkJUXzE2S3lwLUhYZHh5UzBsR0FnbklINkFBQ2E0am5tdE9TMWZoMlVwVkhTWGVrYzZiazliWklXOE5ZRjB5WHBFbHdjTExKZHh3MUxVOHl4QjIwMGFvVEVxYlE4d0lEb1ZZNTdkNGhTZ3NRVlVLd1FyUERZb0lQa3d2cnE4clEwM1JTUm5mR3R5OHcyT1JIVk9OUjNuQk9xdlVrdWtocHZJVDhnRVRyN3Rpckhfd3c?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "China's Fang Sheng Pharmaceutical Drops Equity Buyout of Oula Pharma, Pivots to Acquiring Two Drug Marketing Authorizations - BigGo Finance",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyY2w4MWQzUGZrODEyY2VkYW8yVVdZNGR4NktoQzNNMGoxeFVtWFdkR3FXaUlpZWRUcHFBLWpZdkFacFB5eHB4a1dfbXJkUkFxVHRHS0VlajZSdU53aVhTazM5OFJaM2diS3J1WDZ4R1E1TXlJeGc?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-11",
+      "headline": "Celairis signs first major licensing deal with Ocugen's gene therapy for retinitis pigmentosa - BiotechDispatch",
+      "source": "BiotechDispatch",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0VSZEJCUkVRSnFOT0s4TktzRnFjQng5ZHJva2RBeGVRNXFfYmJsWlBndkc2X0hLdXBZaWNha2hfVU11blBrRjhlckM0ejBvMEZWRzN6NW5TbThoNWthaVNScUVIWXl5UkI1cEE4TUJZSWVGM0syUzVSekx5dk91VHFXRU93VnNBeDViNXBkQU5yME91UHRTU2ZhV3NwRkpJOGp4SnJGcG5TNmNoOEZpZ090ME4xUDFrNmd6TVZReWtHRUg1SzNN?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "",
+      "modality": "Gene therapy",
       "stage": ""
     },
     {
@@ -230,6 +285,17 @@
       "value": "$1.15B",
       "area": "",
       "modality": "Peptide",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "BDR Pharma to acquire stake in Acme’s oral solid formulations business - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUTJfdENXQnc4dFJsb1paSHJoY2lRdHE1bjVGN180WXpUaDE4aTl5UHFSTmVHRV9nTWhtd21XdGYxLUdLallWRHB1MlpwWjZKWHI1dzgxUEtkUTdHN2RSZUotaHEyektjYlFXbDZZQnd6OGxYbVAzMmk0VzZWR3R4TkZzUkVtUnNzRzdJTEtxdzdnZXR2MnpqS0VLYUtzVW9BaDFVb1BXdC1saWF6VHlwZGx5bE1jY0lvZnVBTTdKSDLSAccBQVVfeXFMTm1MdnpVN1NHS1E4cW40dnJydUp1NmZzdHJ0OWczWVU5UnRjYlRTZU5MbmkyNC1nc2s5Q0FmT3k2R0h2MzhQZlUzVl8xNER6Q1VFbnpabkttczhIN3ptQVZHU0JHLVEyWnlHRzdRb3F0dWdxSnNSNDc1MVBNZFNUWW1vUHprRGpEeFhDeXRQdm03bjN4YnFyVjNZWC03eVNDRTZyZ0M0NHVOZ2FEUzRKNFdaa01lcmVhQ1ZBWWM2a2tzVDlaRVVIbw?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
       "stage": ""
     },
     {
@@ -2684,72 +2750,6 @@
       "area": "",
       "modality": "",
       "stage": "Phase 3"
-    },
-    {
-      "date": "2026-09-08",
-      "headline": "Sun Pharma gets ratings boost from Moody's, S&P over $11.75 bn Organon & Co acquisition bid - manufacturing.economictimes.indiatimes.com",
-      "source": "manufacturing.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVXBFS0tuN3ZuUWxHa2JCbnZxRjFVZlp2QkNZamJ4bFBYRXU2SnVMNkdKc0dFWXJuVXoxUXdMc0hURzdxT0gxc183dlJEbnl5RGVGaGd0OEo0LW5lTG13RDBKbjlLRmRobW1tSUsxZ1VGdTVWQTlHWEhnQUU4bWx0QkRmaTFMNmNVQ0QwSllVNDFWcS15dnA4VnJjRW5TYVlOZDgzYklNUk9vY1ZDOHJMUFI1el9Kei1Sa1hZWXBKeFVwNFAwWDVmOWhpZHBkWTJIc1ZfVjJtTUM2Q3k3b1ZXcVRJclZUblNnZVJFeWlramc1ZHRFN1VietIB_gFBVV95cUxQRGNPOXdyMUdSYkNjWmNrZ3BScmNlUXM3bEp6VURMdHhYcXJrODlrekgwdTdYZXlfb3Z4VnpGWnJIV2ZaZnVwVUs5am1XQjBnMDJyZm1kRFVpNU01VEJEQ09wZnFSSGJaREJLNE5jNUdHQTR6cjh1bmtKZFM4bXl3dDNkNzVLZFBTOXBGYmdiY1ZhVDFEblF4X2lCMGZyOEZqazU2SFNEN09TWkVlbTlmU1lKY0R5bXhqcXNFWWp6b0o2dXgyZk1sdlVfZ2JLLVNxMksyMlhBSXB2YWJMQWNraU1Ndmw5UlA3bmtDczlYNXo3NDdOZXJhZGJsaHRpdw?oc=5",
-      "type": "M&A",
-      "value": "$11.75 bn",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-08",
-      "headline": "Sun Pharma gets ratings boost from Moody's, S&P over ₹11.75-billion Organon & Co acquisition bid - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnBPb3U2SzNibXpNbmRMTmNsS0gwdnhnZkZOcHMwZVUya2N5ZDFLa3NPMDFMdFpVOU9VTDhtRGRpenBVd0pnY29nM2dfdE5DcVlwQ0RUUFNXTUx1SUdVYl8wcWJFb0NqVUNncDRQQ2NKb3AxNmtKVHZpVlg3TkxVTU1McHhoaHhncTkxNEpiYnFMWVBiZkpoYVI0NVhoSEEtNGE0a0VpdW5NWVNSd2wxN2s0MUE2M2Zib0E1bk0ybWRiWExrSV9jRnNFRHNWNi1NbFZtcHZiTmtsT3JKLXhSVVVfY2M2MURrR1HSAfABQVVfeXFMTnJwS2Y2QXZWaGxhdTU5Q1YxaFlZWFBPNHJiU0ZwZTBLRml3cHh0eFE4Skhuay0wYml1cDFjSk56eEZ1ZUxISzV5WWxBTmVXX0FYODI3OGMyelk0MjhGdmhJSEJkN095aF9uYWtQTFBrWXJnVVZrR21zelk0VWp5NEhYMmdQSEkxclRpOUpucTJndjQtMzhtbUtEZkZHQUsxQXhnWGJSVDF0bUgwRkRKZS1sM3NTWU9sbURfYV9CVFI5UEIyWm81RmE0OW5PaTJqTzI0YlJ3dkhELTJSTXhKR0JsYWcyMVF0NHVwcHkzZGFJ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-08",
-      "headline": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVZ6Q2RuLXVqRnBuQmNhOFBudGVWZ2dEU2VuTXY1eWxPUzdSLXRUcUN0eUdsRkUycWh6ZzROWFlCQmRjd0Fwbl94V2pLbUNOUGpwT3cwVVZvdmpxZkljelVhNU1sd0FabHlFVmFMRFhXMW9YdUh3bUd3TjJaQkJ6U3NSWVJGS2ZiaERvRHpiamExWjZWUjRySW9OQjRyeWVpZk1fd3F1ay0?oc=5",
-      "type": "M&A",
-      "value": "$12B",
-      "area": "",
-      "modality": "",
-      "stage": "Phase 3"
-    },
-    {
-      "date": "2026-09-07",
-      "headline": "Pharma stock hits upper circuit in weak market as company shares details on acquisition of US firm | Deets in - india.com",
-      "source": "india.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWjF5cWVmMmN5WC1KeXlGVXJjT3F5ZENDU1F3X21RNnJOdm42WXhtRlJ2YjRYVnZPUTZmT3VSMm1oVURVcXZ1c3poQXI4OFplYV9WaVRYb3lVY2Fvd1pLSEgzYjZBMFRndWx4T0JmUXJNNTB5QW8yTjA2a1MzUDlMbFJQTDdpMzRDTmdIRVdWTE1fV1dCSEg5d0w3eW5zakQtM1dLcFBqWDdncHhtamdaMzJNOUFGUlNIY0NGejFQSzF5SlNmSUZrbmJoak11RkNlTERaUG9Ta1JoclJkY0xPZU9seUtZVC14M0ppZk02a1NiOEVTY0ZwaVFyejk5Rl9EeFHSAYcCQVVfeXFMT2pNWklhQkNLaDYzWFpGVFZKa2RqVHQ3Nk8xVjREcGtLTUlhR2k3VDVUM1YxNzZqMXh1TnVYczlEZEp5UVN0cFpHZjhWYnJkWVhxZUJ6Y0F6QUJMbDV5bXZ0MndjUVpscWFnQkN0YlE3c3ROVlViYm41WTNJSVRzUllrOUVfNkY0cmN5cVcyRURFSjBkbFd2MHlyNjRVWjdzbmRlX2NpcVpHVmlQcXFEM3lGU0xLc2RYa0lGVGRjWk5HSFNDdlQyd1JvWW82MkxhNUJZa3h6UmRHbEs0UzluU2R3RE8tVWpwblpzSnVuTVpSNFJDNUlCbDdSQ3BuRUxvNlJxOVNqUkE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-07",
-      "headline": "Eli Lilly Has Been on an Acquisition Spree. How Much Could Its Latest Deals Boost the Stock? - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEhLZFVjV29ZaEhmNlQ5ald6cW0zU2E3SUxqY1JEV01UUDdvSGNtejBROUVFVFVtYmtKS053UG5fYS1qRzV3QVhtS3p6cmI0MHVHclJhN2hPRkNILWdETUE0THRmZkFtbFJRdHpCVXlpUE92dTRfQnR1bGJuQWExa0JNSTRBRFVMNGpsZ0JGWkhaNGk0Tmp1cQ?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-06",
-      "headline": "Novartis India eyes therapy-aligned acquisition, Tier 2-3 market push - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXlhTEhHU2NSZE5EOWZVcVlDR3AtcFRmZUplN3g0MjRpMjZmUHBfUndDLWJ1TFlwMFI4cEp3SEVmQ3BrSEQzZDQyNmFJalgzbXhlRVJYM190aUdMUTJGWlVLMnJwMmhUbmxfN0gxakUxMFdpNXJ5VU1OUlFLalR0T2dHakVyanFFakxQSXF1ZGdiR1JMS1dyT2Y4dExQTDIyWTd6d0dXbC0yXzQ2NHBqMXAyaDd6WXNBV3ZpbGxncXIxSS1uOFlKWGdzUzktRFJJRHE40gHYAUFVX3lxTE1rMEZ4QU9xNGpNWkEtN2N4TmgxaFV6RHF0cXBUZXNtQzBseksyeDN4TkFocjZhNUF5amZyX1djR09iSXVlemMwYmJwV0VVbldHMVVkYkFRN3RGTmRxeDd2cWtZSnN6ZEc5c0NhLXZld09uM0ExRUlldVZzYnluVHFWTzMzQm1YRVcxb2xDek1PVHBkS0tTWnRaZDlmeEw3T2JvNHI0ampaSEdwWDJNem1FM2JKZVNpZ192ZU5FTGRnR19Za0RpQW1TOG1rcVhmV05GMlFHTmVJaw?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
     }
   ]
 }
