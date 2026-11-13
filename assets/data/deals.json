@@ -1,6 +1,28 @@
 {
-  "generated": "2026-11-12T15:07:05+00:00",
+  "generated": "2026-11-13T14:30:09+00:00",
   "deals": [
+    {
+      "date": "2026-11-13",
+      "headline": "Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say - STAT",
+      "source": "STAT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVNJY0tiRHFLRU9QTzVTbmtXUWgxWmNnMFp2TE1tckREV3dWYXZBT3F5ODFWOVFfdkoxV04xVnozWFh6Q2E5UmdKZnRKOWxoeWJQcWdoS3lLMllpcC1pcXc1T0lkYnhOeG9pXzJiQm5EX0FSQVFVNVVWQ0ZXWFhLSnEyNUc?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-13",
+      "headline": "BDR Pharma to Acquire Controlling Stake in Acme’s Oral Solid Formulations Business - Chemical Industry Digest",
+      "source": "Chemical Industry Digest",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQendfMW1VSEVTT1Y5QmRNQ0hDMXAteVE0UWRFNHNyVTFDSTJ1RHdZam1PT251aThuZjVackZKZGdKbXBwVHVlZHlxVFpIVndtSGtKdmNRSUprblZ3N0hsdWwzVXZKdDhjRENYQ201OG9lUURNRHctUzU4WUdvX3ZYeE5hRmxpdnI2RjBCdFRiYTNXQ29LaFNMOGlJc0tva28tR3M2VHk1aFMtLTg?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-11-12",
       "headline": "Radiopharma player PharmaLogic snaps up Lantheus' CDMO business, plant as Curium acquisition advances - Fierce Pharma",
@@ -2728,28 +2750,6 @@
       "area": "",
       "modality": "",
       "stage": ""
-    },
-    {
-      "date": "2026-09-08",
-      "headline": "Sun Pharma gets ratings boost from Moody's, S&P over USD 11.75-bn Organon & Co acquisition bid - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdlJOdVhrTmF5SDA2MlFtZzR5c3pVRzRnSW45RW9nVTZ0N09WTlBSVTFaV3c5VzExUm1hZTR0bmIzazViczY3MTl1NHBhZUxuckI2V0h5MER2QWdIODFVSnREeEtGZ2Y0ZVRmbHVqOElKS19wOUxqN3RmX0hZZUhfSTJQdWJETFVqcVU5R1ZXX01IVEFENlZLZVlzMXhFdTh6WjNPLUZKUVNJcUpxa1Y3em1xV285NHN0alp6eFF5YmhTbG9YNElVX1pVSHJpYnBld25xV2lHZlFQSDNuaXg1Q0tiTTAtay1GdlR0UjIyRDMwQl9xWjN4cmhSNkhmSTdOSF93aEZZUmFYb1B1Q09xRS1RbmQxd9IBmwJBVV95cUxQZjI0T1RueFFVNXFDT3hDaUt2X0F1M0VkQlJSUm16UnZVbm9qeElMbk5lVV9qMUlqTGtmMERRRVgta3pRRlVZNlhhWjdBRXIzNE1uTHZqV0w5cEwwLS01dkkteHhSUDAyeVpsNGpaSC10Qk1nX0Ytak8tVFRKcngyV0V2T0FiSWRWb2ZRUENrZk1UNHhNanA4cjdMMF9SVmV6NnUwSGxSU2pHYTVMOHdRaEl4SnhzMkRsMjVfeDVpM1N5THRuTXFmcGVxQ2M1R1V4dXhtQmQ1RGpROHJrZ2RsWjF0TGk0M0lYaTRJSGpwcDRVa3VDc3Q5Q3VMNXJFYWF0ekpySkFWYU42bE5OLXkyZ1QxYWRMbmJyb3o4?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-08",
-      "headline": "Novartis’ $12B Avidity acquisition hits Phase 3 speedbump as dystrophy drug disappoints - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQm9HM0d2VEZMdmMxaE9feWVxNmEzazdxNERWNnJTTUhLYlc1T0h1ZVg0WVpPS3MyMEt3MS0xbEI4SVZLVEhjVDdldXFZaGQ0YjRldXVxb05FUEhaTDU3clQ2Yk5kaUhhYVFHZ253NkljSzNGcXFjVldLaThmd2dVcEJtLTlQbDVfeXk5LV9lTS1qOEx5VUcwYnVBZm5IRjIwQ2stSTNYbjNDTm53ekJJVmxQeGpvQVVsRlV2QWNNSHlWVzJSa0E?oc=5",
-      "type": "M&A",
-      "value": "$12B",
-      "area": "",
-      "modality": "",
-      "stage": "Phase 3"
     }
   ]
 }
