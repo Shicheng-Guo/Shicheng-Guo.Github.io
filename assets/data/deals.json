@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T15:22:36+00:00",
+  "generated": "2026-11-21T14:35:26+00:00",
   "deals": [
     {
       "date": "2026-11-20",
@@ -62,6 +62,17 @@
       "source": "NAI500",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZTNEY20tdXVhQ0dxSk12YzB5M21icGpCbFh6V2NFOVBoWDlxWE5UbUtwSjJaaERXVkpNM2tQTW5KcVd5ZENHb0cxSV93SHlXYWFpUElPNVl3aTN3Qm11Uk1jeUtmNmMzSU9qWnhqd0N1cU1YTVZ1WHlBekoyaU5ZNEtuSzJKZnBzQWdmVmdvU2YwYjI2SXF1M1dJcEdIeTdaWlJ1bFFHY1U?oc=5",
       "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "More lawmakers stake out stances on China biotech investment",
+      "source": "",
+      "link": "https://endpoints.news/more-lawmakers-stake-out-stances-on-china-biotech-investment/",
+      "type": "Deal",
       "value": "",
       "area": "",
       "modality": "",
@@ -646,6 +657,17 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa1I2bjMtZVdSWnctN0JMcGtQRTVCaDZYbWRPZXpoMDRvMzNXVXFhUlJFTXF5M09iaFpURHlUWnlCQTRYYUZmWWdXOTByeWFvRFlmRERKelkzUkxWMkdyaWJ1VlRzSlk0VWZKNnlrajBoamc1eXBDUWM4Snl5ZnB6cExnaGJyVTVNZU03RjJuOGFVMExIdE5PR3hJSmNpM1IyeWtMZG83TmpGTmxMSlRV?oc=5",
       "type": "Deal",
       "value": "$30M",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "OBI Pharma Signs Collaboration and License Agreement with Novartis - STT Info",
+      "source": "STT Info",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbm9PRlY4enJFTHMtZnNZcXRwZ2FKYU4xWENmZklkRk00NlNRUnkwa3BYTDNjSFhBajNmYUNSbW5FalVZUXhuZXlYcXdMMEFUNG05Y3YyTnN6ZUZfd3NzcW16Mlo1VE10eUtqMFNMSFFWS0tLQWhPNG5TN1p5QkUwVUJLZVVrclhBSDhGVUZfT3E3REo2WEtFc2lJN2Y5Ump3anJTTWN2YS1yTEM1MGRVMGtqdktiZUNRY0Y1ZldzRk15NnlWSTdaZkFxM3pFbmNi?oc=5",
+      "type": "Licensing",
+      "value": "",
       "area": "",
       "modality": "",
       "stage": ""
@@ -2510,6 +2532,17 @@
       "stage": ""
     },
     {
+      "date": "2026-10-02",
+      "headline": "Novartis signs $7.8 billion drug deal with Chinese startup - Axios",
+      "source": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pZ3JZOFhVLTEyemswLXk5UGFUMjlNdWhhT3R5LTlIQ2VmRDBxZmlnVDRrSXZ1WDlHMzE4MDFYY29XSmRqUmltRnhvX2NoT0ZsV2Q2ZjlERkVtQ0xfMzZVQzln?oc=5",
+      "type": "Deal",
+      "value": "$7.8 billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-10-01",
       "headline": "Fresenius completes acquisition of mAbxience, creating a stronger platform for future portfolio expansion - PR Newswire",
       "source": "PR Newswire",
@@ -2715,39 +2748,6 @@
       "type": "Licensing",
       "value": "",
       "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-29",
-      "headline": "Novo to spend $300M upfront to license Hengrui's weekly oral weight loss drug",
-      "source": "",
-      "link": "https://endpoints.news/novo-to-spend-300m-upfront-to-license-hengruis-weekly-oral-weight-loss-drug/",
-      "type": "Licensing",
-      "value": "$300M",
-      "area": "Metabolic",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-29",
-      "headline": "Surat-based Anupam Rasayan completes ₹1,750-cr acquisition of 48.2% in Bliss GVS Pharma - thehindubusinessline.com",
-      "source": "thehindubusinessline.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaFUtZmEtWnVvejQ1MVd3MFQxRFpYamNqTVh1VEVQblVZTm1SbnYyWVc5eFVrWFpLa2VkWlR3TmxIdGlQQ19VM2NkUGJUMU9xWG5UOWl1NEtOUEFaWnpJSHkyWDRDQkYwbkNyMW5OaE13My1JdmlwSUV3ZF9mbncyS2pWU3JFd0xLR0xUZEkxRjRmV0VnTGRQOWNId1pKZ1F1Zk93X3ZNTUpxVWlJNTV4QUQzZkxvcl9NZjZuQ3FPZ0tRU3VJTkVQUFBJTFJHRGlnT1dBdXlLanlmUVBaLU5maVFR0gHoAUFVX3lxTE5NZDh6VnB6eU1ydlRkdWtMdlljVHFJVWFQRXQ4Wk9Rb19HRTNPT2pnS2pxV2VMNE5RcThIRHVDVjJjQUgxVlFwU1lOc0xvTjljdEZGcFhES3lTRzFyOVRjeC1jWE9Ia3pESncyZkhkeUZBeHA0NjI3dzh1Yl9EM0ZGU3NLdkV6bTF6LWlRekdJak5LTUFvaVdFSi1qY3ZldGg0d3M1cjJHWnBlTVBiY05sXzNCdkZYczJ1MkdPMWFoT1BhbHlVWkV2M0hIX2ItQ2ZHc2dXd2hUT3FNQ3h4OUFyRUhlVHplOHc?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-09-29",
-      "headline": "Philadelphia biotech firm signs second licensing deal as it pursues $80M in funding - The Business Journals",
-      "source": "The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmVHRW5kRHlfQ3dCT25iVGdIQWktQXZBbGRUTXB3SmZqTTBtVk1rTl9MdV9BZTcxcGs1Ynh4bXpwcVEzSDVTcXZ0VFNWM3dDYzRxY0xEZDlBLXZPdlkzb2kwOFNqN05vLUpxdVE4WUlIX2xLOGcxLUlkQmRfcnFDbk5USjhQS01ubDJZOVh6WkQ3eVlBYU9TTkszTkNGUDBreVNxX25OOVFpaEtvb2NfLTZB?oc=5",
-      "type": "Licensing",
-      "value": "$80M",
-      "area": "Neurology",
       "modality": "",
       "stage": ""
     }
