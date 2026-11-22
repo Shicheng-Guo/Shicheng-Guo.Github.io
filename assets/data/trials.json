@@ -1,6 +1,17 @@
 {
-  "generated": "2026-11-21T14:57:00+00:00",
+  "generated": "2026-11-22T14:55:12+00:00",
   "trials": [
+    {
+      "date": "2026-11-22",
+      "headline": "BL1332 misses primary end point in phase 2 post-PRK ocular pain study - Ophthalmology Times",
+      "source": "Ophthalmology Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0I2dmdTX1dPSVdnSHZCN0RyQjluaXpDclNvYmNVMkNfQVZJbXB1VTBCSW41cEJIb1B4ZTIzUTlhVFhSTlkwcUpta1VabU51WjZzU3QxbUZmNU9Ud3RNN25UcldSSDNrb2EzYVBsTDVjbV9YZ2E4WmJPUkxkSnVSQUd6eGVvekFRQi0zZXVKSUpCMnZKRzVCWmJOTTl4Uzh5cmNrdjRtQmFjQQ?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-11-21",
       "headline": "Interim global phase 2 AZUR-1 results show durable responses with dostarlimab monotherapy in untreated MSI-H/dMMR stage II/III locally advanced rectal cancer - 2 Minute Medicine",
@@ -41,6 +52,28 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzJ0c1JYbG0xMkVpVUR2QUhDdUhCb3JjU0RjRDBVQ05VNU9PNWVvQXlkc1BMMEhlVXFwcGVFbmExVjJOV0p4ai1NRDRBTXFkcExrLXoxeGc3YWZqclQwT3RBU1RUV3NiV0xVRXVyN09iQlQ4ZzJvTEZGak93dlh1aFhZR1AydS14RW1jSUpOYUxrM1NvenNpckhUZjlBT3NKVjUyb1RjYlM?oc=5",
       "outcome": "Readout",
       "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Recursion Pharmaceuticals Reaches FDA Agreement on Key Endpoint for Phase III FAP Trial - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMm9rN2hnZGFsaWtoTjRqZHdHQ3lNQ3NFaVlZcGJlM2dEamNnU1A5Z3Via09MSHdUVVUyMlE1dE5BVUxsa0I3SnpzNHFSSDNOdWFTNEhOOTgwc1hnNGxJcTRlV1ZuSUM0cnlPdjZkeWJud1lmVnZtU1p2YUtFb3dGU015TWdOcUhDLTd2UjZQanFqOFllTTh5ckZhZGt6cWF0Y2JEQkhJb2hMVllSeHBleThXMFRLcGZBejR0MDdDVERvOFdKVDRtSnlDVXJNdm5xU2pvS0lNc19QN2xKQm9mMHFn?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Nektar Therapeutics Targets December for Phase 3 Alopecia Trial as REZPEG Advances - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ0pKU182Rk5Pci00c1E2eHZjSlZySTBLQlUxNTVCWFZLRnN6SDZyakZMTmYxMzdHZ2dJX2dCMDVMNkVDUnp3eGdORHNnbzB4a0tfUUtybGpwQTJZX1F5T2h6UmJkQUVhenZpeXlZSkFmbWlZLVU3ZzYwNVlka3lSVGRWd01jcXZKMk1uc2preTBzT3NZSHhSUVNjVmJWQ3ZZZFBNOTFaeWFlSUY1eUxaUkVfZnNMdF8yVFdtVEIycUx6UmZ0RWF5dWdrRXdvSlI4eGFVUGZsWlhYSmM?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -266,6 +299,28 @@
       "moa": ""
     },
     {
+      "date": "2026-11-20",
+      "headline": "Merck & Co.'s sac-TMT succeeds in pivotal gastroesophageal cancer study - FirstWord Pharma",
+      "source": "FirstWord Pharma",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sdlM2QUFhNE80cGFXSWpyVjFEMjlTRk02S1ZwU3hGVHNleHlUYkVvYldaSDFYc0V0VXdmcU42Tjl2TkllTnBoeWxJR291RXNfRGE0?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Daraxonrasib Shrinks Pancreatic Cancer Tumours in Phase 3 RASolute 302 Trial - CASRAI",
+      "source": "CASRAI",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FTUtVcFZ0MnlPLVY5eUFwcmRNYVlpdkJDOEFPT294NGtKRzJzYThkWk5PRVRibTFHUVBFeFZQeExCakJabjVRck1nVU1CUmFnTDM4U1Mwblh0M2FocXd1NlZrcnF3cE9sR0pFZ0lyUFBBM0EzU1B0MV9ibS1wVDA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-11-19",
       "headline": "AriBio’s AR1001 Meets Alzheimer’s Phase 3 Goal in Monotherapy Subgroup but Not Overall - CASRAI",
       "source": "CASRAI",
@@ -278,7 +333,7 @@
     },
     {
       "date": "2026-11-19",
-      "headline": "Novel Device Promising in Mild Alzheimer’s Despite Missed Primary Endpoint - Medscape",
+      "headline": "Novel Device Promising in AD Despite Missed Primary Endpoint - Medscape",
       "source": "Medscape",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUoxSXpKZHZKRjNlV3I2QzdnYWlOZTNuZms4Z0pHVnFBTm02NTJOS05mZ1hZR1oyekpDZE90MGNOajZOTVViRk5HZlRtTVRSUmJYNVBaYXYwdzRZUHU1aUNIMFpzTTZGNUhGRThnUzNoMmREb0VCM1lFb1llRFE0R0lMVHl0UUFwbng5OFZvNWllTjJCY2ZpTFoydUkwYnFPOTZhYXNn?oc=5",
       "outcome": "Failed",
@@ -673,6 +728,17 @@
       "moa": ""
     },
     {
+      "date": "2026-11-19",
+      "headline": "Phase 2 SPINOZA Trial to Test CETP Inhibitor Obicetrapib in APOE-Stratified Preclinical Alzheimer Disease - NeurologyLive",
+      "source": "NeurologyLive",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkd3OFZjMXlNeEJNV3RfTjFGZS10M1RhZm9Eal9WNzF4YXNXak9RS3FzMV8tTHhGbEpJWFJScXNsLW5QSnNqZkozcnI1aTZXUEtEdXdDWEdxU3ZvYllmY2xSeldBNmNqYkFJcVZHMENhU1RxMUIySHUyemR4dVVGY1RuTnR6QzVwTVh2bHNIU1drWmpfenhYdUJqQ1pIZzdYYjlWUVNyWGREOExzaC1QWW94blZJSmZ3b1c4ajNVMGNXc3BtTkE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-11-18",
       "headline": "Merck axes $2.7B BTK inhibitor program after seeing phase 3 data - Fierce Biotech",
       "source": "Fierce Biotech",
@@ -932,6 +998,17 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeDJNZ0hrczNHUFpDLTdtOVJFTmpPR3BvRHNKYzBKbzdiT3ZfVkNkN3NpZEJndTZEalJYbVUxQl9iUlcwMDh0ajBDaVc4YjJuNFAxU1hQOG5QRXJubmtZY0ZSbU13Sk9jYmZDeWQyNEM2T2VpZkZzMVlrNkotTW5iV0EtWTZhc1QtazQ5N2QyblkwQ21HbmFVNW5aU01oTEJybUZQZVQ3cXhnNEtsMmZhVml3?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Targeting immune overactivity in Down syndrome shows promise in phase 2 clinical trial - Medical Xpress",
+      "source": "Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjRxbWhxQTVJYkRRU1dBay03VHhhV3ltc1lidlFWMzBJY1gzNzUta1ZIVzZBRkptWE1jSGJDR3Z6TlhQLXZFdm5LSkRXSHpoeFc3Q1prTmxQN2NrQkNGcWxSYTdFdUhybEdHQUt4S1hyWWVnTkdYNm9JM19tYk16T1RlOFI4bE1BSTlZNnprNVQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
       "significance": "",
       "target": "",
       "moa": ""
@@ -1262,6 +1339,17 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSXFoaXRCU3BpaVo5b2xsQ19sNzlGdDdMRmRWVlg4a1NISXhYSzM1Wk1BdXhtMGlkZ25zRDUzOS1JeWhyNndJeF9WdXp0ZGl5WDd1U0ItbFJRZkdUOE8za0xGT1JJaTJMeldIOEpPbXpIZDFEZjliVzBNanZOUXVrUnhYM0dWTmhjZ0tzS2NndGNHOXlCaXlRRlZra1d4OUVSblo2cnhRYmNqeW1BUkF2M1J1VDJPWjZWaXRfQk5LUS02Zw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Despite trial miss, Cognito readies Alzheimer’s light and sound headset for FDA - Endpoints News",
+      "source": "Endpoints News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXZoYUN1MzRkVmNRYjMxNXo5MlphVlZqbndPRjlFQnk3eHhVX0FEQjVzVGQ4bm1aaDdHMzVNQUZCcDUtdFROSlNYUWdTUjljWGw4RlBySENNclFZQ3lSYjRXcENyMnA3NHktM25PcElNVDR4SDJWUVBmRXc5MFYzQ2pzOUZ5UHR0Z0FxRF9oeU1fTGRlR0NITGtfT19ZcVN3cVV3?oc=5",
+      "outcome": "Readout",
+      "phase": "",
       "significance": "",
       "target": "",
       "moa": ""
@@ -2659,94 +2747,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPYk5qQnVGMmRYN3V5YmFIenNpUEpuck9hODBZMzlwUzlDUE9sSW12V1Z1Sk9RVkRMQWRZeV9wanZvUWF3VXk3WjBwUjFYT09HZFlGc2VyWlZnS19FbktTMGtEWEh4MFFxZlNQbWJmdzJlVUpmaFFmTGZZMDRpTUx0dGNGa2ZuZWxIcjlhYXhyMnJtYnU2Zk4zS1RTQ00zVHJSTGtUdU9XNGJ4bGl3VWZmeGltTDY2U2JDQ2hWUmZlM21EdXV5X2R4cWpaSDNvRHUxclZWOHFOSXNKQ0F4Q00wQ0FWdjRhLTB6b1ZWNXZGQjdaaGI1WnJRdWlhZGs2OTc3QVI4V2t6bnBpNVRNZEsxSHQwMS1ZVTBpaVVGNXQyUQ?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Mirum scores again in hepatitis D phase 3, setting the stage for brelovitug’s FDA run - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjF2M29fLUZkQ0NhOTdkQUNpNU5Wd0ZMRkNCZkZWOFJzVkpWNS1wY3VJbDl3MkhqeEVVZV9WVkl4OUFLQ29OVzFadC1DVWtNOHRHNktXcW1abjI5S0lkVER3RVlsbDd4NmNwUnI2VjBjcmRMTmdhUldrLVlWcm9hbWR2VVlqUVFYZWp4dVBoME11Z1Y3Q19FWkdRRWsxSE0?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "First Participant in Phase 3 Study of LPCN 1154 for Postpartum Depression - Psychiatric Times",
-      "source": "Psychiatric Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWtYX0tQNjgyWnItLVhKRWZpODZkQzNzYW0tRzNqSVFMdVJ0ZGRnbFQ4Z0o2cmVsN0RTSFpHQm9wajNNYlNoQ1FWTnVVcHhiRHBHellRajc0bWJETHpBSEh3Q09ya1BiSGNCVFFjOGhmQV8waWhwQWp5VEpodEE2WGJsTkFHOW5hVzBKRldRV1M0SEptdVc0N25GbDhSLWZUSkdRcHEzbm83OFg1M004Xw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Altimmune gears up for FDA meeting on pivotal Phase 3 trial in alcohol use disorder - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDA0MG5ZWlMwcG95RE9RR3c1Mjl1M1ZGbFFYSmRIRURBcVc4VnI2WmpfQTVVMmRaQml1TjJYVl9HaVhSM0VCTzdUREM3alIwY2lpaGtENjhEWUJUcWtIcTFKd0J1blE3aTh1WkZUQk16RFFrSXV2dlhZWnV0ZUdtcDlJQ0lwdFBlYWJ1ZWhUWUhqdjVkaUN3bWdSRWV3a1dGMlJ3VFVrbGFyejNNcjF1T2sxTWRaMm01dldkOWdYTG9sMGs?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Lipocine Doses First Participant in BLOOM Phase 3 Study of LPCN 1154 for Postpartum Depression - Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0VuV0YzeXppdmsxbGZGUnRUYXFWMThleUlTb2VHdGR4SkU5aGl5YzIzR0lJYnoxV0ItX0Z6OXdXVi04UGpSRnNYd014amRpdXp2aHV4cmVfLWxzWTgtbXBTa2JwcWdMWVA3bW8ybE9FY3VkdGhQR1JpMDQzSkFVelBNM1ZnQzVqTDdNaHJmb3c?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "PepGen Announces Positive Phase 2 FREEDOM2-DM1 10 mg/kg Results Demonstrating Highest Reported Splicing Correction and Improvements Across Multiple Functional Measures - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVdzWnhoWmJLOW0tMWZPMTRkMDJMdDNKTkZKUk03ZlR4MVRha2hEcVdTbHNJa3ZkLUpnRy1aWWEyX0hlQzhHWTl5amlCS25lVlpYdUxoRENIdzBjN0NzWk03QWoyNTQ4LVNrRTRBYWRkQWhCdFZ1ZVhGTWczOFlFR3N2QjY2S3RGRzROWkV0SGlUMk04VFJZT2RB?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Zura Bio discontinues tibulizumab in HS after Phase II trial failure - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlROekNXRE1lcG1ENHhzUzlUY3RQSXktM2dtYjVGSFpqSjl6X2w1TEFFbDkxZEo0SmFOUEVXaEJpWE5PeGRVdHRIODZ5SDlMellwdGEyZWVlMzZQT0YzU3lfN0NsR3dRZ09LQ0hlUGQ1dC1McFppT1NOYnhaN0hjTGVOeHY1OTdaWVhjLU1HRUdVdDA?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 2",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Merck & Co’s positive Phase IIb trial results for efinopegdutide in MASH - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3NnYm5IMS1SeVZyclA0Uld0QndKb2ZOM05WMW10eWFMUEtQWFRmdVQxZmNRSXY0ZnhFRDlEVVF5LVNkNFNKb2RBV3g5Z0IyZUdsZTFhaHUyUEFLdEZCc2t0Q0ctTzF3dTljNXNmOUhlczZxeUFrMUVwOHdTS2xDaE45X0tUUnlvZG1GYWdBN3ZGbl9SRHZwZXBHODlJS2JOUnNCa1k1Uk5BSWJNd1VDQWVtSQ?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-10",
-      "headline": "Pancreatic cancer: adding an experimental drug to chemo doubled one-year survival in a trial of 233 patients, from 22% to 44% - Futura, le média qui explore le monde",
-      "source": "Futura, le média qui explore le monde",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcFZ0U1h3SVVZUUxkZVM2RnF5cTc4cFdaQUF1VVdXV01pYkJFeHc0WUpnZWhjNWkxVFM0VlMwbHlZS3FsazFycTZKWllZTWQxMnBCLUNjSkZSYzRDQ01iYWJPTVJPTnRWbzZQeE02TWR5VkVNbXM1aGpHb2ZoX3JLdV9YbVZtNWd6SHZGRTA0ZWxXOUlTQVRQUzNfMTBDOEhzczh5aGxyV1p5TXdBVHEyU2ZybWVrdEptTUtDeGVvQlBLVGtYYzdoTWtXaTVhNHlnenJtZFpmUTU3ejNtc0RwbDFXLTFzMnVsYXhMNloxa2hFSkhtdjZz?oc=5",
-      "outcome": "Readout",
-      "phase": "",
       "significance": "",
       "target": "",
       "moa": ""
