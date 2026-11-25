@@ -1,6 +1,17 @@
 {
-  "generated": "2026-11-24T17:37:13+00:00",
+  "generated": "2026-11-25T17:08:43+00:00",
   "deals": [
+    {
+      "date": "2026-11-25",
+      "headline": "Bayer goes to Hansoh for ADC deal worth $150M up front",
+      "source": "",
+      "link": "https://endpoints.news/bayer-goes-to-hansoh-for-adc-deal-worth-150m-up-front/",
+      "type": "Deal",
+      "value": "$150M",
+      "area": "",
+      "modality": "ADC",
+      "stage": ""
+    },
     {
       "date": "2026-11-24",
       "headline": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers - Fierce Pharma",
@@ -171,6 +182,17 @@
       "headline": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years",
       "source": "",
       "link": "https://endpoints.news/sanofi-to-buy-insmed-for-41b-in-industrys-largest-acquisition-in-years/",
+      "type": "M&A",
+      "value": "$41B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
+      "source": "",
+      "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
       "type": "M&A",
       "value": "$41B",
       "area": "",
@@ -2725,28 +2747,6 @@
       "link": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
       "type": "Deal",
       "value": "$50M",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-02",
-      "headline": "Stifel reiterates SpyGlass Pharma stock Buy rating on acquisition - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMV82SjBuMjQ0cm12b2hwb2ZhekpBU3N6OUx6WG5na255Mm1lV2xGcU50cVIxMXJYUEdxdlFJTlNQSm5WdzRuWDlVT01uMHFyeDdxdExpbTJxOXJHdGUtQ0VwVU9LMVpBMU9pMG1YbjhKb0JnbUtndUg3QkNYVGx4cmEyNDlMUVZBQktkSHNBLXJ3X0kzX2FldVF1eDA2ZUFyMjNSbzh6VTJhaFFFZi1mbDBybXJRNHdXdk1tQ0xScktZTW8?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-02",
-      "headline": "Aurobindo Pharma Completes Acquisition Of A1 Biochem Labs LLC For $15.247 Million - Sahi",
-      "source": "Sahi",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlYtdEtDX3BOTXE4MEttRDZwdmR6ZjRuN3NuNkxWcUloa1MxSDE5T002cmtmTllxUzdfYjZMeWhWYlItYTI3VEhtOXlUU1dQSHpTQUxhMnBzak9ZalRVX2ZobGJQVDdmV2hPdXZJLXZOckJrYWh4UkF1cFdVZXlJVkdrbnRMTll6UkRhNG1oNGs0RnhwbmZfTERXZnJ5ODBHdndsUTBXVzhqZw?oc=5",
-      "type": "M&A",
-      "value": "$15.247 Million",
       "area": "",
       "modality": "",
       "stage": ""
