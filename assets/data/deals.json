@@ -1,6 +1,17 @@
 {
-  "generated": "2026-11-25T17:08:43+00:00",
+  "generated": "2026-11-26T16:49:08+00:00",
   "deals": [
+    {
+      "date": "2026-11-26",
+      "headline": "Bayer Signs $3.25 Billion Cancer Drug Deal with Hansoh - Voice of Healthcare",
+      "source": "Voice of Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTdYdERpOHhmeVBJa1AwNVZESEFnNldSQldkcHRaRXg0UkZZZUo3eEhfWjZ4a1l6RE10ZlNsM25YUFFVd2JlMWIxWWl5czFwSUN3MzFQNllZS29vYURPTzhlNkNicWZ2bTd0aVdNbHhGdE5GUjJZNnRYYzZZWFpxTw?oc=5",
+      "type": "Deal",
+      "value": "$3.25 Billion",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
     {
       "date": "2026-11-25",
       "headline": "Bayer goes to Hansoh for ADC deal worth $150M up front",
@@ -10,6 +21,39 @@
       "value": "$150M",
       "area": "",
       "modality": "ADC",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Sanofi Strikes USD 41 Billion Insmed Deal in Biggest Acquisition in 20 Years, Bets on Future Beyond... - Medical Dialogues",
+      "source": "Medical Dialogues",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT3RJN0c1aHZRVmJxQm9zN3BZbzNMdHVxX3ZzT3BxVzFQRlFXdncyWVhOOTJQNHZ0aTE1V2pzdDBxbFVfV3hFSmM1WmQtelF3bzBqTnJWU3ZNc3k1RGRKNnBEZkZqMV9RMjhxOGZCdnplQm1EODhaZ1FiTnFULU9pTzI4Uk16WUlnbVNoNmY3Z1hjQ3dMWl9pdWpuVFlfMjlBNE1uaG5ZMTVySnkwdDFRUmhETzFuaDFkSzd2TmgzZEZZcC1PLUNZSzY2Um1nQ1hHRVAyNmQyZ0lwV214VzJDQnNPb2V5VU5mNkJlLU0yZGtmR3FvdnfSAfsBQVVfeXFMTTlSc2g3VGJlRTNVVkRFR3J5S3Q2MUYzLUtaenZlb3VYSEdmR0w2VjQ5SE4yeEozNnV1UDIwV2NETVFYa2gwZkJ6UDN1a1pMbTVWMXZLTXRxaGJYRldpQUItcnd0LWlaY3N1SEpES1JTb2Z4TmhWSXJ5enc0RlF6SU96aGNWeDdVeEp5UFZmMG94bFhrZUtBbkx2ZkprSUlXX1pvTlFtbk1YbUZ0NzdDdVFDTVg1OHpUU2U0cnJ3VXRhLWFvQVZZLTZ0bU1UWUxpU2JqOWhRLVNpX3UxZGpNTGpxZldNczhORjdKTG9RQ2lfMm84aklPcG9SQjQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Bayer Signs Cancer Drug Deal of Up to $3.25 Billion With Hansoh - Bloomberg",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTU9IVENxaUxJaVBoaGFMN3c4clBJOFlpUm5JOEVlRVp3dnNFWnRPTmNPUTRmYUp3UzRMYWt6SXRqeUhnM2hSVUhxR3ltQk14ZV9tV2lJT2MtMGRZRnRtNTA0WWhHQ3FvakFwQS1yWWc0S05Cenl0QjF2S2kzU0l5VlJ2NDJzZHdyUGVRRVU4NWdVR21wNk10enNBRHE0cTJfZGVsYjJJakpvWVRxUFBOMmZxOA?oc=5",
+      "type": "Deal",
+      "value": "$3.25 Billion",
+      "area": "Oncology",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Bayer Signs Global Licensing Deal for China's Hansoh Pharma's Experimental Cancer Drug - marketscreener.com",
+      "source": "marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc3U1M1RMek1DS095YWcteDdoNjMxQVR2ZHFpSFIwX0p2MEo1WTJKY3dkYkpVZjB4bWxpOEJGRUpyUFVxX003MmFEMmhtOERvUlAxR1JMSFpfWTNVdmRSNnFkcjlVVUJoVF9LeU1tczl2RF85aDhjbmZWTUM3emwteEN1R01wVGFWYmZYY0MxeU1FY20wLTZtNExxNUtnQl9oN3QyY2VUenlLeHFZVW14UlFaRkQxMlpEdE9DdDFmc1MyNG91R3JaTEhfUDJiSW85b1htV3RR?oc=5",
+      "type": "Licensing",
+      "value": "",
+      "area": "Oncology",
+      "modality": "",
       "stage": ""
     },
     {
@@ -91,8 +135,8 @@
     },
     {
       "date": "2026-11-24",
-      "headline": "Watch Pharma M&A: Sanofi Agrees to Buy US Biotech Insmed for $41 Billion - Bloomberg",
-      "source": "Bloomberg",
+      "headline": "Watch Pharma M&A: Sanofi Agrees to Buy US Biotech Insmed for $41 Billion - Bloomberg.com",
+      "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkRvSXFiZHp4MlNQcGJVOEQ4a0M3RG9aNUZSMWNwaWRsMzI1TVhlMGRHQVd2TkZtRnFqZGxkUTRZS2tYOWo3aUdlUGJ6MFBUWjdPZU5qTkFVa0s2WHdzdHhNOVphQVA5OGo3WHpyZGhLZzBGSVFyajA4cXU0SFBudW5yelBFeG1LaWFrQjVhazNvYXo4ZkxhY0otNXdubnA3c2p5cW4tN2p4LWw5?oc=5",
       "type": "M&A",
       "value": "$41 Billion",
@@ -113,8 +157,8 @@
     },
     {
       "date": "2026-11-24",
-      "headline": "Should you buy Insmed stock today, Nov. 24? Why Sanofi’s $41 billion buyout caps INSM’s upside - Clarín",
-      "source": "Clarín",
+      "headline": "Should you buy Insmed stock today, Nov. 24? Why Sanofi’s $41 billion buyout caps INSM’s upside - Clarin.com",
+      "source": "Clarin.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeldfNjlSNnZuS2djamdVbGE3OG04eHl0OTJTNkhLcXh5V1RzVmh6NkhkSnlwLXc3b0VaU2NNX3AtVmhMV0N4ekctY0pVYnQycDFxYmEwbHJRbnVpV2R1YklOUVU0RzdLdVVMZHQ1c3B4VUFRSzd4alhMbmUxSnludjEwVHY0UG9hTjdXZHdodElJNk5VRWQ4ZlFEc0tuME5pVTBBTVFISFJ2VzVsZU9WLW4yUGNxcnBoMzlUUWtpZUgxc3FjVGtCY0J4OFlQRFdseUdv0gHYAUFVX3lxTFBCWFEwMFVVRHRSenF3RG9Rak1CSktUOXpiWmRTM0k4RjRVUDNtZ19jU1ZpZGhWWnhxWXhFZ2dxX0NPOWM0X3d2X0o1VjQ3N3U4S0twa3VtRERrLUk2TU84bV95VXNfNjFwN3M5dVRQNWlBNktKV0VKYW95QUF1M203eS1zSnNUeklaNE1sZUdXd2d3VnlyQkZPQmp1LTlWa3V1a0F5bi1pMzFabWRnSGpNazlPU1ItdFZFanpldktYUU9pVjhYZVliMVVwMEZMWm1JWktFS2RBWA?oc=5",
       "type": "M&A",
       "value": "$41 billion",
@@ -193,6 +237,61 @@
       "headline": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
       "source": "",
       "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+      "type": "M&A",
+      "value": "$41B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXFIbFVLMUs0dllpWkEtUGhDdWc4ekFjdFg3eVdPOXdyLWpNM1FOcm4tQkgzXzlTVWcxRTYtRjI4NGdOOUk3US1Ndjhtdk50ZUc0QzBlR3ZyQ2w1Sk9EM3g1ZFM5Wll6UXd0WU83VE81dDQ2eDhFdjN4eGdSX080RWVpcDhlT2lWU1lTUzIxTVlia2NJM3Q0MzBzUzNidw?oc=5",
+      "type": "M&A",
+      "value": "$41B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "With Planned $41B Insmed Acquisition, Sanofi Inks Year's Biggest M&A Deal - Genetic Engineering and Biotechnology News",
+      "source": "Genetic Engineering and Biotechnology News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUEY3SXUxQjlJZnNlbzdPSEpyTWpoQTVoVGtRcnIyTnZBMXltbUZ4azdsVHBLbXljZDRBZ0tXRjViWmU4QmpOd2pFaUk0UkxVUFdtTGttR2pUckxoMkpva2MzcEFDaElYSk42QU9QdlJaRURLNHpsbl82VXhkNE9TSFc0MTljMF9RZDJfTC00QnFiNjc1ZzVpRThzbEVESmFGNklEQzkyRWFwNmR2bUM0WGx3eEJxZmFGSXk0aVkySkhSRjhpeVE?oc=5",
+      "type": "M&A",
+      "value": "$41B",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Sanofi to buy Insmed in largest pharma acquisition since 2023 - Chemical & Engineering News",
+      "source": "Chemical & Engineering News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZlhrcjJSaEZqT0R2UGUweF9zVkFqQjlBZktvRWc4c2F1MzZfZV9oa0xwS01NeW9CLWdtMkxJUkpoTWZyZmowb2VmQUlSLUs0S2VJTHEzWXVVSTZjaENtNGwxM0F6SGNTR19QR3k4dlowVW1SS0F2R0F1WHFWdFhHbU43OE9SOFhuTk9LaTFvUG11SzdTcWt6QWNnVEFoRDZUUnc?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed - WSJ",
+      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBfakx5WUY1dzBVU0lscUpnMDNrd19fN25wcFpwMU9Wb2ZxdUpOZVJSX2I4NV9sWXlKY2lUeTduMjdLdURsaVVwc2U5dEtQblVuUS12S2RPWl80SjBYdDMzQlpKcTctOFg1SzdRdi1QSWsyakx3ZDFtWWxxSU9DdzRQclZTUHhL?oc=5",
+      "type": "M&A",
+      "value": "$41 Billion",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Insmed stock surges 14% on Sanofi's $41B acquisition; analysts see strategic fit - Invezz",
+      "source": "Invezz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRU5NUWNLUWNHVmtRMWFsaHl4V0RJdVFwV25hcFk5QkhlTU1XNDYzeDNGUlBEbGREdkh5ck53MTVHSy1vbVlXS0lHS0RaQnNQYTNPMWowTVJOODZOT2N3OEVHbUdHNkhtaEwxaWxqcVY3YUFGdjlRTGVMLWhudHRzeE5odzFVcDBJdWJBZmRDN19ieDJZU1RYYVlyTUtURU1pYjdFU1RJTmV5UFhHZmdwSDZn?oc=5",
       "type": "M&A",
       "value": "$41B",
       "area": "",
@@ -932,6 +1031,17 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbm9PRlY4enJFTHMtZnNZcXRwZ2FKYU4xWENmZklkRk00NlNRUnkwa3BYTDNjSFhBajNmYUNSbW5FalVZUXhuZXlYcXdMMEFUNG05Y3YyTnN6ZUZfd3NzcW16Mlo1VE10eUtqMFNMSFFWS0tLQWhPNG5TN1p5QkUwVUJLZVVrclhBSDhGVUZfT3E3REo2WEtFc2lJN2Y5Ump3anJTTWN2YS1yTEM1MGRVMGtqdktiZUNRY0Y1ZldzRk15NnlWSTdaZkFxM3pFbmNi?oc=5",
       "type": "Licensing",
       "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "J&J looks to buy Ollin Biosciences for up to $3.4 billion, FT says - ETPharma",
+      "source": "ETPharma",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSEg4cVdEWlY5T1NmR1JqTUl6My1ubGVmZk9fQlZabnBVMkJiWDVid0wyUGY3Q2Vhd2RHLWFnQk56NFpadU5wTk5QQnYtY0psS0dfQ3FOcHJwYXF4UWtCUF9pTTNmR0dhMGoxanJOUk1XZlloR3psRWJULU5IS0NtM0k0TE9vWFVtRWNsYU1xZVBBYzROLVlydkxGRkxnMS03cmFkQTdleWtGdm9keHR0TExiTGI0U0t6VU1UYUhwNU9ldThfSzIzeXF0M1JJbVNWaEF3MG8xaGNhNDQyV2pZV9IB5AFBVV95cUxNck5iN2Z0emRXQUhiZzNnbU1xREVFZWRRR2VyRUVzN181cW1ZdGpHY3UzbFktc3pLU0REbFVFbFJrTmZ5WTgyZ3lkel9NdUNZUUd5cDBqa0h1bGRfVVNmU2FROGd5ZWlhYnAySDNZQm43RE9UbG04UVRyZkp5QzNKRThHb1pUV3MxaklwYi1RdEtpNXFVcHltdHczellfVXB3dWQzb3VYbUFWWlZ4N0VyclRQTVNRS3JQdFBSWWh1bkFZdnllblJoOExKdHFQTTVxOWM1UzdKOGo3aGh1a0h3eWlyTUo?oc=5",
+      "type": "M&A",
+      "value": "$3.4 billion",
       "area": "",
       "modality": "",
       "stage": ""
@@ -2015,7 +2125,7 @@
       "stage": ""
     },
     {
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "headline": "Germany’s Merck to Buy U.K. Biotech Silence Therapeutics for $1.3 Billion - WSJ",
       "source": "WSJ",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2IxMzhfeTJQa3c0T3dGazN0MnB0VWZXYlpxRDlNdVE3WXoyQUZJYUo3dnlRZVRMckUzZzRvUlVhUXR3UEJRaGlleFNwUmc2UGowYjVOdVRVR3hBREM0eFpxckdHQWVFQnF6VTZEMjYxMFkweVV6R1FnZkdTTTBZWXZqNXdfWU1zTjZDMDZIcGRGWXVTTDg1QlpGbjAyX2JGeUQ2UjFNQkNob2RNNEh3VzN3?oc=5",
@@ -2638,116 +2748,6 @@
       "type": "Deal",
       "value": "$100M",
       "area": "Neurology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-05",
-      "headline": "CSL to pay $355M upfront to co-develop Alentis’ kidney and liver drug",
-      "source": "",
-      "link": "https://endpoints.news/csl-to-pay-355m-upfront-to-co-develop-alentis-kidney-and-liver-drug/",
-      "type": "Deal",
-      "value": "$355M",
-      "area": "Renal",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-05",
-      "headline": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVBLWFpqcFRYNkNxV3A3cVU1aUhFdFNwX2VMbXVXZV9XanZxc20ycWpYS2Qyc004UDFHRGJkQlpsZExWV055TUpmREpXMGl0LVh4aS1Lci1HTTZjSG5SbDQzSVhBdXhKTzZ2MU4xejByTHpWZkx6ZGZycVd4V0I2SzlqQlZKWVJMSzVHVVJSdlVJZ1VhQUxsYVJLVGFfeUlxU2VTOEpESUNRTEZtTGtYSDJ5cnRQdVB3aHFWWUE4QmRHTXpvWnRlNHJiZUpJQ2Q0?oc=5",
-      "type": "M&A",
-      "value": "$945 million",
-      "area": "",
-      "modality": "Radiopharma",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-05",
-      "headline": "Germany: Medios completes majority acquisition of API specialist Caelo from founders - Investors in Healthcare",
-      "source": "Investors in Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmNpUUR2X0pPV1BoajZKUnlDTFkwSGVsM0lMYURRMFE3X2NsX1doSzlJaDV2OGNMLTZxSWI0WmxfMnltWktNOWplWjFiZENxRERIZEJzSGtxanh6LUFKd0FWV3RkUzN0cGZEQUg2NlVjc2x3b3dhcFJFd2FiN042U2ZqcldmekhKN3c4MWN4dFlMc29fendxaHM0bTZLMVpnTXluOVJ4Z2d1eV9ldTd6NTF3Y3QwOXl4Y0w3Vl82NFlXd0N3SWRaOWxWSXRWNnl1ckgxQkROY0czYXZoaUE?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-05",
-      "headline": "Alector inks global license deal with Genentech - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVE4dUFxM2xTYWExMVVxMzBncVRYOTd6U2V1V1Bha2hjSXJlc2FHZEl6eE5ETnZJVFlRa0V4enFDT2JpbzZTUG44ZjdLZDg3bjRZdWJCR3lrLUlvLWExb3RXQXUwaENXTGctVWQzQmRGV0JkdjNvbzdULXJyRThDTWFkZHowRUw2cEtPYUhPYVh2bXlHMGww?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-04",
-      "headline": "Aurobindo subsidiary completes US CRDMO acquisition for $15.247 million - scanx.trade",
-      "source": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWdBMkhzUDR6ZEprMVRrMmFzYVZlaF9jNFFCTGJwaFZFdnRjcDF3Q2tmQy1GOFVvcWhDN2hzVC1jd3MyZFdObUFtOHUyb3BhRHloSHJ2aHdrZnRwd0h1ODlkYUtuc1BfZDRyaW9OeXlsQ3dHSkRBV2FXUjhFVF9rZTBuS3BsMmg3MlYwdko4ekVLRS1PcFhXSnZnYVVHXzk3Z25lNVowVl9vd3BKcXAyOEZwc2Y1bUxMc3RTNlNSOA?oc=5",
-      "type": "M&A",
-      "value": "$15.247 million",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-04",
-      "headline": "Aurobindo Pharma completes A1 Biochem CRO acquisition to build integrated CRDMO platform - insights.dsij.in",
-      "source": "insights.dsij.in",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjIyZHhDbjVHZjJsUjlGZFFOQ1FQVlFQY1ZtMDVfSFZhSHRETzJVM0U2T1RRZ1k3SFJuQ0lxSzBSdjVYaE5fRjhEcjZJcm9KX0RzdkNEZHgyUTRtVTEzcFQ3dVEwaTk5SE4zWUFRbWhCUEFiN0Nyb3ZXS1BRTDBMby1jYU56T3h0aUtjeDF5Y3VqeHp1T0pONEllYzY1QjFTc0x2ZFdkOHpqc05yUjhHZjBJdmhJT0FJYlc1OExKeXVWQ2pxek42WFIxNA?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-03",
-      "headline": "Eli Lilly’s best-ever weight loss data; Sanofi, Regeneron re-up for $1B upfront; and more",
-      "source": "",
-      "link": "https://endpoints.news/eli-lillys-best-ever-weight-loss-data-sanofi-regeneron-re-up-for-1b-upfront-and-more/",
-      "type": "Deal",
-      "value": "$1B",
-      "area": "Metabolic",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-02",
-      "headline": "Denmark: Samfara completes acquisition of Chr Olesen Synthesis - Investors in Healthcare",
-      "source": "Investors in Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFVDUHRfMHFra19sNkV3NlRkMmpIdFV2VXJRZ3JjemRSdWVTWlppWFZEVVFPT0ZCM3k0dXhGNHEwdnJ4Y2gycGhXQlFZcXgwUDFiOUtKSnZ1OGtqRDFfV3VTVHdHRWJueWpDXzVWcHhGbzE5R2htRVJxUDlIS1B0emtXV0VDcXpOaG5IMGR0eUIwVS1rWVRrN2RXZEhwWXVCT191N01peXpZTUhUWFVQVlZ2SDRkUDl1OVdHU2t2VHk?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-02",
-      "headline": "Novartis takes rights to Abogen's mRNA T cell engager for $575M upfront",
-      "source": "",
-      "link": "https://endpoints.news/novartis-takes-rights-to-abogens-mrna-t-cell-engager-for-575m-upfront/",
-      "type": "Deal",
-      "value": "$575M",
-      "area": "",
-      "modality": "mRNA",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-02",
-      "headline": "Summit partners with AstraZeneca and Daiichi; Eccogene earns $50M milestone",
-      "source": "",
-      "link": "https://endpoints.news/summit-partners-with-astrazeneca-and-daiichi-eccogene-earns-50m-milestone/",
-      "type": "Deal",
-      "value": "$50M",
-      "area": "",
       "modality": "",
       "stage": ""
     }
