@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T17:54:14+00:00",
+  "generated": "2026-11-27T17:40:10+00:00",
   "items": [
     {
       "date": "2026-11-25",
@@ -1031,6 +1031,13 @@
       "category": "Partnership"
     },
     {
+      "date": "2026-10-03",
+      "headline": "Supporting UK Biobank’s move to its new HQ at Manchester Science Park - Arcadis",
+      "source": "Arcadis",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTl2bktjbXhYeTJNRV9jaU53aFF0MU82RzJ5WTdVdkhVa3dZSkNGblNCWk03YkczRkZSTGJWWkNSUHg2b21xYzlIZjF2bEt6VHVEelVNT1NHUnpQWGxoMWZ3VzE1d3FBYm5aNmp0RXdGVUt3eWRwQ1BKVjJLY014V3BXeGNMa0hXcXJzOVd2Mko?oc=5",
+      "category": "News"
+    },
+    {
       "date": "2026-10-02",
       "headline": "A Biobank Will Be Established in Latvia to Combat Childhood Cancer and Rare Diseases - Inbox.eu",
       "source": "Inbox.eu",
@@ -1459,10 +1466,10 @@
     },
     {
       "date": "2026-08-11",
-      "headline": "Risk of Epilepsy in People with Adult-Onset Hydrocephalus: Insights from the UK Biobank - European Medical Journal",
-      "source": "European Medical Journal",
+      "headline": "Risk of Epilepsy in People with Adult-Onset Hydrocephalus: Insights from the UK Biobank - EMJ",
+      "source": "EMJ",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzVZWV9yT3FBeVBwRmJMajZrUFlHdEE3akhueWRQcWVIRjZhSnRlajJvaFM4QjV2dFdJX29XSWhLUUxXdXZsNGZfdi02X2t4eTYzeGdlSHZEUU4zcEJ4cjQycmVMTndnWDFHQy1tWWNCN0dEeFhtWUNCams2Snd1UXFyeGt4dmFlUDgzR0t1Rm1SbmpwR2tBajM5MzhJaVRhQXdyUDg2WnRfN2Vfc3EzQlAtcF83YVVxS0xrVVdPYVBqeXR1VVA3RFM5cmczaW1QT3BrN0M0OA?oc=5",
-      "category": "Research"
+      "category": "News"
     },
     {
       "date": "2026-08-11",
@@ -2093,13 +2100,6 @@
       "source": "Wiley Online Library",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zcExSdWc2WFNVcmloWjFmcl9XczBxVHFjbUs5THFNUGIyZ0wxNWs1WWplcXpfU0pncUlwUkpJUXdCejRzM01GTFJFemN3aFlhcXBBck1kXzNjZDJ0Nm9hcnBkUWlINTZpRHBF?oc=5",
       "category": "Technology"
-    },
-    {
-      "date": "2026-06-23",
-      "headline": "Association of four non-insulin-based insulin resistance surrogate markers with colorectal cancer risk: a large-scale prospective cohort study using the UK Biobank - Frontiers",
-      "source": "Frontiers",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPel9hNmpQNVBTc20wZWExU3FSSkE2a2IwTS1MU2VzeUFRcUN6NFhuX3RZOVdYdUQ3UVNhLW1jakJTWDBhY1NyUzVHdzhwZ1p2aFljTWFueTZpaUxxLW52VTU0RFpQS3VxeWNvZ0tMU2ExSDVzRmsyMWlKYWVSYjE2bWcwMlJQU3MwUlNfRG1ibXhTQ25xLWc?oc=5",
-      "category": "Research"
     }
   ]
 }
