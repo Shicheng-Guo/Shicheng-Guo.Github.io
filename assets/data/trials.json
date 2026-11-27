@@ -1,6 +1,61 @@
 {
-  "generated": "2026-11-26T17:20:38+00:00",
+  "generated": "2026-11-27T16:59:45+00:00",
   "trials": [
+    {
+      "date": "2026-11-27",
+      "headline": "First patient receives isupartob in Matisse’s Phase II sepsis trial - Yahoo",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbjcwZlMtMFVDNTlJQzc1b2NGQW9FVzFGUDdKNjNBenRUQmNrNXZTNzd5ajZqWkZfQkxlV2ZyQmhlUWJqX1M3RDRZWGtEV1hiSHZlbHJGRVZQcUhvWlB3eVVwQkhIMGF5S1JKVjZNeHlxT1ZpZ3l3UXlPT3RENzFwUmVJeHFhOHNrT0Fja2pQSWdZMWxPM1NqbnQtYjF5REZ1?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "What Did Phase 2 Data Show for IL-2 Therapy SIM0278 in Atopic Dermatitis? - Dermatology Times",
+      "source": "Dermatology Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUFhXRzlWUkdkaWx6RG1MSElhS2N0c1VSWTk1Y3FQYXNQVzBDRzBsUVZZN052YUNLOXpPbmE1c2sxMFY2TEtmSHpWUF9QeUstc0QzcU10SGFiSGdSUkFMM2h5bEdEaWd3WWhEQnRVbVJzSVk5bnA4UXAzVVl1QTdYQ1ZOTTNacVFmLVBqQUFYZDVBVWlobUZoV3g3TTNhTjZCclNtcUtCMA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "Simcere Eczema Drug SIM0278 Meets Phase 2 Goal; 75% Skin Improvement Rate Shows Only Numerical Gain - Tech Times",
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZkd0UVhDaE9LWDJHUDZCS2ozS3FCYXpyZ1VrQm1jaEJSMTQzSEdmeHlKWFVjZHBBWkRWOUliRnB5Qlh0d2pIci1ZNkRqQS14bEJXNG5LeVMxdUNocUtNNGNMazhSME9VQ0M0dlpDZFk0UWJGMUJpdkY5emNocHo5ak1UYzNzcjJqWFhoVm5ZQk93NlpyWVZDMTFFRUswZ2JmRlF2R1RCa3RabEdlQnctbWRsaUZsbC1iMmdmRUFzaU9ZNjZGcEpxYnhWajVYU3QwdF80aUdiQVJJQmt5SDNpM0RhbFdTTjA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "Semaglutide and Alcohol Use Disorder: What the Trials Show - The Clinical Trial Vanguard",
+      "source": "The Clinical Trial Vanguard",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVndpdENiVGxKMWFsYjVMRFlIdlRucmhic2NoVkR3VGFmSXlkckJHQ28ySk1mbnZLdzRTZ0F5SWZZMkRrS0tBdVJ4SWFXcFRBdVFkWEotT2hzN3NGUHdWZmJzU0ZJT2x5OGdCWnpQNXlGb0oxcUp1Vmw0VGRVWWNDY3NCVFhPSXlCZlZ5VHVULXZDdHlGWURwSGZNWWhpWk53ZWZEUEprcHowYk9ZaTFMOUl4NlU5X1E?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "Lundbeck faces pivotal epilepsy readout that could be a ”game changer” - MedWatch",
+      "source": "MedWatch",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00T3dPcVNUc1UyXzMwOTNCeVhQYnFQY0FQOW9MVXNGSTZrc2J4M3lEa2E1emdOUUQ0RzNPRXNOYzNiYW9zWFgtM1d0ZlcxbXR6aXZwSWdxWDZXTmYzOHl0bFJxOWlSZnJiTWZjVkNTTQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-11-26",
       "headline": "GSK’s Exdensur meets primary endpoint in Phase III EGPA trial - Clinical Trials Arena",
@@ -107,6 +162,28 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QQ0dtM0IxdnBBTDB4Y1lUMkYyVHlVUWJuc0RJdUhaYUtpY1M0eU92ZURVZENEeHByLWpoNTZubVhRRjdwQjZlaVdLV1ZBd2ZlUkE2bTJBQ2F4SGJMdnlTMDRIczloeDBHTlJQLVhB?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "New URAT1 Inhibitor Quickly Cuts Urate in Phase 3 Trial - Medscape",
+      "source": "Medscape",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjFKTG1CZUVnVm56Wm1UZXpQSHN2U3JBSVEyQnRnRHUtcEhUc0dZN0F3eEN1NXg3QmRMd0FrcHJyMlROLW5XTjNRUEVZako5cXBubnJOVDVfLXh3NVlOeFNfRXkzUUFsczl6cEFWdmI2aDk0TDc4bDZtbDFmVHB3MTJLWVpORHQ1UjJGeWZkempxZWhsU3pTeGxYRTVvWnBCcUVmZTNqWWU?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "Analgesic new drug from a subsidiary of Yangtze Life Sciences (00775.HK): clinical trial results are positive, with cata… - Longbridge",
+      "source": "Longbridge",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0cThrbVRQRGlhM19DZVJ5Y1B0ank0b0czRmh1MTlWWDdGVFFmUGREdXJXeUxYTnVhNmpzZmE4Y3B4eFloc24yME5uYkd1ZjQ5TjI4?oc=5",
+      "outcome": "Readout",
+      "phase": "",
       "significance": "",
       "target": "",
       "moa": ""
@@ -327,6 +404,50 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbGctMEZEME9oTFhKX3k4VVRRSVBkdHQ2R2JacS1JREQtNnJ0WXB0RnA3a0JELTAwTHJQWi1BUjlOZExsU3lOaUM2a2hQSFhQaWhtZHFHS2Y1dUN1TkJBSVJkSmU1MXgzWW93Y3RsWW1GVnVXMU5ib0FxbDN5am5lSEt3WlEtQ3BqMElGWHVDSjl2RzlqaWFMS3ZqVkZKbXg4dDN4MGh0TUw3Tnl3MTlpNVVYenRXUUFHNTBBM0JMajdzc0toM3dxRlQ0YXlMVE52MThRZEJyLUN5dVdxOG5n?oc=5",
       "outcome": "Readout",
       "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Helus Pharma Inc. (HELP) Phase 3 APPROACH Topline Results for HLP003 in Major Depressive Disorder - Slideshow - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazdIdGxNbU04YzEzZmJrZnYzVWpQY3NBQ010WU9HdDFiRnlCQzlaUW1GeUZfSDFLVjZuV2gyRlFDaE9oUDFWOE9DZGF1akxYaXM0SWVHWk1JaWJFSE9qMHdyaXhQOUJZUjZvcjlBcUNKVUxPWENYVWRvUG15dURjX3JKeFNMN0RzZUFqaU5nWXlmVVdaTXdpNWZ2SUZRcVJlb3FQZkxTWG51Zm5tXzJMTzIxWDQxZkYwbFgwTWpTUV9JNFRx?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "CG Oncology to Present Late-Breaking Phase 3 PIVOT-006, CORE-008 and BOND-003 Data at SUO 2026 - Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbTFEZV9QcjdPOUl6ODI3MnN6LWhnZHpsY2k3WUI2SmltVEFxbC1HM1FJV0xOMzJJWW1ycXpzSDUyZFhEM1RMdHBSZlEzbzc1NVdYS3lHem5CYU1MSGxRSFhRTzJXeFRCNld3NkRiT2VvMl9wS01RRnZ4LWxoTnZidDR1dERhY2wwS1ZVbjN5VVVlck1iZjVZejhUaUlEYzVnNm9KYWFmR28xMDdWcXdfWmc1MUhXTDA4emFzR2pxRzZtR2xadklKdA?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Bristol Myers Squibb (BMY) Reports Positive Phase 3 SLE Trial Re - GuruFocus",
+      "source": "GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNW0xTEVySnJrZUYyVXRYUzEzZmJ1cm9qanY3b3d2azg0ZTVtWTdxQmFNQmtMTkxtaG1ITUxmaGRhQW1qbHZTMTFxM2JlM3FPWVNjYUd2QlBRLVhaQUtpOWUzNkN0d3JybXdXRFZoaXFCWkUzX3hCQ21jLVR3bHpBNnQzVUNEREZMMkVDZzlJYlNLWmsyMzRtalhkd3pPRFpIZzF5OFBNeTlhQjlZWHc3LUdMNFBwZGFYSVE?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "BMS' Sotyktu meets Phase III lupus primary endpoint in one trial, misses in second - AllSci",
+      "source": "AllSci",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXNXNFJrT2FRU3J3WmNYSDdKcTc0T1NDU0FfWFJLRFN3aG5WZVFzYUd4ZTBld2xFcnJJbU9hd0RsdEU1VHVrSm9pZlQzc1U2S2lRbUt4dGsxVnItXzBtTkxuNGxzOXpOd2JiLWU4bDlNWFlvR2QyOERLV2gwMkx0Q2FiSUpfZFpHanNwOFVpVXpTUQ?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 3",
       "significance": "",
       "target": "",
       "moa": ""
@@ -1433,17 +1554,6 @@
     },
     {
       "date": "2026-11-19",
-      "headline": "Mevidalen Misses Primary Endpoint in Phase 2 Alzheimer Trial - NeurologyLive",
-      "source": "NeurologyLive",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjNpa0xhZnFlYW5tVFVEcFVhUEFCY0ZzU3prdFRNS1Zqd1dBaTlEanhtY3FCOTVnRzNja3k4UFdtRTJEdnk2SXl3TFV1Y253a1FmNERRX2tRTnVza29odl9zeWo3MFNCY3l3X21idkN5czhBZXV5Y28zLVNQaVB0RlZiMU9qbWNySEhHTHB3OVFJZXF6ZHBR?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 2",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-19",
       "headline": "First patient dosed in Emmecell’s Phase II EMERALD trial of cell therapy - Yahoo",
       "source": "Yahoo",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTZHWjJuRUpRekZxTVh3ZW5rSHNZWkpIUkNlUkpaUklpZWVNeVBFU05VZTBMYmhyZHNQMV9VUmdwNmFkV0hzQlpUU1JkVW5rN0JULVZYLUVWdkFsdUktbmlIaFlMX0ZYbWxjM3FXbEhlb05RNU0zUWRmRloxV3VlLXZrZGhqMzEyeTV3ZWtILU12ZmhoQ3F2Ug?oc=5",
@@ -1796,6 +1906,17 @@
     },
     {
       "date": "2026-11-18",
+      "headline": "Mevidalen Misses Primary Endpoint in Phase 2 Alzheimer Trial - NeurologyLive",
+      "source": "NeurologyLive",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdjNpa0xhZnFlYW5tVFVEcFVhUEFCY0ZzU3prdFRNS1Zqd1dBaTlEanhtY3FCOTVnRzNja3k4UFdtRTJEdnk2SXl3TFV1Y253a1FmNERRX2tRTnVza29odl9zeWo3MFNCY3l3X21idkN5czhBZXV5Y28zLVNQaVB0RlZiMU9qbWNySEhHTHB3OVFJZXF6ZHBR?oc=5",
+      "outcome": "Failed",
+      "phase": "Phase 2",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-18",
       "headline": "Merck axes $2.7B BTK inhibitor program after seeing phase 3 data - Fierce Biotech",
       "source": "Fierce Biotech",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVlaZmo3dVBjNkQ1S1pvR3BfeHBGV1NjNmJjT216eXNtaG5ySWZ6YU5RZWNuOW5lSk4zbHA5ZjloNHpEYkNINnVENTdyQWlIYTRWVktWWmtLbDlCR0RyRGY1SlJiOFY3eVpQdzZtQ2tPTzJBR1N3ZklJVmZfQWwtVDdBdExIX0M4YjNueDlIbURsaFhEZ3JfU2R0N1RXTUpZRWc?oc=5",
@@ -1890,17 +2011,6 @@
       "outcome": "Readout",
       "phase": "",
       "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-18",
-      "headline": "Spectris Misses Primary End Point in Pivotal HOPE Trial for Alzheimer Disease - NeurologyLive",
-      "source": "NeurologyLive",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjZlT2N1VEpVdVBKYUNMdS00eEFMY3hwcl9LRENtQ29sX1VITHozd0thVldGTDFSUHEtNXlvSVluY3ZYaWJMSGRfQ2J4LThSckFBbXd6dG94Rk4xb1U2UGJUb0Npa2RmUi03OGx2WnJZVUQ5Y1k4aWxYOVR1eTBfMm1zaGU1SlVsdndnd05YeVZwcnpFX2tQYi1MY1ZPUmZFUU5vZEJZbzU?oc=5",
-      "outcome": "Failed",
-      "phase": "",
-      "significance": "Missed primary",
       "target": "",
       "moa": ""
     },
@@ -2065,6 +2175,17 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53ZVZBTzNyZ0RpQWhMd0ZqMldnQnVzcVV1cTdlZE14bm85TG9KSnA1Yks3bzdiVldxZkhzV0JfdDZDdDNDdmwyTXpFRXFYZzVoSkZDb3dXaV9oSjduaWthM3h5VjBQYk1wZjRKLUtB0gFyQVVfeXFMTTN4S1JRZFo2QlhZZWtTTWFHQ01WRlNROFlXQTB0dnlIZGd6czd2Nm5sZVlkcUpRa24wLUxfcHhnRERwNTNRYjZOQ3ppRDVpSmpTSkNDT1dpY21BNGpGOW9NU05EXzdUTHZLNUdKSXhKZGln?oc=5",
       "outcome": "Failed",
       "phase": "Phase 3",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "Spectris Misses Primary End Point in Pivotal HOPE Trial for Alzheimer Disease - NeurologyLive",
+      "source": "NeurologyLive",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjZlT2N1VEpVdVBKYUNMdS00eEFMY3hwcl9LRENtQ29sX1VITHozd0thVldGTDFSUHEtNXlvSVluY3ZYaWJMSGRfQ2J4LThSckFBbXd6dG94Rk4xb1U2UGJUb0Npa2RmUi03OGx2WnJZVUQ5Y1k4aWxYOVR1eTBfMm1zaGU1SlVsdndnd05YeVZwcnpFX2tQYi1MY1ZPUmZFUU5vZEJZbzU?oc=5",
+      "outcome": "Failed",
+      "phase": "",
       "significance": "Missed primary",
       "target": "",
       "moa": ""
@@ -2624,127 +2745,6 @@
       "headline": "Amylyx Pharmaceuticals Presents Results from Phase 3 LUCIDITY Clinical Trial of Avexitide in Post-Bariatric Hypoglycemia at ObesityWeek® 2026 Annual Meeting - BioSpace",
       "source": "BioSpace",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOMlY4N1FoMVpBSFctOVA1cXd0dVRKZWlReGg1U21fMGZFcVBRdXQ3TTd1eGN0Zi1xcTVFZjdmbmROanZLM0Y4dmVram13Z05uV1B3TEJBWTFIMlZzZzBsMHBIYnBXVHlmQmZxZlFjM09MWm9QYUd3b0cxeUFMV0pqdG9Gbjl0QWctTmFyMU1Ca0s0bllNQ3ZTeEpJWS1TVElrYzc3UUxuRVhSS1RhS040d3NUVXhFYi1nd1Q4Q3dVY1VaLVRDWjhUdk8zRGs3V3NSLUt6Z3Q3cXNYdGZIUm9pQjZjRTl4YkxfQ0NJS0VtbTNLRk9RYkJYTnZ3RXhzTDhaYk5fVzgxR0FHRTBNNkp4bFBhUi1ZQXA1Q283VDZ0b0w?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Vivani Medical Announces $5.1 Million Private Placement Following Positive Phase 1 Results for NPM-139 - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc05lYlVEQ3Z0Wllvb0hqTzc2Ny1OYXNPNkRWNHNmUkEyMER0dVpKWnRHMTF3bmU5WUJQb3VKQzI1Qk5tbUZZNGtOMVNBczVaT21GVm0tZ0RxS3g3Ul85TTZGMnRxY2dYYTRQMmlZVmU5dEJZWmtJa0ZTcDBLa0NwMWswdjlXa2hjckZmUzNqUm9ERkFKOFJpNDhmVGE0OTd0T244RzF2ZFZKUURKNHRhR2hFRndDNXRKaEcxeDZrbnpFVHlOT1RmNTNXY1ZmX2J6NFYw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 1",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Aclaris Therapeutics Announces Top Line Phase 2 Results for its... - Quantisnow",
-      "source": "Quantisnow",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXBZZnctczdxV1JyYUtxam55UGNWQ1labkt5dXZQVGh2aWl2WHZ1UXpRN0pTMUl6SVR1R2JlUDF4SkkyR0JvVDJfY25LbFItN3drVmdUQVVtbU1jdUdtampxd3BWOEdTYXZsR0FBY1EzSndtc3FBdDY0M2h3VHlMTGUwTE02ZDFJem1kY3RkRDdrdlZpMTFCZE9VS1BERUwxWHhyemZBVkxrUQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "HLB Therapeutics plunges as corneal drug misses phase 3 primary endpoint - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcDRsYm1QSkxTSFdXekNkdVlodHRCVHZ5RkZQYXllT2xUQTVmNTlfa0dlWTRXVnp3R1NSZExEUl9ieUs1WndfQkQxbFo1X0gwM2dtTEhOeHhzZlk4UXhDM3AyaHY2aWhXWmR3a3o4NVRmX0R3akt1cVBpY3hLOUhueNIBlAFBVV95cUxQNlUwUmxPazFGVmtwWXNMV2c0S0JvYS0yME1LWVJERFBWTjdRTW16ZWdraFZRMjdGRE42SjdHZy1qbHhSOTVESFFNcFFCYVM0bEx1eHZDTEc1eU1feUJBVTFxMENEejFsZ29vX0RWVWtFQ0hQZm5RaGR5Zno5TEJGdWdrdmNKREV5a1VvU0xtMktXbXRu?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Aclaris' Bosakitug Misses Phase 2 Endpoints in Atopic Dermatitis - Dermatology Times",
-      "source": "Dermatology Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYkIycGFfcnhZUFprMGFtNXpKV2kzZmp6emlic3hNTExaMWxfUUpPdGh0SW1PcTd0bEJUeTRiLXZkbjZfRngxbFZzcTVsOWM1bE45S25aaEdoNzZIVWp6Nm5ZMEx3WjNFTTlRWlJDUnhxbzF5X0hjbmctbFZKaEt6b2lQQ2tQZ2RRd3pvQjUxNGZwU295RGJhNEFZdW8?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "An eczema drug missed its trial goals but lowered markers tied to immune activity. - Stock Titan",
-      "source": "Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDZQcmZOdUw2VWF6WjVaRmtuc2xkQUNDeDh0Yk1tU2lUV2hEOXVabXk5Znpoa0Q0U3ZnSHJ6MXFlUVVkV1JycDE5dXNtVnYxZUVGMGNHekhIZVlFT1RYRW1FSjBUZVFuT0IyZDdiTEgwQWtsTGxZWmNlRUFQZF9NR29FdXZTX2xrc01VLW9oNzRSeVBlcVVKQzE0elBvVEg5ZmNjOVkzSHN1cXlfTUpyUkFuTWhUYzM1bVB0R042Uks?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "HLB Therapeutics Keratitis Drug Misses Primary Goal in U.S. Phase 3 - Seoul Economic Daily",
-      "source": "Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWG0wZ2tMLTF0X09CbTUyeGVfb2RiWjN2ellXeGNsZnFXLWRYWW9zb2N6dDZVMVBOQ1ZZSHV0Ul9pYTFsVkpLVTdZZXlqM0h5ZjdUSzJWTThud0Z5Y0pTNUxMaDY0NEJxZXZHRUh1UXhvZGhwSWRMLTRzWEFuT0pxVVB0ODZ5djBGVUdic1FNamE1cVBYSGFCTDFkbXhPT0pRTGc?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "HLB Therapeutics Hits Limit Low After U.S. Eye Drug Trial Misses Goal - Seoul Economic Daily",
-      "source": "Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2ZPbUV1UHpOQWtnejNwMjBObUdCU180T29DMVlUVkV0RmxMUUlYUThBNEg4V0VKX0V1bEZMMjRqc09fNmlOaUtJNkZsNG9QSDFxWnZGTGE0RDBha1M3a3dBVkUtTVlsdFV6TFphcERJa0h2S29QTThHcG1VN2tHaE1EdUg0bTlRUmx1SVJIV0dyM1NhUlE3MnpnLVlXSkk?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Aclaris bosakitug misses Phase 2 atopic dermatitis endpoints - grafa.com",
-      "source": "grafa.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWGZ1aUEwblFxYWMwaHlTendEd0FSa3dJSkhfd3BHWWNuT0lKUkRGUzlCTktGcnJQN09JaGtSRWo3Tk1kMmtwc0J0dnJTMHoxTWRvUTc4UFN4Q0lTNFd1Z3NkcGluSlU2dFZENUVnN3BsT2xfRkN5QnMwYk1SSDBkRU1uUldwZ3c2REgxbzlfX09xM0MtT1ZNcW5GOGl4UQ?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "AriBio's \"Oral Dementia Drug\" Meets Primary Endpoint in Global Phase 3... \"Slows Progression by 31% in Patients Not Taking Existing Drugs\" - 아시아경제",
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tUkpaelJ4X21fOVpSbWg1N1VlUGR6dThwT3ExQ0x0b0JtYXVMQW1faU5oM0Frb1ZsQjJhZlY0UWl4YVRoeXM0VXhzTlItX2hVbkpBbENfa01oZ2d1aGItWjBodGc?oc=5",
-      "outcome": "Success",
-      "phase": "Phase 3",
-      "significance": "Met primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Cognito’s Non-Invasive, At-Home Therapy, Spectris®, Showed Consistent Slowing of Cognitive and Functional Decline in Early Symptomatic Alzheimer’s Disease in HOPE Pivotal Study - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPWlZaMk5VZzNZZ0FTemlqVHZCMGFZcjVsTmlTdHVXb3FtaUY4SDRBLTB4cXllREJTNzBmaWZfM1FNeU5xTHNWSUlHcFA5MF9TR1FKUFZkb19jeFJYNGtWZUFtdEFHNTd3bmE1d0lKd25INVFKMnp0R0xCb3RSSXJvbDFzekRKSWRDTnQwb2N6M1kzVU5Hc2lFSzZtVHBUMVFONlpGMDlOclRlU0tuQTJzRWczNm1VbFNkVXpycjZVa0Zya185U0xQdFBIS0NwQnhnMV9TMS1Kd19qR2dzMUJ4WE03Z0d1R1Q5WEE1cjNxMFJ1MUxZSkxQSVdLVTdXRkRMNVZ6bk5VYWI1QmxXc3BjUTEyM3REdmFPU1NKZG4yalFvNy1nRjlmdXVTWEdaLWtQSTdzVFNhLURPWURZRWpSNnNKVGNiWjFFWUlv?oc=5",
-      "outcome": "Readout",
-      "phase": "",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "CG Oncology Reports 68% Reduction in Bladder Cancer Recurrence Risk in Phase 3 PIVOT-006 Trial - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVlSTUpiOTNzRXhyeWUwQU9sV2hub0w3WS00UC14NUpmaFRySGdUYkFDaFhUbWJha3hsYWdxRGdoamh5Mkt5U0FkRTVvc3JRcFI1R0p4eFgtVGs2T1hpUExhZm9ZMktwZnc3VkRRLVNZa1BIaVpkak9aVWlQR1FFamFKd0J2N18tNnNodGpYTC1EaXZoMHJRbw?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
