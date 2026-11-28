@@ -1,6 +1,17 @@
 {
-  "generated": "2026-11-27T16:59:45+00:00",
+  "generated": "2026-11-28T15:50:39+00:00",
   "trials": [
+    {
+      "date": "2026-11-28",
+      "headline": "Cognito’s Spectris Anti-Alzheimer Headset Misses Its Primary Endpoint in the 673-Patient HOPE Trial - Technology Org",
+      "source": "Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVFxUmhkRUlsSFBRMjk2Nk9kdlVKMlZuUF90eC1DaXJWaFlDc3lHMjlVMll2WFJ0b3R3X3E3YUpuOVNZeUtwNFdMZlpHS2Q2aENTVVJ0YmYzTDJSUk4tTFdjc0pmUE16RU5lLW50MkxVTFg5c0hPelNTRF95M3hjTEduS0pXUWgtNk1PTzlJYm9QNWI0OTloN1NickdyZW5LaVJLVmMwWDllTjJ2?oc=5",
+      "outcome": "Failed",
+      "phase": "",
+      "significance": "Missed primary",
+      "target": "",
+      "moa": ""
+    },
     {
       "date": "2026-11-27",
       "headline": "First patient receives isupartob in Matisse’s Phase II sepsis trial - Yahoo",
@@ -50,6 +61,28 @@
       "headline": "Lundbeck faces pivotal epilepsy readout that could be a ”game changer” - MedWatch",
       "source": "MedWatch",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00T3dPcVNUc1UyXzMwOTNCeVhQYnFQY0FQOW9MVXNGSTZrc2J4M3lEa2E1emdOUUQ0RzNPRXNOYzNiYW9zWFgtM1d0ZlcxbXR6aXZwSWdxWDZXTmYzOHl0bFJxOWlSZnJiTWZjVkNTTQ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "First patient receives isupartob in Matisse’s Phase II sepsis trial - Clinical Trials Arena",
+      "source": "Clinical Trials Arena",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRk9PNllmNTlPX0taTWhpS3JOMDRFVE5XTXRSMUpXMjF2X0MxM3pZQTdxQ1J4eFFOZVhpeXNZaVVpNlIyWVhnYWVXTF9UMHRid25sYUdoNUxhdEhSNHpiTXlFTW83WkZsSmRSeUxvNlZsa19zS3dHdnhZX2Y4Wk1weVc4b1lzSmxmcDRObnp5ZW1MT2dONGRFUFpMeFJha01Q?oc=5",
+      "outcome": "Readout",
+      "phase": "Phase 2",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "Results are due Monday from a trial testing a gel to prevent skin cancer in people with Gorlin syndrome. - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2dHTDNLX19VSURUbjhCYXRmZlRvbEZlLWZOcHhuQ185ejBCNmlQeFFXTnJKMmtzcnNaaUF6M1NfOEZyQ2lhNXRTWEEtM0VoYllDUkhrT0VSa3ptbGhFSnMzaWZLTWE2cEJHTVJHWThVek5LU3ByR2loWkItTXdtQ3ZNS2lpX0M2LTQzX1UxTUJERGhTaVRHcjRpYUpON1RqMGR1U1dzTjZSVlNQQWtGM0J2VDR0Rk5iU3pV?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
@@ -182,6 +215,17 @@
       "headline": "Analgesic new drug from a subsidiary of Yangtze Life Sciences (00775.HK): clinical trial results are positive, with cata… - Longbridge",
       "source": "Longbridge",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0cThrbVRQRGlhM19DZVJ5Y1B0ank0b0czRmh1MTlWWDdGVFFmUGREdXJXeUxYTnVhNmpzZmE4Y3B4eFloc24yME5uYkd1ZjQ5TjI4?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "Patrys Begins Dosing of Second Cohort in RLS-2202 Delirium Drug Trial - Small Caps",
+      "source": "Small Caps",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHlNb3VaZVQ1SjlFb1NMQXNveUdHWUVtSUdJaHAzZmhHa2FBdUtXYS05Z1R3eXBpRk9ZaDhiWmRjbm9sUVgyajE1UkxTdzJUMFhPVkowNGpCZ2ltbUdhOExLNXd2RWFTc2hJc09icUJQMlBBN3FpazhUaEVBTmdrMXBoZGtLWG5mbG81MEhKaEpTRHdRUWVwODJUMjg2SF9HSmNucg?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
@@ -453,6 +497,28 @@
       "moa": ""
     },
     {
+      "date": "2026-11-25",
+      "headline": "FDA issues noncompliance letters to 2 biotechs over lack of trial data reporting - Fierce Biotech",
+      "source": "Fierce Biotech",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWgtR09TNkJNU2xzMjRaNjQtRzZDa1BhdnJZRFZwa1BqcEQtTmpVckZrem5KckZiMk5fZlhMM0lWWVJOaWEzZk0tdVY3T3hVXy1VcWZRaEdjSTN1NHBiTVVDMDFfR084b3FwUDUwRXNwekdWWTZST2xBWjBsOFctTV9XS3c2Q0JmR1dZbmxUS3VkZDlsNlJBTUZYVEk0TXVvZXFaRDlRU3dpNUxQZmtv?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Dutch researcher calls Aribio Alzheimer's drug trial a success despite mixed results - Chosunbiz",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmpEOXIwZGJjWVd2LXNzWlZ3QzNWTDBCS2xtWmVkc2doakpZRHhiWjk4ZU1qbG5OYV9yMjdmVUZsWWpYVlhVaUx5RmxrdGJZTTZ2ZHVFU1pMNkd5eUptcjdLX2hBVkpwSkNVeWo5WGNmY19ITndRU1pWWUhVTkVXbtIBlAFBVV95cUxQTEVndVFDT21TZVhHMGdCaTlwbk10QTZnN05CZEJEckVqdjlodTcyTl9GdlM0TUcxM0o2RWNDZkZsU2h1SEtRWlNBdTgxdTcwMFdvWW1ucGY1YncwenZPNnB3cnd4aENCQ004SEsxQXQ5NFZGWG1qdDJXV1pHb2dpS0duOEtLQ19kNUxFZDNqXzAzbF9w?oc=5",
+      "outcome": "Success",
+      "phase": "",
+      "significance": "Met primary",
+      "target": "",
+      "moa": ""
+    },
+    {
       "date": "2026-11-24",
       "headline": "Inclisiran reduced major adverse cardiovascular events in topline phase 3 ORION-4 results - 2 Minute Medicine",
       "source": "2 Minute Medicine",
@@ -710,6 +776,17 @@
       "headline": "Duke Signs On to LSALT Peptide Heart Surgery Kidney Trial; Genentech Study It Hosted Ended Early - Tech Times",
       "source": "Tech Times",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSk5TMmo0cHZycnpmZl9JRzMtaGFRWHNrd1p1WVMxNHpfMzJGemY2cFJ0SXdkTGkxV3k4X09TbUFhb3dQWW1CLUF6Q2dCWV9ZVElYRUwyN254ZjY3WVYtZTI0d0puRVRZdklaSEZ2eHptSk9PZ1Bub0ZjX1FkcnlzVTdwdUFpT0FqVkd5U0FPeTQ3S3hXbzJmSUFfbUFOVDFFaGhoY3hMNDhHQ2I0UEgtbWZwVlFFYXJRZV9fSkttSXNnMlNySHhNeW5jTW1ZNmMwaUVpX0tqZlpiR0RJ?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": ""
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Duke will be the first U.S. site in a trial testing a treatment to prevent or reduce kidney injury after heart surgery. - Stock Titan",
+      "source": "Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDNPMzFVd3pYTkgydVhvOFZpU25zMndyeUdZZ2xvaFNPV04zOE1hbnFqN2hJMTR1UHNXSFlfMm5jTndZLXI5THNRUUlUeTU5SDk3bDJvc3NMdGVPMnQtZ1NrM1FFd2p5RVU3ekhVdGNjS2hnclpUY1d6dUxrSEpKTGlfQ3JGRk1ER2M2TlJpMVNXT3NHYngzcnd2d2RLT2dDN29FVHlKTmJiTFpOZVc1eFdrSXJNcElUQ2dKYjlVV1BEUQ?oc=5",
       "outcome": "Readout",
       "phase": "",
       "significance": "",
@@ -1111,6 +1188,17 @@
       "significance": "",
       "target": "",
       "moa": ""
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "FDA snubs Capricor cell therapy again, questions trial integrity - EMJ",
+      "source": "EMJ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdk1YbU15Y3RnU0k3dUxfWlhXV3dvc2M4bUNsamdPbHhiZDBMS3JCT3lOdmM0a3lNWlphM1gyQzVMT3hHNVdDeVBiRndlNmlESTA2WHpiaXBEbldsOGVTMHpoUWsxMGNLRUJRTElEUkdGR19NZlpEbExSN0NaYUFFcXZmZEtxV3d5U2FsX2h6eTN4NXNraWQzcFpLU040aklrWHpaM0xHZEw?oc=5",
+      "outcome": "Readout",
+      "phase": "",
+      "significance": "",
+      "target": "",
+      "moa": "CAR-T / cell therapy"
     },
     {
       "date": "2026-11-22",
@@ -2657,94 +2745,6 @@
       "headline": "Helus Pharma Reports Positive Phase 3 HLP003 Results in Depression Study - TipRanks",
       "source": "TipRanks",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOElMQkV3Q3FpSGpHWHdVSk1tX051ZUlMc21hLVZhUkxwN3dxNUVRZmV5MEM5dFF4LXprNjBJY0MwNjNyd29ENWZUMEdQdGRnMVZkNnBGWU1KaGhPUm1ZOFpNX1pFYUtQeWpqQWkxeXRfQWZkWXJDU0diYUhGeUVmbWpYd0NnalF0WlE5ZG1peUtpb3NocFc4TGZfdkN0dGxzSVZvOXdRSGxiREMtZUtnNkRCMHVibjhRNXJncU1MQ3ZCdw?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 3",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Aclaris drops TSLP program from pipeline after flunking phase 2 eczema test - Fierce Biotech",
-      "source": "Fierce Biotech",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejQ0cW1PSXlRTk41UXFybkN4TWpwQnFJY0psSmd2N2s3WkdWbXIySmxXVlA4RmVnS2RCdzR0Rmp4cV9JYzluT0Y4YXIwSzRqbVZvUW5vaVQweHBMVVF0LXBYdWNPV0F0TEJzWVkzVXdmQkxJcnBGOXEwbzItcmhaMzlqbEZDdWNyekZoNjY5WkQ0RFh4ZlpydGRlSHNnZWNVOGZqSnRBWlZnbG13dUpWRFB3?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "TSLP",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Aclaris Therapeutics’ mAb fails in Phase II eczema trial - Clinical Trials Arena",
-      "source": "Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGlxZHVnRDdzdjd0a0ZUelZCZjN1M2NMY1dRTkl5TFdPc3pZeGs2N2F1eFMyT055d1lzMmI2MHNXNUxwV05mNlh2N19nVk5TZHB1bmtWcXd4WDZtbG1WN0VQWlBhcHBwb2VkcW43azNJMjI2QlRqRkpoTVR2UDNQc3NYbll0LVNka3gtYzRHRjA2UHpDVjNJYW9Ba2VVUQ?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 2",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": "Monoclonal antibody"
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Aclaris' Bosakitug Misses Phase 2 Endpoints in Atopic Dermatitis - Dermatology Times",
-      "source": "Dermatology Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTdZSG9YQW9hYl9NT2FTb2N1SWcxTktESXFjcS1BRzE2a2Z1QVpwd3JWX1pNM3VGWTI0VWdGY09sX0hPMnp6YmUxendWNGwtRzFBY2ZrSC1FZExqQ2lNSHhxX09mU0lqcHh0XzZiSXBsRGMxbG53RzVyQ1lNS1hmN2dja3I2d0xPV0Q2aVlCNXA3YnZtRktDekRoSnNzOGF1aVdr?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Rein Therapeutics Announces Preliminary Blinded Phase 2 RENEW Data Showing Encouraging Lung Function Trends in Patients with Idiopathic Pulmonary Fibrosis and Reports Third Quarter 2026 Financial Results - GlobeNewswire",
-      "source": "GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMU1xcGFqUU1rRk5YSlFCZTZ3MXZpVjdpTks2aGx5Mi1sbm82SWJMLVlTcVprS3gzdGh6Ul9TMTREUnFNNjZhNUctM1RncldfOUx3LU9jUVZuVzZnbW1ZSDJGYXJxRTFGTmt4SUU5aFhMbFhnMGI4U3VBeHZyMHNwOGlfWGZXdG1BLTF2bTJYSmJRclZlZ2FwUTR0dGx0aUs5MGZtQ3dvRlNXRC1QME5KNERIVUdEWWVZRVNXQnFkQlJobFFKZUVVZWVWdmxzQVgtUy04Y3AyTVhWUDRLOURTN1hJcEFraElrdjhhYTVKcGtUMHBiSHJEUWxael9HT19qTFlLeEtvQV90NjJ1ZGxBY1N2bnU2VWJmQnpTTHQ3Uy1uMlRfdmxiek1INXliUm5PTmpSU01vYTVHcHZabG4teDRsRm1xdUZKbE1VN3NPZTFuUGxNVnVmNVlIM2dzdVZfSU9MVWpIVGRIem45?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Allarity Therapeutics Expands Phase 2 Stenoparib Ovarian Cancer Trial to Additional Patient Cohorts - Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1VpZWtSdW1EaDM5cGNwam1Td0hBVV9aNGh0akd6VG1wV3pKOHFOSm5tVTdsUWh6WHR6eV9jeEp6SHVXaGhtMm10bFIyaGxnWXpwWnp6aFZ6SjQwbV9Oc1hoUjBLY21mdVNvbzNZSVRMRnNiYkhPc0paVDg4ZDZoYWM3UTUyV3NvajZOTkJLTDlEMHpKTEstR0Q2YTNRTks1TDA3WGVqZnpOTEo5aGpKYnNZNzlsUVRQcU5Pd3lYWl8xZjF2NjFVbW4xS3I?oc=5",
-      "outcome": "Readout",
-      "phase": "Phase 2",
-      "significance": "",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Aclaris phase 2 atopic dermatitis trial fails primary endpoint - Investing.com",
-      "source": "Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEt1SHpicFVyMmxqQkNfN1cwejJ0ZlhnalZvQ3FCaHp4blBwOU1VOG5iYjllNzZwcEtMVDVaYUFEQnphTkRMQkdlaDhiMmRNZVpjX1JDTHJSMjhHc2VscDNOdUN0SHM4RmpMWE16QnlHdG1aTk5Cbm8xd3lhS3I3bUx1cUl4dUQwSzhIVEhtc19ZdGhPSDYzVldYaDV2aVpzcW5CME5RdjNlNjhBM0tZTGFVV2MtX2hUcG9z?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 2",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "HLB Therapeutics' RGN-259 Fails U.S. Phase 3 Trial, Marking Sixth Straight Late-Stage Setback - BigGo Finance",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmMmhxVEM5aGZ4cFFuZFUzOVNMXzhjc2RHaGZmdDBYSlRFOXNmVHhUZzZVQVl6TGZWNDNpS20yWG1IQWMyWkZXZTZjQmRBaFJRNDVHcUh5V1puM0w3QjJNelVpR2NIaXAxeUk4U0VLNXJVTTNRUmc?oc=5",
-      "outcome": "Failed",
-      "phase": "Phase 3",
-      "significance": "Missed primary",
-      "target": "",
-      "moa": ""
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Amylyx Pharmaceuticals Presents Results from Phase 3 LUCIDITY Clinical Trial of Avexitide in Post-Bariatric Hypoglycemia at ObesityWeek® 2026 Annual Meeting - BioSpace",
-      "source": "BioSpace",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOMlY4N1FoMVpBSFctOVA1cXd0dVRKZWlReGg1U21fMGZFcVBRdXQ3TTd1eGN0Zi1xcTVFZjdmbmROanZLM0Y4dmVram13Z05uV1B3TEJBWTFIMlZzZzBsMHBIYnBXVHlmQmZxZlFjM09MWm9QYUd3b0cxeUFMV0pqdG9Gbjl0QWctTmFyMU1Ca0s0bllNQ3ZTeEpJWS1TVElrYzc3UUxuRVhSS1RhS040d3NUVXhFYi1nd1Q4Q3dVY1VaLVRDWjhUdk8zRGs3V3NSLUt6Z3Q3cXNYdGZIUm9pQjZjRTl4YkxfQ0NJS0VtbTNLRk9RYkJYTnZ3RXhzTDhaYk5fVzgxR0FHRTBNNkp4bFBhUi1ZQXA1Q283VDZ0b0w?oc=5",
       "outcome": "Readout",
       "phase": "Phase 3",
       "significance": "",
