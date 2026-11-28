@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T16:34:50+00:00",
+  "generated": "2026-11-28T15:27:09+00:00",
   "deals": [
     {
       "date": "2026-11-27",
@@ -52,6 +52,39 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRHR3RXN5Qm13Rk5YbE1lUDhOdnoxSlVFSlBhOVFlVEs2MDBOQkZCZXNGUE9xVDk5T1dYTTM4RkY0NXdfLThkaTZhRjlkTmdFOUp3S0ZUTDYxMDdRZ1hPMGMtdkdDY3NaRGxKSFBoRGpOcl9qa19Dc3BhS2stSS01NXZFZ0tnT0twYXdvNjZyTWMzRDk1Yk96WDZjeFR1eWFqWVlMeGN3WnE?oc=5",
       "type": "M&A",
       "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "UK: EQT Healthcare Growth to acquire majority stake in specialty pharma group Kelso Pharma - Investors in Healthcare",
+      "source": "Investors in Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYnJGdmgxTjQ4TmFlNS1yend5aXZZcWowcWFTN0doQ2UtVmg4bGRaSlZicjY5LTJnTmxmM1A5dVdiaVItRDh6aGVuSkFLbW02R1VSNTZ3WTY0WnQzeG9VWGJTdW5LRXBLMWROd1NRbmFhU2JtV0FwMGtNaDNVWEZQdEhPeHJGeVhhUjFrWmZob2VYZmF6YmpIUTF5bXM1OGJnRnZBbC1CTjlOVlc2bDl4UlFKTUNWY0dkaVY4T2Yta2ZlQ295Mm9vNlR4UDh0SEY5eUpZUkZ0MWpNMG9hbXltQm8xNkVSZw?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "EQT Healthcare Growth to acquire majority stake in specialty European pharmaceutical business, Kelso Pharma - BeBeez International",
+      "source": "BeBeez International",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0tEa2NjZTdRdkxKYmJuRll1ZDVGY3BuV1E0Z3AyQWc1NjJWb2FKWGI2UU9lUHlBdWppYlJrSm9GTzU3M2NhZnhzNTRlRnFvSko3R2tDd1I1eXV6bFo3NGRpQldWYUQ4ajJsMWlQSXlsTllXcWRaN1NHS2VtNUhWVDNGaThHbEJiaUhsaUdkTWF3eWpUVVFHUkNEQkdJV2VqOThTOWV2RV9RZTFzbFN2cEVFd3BwUGdzY0o1UE1oQTZxdEp0OUI5b3ZrellrX3hQNHc?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "Pharma week in review: $41bn biotech buyout, Medicare price cuts, and Indian R&D push - Новости GxP",
+      "source": "Новости GxP",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmV4bndfektCY0xKN2R4d3hwdmxJemVMNkV2WTJXN2cxOXM2VmVBZ2NiNDJFQ2k2RWtGa2NDRjFZZVZRdTFzNVFuSERDQ0FNYkdyaHdfTjhtTWlqZEFJLUR0RTNmbEFWOWJESUt6R1liSUJyd0k3MWY5Y0FiVFZ6XzN5djVTOTRGeHJ5RThtRDFjZ0d2Qy1hVkh1WVZVMGc2S2lVUGVvNEQ5RndmQ0RtS2RB0gGyAUFVX3lxTE5mZXhud196S0JjTEo3ZHh3eHB2bEl6ZUw2RXZZMlc3ZzE5czZWZUFnY2I0MkVDaTZFa0ZrY0NGMVllVlF1MXM1UW5IRENDQU1iR3Jod19OOG1NaWpkQUktRHRFM2ZsQVY5YkRJS3pHWWJJQnJ3STcxZjljQWJUVnpfM3l2NVM5NEZ4cnlFOG1EMWNnR3ZDLWFWSHVZVlUwZzZLaVVQZW80RDlGd2ZDRG1LZEE?oc=5",
+      "type": "M&A",
+      "value": "$41bn",
       "area": "",
       "modality": "",
       "stage": ""
@@ -354,6 +387,28 @@
       "stage": ""
     },
     {
+      "date": "2026-11-24",
+      "headline": "Pharma’s biggest acquisition in 3 years gives Sanofi a broader drug portfolio - eMarketer",
+      "source": "eMarketer",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLURVbzE1TWNZbXFxMjVuUmVxWUY1aEFTRlMxcXlSUF92d0VjR2YtTWtVSXhrcE9MMGVoWGhWc0RXbjVkcGRtQU93Rk56UDFQV0xrQ08tVFY1X2dsQWt5UGc5VmNhMDZuczhGbEp2UEdPX0NtaUtkU1daQURUU0dySFlqbjJaX3ExeUllRER0S3RtaWV1b3M4VXJ4X1ZTdTh2VzhLcEZfckFJQQ?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Pharma Co. Exec Tipped Family On Acquisition, SEC Says - Law360",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU3dzY1ZMWDNhNWM2QXg3Y2UwUEllcUZ4SkxSekl6eUl2TkxsVzdaajVFOGlZUG82WWd4b2tjRFpKdEE0U25UWG1Sd0k5RFk4X1lHaUhQTGJrd0UzbHJFR0UtWWVqMjVVdERQci13dVA0ZmxtUDdUQ21OcGFiMk5HdVk4cHZKSFFBcmVsSFBJbnRtS211ejlV0gFWQVVfeXFMTTN2YkdldWFmUjhOWjBtLUVNNE5fbkJ0cmtCQ1JycXJWdk90bHFLTHBiU1QzVmVpSTRUWS11NDIyOURUWlVvM3dBWVVOOVV3VFQwTk1CeGc?oc=5",
+      "type": "M&A",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
       "date": "2026-11-23",
       "headline": "Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more - STAT",
       "source": "STAT",
@@ -615,6 +670,17 @@
       "value": "$2.5B",
       "area": "",
       "modality": "Bispecific",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "PFE Inks $2.6B Licensing Deal With Chinese Biotech for CAR-T Therapies - Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2JkYWozVjdEaEVKeU02RTVuR3pYSG9KMWxfcXJjWWhNQlFVRDBpTG1MT3VhcHUyYlBqa3lDQ0NCVG1GZDFWbUdmaWk3MlNOUU9DMThuaHZ2Vk1BS0t5ZXlUSEdiV1E3YklhODM4RXFPOFFiVGgweEtHc0M1dktfaFRvc25RMkdRalpfUG1FX05YRW9oVi1ZSTVGSjNyZ2R6dHNTVlFJQlRzcFRUckE?oc=5",
+      "type": "Licensing",
+      "value": "$2.6B",
+      "area": "",
+      "modality": "Cell therapy",
       "stage": ""
     },
     {
@@ -1458,6 +1524,17 @@
       "headline": "BDR Pharma to acquire stake in Acme’s oral solid formulations business - The Hindu",
       "source": "The Hindu",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUTJfdENXQnc4dFJsb1paSHJoY2lRdHE1bjVGN180WXpUaDE4aTl5UHFSTmVHRV9nTWhtd21XdGYxLUdLallWRHB1MlpwWjZKWHI1dzgxUEtkUTdHN2RSZUotaHEyektjYlFXbDZZQnd6OGxYbVAzMmk0VzZWR3R4TkZzUkVtUnNzRzdJTEtxdzdnZXR2MnpqS0VLYUtzVW9BaDFVb1BXdC1saWF6VHlwZGx5bE1jY0lvZnVBTTdKSDLSAccBQVVfeXFMTm1MdnpVN1NHS1E4cW40dnJydUp1NmZzdHJ0OWczWVU5UnRjYlRTZU5MbmkyNC1nc2s5Q0FmT3k2R0h2MzhQZlUzVl8xNER6Q1VFbnpabkttczhIN3ptQVZHU0JHLVEyWnlHRzdRb3F0dWdxSnNSNDc1MVBNZFNUWW1vUHprRGpEeFhDeXRQdm03bjN4YnFyVjNZWC03eVNDRTZyZ0M0NHVOZ2FEUzRKNFdaa01lcmVhQ1ZBWWM2a2tzVDlaRVVIbw?oc=5",
+      "type": "Deal",
+      "value": "",
+      "area": "",
+      "modality": "",
+      "stage": ""
+    },
+    {
+      "date": "2026-11-09",
+      "headline": "BDR Pharma to acquire a controlling stake in Acme’s oral solid formulations business from PAG - PAG Private Equity",
+      "source": "PAG Private Equity",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQXB4ZzBfaG01WGJhQ1c2bnVZaFM2ZVM3ajhybGxwWWNtTi1PT3VoS0ZERzlfc3lYVk9TNVdzaGdBTkM1OXU5YjA4Z0lRREgxY1pjSG8weG1JOVVNc2FhWXVnZWRfblFYRElwVFEwOHJUcERFcjk2bF9ZQzhVaWk5Sk1WWEpCLWNva3NLVXgzTXRXOXIwMy15ZnlGQWV2ZUtoN3ppcWpBRVpacFJURzI2ME9mdnpWblJRdlZmQjVsWVJvZw?oc=5",
       "type": "Deal",
       "value": "",
       "area": "",
@@ -2671,83 +2748,6 @@
       "type": "M&A",
       "value": "",
       "area": "Hepatology",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-08",
-      "headline": "Ono Pharma inks license agreement with Biohaven - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXBnaVFuZ2hyaUZ4QklYUWtfUWlpd3Ntb3kxRUVaaWNjS05xb1dtQlZyY0pXYmZtZHlaZFZJZ0VNMWZZbHRvd2w4SlJocGQwbVJDOUNQaGRhdXU4YkNOaEc4dXRqbG1FX1RYYmdjbjV4QURybGxwZk8zZ2JQcUh2WTJVeVNOdGlqT0tCQlNSclFJVFN6Q1VZ?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-08",
-      "headline": "Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines - STAT",
-      "source": "STAT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekc5MzctUXNialBVOVNZQ1UxR0s1VnRIUTdHVlVFaVAwXzEwLVUxUDRqekNaTHR1MGw0N1FkUzFPeHVRbmJZcXVrY0tjd0wzMWMxZTZtMGNMRXJraTc2YXFlSnQyUFU2Q1VkZ0NLdTMxX1RPdlNwSURpQ25NUGZMOUFhMG1ZSmtUUmRCNQ?oc=5",
-      "type": "Deal",
-      "value": "",
-      "area": "",
-      "modality": "Protein degrader",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-08",
-      "headline": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
-      "source": "",
-      "link": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
-      "type": "M&A",
-      "value": "$1.7B",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-08",
-      "headline": "Viatris to make $1.65B Pacira acquisition, adding to momentum in pain",
-      "source": "",
-      "link": "https://endpoints.news/viatris-to-make-1-65b-pacira-acquisition-adding-to-momentum-in-pain/",
-      "type": "M&A",
-      "value": "$1.65B",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-07",
-      "headline": "Asieris signs licensing agreement with Theramex for Cevira - The Pharma Letter",
-      "source": "The Pharma Letter",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVp0em5wd3NSYkhTX05iQ1hPQkczU0U3NV9rR0RpaGRyWnJ4Q05HNHUzc1JDbUl0aDJVQkNLY0loSkx4anJmanlEelQxeTh3X2hxel94S0ozd2xtSm15UDhHUHhLN0UzWEJvR0NIQjFqd0ttV1B6ekJONF9qVms4elY5NzAzZVRmOVJpbGtYY2lyazFhT1ZSbWl1MGpWamhPb3hmYg?oc=5",
-      "type": "Licensing",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-07",
-      "headline": "Tavexia Lifecare board approves ₹67.19 crore acquisition of Meyonex Pharma - scanx.trade",
-      "source": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQWZnUTF0SlFnZERYVjVMR25Ud2VFTkFBMmhVd2taaWNJRVRTX2RGdm1rQUZvRTNZbi1JT3NLRG5TdXVENFl0SUJqbDgtNnFSazRmaXRyUkswb0lEYlVIMUFZV01HYlc3TWlaMkNHZDBJTGwxbFdJYkRhamNHeDV0QUlTb0R5Rk82MTExR0ZwTmtoZy04SVY3T0JuY2RYUzM1NlBmbnRlM3RDWmJtbFNqd3FVR0JxbGlLUXVBWFRyVXowOVg4RXc?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
-      "modality": "",
-      "stage": ""
-    },
-    {
-      "date": "2026-10-06",
-      "headline": "Pharma Foods International Co Ltd - Notice Regarding Acquisition Of Shares Of Marine Pro Foods Co., Ltd. (To Make It A Subsidiary) - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaXhDaTdadVlXOTJOaDlSWnRiNW1BV1FNRDB1MWFmSjRXZV9mTExCUnRVMmlRV2poOWlEYnlpTEhHLXAzdEJhYklSem44Mm1Ia2JheW8zTXRuWTRtMWVpRWtCMEtfM3lHc3FjS1VRa2ltUEd3VEozRE4xZURRZ3RKbXR2TXZHTG9PcHk5dnZhVk9od0NwalgyMFM3QVpGcW5MYWVMLXZfRVoxLUxrVkRJNUI5QU1yVU9vLVcyMWxLRHU4elk3QmdheDNva3BaOG55bkF1V3ZRNGluMGhwMHdiXzR2eHNCTF9XLUVKaEJJaWx5b1JMemhTX2Q1VFFYWE1kVGhWcDFfamFKZXd3ZzFlQ1BSTTZEcm5tZ2RCSnJ3?oc=5",
-      "type": "M&A",
-      "value": "",
-      "area": "",
       "modality": "",
       "stage": ""
     }
